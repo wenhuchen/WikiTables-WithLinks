@@ -1,0 +1,188 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_distributed_file_systems",
+  "title": "Comparison of distributed file systems",
+  "header": [
+    [
+      "Client",
+      null
+    ],
+    [
+      "Written in",
+      null
+    ],
+    [
+      "License",
+      null
+    ],
+    [
+      "Access API",
+      null
+    ]
+  ],
+  "data": [
+    [
+      [
+        "BeeGFS",
+        "/wiki/BeeGFS"
+      ],
+      [
+        "C / C++",
+        null
+      ],
+      [
+        "FRAUNHOFER FS (FhGFS) EULA,\nGPLv2 client",
+        null
+      ],
+      [
+        "POSIX",
+        "/wiki/Posix#POSIX.1"
+      ]
+    ],
+    [
+      [
+        "ObjectiveFS",
+        "/wiki/ObjectiveFS"
+      ],
+      [
+        "C",
+        null
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "POSIX,FUSE",
+        "/wiki/Posix#POSIX.1 /wiki/Filesystem_in_Userspace"
+      ]
+    ],
+    [
+      [
+        "Spectrum Scale (GPFS)",
+        "/wiki/GPFS"
+      ],
+      [
+        "C, C++",
+        null
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "POSIX,SMB",
+        "/wiki/POSIX /wiki/Server_Message_Block"
+      ]
+    ],
+    [
+      [
+        "MapR-FS",
+        "/wiki/MapR_FS"
+      ],
+      [
+        "C, C++",
+        null
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "POSIX,NFS,FUSE,S3",
+        "/wiki/Posix#POSIX.1 /wiki/Network_File_System /wiki/Filesystem_in_Userspace /wiki/Amazon_S3"
+      ]
+    ],
+    [
+      [
+        "PanFS",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "C, C++",
+        null
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "DirectFlow,POSIX,NFS,SMB/CIFS,HTTP,CLI",
+        "/wiki/Panasas#DirectFlow /wiki/POSIX /wiki/Network_File_System /wiki/Server_Message_Block /wiki/Hypertext_Transfer_Protocol /wiki/Command-line_interface"
+      ]
+    ],
+    [
+      [
+        "Infinit",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "C++",
+        null
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "FUSE,Installable File System,NFS,SMB,POSIX,CLI,SDK",
+        "/wiki/Filesystem_in_Userspace /wiki/Installable_File_System /wiki/Network_File_System /wiki/Server_Message_Block /wiki/Posix#POSIX.1 /wiki/Command-line_interface /wiki/Software_Development_Kit"
+      ]
+    ],
+    [
+      [
+        "Isilon OneFS",
+        "/wiki/OneFS_distributed_file_system"
+      ],
+      [
+        "C/C++",
+        null
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "POSIX,NFS,SMB/CIFS,HDFS,HTTP,FTP,CLI",
+        "/wiki/Posix#POSIX.1 /wiki/Network_File_System /wiki/SMB/CIFS /wiki/HDFS /wiki/HTTP /wiki/FTP /wiki/Command-line_interface"
+      ]
+    ],
+    [
+      [
+        "Scality",
+        "/wiki/Scality"
+      ],
+      [
+        "C",
+        null
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "FUSE,NFS file system,REST,AWS S3",
+        "/wiki/Filesystem_in_Userspace /wiki/NFS_file_system /wiki/Representational_state_transfer /wiki/AWS_S3"
+      ]
+    ],
+    [
+      [
+        "Quobyte",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "Java, C++",
+        null
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "POSIX,FUSE,NFS,SMB/CIFS,HDFS,AWS S3,Tensorflow Plugin,CLI",
+        "/wiki/Posix#POSIX.1 /wiki/Filesystem_in_Userspace /wiki/Network_File_System /wiki/SMB/CIFS /wiki/HDFS /wiki/AWS_S3 /wiki/Tensorflow /wiki/Command-line_interface"
+      ]
+    ]
+  ],
+  "context": "",
+  "idx": 10044
+}

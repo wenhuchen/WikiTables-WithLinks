@@ -1,0 +1,386 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Timeline_of_programming_languages",
+  "title": "Timeline of programming languages",
+  "header": [
+    [
+      "Year",
+      null
+    ],
+    [
+      "Name",
+      null
+    ],
+    [
+      "Chief developer, company",
+      null
+    ],
+    [
+      "Predecessor(s)",
+      null
+    ]
+  ],
+  "data": [
+    [
+      [
+        "2000",
+        null
+      ],
+      [
+        "Join Java",
+        "/wiki/Join_Java"
+      ],
+      [
+        "G Stewart von Itzstein",
+        null
+      ],
+      [
+        "Java",
+        null
+      ]
+    ],
+    [
+      [
+        "2000",
+        null
+      ],
+      [
+        "DarkBasic",
+        "/wiki/DarkBASIC"
+      ],
+      [
+        "The Game Creators",
+        "/wiki/The_Game_Creators"
+      ],
+      [
+        "",
+        null
+      ]
+    ],
+    [
+      [
+        "2000",
+        null
+      ],
+      [
+        "C#",
+        "/wiki/C_Sharp_(programming_language)"
+      ],
+      [
+        "Anders Hejlsberg,Microsoft,ECMA",
+        "/wiki/Anders_Hejlsberg /wiki/Microsoft /wiki/Ecma_International"
+      ],
+      [
+        "C, C++, Java, Delphi, Modula-2",
+        null
+      ]
+    ],
+    [
+      [
+        "2001",
+        null
+      ],
+      [
+        "Joy",
+        "/wiki/Joy_(programming_language)"
+      ],
+      [
+        "Manfred von Thun",
+        null
+      ],
+      [
+        "FP, Forth",
+        null
+      ]
+    ],
+    [
+      [
+        "2001",
+        null
+      ],
+      [
+        "AspectJ",
+        "/wiki/AspectJ"
+      ],
+      [
+        "Gregor Kiczales,Xerox PARC",
+        "/wiki/Gregor_Kiczales /wiki/PARC_(company)"
+      ],
+      [
+        "Java, Common Lisp",
+        null
+      ]
+    ],
+    [
+      [
+        "2001",
+        null
+      ],
+      [
+        "D",
+        "/wiki/D_(programming_language)"
+      ],
+      [
+        "Walter Bright",
+        "/wiki/Walter_Bright"
+      ],
+      [
+        "C, C++, C#, Java",
+        null
+      ]
+    ],
+    [
+      [
+        "2001",
+        null
+      ],
+      [
+        "Processing",
+        "/wiki/Processing_(programming_language)"
+      ],
+      [
+        "Casey Reas,Benjamin Fry",
+        "/wiki/Casey_Reas /wiki/Benjamin_Fry"
+      ],
+      [
+        "Java,C,C++",
+        "/wiki/Java_(programming_language) /wiki/C_(programming_language) /wiki/C%2B%2B"
+      ]
+    ],
+    [
+      [
+        "2001",
+        null
+      ],
+      [
+        "Visual Basic .NET",
+        "/wiki/Visual_Basic_.NET"
+      ],
+      [
+        "Microsoft",
+        "/wiki/Microsoft"
+      ],
+      [
+        "Visual Basic",
+        null
+      ]
+    ],
+    [
+      [
+        "2001",
+        null
+      ],
+      [
+        "GDScript",
+        "/wiki/GDScript"
+      ],
+      [
+        "OKAM Studio",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "Godot",
+        "/wiki/Godot_(game_engine)"
+      ]
+    ],
+    [
+      [
+        "2001",
+        null
+      ],
+      [
+        "Shakespeare Programming Language",
+        "/wiki/Shakespeare_Programming_Language"
+      ],
+      [
+        "Jon \u00c5slund and Karl Hasselstr\u00f6m.",
+        null
+      ],
+      [
+        "",
+        null
+      ]
+    ],
+    [
+      [
+        "2002",
+        null
+      ],
+      [
+        "Io",
+        "/wiki/Io_(programming_language)"
+      ],
+      [
+        "Steve Dekorte",
+        null
+      ],
+      [
+        "Self, NewtonScript, Lua",
+        null
+      ]
+    ],
+    [
+      [
+        "2002",
+        null
+      ],
+      [
+        "Gosu",
+        "/wiki/Gosu_(programming_language)"
+      ],
+      [
+        "Guidewire Software",
+        null
+      ],
+      [
+        "GScript",
+        null
+      ]
+    ],
+    [
+      [
+        "2002",
+        null
+      ],
+      [
+        "Scratch",
+        "/wiki/Scratch_(programming_language)"
+      ],
+      [
+        "Mitchel Resnick",
+        "/wiki/Mitchel_Resnick"
+      ],
+      [
+        "Logo,Smalltalk,Squeak,E-Toys,HyperCard,BYOB",
+        "/wiki/Logo_(programming_language) /wiki/Smalltalk /wiki/Squeak /wiki/Squeak#E-Toys /wiki/HyperCard /wiki/BYOB_(programming_language)"
+      ]
+    ],
+    [
+      [
+        "2003",
+        null
+      ],
+      [
+        "Nemerle",
+        "/wiki/Nemerle"
+      ],
+      [
+        "Wroc\u0142aw",
+        "/wiki/Wroc%C5%82aw"
+      ],
+      [
+        "ML",
+        "/wiki/Standard_ML"
+      ]
+    ],
+    [
+      [
+        "2003",
+        null
+      ],
+      [
+        "Factor",
+        "/wiki/Factor_(programming_language)"
+      ],
+      [
+        "Slava Pestov",
+        "/wiki/Slava_Pestov"
+      ],
+      [
+        "Joy, Forth, Lisp",
+        null
+      ]
+    ],
+    [
+      [
+        "2003",
+        null
+      ],
+      [
+        "Scala",
+        "/wiki/Scala_(programming_language)"
+      ],
+      [
+        "Martin Odersky",
+        "/wiki/Martin_Odersky"
+      ],
+      [
+        "Smalltalk, Java, Haskell, Standard ML, OCaml",
+        null
+      ]
+    ],
+    [
+      [
+        "2003",
+        null
+      ],
+      [
+        "C++03",
+        "/wiki/C%2B%2B03"
+      ],
+      [
+        "C++ ISO/IEC 14882:2003",
+        null
+      ],
+      [
+        "C++,C",
+        "/wiki/C%2B%2B /wiki/C_(programming_language)"
+      ]
+    ],
+    [
+      [
+        "2003",
+        null
+      ],
+      [
+        "Squirrel",
+        "/wiki/Squirrel_(programming_language)"
+      ],
+      [
+        "Alberto Demichelis",
+        null
+      ],
+      [
+        "Lua",
+        null
+      ]
+    ],
+    [
+      [
+        "2003",
+        null
+      ],
+      [
+        "Boo",
+        "/wiki/Boo_(programming_language)"
+      ],
+      [
+        "Rodrigo B. de Oliveira",
+        null
+      ],
+      [
+        "Python, C#",
+        null
+      ]
+    ],
+    [
+      [
+        "2004",
+        null
+      ],
+      [
+        "Subtext",
+        "/wiki/Subtext_(programming_language)"
+      ],
+      [
+        "Jonathan Edwards",
+        null
+      ],
+      [
+        "none (unique language)",
+        null
+      ]
+    ]
+  ],
+  "context": "",
+  "idx": 14948
+}

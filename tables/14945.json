@@ -1,0 +1,386 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Timeline_of_programming_languages",
+  "title": "Timeline of programming languages",
+  "header": [
+    [
+      "Year",
+      null
+    ],
+    [
+      "Name",
+      null
+    ],
+    [
+      "Chief developer, company",
+      null
+    ],
+    [
+      "Predecessor(s)",
+      null
+    ]
+  ],
+  "data": [
+    [
+      [
+        "1970",
+        null
+      ],
+      [
+        "Forth",
+        "/wiki/Forth_(programming_language)"
+      ],
+      [
+        "Charles H. Moore",
+        "/wiki/Charles_H._Moore"
+      ],
+      [
+        "",
+        null
+      ]
+    ],
+    [
+      [
+        "1970",
+        null
+      ],
+      [
+        "POP-2",
+        "/wiki/POP-2"
+      ],
+      [
+        "Robin Popplestone",
+        "/wiki/Robin_Popplestone"
+      ],
+      [
+        "POP-1",
+        null
+      ]
+    ],
+    [
+      [
+        "1970",
+        null
+      ],
+      [
+        "SAIL",
+        "/wiki/SAIL_(programming_language)"
+      ],
+      [
+        "Bob Sproull",
+        "/wiki/Bob_Sproull"
+      ],
+      [
+        "ALGOL-60",
+        null
+      ]
+    ],
+    [
+      [
+        "1970",
+        null
+      ],
+      [
+        "Pascal",
+        "/wiki/Pascal_(programming_language)"
+      ],
+      [
+        "Niklaus Wirth",
+        "/wiki/Niklaus_Wirth"
+      ],
+      [
+        "ALGOL 60, ALGOL W",
+        null
+      ]
+    ],
+    [
+      [
+        "1970",
+        null
+      ],
+      [
+        "BLISS",
+        "/wiki/BLISS"
+      ],
+      [
+        "Carnegie Mellon University",
+        "/wiki/Carnegie_Mellon_University"
+      ],
+      [
+        "ALGOL",
+        null
+      ]
+    ],
+    [
+      [
+        "1971",
+        null
+      ],
+      [
+        "KRL",
+        "/wiki/KRL_(programming_language)"
+      ],
+      [
+        "Daniel G. Bobrow,Xerox PARC,Terry Winograd,Stanford University",
+        "/wiki/Daniel_G._Bobrow /wiki/Xerox_PARC /wiki/Terry_Winograd /wiki/Stanford_University"
+      ],
+      [
+        "KM, FRL (MIT)",
+        null
+      ]
+    ],
+    [
+      [
+        "1971",
+        null
+      ],
+      [
+        "Sue",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "Ric Holt,University of Toronto",
+        "/wiki/Ric_Holt /wiki/University_of_Toronto"
+      ],
+      [
+        "Pascal, XPL",
+        null
+      ]
+    ],
+    [
+      [
+        "1971",
+        null
+      ],
+      [
+        "Compiler Description Language",
+        "/wiki/Compiler_Description_Language"
+      ],
+      [
+        "Cornelis H.A. Koster,University of Nijmegen",
+        "/wiki/Cornelis_H.A._Koster /wiki/University_of_Nijmegen"
+      ],
+      [
+        "",
+        null
+      ]
+    ],
+    [
+      [
+        "1972",
+        null
+      ],
+      [
+        "Smalltalk-72",
+        "/wiki/Smalltalk-72"
+      ],
+      [
+        "Alan Kay,Adele Goldberg,Dan Ingalls,Xerox PARC",
+        "/wiki/Alan_Kay /wiki/Adele_Goldberg_(computer_scientist) /wiki/Dan_Ingalls /wiki/PARC_(company)"
+      ],
+      [
+        "Simula 67",
+        null
+      ]
+    ],
+    [
+      [
+        "1972",
+        null
+      ],
+      [
+        "PL/M",
+        "/wiki/PL/M"
+      ],
+      [
+        "Gary Kildall,Digital Research",
+        "/wiki/Gary_Kildall /wiki/Digital_Research"
+      ],
+      [
+        "PL/I, ALGOL, XPL",
+        null
+      ]
+    ],
+    [
+      [
+        "1972",
+        null
+      ],
+      [
+        "K&R C",
+        "/wiki/C_(programming_language)"
+      ],
+      [
+        "Dennis Ritchie",
+        "/wiki/Dennis_Ritchie"
+      ],
+      [
+        "B, BCPL, ALGOL 68",
+        null
+      ]
+    ],
+    [
+      [
+        "1972",
+        null
+      ],
+      [
+        "INTERCAL",
+        "/wiki/INTERCAL"
+      ],
+      [
+        "Don Woods",
+        "/wiki/Don_Woods_(programmer)"
+      ],
+      [
+        "none (unique language)",
+        null
+      ]
+    ],
+    [
+      [
+        "1972",
+        null
+      ],
+      [
+        "Prolog",
+        "/wiki/Prolog"
+      ],
+      [
+        "Alain Colmerauer",
+        "/wiki/Alain_Colmerauer"
+      ],
+      [
+        "2-level W-Grammar",
+        null
+      ]
+    ],
+    [
+      [
+        "1972",
+        null
+      ],
+      [
+        "SQL",
+        "/wiki/SQL"
+      ],
+      [
+        "IBM",
+        "/wiki/IBM"
+      ],
+      [
+        "ALPHA, Quel (Ingres)",
+        null
+      ]
+    ],
+    [
+      [
+        "1973",
+        null
+      ],
+      [
+        "COMAL",
+        "/wiki/COMAL"
+      ],
+      [
+        "B\u00f8rge Christensen, Benedict L\u00f8fstedt",
+        null
+      ],
+      [
+        "Pascal, BASIC",
+        null
+      ]
+    ],
+    [
+      [
+        "1973",
+        null
+      ],
+      [
+        "ML",
+        "/wiki/ML_(programming_language)"
+      ],
+      [
+        "Robin Milner",
+        "/wiki/Robin_Milner"
+      ],
+      [
+        "",
+        null
+      ]
+    ],
+    [
+      [
+        "1973",
+        null
+      ],
+      [
+        "LIS",
+        "/wiki/LIS_(programming_language)"
+      ],
+      [
+        "Jean Ichbiah,CII Honeywell Bull",
+        "/wiki/Jean_Ichbiah /wiki/Groupe_Bull"
+      ],
+      [
+        "Pascal, Sue",
+        null
+      ]
+    ],
+    [
+      [
+        "1973",
+        null
+      ],
+      [
+        "Speakeasy-3",
+        "/wiki/Speakeasy_(computational_environment)"
+      ],
+      [
+        "Argonne National Laboratory",
+        "/wiki/Argonne_National_Laboratory"
+      ],
+      [
+        "Speakeasy-2",
+        null
+      ]
+    ],
+    [
+      [
+        "1974",
+        null
+      ],
+      [
+        "CLU",
+        "/wiki/CLU_(programming_language)"
+      ],
+      [
+        "Barbara Liskov",
+        "/wiki/Barbara_Liskov"
+      ],
+      [
+        "ALGOL 60, Lisp, Simula",
+        null
+      ]
+    ],
+    [
+      [
+        "1974",
+        null
+      ],
+      [
+        "MAINSAIL",
+        null
+      ],
+      [
+        "Stanford University",
+        null
+      ],
+      [
+        "SAIL",
+        "/wiki/SAIL_(programming_language)"
+      ]
+    ]
+  ],
+  "context": "",
+  "idx": 14945
+}

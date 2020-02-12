@@ -1,0 +1,386 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Timeline_of_programming_languages",
+  "title": "Timeline of programming languages",
+  "header": [
+    [
+      "Year",
+      null
+    ],
+    [
+      "Name",
+      null
+    ],
+    [
+      "Chief developer, company",
+      null
+    ],
+    [
+      "Predecessor(s)",
+      null
+    ]
+  ],
+  "data": [
+    [
+      [
+        "2010",
+        null
+      ],
+      [
+        "Rust",
+        "/wiki/Rust_(programming_language)"
+      ],
+      [
+        "Mozilla",
+        "/wiki/Mozilla"
+      ],
+      [
+        "Alef,C++,Camlp4,Erlang,Hermes,Limbo,Napier88,Newsqueak,Sather,Standard ML",
+        "/wiki/Alef_(programming_language) /wiki/C%2B%2B /wiki/Camlp4 /wiki/Erlang_(programming_language) /wiki/Hermes_(programming_language) /wiki/Limbo_(programming_language) /wiki/Napier88 /wiki/Newsqueak /wiki/Sather /wiki/Standard_ML"
+      ]
+    ],
+    [
+      [
+        "2011",
+        null
+      ],
+      [
+        "C11",
+        "/wiki/C11_(C_standard_revision)"
+      ],
+      [
+        "C11 ISO/IEC 9899:2011",
+        null
+      ],
+      [
+        "",
+        null
+      ]
+    ],
+    [
+      [
+        "2011",
+        null
+      ],
+      [
+        "Ceylon",
+        "/wiki/Ceylon_Project"
+      ],
+      [
+        "Red Hat",
+        "/wiki/Red_Hat"
+      ],
+      [
+        "Java",
+        "/wiki/Java_(programming_language)"
+      ]
+    ],
+    [
+      [
+        "2011",
+        null
+      ],
+      [
+        "Dart",
+        "/wiki/Dart_(programming_language)"
+      ],
+      [
+        "Google",
+        "/wiki/Google"
+      ],
+      [
+        "Java,JavaScript,CoffeeScript,Go",
+        "/wiki/Java_(programming_language) /wiki/JavaScript /wiki/CoffeeScript /wiki/Go_(programming_language)"
+      ]
+    ],
+    [
+      [
+        "2011",
+        null
+      ],
+      [
+        "C++11",
+        "/wiki/C%2B%2B11"
+      ],
+      [
+        "C++ ISO/IEC 14882:2011",
+        null
+      ],
+      [
+        "C++,C",
+        "/wiki/C%2B%2B /wiki/C_(programming_language)"
+      ]
+    ],
+    [
+      [
+        "2011",
+        null
+      ],
+      [
+        "Kotlin",
+        "/wiki/Kotlin_(programming_language)"
+      ],
+      [
+        "JetBrains",
+        "/wiki/JetBrains"
+      ],
+      [
+        "Java,Scala,Groovy,C#,Gosu",
+        "/wiki/Java_(programming_language) /wiki/Scala_(programming_language) /wiki/Groovy_(programming_language) /wiki/C_Sharp_(programming_language) /wiki/Gosu_(programming_language)"
+      ]
+    ],
+    [
+      [
+        "2011",
+        null
+      ],
+      [
+        "Red",
+        "/wiki/Red_(programming_language)"
+      ],
+      [
+        "Nenad Rakocevic",
+        null
+      ],
+      [
+        "Rebol,Scala,Lua",
+        "/wiki/Rebol /wiki/Scala_(programming_language) /wiki/Lua_(programming_language)"
+      ]
+    ],
+    [
+      [
+        "2011",
+        null
+      ],
+      [
+        "MonkeyX",
+        null
+      ],
+      [
+        "Mark Sibly",
+        null
+      ],
+      [
+        "",
+        null
+      ]
+    ],
+    [
+      [
+        "2011",
+        null
+      ],
+      [
+        "Opa",
+        "/wiki/Opa_(programming_language)"
+      ],
+      [
+        "MLstate",
+        null
+      ],
+      [
+        "OCaml,Erlang,JavaScript",
+        "/wiki/OCaml /wiki/Erlang_(programming_language) /wiki/JavaScript"
+      ]
+    ],
+    [
+      [
+        "2012",
+        null
+      ],
+      [
+        "Elixir",
+        "/wiki/Elixir_(programming_language)"
+      ],
+      [
+        "Jos\u00e9 Valim",
+        null
+      ],
+      [
+        "Erlang,Ruby,Clojure",
+        "/wiki/Erlang_(programming_language) /wiki/Ruby_(programming_language) /wiki/Clojure"
+      ]
+    ],
+    [
+      [
+        "2012",
+        null
+      ],
+      [
+        "Elm",
+        "/wiki/Elm_(programming_language)"
+      ],
+      [
+        "Evan Czaplicki",
+        null
+      ],
+      [
+        "Haskell,Standard ML,OCaml,F#",
+        "/wiki/Haskell_(programming_language) /wiki/Standard_ML /wiki/OCaml /wiki/F_Sharp_(programming_language)"
+      ]
+    ],
+    [
+      [
+        "2012",
+        null
+      ],
+      [
+        "TypeScript",
+        "/wiki/TypeScript"
+      ],
+      [
+        "Anders Hejlsberg,Microsoft",
+        "/wiki/Anders_Hejlsberg /wiki/Microsoft"
+      ],
+      [
+        "JavaScript,CoffeeScript",
+        "/wiki/JavaScript /wiki/CoffeeScript"
+      ]
+    ],
+    [
+      [
+        "2012",
+        null
+      ],
+      [
+        "Julia",
+        "/wiki/Julia_(programming_language)"
+      ],
+      [
+        "Jeff Bezanson,Stefan Karpinski,Alan Edelman,MIT",
+        "/wiki/Jeff_Bezanson /wiki/Stefan_Karpinski /wiki/Alan_Edelman /wiki/Massachusetts_Institute_of_Technology"
+      ],
+      [
+        "MATLAB,Lisp,C,Fortran,Mathematica,Wolfram Language,Python,Perl,R,Ruby,Lua",
+        "/wiki/MATLAB /wiki/Lisp_(programming_language) /wiki/C_(programming_language) /wiki/Fortran /wiki/Mathematica /wiki/Wolfram_Language /wiki/Python_(programming_language) /wiki/Perl /wiki/R_(programming_language) /wiki/Ruby_(programming_language) /wiki/Lua_(programming_language)"
+      ]
+    ],
+    [
+      [
+        "2012",
+        null
+      ],
+      [
+        "P",
+        "/wiki/P_(programming_language)"
+      ],
+      [
+        "Ethan Jackson,Shaz Qadeer,Sriram Rajamani,Microsoft",
+        "/wiki/HTTP_404 /wiki/HTTP_404 /wiki/HTTP_404 /wiki/Microsoft"
+      ],
+      [
+        "",
+        null
+      ]
+    ],
+    [
+      [
+        "2012",
+        null
+      ],
+      [
+        "Ada 2012",
+        "/wiki/Ada_(programming_language)"
+      ],
+      [
+        "ARA and Ada Europe (ISO/IEC 8652:2012)",
+        null
+      ],
+      [
+        "Ada 2005, ISO/IEC 8652:1995/Amd 1:2007",
+        null
+      ]
+    ],
+    [
+      [
+        "2013",
+        null
+      ],
+      [
+        "P4",
+        "/wiki/P4_(programming_language)"
+      ],
+      [
+        "P4.org",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "",
+        null
+      ]
+    ],
+    [
+      [
+        "2013",
+        null
+      ],
+      [
+        "Hopscotch",
+        "/wiki/Hopscotch_(programming_language)"
+      ],
+      [
+        "Hopscotch Technologies",
+        null
+      ],
+      [
+        "Scratch",
+        "/wiki/Scratch_(programming_language)"
+      ]
+    ],
+    [
+      [
+        "2013",
+        null
+      ],
+      [
+        "Cuneiform",
+        "/wiki/Cuneiform_(programming_language)"
+      ],
+      [
+        "J\u00f6rgen Brandt",
+        null
+      ],
+      [
+        "Swift (parallel scripting language)",
+        "/wiki/Swift_(parallel_scripting_language)"
+      ]
+    ],
+    [
+      [
+        "2014",
+        null
+      ],
+      [
+        "Crystal",
+        "/wiki/Crystal_(programming_language)"
+      ],
+      [
+        "Ary Borenszweig, Manas Technology Solutions",
+        null
+      ],
+      [
+        "Ruby,C,Rust,Go,C#,Python",
+        "/wiki/Ruby_(programming_language) /wiki/C_(programming_language) /wiki/Rust_(programming_language) /wiki/Go_(programming_language) /wiki/C_Sharp_(programming_language) /wiki/Python_(programming_language)"
+      ]
+    ],
+    [
+      [
+        "2014",
+        null
+      ],
+      [
+        "Hack",
+        "/wiki/Hack_(programming_language)"
+      ],
+      [
+        "Facebook",
+        "/wiki/Facebook"
+      ],
+      [
+        "PHP",
+        "/wiki/PHP"
+      ]
+    ]
+  ],
+  "context": "",
+  "idx": 14949
+}

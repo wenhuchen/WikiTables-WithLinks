@@ -1,0 +1,386 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_firewalls",
+  "title": "Comparison of firewalls",
+  "header": [
+    [
+      "Firewall",
+      null
+    ],
+    [
+      "License",
+      "/wiki/Software_license"
+    ],
+    [
+      "Cost",
+      null
+    ],
+    [
+      "OS",
+      "/wiki/Operating_system"
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Clavister",
+        "/wiki/Clavister"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Included on all ClavisterNGFWs",
+        null
+      ],
+      [
+        "Proprietary operating system cOS Core",
+        null
+      ]
+    ],
+    [
+      [
+        "Check Point",
+        "/wiki/Check_Point"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Included on Check Pointsecurity gateways",
+        null
+      ],
+      [
+        "Check Point IPSO,Linux",
+        "/wiki/Check_Point_IPSO /wiki/Linux"
+      ]
+    ],
+    [
+      [
+        "FortiGate",
+        "/wiki/Fortinet#FortiGate_Firewall_Platform"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Included on all Fortigatedevices",
+        null
+      ],
+      [
+        "Linux",
+        "/wiki/Linux"
+      ]
+    ],
+    [
+      [
+        "Palo Alto Networks",
+        "/wiki/Palo_Alto_Networks"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Included on Palo AltoNetworks firewalls",
+        null
+      ],
+      [
+        "Proprietary operating system PANOS",
+        null
+      ]
+    ],
+    [
+      [
+        "Sophos",
+        "/wiki/Sophos"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Included on Sophos UTM",
+        null
+      ],
+      [
+        "Linux",
+        "/wiki/Linux"
+      ]
+    ],
+    [
+      [
+        "Cisco ASA Firepower",
+        "/wiki/Sourcefire"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Included on all CISCOASA devices",
+        null
+      ],
+      [
+        "Proprietary operating system",
+        null
+      ]
+    ],
+    [
+      [
+        "Cisco PIX",
+        "/wiki/Cisco_PIX"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Included on all CISCOPIX devices",
+        null
+      ],
+      [
+        "Proprietary operating system",
+        null
+      ]
+    ],
+    [
+      [
+        "Juniper",
+        "/wiki/Juniper_Networks"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Included on Netscreensecurity gateways",
+        null
+      ],
+      [
+        "ScreenOS",
+        "/wiki/ScreenOS"
+      ]
+    ],
+    [
+      [
+        "Juniper",
+        "/wiki/Juniper_Networks"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Included on SRXsecurity gateways",
+        null
+      ],
+      [
+        "Junos",
+        "/wiki/Junos"
+      ]
+    ],
+    [
+      [
+        "Sonicwall",
+        "/wiki/Sonicwall"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Included on Dell appliance",
+        null
+      ],
+      [
+        "SonicOS,Linux",
+        "/wiki/HTTP_404 /wiki/Linux"
+      ]
+    ],
+    [
+      [
+        "Barracuda",
+        "/wiki/Barracuda_Networks"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Included Firewall Next Generation appliance",
+        null
+      ],
+      [
+        "Windows",
+        "/wiki/Windows"
+      ]
+    ],
+    [
+      [
+        "Cyberoam",
+        "/wiki/Cyberoam"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Included Firewall Sophos appliance",
+        null
+      ],
+      [
+        "Windows",
+        "/wiki/Windows"
+      ]
+    ],
+    [
+      [
+        "D-Link",
+        "/wiki/D-Link"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Included Firewall DFL",
+        null
+      ],
+      [
+        "Windows",
+        "/wiki/Windows"
+      ]
+    ],
+    [
+      [
+        "Endian Firewall",
+        "/wiki/Endian_Firewall"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Free / Paid",
+        null
+      ],
+      [
+        "Linux",
+        "/wiki/Linux"
+      ]
+    ],
+    [
+      [
+        "Forcepoint",
+        "/wiki/Forcepoint"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Included on all Forcepoint NGFW devices",
+        null
+      ],
+      [
+        "Proprietary operating system",
+        null
+      ]
+    ],
+    [
+      [
+        "OPNsense",
+        "/wiki/OPNsense"
+      ],
+      [
+        "Simplified BSD / FreeBSD License",
+        "/wiki/Simplified_BSD_license"
+      ],
+      [
+        "Free / Paid",
+        null
+      ],
+      [
+        "FreeBSD",
+        "/wiki/FreeBSD"
+      ]
+    ],
+    [
+      [
+        "pfSense",
+        "/wiki/PfSense"
+      ],
+      [
+        "Apache 2.0",
+        "/wiki/Apache_2.0"
+      ],
+      [
+        "Free / Paid",
+        null
+      ],
+      [
+        "FreeBSD",
+        "/wiki/FreeBSD"
+      ]
+    ],
+    [
+      [
+        "Untangle",
+        "/wiki/Untangle"
+      ],
+      [
+        "GPL",
+        "/wiki/GPL"
+      ],
+      [
+        "Free / Paid",
+        null
+      ],
+      [
+        "Linux",
+        "/wiki/Linux"
+      ]
+    ],
+    [
+      [
+        "Zeroshell",
+        "/wiki/Zeroshell"
+      ],
+      [
+        "GPL",
+        "/wiki/GPL"
+      ],
+      [
+        "Free / Paid",
+        null
+      ],
+      [
+        "Linux,NanoBSD",
+        "/wiki/Linux /wiki/NanoBSD"
+      ]
+    ],
+    [
+      [
+        "SmoothWall",
+        "/wiki/SmoothWall"
+      ],
+      [
+        "GPL",
+        "/wiki/GPL"
+      ],
+      [
+        "Free / Paid",
+        null
+      ],
+      [
+        "Linux",
+        "/wiki/Linux"
+      ]
+    ]
+  ],
+  "context": "The following table lists different firewall appliances.",
+  "idx": 10912
+}

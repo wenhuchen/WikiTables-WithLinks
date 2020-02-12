@@ -1,0 +1,296 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems",
+  "title": "Comparison of object-relational database management systems",
+  "header": [
+    [
+      "Name",
+      null
+    ],
+    [
+      "Vendor",
+      null
+    ],
+    [
+      "License",
+      "/wiki/Software_license"
+    ],
+    [
+      "OS",
+      "/wiki/Operating_system"
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Adaptive Server Enterprise",
+        "/wiki/Adaptive_Server_Enterprise"
+      ],
+      [
+        "SAP",
+        "/wiki/SAP_AG"
+      ],
+      [
+        "Proprietary",
+        "/wiki/Proprietary_software"
+      ],
+      [
+        "Cross-platform",
+        null
+      ]
+    ],
+    [
+      [
+        "CUBRID",
+        "/wiki/CUBRID"
+      ],
+      [
+        "NHN Corporation",
+        "/wiki/NHN_Corporation"
+      ],
+      [
+        "GPL,BSD",
+        "/wiki/GNU_GPL /wiki/BSD_license"
+      ],
+      [
+        "Linux, Windows",
+        null
+      ]
+    ],
+    [
+      [
+        "DB2",
+        "/wiki/IBM_DB2"
+      ],
+      [
+        "IBM",
+        "/wiki/IBM"
+      ],
+      [
+        "Proprietary",
+        null
+      ],
+      [
+        "Cross-platform",
+        null
+      ]
+    ],
+    [
+      [
+        "Greenplum Database",
+        "/wiki/Greenplum"
+      ],
+      [
+        "Greenplum,EMC Corporation",
+        "/wiki/Greenplum /wiki/EMC_Corporation"
+      ],
+      [
+        "Proprietary",
+        null
+      ],
+      [
+        "?",
+        null
+      ]
+    ],
+    [
+      [
+        "Informix",
+        "/wiki/Informix"
+      ],
+      [
+        "IBM",
+        "/wiki/IBM"
+      ],
+      [
+        "Proprietary",
+        null
+      ],
+      [
+        "Cross-platform",
+        null
+      ]
+    ],
+    [
+      [
+        "Cach\u00e9",
+        "/wiki/InterSystems_Cach%C3%A9"
+      ],
+      [
+        "InterSystems",
+        "/wiki/InterSystems"
+      ],
+      [
+        "Proprietary",
+        null
+      ],
+      [
+        "Cross-platform",
+        null
+      ]
+    ],
+    [
+      [
+        "Microsoft SQL Server",
+        "/wiki/Microsoft_SQL_Server"
+      ],
+      [
+        "Microsoft Corporation",
+        "/wiki/Microsoft_Corporation"
+      ],
+      [
+        "Proprietary",
+        null
+      ],
+      [
+        "Windows, Linux",
+        null
+      ]
+    ],
+    [
+      [
+        "Oracle Database",
+        "/wiki/Oracle_Database"
+      ],
+      [
+        "Oracle Corporation",
+        "/wiki/Oracle_Corporation"
+      ],
+      [
+        "Proprietary",
+        null
+      ],
+      [
+        "Linux, Windows, Unix",
+        null
+      ]
+    ],
+    [
+      [
+        "PostgreSQL",
+        "/wiki/PostgreSQL"
+      ],
+      [
+        "PostgreSQL Global Development Group",
+        null
+      ],
+      [
+        "PostgreSQL License",
+        "/wiki/PostgreSQL"
+      ],
+      [
+        "Cross-platform",
+        null
+      ]
+    ],
+    [
+      [
+        "OpenEdge Advanced Business Language",
+        "/wiki/OpenEdge_Advanced_Business_Language"
+      ],
+      [
+        "Progress Software Corporation",
+        "/wiki/Progress_Software_Corporation"
+      ],
+      [
+        "Proprietary",
+        null
+      ],
+      [
+        "Cross-platform",
+        null
+      ]
+    ],
+    [
+      [
+        "Virtuoso Universal Server",
+        "/wiki/Virtuoso_Universal_Server"
+      ],
+      [
+        "OpenLink Software",
+        null
+      ],
+      [
+        "GPLv",
+        "/wiki/GNU_GPL"
+      ],
+      [
+        "Cross-platform",
+        null
+      ]
+    ],
+    [
+      [
+        "VMDS",
+        "/wiki/VMDS"
+      ],
+      [
+        "GE Energy,General Electric",
+        "/wiki/GE_Energy /wiki/General_Electric"
+      ],
+      [
+        "Proprietary",
+        null
+      ],
+      [
+        "?",
+        null
+      ]
+    ],
+    [
+      [
+        "WakandaDB",
+        "/wiki/Wakanda_(software)"
+      ],
+      [
+        "4th Dimension",
+        "/wiki/4th_Dimension_(software)"
+      ],
+      [
+        "AGPLv",
+        "/wiki/Affero_General_Public_License"
+      ],
+      [
+        "Windows, Linux, macOS",
+        null
+      ]
+    ],
+    [
+      [
+        "XDB Enterprise Server",
+        "/wiki/XDB_Enterprise_Server"
+      ],
+      [
+        "Micro Focus",
+        "/wiki/Micro_Focus"
+      ],
+      [
+        "Proprietary",
+        null
+      ],
+      [
+        "DOS, Windows NT, OS/2",
+        null
+      ]
+    ],
+    [
+      [
+        "Zope Object Database",
+        "/wiki/Zope_Object_Database"
+      ],
+      [
+        "Zope Corporation",
+        null
+      ],
+      [
+        "Zope Public License",
+        "/wiki/Zope_Public_License"
+      ],
+      [
+        "Cross-platform",
+        null
+      ]
+    ]
+  ],
+  "context": "",
+  "idx": 4289
+}

@@ -1,0 +1,554 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
+  "header": [
+    [
+      "Emulator",
+      null
+    ],
+    [
+      "Latest version",
+      null
+    ],
+    [
+      "Released",
+      null
+    ],
+    [
+      "Guest emulation capabilities",
+      null
+    ],
+    [
+      "Host Operating System",
+      null
+    ],
+    [
+      "License",
+      null
+    ]
+  ],
+  "data": [
+    [
+      [
+        "AmeDS",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "4.0",
+        null
+      ],
+      [
+        "April 25, 2010",
+        null
+      ],
+      [
+        "Amstrad CPC",
+        "/wiki/Amstrad_CPC"
+      ],
+      [
+        "Nintendo DS",
+        "/wiki/Nintendo_DS"
+      ],
+      [
+        "Freeware",
+        "/wiki/Freeware"
+      ]
+    ],
+    [
+      [
+        "Arnold",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "04012004",
+        null
+      ],
+      [
+        "January 4, 2004",
+        null
+      ],
+      [
+        "Amstrad CPC,Amstrad Plus,Amstrad GX4000",
+        "/wiki/Amstrad_CPC /wiki/Amstrad_CPC#The_plus_range /wiki/Amstrad_GX4000"
+      ],
+      [
+        "Windows, Mac, Linux",
+        null
+      ],
+      [
+        "GPL",
+        "/wiki/GNU_General_Public_License"
+      ]
+    ],
+    [
+      [
+        "CaPriCe32",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "4.4.0",
+        null
+      ],
+      [
+        "March 26, 2017",
+        null
+      ],
+      [
+        "Amstrad CPC",
+        "/wiki/Amstrad_CPC"
+      ],
+      [
+        "DOS, Windows, Linux",
+        null
+      ],
+      [
+        "GPL",
+        "/wiki/GNU_General_Public_License"
+      ]
+    ],
+    [
+      [
+        "Clock Signal (CLK)",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "2019-08-01",
+        null
+      ],
+      [
+        "August 1, 2019",
+        null
+      ],
+      [
+        "Amstrad CPC,Acorn Electron,Apple II,Atari 2600,ColecoVision,Commodore VIC-20,Macintosh,MSX,Oric,Sega Master System,ZX80,ZX81",
+        "/wiki/Amstrad_CPC /wiki/Acorn_Electron /wiki/Apple_II /wiki/Atari_2600 /wiki/ColecoVision /wiki/Commodore_VIC-20 /wiki/Macintosh_512Ke /wiki/MSX /wiki/Oric /wiki/Sega_Master_System /wiki/ZX80 /wiki/ZX81"
+      ],
+      [
+        "macOS",
+        "/wiki/MacOS"
+      ],
+      [
+        "MIT License",
+        "/wiki/MIT_License"
+      ]
+    ],
+    [
+      [
+        "CPC++",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "2.0.0",
+        null
+      ],
+      [
+        "January 14, 2003",
+        null
+      ],
+      [
+        "Amstrad CPC",
+        "/wiki/Amstrad_CPC"
+      ],
+      [
+        "Mac OS X, Mac OS, Linux, Solaris",
+        null
+      ],
+      [
+        "Shareware",
+        "/wiki/Shareware"
+      ]
+    ],
+    [
+      [
+        "CPCBox",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "beta",
+        null
+      ],
+      [
+        "November 12, 2012",
+        null
+      ],
+      [
+        "Amstrad CPC",
+        "/wiki/Amstrad_CPC"
+      ],
+      [
+        "Web browser,JavaScript",
+        "/wiki/Web_browser /wiki/JavaScript"
+      ],
+      [
+        "Freeware",
+        "/wiki/Freeware"
+      ]
+    ],
+    [
+      [
+        "CPCDroid",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "1.5.1",
+        null
+      ],
+      [
+        "March 2, 2011",
+        null
+      ],
+      [
+        "Amstrad CPC",
+        "/wiki/Amstrad_CPC"
+      ],
+      [
+        "Android",
+        null
+      ],
+      [
+        "GPL",
+        "/wiki/GNU_General_Public_License"
+      ]
+    ],
+    [
+      [
+        "CPCE",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "1.94",
+        null
+      ],
+      [
+        "March 7, 2011",
+        null
+      ],
+      [
+        "Amstrad CPC",
+        "/wiki/Amstrad_CPC"
+      ],
+      [
+        "DOS, Windows",
+        null
+      ],
+      [
+        "Freeware",
+        "/wiki/Freeware"
+      ]
+    ],
+    [
+      [
+        "CPCemu",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "1.7",
+        null
+      ],
+      [
+        "December 6, 2009",
+        null
+      ],
+      [
+        "Amstrad CPC",
+        "/wiki/Amstrad_CPC"
+      ],
+      [
+        "Windows, Linux",
+        null
+      ],
+      [
+        "Freeware",
+        "/wiki/Freeware"
+      ]
+    ],
+    [
+      [
+        "CrocoDS",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "0.1.1",
+        null
+      ],
+      [
+        "October 15, 2016",
+        null
+      ],
+      [
+        "Amstrad CPC",
+        "/wiki/Amstrad_CPC"
+      ],
+      [
+        "macOSX, iPhone/iPad, Nintendo DS",
+        null
+      ],
+      [
+        "GPL",
+        "/wiki/GPL"
+      ]
+    ],
+    [
+      [
+        "DSP-emulator",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "0.18 Final",
+        null
+      ],
+      [
+        "December 31, 2017",
+        null
+      ],
+      [
+        "Amstrad CPC,Arcade,ColecoVision,Game Boy,Game Boy Color,Nintendo,ZX Spectrum",
+        "/wiki/Amstrad_CPC /wiki/Arcade_game /wiki/ColecoVision /wiki/Game_Boy /wiki/Game_Boy_Color /wiki/Famicom /wiki/ZX_Spectrum"
+      ],
+      [
+        "Windows, Linux",
+        null
+      ],
+      [
+        "Non-commercial",
+        null
+      ]
+    ],
+    [
+      [
+        "EP128Emu",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "2.0.11",
+        null
+      ],
+      [
+        "January 20, 2017",
+        null
+      ],
+      [
+        "Amstrad CPC,ZX Spectrum,Enterprise",
+        "/wiki/Amstrad_CPC /wiki/ZX_Spectrum /wiki/Enterprise_(computer)"
+      ],
+      [
+        "Windows, Linux",
+        null
+      ],
+      [
+        "GPL",
+        "/wiki/GNU_General_Public_License"
+      ]
+    ],
+    [
+      [
+        "JavaCPC",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "2.9.6b",
+        null
+      ],
+      [
+        "February 11, 2018",
+        null
+      ],
+      [
+        "Amstrad CPC",
+        "/wiki/Amstrad_CPC"
+      ],
+      [
+        "Java",
+        "/wiki/Java_(programming_language)"
+      ],
+      [
+        "GPL",
+        "/wiki/GNU_General_Public_License"
+      ]
+    ],
+    [
+      [
+        "MacCPC",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "0.9.2 Alpha",
+        null
+      ],
+      [
+        "January 22, 2010",
+        null
+      ],
+      [
+        "Amstrad CPC",
+        "/wiki/Amstrad_CPC"
+      ],
+      [
+        "OS X",
+        null
+      ],
+      [
+        "Freeware",
+        "/wiki/Freeware"
+      ]
+    ],
+    [
+      [
+        "MAME,MESS",
+        "/wiki/MAME /wiki/Multi_Emulator_Super_System"
+      ],
+      [
+        "0.196",
+        null
+      ],
+      [
+        "March 28, 2018",
+        null
+      ],
+      [
+        "Various computers, consoles, and arcade systems",
+        null
+      ],
+      [
+        "Cross-platform",
+        "/wiki/Cross-platform"
+      ],
+      [
+        "New BSD,GPLv2",
+        "/wiki/New_BSD /wiki/GPLv2"
+      ]
+    ],
+    [
+      [
+        "NO$CPC",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "1.8",
+        null
+      ],
+      [
+        "November 2000",
+        null
+      ],
+      [
+        "Amstrad CPC,Amstrad Plus,Amstrad GX4000",
+        "/wiki/Amstrad_CPC /wiki/Amstrad_CPC#The_plus_range /wiki/Amstrad_GX4000"
+      ],
+      [
+        "DOS, Windows",
+        null
+      ],
+      [
+        "Freeware",
+        "/wiki/Freeware"
+      ]
+    ],
+    [
+      [
+        "PSPCAP32",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "1.5.1",
+        null
+      ],
+      [
+        "August 21, 2009",
+        null
+      ],
+      [
+        "Amstrad CPC",
+        "/wiki/Amstrad_CPC"
+      ],
+      [
+        "Sony PSP",
+        "/wiki/Sony_PSP"
+      ],
+      [
+        "GPL",
+        "/wiki/GNU_General_Public_License"
+      ]
+    ],
+    [
+      [
+        "Roland",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "beta",
+        null
+      ],
+      [
+        "April 20, 2011",
+        null
+      ],
+      [
+        "Amstrad CPC",
+        "/wiki/Amstrad_CPC"
+      ],
+      [
+        "Web browser,JavaScript",
+        "/wiki/Web_browser /wiki/JavaScript"
+      ],
+      [
+        "GPL",
+        "/wiki/GPL"
+      ]
+    ],
+    [
+      [
+        "Roland Emulator",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "0.70",
+        null
+      ],
+      [
+        "April 20, 2017",
+        null
+      ],
+      [
+        "Amstrad CPC",
+        "/wiki/Amstrad_CPC"
+      ],
+      [
+        "Windows, Linux, FreeBSD",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "GPL",
+        "/wiki/GPL"
+      ]
+    ],
+    [
+      [
+        "Virtual CPC",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "1.1",
+        null
+      ],
+      [
+        "August 8, 2011",
+        null
+      ],
+      [
+        "Amstrad CPC",
+        "/wiki/Amstrad_CPC"
+      ],
+      [
+        "Windows",
+        null
+      ],
+      [
+        "Freeware",
+        "/wiki/Freeware"
+      ]
+    ]
+  ],
+  "context": "",
+  "idx": 16286
+}

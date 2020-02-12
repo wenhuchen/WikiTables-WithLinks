@@ -1,0 +1,470 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_web_service_frameworks",
+  "title": "List of web service frameworks",
+  "header": [
+    [
+      "Name",
+      null
+    ],
+    [
+      "Platform",
+      null
+    ],
+    [
+      "Messaging Model(Destination)",
+      null
+    ],
+    [
+      "Specifications",
+      null
+    ],
+    [
+      "Protocols",
+      null
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Apache Axis",
+        "/wiki/Apache_Axis"
+      ],
+      [
+        "Java/C++",
+        null
+      ],
+      [
+        "Client/Server",
+        null
+      ],
+      [
+        "WS-ReliableMessaging, WS-Coordination, WS-Security, WS-AtomicTransaction, WS-Addressing",
+        null
+      ],
+      [
+        "SOAP,WSDL",
+        "/wiki/SOAP /wiki/Web_Services_Description_Language"
+      ]
+    ],
+    [
+      [
+        "Apache Axis2",
+        "/wiki/Apache_Axis2"
+      ],
+      [
+        "Java",
+        null
+      ],
+      [
+        "Client/Server/ Asyn Support",
+        null
+      ],
+      [
+        "WS-ReliableMessaging, WS-Security, WS-AtomicTransaction, WS-Addressing, MTOM, WS-Policy, WS-MetadataExchange",
+        null
+      ],
+      [
+        "SOAP1.1,SOAP1.2,MTOM,WSDL 2.0,WSDL,REST",
+        "/wiki/SOAP /wiki/SOAP /wiki/Message_Transmission_Optimization_Mechanism /wiki/Web_Services_Description_Language /wiki/Web_Services_Description_Language /wiki/REST"
+      ]
+    ],
+    [
+      [
+        "Apache CXF",
+        "/wiki/Apache_CXF"
+      ],
+      [
+        "Java",
+        null
+      ],
+      [
+        "Client/Server/ Asyn Support",
+        null
+      ],
+      [
+        "WS-ReliableMessaging, WS-Security, WS-Addressing, MTOM, WS-Policy, WS-SecureConversation, WS-SecurityPolicy, WS-Trust",
+        null
+      ],
+      [
+        "SOAP1.1,SOAP1.2,MTOM,WSDL 2.0,WSDL,REST",
+        "/wiki/SOAP /wiki/SOAP /wiki/Message_Transmission_Optimization_Mechanism /wiki/Web_Services_Description_Language /wiki/Web_Services_Description_Language /wiki/REST"
+      ]
+    ],
+    [
+      [
+        "CodeIgniter",
+        "/wiki/Codeigniter"
+      ],
+      [
+        "PHP",
+        "/wiki/PHP"
+      ],
+      [
+        "Client/Server",
+        null
+      ],
+      [
+        "MVC",
+        "/wiki/Model%E2%80%93view%E2%80%93controller"
+      ],
+      [
+        "XML-RPC",
+        "/wiki/XML-RPC"
+      ]
+    ],
+    [
+      [
+        "gSOAP",
+        "/wiki/Gsoap"
+      ],
+      [
+        "C and C++",
+        null
+      ],
+      [
+        "Client/Server Duplex/Async",
+        null
+      ],
+      [
+        "WS-Addressing, WS-Discovery, WS-Policy, WS-ReliableMessaging, WS-Security, WS-SecurityPolicy",
+        null
+      ],
+      [
+        "SOAP1.1,SOAP1.2,MTOM,WSDL 1.1,WSDL 2.0,REST,XML-RPC,JSON,JSON-RPC,XML",
+        "/wiki/SOAP /wiki/SOAP /wiki/Message_Transmission_Optimization_Mechanism /wiki/Web_Services_Description_Language /wiki/Web_Services_Description_Language /wiki/REST /wiki/XML-RPC /wiki/JSON /wiki/JSON-RPC /wiki/XML"
+      ]
+    ],
+    [
+      [
+        "Java Web Services Development Pack,GlassFish",
+        "/wiki/Java_Web_Services_Development_Pack /wiki/GlassFish"
+      ],
+      [
+        "Java",
+        null
+      ],
+      [
+        "Client/Server",
+        null
+      ],
+      [
+        "WS-Addressing, WS-Security,\u00a0???",
+        null
+      ],
+      [
+        "SOAP,WSDL",
+        "/wiki/SOAP /wiki/Web_Services_Description_Language"
+      ]
+    ],
+    [
+      [
+        "Jello Framework",
+        "/wiki/Jello_framework"
+      ],
+      [
+        "GAE/Java",
+        null
+      ],
+      [
+        "Client/Server/Asyn Support",
+        null
+      ],
+      [
+        "Google App Engine",
+        "/wiki/Google_App_Engine"
+      ],
+      [
+        "REST,OData,JSON",
+        "/wiki/Representational_state_transfer /wiki/Open_Data_Protocol /wiki/JSON"
+      ]
+    ],
+    [
+      [
+        "Jersey",
+        "/wiki/Project_Jersey"
+      ],
+      [
+        "Java",
+        null
+      ],
+      [
+        "Client/Server",
+        null
+      ],
+      [
+        "Project Jersey is the production-ready reference implementation for the JAX-RS specification by Oracle  (Originally Sun)",
+        null
+      ],
+      [
+        "REST",
+        "/wiki/REST"
+      ]
+    ],
+    [
+      [
+        ".NET Framework",
+        "/wiki/.NET_Framework"
+      ],
+      [
+        "C#, VB.NET",
+        null
+      ],
+      [
+        "Client/Server",
+        null
+      ],
+      [
+        "WS-Addressing, WS-MetadataExchange, WS-Security, WS-Policy, WS-SecurityPolicy, WS-Trust, WS-SecureConversation, WS-ReliableMessaging, WS-Coordination, WS-AtomicTransaction",
+        null
+      ],
+      [
+        "SOAP,WSDL,MTOM",
+        "/wiki/SOAP /wiki/Web_Services_Description_Language /wiki/Message_Transmission_Optimization_Mechanism"
+      ]
+    ],
+    [
+      [
+        "Web Services Interoperability Technology",
+        "/wiki/Web_Services_Interoperability_Technology"
+      ],
+      [
+        "Java",
+        null
+      ],
+      [
+        "Client/Server",
+        null
+      ],
+      [
+        "WS-Addressing, WS-ReliableMessaging, WS-Coordination, WS-AtomicTransaction, WS-Security, WS-Security Policy, WS-Trust, WS-SecureConversation, WS-Policy, WS-MetadataExchange",
+        null
+      ],
+      [
+        "SOAP,WSDL,MTOM,JSON,XML",
+        "/wiki/SOAP /wiki/Web_Services_Description_Language /wiki/Message_Transmission_Optimization_Mechanism /wiki/JSON /wiki/XML"
+      ]
+    ],
+    [
+      [
+        "Web Services Invocation Framework",
+        "/wiki/Web_Services_Invocation_Framework"
+      ],
+      [
+        "Java",
+        null
+      ],
+      [
+        "Client",
+        null
+      ],
+      [
+        "???",
+        null
+      ],
+      [
+        "SOAP,WSDL",
+        "/wiki/SOAP /wiki/Web_Services_Description_Language"
+      ]
+    ],
+    [
+      [
+        "Windows Communication Foundation",
+        "/wiki/Windows_Communication_Foundation"
+      ],
+      [
+        ".NET",
+        null
+      ],
+      [
+        "Client/Server/Asyn support",
+        null
+      ],
+      [
+        "WS-Addressing, WS-MetadataExchange, WS-Security, WS-Policy, WS-SecurityPolicy, WS-Trust, WS-SecureConversation, WS-ReliableMessaging, WS-Coordination, WS-AtomicTransaction,WS-Discovery",
+        null
+      ],
+      [
+        "SOAP1.1,SOAP1.2,WSDL,XML,JSON,REST,MTOM,MSMQ,IPC,P2P,TCP,UDP,WebSocket",
+        "/wiki/SOAP /wiki/SOAP /wiki/Web_Services_Description_Language /wiki/XML /wiki/JSON /wiki/REST /wiki/Message_Transmission_Optimization_Mechanism /wiki/MSMQ /wiki/Inter-process_communication /wiki/Peer-to-peer /wiki/Transmission_Control_Protocol /wiki/User_Datagram_Protocol /wiki/WebSocket"
+      ]
+    ],
+    [
+      [
+        "WSO2 WSF/PHP",
+        "/wiki/WSO2#WSF.2FPHP"
+      ],
+      [
+        "PHP",
+        null
+      ],
+      [
+        "Client/Server",
+        null
+      ],
+      [
+        "SOAP MTOM, WS-Addressing, WS-Security, WS-SecurityPolicy, WS-Secure Conversation, WS-ReliableMessaging",
+        null
+      ],
+      [
+        "SOAP,WSDL",
+        "/wiki/SOAP /wiki/Web_Services_Description_Language"
+      ]
+    ],
+    [
+      [
+        "XFire",
+        "/wiki/Codehaus_XFire"
+      ],
+      [
+        "Java",
+        null
+      ],
+      [
+        "Client/Server",
+        null
+      ],
+      [
+        "WS-Addressing, WS-Security",
+        null
+      ],
+      [
+        "SOAP,WSDL",
+        "/wiki/SOAP /wiki/Web_Services_Description_Language"
+      ]
+    ],
+    [
+      [
+        "XML Interface for Network Services",
+        "/wiki/XML_Interface_for_Network_Services"
+      ],
+      [
+        "Java",
+        null
+      ],
+      [
+        "Server\u00a0?",
+        null
+      ],
+      [
+        "??",
+        null
+      ],
+      [
+        "SOAP,XML-RPC,WSDL,JSON-RPC,JSON",
+        "/wiki/SOAP /wiki/XML-RPC /wiki/Web_Services_Description_Language /wiki/JSON-RPC /wiki/JSON"
+      ]
+    ],
+    [
+      [
+        "Dframe Framework",
+        "/wiki/HTTP_404"
+      ],
+      [
+        "PHP",
+        "/wiki/PHP"
+      ],
+      [
+        "Client/Server",
+        null
+      ],
+      [
+        "Web application Components helping build MVC project.",
+        null
+      ],
+      [
+        "JSON,REST",
+        "/wiki/JSON /wiki/REST"
+      ]
+    ],
+    [
+      [
+        "Yii",
+        "/wiki/Yii"
+      ],
+      [
+        "PHP",
+        "/wiki/PHP"
+      ],
+      [
+        "Client/Server",
+        null
+      ],
+      [
+        "Open source, object-oriented, component-based MVC",
+        null
+      ],
+      [
+        "REST",
+        "/wiki/REST"
+      ]
+    ],
+    [
+      [
+        "Smart.Framework",
+        "/wiki/Smart_Framework_PHP"
+      ],
+      [
+        "PHP",
+        "/wiki/PHP"
+      ],
+      [
+        "Client/Server",
+        null
+      ],
+      [
+        "a free, BSD licensed, open-source web framework",
+        null
+      ],
+      [
+        "JSON,REST,SOAP",
+        "/wiki/JSON /wiki/REST /wiki/SOAP"
+      ]
+    ],
+    [
+      [
+        "Symfony2",
+        "/wiki/Symfony2"
+      ],
+      [
+        "PHP",
+        "/wiki/PHP"
+      ],
+      [
+        "Client/Server",
+        null
+      ],
+      [
+        "PHP web application framework",
+        null
+      ],
+      [
+        "JSON,REST,SOAP",
+        "/wiki/JSON /wiki/REST /wiki/SOAP"
+      ]
+    ],
+    [
+      [
+        "Zend Framework",
+        "/wiki/Zend_Framework"
+      ],
+      [
+        "PHP",
+        "/wiki/PHP"
+      ],
+      [
+        "Client/Server",
+        null
+      ],
+      [
+        "Web application framework implemented in PHP",
+        null
+      ],
+      [
+        "SOAP,JSON,JSON-RPC,REST,XML-RPC",
+        "/wiki/SOAP /wiki/JSON /wiki/JSON-RPC /wiki/REST /wiki/XML-RPC"
+      ]
+    ]
+  ],
+  "context": "",
+  "idx": 14155
+}
