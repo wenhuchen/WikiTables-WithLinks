@@ -1,551 +1,1177 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_SEPTA_Rapid_transit_stations",
-  "title": "List of SEPTA Rapid transit stations",
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
   "header": [
     [
-      "Station",
-      null
+      [
+        "Emulator"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Municipality",
-      null
+      [
+        "Latest version"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "County",
-      null
+      [
+        "Released"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Segment",
-      null
+      [
+        "Guest emulation capabilities"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Former railroad",
-      null
+      [
+        "Host Operating System"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Opened",
-      null
+      [
+        "License"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "69th Street T.C.",
-        "/wiki/69th_Street_Transportation_Center"
+        [
+          "MAME",
+          "MESS"
+        ],
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
       ],
       [
-        "Upper Darby",
-        "/wiki/Upper_Darby_Township,_Pennsylvania"
+        [
+          "0.196"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Delaware, PA",
-        "/wiki/Delaware_County,_Pennsylvania"
+        [
+          "March 28, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line",
-        null
+        [
+          "Various computers, consoles, and arcade systems"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "P&W",
-        "/wiki/Philadelphia_and_Western_Railroad"
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
       ],
       [
-        "1907",
-        null
+        [
+          "New BSD",
+          "GPLv2"
+        ],
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "Ardmore Avenue",
-        "/wiki/Ardmore_Avenue_(SEPTA_station)"
+        [
+          "ZEsarUX"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ardmore",
-        "/wiki/Ardmore,_Pennsylvania"
+        [
+          "6.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Delaware, PA",
-        null
+        [
+          "November 27, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line",
-        null
+        [
+          "Various Sinclair computers"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "Linux",
+          "Windows",
+          "Mac OS X"
+        ],
+        [
+          "/wiki/Linux",
+          "/wiki/Windows",
+          "/wiki/Mac_OS_X"
+        ]
       ],
       [
-        "1907",
-        null
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GPL"
+        ]
       ]
     ],
     [
       [
-        "Ardmore Junction",
-        "/wiki/Ardmore_Junction_(SEPTA_station)"
+        [
+          "EP128Emu"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ardmore",
-        "/wiki/Ardmore,_Pennsylvania"
+        [
+          "2.0.11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Delaware, PA",
-        null
+        [
+          "January 20, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line",
-        null
+        [
+          "Amstrad CPC",
+          "ZX Spectrum",
+          "Enterprise"
+        ],
+        [
+          "/wiki/Amstrad_CPC",
+          "/wiki/ZX_Spectrum",
+          "/wiki/Enterprise_(computer)"
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "Windows, Linux"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1907",
-        null
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Beechwood\u2013Brookline",
-        "/wiki/Beechwood%E2%80%93Brookline_(SEPTA_station)"
+        [
+          "Fuse"
+        ],
+        [
+          "/wiki/Fuse_(emulator)"
+        ]
       ],
       [
-        "Haverford Township",
-        "/wiki/Haverford_Township,_Delaware_County,_Pennsylvania"
+        [
+          "1.5.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Delaware, PA",
-        null
+        [
+          "April 2, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line",
-        null
+        [
+          "ZX Spectrum 16K, 48K",
+          "128K",
+          "+2",
+          "+2A",
+          "+3",
+          "TC2048",
+          "TC2068, TS2068",
+          "SE",
+          "Pentagon",
+          "Scorpion ZS-256"
+        ],
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/Timex_Computer_2048",
+          "/wiki/Timex_Sinclair_2068",
+          null,
+          "/wiki/Pentagon_(computer)",
+          "/wiki/List_of_ZX_Spectrum_clones"
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
       ],
       [
-        "1907",
-        null
+        [
+          "GPLv2"
+        ],
+        [
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "Bridgeport",
-        "/wiki/Bridgeport_(SEPTA_station)"
+        [
+          "Fuse For Mac OS X"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bridgeport",
-        "/wiki/Bridgeport,_Pennsylvania"
+        [
+          "1.5.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Montgomery, PA",
-        "/wiki/Montgomery_County,_Pennsylvania"
+        [
+          "April 1, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line(Norristown Branch)",
-        null
+        [
+          "ZX Spectrum 16K, 48K, 128K, +2, +2A, +3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "OS X"
+        ],
+        [
+          "/wiki/OS_X"
+        ]
       ],
       [
-        "1912",
-        null
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Bryn Mawr",
-        "/wiki/Bryn_Mawr_(SEPTA_NHSL_station)"
+        [
+          "Fuse PSP"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Radnor Township",
-        "/wiki/Radnor_Township,_Delaware_County,_Pennsylvania"
+        [
+          "0.10.0.21"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Delaware, PA",
-        null
+        [
+          "April 7, 2009"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line",
-        null
+        [
+          "ZX Spectrum 16K, 48K, 128K, +2, +2A, +3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "Sony PSP"
+        ],
+        [
+          "/wiki/Sony_PSP"
+        ]
       ],
       [
-        "1907",
-        null
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "County Line",
-        "/wiki/County_Line_(SEPTA_NHSL_station)"
+        [
+          "FBZX"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lower Merion Twp.",
-        "/wiki/Lower_Merion_Township,_Montgomery_County,_Pennsylvania"
+        [
+          "3.8.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Montgomery, PA",
-        null
+        [
+          "April 6, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line",
-        null
+        [
+          "ZX Spectrum 16K, 48K, 128K, +2, +2A"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "Linux"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1912",
-        null
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "DeKalb Street",
-        "/wiki/DeKalb_Street_(SEPTA_station)"
+        [
+          "EightyOne"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bridgeport",
-        "/wiki/Bridgeport,_Pennsylvania"
+        [
+          "1.0a"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Montgomery, PA",
-        null
+        [
+          "May 28, 2008"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line(Norristown Branch)",
-        null
+        [
+          "Various Sinclair computers"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
       ],
       [
-        "1912",
-        null
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Garrett Hill",
-        "/wiki/Garrett_Hill_(SEPTA_station)"
+        [
+          "Speccy"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Garrett Hill",
-        "/wiki/Garrett_Hill,_Pennsylvania"
+        [
+          "Windows",
+          "Linux"
+        ],
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/Linux"
+        ]
       ],
       [
-        "Delaware, PA",
-        null
+        [
+          "March 29, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line",
-        null
+        [
+          "ZX Spectrum 48K",
+          "128K",
+          "+2",
+          "+2A",
+          "+3",
+          "TC2048",
+          "TC2068, TS2068"
+        ],
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/Timex_Computer_2048",
+          "/wiki/Timex_Sinclair_2068"
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "Windows",
+          "Linux",
+          "Android",
+          "Symbian S60",
+          "DOS"
+        ],
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/Linux",
+          "/wiki/Android_(operating_system)",
+          "/wiki/S60_(software_platform)",
+          "/wiki/DOS"
+        ]
       ],
       [
-        "1907",
-        null
+        [
+          "Payware",
+          "Freeware"
+        ],
+        [
+          "/wiki/Payware",
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Gulph Mills",
-        "/wiki/Gulph_Mills_(SEPTA_station)"
+        [
+          "Warajevo"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Upper Merion Twp.",
-        "/wiki/Upper_Merion_Township,_Montgomery_County,_Pennsylvania"
+        [
+          "2.52"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Montgomery, PA",
-        null
+        [
+          "February 2006"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line(Norristown Branch)",
-        null
+        [
+          "ZX Spectrum 48K, 128K, +2, Timex Sinclair 2068"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "DOS"
+        ],
+        [
+          "/wiki/DOS"
+        ]
       ],
       [
-        "1912",
-        null
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Haverford",
-        "/wiki/Haverford_(SEPTA_NHSL_station)"
+        [
+          "X128"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Haverford Township",
-        "/wiki/Haverford_Township,_Delaware_County,_Pennsylvania"
+        [
+          "0.95b open alpha"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Delaware, PA",
-        null
+        [
+          "July 5, 2010"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line",
-        null
+        [
+          "ZX Spectrum 48K",
+          "128K",
+          "+2",
+          "+2A",
+          "+3",
+          "Pentagon",
+          "Scorpion ZS-256",
+          "ATM Turbo",
+          "ZX81"
+        ],
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/Pentagon_(computer)",
+          "/wiki/List_of_ZX_Spectrum_clones",
+          "/wiki/ATM_(computer)",
+          "/wiki/ZX81"
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "DOS",
+          "Windows"
+        ],
+        [
+          "/wiki/DOS",
+          "/wiki/Microsoft_Windows"
+        ]
       ],
       [
-        "1907",
-        null
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Hughes Park",
-        "/wiki/Hughes_Park_(SEPTA_station)"
+        [
+          "UnrealSpeccy"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Upper Merion Twp.",
-        "/wiki/Upper_Merion_Township,_Montgomery_County,_Pennsylvania"
+        [
+          "0.38.3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Montgomery, PA",
-        null
+        [
+          "December 21, 2016"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line(Norristown Branch)",
-        null
+        [
+          "ZX Spectrum 48",
+          "128K",
+          "Pentagon",
+          "Scorpion ZS-256",
+          "ATM Turbo",
+          "Kay 1024",
+          "Profi"
+        ],
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/Pentagon_(computer)",
+          "/wiki/List_of_ZX_Spectrum_clones",
+          "/wiki/ATM_(computer)",
+          "/wiki/Kay_1024",
+          "/wiki/List_of_ZX_Spectrum_clones"
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
       ],
       [
-        "1912",
-        null
+        [
+          "Public Domain"
+        ],
+        [
+          "/wiki/Public_Domain"
+        ]
       ]
     ],
     [
       [
-        "Matsonford",
-        "/wiki/Matsonford_(SEPTA_station)"
+        [
+          "UnrealSpeccy Portable"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lower Merion Twp.",
-        "/wiki/Lower_Merion_Township,_Montgomery_County,_Pennsylvania"
+        [
+          "0.0.81"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Montgomery, PA",
-        null
+        [
+          "December 26, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line(Norristown Branch)",
-        null
+        [
+          "ZX Spectrum 48K, 128K"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
       ],
       [
-        "1912",
-        null
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Norristown T.C.",
-        "/wiki/Norristown_Transportation_Center"
+        [
+          "Z80Stealth"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Norristown",
-        "/wiki/Norristown,_Pennsylvania"
+        [
+          "1.23"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Montgomery, PA",
-        null
+        [
+          "August 20, 2014"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line(Norristown Branch)",
-        null
+        [
+          "ZX Spectrum 128K",
+          "Pentagon",
+          "Scorpion ZS-256",
+          "Profi",
+          "Kay 1024",
+          "AY-3-8912/YM2149F"
+        ],
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/Pentagon_(computer)",
+          "/wiki/List_of_ZX_Spectrum_clones",
+          "/wiki/List_of_ZX_Spectrum_clones",
+          "/wiki/Kay_1024",
+          "/wiki/General_Instrument_AY-3-8910"
+        ]
       ],
       [
-        "Reading",
-        "/wiki/Reading_Railroad"
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
       ],
       [
-        "1912",
-        null
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Parkview",
-        "/wiki/Parkview_(SEPTA_station)"
+        [
+          "EmuZWin"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Upper Darby",
-        "/wiki/Upper_Darby_Township,_Pennsylvania"
+        [
+          "2.7 release 2.8 (final)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Delaware, PA",
-        null
+        [
+          "March 10, 2006"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line",
-        null
+        [
+          "ZX Spectrum 48K",
+          "128K",
+          "+2",
+          "+2A",
+          "+3",
+          "Pentagon",
+          "Scorpion ZS-256",
+          "ATM Turbo",
+          "Profi"
+        ],
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/Pentagon_(computer)",
+          "/wiki/List_of_ZX_Spectrum_clones",
+          "/wiki/ATM_(computer)",
+          "/wiki/List_of_ZX_Spectrum_clones"
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
       ],
       [
-        "1907",
-        null
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Penfield",
-        "/wiki/Penfield_(SEPTA_station)"
+        [
+          "EMUZ"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Haverford Township",
-        "/wiki/Haverford_Township,_Delaware_County,_Pennsylvania"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Delaware, PA",
-        null
+        [
+          "March 31, 1996"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line",
-        null
+        [
+          "ZX Spectrum 48",
+          "128K",
+          "TR-DOS"
+        ],
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/TR-DOS"
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "DOS"
+        ],
+        [
+          "/wiki/DOS"
+        ]
       ],
       [
-        "1907",
-        null
+        [
+          "C-- Sphinx",
+          "source code"
+        ],
+        [
+          null,
+          "/wiki/Source_code"
+        ]
       ]
     ],
     [
       [
-        "Radnor",
-        "/wiki/Radnor_(SEPTA_NHSL_station)"
+        [
+          "Z.com"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Radnor",
-        "/wiki/Radnor_Township,_Delaware_County,_Pennsylvania"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Delaware, PA",
-        null
+        [
+          "November 25, 2003"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line(Norristown Branch)",
-        null
+        [
+          "ZX Spectrum 48",
+          "128K"
+        ],
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum"
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "DOS"
+        ],
+        [
+          "/wiki/DOS"
+        ]
       ],
       [
-        "1912",
-        null
+        [
+          "MMX",
+          "assembler",
+          "source code"
+        ],
+        [
+          "/wiki/MMX_(instruction_set)",
+          "/wiki/X86_assembly_language",
+          "/wiki/Source_code"
+        ]
       ]
     ],
     [
       [
-        "Roberts Road",
-        "/wiki/Roberts_Road_(SEPTA_station)"
+        [
+          "ZXDS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rosemont",
-        "/wiki/Rosemont,_Pennsylvania"
+        [
+          "1.3.3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Delaware, PA",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line(Norristown Branch)",
-        null
+        [
+          "Spectrum 48K, 128K, Pentagon"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "Nintendo DS"
+        ],
+        [
+          "/wiki/Nintendo_DS"
+        ]
       ],
       [
-        "1912",
-        null
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Stadium \u2013 Ithan Avenue",
-        "/wiki/Stadium_%E2%80%93_Ithan_Avenue_(SEPTA_station)"
+        [
+          "SpeccyDS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Radnor",
-        "/wiki/Radnor_Township,_Delaware_County,_Pennsylvania"
+        [
+          "0.3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Delaware, PA",
-        null
+        [
+          "August 27, 2007"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line(Norristown Branch)",
-        null
+        [
+          "Spectrum 48K"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "Nintendo DS"
+        ],
+        [
+          "/wiki/Nintendo_DS"
+        ]
       ],
       [
-        "1912",
-        null
+        [
+          "Giftware"
+        ],
+        [
+          "/wiki/Giftware"
+        ]
       ]
     ],
     [
       [
-        "Township Line Road",
-        "/wiki/Township_Line_Road_(SEPTA_station)"
+        [
+          "JX-Speccy"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Haverford Township",
-        "/wiki/Haverford_Township,_Delaware_County,_Pennsylvania"
+        [
+          "1.6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Delaware, PA",
-        null
+        [
+          "March 31, 2005"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Main Line",
-        null
+        [
+          "ZX Spectrum 48K, 128K"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "P&W",
-        null
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(software_platform)"
+        ]
       ],
       [
-        "1907",
-        null
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ]
   ],

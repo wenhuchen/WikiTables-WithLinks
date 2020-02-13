@@ -1,383 +1,1109 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Slovakia_men's_national_junior_ice_hockey_team",
-  "title": "Slovakia men's national junior ice hockey team",
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
   "header": [
     [
-      "Pos.",
-      null
+      [
+        "Emulator"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "No.",
-      null
+      [
+        "Latest version"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Player",
-      null
+      [
+        "Released"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Team",
-      null
+      [
+        "Guest emulation capabilities"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Host Operating System"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "License"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "G",
-        "/wiki/Goaltender"
+        [
+          "AmeDS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "4.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Samuel Vyletelka",
-        "/wiki/HTTP_404"
+        [
+          "April 25, 2010"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Minnesota Magicians",
-        "/wiki/Minnesota_Magicians"
+        [
+          "Amstrad CPC"
+        ],
+        [
+          "/wiki/Amstrad_CPC"
+        ]
+      ],
+      [
+        [
+          "Nintendo DS"
+        ],
+        [
+          "/wiki/Nintendo_DS"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "G",
-        "/wiki/Goaltender"
+        [
+          "Arnold"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "04012004"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Samuel Hlavaj",
-        "/wiki/HTTP_404"
+        [
+          "January 4, 2004"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sherbrooke Phoenix",
-        "/wiki/Sherbrooke_Phoenix"
+        [
+          "Amstrad CPC",
+          "Amstrad Plus",
+          "Amstrad GX4000"
+        ],
+        [
+          "/wiki/Amstrad_CPC",
+          "/wiki/Amstrad_CPC",
+          "/wiki/Amstrad_GX4000"
+        ]
+      ],
+      [
+        [
+          "Windows, Mac, Linux"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "D",
-        "/wiki/Defenceman"
+        [
+          "CaPriCe32"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "3",
-        null
+        [
+          "4.4.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marcel Dlugo\u0161",
-        "/wiki/HTTP_404"
+        [
+          "March 26, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "HC Nov\u00e9 Z\u00e1mky",
-        "/wiki/HC_Nov%C3%A9_Z%C3%A1mky"
+        [
+          "Amstrad CPC"
+        ],
+        [
+          "/wiki/Amstrad_CPC"
+        ]
+      ],
+      [
+        [
+          "DOS, Windows, Linux"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "D",
-        "/wiki/Defenceman"
+        [
+          "Clock Signal (CLK)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "2019-08-01"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "D\u00e1vid Mudr\u00e1k",
-        "/wiki/HTTP_404"
+        [
+          "August 1, 2019"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "TPS U20",
-        "/wiki/HC_TPS"
+        [
+          "Amstrad CPC",
+          "Acorn Electron",
+          "Apple II",
+          "Atari 2600",
+          "ColecoVision",
+          "Commodore VIC-20",
+          "Macintosh",
+          "MSX",
+          "Oric",
+          "Sega Master System",
+          "ZX80",
+          "ZX81"
+        ],
+        [
+          "/wiki/Amstrad_CPC",
+          "/wiki/Acorn_Electron",
+          "/wiki/Apple_II",
+          "/wiki/Atari_2600",
+          "/wiki/ColecoVision",
+          "/wiki/Commodore_VIC-20",
+          "/wiki/Macintosh_512Ke",
+          "/wiki/MSX",
+          "/wiki/Oric",
+          "/wiki/Sega_Master_System",
+          "/wiki/ZX80",
+          "/wiki/ZX81"
+        ]
+      ],
+      [
+        [
+          "macOS"
+        ],
+        [
+          "/wiki/MacOS"
+        ]
+      ],
+      [
+        [
+          "MIT License"
+        ],
+        [
+          "/wiki/MIT_License"
+        ]
       ]
     ],
     [
       [
-        "D",
-        "/wiki/Defenceman"
+        [
+          "CPC++"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6",
-        null
+        [
+          "2.0.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Boris \u010ces\u00e1nek",
-        "/wiki/HTTP_404"
+        [
+          "January 14, 2003"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "HK Poprad",
-        "/wiki/HK_Poprad"
+        [
+          "Amstrad CPC"
+        ],
+        [
+          "/wiki/Amstrad_CPC"
+        ]
+      ],
+      [
+        [
+          "Mac OS X, Mac OS, Linux, Solaris"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Shareware"
+        ],
+        [
+          "/wiki/Shareware"
+        ]
       ]
     ],
     [
       [
-        "D",
-        "/wiki/Defenceman"
+        [
+          "CPCBox"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "beta"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Martin Bu\u010dko",
-        "/wiki/HTTP_404"
+        [
+          "November 12, 2012"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "HC Ko\u0161ice",
-        "/wiki/HC_Ko%C5%A1ice"
+        [
+          "Amstrad CPC"
+        ],
+        [
+          "/wiki/Amstrad_CPC"
+        ]
+      ],
+      [
+        [
+          "Web browser",
+          "JavaScript"
+        ],
+        [
+          "/wiki/Web_browser",
+          "/wiki/JavaScript"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "D",
-        "/wiki/Defenceman"
+        [
+          "CPCDroid"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "17",
-        null
+        [
+          "1.5.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Martin Vitalo\u0161",
-        "/wiki/HTTP_404"
+        [
+          "March 2, 2011"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "R\u00f6gle J20",
-        "/wiki/R%C3%B6gle_BK"
+        [
+          "Amstrad CPC"
+        ],
+        [
+          "/wiki/Amstrad_CPC"
+        ]
+      ],
+      [
+        [
+          "Android"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "D",
-        "/wiki/Defenceman"
+        [
+          "CPCE"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "20",
-        null
+        [
+          "1.94"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Samuel K\u0148a\u017eko",
-        "/wiki/HTTP_404"
+        [
+          "March 7, 2011"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "TPS U20",
-        "/wiki/HC_TPS"
+        [
+          "Amstrad CPC"
+        ],
+        [
+          "/wiki/Amstrad_CPC"
+        ]
+      ],
+      [
+        [
+          "DOS, Windows"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "D",
-        "/wiki/Defenceman"
+        [
+          "CPCemu"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "22",
-        null
+        [
+          "1.7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Oliver Turan",
-        "/wiki/HTTP_404"
+        [
+          "December 6, 2009"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "HC 07 Detva",
-        "/wiki/HC_07_Detva"
+        [
+          "Amstrad CPC"
+        ],
+        [
+          "/wiki/Amstrad_CPC"
+        ]
+      ],
+      [
+        [
+          "Windows, Linux"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "F",
-        "/wiki/Forward_(ice_hockey)"
+        [
+          "CrocoDS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "0.1.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Martin Fa\u0161ko-Rud\u00e1\u0161",
-        "/wiki/HTTP_404"
+        [
+          "October 15, 2016"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Everett Silvertips",
-        "/wiki/Everett_Silvertips"
+        [
+          "Amstrad CPC"
+        ],
+        [
+          "/wiki/Amstrad_CPC"
+        ]
+      ],
+      [
+        [
+          "macOSX, iPhone/iPad, Nintendo DS"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GPL"
+        ]
       ]
     ],
     [
       [
-        "F",
-        "/wiki/Forward_(ice_hockey)"
+        [
+          "DSP-emulator"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "0.18 Final"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Oliver Okuliar",
-        "/wiki/HTTP_404"
+        [
+          "December 31, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lethbridge Hurricanes",
-        "/wiki/Lethbridge_Hurricanes"
+        [
+          "Amstrad CPC",
+          "Arcade",
+          "ColecoVision",
+          "Game Boy",
+          "Game Boy Color",
+          "Nintendo",
+          "ZX Spectrum"
+        ],
+        [
+          "/wiki/Amstrad_CPC",
+          "/wiki/Arcade_game",
+          "/wiki/ColecoVision",
+          "/wiki/Game_Boy",
+          "/wiki/Game_Boy_Color",
+          "/wiki/Famicom",
+          "/wiki/ZX_Spectrum"
+        ]
+      ],
+      [
+        [
+          "Windows, Linux"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Non-commercial"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "F",
-        "/wiki/Forward_(ice_hockey)"
+        [
+          "EP128Emu"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "12",
-        null
+        [
+          "2.0.11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kristi\u00e1n Kov\u00e1\u010dik",
-        "/wiki/HTTP_404"
+        [
+          "January 20, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "HK Dukla Tren\u010d\u00edn",
-        "/wiki/HK_Dukla_Tren%C4%8D%C3%ADn"
+        [
+          "Amstrad CPC",
+          "ZX Spectrum",
+          "Enterprise"
+        ],
+        [
+          "/wiki/Amstrad_CPC",
+          "/wiki/ZX_Spectrum",
+          "/wiki/Enterprise_(computer)"
+        ]
+      ],
+      [
+        [
+          "Windows, Linux"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "F",
-        "/wiki/Forward_(ice_hockey)"
+        [
+          "JavaCPC"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13",
-        null
+        [
+          "2.9.6b"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Adam Paul\u00edny",
-        "/wiki/HTTP_404"
+        [
+          "February 11, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "HK Martin",
-        "/wiki/HK_Martin"
+        [
+          "Amstrad CPC"
+        ],
+        [
+          "/wiki/Amstrad_CPC"
+        ]
+      ],
+      [
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "F",
-        "/wiki/Forward_(ice_hockey)"
+        [
+          "MacCPC"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "14",
-        null
+        [
+          "0.9.2 Alpha"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dominik Jendek",
-        "/wiki/HTTP_404"
+        [
+          "January 22, 2010"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "HC Slovan Bratislava",
-        "/wiki/HC_Slovan_Bratislava"
+        [
+          "Amstrad CPC"
+        ],
+        [
+          "/wiki/Amstrad_CPC"
+        ]
+      ],
+      [
+        [
+          "OS X"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "F",
-        "/wiki/Forward_(ice_hockey)"
+        [
+          "MAME",
+          "MESS"
+        ],
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
       ],
       [
-        "15",
-        null
+        [
+          "0.196"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jakub Min\u00e1rik",
-        "/wiki/HTTP_404"
+        [
+          "March 28, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "HK Nitra",
-        "/wiki/HK_Nitra"
+        [
+          "Various computers, consoles, and arcade systems"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "New BSD",
+          "GPLv2"
+        ],
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "F",
-        "/wiki/Forward_(ice_hockey)"
+        [
+          "NO$CPC"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "18",
-        null
+        [
+          "1.8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Viktor \u010eurina",
-        "/wiki/HTTP_404"
+        [
+          "November 2000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "HK Dukla Tren\u010d\u00edn",
-        "/wiki/HK_Dukla_Tren%C4%8D%C3%ADn"
+        [
+          "Amstrad CPC",
+          "Amstrad Plus",
+          "Amstrad GX4000"
+        ],
+        [
+          "/wiki/Amstrad_CPC",
+          "/wiki/Amstrad_CPC",
+          "/wiki/Amstrad_GX4000"
+        ]
+      ],
+      [
+        [
+          "DOS, Windows"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "F",
-        "/wiki/Forward_(ice_hockey)"
+        [
+          "PSPCAP32"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "19",
-        null
+        [
+          "1.5.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "R\u00f3bert D\u017eugan",
-        "/wiki/HTTP_404"
+        [
+          "August 21, 2009"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "HK Dukla Tren\u010d\u00edn",
-        "/wiki/HK_Dukla_Tren%C4%8D%C3%ADn"
+        [
+          "Amstrad CPC"
+        ],
+        [
+          "/wiki/Amstrad_CPC"
+        ]
+      ],
+      [
+        [
+          "Sony PSP"
+        ],
+        [
+          "/wiki/Sony_PSP"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "F",
-        "/wiki/Forward_(ice_hockey)"
+        [
+          "Roland"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "25",
-        null
+        [
+          "beta"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Michal Mr\u00e1zik",
-        "/wiki/HTTP_404"
+        [
+          "April 20, 2011"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Link\u00f6ping J20",
-        "/wiki/Link%C3%B6ping_HC"
+        [
+          "Amstrad CPC"
+        ],
+        [
+          "/wiki/Amstrad_CPC"
+        ]
+      ],
+      [
+        [
+          "Web browser",
+          "JavaScript"
+        ],
+        [
+          "/wiki/Web_browser",
+          "/wiki/JavaScript"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GPL"
+        ]
       ]
     ],
     [
       [
-        "F",
-        "/wiki/Forward_(ice_hockey)"
+        [
+          "Roland Emulator"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "26",
-        null
+        [
+          "0.70"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marek Min\u00e1rik",
-        "/wiki/HTTP_404"
+        [
+          "April 20, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "MsHK \u017dilina",
-        "/wiki/MsHK_%C5%BDilina"
+        [
+          "Amstrad CPC"
+        ],
+        [
+          "/wiki/Amstrad_CPC"
+        ]
+      ],
+      [
+        [
+          "Windows, Linux, FreeBSD"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GPL"
+        ]
       ]
     ],
     [
       [
-        "F",
-        "/wiki/Forward_(ice_hockey)"
+        [
+          "Virtual CPC"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "27",
-        null
+        [
+          "1.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Maxim \u010cajkovi\u010d",
-        "/wiki/HTTP_404"
+        [
+          "August 8, 2011"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Saint John Sea Dogs",
-        "/wiki/Saint_John_Sea_Dogs"
+        [
+          "Amstrad CPC"
+        ],
+        [
+          "/wiki/Amstrad_CPC"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ]
   ],

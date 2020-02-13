@@ -1,299 +1,481 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_aircraft_of_World_War_II",
-  "title": "List of aircraft of World War II",
+  "url": "https://en.wikipedia.org/wiki/List_of_bus_transit_systems_in_the_United_States",
+  "title": "List of bus transit systems in the United States",
   "header": [
     [
-      "Name of aircraft",
-      null
+      [
+        "System"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Yearin service",
-      null
+      [
+        "Locale"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country of origin",
-      null
+      [
+        "Major city(s)"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Aichi B7A",
-        "/wiki/Aichi_B7A"
+        [
+          "Brunswick Transit Alternative"
+        ],
+        [
+          "/wiki/Brunswick_Transit_Alternative"
+        ]
       ],
       [
-        "1945",
-        null
+        [
+          "Brunswick"
+        ],
+        [
+          "/wiki/Brunswick,_Ohio"
+        ]
       ],
       [
-        "Japan",
-        null
+        [
+          "Brunswick"
+        ],
+        [
+          "/wiki/Brunswick,_Ohio"
+        ]
       ]
     ],
     [
       [
-        "Aichi D1A",
-        "/wiki/Aichi_D1A"
+        [
+          "Central Ohio Transit Authority"
+        ],
+        [
+          "/wiki/Central_Ohio_Transit_Authority"
+        ]
       ],
       [
-        "1934",
-        null
+        [
+          "Franklin County",
+          "Delaware",
+          "Fairfield",
+          "Licking"
+        ],
+        [
+          "/wiki/Franklin_County,_Ohio",
+          "/wiki/Delaware_County,_Ohio",
+          "/wiki/Fairfield_County,_Ohio",
+          "/wiki/Licking_County,_Ohio"
+        ]
       ],
       [
-        "Japan",
-        null
+        [
+          "Columbus"
+        ],
+        [
+          "/wiki/Columbus,_Ohio"
+        ]
       ]
     ],
     [
       [
-        "Aichi D3A",
-        "/wiki/Aichi_D3A"
+        [
+          "Clermont Transportation Connection"
+        ],
+        [
+          "/wiki/Clermont_Transportation_Connection"
+        ]
       ],
       [
-        "1937",
-        null
+        [
+          "Clermont County"
+        ],
+        [
+          "/wiki/Clermont_County,_Ohio"
+        ]
       ],
       [
-        "Japan",
-        null
+        [
+          "Batavia"
+        ],
+        [
+          "/wiki/Batavia,_Ohio"
+        ]
       ]
     ],
     [
       [
-        "Blackburn Skua",
-        "/wiki/Blackburn_Skua"
+        [
+          "Geauga County Transit"
+        ],
+        [
+          "/wiki/Geauga_County_Transit"
+        ]
       ],
       [
-        "1938",
-        null
+        [
+          "Geauga County"
+        ],
+        [
+          "/wiki/Geauga_County,_Ohio"
+        ]
       ],
       [
-        "UK",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Brewster SB2A Buccaneer/Bermuda",
-        "/wiki/Brewster_SB2A_Buccaneer"
+        [
+          "Greater Cleveland Regional Transit Authority"
+        ],
+        [
+          "/wiki/Greater_Cleveland_Regional_Transit_Authority"
+        ]
       ],
       [
-        "1941",
-        null
+        [
+          "Cuyahoga County"
+        ],
+        [
+          "/wiki/Cuyahoga_County,_Ohio"
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "Cleveland"
+        ],
+        [
+          "/wiki/Cleveland,_Ohio"
+        ]
       ]
     ],
     [
       [
-        "Consolidated TBY Sea Wolf",
-        "/wiki/Consolidated_TBY_Sea_Wolf"
+        [
+          "Greater Dayton Regional Transit Authority"
+        ],
+        [
+          "/wiki/Greater_Dayton_Regional_Transit_Authority"
+        ]
       ],
       [
-        "1944",
-        null
+        [
+          "Dayton"
+        ],
+        [
+          "/wiki/Dayton,_Ohio"
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "Dayton"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Curtiss SB2C Helldiver/A-25 Shrike",
-        "/wiki/Curtiss_SB2C_Helldiver"
+        [
+          "Laketran"
+        ],
+        [
+          "/wiki/Laketran"
+        ]
       ],
       [
-        "1943",
-        null
+        [
+          "Lake County"
+        ],
+        [
+          "/wiki/Lake_County,_Ohio"
+        ]
       ],
       [
-        "US",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Curtiss SBC Helldiver/Cleveland",
-        "/wiki/Curtiss_SBC_Helldiver"
+        [
+          "Lima/Allen County Regional Transportation Authority"
+        ],
+        [
+          "/wiki/Allen_County_Regional_Transportation_Authority"
+        ]
       ],
       [
-        "1938",
-        null
+        [
+          "Allen County"
+        ],
+        [
+          "/wiki/Allen_County,_Ohio"
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "Lima"
+        ],
+        [
+          "/wiki/Lima,_Ohio"
+        ]
       ]
     ],
     [
       [
-        "Douglas DT",
-        "/wiki/Douglas_DT"
+        [
+          "Lorain County Transit"
+        ],
+        [
+          "/wiki/Lorain_County_Transit"
+        ]
       ],
       [
-        "1921",
-        null
+        [
+          "Lorain County"
+        ],
+        [
+          "/wiki/Lorain_County,_Ohio"
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "Lorain",
+          "Elyria"
+        ],
+        [
+          "/wiki/Lorain,_Ohio",
+          "/wiki/Elyria,_Ohio"
+        ]
       ]
     ],
     [
       [
-        "Douglas SBD Dauntless/A-24 Banshee",
-        "/wiki/Douglas_SBD_Dauntless"
+        [
+          "Medina County Transit"
+        ],
+        [
+          "/wiki/Medina_County_Transit"
+        ]
       ],
       [
-        "1940",
-        null
+        [
+          "Medina County"
+        ],
+        [
+          "/wiki/Medina_County,_Ohio"
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "Medina"
+        ],
+        [
+          "/wiki/Medina,_Ohio"
+        ]
       ]
     ],
     [
       [
-        "Douglas TBD Devastator",
-        "/wiki/Douglas_TBD_Devastator"
+        [
+          "METRO Regional Transit Authority"
+        ],
+        [
+          "/wiki/METRO_Regional_Transit_Authority"
+        ]
       ],
       [
-        "1935",
-        null
+        [
+          "Summit County"
+        ],
+        [
+          "/wiki/Summit_County,_Ohio"
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "Akron"
+        ],
+        [
+          "/wiki/Akron,_Ohio"
+        ]
       ]
     ],
     [
       [
-        "Fairey Albacore",
-        "/wiki/Fairey_Albacore"
+        [
+          "Portage Area Regional Transportation Authority"
+        ],
+        [
+          "/wiki/Portage_Area_Regional_Transportation_Authority"
+        ]
       ],
       [
-        "1940",
-        null
+        [
+          "Portage County"
+        ],
+        [
+          "/wiki/Portage_County,_Ohio"
+        ]
       ],
       [
-        "UK",
-        null
+        [
+          "Kent"
+        ],
+        [
+          "/wiki/Kent,_Ohio"
+        ]
       ]
     ],
     [
       [
-        "Fairey Barracuda",
-        "/wiki/Fairey_Barracuda"
+        [
+          "Richland County Transit"
+        ],
+        [
+          "/wiki/Richland_County_Transit"
+        ]
       ],
       [
-        "1942",
-        null
+        [
+          "Richland County"
+        ],
+        [
+          "/wiki/Richland_County,_Ohio"
+        ]
       ],
       [
-        "UK",
-        null
+        [
+          "Mansfield"
+        ],
+        [
+          "/wiki/Mansfield,_Ohio"
+        ]
       ]
     ],
     [
       [
-        "Fairey Swordfish",
-        "/wiki/Fairey_Swordfish"
+        [
+          "Southwest Ohio Regional Transit Authority"
+        ],
+        [
+          "/wiki/Southwest_Ohio_Regional_Transit_Authority"
+        ]
       ],
       [
-        "1936",
-        null
+        [
+          "Cincinnati"
+        ],
+        [
+          "/wiki/Cincinnati"
+        ]
       ],
       [
-        "UK",
-        null
+        [
+          "Cincinnati"
+        ],
+        [
+          "/wiki/Cincinnati,_Ohio"
+        ]
       ]
     ],
     [
       [
-        "Fieseler Fi 167",
-        "/wiki/Fieseler_Fi_167"
+        [
+          "Stark Area Regional Transit Authority"
+        ],
+        [
+          "/wiki/Stark_Area_Regional_Transit_Authority"
+        ]
       ],
       [
-        "1940",
-        null
+        [
+          "Stark County"
+        ],
+        [
+          "/wiki/Stark_County,_Ohio"
+        ]
       ],
       [
-        "Germany",
-        null
+        [
+          "Canton"
+        ],
+        [
+          "/wiki/Canton,_Ohio"
+        ]
       ]
     ],
     [
       [
-        "Grumman TBF/TBM Avenger",
-        "/wiki/Grumman_TBF_Avenger"
+        [
+          "Toledo Area Regional Transit Authority"
+        ],
+        [
+          "/wiki/Toledo_Area_Regional_Transit_Authority"
+        ]
       ],
       [
-        "1942",
-        null
+        [
+          "Greater Toledo"
+        ],
+        [
+          "/wiki/Greater_Toledo"
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "Toledo"
+        ],
+        [
+          "/wiki/Toledo,_Ohio"
+        ]
       ]
     ],
     [
       [
-        "Loire-Nieuport LN.401",
-        "/wiki/Loire-Nieuport_LN.401"
+        [
+          "Western Reserve Transit Authority"
+        ],
+        [
+          "/wiki/Western_Reserve_Transit_Authority"
+        ]
       ],
       [
-        "1939",
-        null
+        [
+          "Mahoning County"
+        ],
+        [
+          "/wiki/Mahoning_County,_Ohio"
+        ]
       ],
       [
-        "France",
-        null
-      ]
-    ],
-    [
-      [
-        "Mitsubishi B5M",
-        "/wiki/Mitsubishi_B5M"
-      ],
-      [
-        "1937",
-        null
-      ],
-      [
-        "Japan",
-        null
-      ]
-    ],
-    [
-      [
-        "Nakajima B5N",
-        "/wiki/Nakajima_B5N"
-      ],
-      [
-        "1938",
-        null
-      ],
-      [
-        "Japan",
-        null
-      ]
-    ],
-    [
-      [
-        "Nakajima B6N",
-        "/wiki/Nakajima_B6N"
-      ],
-      [
-        "1942",
-        null
-      ],
-      [
-        "Japan",
-        null
+        [
+          "Youngstown"
+        ],
+        [
+          "/wiki/Youngstown,_Ohio"
+        ]
       ]
     ]
   ],

@@ -1,551 +1,899 @@
 {
-  "url": "https://en.wikipedia.org/wiki/128th_Ohio_General_Assembly",
-  "title": "128th Ohio General Assembly",
+  "url": "https://en.wikipedia.org/wiki/List_of_Superfund_sites_in_Massachusetts",
+  "title": "List of Superfund sites in Massachusetts",
   "header": [
     [
-      "District",
-      null
+      [
+        "CERCLIS ID"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Representative",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Party",
-      null
+      [
+        "Town/City"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Residence",
-      null
+      [
+        "County"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "First Elected",
-      null
-    ],
-    [
-      "Term Limited",
-      null
+      [
+        "Reason"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "MAD001031574"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Linda Bolon",
-        "/wiki/Linda_Bolon"
+        [
+          "Creese and Cook Tannery (former)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dem",
-        null
+        [
+          "Danvers"
+        ],
+        [
+          "/wiki/Danvers,_Massachusetts"
+        ]
       ],
       [
-        "East Palestine",
-        "/wiki/East_Palestine,_Ohio"
+        [
+          "Essex"
+        ],
+        [
+          "/wiki/Essex_County,_Massachusetts"
+        ]
       ],
       [
-        "2006",
-        null
-      ],
-      [
-        "2014",
-        null
+        [
+          "[1]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "MAD001197755"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kris Jordan",
-        "/wiki/Kris_Jordan"
+        [
+          "Walton & Lonsbury"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rep",
-        null
+        [
+          "Attleboro"
+        ],
+        [
+          "/wiki/Attleboro,_Massachusetts"
+        ]
       ],
       [
-        "Dublin",
-        "/wiki/Dublin,_Ohio"
+        [
+          "Bristol"
+        ],
+        [
+          "/wiki/Bristol_County,_Massachusetts"
+        ]
       ],
       [
-        "2008",
-        null
-      ],
-      [
-        "2016",
-        null
+        [
+          "[2]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "MAD002084093"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ron Amstutz",
-        "/wiki/Ron_Amstutz"
+        [
+          "GE-Pittsfield",
+          "Housatonic River"
+        ],
+        [
+          "/wiki/General_Electric_Pittsfield_Plant",
+          "/wiki/Housatonic_River"
+        ]
       ],
       [
-        "Rep",
-        null
+        [
+          "Pittsfield",
+          "Lenox"
+        ],
+        [
+          "/wiki/Pittsfield,_Massachusetts",
+          "/wiki/Lenox,_Massachusetts"
+        ]
       ],
       [
-        "Wooster",
-        "/wiki/Wooster,_Ohio"
+        [
+          "Berkshire"
+        ],
+        [
+          "/wiki/Berkshire_County,_Massachusetts"
+        ]
       ],
       [
-        "2008",
-        null
-      ],
-      [
-        "2016",
-        null
+        [
+          "[3]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "MAD980524169"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matt Huffman",
-        "/wiki/Matt_Huffman"
+        [
+          "Rose Disposal Pit"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rep",
-        null
+        [
+          "Lanesborough"
+        ],
+        [
+          "/wiki/Lanesborough,_Massachusetts"
+        ]
       ],
       [
-        "Lima",
-        "/wiki/Lima,_Ohio"
+        [
+          "Berkshire"
+        ],
+        [
+          "/wiki/Berkshire_County,_Massachusetts"
+        ]
       ],
       [
-        "2006",
-        null
-      ],
-      [
-        "2014",
-        null
+        [
+          "[4]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "MAD001026319"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Gerald Stebleton",
-        "/wiki/Gerald_Stebleton"
+        [
+          "Atlas Tack Corp."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rep",
-        null
+        [
+          "Fairhaven"
+        ],
+        [
+          "/wiki/Fairhaven,_Massachusetts"
+        ]
       ],
       [
-        "Lancaster",
-        "/wiki/Lancaster,_Ohio"
+        [
+          "Bristol"
+        ],
+        [
+          "/wiki/Bristol_County,_Massachusetts"
+        ]
       ],
       [
-        "2006",
-        null
-      ],
-      [
-        "2014",
-        null
+        [
+          "[5]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "MAD001060805"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Randy Gardner",
-        "/wiki/Randy_Gardner_(Ohio_politician)"
+        [
+          "Hatheway and Patterson Company"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rep",
-        null
+        [
+          "Mansfield"
+        ],
+        [
+          "/wiki/Mansfield,_Massachusetts"
+        ]
       ],
       [
-        "Bowling Green",
-        "/wiki/Bowling_Green,_Ohio"
+        [
+          "Bristol"
+        ],
+        [
+          "/wiki/Bristol_County,_Massachusetts"
+        ]
       ],
       [
-        "2008 (Appt.)",
-        null
-      ],
-      [
-        "2016",
-        null
+        [
+          "[6]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "MAD980731335"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kenny Yuko",
-        "/wiki/Kenny_Yuko"
+        [
+          "New Bedford Site"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dem",
-        null
+        [
+          "New Bedford",
+          "Fairhaven",
+          "Acushnet",
+          "Dartmouth"
+        ],
+        [
+          "/wiki/New_Bedford,_Massachusetts",
+          "/wiki/Fairhaven,_Massachusetts",
+          "/wiki/Acushnet,_Massachusetts",
+          "/wiki/Dartmouth,_Massachusetts"
+        ]
       ],
       [
-        "Richmond Heights",
-        "/wiki/Richmond_Heights,_Ohio"
+        [
+          "Bristol"
+        ],
+        [
+          "/wiki/Bristol_County,_Massachusetts"
+        ]
       ],
       [
-        "2004",
-        null
-      ],
-      [
-        "2012",
-        null
+        [
+          "[7]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "MAD980520621"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Armond Budish",
-        "/wiki/Armond_Budish"
+        [
+          "Re-Solve, Inc."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dem",
-        null
+        [
+          "Dartmouth"
+        ],
+        [
+          "/wiki/Dartmouth,_Massachusetts"
+        ]
       ],
       [
-        "Beachwood",
-        "/wiki/Beachwood,_Ohio"
+        [
+          "Bristol"
+        ],
+        [
+          "/wiki/Bristol_County,_Massachusetts"
+        ]
       ],
       [
-        "2006",
-        null
-      ],
-      [
-        "2014",
-        null
+        [
+          "[8]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "MAD980503973"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Barbara Boyd",
-        "/wiki/Barbara_Boyd_(Ohio_politician)"
+        [
+          "Shpack Landfill"
+        ],
+        [
+          "/wiki/Shpack_Landfill"
+        ]
       ],
       [
-        "Dem",
-        null
+        [
+          "Attleboro",
+          "Norton"
+        ],
+        [
+          "/wiki/Attleboro,_Massachusetts",
+          "/wiki/Norton,_Massachusetts"
+        ]
       ],
       [
-        "Cleveland Heights",
-        "/wiki/Cleveland_Heights,_Ohio"
+        [
+          "Bristol"
+        ],
+        [
+          "/wiki/Bristol_County,_Massachusetts"
+        ]
       ],
       [
-        "2006",
-        null
-      ],
-      [
-        "2014",
-        null
+        [
+          "[9]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "MAD980731343"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Robin Belcher",
-        "/wiki/Robin_Belcher"
+        [
+          "Sullivan's Ledge"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dem",
-        null
+        [
+          "New Bedford"
+        ],
+        [
+          "/wiki/New_Bedford,_Massachusetts"
+        ]
       ],
       [
-        "Cleveland",
-        "/wiki/Cleveland,_Ohio"
+        [
+          "Bristol"
+        ],
+        [
+          "/wiki/Bristol_County,_Massachusetts"
+        ]
       ],
       [
-        "2009 (Appt.)",
-        null
-      ],
-      [
-        "2018",
-        null
+        [
+          "[10]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "11",
-        null
+        [
+          "MAD980732317"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sandra Williams",
-        "/wiki/Sandra_Williams"
+        [
+          "Groveland Wells"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dem",
-        null
+        [
+          "Groveland"
+        ],
+        [
+          "/wiki/Groveland,_Massachusetts"
+        ]
       ],
       [
-        "Cleveland",
-        "/wiki/Cleveland,_Ohio"
+        [
+          "Essex"
+        ],
+        [
+          "/wiki/Essex_County,_Massachusetts"
+        ]
       ],
       [
-        "2006",
-        null
-      ],
-      [
-        "2014",
-        null
+        [
+          "[11]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "12",
-        null
+        [
+          "MAD980523336"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Michael DeBose",
-        "/wiki/Michael_DeBose"
+        [
+          "Haverhill Municipal Landfill"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dem",
-        null
+        [
+          "Haverhill"
+        ],
+        [
+          "/wiki/Haverhill,_Massachusetts"
+        ]
       ],
       [
-        "Cleveland",
-        "/wiki/Cleveland,_Ohio"
+        [
+          "Essex"
+        ],
+        [
+          "/wiki/Essex_County,_Massachusetts"
+        ]
       ],
       [
-        "2002 (Appt.)",
-        null
-      ],
-      [
-        "2010",
-        null
+        [
+          "[12]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "13",
-        null
+        [
+          "MAD980525240"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Michael J. Skindell",
-        "/wiki/Michael_J._Skindell"
+        [
+          "Salem Acres"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dem",
-        null
+        [
+          "Salem"
+        ],
+        [
+          "/wiki/Salem,_Massachusetts"
+        ]
       ],
       [
-        "Lakewood",
-        "/wiki/Lakewood,_Ohio"
+        [
+          "Essex"
+        ],
+        [
+          "/wiki/Essex_County,_Massachusetts"
+        ]
       ],
       [
-        "2002",
-        null
-      ],
-      [
-        "2010",
-        null
+        [
+          "[13]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "14",
-        null
+        [
+          "MAD980731483"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Michael Foley",
-        "/wiki/Michael_Foley_(Ohio_politician)"
+        [
+          "PSC Resources"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dem",
-        null
+        [
+          "Palmer"
+        ],
+        [
+          "/wiki/Palmer,_Massachusetts"
+        ]
       ],
       [
-        "Cleveland",
-        "/wiki/Cleveland,_Ohio"
+        [
+          "Hampden"
+        ],
+        [
+          "/wiki/Hampden_County,_Massachusetts"
+        ]
       ],
       [
-        "2006 (Appt.)",
-        null
-      ],
-      [
-        "2014",
-        null
+        [
+          "[14]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "15",
-        null
+        [
+          "MAD003809266"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Timothy J. DeGeeter",
-        "/wiki/Timothy_J._DeGeeter"
+        [
+          "Charles-George Reclamation Trust Landfill"
+        ],
+        [
+          "/wiki/Charles-George_Reclamation_Trust_Landfill"
+        ]
       ],
       [
-        "Dem",
-        null
+        [
+          "Tyngsborough"
+        ],
+        [
+          "/wiki/Tyngsborough,_Massachusetts"
+        ]
       ],
       [
-        "Parma",
-        "/wiki/Parma,_Ohio"
+        [
+          "Middlesex"
+        ],
+        [
+          "/wiki/Middlesex_County,_Massachusetts"
+        ]
       ],
       [
-        "2003 (Appt.)",
-        null
-      ],
-      [
-        "2012",
-        null
+        [
+          "[15]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "16",
-        null
+        [
+          "MAD076580950"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nan Baker",
-        "/wiki/Nan_Baker"
+        [
+          "Industri-Plex"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rep",
-        null
+        [
+          "Woburn"
+        ],
+        [
+          "/wiki/Woburn,_Massachusetts"
+        ]
       ],
       [
-        "Westlake",
-        "/wiki/Westlake,_Ohio"
+        [
+          "Middlesex"
+        ],
+        [
+          "/wiki/Middlesex_County,_Massachusetts"
+        ]
       ],
       [
-        "2008",
-        null
-      ],
-      [
-        "2016",
-        null
+        [
+          "[16]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "17",
-        null
+        [
+          "MAD051787323"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Josh Mandel",
-        "/wiki/Josh_Mandel_(politician)"
+        [
+          "Iron Horse Park"
+        ],
+        [
+          "/wiki/Iron_Horse_Park"
+        ]
       ],
       [
-        "Rep",
-        null
+        [
+          "Billerica"
+        ],
+        [
+          "/wiki/Billerica,_Massachusetts"
+        ]
       ],
       [
-        "Lyndhurst",
-        "/wiki/Lyndhurst,_Ohio"
+        [
+          "Middlesex"
+        ],
+        [
+          "/wiki/Middlesex_County,_Massachusetts"
+        ]
       ],
       [
-        "2006",
-        null
-      ],
-      [
-        "2014",
-        null
+        [
+          "[17]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "18",
-        null
+        [
+          "MAD062166335"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matt Patten",
-        "/wiki/Matt_Patten"
+        [
+          "Nuclear Metals, Inc."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dem",
-        null
+        [
+          "Concord"
+        ],
+        [
+          "/wiki/Concord,_Massachusetts"
+        ]
       ],
       [
-        "Strongsville",
-        "/wiki/Strongsville,_Ohio"
+        [
+          "Middlesex"
+        ],
+        [
+          "/wiki/Middlesex_County,_Massachusetts"
+        ]
       ],
       [
-        "2008",
-        null
-      ],
-      [
-        "2016",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "19",
-        null
+        [
+          "MAD990685422"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marian Harris",
-        "/wiki/Marian_Harris"
+        [
+          "Nyanza Chemical Waste Dump"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dem",
-        null
+        [
+          "Ashland"
+        ],
+        [
+          "/wiki/Ashland,_Massachusetts"
+        ]
       ],
       [
-        "Columbus",
-        "/wiki/Columbus,_Ohio"
+        [
+          "Middlesex"
+        ],
+        [
+          "/wiki/Middlesex_County,_Massachusetts"
+        ]
       ],
       [
-        "2008",
-        null
-      ],
-      [
-        "2016",
-        null
+        [
+          "[18]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "20",
-        null
+        [
+          "MAD001403104"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nancy Garland",
-        "/wiki/Nancy_Garland"
+        [
+          "Olin Chemical"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dem",
-        null
+        [
+          "Wilmington"
+        ],
+        [
+          "/wiki/Wilmington,_Massachusetts"
+        ]
       ],
       [
-        "New Albany",
-        "/wiki/New_Albany,_Ohio"
+        [
+          "Middlesex"
+        ],
+        [
+          "/wiki/Middlesex_County,_Massachusetts"
+        ]
       ],
       [
-        "2008",
-        null
-      ],
-      [
-        "2016",
-        null
+        [
+          "[19]"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

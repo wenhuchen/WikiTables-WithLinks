@@ -1,382 +1,630 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Dish_Network",
-  "title": "Dish Network",
+  "url": "https://en.wikipedia.org/wiki/Australia_at_the_Rugby_World_Cup",
+  "title": "Australia at the Rugby World Cup",
   "header": [
     [
-      "Satellite",
-      null
+      [
+        "Stadium"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location (degrees west)",
-      null
+      [
+        "Games"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Launched",
-      null
+      [
+        "City"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Type",
-      null
+      [
+        "State"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Notes",
-      null
+      [
+        "Capacity"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Best Crowd"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "EchoStar I",
-        "/wiki/EchoStar_I"
+        [
+          "Telstra Stadium"
+        ],
+        [
+          "/wiki/Stadium_Australia"
+        ]
       ],
       [
-        "77",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "December 28, 1995",
-        null
+        [
+          "Sydney"
+        ],
+        [
+          "/wiki/Sydney"
+        ]
       ],
       [
-        "Lockheed Martin",
-        "/wiki/Lockheed_Martin"
+        [
+          "New South Wales"
+        ],
+        [
+          "/wiki/New_South_Wales"
+        ]
       ],
       [
-        "Can carry a limited number of services on odd numbered transponders. EchoStar is not licensed to serve CONUS customers in the United States from this location but may transmit local stations.",
-        null
+        [
+          "83,500"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Australia",
+          "England"
+        ],
+        [
+          "/wiki/Australia_national_rugby_union_team",
+          "/wiki/England_national_rugby_union_team"
+        ]
       ]
     ],
     [
       [
-        "EchoStar II",
-        "/wiki/EchoStar_II"
+        [
+          "Aussie Stadium"
+        ],
+        [
+          "/wiki/Sydney_Football_Stadium"
+        ]
       ],
       [
-        "148",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "September 10, 1996",
-        null
+        [
+          "Sydney"
+        ],
+        [
+          "/wiki/Sydney"
+        ]
       ],
       [
-        "Ariane 4",
-        "/wiki/Ariane_4"
+        [
+          "New South Wales"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "SEC",
-        "/wiki/U.S._Securities_and_Exchange_Commission"
+        [
+          "41,159"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Scotland",
+          "Fiji"
+        ],
+        [
+          "/wiki/Scotland_national_rugby_union_team",
+          "/wiki/Fiji_national_rugby_union_team"
+        ]
       ]
     ],
     [
       [
-        "EchoStar III",
-        "/wiki/EchoStar_III"
+        [
+          "Central Coast Stadium"
+        ],
+        [
+          "/wiki/Central_Coast_Stadium"
+        ]
       ],
       [
-        "61.5",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "October 5, 1997",
-        null
+        [
+          "Gosford"
+        ],
+        [
+          "/wiki/Gosford,_New_South_Wales"
+        ]
       ],
       [
-        "Lockheed Martin,A2100",
-        "/wiki/Lockheed_Martin /wiki/A2100"
+        [
+          "New South Wales"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Replaced by EchoStar XV and was serving as an in-orbit spare. Placed on graveyard orbit by September 6, 2017.",
-        null
+        [
+          "20,119"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Japan",
+          "United States"
+        ],
+        [
+          "/wiki/Japan_national_rugby_union_team",
+          "/wiki/United_States_national_rugby_union_team"
+        ]
       ]
     ],
     [
       [
-        "EchoStar IV",
-        "/wiki/EchoStar_IV"
+        [
+          "WIN Stadium"
+        ],
+        [
+          "/wiki/Wollongong_Showground"
+        ]
       ],
       [
-        "77",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "May 8, 1998",
-        null
+        [
+          "Wollongong"
+        ],
+        [
+          "/wiki/Wollongong,_New_South_Wales"
+        ]
       ],
       [
-        "Lockheed Martin,A2100",
-        "/wiki/Lockheed_Martin /wiki/A2100"
+        [
+          "New South Wales"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "This satellite had a launch issue, is now in an inclined orbit and is not currently operational. It largely serves as a placeholder for EchoStar slots.",
-        null
+        [
+          "18,484"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "France",
+          "United States"
+        ],
+        [
+          "/wiki/France_national_rugby_union_team",
+          "/wiki/United_States_national_rugby_union_team"
+        ]
       ]
     ],
     [
       [
-        "EchoStar V",
-        "/wiki/EchoStar_V"
+        [
+          "Suncorp Stadium"
+        ],
+        [
+          "/wiki/Lang_Park"
+        ]
       ],
       [
-        "Deorbited from 148",
-        null
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "September 23, 1999",
-        null
+        [
+          "Brisbane"
+        ],
+        [
+          "/wiki/Brisbane"
+        ]
       ],
       [
-        "Space Systems/Loral,FS-1300",
-        "/wiki/Space_Systems/Loral /wiki/LS-1300"
+        [
+          "Queensland"
+        ],
+        [
+          "/wiki/Queensland"
+        ]
       ],
       [
-        "EchoStar V was moved from 110 to 129 and finally to 148. International programming at 148 has moved to Anik F3/118.75\u00b0. Locals have moved to spot beams at other locations. The satellite was to serve as a placeholder for EchoStar at the 148 slot. The satellite was experiencing stability issues that made signal levels unstable for the short time it was located at 148. On July 31, 2009, all remaining programming at 148 ceased. Factors now indicate discontinuation of the 148 slot, at least for the short term, 3\u20134 years.",
-        null
+        [
+          "52,500"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Australia",
+          "Romania"
+        ],
+        [
+          "/wiki/Australia_national_rugby_union_team",
+          "/wiki/Romania_national_rugby_union_team"
+        ]
       ]
     ],
     [
       [
-        "EchoStar VI",
-        "/wiki/EchoStar_VI"
+        [
+          "Dairy Farmers Stadium"
+        ],
+        [
+          "/wiki/Willows_Sports_Complex"
+        ]
       ],
       [
-        "77",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "July 14, 2000",
-        null
+        [
+          "Townsville"
+        ],
+        [
+          "/wiki/Townsville,_Queensland"
+        ]
       ],
       [
-        "Space Systems/Loral,FS-1300",
-        "/wiki/Space_Systems/Loral /wiki/LS-1300"
+        [
+          "Queensland"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Replaces EchoStar VIII.",
-        null
+        [
+          "24,843"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "France",
+          "Japan"
+        ],
+        [
+          "/wiki/France_national_rugby_union_team",
+          "/wiki/Japan_national_rugby_union_team"
+        ]
       ]
     ],
     [
       [
-        "EchoStar VII",
-        "/wiki/EchoStar_VII"
+        [
+          "Telstra Dome"
+        ],
+        [
+          "/wiki/Docklands_Stadium"
+        ]
       ],
       [
-        "119",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "February 21, 2002",
-        null
+        [
+          "Melbourne"
+        ],
+        [
+          "/wiki/Melbourne"
+        ]
       ],
       [
-        "Lockheed Martin,A2100",
-        "/wiki/Lockheed_Martin /wiki/A2100"
+        [
+          "Victoria"
+        ],
+        [
+          "/wiki/Victoria_(Australia)"
+        ]
       ],
       [
-        "Muzak",
-        "/wiki/Muzak_Holdings"
+        [
+          "53,371"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Australia",
+          "Ireland"
+        ],
+        [
+          "/wiki/Australia_national_rugby_union_team",
+          "/wiki/Ireland_national_rugby_union_team"
+        ]
       ]
     ],
     [
       [
-        "EchoStar VIII",
-        "/wiki/EchoStar_VIII"
+        [
+          "Subiaco Oval"
+        ],
+        [
+          "/wiki/Subiaco_Oval"
+        ]
       ],
       [
-        "77",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "August 21, 2002",
-        null
+        [
+          "Perth"
+        ],
+        [
+          "/wiki/Perth,_Western_Australia"
+        ]
       ],
       [
-        "Space Systems/Loral,FS-1300",
-        "/wiki/Space_Systems/Loral /wiki/LS-1300"
+        [
+          "Western Australia"
+        ],
+        [
+          "/wiki/Western_Australia"
+        ]
       ],
       [
-        "Formerly at 110. On January 30, 2011, the satellite experienced a single event upset and drifted out of its intended orbit, this required all services to be relocated to other available satellite capacity in the Eastern Arc. One week later some services were restored, but the satellite is expected to be taken out of service again and replaced temporarily by EchoStar VI in order to conduct further testing.",
-        null
+        [
+          "42,922"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "South Africa",
+          "England"
+        ],
+        [
+          "/wiki/South_Africa_national_rugby_union_team",
+          "/wiki/England_national_rugby_union_team"
+        ]
       ]
     ],
     [
       [
-        "EchoStar X",
-        "/wiki/EchoStar_X"
+        [
+          "Canberra Stadium"
+        ],
+        [
+          "/wiki/Canberra_Stadium"
+        ]
       ],
       [
-        "110",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "February 15, 2006",
-        null
+        [
+          "Canberra"
+        ],
+        [
+          "/wiki/Canberra"
+        ]
       ],
       [
-        "Lockheed Martin,A2100",
-        "/wiki/Lockheed_Martin /wiki/A2100"
+        [
+          "Australian Capital Territory"
+        ],
+        [
+          "/wiki/Australian_Capital_Territory"
+        ]
       ],
       [
-        "First seen functioning May 2016 in the 110.0W slot and is still transmitting from the same location as of October 2016.",
-        null
+        [
+          "24,647"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Italy",
+          "Wales"
+        ],
+        [
+          "/wiki/Italy_national_rugby_union_team",
+          "/wiki/Wales_national_rugby_union_team"
+        ]
       ]
     ],
     [
       [
-        "EchoStar XI",
-        "/wiki/EchoStar_XI"
+        [
+          "Adelaide Oval"
+        ],
+        [
+          "/wiki/Adelaide_Oval"
+        ]
       ],
       [
-        "110",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "July 16, 2008",
-        null
+        [
+          "Adelaide"
+        ],
+        [
+          "/wiki/Adelaide"
+        ]
       ],
       [
-        "Space Systems/Loral,LS-1300",
-        "/wiki/Space_Systems/Loral /wiki/LS-1300"
+        [
+          "South Australia"
+        ],
+        [
+          "/wiki/South_Australia"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "33,597"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Australia",
+          "Namibia"
+        ],
+        [
+          "/wiki/Australia_national_rugby_union_team",
+          "/wiki/Namibia_national_rugby_union_team"
+        ]
       ]
     ],
     [
       [
-        "EchoStar XII",
-        "/wiki/Echostar_XII"
+        [
+          "York Park"
+        ],
+        [
+          "/wiki/York_Park"
+        ]
       ],
       [
-        "61.5",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "July 17, 2003",
-        null
+        [
+          "Launceston"
+        ],
+        [
+          "/wiki/Launceston,_Tasmania"
+        ]
       ],
       [
-        "Lockheed Martin",
-        "/wiki/Lockheed_Martin"
+        [
+          "Tasmania"
+        ],
+        [
+          "/wiki/Tasmania"
+        ]
       ],
       [
-        "Rainbow 1",
-        "/wiki/Rainbow-1"
-      ]
-    ],
-    [
-      [
-        "Echostar XIV",
-        "/wiki/Echostar_XIV"
+        [
+          "19,891"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "119",
-        null
-      ],
-      [
-        "March 20, 2010",
-        null
-      ],
-      [
-        "Space Systems/Loral,FS-1300",
-        "/wiki/Space_Systems/Loral /wiki/LS-1300"
-      ],
-      [
-        "Replaced Echostar VII. EchoStar XIV launched on an International Launch Services Proton/Breeze M vehicle from the Baikonur Cosmodrome in Kazakhstan. Resides at an altitude of 22,000 miles.",
-        null
-      ]
-    ],
-    [
-      [
-        "EchoStar XV",
-        "/wiki/EchoStar_XV"
-      ],
-      [
-        "61.5",
-        null
-      ],
-      [
-        "July 10, 2010",
-        null
-      ],
-      [
-        "Space Systems/Loral,FS-1300",
-        "/wiki/Space_Systems/Loral /wiki/LS-1300"
-      ],
-      [
-        "CONUS",
-        "/wiki/Contiguous_United_States"
-      ]
-    ],
-    [
-      [
-        "Anik F3",
-        "/wiki/Anik_(satellite)"
-      ],
-      [
-        "118.75",
-        null
-      ],
-      [
-        "April 12, 2007",
-        null
-      ],
-      [
-        "Astrium Eurostar 3000",
-        "/wiki/Eurostar_E3000"
-      ],
-      [
-        "Telesat Canada,CONUS",
-        "/wiki/Telesat_Canada /wiki/Contiguous_United_States"
-      ]
-    ],
-    [
-      [
-        "Ciel-2",
-        "/wiki/Ciel-2"
-      ],
-      [
-        "129",
-        null
-      ],
-      [
-        "December 10, 2008",
-        null
-      ],
-      [
-        "Thales Alenia Space,Spacebus-4000C4",
-        "/wiki/Thales_Alenia_Space /wiki/Spacebus_4000"
-      ],
-      [
-        "Replaced EchoStar V at the 129\u00b0W orbital location. Owned by Canadian Ciel Satellite Group, EchoStar leases the entire bandwidth of the Ciel-2 satellite. Provides national HD programming and HD spot beam locals.",
-        null
-      ]
-    ],
-    [
-      [
-        "Nimiq 5",
-        "/wiki/Nimiq_5"
-      ],
-      [
-        "72.7",
-        null
-      ],
-      [
-        "September 17, 2009",
-        null
-      ],
-      [
-        "Space Systems/Loral",
-        "/wiki/Space_Systems/Loral"
-      ],
-      [
-        "A Canadian satellite operated by Telesat Canada. EchoStar leases the satellite's capacity.",
-        null
+        [
+          "Namibia",
+          "Romania"
+        ],
+        [
+          "/wiki/Namibia_national_rugby_union_team",
+          "/wiki/Romania_national_rugby_union_team"
+        ]
       ]
     ]
   ],
-  "context": "Most of the satellites used by DISH Network are owned and operated DISH. DISH frequently moves satellites among its many orbiting slots this list may not be accurate. Refer to Lyngsat and DISH Channel Chart for detailed satellite information.",
+  "context": "",
   "idx": 7590
 }

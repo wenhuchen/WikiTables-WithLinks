@@ -1,383 +1,1063 @@
 {
-  "url": "https://en.wikipedia.org/wiki/1926_International_Cross_Country_Championships",
-  "title": "1926 International Cross Country Championships",
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions",
+  "title": "Comparison of Linux distributions",
   "header": [
     [
-      "Rank",
-      null
+      [
+        "Distribution"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Athlete",
-      null
+      [
+        "Linux kernel"
+      ],
+      [
+        "/wiki/Linux_kernel"
+      ]
     ],
     [
-      "Nationality",
-      null
+      [
+        "file system"
+      ],
+      [
+        "/wiki/File_system"
+      ]
     ],
     [
-      "Time",
-      null
+      [
+        "init system"
+      ],
+      [
+        "/wiki/Init"
+      ]
+    ],
+    [
+      [
+        "desktop environment",
+        "window manager"
+      ],
+      [
+        "/wiki/Desktop_environment",
+        "/wiki/Window_manager"
+      ]
+    ],
+    [
+      [
+        "Reproducible builds"
+      ],
+      [
+        "/wiki/Reproducible_builds"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "",
-        null
+        [
+          "Alpine Linux"
+        ],
+        [
+          "/wiki/Alpine_Linux"
+        ]
       ],
       [
-        "Ernie Harper",
-        "/wiki/Ernie_Harper"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "England",
-        "/wiki/England"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "44:17.4",
-        null
+        [
+          "openrc"
+        ],
+        [
+          "/wiki/OpenRC"
+        ]
+      ],
+      [
+        [
+          "none"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "",
-        null
+        [
+          "ALT Linux"
+        ],
+        [
+          "/wiki/ALT_Linux"
+        ]
       ],
       [
-        "Joseph Guillemot",
-        "/wiki/Joseph_Guillemot"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "France",
-        "/wiki/France"
+        [
+          "ext3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "44:59",
-        null
+        [
+          "systemd"
+        ],
+        [
+          "/wiki/Systemd"
+        ]
+      ],
+      [
+        [
+          "Xfce"
+        ],
+        [
+          "/wiki/Xfce"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "",
-        null
+        [
+          "Arch Linux"
+        ],
+        [
+          "/wiki/Arch_Linux"
+        ]
       ],
       [
-        "Robert Marchal",
-        "/wiki/Robert_Marchal"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "France",
-        "/wiki/France"
+        [
+          "none"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "45:04",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "none"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "BLAG"
+        ],
+        [
+          "/wiki/BLAG_Linux_and_GNU"
+        ]
       ],
       [
-        "Lucien Dolqu\u00e8s",
-        null
+        [
+          "Linux-libre"
+        ],
+        [
+          "/wiki/Linux-libre"
+        ]
       ],
       [
-        "France",
-        "/wiki/France"
+        [
+          "ext3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "45:06",
-        null
+        [
+          "sysvinit"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GNOME"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Bodhi Linux"
+        ],
+        [
+          "/wiki/Bodhi_Linux"
+        ]
       ],
       [
-        "James Mitchell",
-        null
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Scotland",
-        "/wiki/Scotland"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "45:10",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Enlightenment"
+        ],
+        [
+          "/wiki/Enlightenment_(window_manager)"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "Canaima"
+        ],
+        [
+          "/wiki/Canaima_(operating_system)"
+        ]
       ],
       [
-        "Emile Chapuis",
-        null
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "France",
-        "/wiki/France"
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cinnamon",
+          "MATE"
+        ],
+        [
+          "/wiki/Cinnamon_(software)",
+          "/wiki/MATE_(software)"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "CentOS"
+        ],
+        [
+          "/wiki/CentOS"
+        ]
       ],
       [
-        "Albert Rodway",
-        null
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "England",
-        "/wiki/England"
+        [
+          "xfs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "45:12",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GNOME"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "Chakra"
+        ],
+        [
+          "/wiki/Chakra_(operating_system)"
+        ]
       ],
       [
-        "Maurice Norland",
-        "/wiki/Maurice_Norland"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "France",
-        "/wiki/France"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "KDE Plasma Workspaces"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "ClearOS"
+        ],
+        [
+          "/wiki/ClearOS"
+        ]
       ],
       [
-        "L\u00e9on Thierr\u00e9",
-        null
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "France",
-        "/wiki/France"
+        [
+          "ext3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "none (Web based)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "CoreOS"
+        ],
+        [
+          "/wiki/CoreOS"
+        ]
       ],
       [
-        "Arthur Muggridge",
-        "/wiki/Arthur_Muggridge"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "England",
-        "/wiki/England"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "45:32",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "None"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "11",
-        null
+        [
+          "CrunchBang Linux"
+        ],
+        [
+          "/wiki/CrunchBang_Linux"
+        ]
       ],
       [
-        "Ernest Bedel",
-        null
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "France",
-        "/wiki/France"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "sysvinit"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Openbox"
+        ],
+        [
+          "/wiki/Openbox"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "12",
-        null
+        [
+          "Damn Small Linux"
+        ],
+        [
+          "/wiki/Damn_Small_Linux"
+        ]
       ],
       [
-        "Bill Cotterell",
-        "/wiki/HTTP_404"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "England",
-        "/wiki/England"
+        [
+          "ext3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "sysvinit"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "JWM"
+        ],
+        [
+          "/wiki/JWM"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "13",
-        null
+        [
+          "Debian"
+        ],
+        [
+          "/wiki/Debian"
+        ]
       ],
       [
-        "Dunky Wright",
-        "/wiki/Dunky_Wright"
+        [
+          "Linux-libre"
+        ],
+        [
+          "/wiki/Linux-libre"
+        ]
       ],
       [
-        "Scotland",
-        "/wiki/Scotland"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "45:48",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "KDE",
+          "Xfce",
+          "LXDE"
+        ],
+        [
+          "/wiki/KDE",
+          "/wiki/Xfce",
+          "/wiki/LXDE"
+        ]
+      ],
+      [
+        [
+          "In progress"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "14",
-        null
+        [
+          "Devuan"
+        ],
+        [
+          "/wiki/Devuan"
+        ]
       ],
       [
-        "Austin Price",
-        null
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "England",
-        "/wiki/England"
+        [
+          "ext4"
+        ],
+        [
+          "/wiki/Ext4"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "sysvinit"
+        ],
+        [
+          "/wiki/Sysvinit"
+        ]
+      ],
+      [
+        [
+          "Xfce"
+        ],
+        [
+          "/wiki/Xfce"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "15",
-        null
+        [
+          "Dragora GNU/Linux-Libre"
+        ],
+        [
+          "/wiki/Dragora_GNU/Linux-Libre"
+        ]
       ],
       [
-        "Paul Bontemps",
-        "/wiki/Paul_Bontemps"
+        [
+          "Linux-libre"
+        ],
+        [
+          "/wiki/Linux-libre"
+        ]
       ],
       [
-        "France",
-        "/wiki/France"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "runit"
+        ],
+        [
+          "/wiki/Runit"
+        ]
+      ],
+      [
+        [
+          "Xfce"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "16",
-        null
+        [
+          "dyne:bolic"
+        ],
+        [
+          "/wiki/Dyne:bolic"
+        ]
       ],
       [
-        "Frank Stevenson",
-        null
+        [
+          "Linux-libre"
+        ],
+        [
+          "/wiki/Linux-libre"
+        ]
       ],
       [
-        "Scotland",
-        "/wiki/Scotland"
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "45:58",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GNOME"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "17",
-        null
+        [
+          "Fedora"
+        ],
+        [
+          "/wiki/Fedora_(operating_system)"
+        ]
       ],
       [
-        "Leon Degrande",
-        null
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Belgium",
-        "/wiki/Belgium"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "46:00",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Sugar on a Stick"
+        ],
+        [
+          "/wiki/Sugar_(software)"
+        ]
+      ],
+      [
+        [
+          "In progress"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "18",
-        null
+        [
+          "Funtoo"
+        ],
+        [
+          "/wiki/Funtoo_Linux"
+        ]
       ],
       [
-        "Tommy Metcalf",
-        null
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "England",
-        "/wiki/England"
+        [
+          "none"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "openrc"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "None"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "19",
-        null
+        [
+          "Gentoo"
+        ],
+        [
+          "/wiki/Gentoo_Linux"
+        ]
       ],
       [
-        "John Ryan",
-        "/wiki/John_Ryan_(athlete)"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ireland",
-        "/wiki/Ireland"
+        [
+          "none"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "46:15",
-        null
+        [
+          "openrc"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Awesome"
+        ],
+        [
+          "/wiki/Awesome_(window_manager)"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "20",
-        null
+        [
+          "gNewSense"
+        ],
+        [
+          "/wiki/GNewSense"
+        ]
       ],
       [
-        "B.D. Hammond",
-        null
+        [
+          "Debian Linux kernel, and (unlike Debian) blobs cannot be installed"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Wales",
-        "/wiki/Wales"
+        [
+          "ext3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "46:17",
-        null
+        [
+          "sysvinit"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GNOME"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

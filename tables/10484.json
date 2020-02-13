@@ -1,383 +1,447 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Presidents'_Trophy",
-  "title": "Presidents' Trophy",
+  "url": "https://en.wikipedia.org/wiki/WRU_Challenge_Cup",
+  "title": "WRU Challenge Cup",
   "header": [
     [
-      "Year",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Winner",
-      null
+      [
+        "Winners"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Points",
-      null
-    ],
-    [
-      "Playoff Result",
-      null
+      [
+        "Runners-up"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1926\u201327",
-        "/wiki/1926%E2%80%9327_NHL_season"
+        [
+          "Llanelli"
+        ],
+        [
+          "/wiki/Llanelli_RFC"
+        ]
       ],
       [
-        "Ottawa Senators",
-        "/wiki/1926%E2%80%9327_Ottawa_Senators_season"
+        [
+          "14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "64",
-        null
-      ],
-      [
-        "Won Stanley Cup*",
-        null
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1927\u201328",
-        "/wiki/1927%E2%80%9328_NHL_season"
+        [
+          "Cardiff"
+        ],
+        [
+          "/wiki/Cardiff_RFC"
+        ]
       ],
       [
-        "Montreal Canadiens",
-        "/wiki/1927%E2%80%9328_Montreal_Canadiens_season"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "59",
-        null
-      ],
-      [
-        "MMR",
-        "/wiki/1927%E2%80%9328_Montreal_Maroons_season"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1928\u201329",
-        "/wiki/1928%E2%80%9329_NHL_season"
+        [
+          "Neath"
+        ],
+        [
+          "/wiki/Neath_RFC"
+        ]
       ],
       [
-        "Montreal Canadiens",
-        "/wiki/1928%E2%80%9329_Montreal_Canadiens_season"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "59",
-        null
-      ],
-      [
-        "BOS",
-        "/wiki/1928%E2%80%9329_Boston_Bruins_season"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1929\u201330",
-        "/wiki/1929%E2%80%9330_NHL_season"
+        [
+          "Pontypridd"
+        ],
+        [
+          "/wiki/Pontypridd_RFC"
+        ]
       ],
       [
-        "Boston Bruins",
-        "/wiki/1929%E2%80%9330_Boston_Bruins_season"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "77",
-        null
-      ],
-      [
-        "MTL",
-        "/wiki/1929%E2%80%9330_Montreal_Canadiens_season"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1930\u201331",
-        "/wiki/1930%E2%80%9331_NHL_season"
+        [
+          "Swansea"
+        ],
+        [
+          "/wiki/Swansea_RFC"
+        ]
       ],
       [
-        "Boston Bruins",
-        "/wiki/1930%E2%80%9331_Boston_Bruins_season"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "62",
-        null
-      ],
-      [
-        "MTL",
-        "/wiki/1930%E2%80%9331_Montreal_Canadiens_season"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1931\u201332",
-        "/wiki/1931%E2%80%9332_NHL_season"
+        [
+          "Bridgend"
+        ],
+        [
+          "/wiki/Bridgend_RFC"
+        ]
       ],
       [
-        "Montreal Canadiens",
-        "/wiki/1931%E2%80%9332_Montreal_Canadiens_season"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "57",
-        null
-      ],
-      [
-        "NYR",
-        "/wiki/1931%E2%80%9332_New_York_Rangers_season"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1932\u201333",
-        "/wiki/1932%E2%80%9333_NHL_season"
+        [
+          "Newport"
+        ],
+        [
+          "/wiki/Newport_RFC"
+        ]
       ],
       [
-        "Boston Bruins",
-        "/wiki/1932%E2%80%9333_Boston_Bruins_season"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "58",
-        null
-      ],
-      [
-        "TOR",
-        "/wiki/1932%E2%80%9333_Toronto_Maple_Leafs_season"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1933\u201334",
-        "/wiki/1933%E2%80%9334_NHL_season"
+        [
+          "Llandovery"
+        ],
+        [
+          "/wiki/Llandovery_RFC"
+        ]
       ],
       [
-        "Toronto Maple Leafs",
-        "/wiki/1933%E2%80%9334_Toronto_Maple_Leafs_season"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "61",
-        null
-      ],
-      [
-        "DET",
-        "/wiki/1933%E2%80%9334_Detroit_Red_Wings_season"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1934\u201335",
-        "/wiki/1934%E2%80%9335_NHL_season"
+        [
+          "Pontypool"
+        ],
+        [
+          "/wiki/Pontypool_RFC"
+        ]
       ],
       [
-        "Toronto Maple Leafs",
-        "/wiki/1934%E2%80%9335_Toronto_Maple_Leafs_season"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "64",
-        null
-      ],
-      [
-        "MMR",
-        "/wiki/1934%E2%80%9335_Montreal_Maroons_season"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1935\u201336",
-        "/wiki/1935%E2%80%9336_NHL_season"
+        [
+          "Cross Keys"
+        ],
+        [
+          "/wiki/Cross_Keys_RFC"
+        ]
       ],
       [
-        "Detroit Red Wings",
-        "/wiki/1935%E2%80%9336_Detroit_Red_Wings_season"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "56",
-        null
-      ],
-      [
-        "Won Stanley Cup*",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1936\u201337",
-        "/wiki/1936%E2%80%9337_NHL_season"
+        [
+          "Merthyr"
+        ],
+        [
+          "/wiki/Merthyr_RFC"
+        ]
       ],
       [
-        "Detroit Red Wings",
-        "/wiki/1936%E2%80%9337_Detroit_Red_Wings_season"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "59",
-        null
-      ],
-      [
-        "Won Stanley Cup*",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1937\u201338",
-        "/wiki/1937%E2%80%9338_NHL_season"
+        [
+          "RGC 1404"
+        ],
+        [
+          "/wiki/RGC_1404"
+        ]
       ],
       [
-        "Boston Bruins",
-        "/wiki/1937%E2%80%9338_Boston_Bruins_season"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "67",
-        null
-      ],
-      [
-        "TOR",
-        "/wiki/1937%E2%80%9338_Toronto_Maple_Leafs_season"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1938\u201339",
-        "/wiki/1938%E2%80%9339_NHL_season"
+        [
+          "Aberavon"
+        ],
+        [
+          "/wiki/Aberavon_RFC"
+        ]
       ],
       [
-        "Boston Bruins",
-        "/wiki/1938%E2%80%9339_Boston_Bruins_season"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "74",
-        null
-      ],
-      [
-        "Won Stanley Cup*",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1939\u201340",
-        "/wiki/1939%E2%80%9340_NHL_season"
+        [
+          "Carmarthen Quins"
+        ],
+        [
+          "/wiki/Carmarthen_Quins_RFC"
+        ]
       ],
       [
-        "Boston Bruins",
-        "/wiki/1939%E2%80%9340_Boston_Bruins_season"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "67",
-        null
-      ],
-      [
-        "NYR",
-        "/wiki/1939%E2%80%9340_New_York_Rangers_season"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1940\u201341",
-        "/wiki/1940%E2%80%9341_NHL_season"
+        [
+          "Caerphilly"
+        ],
+        [
+          "/wiki/Caerphilly_RFC"
+        ]
       ],
       [
-        "Boston Bruins",
-        "/wiki/1940%E2%80%9341_Boston_Bruins_season"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "67",
-        null
-      ],
-      [
-        "Won Stanley Cup*",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1941\u201342",
-        "/wiki/1941%E2%80%9342_NHL_season"
+        [
+          "Ebbw Vale"
+        ],
+        [
+          "/wiki/Ebbw_Vale_RFC"
+        ]
       ],
       [
-        "New York Rangers",
-        "/wiki/1941%E2%80%9342_New_York_Rangers_season"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "60",
-        null
-      ],
-      [
-        "TOR",
-        "/wiki/1941%E2%80%9342_Toronto_Maple_Leafs_season"
-      ]
-    ],
-    [
-      [
-        "1942\u201343",
-        "/wiki/1942%E2%80%9343_NHL_season"
-      ],
-      [
-        "Detroit Red Wings",
-        "/wiki/1942%E2%80%9343_Detroit_Red_Wings_season"
-      ],
-      [
-        "61",
-        null
-      ],
-      [
-        "Won Stanley Cup*",
-        null
-      ]
-    ],
-    [
-      [
-        "1943\u201344",
-        "/wiki/1943%E2%80%9344_NHL_season"
-      ],
-      [
-        "Montreal Canadiens",
-        "/wiki/1943%E2%80%9344_Montreal_Canadiens_season"
-      ],
-      [
-        "83",
-        null
-      ],
-      [
-        "Won Stanley Cup*",
-        null
-      ]
-    ],
-    [
-      [
-        "1944\u201345",
-        "/wiki/1944%E2%80%9345_NHL_season"
-      ],
-      [
-        "Montreal Canadiens",
-        "/wiki/1944%E2%80%9345_Montreal_Canadiens_season"
-      ],
-      [
-        "80",
-        null
-      ],
-      [
-        "TOR",
-        "/wiki/1944%E2%80%9345_Toronto_Maple_Leafs_season"
-      ]
-    ],
-    [
-      [
-        "1945\u201346",
-        "/wiki/1945%E2%80%9346_NHL_season"
-      ],
-      [
-        "Montreal Canadiens",
-        "/wiki/1945%E2%80%9346_Montreal_Canadiens_season"
-      ],
-      [
-        "61",
-        null
-      ],
-      [
-        "Won Stanley Cup*",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

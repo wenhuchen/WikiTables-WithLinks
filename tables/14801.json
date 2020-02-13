@@ -1,347 +1,563 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bulgaria",
-  "title": "List of airports in Bulgaria",
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
   "header": [
     [
-      "City\u00a0served",
-      "/wiki/List_of_cities_in_Bulgaria"
+      [
+        "Emulator"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Province",
-      "/wiki/Provinces_of_Bulgaria"
+      [
+        "Latest version"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "ICAO",
-      "/wiki/ICAO_airport_code"
+      [
+        "Released"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Airport\u00a0name",
-      null
+      [
+        "Guest emulation capabilities"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Host Operating System"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "License"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Burgas,Sarafovo",
-        "/wiki/Burgas /wiki/Sarafovo"
+        [
+          "E-UAE"
+        ],
+        [
+          "/wiki/E-UAE"
+        ]
       ],
       [
-        "Burgas",
-        "/wiki/Burgas_Province"
+        [
+          "0.8.29wip4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LBBG",
-        null
+        [
+          "March 27, 2007"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Burgas Airport",
-        "/wiki/Burgas_Airport"
+        [
+          "Amiga"
+        ],
+        [
+          "/wiki/Amiga"
+        ]
+      ],
+      [
+        [
+          "BeOS"
+        ],
+        [
+          "/wiki/BeOS"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Gorna Oryahovitsa",
-        "/wiki/Gorna_Oryahovitsa"
+        [
+          "Fellow"
+        ],
+        [
+          "/wiki/Fellow_(computing)"
+        ]
       ],
       [
-        "Veliko Tarnovo",
-        "/wiki/Veliko_Tarnovo_Province"
+        [
+          "0.5.7.1067"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LBGO",
-        null
+        [
+          "January 2, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Gorna Oryahovitsa Airport",
-        "/wiki/Gorna_Oryahovitsa_Airport"
+        [
+          "Amiga"
+        ],
+        [
+          "/wiki/Amiga"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Plovdiv,Krumovo",
-        "/wiki/Plovdiv /wiki/Krumovo"
+        [
+          "FS-UAE"
+        ],
+        [
+          "/wiki/Unix_Amiga_Emulator"
+        ]
       ],
       [
-        "Plovdiv",
-        "/wiki/Plovdiv_Province"
+        [
+          "2.8.3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LBPD",
-        null
+        [
+          "January 8, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Plovdiv Airport",
-        "/wiki/Plovdiv_Airport"
+        [
+          "Amiga"
+        ],
+        [
+          "/wiki/Amiga"
+        ]
+      ],
+      [
+        [
+          "Windows, OS X, Linux, FreeBSD"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Rousse,Shtraklevo",
-        "/wiki/Rousse /wiki/Shtraklevo"
+        [
+          "MAME",
+          "MESS"
+        ],
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
       ],
       [
-        "Rousse",
-        "/wiki/Rousse_Province"
+        [
+          "0.196"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LBRS",
-        null
+        [
+          "March 28, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ruse Airport",
-        "/wiki/Ruse_Airport"
+        [
+          "Various computers, consoles, and arcade systems"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "New BSD",
+          "GPLv2"
+        ],
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "Sofia",
-        "/wiki/Sofia"
+        [
+          "MyUAE"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sofia",
-        "/wiki/Sofia"
+        [
+          "0.91"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LBSF",
-        null
+        [
+          "August 24, 2006"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sofia Airport",
-        "/wiki/Sofia_Airport"
+        [
+          "Amiga"
+        ],
+        [
+          "/wiki/Amiga"
+        ]
+      ],
+      [
+        [
+          "Palm OS"
+        ],
+        [
+          "/wiki/Palm_OS"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Stara Zagora",
-        "/wiki/Stara_Zagora"
+        [
+          "PalmUAE"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stara Zagora",
-        "/wiki/Stara_Zagora_Province"
+        [
+          "1.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LBSZ",
-        null
+        [
+          "September 12, 2006"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stara Zagora Airport",
-        "/wiki/Stara_Zagora_Airport"
+        [
+          "Amiga"
+        ],
+        [
+          "/wiki/Amiga"
+        ]
+      ],
+      [
+        [
+          "Palm OS"
+        ],
+        [
+          "/wiki/Palm_OS"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Varna,Aksakovo",
-        "/wiki/Varna /wiki/Aksakovo"
+        [
+          "PocketUAE"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Varna",
-        "/wiki/Varna_Province"
+        [
+          "20060121"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LBWN",
-        null
+        [
+          "January 21, 2006"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Varna Airport",
-        "/wiki/Varna_Airport"
+        [
+          "Amiga"
+        ],
+        [
+          "/wiki/Amiga"
+        ]
+      ],
+      [
+        [
+          "Pocket PC"
+        ],
+        [
+          "/wiki/Pocket_PC"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Balchik",
-        "/wiki/Balchik"
+        [
+          "UAE"
+        ],
+        [
+          "/wiki/Unix_Amiga_Emulator"
+        ]
       ],
       [
-        "Dobrich",
-        "/wiki/Dobrich_Province"
+        [
+          "0.8.29"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LBWB",
-        null
+        [
+          "UAE v0.8.29 2008-11-30, FS-UAE v2.6.2 2015-10-27, E-UAE v0.8.29 2007-03-28"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Balchik Airfield",
-        "/wiki/Balchik_Airfield"
+        [
+          "Amiga"
+        ],
+        [
+          "/wiki/Amiga"
+        ]
+      ],
+      [
+        [
+          "BeOS",
+          "NeXTSTEP"
+        ],
+        [
+          "/wiki/BeOS",
+          "/wiki/NeXTSTEP"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Bohot",
-        "/wiki/Bohot"
+        [
+          "UAE4All"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pleven",
-        "/wiki/Pleven_Province"
+        [
+          "rc1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LBBO",
-        null
+        [
+          "November 3, 2006"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bohot Airfield",
-        "/wiki/Bohot_Airfield"
+        [
+          "Amiga"
+        ],
+        [
+          "/wiki/Amiga"
+        ]
+      ],
+      [
+        [
+          "Dreamcast",
+          "Dingoo"
+        ],
+        [
+          "/wiki/Dreamcast",
+          "/wiki/Dingoo"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Grivitsa",
-        "/wiki/Grivitsa"
+        [
+          "WinUAE"
+        ],
+        [
+          "/wiki/WinUAE"
+        ]
       ],
       [
-        "Pleven",
-        "/wiki/Pleven_Province"
+        [
+          "4.1.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LBGR",
-        null
+        [
+          "December 5, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grivitza Airfield",
-        "/wiki/Grivitza_Airfield"
-      ]
-    ],
-    [
-      [
-        "Dolna Banya",
-        "/wiki/Dolna_Banya"
+        [
+          "Amiga"
+        ],
+        [
+          "/wiki/Amiga"
+        ]
       ],
       [
-        "Sofia",
-        "/wiki/Sofia_Province"
+        [
+          "Windows"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LBDB",
-        null
-      ],
-      [
-        "Dolna Bania Airfield",
-        "/wiki/Dolna_Bania_Airfield"
-      ]
-    ],
-    [
-      [
-        "Erden,Bojchinovci",
-        "/wiki/Erden,_Bulgaria /wiki/Bojchinovci"
-      ],
-      [
-        "Montana",
-        "/wiki/Montana_Province"
-      ],
-      [
-        "LBED",
-        null
-      ],
-      [
-        "Erden Airfield",
-        "/wiki/Erden_Airfield"
-      ]
-    ],
-    [
-      [
-        "Izgrev,Kalimantsi",
-        "/wiki/Izgrev,_Varna_Province /wiki/Kalimantsi,_Varna_Province"
-      ],
-      [
-        "Varna",
-        "/wiki/Varna_Province"
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "Izgrev Airfield",
-        "/wiki/Izgrev_Airfield"
-      ]
-    ],
-    [
-      [
-        "Ihtiman",
-        "/wiki/Ihtiman"
-      ],
-      [
-        "Sofia",
-        "/wiki/Sofia_Province"
-      ],
-      [
-        "LBHT",
-        null
-      ],
-      [
-        "Ihtiman Airfield",
-        "/wiki/Ihtiman_Airfield"
-      ]
-    ],
-    [
-      [
-        "Kaynardzha",
-        "/wiki/Kaynardzha"
-      ],
-      [
-        "Silistra",
-        "/wiki/Silistra_Province"
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "Kaynardzha Airfield",
-        "/wiki/Kaynardzha_Airfield"
-      ]
-    ],
-    [
-      [
-        "Lesnovo,Elin Pelin",
-        "/wiki/Lesnovo,_Bulgaria /wiki/Elin_Pelin_(town)"
-      ],
-      [
-        "Sofia",
-        "/wiki/Sofia_Province"
-      ],
-      [
-        "LBLS",
-        null
-      ],
-      [
-        "Lesnovo Airfield",
-        "/wiki/Lesnovo_Airfield"
-      ]
-    ],
-    [
-      [
-        "Polikraishte",
-        "/wiki/Polikraishte"
-      ],
-      [
-        "Veliko Tarnovo",
-        "/wiki/Veliko_Tarnovo_Province"
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "Polikraishte Airfield",
-        "/wiki/HTTP_404"
-      ]
-    ],
-    [
-      [
-        "Primorsko",
-        "/wiki/Primorsko"
-      ],
-      [
-        "Burgas",
-        "/wiki/Burgas_Province"
-      ],
-      [
-        "LBPR",
-        null
-      ],
-      [
-        "Primorsko Airfield",
-        "/wiki/Primorsko_Airfield"
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ]
   ],

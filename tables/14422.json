@@ -1,379 +1,721 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2011_Allsvenskan",
-  "title": "2011 Allsvenskan",
+  "url": "https://en.wikipedia.org/wiki/2002_World_Series_of_Poker",
+  "title": "2002 World Series of Poker",
   "header": [
     [
-      "Team",
-      null
+      [
+        "Event"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Head coach",
-      null
+      [
+        "Winner"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Captain",
-      null
+      [
+        "Prize"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Kit manufacturer",
-      null
-    ],
-    [
-      "Shirt sponsor",
-      null
+      [
+        "Runner-up"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "AIK",
-        null
+        [
+          "Limit",
+          "Hold'em"
+        ],
+        [
+          "/wiki/Betting_(poker)",
+          "/wiki/Hold%27em"
+        ]
       ],
       [
-        "Andreas Alm",
-        "/wiki/Andreas_Alm"
+        [
+          "David Warga"
+        ],
+        [
+          "/wiki/David_Warga_(poker_player)"
+        ]
       ],
       [
-        "Daniel Tjernstr\u00f6m",
-        "/wiki/Daniel_Tjernstr%C3%B6m"
+        [
+          "$47,300"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "adidas",
-        "/wiki/Adidas"
-      ],
-      [
-        "\u00c5bro",
-        null
+        [
+          "Leon Wheeler"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Djurg\u00e5rdens IF",
-        null
+        [
+          "$2,000 Limit Hold'em"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Magnus Pehrsson,Carlos Banda",
-        "/wiki/Magnus_Pehrsson /wiki/Carlos_Banda_(footballer,_born_1978)"
+        [
+          "Mike Majerus"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Joel Riddez",
-        "/wiki/Joel_Riddez"
+        [
+          "$407,120"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "adidas",
-        null
-      ],
-      [
-        "ICA",
-        "/wiki/ICA_AB"
+        [
+          "David Chiu"
+        ],
+        [
+          "/wiki/David_Chiu_(poker_player)"
+        ]
       ]
     ],
     [
       [
-        "Elfsborg",
-        null
+        [
+          "Omaha"
+        ],
+        [
+          "/wiki/Omaha_hold%27em"
+        ]
       ],
       [
-        "Magnus Haglund",
-        "/wiki/Magnus_Haglund"
+        [
+          "Perry Friedman"
+        ],
+        [
+          "/wiki/Perry_Friedman"
+        ]
       ],
       [
-        "Anders Svensson",
-        "/wiki/Anders_Svensson_(footballer,_born_1976)"
+        [
+          "$176,860"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Umbro",
-        "/wiki/Umbro"
-      ],
-      [
-        "Swedbank",
-        "/wiki/Swedbank"
+        [
+          "Greg Mascio"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "GAIS",
-        null
+        [
+          "No Limit"
+        ],
+        [
+          "/wiki/Betting_(poker)"
+        ]
       ],
       [
-        "Alexander Ax\u00e9n",
-        "/wiki/Alexander_Ax%C3%A9n"
+        [
+          "Layne Flack"
+        ],
+        [
+          "/wiki/Layne_Flack"
+        ]
       ],
       [
-        "Fredrik Lundgren",
-        "/wiki/Fredrik_Lundgren"
+        [
+          "$303,880"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Puma",
-        "/wiki/Puma_SE"
-      ],
-      [
-        "Swedbank\u00c5bro",
-        null
+        [
+          "Tom Jacobs"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Gefle",
-        null
+        [
+          "Seven Card Stud"
+        ],
+        [
+          "/wiki/Seven_card_stud"
+        ]
       ],
       [
-        "Per Olsson",
-        "/wiki/Per_Olsson"
+        [
+          "Phil Ivey"
+        ],
+        [
+          "/wiki/Phil_Ivey"
+        ]
       ],
       [
-        "Daniel Bernhardsson",
-        "/wiki/Daniel_Bernhardsson"
+        [
+          "$132,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Umbro",
-        null
-      ],
-      [
-        "Sandvik",
-        "/wiki/Sandvik"
+        [
+          "Toto Leonidas"
+        ],
+        [
+          "/wiki/Toto_Leonidas"
+        ]
       ]
     ],
     [
       [
-        "IFK G\u00f6teborg",
-        null
+        [
+          "$1,500 Limit Omaha"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jonas Olsson",
-        "/wiki/Jonas_Olsson_(footballer_born_1970)"
+        [
+          "John Cernuto"
+        ],
+        [
+          "/wiki/John_Cernuto"
+        ]
       ],
       [
-        "Adam Johansson",
-        "/wiki/Adam_Johansson"
+        [
+          "$73,320"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "adidas",
-        null
-      ],
-      [
-        "Prioritet Finans",
-        null
+        [
+          "Randy Holland"
+        ],
+        [
+          "/wiki/Randy_Holland"
+        ]
       ]
     ],
     [
       [
-        "Halmstads BK",
-        null
+        [
+          "$1,500 Seven Card Stud Hi-Lo Split"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jens Gustafsson",
-        "/wiki/Jens_Gustafsson"
+        [
+          "Paul Clark"
+        ],
+        [
+          "/wiki/Paul_Clark_(poker_player)"
+        ]
       ],
       [
-        "Johnny Lundberg",
-        "/wiki/Johnny_Lundberg"
+        [
+          "$125,200"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Puma",
-        null
-      ],
-      [
-        "ICA",
-        null
+        [
+          "Andrew Prock"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Helsingborgs IF",
-        null
+        [
+          "Pot Limit"
+        ],
+        [
+          "/wiki/Betting_(poker)"
+        ]
       ],
       [
-        "Conny Karlsson,Per-Ola Ljung",
-        "/wiki/Conny_Karlsson_(footballer) /wiki/Per-Ola_Ljung"
+        [
+          "Jack Duncan"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "P\u00e4r Hansson",
-        "/wiki/P%C3%A4r_Hansson"
+        [
+          "$192,560"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Puma",
-        null
-      ],
-      [
-        "Resurs Bank",
-        "/wiki/Resurs_Bank"
+        [
+          "Lindy Chambers"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "H\u00e4cken",
-        null
+        [
+          "$2,500 No Limit Hold'em Gold Bracelet Match Play"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Peter Gerhardsson",
-        "/wiki/Peter_Gerhardsson"
+        [
+          "Johnny Chan"
+        ],
+        [
+          "/wiki/Johnny_Chan"
+        ]
       ],
       [
-        "Jonas Henriksson",
-        "/wiki/Jonas_Henriksson"
+        [
+          "$34,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nike",
-        "/wiki/Nike,_Inc."
-      ],
-      [
-        "BRA Bygg",
-        null
+        [
+          "Phil Hellmuth Jr."
+        ],
+        [
+          "/wiki/Phil_Hellmuth"
+        ]
       ]
     ],
     [
       [
-        "Kalmar FF",
-        null
+        [
+          "$2,000 H.O.R.S.E."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nanne Bergstrand",
-        "/wiki/Nanne_Bergstrand"
+        [
+          "John Hennigan"
+        ],
+        [
+          "/wiki/John_Hennigan_(poker_player)"
+        ]
       ],
       [
-        "Henrik Rydstr\u00f6m",
-        "/wiki/Henrik_Rydstr%C3%B6m"
+        [
+          "$117,320"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Puma",
-        null
-      ],
-      [
-        "Audio Video",
-        null
+        [
+          "Ben Tang"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Malm\u00f6 FF",
-        null
+        [
+          "$2,000 Pot Limit Hold'em"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rikard Norling",
-        "/wiki/Rikard_Norling"
+        [
+          "Jay Sipelstein"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Daniel Andersson",
-        "/wiki/Daniel_Andersson_(footballer_born_1977)"
+        [
+          "$150,240"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Puma",
-        null
-      ],
-      [
-        "ICA",
-        null
+        [
+          "Barny Boatman"
+        ],
+        [
+          "/wiki/Barny_Boatman"
+        ]
       ]
     ],
     [
       [
-        "Mj\u00e4llby",
-        null
+        [
+          "$2,500 Seven Card Stud"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Peter Sw\u00e4rdh",
-        "/wiki/Peter_Sw%C3%A4rdh"
+        [
+          "Dan Torla"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marcus Ekenberg",
-        "/wiki/Marcus_Ekenberg"
+        [
+          "$115,600"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Umbro",
-        null
-      ],
-      [
-        "St\u00e5l & R\u00f6r MontageBeglast",
-        null
+        [
+          "Bill Gibbs"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "IFK Norrk\u00f6ping",
-        null
+        [
+          "$3,000 Limit Hold'em"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Janne Andersson",
-        "/wiki/Jan_Andersson_(footballer)"
+        [
+          "John Hom"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mathias Flor\u00e9n",
-        "/wiki/Mathias_Flor%C3%A9n"
+        [
+          "$174,840"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Puma",
-        null
-      ],
-      [
-        "Holmen",
-        "/wiki/Holmen_(company)"
+        [
+          "Benny Wan"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Syrianska FC",
-        null
+        [
+          "Razz"
+        ],
+        [
+          "/wiki/Razz_(poker)"
+        ]
       ],
       [
-        "\u00d6zcan Melkemichel,Valeri Bondarenko",
-        "/wiki/%C3%96zcan_Melkemichel /wiki/Valeri_Bondarenko"
+        [
+          "Billy Baxter"
+        ],
+        [
+          "/wiki/Billy_Baxter_(poker_player)"
+        ]
       ],
       [
-        "Ahmet \u00d6zdemirok",
-        "/wiki/Ahmet_%C3%96zdemirok"
+        [
+          "$64,860"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nike",
-        null
-      ],
-      [
-        "Telge",
-        null
+        [
+          "Chico Flynn"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Trelleborgs FF",
-        null
+        [
+          "$2,500 Pot Limit Omaha"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tom Prahl",
-        "/wiki/Tom_Prahl"
+        [
+          "Jan Vang S\u00f8rensen"
+        ],
+        [
+          "/wiki/Jan_Vang_S%C3%B8rensen"
+        ]
       ],
       [
-        "Kristian Haynes",
-        "/wiki/Kristian_Haynes"
+        [
+          "$185,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Masita",
-        null
-      ],
-      [
-        "Trelleborg",
-        "/wiki/Trelleborg_AB"
+        [
+          "Brent Carter"
+        ],
+        [
+          "/wiki/Brent_Carter"
+        ]
       ]
     ],
     [
       [
-        "\u00d6rebro SK",
-        null
+        [
+          "$2,500 Seven Card Stud Hi-Lo"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sixten Bostr\u00f6m",
-        "/wiki/Sixten_Bostr%C3%B6m"
+        [
+          "Phil Ivey"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Fredrik Nordback",
-        "/wiki/Fredrik_Nordback"
+        [
+          "$118,440"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Puma",
-        null
+        [
+          "Sirous Baghchehsaraie"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "$3,000 Pot Limit Hold'em"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Malmbergs",
-        null
+        [
+          "Fred Berger"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "$197,400"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Chris Ferguson"
+        ],
+        [
+          "/wiki/Chris_Ferguson"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Lowball"
+        ],
+        [
+          "/wiki/Lowball_(poker)"
+        ]
+      ],
+      [
+        [
+          "Thor Hansen"
+        ],
+        [
+          "/wiki/Thor_Hansen"
+        ]
+      ],
+      [
+        [
+          "$62,600"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Brian Nadell"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "$1,500 No Limit Hold'em"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Layne Flack"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "$268,020"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Johnny Chan"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "$2,500 Omaha Hi-Lo Split"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Eddie Fishman"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "$135,360"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Doug Saab"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

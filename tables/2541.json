@@ -1,243 +1,455 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Ranked_lists_of_Chilean_regions",
-  "title": "Ranked lists of Chilean regions",
+  "url": "https://en.wikipedia.org/wiki/Golden_Cup",
+  "title": "Golden Cup",
   "header": [
     [
-      "Region",
-      null
+      [
+        "Edition"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "GDP (PPP)per capita",
-      null
+      [
+        "Year"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Comparable country",
-      null
+      [
+        "Denomination"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Gold"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Silver"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Bronze"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Arica and Parinacota",
-        "/wiki/Arica_and_Parinacota_Region"
+        [
+          "VIII"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "9,848",
-        null
+        [
+          "2011"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bosnia and Herzegovina",
-        "/wiki/Bosnia_and_Herzegovina"
+        [
+          "Blanes Golden Cup"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Catalonia"
+        ],
+        [
+          "/wiki/Catalonia_men%27s_national_roller_hockey_team"
+        ]
+      ],
+      [
+        [
+          "World Team"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Blanes HC"
+        ],
+        [
+          "/wiki/Blanes_Hoquei_Club"
+        ]
       ]
     ],
     [
       [
-        "Tarapac\u00e1",
-        "/wiki/Tarapac%C3%A1_Region"
+        [
+          "VII"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "27,604",
-        null
+        [
+          "2010"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Slovakia",
-        "/wiki/Slovakia"
+        [
+          "Blanes Golden Cup"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Catalonia"
+        ],
+        [
+          "/wiki/Catalonia_men%27s_national_roller_hockey_team"
+        ]
+      ],
+      [
+        [
+          "Blanes HC"
+        ],
+        [
+          "/wiki/Blanes_Hoquei_Club"
+        ]
+      ],
+      [
+        [
+          "France"
+        ],
+        [
+          "/wiki/France_national_roller_hockey_team"
+        ]
       ]
     ],
     [
       [
-        "Antofagasta",
-        "/wiki/Antofagasta_Region"
+        [
+          "VI"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "63,402",
-        null
+        [
+          "2009"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Norway",
-        "/wiki/Norway"
+        [
+          "Blanes Golden Cup"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Catalonia"
+        ],
+        [
+          "/wiki/Catalonia_men%27s_national_roller_hockey_team"
+        ]
+      ],
+      [
+        [
+          "Italy"
+        ],
+        [
+          "/wiki/Italy_men%27s_national_roller_hockey_team"
+        ]
+      ],
+      [
+        [
+          "Blanes HC"
+        ],
+        [
+          "/wiki/Blanes_Hoquei_Club"
+        ]
       ]
     ],
     [
       [
-        "Atacama",
-        "/wiki/Atacama_Region"
+        [
+          "V"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "27,882",
-        null
+        [
+          "2008"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Slovakia",
-        "/wiki/Slovakia"
+        [
+          "Blanes Golden Cup"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Catalonia"
+        ],
+        [
+          "/wiki/Catalonia_men%27s_national_roller_hockey_team"
+        ]
+      ],
+      [
+        [
+          "Blanes HC"
+        ],
+        [
+          "/wiki/Blanes_Hoquei_Club"
+        ]
+      ],
+      [
+        [
+          "Italy"
+        ],
+        [
+          "/wiki/Italy_men%27s_national_roller_hockey_team"
+        ]
       ]
     ],
     [
       [
-        "Coquimbo",
-        "/wiki/Coquimbo_Region"
+        [
+          "IV"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "14,800",
-        null
+        [
+          "2007"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Palau",
-        "/wiki/Palau"
+        [
+          "Grup Tarradellas Cup"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Blanes HC"
+        ],
+        [
+          "/wiki/Blanes_Hoquei_Club"
+        ]
+      ],
+      [
+        [
+          "World team"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Catalonia"
+        ],
+        [
+          "/wiki/Catalonia_men%27s_national_roller_hockey_team"
+        ]
       ]
     ],
     [
       [
-        "Valpara\u00edso",
-        "/wiki/Valpara%C3%ADso_Region"
+        [
+          "III"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "17,009",
-        null
+        [
+          "2006"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mexico",
-        "/wiki/Mexico"
+        [
+          "Grup Tarradellas Cup"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Blanes HC"
+        ],
+        [
+          "/wiki/Blanes_Hoquei_Club"
+        ]
+      ],
+      [
+        [
+          "Italy"
+        ],
+        [
+          "/wiki/Italy_men%27s_national_roller_hockey_team"
+        ]
+      ],
+      [
+        [
+          "Catalonia"
+        ],
+        [
+          "/wiki/Catalonia_men%27s_national_roller_hockey_team"
+        ]
       ]
     ],
     [
       [
-        "Santiago",
-        "/wiki/Santiago_Metropolitan_Region"
+        [
+          "II"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "24,224",
-        null
+        [
+          "2005"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kazakhstan",
-        "/wiki/Kazakhstan"
+        [
+          "Grup Tarradellas Cup"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Catalonia"
+        ],
+        [
+          "/wiki/Catalonia_men%27s_national_roller_hockey_team"
+        ]
+      ],
+      [
+        [
+          "Blanes HC"
+        ],
+        [
+          "/wiki/Blanes_Hoquei_Club"
+        ]
+      ],
+      [
+        [
+          "Argentina"
+        ],
+        [
+          "/wiki/Argentina_national_roller_hockey_team"
+        ]
       ]
     ],
     [
       [
-        "O'Higgins",
-        "/wiki/O%27Higgins_Region"
+        [
+          "I"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "17,985",
-        null
+        [
+          "2004"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Belarus",
-        "/wiki/Belarus"
-      ]
-    ],
-    [
-      [
-        "Maule",
-        "/wiki/Maule_Region"
+        [
+          "Golden Cup"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "10,620",
-        null
+        [
+          "Catalonia"
+        ],
+        [
+          "/wiki/Catalonia_men%27s_national_roller_hockey_team"
+        ]
       ],
       [
-        "Egypt",
-        "/wiki/Egypt"
-      ]
-    ],
-    [
-      [
-        "Biob\u00edo",
-        "/wiki/Biob%C3%ADo_Region"
+        [
+          "Blanes HC"
+        ],
+        [
+          "/wiki/Blanes_Hoquei_Club"
+        ]
       ],
       [
-        "12,582",
-        null
-      ],
-      [
-        "Maldives",
-        "/wiki/Maldives"
-      ]
-    ],
-    [
-      [
-        "Araucan\u00eda",
-        "/wiki/Araucan%C3%ADa_Region"
-      ],
-      [
-        "8,376",
-        null
-      ],
-      [
-        "El Salvador",
-        "/wiki/El_Salvador"
-      ]
-    ],
-    [
-      [
-        "Los R\u00edos",
-        "/wiki/Los_R%C3%ADos_Region"
-      ],
-      [
-        "11,711",
-        null
-      ],
-      [
-        "Mongolia",
-        "/wiki/Mongolia"
-      ]
-    ],
-    [
-      [
-        "Los Lagos",
-        "/wiki/Los_Lagos_Region"
-      ],
-      [
-        "13,335",
-        null
-      ],
-      [
-        "Colombia",
-        "/wiki/Colombia"
-      ]
-    ],
-    [
-      [
-        "Ais\u00e9n",
-        "/wiki/Ais%C3%A9n_Region"
-      ],
-      [
-        "19,851",
-        null
-      ],
-      [
-        "Gabon",
-        "/wiki/Gabon"
-      ]
-    ],
-    [
-      [
-        "Magallanes",
-        "/wiki/Magallanes_Region"
-      ],
-      [
-        "18,447",
-        null
-      ],
-      [
-        "Mauritius",
-        "/wiki/Mauritius"
-      ]
-    ],
-    [
-      [
-        "Chile",
-        "/wiki/Chile"
-      ],
-      [
-        "22,059",
-        null
-      ],
-      [
-        "Antigua and Barbuda",
-        "/wiki/Antigua_and_Barbuda"
+        [
+          "France"
+        ],
+        [
+          "/wiki/France_national_roller_hockey_team"
+        ]
       ]
     ]
   ],

@@ -1,311 +1,1057 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Australia",
-  "title": "List of airports in Australia",
+  "url": "https://en.wikipedia.org/wiki/Dark-sky_preserve",
+  "title": "Dark-sky preserve",
   "header": [
     [
-      "City served/location",
-      "/wiki/List_of_cities_in_Australia"
+      [
+        "Country"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "ICAO",
-      "/wiki/ICAO_airport_code"
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "IATA",
-      "/wiki/IATA_airport_code"
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Airport\u00a0name",
-      null
+      [
+        "Area (in ha)"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Bortle scale"
+      ],
+      [
+        "/wiki/Bortle_Dark_Sky_Scale"
+      ]
+    ],
+    [
+      [
+        "Notes"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Bullsbrook,Western Australia",
-        "/wiki/Bullsbrook /wiki/Western_Australia"
+        [
+          "Australia"
+        ],
+        [
+          "/wiki/Australia"
+        ]
       ],
       [
-        "YPEA",
-        "/wiki/HTTP_404"
+        [
+          "Australian Age of Dinosaurs"
+        ],
+        [
+          "/wiki/Australian_Age_of_Dinosaurs"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Winton, Queensland"
+        ],
+        [
+          "/wiki/Winton,_Queensland"
+        ]
       ],
       [
-        "RAAF Pearce",
-        "/wiki/RAAF_Base_Pearce"
+        [
+          "1,400"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20132"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated on Apr. 27, 2019"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Darwin,Northern Territory",
-        "/wiki/Darwin,_Northern_Territory /wiki/Northern_Territory"
+        [
+          "Australia"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "YPDN",
-        "/wiki/HTTP_404"
+        [
+          "Warrumbungle National Park"
+        ],
+        [
+          "/wiki/Warrumbungle_National_Park"
+        ]
       ],
       [
-        "DRW",
-        null
+        [
+          "New South Wales"
+        ],
+        [
+          "/wiki/New_South_Wales"
+        ]
       ],
       [
-        "RAAF Darwin",
-        "/wiki/RAAF_Base_Darwin"
+        [
+          "23,312"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated on Jul. 4, 2016"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Derby,Western Australia",
-        "/wiki/Derby,_Western_Australia /wiki/Western_Australia"
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ],
       [
-        "YCIN",
-        "/wiki/HTTP_404"
+        [
+          "Beaver Hills"
+        ],
+        [
+          "/wiki/Beaver_Hills_(Alberta)"
+        ]
       ],
       [
-        "DCN",
-        null
+        [
+          "Alberta"
+        ],
+        [
+          "/wiki/Alberta"
+        ]
       ],
       [
-        "RAAF Curtin",
-        "/wiki/RAAF_Curtin"
+        [
+          "29,300"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "4.5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated on Sep. 3, 2006"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Exmouth,Western Australia",
-        "/wiki/Exmouth,_Western_Australia /wiki/Western_Australia"
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "YPLM",
-        "/wiki/HTTP_404"
+        [
+          "Jasper National Park"
+        ],
+        [
+          "/wiki/Jasper_National_Park"
+        ]
       ],
       [
-        "LEA",
-        null
+        [
+          "Alberta"
+        ],
+        [
+          "/wiki/Alberta"
+        ]
       ],
       [
-        "RAAF Learmonth",
-        "/wiki/RAAF_Learmonth"
+        [
+          "1,122,800"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20132"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated on Mar. 11, 2011"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Gingin,Western Australia",
-        "/wiki/Gingin /wiki/Western_Australia"
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "YGIG",
-        "/wiki/HTTP_404"
+        [
+          "Wood Buffalo National Park"
+        ],
+        [
+          "/wiki/Wood_Buffalo_National_Park"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Alberta",
+          "NWT"
+        ],
+        [
+          "/wiki/Alberta",
+          "/wiki/Northwest_Territories"
+        ]
       ],
       [
-        "RAAF Gingin",
-        "/wiki/RAAF_Gingin"
+        [
+          "4,480,700"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20132"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated on June 28, 2013"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Glenbrook,New South Wales",
-        "/wiki/Glenbrook,_New_South_Wales /wiki/New_South_Wales"
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "YGNB",
-        "/wiki/HTTP_404"
+        [
+          "Cattle Point"
+        ],
+        [
+          "/wiki/Uplands_Park"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Oak Bay, British Columbia"
+        ],
+        [
+          "/wiki/Oak_Bay,_British_Columbia"
+        ]
       ],
       [
-        "RAAF Glenbrook",
-        "/wiki/RAAF_Base_Glenbrook"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated March 29, 2013"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ipswich,Queensland",
-        "/wiki/Ipswich,_Queensland /wiki/Queensland"
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "YAMB",
-        "/wiki/HTTP_404"
+        [
+          "McDonald Park"
+        ],
+        [
+          "/wiki/McDonald_Park"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "British Columbia"
+        ],
+        [
+          "/wiki/British_Columbia"
+        ]
       ],
       [
-        "RAAF Amberley",
-        "/wiki/RAAF_Base_Amberley"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20133"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated in 2003"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Katherine,Northern Territory",
-        "/wiki/Katherine,_Northern_Territory /wiki/Northern_Territory"
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "YPTN",
-        "/wiki/HTTP_404"
+        [
+          "Fundy National Park"
+        ],
+        [
+          "/wiki/Fundy_National_Park"
+        ]
       ],
       [
-        "KTR",
-        null
+        [
+          "New Brunswick"
+        ],
+        [
+          "/wiki/New_Brunswick"
+        ]
       ],
       [
-        "RAAF Tindal",
-        "/wiki/RAAF_Base_Tindal"
+        [
+          "20,700"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated on Oct. 31, 2011"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Newcastle,New South Wales",
-        "/wiki/Newcastle,_New_South_Wales /wiki/New_South_Wales"
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "YWLM",
-        "/wiki/HTTP_404"
+        [
+          "Irving Nature Park"
+        ],
+        [
+          "/wiki/Irving_Nature_Park"
+        ]
       ],
       [
-        "NTL",
-        null
+        [
+          "Saint John, New Brunswick"
+        ],
+        [
+          "/wiki/Saint_John,_New_Brunswick"
+        ]
       ],
       [
-        "RAAF Williamtown",
-        "/wiki/RAAF_Base_Williamtown"
+        [
+          "243"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "?"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated on Jul. 1, 2011; First RASC-designated Urban Star Park"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Point Cook,Victoria",
-        "/wiki/Point_Cook /wiki/Victoria_(Australia)"
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "YMPC",
-        "/wiki/HTTP_404"
+        [
+          "Kouchibouguac National Park"
+        ],
+        [
+          "/wiki/Kouchibouguac_National_Park"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "New Brunswick"
+        ],
+        [
+          "/wiki/New_Brunswick"
+        ]
       ],
       [
-        "RAAF Williams",
-        "/wiki/RAAF_Williams"
+        [
+          "23,920"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated on Jun. 6, 2009"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Richmond,Sydney,New South Wales",
-        "/wiki/Richmond,_New_South_Wales /wiki/Sydney /wiki/New_South_Wales"
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "YSRI",
-        "/wiki/HTTP_404"
+        [
+          "Mount Carleton Provincial Park"
+        ],
+        [
+          "/wiki/Mount_Carleton_Provincial_Park"
+        ]
       ],
       [
-        "XRH",
-        null
+        [
+          "New Brunswick"
+        ],
+        [
+          "/wiki/New_Brunswick"
+        ]
       ],
       [
-        "RAAF Richmond",
-        "/wiki/RAAF_Base_Richmond"
+        [
+          "17,427"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated on Jul. 18, 2009"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Sale,Victoria",
-        "/wiki/Sale,_Victoria /wiki/Victoria_(Australia)"
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "YMES",
-        "/wiki/HTTP_404"
+        [
+          "Kejimkujik National Park"
+        ],
+        [
+          "/wiki/Kejimkujik_National_Park"
+        ]
       ],
       [
-        "SXE",
-        null
+        [
+          "Nova Scotia"
+        ],
+        [
+          "/wiki/Nova_Scotia"
+        ]
       ],
       [
-        "RAAF East Sale",
-        "/wiki/RAAF_Base_East_Sale"
+        [
+          "40,400"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated on Aug. 7, 2010"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Salisbury,South Australia",
-        "/wiki/Salisbury,_South_Australia /wiki/South_Australia"
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "YPED",
-        "/wiki/HTTP_404"
+        [
+          "Bluewater Outdoor Education Centre"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
       ],
       [
-        "RAAF Edinburgh",
-        "/wiki/RAAF_Base_Edinburgh"
+        [
+          "129"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated on Nov. 3, 2012 by the Royal Astronomical Society of Canada"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Townsville,Queensland",
-        "/wiki/Townsville /wiki/Queensland"
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "YBTL",
-        "/wiki/HTTP_404"
+        [
+          "Bruce Peninsula Fathom Five National Marine Park"
+        ],
+        [
+          "/wiki/Bruce_Peninsula_Fathom_Five_National_Marine_Park"
+        ]
       ],
       [
-        "TSV",
-        null
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
       ],
       [
-        "RAAF Townsville",
-        "/wiki/RAAF_Base_Townsville"
+        [
+          "16,700"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20133"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated on Mar. 29, 2009"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Weipa,Queensland",
-        "/wiki/Weipa /wiki/Queensland"
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "YBSG",
-        "/wiki/HTTP_404"
+        [
+          "Gordon's Park"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
       ],
       [
-        "RAAF Scherger",
-        "/wiki/RAAF_Scherger"
+        [
+          "43.7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20133"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated on Aug. 15, 2009; designation is only for the Park though Manitoulin Island (276,611 ha) follows dark-sky practices"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Woomera,South Australia",
-        "/wiki/Woomera,_South_Australia /wiki/South_Australia"
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "YPWR",
-        "/wiki/HTTP_404"
+        [
+          "Lake Superior Provincial Park"
+        ],
+        [
+          "/wiki/Lake_Superior_Provincial_Park"
+        ]
       ],
       [
-        "UMR",
-        null
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
       ],
       [
-        "RAAF Woomera",
-        "/wiki/RAAF_Woomera_Airfield"
+        [
+          "155,600"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1-2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated in July of 2018"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Killarney Provincial Park"
+        ],
+        [
+          "/wiki/Killarney_Provincial_Park"
+        ]
+      ],
+      [
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
+      ],
+      [
+        [
+          "64,500"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1-2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated in May of 2018"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "North Frontenac"
+        ],
+        [
+          "/wiki/North_Frontenac"
+        ]
+      ],
+      [
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
+      ],
+      [
+        [
+          "116,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20132"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated on June 28, 2013"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Point Pelee National Park"
+        ],
+        [
+          "/wiki/Point_Pelee_National_Park"
+        ]
+      ],
+      [
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
+      ],
+      [
+        [
+          "2,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3\u20134"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated in 2006"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Canada"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Torrance Barrens"
+        ],
+        [
+          "/wiki/Torrance_Barrens"
+        ]
+      ],
+      [
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
+      ],
+      [
+        [
+          "1906"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Designated in 1999; first Canadian dark sky preserve"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

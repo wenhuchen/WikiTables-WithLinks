@@ -1,383 +1,883 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Antonio_Puerta_Trophy",
-  "title": "Antonio Puerta Trophy",
+  "url": "https://en.wikipedia.org/wiki/List_of_NHL_playoff_series",
+  "title": "List of NHL playoff series",
   "header": [
     [
-      "Goals",
-      null
+      [
+        "Opponent"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Player",
-      null
+      [
+        "S"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Team",
-      null
+      [
+        "Occurrences"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Edition inwhich scored",
-      null
+      [
+        "GP"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Rec"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "%"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "2",
-        null
+        [
+          "Detroit Red Wings"
+        ],
+        [
+          "/wiki/Detroit_Red_Wings"
+        ]
       ],
       [
-        "Jos\u00e9 Carlos",
-        "/wiki/Jos%C3%A9_Carlos_Fern%C3%A1ndez_V%C3%A1zquez"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sevilla FC",
-        "/wiki/Sevilla_FC"
+        [
+          "1997",
+          "1999",
+          "2003",
+          "2007",
+          "2009",
+          "2013"
+        ],
+        [
+          "/wiki/1997_Stanley_Cup_playoffs",
+          "/wiki/1999_Stanley_Cup_playoffs",
+          "/wiki/2003_Stanley_Cup_playoffs",
+          "/wiki/2007_Stanley_Cup_playoffs",
+          "/wiki/2009_Stanley_Cup_playoffs",
+          "/wiki/2013_Stanley_Cup_playoffs"
+        ]
       ],
       [
-        "2009, 2010",
-        null
+        [
+          "32"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20134"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".333"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "Calgary Flames"
+        ],
+        [
+          "/wiki/Calgary_Flames"
+        ]
       ],
       [
-        "Rodri R\u00edos",
-        "/wiki/Rodri_(footballer,_born_1990)"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sevilla FC",
-        "/wiki/Sevilla_FC"
+        [
+          "2006",
+          "2015",
+          "2017"
+        ],
+        [
+          "/wiki/2006_Stanley_Cup_playoffs",
+          "/wiki/2015_Stanley_Cup_playoffs",
+          "/wiki/2017_Stanley_Cup_playoffs"
+        ]
       ],
       [
-        "2011",
-        null
+        [
+          "16"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "Dallas Stars"
+        ],
+        [
+          "/wiki/Dallas_Stars"
+        ]
       ],
       [
-        "Fr\u00e9d\u00e9ric Kanout\u00e9",
-        "/wiki/Fr%C3%A9d%C3%A9ric_Kanout%C3%A9"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sevilla FC",
-        "/wiki/Sevilla_FC"
+        [
+          "2003",
+          "2008",
+          "2014"
+        ],
+        [
+          "/wiki/2003_Stanley_Cup_playoffs",
+          "/wiki/2008_Stanley_Cup_playoffs",
+          "/wiki/2014_Stanley_Cup_playoffs"
+        ]
       ],
       [
-        "2011",
-        null
+        [
+          "18"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".667"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "Nashville Predators"
+        ],
+        [
+          "/wiki/Nashville_Predators"
+        ]
       ],
       [
-        "Diego Perotti",
-        "/wiki/Diego_Perotti"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sevilla FC",
-        "/wiki/Sevilla_FC"
+        [
+          "2011",
+          "2016",
+          "2017"
+        ],
+        [
+          "/wiki/2011_Stanley_Cup_playoffs",
+          "/wiki/2016_Stanley_Cup_playoffs",
+          "/wiki/2017_Stanley_Cup_playoffs"
+        ]
       ],
       [
-        "2009, 2013",
-        null
+        [
+          "19"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20133"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "Minnesota Wild"
+        ],
+        [
+          "/wiki/Minnesota_Wild"
+        ]
       ],
       [
-        "Carlos Tevez",
-        "/wiki/Carlos_Tevez"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Boca Juniors",
-        "/wiki/Boca_Juniors"
+        [
+          "2003",
+          "2007"
+        ],
+        [
+          "/wiki/2003_Stanley_Cup_playoffs",
+          "/wiki/2007_Stanley_Cup_playoffs"
+        ]
       ],
       [
-        "2016",
-        null
+        [
+          "9"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "Edmonton Oilers"
+        ],
+        [
+          "/wiki/Edmonton_Oilers"
+        ]
       ],
       [
-        "Lu\u00eds Fabiano",
-        "/wiki/Lu%C3%ADs_Fabiano"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sevilla FC",
-        "/wiki/Sevilla_FC"
+        [
+          "2006",
+          "2017"
+        ],
+        [
+          "/wiki/2006_Stanley_Cup_playoffs",
+          "/wiki/2017_Stanley_Cup_playoffs"
+        ]
       ],
       [
-        "2008",
-        null
+        [
+          "12"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".500"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "San Jose Sharks"
+        ],
+        [
+          "/wiki/San_Jose_Sharks"
+        ]
       ],
       [
-        "Renato",
-        "/wiki/Renato_(footballer,_born_1979)"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sevilla FC",
-        "/wiki/Sevilla_FC"
+        [
+          "2009",
+          "2018"
+        ],
+        [
+          "/wiki/2009_Stanley_Cup_playoffs",
+          "/wiki/2018_Stanley_Cup_playoffs"
+        ]
       ],
       [
-        "2008",
-        null
+        [
+          "10"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".500"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "Arizona Coyotes"
+        ],
+        [
+          "/wiki/Arizona_Coyotes"
+        ]
       ],
       [
-        "M\u00edchel",
-        "/wiki/Miguel_%C3%81ngel_Carrilero"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Xerez",
-        "/wiki/Xerez_CD"
+        [
+          "1997"
+        ],
+        [
+          "/wiki/1997_Stanley_Cup_playoffs"
+        ]
       ],
       [
-        "2009",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "Colorado Avalanche"
+        ],
+        [
+          "/wiki/Colorado_Avalanche"
+        ]
       ],
       [
-        "Carlos Calvo",
-        "/wiki/Carlos_Calvo_Sobrado"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Granada",
-        "/wiki/Granada_CF"
+        [
+          "2006"
+        ],
+        [
+          "/wiki/2006_Stanley_Cup_playoffs"
+        ]
       ],
       [
-        "2010",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "Ottawa Senators"
+        ],
+        [
+          "/wiki/Ottawa_Senators"
+        ]
       ],
       [
-        "Manu del Moral",
-        "/wiki/Manu_del_Moral"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sevilla FC",
-        "/wiki/Sevilla_FC"
+        [
+          "2007"
+        ],
+        [
+          "/wiki/2007_Stanley_Cup_playoffs"
+        ]
       ],
       [
-        "2011",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "Vancouver Canucks"
+        ],
+        [
+          "/wiki/Vancouver_Canucks"
+        ]
       ],
       [
-        "\u00c1lvaro Negredo",
-        "/wiki/%C3%81lvaro_Negredo"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sevilla FC",
-        "/wiki/Sevilla_FC"
+        [
+          "2007"
+        ],
+        [
+          "/wiki/2007_Stanley_Cup_playoffs"
+        ]
       ],
       [
-        "2012",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "Winnipeg Jets"
+        ],
+        [
+          "/wiki/Winnipeg_Jets"
+        ]
       ],
       [
-        "Piotr Trochowski",
-        "/wiki/Piotr_Trochowski"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sevilla FC",
-        "/wiki/Sevilla_FC"
+        [
+          "2015"
+        ],
+        [
+          "/wiki/2015_Stanley_Cup_playoffs"
+        ]
       ],
       [
-        "2012",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "Chicago Blackhawks"
+        ],
+        [
+          "/wiki/Chicago_Blackhawks"
+        ]
       ],
       [
-        "Christian",
-        "/wiki/Christian_Fern%C3%A1ndez_Salas"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Almer\u00eda",
-        "/wiki/UD_Almer%C3%ADa"
+        [
+          "2015"
+        ],
+        [
+          "/wiki/2015_Stanley_Cup_playoffs"
+        ]
       ],
       [
-        "2013",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "Los Angeles Kings"
+        ],
+        [
+          "/wiki/Los_Angeles_Kings"
+        ]
       ],
       [
-        "Denis Su\u00e1rez",
-        "/wiki/Denis_Su%C3%A1rez"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sevilla FC",
-        "/wiki/Sevilla_FC"
+        [
+          "2014"
+        ],
+        [
+          "/wiki/2014_Stanley_Cup_playoffs"
+        ]
       ],
       [
-        "2014",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "New Jersey Devils"
+        ],
+        [
+          "/wiki/New_Jersey_Devils"
+        ]
       ],
       [
-        "Carlos Bacca",
-        "/wiki/Carlos_Bacca"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sevilla FC",
-        "/wiki/Sevilla_FC"
+        [
+          "2003"
+        ],
+        [
+          "/wiki/2003_Stanley_Cup_playoffs"
+        ]
       ],
       [
-        "2014",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "Totals"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dar\u00edo Benedetto",
-        "/wiki/Dar%C3%ADo_Benedetto"
+        [
+          "29"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Boca Juniors",
-        "/wiki/Boca_Juniors"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2016",
-        null
-      ]
-    ],
-    [
-      [
-        "1",
-        null
+        [
+          "162"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cristian Pav\u00f3n",
-        "/wiki/Cristian_Pav%C3%B3n"
+        [
+          "16\u201313"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Boca Juniors",
-        "/wiki/Boca_Juniors"
-      ],
-      [
-        "2016",
-        null
-      ]
-    ],
-    [
-      [
-        "1",
-        null
-      ],
-      [
-        "Steven Nzonzi",
-        "/wiki/Steven_Nzonzi"
-      ],
-      [
-        "Sevilla FC",
-        "/wiki/Sevilla_FC"
-      ],
-      [
-        "2016",
-        null
-      ]
-    ],
-    [
-      [
-        "1",
-        null
-      ],
-      [
-        "Timoth\u00e9e Kolodziejczak",
-        "/wiki/Timoth%C3%A9e_Kolodziejczak"
-      ],
-      [
-        "Sevilla FC",
-        "/wiki/Sevilla_FC"
-      ],
-      [
-        "2016",
-        null
-      ]
-    ],
-    [
-      [
-        "1",
-        null
-      ],
-      [
-        "Luciano Vietto",
-        "/wiki/Luciano_Vietto"
-      ],
-      [
-        "Sevilla FC",
-        "/wiki/Sevilla_FC"
-      ],
-      [
-        "2016",
-        null
+        [
+          ".552"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

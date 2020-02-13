@@ -1,131 +1,315 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Melina_Kanakaredes",
-  "title": "Melina Kanakaredes",
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_assemblers",
+  "title": "Comparison of assemblers",
   "header": [
     [
-      "Year",
-      null
+      [
+        "Assembler"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Title",
-      null
+      [
+        "License"
+      ],
+      [
+        "/wiki/Software_license"
+      ]
     ],
     [
-      "Role",
-      null
+      [
+        "Instruction set"
+      ],
+      [
+        "/wiki/Instruction_set"
+      ]
+    ],
+    [
+      [
+        "platform"
+      ],
+      [
+        "/wiki/Computing_platform"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1987",
-        null
+        [
+          "BAL"
+        ],
+        [
+          "/wiki/IBM_Basic_assembly_language"
+        ]
       ],
       [
-        "Carts",
-        null
+        [
+          "Free"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "IBM System/360"
+        ],
+        [
+          "/wiki/IBM_System/360"
+        ]
+      ],
+      [
+        [
+          "IBM BPS/360"
+        ],
+        [
+          "/wiki/IBM_Basic_Programming_Support"
+        ]
       ]
     ],
     [
       [
-        "1994",
-        null
+        [
+          "HLASM"
+        ],
+        [
+          "/wiki/IBM_High-Level_Assembler"
+        ]
       ],
       [
-        "Bleeding Hearts",
-        "/wiki/Bleeding_Hearts"
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "Daphne",
-        null
+        [
+          "z/Architecture"
+        ],
+        [
+          "/wiki/Z/Architecture"
+        ]
+      ],
+      [
+        [
+          "numerous"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1996",
-        null
+        [
+          "IBM Assembler D"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "The Long Kiss Goodnight",
-        "/wiki/The_Long_Kiss_Goodnight"
+        [
+          "Free"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Trin",
-        null
+        [
+          "IBM System/360"
+        ],
+        [
+          "/wiki/IBM_System/360"
+        ]
+      ],
+      [
+        [
+          "DOS/360"
+        ],
+        [
+          "/wiki/DOS/360_and_successors"
+        ]
       ]
     ],
     [
       [
-        "1999",
-        null
+        [
+          "IBM Assembler E"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dangerous Beauty",
-        "/wiki/Dangerous_Beauty"
+        [
+          "Free"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Livia",
-        null
+        [
+          "IBM System/360"
+        ],
+        [
+          "/wiki/IBM_System/360"
+        ]
+      ],
+      [
+        [
+          "OS/360"
+        ],
+        [
+          "/wiki/OS/360_and_successors"
+        ]
       ]
     ],
     [
       [
-        "1998",
-        null
+        [
+          "IBM Assembler F"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rounders",
-        "/wiki/Rounders_(film)"
+        [
+          "Free"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Barbara",
-        null
+        [
+          "IBM System/360"
+        ],
+        [
+          "/wiki/IBM_System/360"
+        ]
+      ],
+      [
+        [
+          "OS/360",
+          "CP-67/CMS"
+        ],
+        [
+          "/wiki/OS/360_and_successors",
+          "/wiki/CP/CMS"
+        ]
       ]
     ],
     [
       [
-        "2001",
-        null
+        [
+          "Assembler H"
+        ],
+        [
+          "/wiki/IBM_Basic_assembly_language_and_successors"
+        ]
       ],
       [
-        "15 Minutes",
-        "/wiki/15_Minutes"
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "Nicolette Karas",
-        null
+        [
+          "IBM System/360",
+          "System/370"
+        ],
+        [
+          "/wiki/IBM_System/360",
+          "/wiki/IBM_System/370"
+        ]
+      ],
+      [
+        [
+          "OS/360 and successors"
+        ],
+        [
+          "/wiki/OS/360_and_successors"
+        ]
       ]
     ],
     [
       [
-        "2010",
-        null
+        [
+          "IBM Assembler XF"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Percy Jackson & the Olympians: The Lightning Thief",
-        "/wiki/Percy_Jackson_%26_the_Olympians:_The_Lightning_Thief"
+        [
+          "Free"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Athena",
-        "/wiki/Athena"
+        [
+          "IBM System/370"
+        ],
+        [
+          "/wiki/IBM_System/370"
+        ]
+      ],
+      [
+        [
+          "numerous"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2013",
-        null
+        [
+          "PL360"
+        ],
+        [
+          "/wiki/PL360"
+        ]
       ],
       [
-        "Snitch",
-        "/wiki/Snitch_(film)"
+        [
+          "Free"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sylvie Collins",
-        null
+        [
+          "IBM System/360"
+        ],
+        [
+          "/wiki/IBM_System/360"
+        ]
+      ],
+      [
+        [
+          "OS/360"
+        ],
+        [
+          "/wiki/OS/360_and_successors"
+        ]
       ]
     ]
   ],

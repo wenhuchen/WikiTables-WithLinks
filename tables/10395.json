@@ -1,470 +1,268 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Chromatography_software",
-  "title": "Chromatography software",
+  "url": "https://en.wikipedia.org/wiki/Jefferson_Public_Radio",
+  "title": "Jefferson Public Radio",
   "header": [
     [
-      "Name",
-      null
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Publisher",
-      null
+      [
+        "Frequency"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Control",
-      null
-    ],
-    [
-      "Analysis",
-      null
-    ],
-    [
-      "Type",
-      null
+      [
+        "Call sign"
+      ],
+      [
+        "/wiki/Call_sign"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "GC-SOS",
-        "/wiki/HTTP_404"
+        [
+          "Eugene, Oregon"
+        ],
+        [
+          "/wiki/Eugene,_Oregon"
+        ]
       ],
       [
-        "The 4S Co.",
-        "/wiki/HTTP_404"
+        [
+          "1280 AM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "No",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "GC",
-        "/wiki/Gas_Chromatography"
+        [
+          "KRVM"
+        ],
+        [
+          "/wiki/KRVM_(AM)"
+        ]
       ]
     ],
     [
       [
-        "Malcom",
-        "/wiki/HTTP_404"
+        [
+          "Eureka, California"
+        ],
+        [
+          "/wiki/Eureka,_California"
+        ]
       ],
       [
-        "Schlumberger",
-        "/wiki/Schlumberger"
+        [
+          "91.5 FM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "No",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "GC,GC-MS",
-        "/wiki/Gas_chromatography /wiki/Gas_chromatography%E2%80%93mass_spectrometry"
+        [
+          "KNHM"
+        ],
+        [
+          "/wiki/KNHM"
+        ]
       ]
     ],
     [
       [
-        "ChemStation",
-        "/wiki/Agilent_ChemStation"
+        [
+          "Grants Pass, Oregon"
+        ],
+        [
+          "/wiki/Grants_Pass,_Oregon"
+        ]
       ],
       [
-        "Agilent",
-        "/wiki/Agilent"
+        [
+          "930 AM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Yes",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "LC,GC,LC-MS,GC-MS",
-        "/wiki/Liquid_chromatography /wiki/Gas_chromatography /wiki/Liquid_chromatography%E2%80%93mass_spectrometry /wiki/Gas_chromatography%E2%80%93mass_spectrometry"
+        [
+          "KAGI"
+        ],
+        [
+          "/wiki/KAGI"
+        ]
       ]
     ],
     [
       [
-        "EZChrom Elite",
-        "/wiki/HTTP_404"
+        [
+          "Medford, Oregon"
+        ],
+        [
+          "/wiki/Medford,_Oregon"
+        ]
       ],
       [
-        "Agilent",
-        "/wiki/Agilent"
+        [
+          "1230 AM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Yes",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "LC,GC",
-        "/wiki/Liquid_chromatography /wiki/Gas_chromatography"
+        [
+          "KSJK"
+        ],
+        [
+          "/wiki/KSJK"
+        ]
       ]
     ],
     [
       [
-        "OpenLAB CDS",
-        "/wiki/HTTP_404"
+        [
+          "Mendocino, California"
+        ],
+        [
+          "/wiki/Mendocino,_California"
+        ]
       ],
       [
-        "Agilent",
-        "/wiki/Agilent"
+        [
+          "1300 AM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Yes",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "LC,GC,LC-MS,GC-MS",
-        "/wiki/Liquid_chromatography /wiki/Gas_chromatography /wiki/Liquid_chromatography%E2%80%93mass_spectrometry /wiki/Gas_chromatography%E2%80%93mass_spectrometry"
+        [
+          "KPMO"
+        ],
+        [
+          "/wiki/KPMO"
+        ]
       ]
     ],
     [
       [
-        "Chromeleon",
-        "/wiki/Chromeleon"
+        [
+          "Mount Shasta, California"
+        ],
+        [
+          "/wiki/Mount_Shasta,_California"
+        ]
       ],
       [
-        "Thermo Scientific",
-        "/wiki/Thermo_Fisher_Scientific"
+        [
+          "620 AM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Yes",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "GC,LC,IEX,MS",
-        "/wiki/Gas_chromatography /wiki/Liquid_chromatography /wiki/Ion_Exchange_Chromatography /wiki/Mass_spectrometry"
+        [
+          "KMJC"
+        ],
+        [
+          "/wiki/KMJC"
+        ]
       ]
     ],
     [
       [
-        "Empower",
-        "/wiki/HTTP_404"
+        [
+          "Roseburg, Oregon"
+        ],
+        [
+          "/wiki/Roseburg,_Oregon"
+        ]
       ],
       [
-        "Waters",
-        "/wiki/Waters_Corporation"
+        [
+          "950 AM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Yes",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "GC/LC",
-        "/wiki/Liquid_chromatography"
+        [
+          "KTBR"
+        ],
+        [
+          "/wiki/KTBR"
+        ]
       ]
     ],
     [
       [
-        "OpenChrom",
-        "/wiki/OpenChrom"
+        [
+          "Yreka, California"
+        ],
+        [
+          "/wiki/Yreka,_California"
+        ]
       ],
       [
-        "Philip Wenig",
-        null
+        [
+          "1490 AM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "No",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "GC,LC",
-        "/wiki/Gas_chromatography /wiki/Liquid_chromatography"
+        [
+          "KSYC"
+        ],
+        [
+          "/wiki/KSYC_(AM)"
+        ]
       ]
     ],
     [
       [
-        "Atlas CDS",
-        "/wiki/HTTP_404"
+        [
+          "Redding, California"
+        ],
+        [
+          "/wiki/Redding,_California"
+        ]
       ],
       [
-        "Thermo Scientific",
-        "/wiki/Thermo_Scientific"
+        [
+          "1330 AM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Yes",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "GC,LC",
-        "/wiki/Gas_chromatography /wiki/Liquid_chromatography"
-      ]
-    ],
-    [
-      [
-        "Clarity",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "DataApex",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "GC,LC,MS",
-        "/wiki/Gas_chromatography /wiki/Liquid_chromatography /wiki/Mass_spectrometry"
-      ]
-    ],
-    [
-      [
-        "Mass Frontier",
-        "/wiki/Mass_Frontier"
-      ],
-      [
-        "HighChem",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "GC,LC,MS",
-        "/wiki/Gas_chromatography /wiki/Liquid_chromatography /wiki/Mass_spectrometry"
-      ]
-    ],
-    [
-      [
-        "MassLynx",
-        "/wiki/MassLynx"
-      ],
-      [
-        "Waters",
-        "/wiki/Waters_Corporation"
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "LC,MS",
-        "/wiki/Liquid_chromatography /wiki/Mass_spectrometry"
-      ]
-    ],
-    [
-      [
-        "LabSolutions",
-        null
-      ],
-      [
-        "Shimadzu",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "LC/GC",
-        null
-      ]
-    ],
-    [
-      [
-        "PowerChrom",
-        null
-      ],
-      [
-        "eDAQ",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "LC,GC,CE",
-        "/wiki/Liquid_chromatography /wiki/Gas_chromatography /wiki/Capillary_electrophoresis"
-      ]
-    ],
-    [
-      [
-        "ChromStar7",
-        null
-      ],
-      [
-        "SCPA",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "LC",
-        "/wiki/Liquid_chromatography"
-      ]
-    ],
-    [
-      [
-        "PrepCon5",
-        null
-      ],
-      [
-        "SCPA",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "LC,MS",
-        "/wiki/Liquid_chromatography /wiki/Mass_spectrometry"
-      ]
-    ],
-    [
-      [
-        "Unicorn 7.0",
-        null
-      ],
-      [
-        "GE Life Sciences",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "LC/GC/LC-MS/GC-MS",
-        null
-      ]
-    ],
-    [
-      [
-        "TRILUTION LC",
-        null
-      ],
-      [
-        "Gilson",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "LC",
-        null
-      ]
-    ],
-    [
-      [
-        "ChromNAV",
-        null
-      ],
-      [
-        "JASCO",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "LC",
-        null
-      ]
-    ],
-    [
-      [
-        "CHROMuLAN",
-        null
-      ],
-      [
-        "PiKRON",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "Yes",
-        null
-      ],
-      [
-        "LC",
-        null
+        [
+          "KJPR"
+        ],
+        [
+          "/wiki/KJPR"
+        ]
       ]
     ]
   ],
-  "context": "The following is a list of software and the (unexplained) tools that each provides:",
+  "context": "",
   "idx": 10395
 }

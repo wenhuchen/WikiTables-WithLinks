@@ -1,551 +1,329 @@
 {
-  "url": "https://en.wikipedia.org/wiki/1951_Swiss_Grand_Prix",
-  "title": "1951 Swiss Grand Prix",
+  "url": "https://en.wikipedia.org/wiki/Large_igneous_province",
+  "title": "Large igneous province",
   "header": [
     [
-      "Pos",
-      null
+      [
+        "Province"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "No",
-      null
+      [
+        "Region"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Driver",
-      null
-    ],
-    [
-      "Constructor",
-      null
-    ],
-    [
-      "Time",
-      null
-    ],
-    [
-      "Gap",
-      null
+      [
+        "Hotspot"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "Columbia River Basalt"
+        ],
+        [
+          "/wiki/Columbia_River_Basalt_Group"
+        ]
       ],
       [
-        "24",
-        null
+        [
+          "Northwestern USA"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Juan Manuel Fangio",
-        "/wiki/Juan_Manuel_Fangio"
-      ],
-      [
-        "Alfa Romeo",
-        "/wiki/Alfa_Romeo_in_Formula_One"
-      ],
-      [
-        "2:35.9",
-        null
-      ],
-      [
-        "\u2013",
-        null
+        [
+          "Yellowstone hotspot"
+        ],
+        [
+          "/wiki/Yellowstone_hotspot"
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "Ethiopia-Yemen Flood Basalts"
+        ],
+        [
+          "/wiki/Ethiopia-Yemen_Continental_Flood_Basalts"
+        ]
       ],
       [
-        "22",
-        null
+        [
+          "Ethiopia",
+          "Yemen"
+        ],
+        [
+          "/wiki/Ethiopia",
+          "/wiki/Yemen"
+        ]
       ],
       [
-        "Nino Farina",
-        "/wiki/Giuseppe_Farina"
-      ],
-      [
-        "Alfa Romeo",
-        "/wiki/Alfa_Romeo_in_Formula_One"
-      ],
-      [
-        "2:37.8",
-        null
-      ],
-      [
-        "+ 1.9",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "North Atlantic Igneous Province"
+        ],
+        [
+          "/wiki/North_Atlantic_Igneous_Province"
+        ]
       ],
       [
-        "18",
-        null
+        [
+          "Greenland",
+          "Faeroe Islands",
+          "Norway",
+          "Scotland"
+        ],
+        [
+          "/wiki/Greenland",
+          "/wiki/Faeroe_Islands",
+          "/wiki/Norway",
+          "/wiki/Scotland"
+        ]
       ],
       [
-        "Luigi Villoresi",
-        "/wiki/Luigi_Villoresi"
-      ],
-      [
-        "Ferrari",
-        "/wiki/Scuderia_Ferrari"
-      ],
-      [
-        "2:39.3",
-        null
-      ],
-      [
-        "+ 3.4",
-        null
+        [
+          "Iceland hotspot"
+        ],
+        [
+          "/wiki/Iceland_hotspot"
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "Deccan Traps"
+        ],
+        [
+          "/wiki/Deccan_Traps"
+        ]
       ],
       [
-        "28",
-        null
+        [
+          "India"
+        ],
+        [
+          "/wiki/India"
+        ]
       ],
       [
-        "Consalvo Sanesi",
-        "/wiki/Consalvo_Sanesi"
-      ],
-      [
-        "Alfa Romeo",
-        "/wiki/Alfa_Romeo_in_Formula_One"
-      ],
-      [
-        "2:40.3",
-        null
-      ],
-      [
-        "+ 4.4",
-        null
+        [
+          "R\u00e9union hotspot"
+        ],
+        [
+          "/wiki/R%C3%A9union_hotspot"
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Rajmahal Traps"
+        ],
+        [
+          "/wiki/Rajmahal_Traps"
+        ]
       ],
       [
-        "26",
-        null
+        [
+          "Eastern India"
+        ],
+        [
+          "/wiki/India"
+        ]
       ],
       [
-        "Toulo de Graffenried",
-        "/wiki/Toulo_de_Graffenried"
-      ],
-      [
-        "Alfa Romeo",
-        "/wiki/Alfa_Romeo_in_Formula_One"
-      ],
-      [
-        "2:41.8",
-        null
-      ],
-      [
-        "+ 5.9",
-        null
+        [
+          "Ninety East Ridge"
+        ],
+        [
+          "/wiki/Ninety_East_Ridge"
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "Kerguelen Plateau"
+        ],
+        [
+          "/wiki/Kerguelen_Plateau"
+        ]
       ],
       [
-        "44",
-        null
+        [
+          "Indian Ocean"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Piero Taruffi",
-        "/wiki/Piero_Taruffi"
-      ],
-      [
-        "Ferrari",
-        "/wiki/Scuderia_Ferrari"
-      ],
-      [
-        "2:45.2",
-        null
-      ],
-      [
-        "+ 9.3",
-        null
+        [
+          "Kerguelen hotspot"
+        ],
+        [
+          "/wiki/Kerguelen_hotspot"
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "Ontong-Java Plateau"
+        ],
+        [
+          "/wiki/Ontong-Java_Plateau"
+        ]
       ],
       [
-        "20",
-        null
+        [
+          "Pacific Ocean"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Alberto Ascari",
-        "/wiki/Alberto_Ascari"
-      ],
-      [
-        "Ferrari",
-        "/wiki/Scuderia_Ferrari"
-      ],
-      [
-        "2:46.0",
-        null
-      ],
-      [
-        "+ 10.1",
-        null
+        [
+          "Louisville hotspot"
+        ],
+        [
+          "/wiki/Louisville_hotspot"
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "Paran\u00e1 and Etendeka traps"
+        ],
+        [
+          "/wiki/Paran%C3%A1_and_Etendeka_traps"
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "Brazil",
+          "Namibia"
+        ],
+        [
+          "/wiki/Brazil",
+          "/wiki/Namibia"
+        ]
       ],
       [
-        "Louis Rosier",
-        "/wiki/Louis_Rosier"
-      ],
-      [
-        "Talbot-Lago,Talbot",
-        "/wiki/Talbot-Lago /wiki/Talbot"
-      ],
-      [
-        "2:52.7",
-        null
-      ],
-      [
-        "+ 16.8",
-        null
+        [
+          "Tristan hotspot"
+        ],
+        [
+          "/wiki/Tristan_hotspot"
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "Karoo-Ferrar Province"
+        ],
+        [
+          "/wiki/Karoo-Ferrar"
+        ]
       ],
       [
-        "16",
-        null
+        [
+          "Antarctica",
+          "New Zealand"
+        ],
+        [
+          "/wiki/Antarctica",
+          "/wiki/New_Zealand"
+        ]
       ],
       [
-        "Peter Whitehead",
-        "/wiki/Peter_Whitehead_(racing_driver)"
-      ],
-      [
-        "Ferrari",
-        "/wiki/Scuderia_Ferrari"
-      ],
-      [
-        "2:52.9",
-        null
-      ],
-      [
-        "+ 17.0",
-        null
+        [
+          "Marion Island"
+        ],
+        [
+          "/wiki/Marion_Island"
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "Caribbean large igneous province"
+        ],
+        [
+          "/wiki/Caribbean_large_igneous_province"
+        ]
       ],
       [
-        "38",
-        null
+        [
+          "Caribbean-Colombian oceanic plateau"
+        ],
+        [
+          "/wiki/Caribbean-Colombian_oceanic_plateau"
+        ]
       ],
       [
-        "Rudi Fischer",
-        "/wiki/Rudi_Fischer"
-      ],
-      [
-        "Ferrari",
-        "/wiki/Scuderia_Ferrari"
-      ],
-      [
-        "2:54.1",
-        null
-      ],
-      [
-        "+ 18.2",
-        null
+        [
+          "Gal\u00e1pagos hotspot"
+        ],
+        [
+          "/wiki/Gal%C3%A1pagos_hotspot"
+        ]
       ]
     ],
     [
       [
-        "11",
-        null
+        [
+          "Mackenzie Large Igneous Province"
+        ],
+        [
+          "/wiki/Mackenzie_Large_Igneous_Province"
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "Canadian Shield"
+        ],
+        [
+          "/wiki/Canadian_Shield"
+        ]
       ],
       [
-        "Henri Louveau",
-        "/wiki/Henri_Louveau"
-      ],
-      [
-        "Talbot-Lago,Talbot",
-        "/wiki/Talbot-Lago /wiki/Talbot"
-      ],
-      [
-        "2:56.2",
-        null
-      ],
-      [
-        "+ 20.3",
-        null
-      ]
-    ],
-    [
-      [
-        "12",
-        null
-      ],
-      [
-        "4",
-        null
-      ],
-      [
-        "Philippe \u00c9tancelin",
-        "/wiki/Philippe_%C3%89tancelin"
-      ],
-      [
-        "Talbot-Lago,Talbot",
-        "/wiki/Talbot-Lago /wiki/Talbot"
-      ],
-      [
-        "2:57.3",
-        null
-      ],
-      [
-        "+ 21.4",
-        null
-      ]
-    ],
-    [
-      [
-        "13",
-        null
-      ],
-      [
-        "42",
-        null
-      ],
-      [
-        "Jos\u00e9 Froil\u00e1n Gonz\u00e1lez",
-        "/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez"
-      ],
-      [
-        "Talbot-Lago,Talbot",
-        "/wiki/Talbot-Lago /wiki/Talbot"
-      ],
-      [
-        "2:57.3",
-        null
-      ],
-      [
-        "+ 21.4",
-        null
-      ]
-    ],
-    [
-      [
-        "14",
-        null
-      ],
-      [
-        "14",
-        null
-      ],
-      [
-        "Stirling Moss",
-        "/wiki/Stirling_Moss"
-      ],
-      [
-        "HWM,Alta",
-        "/wiki/Hersham_and_Walton_Motors /wiki/Alta_Car_and_Engineering_Company"
-      ],
-      [
-        "2:58.4",
-        null
-      ],
-      [
-        "+ 22.5",
-        null
-      ]
-    ],
-    [
-      [
-        "15",
-        null
-      ],
-      [
-        "6",
-        null
-      ],
-      [
-        "Yves Giraud-Cabantous",
-        "/wiki/Yves_Giraud-Cabantous"
-      ],
-      [
-        "Talbot-Lago,Talbot",
-        "/wiki/Talbot-Lago /wiki/Talbot"
-      ],
-      [
-        "3:00.3",
-        null
-      ],
-      [
-        "+ 24.4",
-        null
-      ]
-    ],
-    [
-      [
-        "16",
-        null
-      ],
-      [
-        "52",
-        null
-      ],
-      [
-        "Peter Hirt",
-        "/wiki/Peter_Hirt"
-      ],
-      [
-        "Veritas",
-        "/wiki/Veritas_(automobile)"
-      ],
-      [
-        "3:01.6",
-        null
-      ],
-      [
-        "+ 25.7",
-        null
-      ]
-    ],
-    [
-      [
-        "17",
-        null
-      ],
-      [
-        "32",
-        null
-      ],
-      [
-        "Harry Schell",
-        "/wiki/Harry_Schell"
-      ],
-      [
-        "Maserati",
-        "/wiki/Maserati_in_motorsport"
-      ],
-      [
-        "3:02.4",
-        null
-      ],
-      [
-        "+ 26.5",
-        null
-      ]
-    ],
-    [
-      [
-        "18",
-        null
-      ],
-      [
-        "2",
-        null
-      ],
-      [
-        "Johnny Claes",
-        "/wiki/Johnny_Claes"
-      ],
-      [
-        "Talbot-Lago,Talbot",
-        "/wiki/Talbot-Lago /wiki/Talbot"
-      ],
-      [
-        "3:02.5",
-        null
-      ],
-      [
-        "+ 26.6",
-        null
-      ]
-    ],
-    [
-      [
-        "19",
-        null
-      ],
-      [
-        "30",
-        null
-      ],
-      [
-        "Louis Chiron",
-        "/wiki/Louis_Chiron"
-      ],
-      [
-        "Maserati",
-        "/wiki/Maserati_in_motorsport"
-      ],
-      [
-        "3:03.8",
-        null
-      ],
-      [
-        "+ 27.9",
-        null
-      ]
-    ],
-    [
-      [
-        "20",
-        null
-      ],
-      [
-        "12",
-        null
-      ],
-      [
-        "George Abecassis",
-        "/wiki/George_Abecassis"
-      ],
-      [
-        "HWM,Alta",
-        "/wiki/Hersham_and_Walton_Motors /wiki/Alta_Car_and_Engineering_Company"
-      ],
-      [
-        "3:05.1",
-        null
-      ],
-      [
-        "+ 29.2",
-        null
+        [
+          "Mackenzie hotspot"
+        ],
+        [
+          "/wiki/Mackenzie_hotspot"
+        ]
       ]
     ]
   ],

@@ -1,502 +1,1058 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_content_management_systems",
-  "title": "List of content management systems",
+  "url": "https://en.wikipedia.org/wiki/List_of_Tamil_Nadu_Government_educational_institutions",
+  "title": "List of Tamil Nadu Government educational institutions",
   "header": [
     [
-      "Name",
-      null
+      [
+        "No."
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Platform",
-      null
+      [
+        "University name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Supported databases",
-      "/wiki/Relational_database_management_system"
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Latest stable release",
-      null
+      [
+        "District"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Licenses",
-      null
+      [
+        "Specialisation"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Latest release date",
-      null
+      [
+        "Estd."
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Alfresco",
-        "/wiki/Alfresco_(software)"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_platform"
+        [
+          "Alagappa University"
+        ],
+        [
+          "/wiki/Alagappa_University"
+        ]
       ],
       [
-        "MySQL,Oracle,SQL Server,PostgreSQL,DB2",
-        "/wiki/MySQL /wiki/Oracle_database /wiki/Microsoft_SQL_Server /wiki/PostgreSQL /wiki/IBM_DB2"
+        [
+          "Karaikudi"
+        ],
+        [
+          "/wiki/Karaikudi"
+        ]
       ],
       [
-        "201901",
-        null
+        [
+          "Sivagangai"
+        ],
+        [
+          "/wiki/Sivagangai"
+        ]
       ],
       [
-        "LGPL",
-        "/wiki/LGPL"
+        [
+          "Humanities, Sciences"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "[\u00b1]",
-        "/wiki/HTTP_404"
+        [
+          "1985"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ametys CMS",
-        "/wiki/Ametys_CMS"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "Anna University"
+        ],
+        [
+          "/wiki/Anna_University"
+        ]
       ],
       [
-        "MySQL,Oracle,SQL Server,JCR,Apache Derby",
-        "/wiki/MySQL /wiki/Oracle_database /wiki/Microsoft_SQL_Server /wiki/Content_repository_API_for_Java /wiki/Apache_Derby"
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
       ],
       [
-        "4.1.11",
-        null
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
       ],
       [
-        "Apache 2.0 License",
-        "/wiki/Apache_License"
+        [
+          "Engineering & management studies"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "[\u00b1]",
-        "/wiki/HTTP_404"
+        [
+          "1978"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Apache Roller",
-        "/wiki/Apache_Roller"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "Annamalai University"
+        ],
+        [
+          "/wiki/Annamalai_University"
+        ]
       ],
       [
-        "HSQL,MySQL,Oracle,SQL Server,DB2,PostgreSQL,Apache Derby",
-        "/wiki/HSQL /wiki/MySQL /wiki/Oracle_database /wiki/Microsoft_SQL_Server /wiki/IBM_DB2 /wiki/PostgreSQL /wiki/Apache_Derby"
+        [
+          "Annamalai Nagar"
+        ],
+        [
+          "/wiki/Annamalai_Nagar"
+        ]
       ],
       [
-        "5.2.2",
-        null
+        [
+          "Cuddalore"
+        ],
+        [
+          "/wiki/Cuddalore"
+        ]
       ],
       [
-        "Apache 2.0 License",
-        "/wiki/Apache_License"
+        [
+          "Humanities, Sciences, Engineering, Agri"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "[\u00b1]",
-        "/wiki/HTTP_404"
+        [
+          "1929"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Apache Sling",
-        "/wiki/Apache_Sling"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "Bharathiar University"
+        ],
+        [
+          "/wiki/Bharathiar_University"
+        ]
       ],
       [
-        "JCR",
-        "/wiki/Content_repository_API_for_Java"
+        [
+          "Coimbatore"
+        ],
+        [
+          "/wiki/Coimbatore"
+        ]
       ],
       [
-        "0.14.0",
-        null
+        [
+          "Coimbatore"
+        ],
+        [
+          "/wiki/Coimbatore"
+        ]
       ],
       [
-        "Apache 2.0 License",
-        "/wiki/Apache_License"
+        [
+          "Humanities, Sciences"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2019-11-22",
-        null
+        [
+          "1982"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bloomreach Experience Manager",
-        "/wiki/Hippo_CMS"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "Bharathidasan University"
+        ],
+        [
+          "/wiki/Bharathidasan_University"
+        ]
       ],
       [
-        "MySQL,Oracle,SQL Server,Ingres,PostgreSQL,JCR",
-        "/wiki/MySQL /wiki/Oracle_database /wiki/Microsoft_SQL_Server /wiki/Ingres_(database) /wiki/PostgreSQL /wiki/Content_repository_API_for_Java"
+        [
+          "Trichy"
+        ],
+        [
+          "/wiki/Trichy"
+        ]
       ],
       [
-        "13.1",
-        null
+        [
+          "Trichy"
+        ],
+        [
+          "/wiki/Trichy"
+        ]
       ],
       [
-        "Apache 2.0 License",
-        "/wiki/Apache_License"
+        [
+          "Humanities, Sciences"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2019-03-20",
-        null
+        [
+          "1982"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Crafter CMS",
-        "/wiki/Crafter_CMS"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "Madurai Kamaraj University"
+        ],
+        [
+          "/wiki/Madurai_Kamaraj_University"
+        ]
       ],
       [
-        "Git,Solr,CMIS",
-        "/wiki/Git /wiki/Solr /wiki/CMIS"
+        [
+          "Madurai"
+        ],
+        [
+          "/wiki/Madurai"
+        ]
       ],
       [
-        "3.1.3",
-        null
+        [
+          "Madurai"
+        ],
+        [
+          "/wiki/Madurai"
+        ]
       ],
       [
-        "GNU,GPL",
-        "/wiki/GNU /wiki/GPL"
+        [
+          "Humanities, Sciences"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "[\u00b1]",
-        "/wiki/HTTP_404"
+        [
+          "1965"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "dotCMS",
-        "/wiki/DotCMS"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "Manonmaniam Sundaranar University"
+        ],
+        [
+          "/wiki/Manonmaniam_Sundaranar_University"
+        ]
       ],
       [
-        "MySQL,Oracle,MSSQL,PostgreSQL",
-        "/wiki/MySQL /wiki/Oracle_Database /wiki/MSSQL /wiki/PostgreSQL"
+        [
+          "Tirunelveli"
+        ],
+        [
+          "/wiki/Tirunelveli"
+        ]
       ],
       [
-        "5.2.4",
-        null
+        [
+          "Tirunelveli"
+        ],
+        [
+          "/wiki/Tirunelveli"
+        ]
       ],
       [
-        "GNU,GPL",
-        "/wiki/GNU /wiki/GPL"
+        [
+          "Humanities, Sciences"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "[\u00b1]",
-        "/wiki/HTTP_404"
+        [
+          "1992"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "DSpace",
-        "/wiki/DSpace"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "Mother Teresa Women's University"
+        ],
+        [
+          "/wiki/Mother_Teresa_Women%27s_University"
+        ]
       ],
       [
-        "Oracle,PostgreSQL",
-        "/wiki/Oracle_database /wiki/PostgreSQL"
+        [
+          "Kodaikanal"
+        ],
+        [
+          "/wiki/Kodaikanal"
+        ]
       ],
       [
-        "6.3",
-        null
+        [
+          "Dindigul"
+        ],
+        [
+          "/wiki/Dindigul"
+        ]
       ],
       [
-        "BSD License",
-        "/wiki/BSD_License"
+        [
+          "Humanities, Sciences"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2018-06-27",
-        null
+        [
+          "1984"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Enonic XP",
-        "/wiki/Enonic_XP"
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "Tamil Nadu Dr. M.G.R. Medical University"
+        ],
+        [
+          "/wiki/Tamil_Nadu_Dr._M.G.R._Medical_University"
+        ]
       ],
       [
-        "NoSQL",
-        "/wiki/NoSQL"
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
       ],
       [
-        "7.2.0",
-        null
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
       ],
       [
-        "GPL",
-        "/wiki/GPL"
+        [
+          "Medical"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2019-12-19",
-        null
+        [
+          "1989"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Fedora Commons",
-        "/wiki/Fedora_Commons"
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "Tamil Nadu Dr. Ambedkar Law University"
+        ],
+        [
+          "/wiki/Tamil_Nadu_Dr._Ambedkar_Law_University"
+        ]
       ],
       [
-        "MySQL,Oracle,PostgreSQL,Mulgara",
-        "/wiki/MySQL /wiki/Oracle_database /wiki/PostgreSQL /wiki/Mulgara_(software)"
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
       ],
       [
-        "5.0.2",
-        null
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
       ],
       [
-        "Apache License",
-        "/wiki/Apache_License"
+        [
+          "Law"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "[\u00b1]",
-        "/wiki/HTTP_404"
+        [
+          "1998"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Jahia",
-        "/wiki/Jahia"
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "Tamil Nadu Agricultural University"
+        ],
+        [
+          "/wiki/Tamil_Nadu_Agricultural_University"
+        ]
       ],
       [
-        "Apache Derby,JCR,MySQL,PostgreSQL",
-        "/wiki/Apache_Derby /wiki/Content_repository_API_for_Java /wiki/MySQL /wiki/PostgreSQL"
+        [
+          "Coimbatore"
+        ],
+        [
+          "/wiki/Coimbatore"
+        ]
       ],
       [
-        "7.2.2",
-        null
+        [
+          "Coimbatore"
+        ],
+        [
+          "/wiki/Coimbatore"
+        ]
       ],
       [
-        "GPL",
-        "/wiki/GPL"
+        [
+          "Agriculture"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2018-03-01",
-        null
+        [
+          "1971"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "LogicalDOC",
-        "/wiki/LogicalDOC"
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_platform"
+        [
+          "Periyar University"
+        ],
+        [
+          "/wiki/Periyar_University"
+        ]
       ],
       [
-        "MySQL,Oracle,SQL Server,PostgreSQL",
-        "/wiki/MySQL /wiki/Oracle_database /wiki/Microsoft_SQL_Server /wiki/PostgreSQL"
+        [
+          "Salem"
+        ],
+        [
+          "/wiki/Salem,_Tamil_Nadu"
+        ]
       ],
       [
-        "7.4.2",
-        null
+        [
+          "Salem"
+        ],
+        [
+          "/wiki/Salem_district"
+        ]
       ],
       [
-        "LGPL",
-        "/wiki/LGPL"
+        [
+          "Humanities, Sciences"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2016-03-24",
-        null
+        [
+          "1997"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Nuxeo EP",
-        "/wiki/Nuxeo"
+        [
+          "13"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "Tamil Nadu Veterinary and Animal Sciences University"
+        ],
+        [
+          "/wiki/Tamil_Nadu_Veterinary_and_Animal_Sciences_University"
+        ]
       ],
       [
-        "MySQL,Oracle,SQL Server,Ingres,PostgreSQL,MongoDB",
-        "/wiki/MySQL /wiki/Oracle_database /wiki/Microsoft_SQL_Server /wiki/Ingres_(database) /wiki/PostgreSQL /wiki/MongoDB"
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
       ],
       [
-        "10.2",
-        null
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
       ],
       [
-        "Apache 2.0 License",
-        "/wiki/Apache_License"
+        [
+          "Veterinary"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2018-07-26",
-        null
+        [
+          "1990"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Magnolia",
-        "/wiki/Magnolia_(CMS)"
+        [
+          "14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "Tamil University"
+        ],
+        [
+          "/wiki/Tamil_University"
+        ]
       ],
       [
-        "H2,Derby,MySQL,PostgreSQL,Oracle,MSSQL",
-        "/wiki/H2_(DBMS) /wiki/Apache_Derby /wiki/MySQL /wiki/PostgreSQL /wiki/Oracle_database /wiki/Microsoft_SQL_Server"
+        [
+          "Thanjavur"
+        ],
+        [
+          "/wiki/Thanjavur"
+        ]
       ],
       [
-        "6.1.4",
-        null
+        [
+          "Thanjavur"
+        ],
+        [
+          "/wiki/Thanjavur"
+        ]
       ],
       [
-        "GPL",
-        "/wiki/GPL"
+        [
+          "Humanities, Sciences"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2019-12-20",
-        null
+        [
+          "1981"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "OpenCms",
-        "/wiki/OpenCms"
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "Thiruvalluvar University"
+        ],
+        [
+          "/wiki/Thiruvalluvar_University"
+        ]
       ],
       [
-        "HSQL,MySQL,Oracle,SQL Server,DB2,PostgreSQL",
-        "/wiki/HSQL /wiki/MySQL /wiki/Oracle_database /wiki/Microsoft_SQL_Server /wiki/IBM_DB2 /wiki/PostgreSQL"
+        [
+          "Vellore"
+        ],
+        [
+          "/wiki/Vellore"
+        ]
       ],
       [
-        "11.0.0",
-        null
+        [
+          "Vellore"
+        ],
+        [
+          "/wiki/Vellore"
+        ]
       ],
       [
-        "LGPL",
-        "/wiki/LGPL"
+        [
+          "Humanities, Sciences"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "[\u00b1]",
-        "/wiki/HTTP_404"
+        [
+          "2003"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "OpenKM",
-        "/wiki/OpenKM"
+        [
+          "16"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "University of Madras"
+        ],
+        [
+          "/wiki/University_of_Madras"
+        ]
       ],
       [
-        "MySQL,PostgreSQL,Oracle,SQL Server,HSQLDB",
-        "/wiki/MySQL /wiki/PostgreSQL /wiki/Oracle_database /wiki/Microsoft_SQL_Server /wiki/HSQLDB"
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
       ],
       [
-        "6.3.6",
-        null
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
       ],
       [
-        "GPL",
-        "/wiki/GPL"
+        [
+          "Humanities, Sciences"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2018-03-06",
-        null
+        [
+          "1857"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "OpenWGA",
-        "/wiki/OpenWGA"
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "Tamil Nadu Teachers Education University"
+        ],
+        [
+          "/wiki/Tamil_Nadu_Teachers_Education_University"
+        ]
       ],
       [
-        "MySQL,PostgreSQL,IBM DB2,HSQLDB,Oracle,SQL Server,IBM Lotus Domino,CMIS",
-        "/wiki/MySQL /wiki/PostgreSQL /wiki/IBM_DB2 /wiki/HSQLDB /wiki/Oracle_database /wiki/Microsoft_SQL_Server /wiki/IBM_Lotus_Domino /wiki/Content_Management_Interoperability_Services"
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
       ],
       [
-        "7.7.1",
-        null
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
       ],
       [
-        "GPL",
-        "/wiki/GPL"
+        [
+          "Education"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "[\u00b1]",
-        "/wiki/HTTP_404"
+        [
+          "2008"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "XWiki",
-        "/wiki/XWiki"
+        [
+          "18"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java",
-        "/wiki/Java_(programming_language)"
+        [
+          "Tamil Nadu Open University"
+        ],
+        [
+          "/wiki/Tamil_Nadu_Open_University"
+        ]
       ],
       [
-        "MySQL,PostgreSQL,Oracle,SQL Server,HSQLDB",
-        "/wiki/MySQL /wiki/PostgreSQL /wiki/Oracle_database /wiki/Microsoft_SQL_Server /wiki/HSQLDB"
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
       ],
       [
-        "12.0",
-        null
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
       ],
       [
-        "LGPL",
-        "/wiki/LGPL"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "[\u00b1]",
-        "/wiki/HTTP_404"
+        [
+          "2004"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "19"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tamil Nadu Physical Education and Sports University"
+        ],
+        [
+          "/wiki/Tamil_Nadu_Physical_Education_and_Sports_University"
+        ]
+      ],
+      [
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
+      ],
+      [
+        [
+          "Chennai"
+        ],
+        [
+          "/wiki/Chennai"
+        ]
+      ],
+      [
+        [
+          "Sports"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2005"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "20"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tamil Nadu Dr. J. Jayalalithaa Fisheries University"
+        ],
+        [
+          "/wiki/Tamil_Nadu_Fisheries_University"
+        ]
+      ],
+      [
+        [
+          "Nagapattinam"
+        ],
+        [
+          "/wiki/Nagapattinam"
+        ]
+      ],
+      [
+        [
+          "Nagapattinam"
+        ],
+        [
+          "/wiki/Nagapattinam"
+        ]
+      ],
+      [
+        [
+          "Fisheries & Aqua Culture"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2012"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "This is a list of universities operated by the Government of Tamil Nadu.",
   "idx": 8659
 }

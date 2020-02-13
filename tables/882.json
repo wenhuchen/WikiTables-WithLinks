@@ -1,467 +1,1055 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Serie_A",
-  "title": "Serie A",
+  "url": "https://en.wikipedia.org/wiki/List_of_National_Football_League_attendance_figures",
+  "title": "List of National Football League attendance figures",
   "header": [
     [
-      "Team",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Home city",
-      null
+      [
+        "Stadium"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Stadium",
-      null
+      [
+        "Home games"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Capacity",
-      null
+      [
+        "Average attendance"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "2018\u201319 season",
-      null
+      [
+        "Total attendance"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Capacity percentage"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Atalanta",
-        "/wiki/Atalanta_B.C."
+        [
+          "Dallas Cowboys"
+        ],
+        [
+          "/wiki/Dallas_Cowboys"
+        ]
       ],
       [
-        "Bergamo",
-        "/wiki/Bergamo"
+        [
+          "AT&T Stadium"
+        ],
+        [
+          "/wiki/AT%26T_Stadium"
+        ]
       ],
       [
-        "Gewiss Stadium",
-        "/wiki/Stadio_Atleti_Azzurri_d%27Italia"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "21,300",
-        null
+        [
+          "92,539*"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "3rd in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "740,318"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "115.7%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bologna",
-        "/wiki/Bologna_F.C._1909"
+        [
+          "Los Angeles Rams"
+        ],
+        [
+          "/wiki/Los_Angeles_Rams"
+        ]
       ],
       [
-        "Bologna",
-        "/wiki/Bologna"
+        [
+          "Los Angeles Memorial Coliseum"
+        ],
+        [
+          "/wiki/Los_Angeles_Memorial_Coliseum"
+        ]
       ],
       [
-        "Stadio Renato Dall'Ara",
-        "/wiki/Stadio_Renato_Dall%27Ara"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "38,279",
-        null
+        [
+          "84,457"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "10th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "591,197"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "90.2%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Brescia",
-        "/wiki/Brescia_Calcio"
+        [
+          "New York Giants"
+        ],
+        [
+          "/wiki/New_York_Giants"
+        ]
       ],
       [
-        "Brescia",
-        "/wiki/Brescia"
+        [
+          "MetLife Stadium"
+        ],
+        [
+          "/wiki/MetLife_Stadium"
+        ]
       ],
       [
-        "Stadio Mario Rigamonti",
-        "/wiki/Stadio_Mario_Rigamonti"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "16,743",
-        null
+        [
+          "78,789"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Serie B champions",
-        "/wiki/2018%E2%80%9319_Serie_B"
+        [
+          "630,315"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "95.5%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Cagliari",
-        "/wiki/Cagliari_Calcio"
+        [
+          "Washington Redskins"
+        ],
+        [
+          "/wiki/Washington_Redskins"
+        ]
       ],
       [
-        "Cagliari",
-        "/wiki/Cagliari"
+        [
+          "FedExField"
+        ],
+        [
+          "/wiki/FedExField"
+        ]
       ],
       [
-        "Sardegna Arena",
-        "/wiki/Sardegna_Arena"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "16,233",
-        null
+        [
+          "78,304"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "15th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "626,432"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "85.4%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Fiorentina",
-        "/wiki/ACF_Fiorentina"
+        [
+          "Green Bay Packers"
+        ],
+        [
+          "/wiki/Green_Bay_Packers"
+        ]
       ],
       [
-        "Florence",
-        "/wiki/Florence"
+        [
+          "Lambeau Field"
+        ],
+        [
+          "/wiki/Lambeau_Field"
+        ]
       ],
       [
-        "Stadio Artemio Franchi",
-        "/wiki/Stadio_Artemio_Franchi"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "43,147",
-        null
+        [
+          "78,215"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "16th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "625,727"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "107.3%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Genoa",
-        "/wiki/Genoa_C.F.C."
+        [
+          "New York Jets"
+        ],
+        [
+          "/wiki/New_York_Jets"
+        ]
       ],
       [
-        "Genoa",
-        "/wiki/Genoa"
+        [
+          "MetLife Stadium"
+        ],
+        [
+          "/wiki/MetLife_Stadium"
+        ]
       ],
       [
-        "Stadio Luigi Ferraris",
-        "/wiki/Stadio_Luigi_Ferraris"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "36,685",
-        null
+        [
+          "78,160"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "17th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "625,280"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "94.7%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Hellas Verona",
-        "/wiki/Hellas_Verona_F.C."
+        [
+          "Denver Broncos"
+        ],
+        [
+          "/wiki/Denver_Broncos"
+        ]
       ],
       [
-        "Verona",
-        "/wiki/Verona"
+        [
+          "Sports Authority Field at Mile High"
+        ],
+        [
+          "/wiki/Empower_Field_at_Mile_High"
+        ]
       ],
       [
-        "Stadio Marc'Antonio Bentegodi",
-        "/wiki/Stadio_Marc%27Antonio_Bentegodi"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "39,211",
-        null
+        [
+          "76,774"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Serie B Playoff champions",
-        "/wiki/2018%E2%80%9319_Serie_B"
+        [
+          "614,193"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "100.9%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Internazionale",
-        "/wiki/Inter_Milan"
+        [
+          "Carolina Panthers"
+        ],
+        [
+          "/wiki/Carolina_Panthers"
+        ]
       ],
       [
-        "Milan",
-        "/wiki/Milan"
+        [
+          "Bank of America Stadium"
+        ],
+        [
+          "/wiki/Bank_of_America_Stadium"
+        ]
       ],
       [
-        "San Siro",
-        "/wiki/San_Siro"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "80,018",
-        null
+        [
+          "73,792"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "590,343"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "100.0%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Juventus",
-        "/wiki/Juventus_F.C."
+        [
+          "Kansas City Chiefs"
+        ],
+        [
+          "/wiki/Kansas_City_Chiefs"
+        ]
       ],
       [
-        "Turin",
-        "/wiki/Turin"
+        [
+          "Arrowhead Stadium"
+        ],
+        [
+          "/wiki/Arrowhead_Stadium"
+        ]
       ],
       [
-        "Allianz Stadium",
-        "/wiki/Juventus_Stadium"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "41,507",
-        null
+        [
+          "73,328"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Serie A champions",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "586,624"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "95.5%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lazio",
-        "/wiki/S.S._Lazio"
+        [
+          "New Orleans Saints"
+        ],
+        [
+          "/wiki/New_Orleans_Saints"
+        ]
       ],
       [
-        "Rome",
-        "/wiki/Rome"
+        [
+          "Mercedes-Benz Superdome"
+        ],
+        [
+          "/wiki/Mercedes-Benz_Superdome"
+        ]
       ],
       [
-        "Stadio Olimpico",
-        "/wiki/Stadio_Olimpico"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "72,698",
-        null
+        [
+          "73,109"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "8th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "584,876"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "100.2%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lecce",
-        "/wiki/U.S._Lecce"
+        [
+          "Houston Texans"
+        ],
+        [
+          "/wiki/Houston_Texans"
+        ]
       ],
       [
-        "Lecce",
-        "/wiki/Lecce"
+        [
+          "NRG Stadium"
+        ],
+        [
+          "/wiki/NRG_Stadium"
+        ]
       ],
       [
-        "Stadio Via del Mare",
-        "/wiki/Stadio_Via_del_Mare"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "33,876",
-        null
+        [
+          "71,868"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2nd in Serie B",
-        "/wiki/2018%E2%80%9319_Serie_B"
+        [
+          "574,947"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "101.1%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Milan",
-        "/wiki/A.C._Milan"
+        [
+          "Baltimore Ravens"
+        ],
+        [
+          "/wiki/Baltimore_Ravens"
+        ]
       ],
       [
-        "Milan",
-        "/wiki/Milan"
+        [
+          "M&T Bank Stadium"
+        ],
+        [
+          "/wiki/M%26T_Bank_Stadium"
+        ]
       ],
       [
-        "San Siro",
-        "/wiki/San_Siro"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "80,018",
-        null
+        [
+          "71,102"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "5th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "568,823"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "100.1%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Napoli",
-        "/wiki/S.S.C._Napoli"
+        [
+          "San Francisco 49ers"
+        ],
+        [
+          "/wiki/San_Francisco_49ers"
+        ]
       ],
       [
-        "Naples",
-        "/wiki/Naples"
+        [
+          "Levi's Stadium"
+        ],
+        [
+          "/wiki/Levi%27s_Stadium"
+        ]
       ],
       [
-        "Stadio San Paolo",
-        "/wiki/Stadio_San_Paolo"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "60,240",
-        null
+        [
+          "70,178"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2nd in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "561,424"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "102.4%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Parma",
-        "/wiki/Parma_Calcio_1913"
+        [
+          "Atlanta Falcons"
+        ],
+        [
+          "/wiki/Atlanta_Falcons"
+        ]
       ],
       [
-        "Parma",
-        "/wiki/Parma"
+        [
+          "Georgia Dome"
+        ],
+        [
+          "/wiki/Georgia_Dome"
+        ]
       ],
       [
-        "Stadio Ennio Tardini",
-        "/wiki/Stadio_Ennio_Tardini"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "27,906",
-        null
+        [
+          "69,999"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "14th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "559,998"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "98.2%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Roma",
-        "/wiki/A.S._Roma"
+        [
+          "Philadelphia Eagles"
+        ],
+        [
+          "/wiki/Philadelphia_Eagles"
+        ]
       ],
       [
-        "Rome",
-        "/wiki/Rome"
+        [
+          "Lincoln Financial Field"
+        ],
+        [
+          "/wiki/Lincoln_Financial_Field"
+        ]
       ],
       [
-        "Stadio Olimpico",
-        "/wiki/Stadio_Olimpico"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "72,698",
-        null
+        [
+          "69,596"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "556,768"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "103.0%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Sampdoria",
-        "/wiki/U.C._Sampdoria"
+        [
+          "Seattle Seahawks"
+        ],
+        [
+          "/wiki/Seattle_Seahawks"
+        ]
       ],
       [
-        "Genoa",
-        "/wiki/Genoa"
+        [
+          "CenturyLink Field"
+        ],
+        [
+          "/wiki/CenturyLink_Field"
+        ]
       ],
       [
-        "Stadio Luigi Ferraris",
-        "/wiki/Stadio_Luigi_Ferraris"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "36,685",
-        null
+        [
+          "69,073"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "9th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "552,588"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "103.1%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Sassuolo",
-        "/wiki/U.S._Sassuolo_Calcio"
+        [
+          "Buffalo Bills"
+        ],
+        [
+          "/wiki/Buffalo_Bills"
+        ]
       ],
       [
-        "Sassuolo",
-        "/wiki/Sassuolo"
+        [
+          "New Era Field"
+        ],
+        [
+          "/wiki/New_Era_Field"
+        ]
       ],
       [
-        "Mapei Stadium \u2013 Citt\u00e0 del Tricolore",
-        "/wiki/Mapei_Stadium_%E2%80%93_Citt%C3%A0_del_Tricolore"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "23,717",
-        null
+        [
+          "68,509"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "11th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "548,073"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "93.7%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "SPAL",
-        "/wiki/S.P.A.L."
+        [
+          "New England Patriots"
+        ],
+        [
+          "/wiki/New_England_Patriots"
+        ]
       ],
       [
-        "Ferrara",
-        "/wiki/Ferrara"
+        [
+          "Gillette Stadium"
+        ],
+        [
+          "/wiki/Gillette_Stadium"
+        ]
       ],
       [
-        "Stadio Paolo Mazza",
-        "/wiki/Stadio_Paolo_Mazza"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "16,164",
-        null
+        [
+          "66,829"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "534,632"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "97.2%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Torino",
-        "/wiki/Torino_F.C."
+        [
+          "Minnesota Vikings"
+        ],
+        [
+          "/wiki/Minnesota_Vikings"
+        ]
       ],
       [
-        "Turin",
-        "/wiki/Turin"
+        [
+          "U.S. Bank Stadium"
+        ],
+        [
+          "/wiki/U.S._Bank_Stadium"
+        ]
       ],
       [
-        "Stadio Olimpico Grande Torino",
-        "/wiki/Stadio_Olimpico_Grande_Torino"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "27,994",
-        null
+        [
+          "66,786"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "534,289"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "91.5%"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Udinese",
-        "/wiki/Udinese_Calcio"
+        [
+          "Indianapolis Colts"
+        ],
+        [
+          "/wiki/Indianapolis_Colts"
+        ]
       ],
       [
-        "Udine",
-        "/wiki/Udine"
+        [
+          "Lucas Oil Stadium"
+        ],
+        [
+          "/wiki/Lucas_Oil_Stadium"
+        ]
       ],
       [
-        "Stadio Friuli",
-        "/wiki/Stadio_Friuli"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "25,132",
-        null
+        [
+          "65,549"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "12th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "524,393"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "104.0%"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

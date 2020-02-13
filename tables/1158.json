@@ -1,243 +1,651 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Hawaii",
-  "title": "Hawaii",
+  "url": "https://en.wikipedia.org/wiki/Liga_ACB",
+  "title": "Liga ACB",
   "header": [
     [
-      "Ancestry",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Percentage",
-      null
+      [
+        "Home city"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Main article:",
-      null
+      [
+        "Arena"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Capacity"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Filipino",
-        "/wiki/Philippines"
+        [
+          "Bar\u00e7a"
+        ],
+        [
+          "/wiki/FC_Barcelona_B%C3%A0squet"
+        ]
       ],
       [
-        "13.6%",
-        null
+        [
+          "Barcelona"
+        ],
+        [
+          "/wiki/Barcelona"
+        ]
       ],
       [
-        "Filipinos in Hawaii",
-        "/wiki/Filipinos_in_Hawaii"
+        [
+          "Palau Blaugrana"
+        ],
+        [
+          "/wiki/Palau_Blaugrana"
+        ]
+      ],
+      [
+        [
+          "7,585"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Japanese",
-        "/wiki/Japanese_people"
+        [
+          "Baxi Manresa"
+        ],
+        [
+          "/wiki/B%C3%A0squet_Manresa"
+        ]
       ],
       [
-        "12.6%",
-        null
+        [
+          "Manresa"
+        ],
+        [
+          "/wiki/Manresa"
+        ]
       ],
       [
-        "Japanese in Hawaii",
-        "/wiki/Japanese_in_Hawaii"
+        [
+          "Nou Congost"
+        ],
+        [
+          "/wiki/Pavell%C3%B3_Nou_Congost"
+        ]
+      ],
+      [
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Polynesian",
-        "/wiki/Polynesia"
+        [
+          "Casademont Zaragoza"
+        ],
+        [
+          "/wiki/Basket_Zaragoza"
+        ]
       ],
       [
-        "9.0%",
-        null
+        [
+          "Zaragoza"
+        ],
+        [
+          "/wiki/Zaragoza"
+        ]
       ],
       [
-        "Native Hawaiians",
-        "/wiki/Native_Hawaiians"
+        [
+          "Pabell\u00f3n Pr\u00edncipe Felipe"
+        ],
+        [
+          "/wiki/Pabell%C3%B3n_Pr%C3%ADncipe_Felipe"
+        ]
+      ],
+      [
+        [
+          "10,744"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Germans",
-        "/wiki/Germans"
+        [
+          "Club Joventut Badalona"
+        ],
+        [
+          "/wiki/Club_Joventut_Badalona"
+        ]
       ],
       [
-        "7.4%",
-        null
+        [
+          "Badalona"
+        ],
+        [
+          "/wiki/Badalona"
+        ]
       ],
       [
-        "German American",
-        "/wiki/German_American"
+        [
+          "Palau Municipal d'Esports"
+        ],
+        [
+          "/wiki/Palau_Municipal_d%27Esports_de_Badalona"
+        ]
+      ],
+      [
+        [
+          "12,760"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Irish",
-        "/wiki/Irish_people"
+        [
+          "Coosur Real Betis"
+        ],
+        [
+          "/wiki/Real_Betis_Baloncesto"
+        ]
       ],
       [
-        "5.2%",
-        null
+        [
+          "Seville"
+        ],
+        [
+          "/wiki/Seville"
+        ]
       ],
       [
-        "Irish American",
-        "/wiki/Irish_American"
+        [
+          "San Pablo"
+        ],
+        [
+          "/wiki/Palacio_Municipal_de_Deportes_San_Pablo"
+        ]
+      ],
+      [
+        [
+          "7,242"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "English",
-        "/wiki/English_people"
+        [
+          "Herbalife Gran Canaria"
+        ],
+        [
+          "/wiki/CB_Gran_Canaria"
+        ]
       ],
       [
-        "4.6%",
-        null
+        [
+          "Las Palmas"
+        ],
+        [
+          "/wiki/Las_Palmas"
+        ]
       ],
       [
-        "English American",
-        "/wiki/English_American"
+        [
+          "Gran Canaria Arena"
+        ],
+        [
+          "/wiki/Gran_Canaria_Arena"
+        ]
+      ],
+      [
+        [
+          "9,870"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Portuguese",
-        "/wiki/Portugal"
+        [
+          "Iberostar Tenerife"
+        ],
+        [
+          "/wiki/CB_1939_Canarias"
+        ]
       ],
       [
-        "4.3%",
-        null
+        [
+          "San Crist\u00f3bal de La Laguna"
+        ],
+        [
+          "/wiki/San_Crist%C3%B3bal_de_La_Laguna"
+        ]
       ],
       [
-        "Portuguese American",
-        "/wiki/Portuguese_American"
+        [
+          "Santiago Mart\u00edn"
+        ],
+        [
+          "/wiki/Pabell%C3%B3n_Insular_Santiago_Mart%C3%ADn"
+        ]
+      ],
+      [
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Chinese",
-        "/wiki/China"
+        [
+          "Kirolbet Baskonia"
+        ],
+        [
+          "/wiki/Saski_Baskonia"
+        ]
       ],
       [
-        "4.1%",
-        null
+        [
+          "Vitoria-Gasteiz"
+        ],
+        [
+          "/wiki/Vitoria-Gasteiz"
+        ]
       ],
       [
-        "Chinese in Hawaii",
-        "/wiki/Chinese_in_Hawaii"
+        [
+          "Fernando Buesa Arena"
+        ],
+        [
+          "/wiki/Fernando_Buesa_Arena"
+        ]
+      ],
+      [
+        [
+          "15,504"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Korean",
-        "/wiki/Korea"
+        [
+          "Monbus Obradoiro"
+        ],
+        [
+          "/wiki/Obradoiro_CAB"
+        ]
       ],
       [
-        "3.1%",
-        null
+        [
+          "Santiago de Compostela"
+        ],
+        [
+          "/wiki/Santiago_de_Compostela"
+        ]
       ],
       [
-        "Korean American",
-        "/wiki/Korean_American"
+        [
+          "Multiusos Fontes do Sar"
+        ],
+        [
+          "/wiki/Pavill%C3%B3n_Multiusos_Fontes_do_Sar"
+        ]
+      ],
+      [
+        [
+          "6,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Mexican",
-        "/wiki/Mexico"
+        [
+          "Montakit Fuenlabrada"
+        ],
+        [
+          "/wiki/Baloncesto_Fuenlabrada"
+        ]
       ],
       [
-        "2.9%",
-        null
+        [
+          "Fuenlabrada"
+        ],
+        [
+          "/wiki/Fuenlabrada"
+        ]
       ],
       [
-        "Mexican American",
-        "/wiki/Mexican_American"
+        [
+          "Fernando Mart\u00edn"
+        ],
+        [
+          "/wiki/Polideportivo_Fernando_Mart%C3%ADn"
+        ]
+      ],
+      [
+        [
+          "5,700"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Puerto Rican",
-        "/wiki/Puerto_Rico"
+        [
+          "MoraBanc Andorra"
+        ],
+        [
+          "/wiki/BC_Andorra"
+        ]
       ],
       [
-        "2.8%",
-        null
+        [
+          "Andorra la Vella"
+        ],
+        [
+          "/wiki/Andorra_la_Vella"
+        ]
       ],
       [
-        "Puerto Rican",
-        "/wiki/Puerto_Rican_immigration_to_Hawaii"
+        [
+          "M.I. Govern Andorra"
+        ],
+        [
+          "/wiki/Poliesportiu_d%27Andorra"
+        ]
+      ],
+      [
+        [
+          "5,005"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Italian",
-        "/wiki/Italy"
+        [
+          "Movistar Estudiantes"
+        ],
+        [
+          "/wiki/CB_Estudiantes"
+        ]
       ],
       [
-        "2.7%",
-        null
+        [
+          "Madrid"
+        ],
+        [
+          "/wiki/Madrid"
+        ]
       ],
       [
-        "Italian American",
-        "/wiki/Italian_American"
+        [
+          "WiZink Center"
+        ],
+        [
+          "/wiki/Palacio_de_Deportes_de_la_Comunidad_de_Madrid"
+        ]
+      ],
+      [
+        [
+          "13,109"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "African",
-        "/wiki/Africa"
+        [
+          "Real Madrid"
+        ],
+        [
+          "/wiki/Real_Madrid_Baloncesto"
+        ]
       ],
       [
-        "2.4%",
-        null
+        [
+          "Madrid"
+        ],
+        [
+          "/wiki/Madrid"
+        ]
       ],
       [
-        "African American",
-        "/wiki/African_American"
+        [
+          "WiZink Center"
+        ],
+        [
+          "/wiki/Palacio_de_Deportes_de_la_Comunidad_de_Madrid"
+        ]
+      ],
+      [
+        [
+          "13,109"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "French",
-        "/wiki/France"
+        [
+          "RETAbet Bilbao Basket"
+        ],
+        [
+          "/wiki/Bilbao_Basket"
+        ]
       ],
       [
-        "1.7%",
-        null
+        [
+          "Bilbao"
+        ],
+        [
+          "/wiki/Bilbao"
+        ]
       ],
       [
-        "French American",
-        "/wiki/French_American"
+        [
+          "Bilbao Arena"
+        ],
+        [
+          "/wiki/Bilbao_Arena"
+        ]
+      ],
+      [
+        [
+          "10,014"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Samoan",
-        "/wiki/America_Samoa"
+        [
+          "San Pablo Burgos"
+        ],
+        [
+          "/wiki/CB_Miraflores"
+        ]
       ],
       [
-        "1.3%",
-        null
+        [
+          "Burgos"
+        ],
+        [
+          "/wiki/Burgos"
+        ]
       ],
       [
-        "Samoan American",
-        "/wiki/Samoan_American"
+        [
+          "Coliseum Burgos"
+        ],
+        [
+          "/wiki/Coliseum_Burgos"
+        ]
+      ],
+      [
+        [
+          "9,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Scottish",
-        "/wiki/Scotland"
+        [
+          "UCAM Murcia"
+        ],
+        [
+          "/wiki/UCAM_Murcia_CB"
+        ]
       ],
       [
-        "1.2%",
-        null
+        [
+          "Murcia"
+        ],
+        [
+          "/wiki/Murcia"
+        ]
       ],
       [
-        "Scottish American",
-        "/wiki/Scottish_American"
+        [
+          "Palacio de Deportes"
+        ],
+        [
+          "/wiki/Palacio_de_Deportes_de_Murcia"
+        ]
+      ],
+      [
+        [
+          "7,454"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Unicaja"
+        ],
+        [
+          "/wiki/Baloncesto_M%C3%A1laga"
+        ]
+      ],
+      [
+        [
+          "M\u00e1laga"
+        ],
+        [
+          "/wiki/M%C3%A1laga"
+        ]
+      ],
+      [
+        [
+          "Mart\u00edn Carpena"
+        ],
+        [
+          "/wiki/Palacio_de_Deportes_Jos%C3%A9_Mar%C3%ADa_Mart%C3%ADn_Carpena"
+        ]
+      ],
+      [
+        [
+          "10,642"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Valencia Basket"
+        ],
+        [
+          "/wiki/Valencia_Basket"
+        ]
+      ],
+      [
+        [
+          "Valencia"
+        ],
+        [
+          "/wiki/Valencia"
+        ]
+      ],
+      [
+        [
+          "Fuente de San Luis"
+        ],
+        [
+          "/wiki/Pavell%C3%B3_Municipal_Font_de_San_Llu%C3%ADs"
+        ]
+      ],
+      [
+        [
+          "8,500"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

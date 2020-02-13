@@ -1,467 +1,1087 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2013_Kenyan_local_elections",
-  "title": "2013 Kenyan local elections",
+  "url": "https://en.wikipedia.org/wiki/List_of_content_management_systems",
+  "title": "List of content management systems",
   "header": [
     [
-      "#",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "County",
-      null
+      [
+        "Platform"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Governor",
-      null
+      [
+        "Supported databases"
+      ],
+      [
+        "/wiki/Relational_database_management_system"
+      ]
     ],
     [
-      "Deputy Governor",
-      null
+      [
+        "Latest stable release"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Party",
-      null
+      [
+        "Licenses"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Latest release date"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "Alfresco"
+        ],
+        [
+          "/wiki/Alfresco_(software)"
+        ]
       ],
       [
-        "Mombasa",
-        "/wiki/Mombasa_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_platform"
+        ]
       ],
       [
-        "Hassan Ali Joho",
-        "/wiki/Hassan_Ali_Joho"
+        [
+          "MySQL",
+          "Oracle",
+          "SQL Server",
+          "PostgreSQL",
+          "DB2"
+        ],
+        [
+          "/wiki/MySQL",
+          "/wiki/Oracle_database",
+          "/wiki/Microsoft_SQL_Server",
+          "/wiki/PostgreSQL",
+          "/wiki/IBM_DB2"
+        ]
       ],
       [
-        "Hazel Ezabel Nyamoki Ogunde",
-        null
+        [
+          "201901"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ODM",
-        "/wiki/Orange_Democratic_Movement"
+        [
+          "LGPL"
+        ],
+        [
+          "/wiki/LGPL"
+        ]
+      ],
+      [
+        [
+          "[\u00b1]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "Ametys CMS"
+        ],
+        [
+          "/wiki/Ametys_CMS"
+        ]
       ],
       [
-        "Kwale",
-        "/wiki/Kwale_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Salim Mvurya",
-        "/wiki/Salim_Mvurya"
+        [
+          "MySQL",
+          "Oracle",
+          "SQL Server",
+          "JCR",
+          "Apache Derby"
+        ],
+        [
+          "/wiki/MySQL",
+          "/wiki/Oracle_database",
+          "/wiki/Microsoft_SQL_Server",
+          "/wiki/Content_repository_API_for_Java",
+          "/wiki/Apache_Derby"
+        ]
       ],
       [
-        "Fatuma Mohamed Achani",
-        null
+        [
+          "4.1.11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ODM",
-        "/wiki/Orange_Democratic_Movement"
+        [
+          "Apache 2.0 License"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
+      ],
+      [
+        [
+          "[\u00b1]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "Apache Roller"
+        ],
+        [
+          "/wiki/Apache_Roller"
+        ]
       ],
       [
-        "Kilifi",
-        "/wiki/Kilifi_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Amason Kingi",
-        "/wiki/Amason_Kingi"
+        [
+          "HSQL",
+          "MySQL",
+          "Oracle",
+          "SQL Server",
+          "DB2",
+          "PostgreSQL",
+          "Apache Derby"
+        ],
+        [
+          "/wiki/HSQL",
+          "/wiki/MySQL",
+          "/wiki/Oracle_database",
+          "/wiki/Microsoft_SQL_Server",
+          "/wiki/IBM_DB2",
+          "/wiki/PostgreSQL",
+          "/wiki/Apache_Derby"
+        ]
       ],
       [
-        "Kenneth Mwakombo Kamto",
-        null
+        [
+          "5.2.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ODM",
-        "/wiki/Orange_Democratic_Movement"
+        [
+          "Apache 2.0 License"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
+      ],
+      [
+        [
+          "[\u00b1]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "Apache Sling"
+        ],
+        [
+          "/wiki/Apache_Sling"
+        ]
       ],
       [
-        "Tana River",
-        "/wiki/Tana_River_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Tuneya Dado",
-        null
+        [
+          "JCR"
+        ],
+        [
+          "/wiki/Content_repository_API_for_Java"
+        ]
       ],
       [
-        "Jire Siyat Mohamed",
-        null
+        [
+          "0.14.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "WDM-K",
-        "/wiki/Wiper_Democratic_Movement_%E2%80%93_Kenya"
+        [
+          "Apache 2.0 License"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
+      ],
+      [
+        [
+          "2019-11-22"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Bloomreach Experience Manager"
+        ],
+        [
+          "/wiki/Hippo_CMS"
+        ]
       ],
       [
-        "Lamu",
-        "/wiki/Lamu_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Issa Timamy",
-        null
+        [
+          "MySQL",
+          "Oracle",
+          "SQL Server",
+          "Ingres",
+          "PostgreSQL",
+          "JCR"
+        ],
+        [
+          "/wiki/MySQL",
+          "/wiki/Oracle_database",
+          "/wiki/Microsoft_SQL_Server",
+          "/wiki/Ingres_(database)",
+          "/wiki/PostgreSQL",
+          "/wiki/Content_repository_API_for_Java"
+        ]
       ],
       [
-        "Erick Kinyua Mugo",
-        null
+        [
+          "13.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UDF",
-        "/wiki/United_Democratic_Forum_(Kenya)"
+        [
+          "Apache 2.0 License"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
+      ],
+      [
+        [
+          "2019-03-20"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "Crafter CMS"
+        ],
+        [
+          "/wiki/Crafter_CMS"
+        ]
       ],
       [
-        "Taita-Taveta",
-        "/wiki/Taita-Taveta_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "John Mtuta Mruttu",
-        null
+        [
+          "Git",
+          "Solr",
+          "CMIS"
+        ],
+        [
+          "/wiki/Git",
+          "/wiki/Solr",
+          "/wiki/CMIS"
+        ]
       ],
       [
-        "Mary Ndiga Kibuka",
-        null
+        [
+          "3.1.3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ODM",
-        "/wiki/Orange_Democratic_Movement"
+        [
+          "GNU",
+          "GPL"
+        ],
+        [
+          "/wiki/GNU",
+          "/wiki/GPL"
+        ]
+      ],
+      [
+        [
+          "[\u00b1]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "dotCMS"
+        ],
+        [
+          "/wiki/DotCMS"
+        ]
       ],
       [
-        "Garissa",
-        "/wiki/Garissa_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Nathif Jama Adan",
-        "/wiki/Nathif_Jama_Adan"
+        [
+          "MySQL",
+          "Oracle",
+          "MSSQL",
+          "PostgreSQL"
+        ],
+        [
+          "/wiki/MySQL",
+          "/wiki/Oracle_Database",
+          "/wiki/MSSQL",
+          "/wiki/PostgreSQL"
+        ]
       ],
       [
-        "Abdullahi Hussein Ali",
-        null
+        [
+          "5.2.4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "WDM-K",
-        "/wiki/Wiper_Democratic_Movement_%E2%80%93_Kenya"
+        [
+          "GNU",
+          "GPL"
+        ],
+        [
+          "/wiki/GNU",
+          "/wiki/GPL"
+        ]
+      ],
+      [
+        [
+          "[\u00b1]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "DSpace"
+        ],
+        [
+          "/wiki/DSpace"
+        ]
       ],
       [
-        "Wajir",
-        "/wiki/Wajir_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Ahmed Abdullahi Mohamad",
-        null
+        [
+          "Oracle",
+          "PostgreSQL"
+        ],
+        [
+          "/wiki/Oracle_database",
+          "/wiki/PostgreSQL"
+        ]
       ],
       [
-        "Abdulhafid Abdullahi Yarow",
-        null
+        [
+          "6.3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ODM",
-        "/wiki/Orange_Democratic_Movement"
+        [
+          "BSD License"
+        ],
+        [
+          "/wiki/BSD_License"
+        ]
+      ],
+      [
+        [
+          "2018-06-27"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "Enonic XP"
+        ],
+        [
+          "/wiki/Enonic_XP"
+        ]
       ],
       [
-        "Mandera",
-        "/wiki/Mandera_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Ibrahim Roba Ali",
-        null
+        [
+          "NoSQL"
+        ],
+        [
+          "/wiki/NoSQL"
+        ]
       ],
       [
-        "Omar Mohamed Maalim",
-        null
+        [
+          "7.2.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "URP",
-        "/wiki/United_Republican_Party_(Kenya)"
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GPL"
+        ]
+      ],
+      [
+        [
+          "2019-12-19"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "Fedora Commons"
+        ],
+        [
+          "/wiki/Fedora_Commons"
+        ]
       ],
       [
-        "Marsabit",
-        "/wiki/Marsabit_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Ukur Yattani",
-        null
+        [
+          "MySQL",
+          "Oracle",
+          "PostgreSQL",
+          "Mulgara"
+        ],
+        [
+          "/wiki/MySQL",
+          "/wiki/Oracle_database",
+          "/wiki/PostgreSQL",
+          "/wiki/Mulgara_(software)"
+        ]
       ],
       [
-        "Omar Abdi Ali",
-        null
+        [
+          "5.0.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ODM",
-        "/wiki/Orange_Democratic_Movement"
+        [
+          "Apache License"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
+      ],
+      [
+        [
+          "[\u00b1]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "11",
-        null
+        [
+          "Jahia"
+        ],
+        [
+          "/wiki/Jahia"
+        ]
       ],
       [
-        "Isiolo",
-        "/wiki/Isiolo_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Godana Doyo",
-        null
+        [
+          "Apache Derby",
+          "JCR",
+          "MySQL",
+          "PostgreSQL"
+        ],
+        [
+          "/wiki/Apache_Derby",
+          "/wiki/Content_repository_API_for_Java",
+          "/wiki/MySQL",
+          "/wiki/PostgreSQL"
+        ]
       ],
       [
-        "Mohamed Gulleid Abdille",
-        null
+        [
+          "7.2.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "URP",
-        "/wiki/United_Republican_Party_(Kenya)"
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GPL"
+        ]
+      ],
+      [
+        [
+          "2018-03-01"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "12",
-        null
+        [
+          "LogicalDOC"
+        ],
+        [
+          "/wiki/LogicalDOC"
+        ]
       ],
       [
-        "Meru",
-        "/wiki/Meru_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_platform"
+        ]
       ],
       [
-        "Peter Munya",
-        "/wiki/Peter_Munya"
+        [
+          "MySQL",
+          "Oracle",
+          "SQL Server",
+          "PostgreSQL"
+        ],
+        [
+          "/wiki/MySQL",
+          "/wiki/Oracle_database",
+          "/wiki/Microsoft_SQL_Server",
+          "/wiki/PostgreSQL"
+        ]
       ],
       [
-        "Raphael Muriungi",
-        null
+        [
+          "7.4.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "APK",
-        "/wiki/Alliance_Party_of_Kenya"
+        [
+          "LGPL"
+        ],
+        [
+          "/wiki/LGPL"
+        ]
+      ],
+      [
+        [
+          "2016-03-24"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "13",
-        null
+        [
+          "Nuxeo EP"
+        ],
+        [
+          "/wiki/Nuxeo"
+        ]
       ],
       [
-        "Tharaka",
-        "/wiki/Tharaka_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Samuel Mbae Ragwa",
-        null
+        [
+          "MySQL",
+          "Oracle",
+          "SQL Server",
+          "Ingres",
+          "PostgreSQL",
+          "MongoDB"
+        ],
+        [
+          "/wiki/MySQL",
+          "/wiki/Oracle_database",
+          "/wiki/Microsoft_SQL_Server",
+          "/wiki/Ingres_(database)",
+          "/wiki/PostgreSQL",
+          "/wiki/MongoDB"
+        ]
       ],
       [
-        "Eliud Mate Muriithi",
-        null
+        [
+          "10.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "TNA",
-        "/wiki/The_National_Alliance"
+        [
+          "Apache 2.0 License"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
+      ],
+      [
+        [
+          "2018-07-26"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "14",
-        null
+        [
+          "Magnolia"
+        ],
+        [
+          "/wiki/Magnolia_(CMS)"
+        ]
       ],
       [
-        "Embu",
-        "/wiki/Embu_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Martin Nyaga Wambora",
-        "/wiki/Martin_Nyaga_Wambora"
+        [
+          "H2",
+          "Derby",
+          "MySQL",
+          "PostgreSQL",
+          "Oracle",
+          "MSSQL"
+        ],
+        [
+          "/wiki/H2_(DBMS)",
+          "/wiki/Apache_Derby",
+          "/wiki/MySQL",
+          "/wiki/PostgreSQL",
+          "/wiki/Oracle_database",
+          "/wiki/Microsoft_SQL_Server"
+        ]
       ],
       [
-        "Dorothy Nditi Muchungu",
-        "/wiki/Dorothy_Nditi"
+        [
+          "6.1.4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "TNA",
-        "/wiki/HTTP_404"
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GPL"
+        ]
+      ],
+      [
+        [
+          "2019-12-20"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "15",
-        null
+        [
+          "OpenCms"
+        ],
+        [
+          "/wiki/OpenCms"
+        ]
       ],
       [
-        "Kitui",
-        "/wiki/Kitui_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Julius Malombe",
-        null
+        [
+          "HSQL",
+          "MySQL",
+          "Oracle",
+          "SQL Server",
+          "DB2",
+          "PostgreSQL"
+        ],
+        [
+          "/wiki/HSQL",
+          "/wiki/MySQL",
+          "/wiki/Oracle_database",
+          "/wiki/Microsoft_SQL_Server",
+          "/wiki/IBM_DB2",
+          "/wiki/PostgreSQL"
+        ]
       ],
       [
-        "Malonza Peninah",
-        null
+        [
+          "11.0.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "WDM-K",
-        "/wiki/Wiper_Democratic_Movement_%E2%80%93_Kenya"
+        [
+          "LGPL"
+        ],
+        [
+          "/wiki/LGPL"
+        ]
+      ],
+      [
+        [
+          "[\u00b1]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "16",
-        null
+        [
+          "OpenKM"
+        ],
+        [
+          "/wiki/OpenKM"
+        ]
       ],
       [
-        "Machakos",
-        "/wiki/Machakos_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Alfred Mutua",
-        "/wiki/Alfred_Mutua"
+        [
+          "MySQL",
+          "PostgreSQL",
+          "Oracle",
+          "SQL Server",
+          "HSQLDB"
+        ],
+        [
+          "/wiki/MySQL",
+          "/wiki/PostgreSQL",
+          "/wiki/Oracle_database",
+          "/wiki/Microsoft_SQL_Server",
+          "/wiki/HSQLDB"
+        ]
       ],
       [
-        "Benard Muia Tom Kiala",
-        null
+        [
+          "6.3.6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "WDM-K",
-        "/wiki/Wiper_Democratic_Movement_%E2%80%93_Kenya"
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GPL"
+        ]
+      ],
+      [
+        [
+          "2018-03-06"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "17",
-        null
+        [
+          "OpenWGA"
+        ],
+        [
+          "/wiki/OpenWGA"
+        ]
       ],
       [
-        "Makueni",
-        "/wiki/Makueni_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Kivutha Kibwana",
-        "/wiki/Kivutha_Kibwana"
+        [
+          "MySQL",
+          "PostgreSQL",
+          "IBM DB2",
+          "HSQLDB",
+          "Oracle",
+          "SQL Server",
+          "IBM Lotus Domino",
+          "CMIS"
+        ],
+        [
+          "/wiki/MySQL",
+          "/wiki/PostgreSQL",
+          "/wiki/IBM_DB2",
+          "/wiki/HSQLDB",
+          "/wiki/Oracle_database",
+          "/wiki/Microsoft_SQL_Server",
+          "/wiki/IBM_Lotus_Domino",
+          "/wiki/Content_Management_Interoperability_Services"
+        ]
       ],
       [
-        "Adelina Ndeto Mwau",
-        null
+        [
+          "7.7.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "MP",
-        "/wiki/Muungano_Development_Movement_Party_of_Kenya"
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GPL"
+        ]
+      ],
+      [
+        [
+          "[\u00b1]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "18",
-        null
+        [
+          "XWiki"
+        ],
+        [
+          "/wiki/XWiki"
+        ]
       ],
       [
-        "Nyandarua",
-        "/wiki/Nyandarua_County"
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Daniel Waithaka Mwangi",
-        null
+        [
+          "MySQL",
+          "PostgreSQL",
+          "Oracle",
+          "SQL Server",
+          "HSQLDB"
+        ],
+        [
+          "/wiki/MySQL",
+          "/wiki/PostgreSQL",
+          "/wiki/Oracle_database",
+          "/wiki/Microsoft_SQL_Server",
+          "/wiki/HSQLDB"
+        ]
       ],
       [
-        "Waithaka Mwangi Kirika",
-        null
+        [
+          "12.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "TNA",
-        "/wiki/The_National_Alliance"
-      ]
-    ],
-    [
-      [
-        "19",
-        null
+        [
+          "LGPL"
+        ],
+        [
+          "/wiki/LGPL"
+        ]
       ],
       [
-        "Nyeri",
-        "/wiki/Nyeri_County"
-      ],
-      [
-        "Nderitu Gachagua",
-        "/wiki/Nderitu_Gachagua"
-      ],
-      [
-        "Wamathai Samwel Githaiga",
-        null
-      ],
-      [
-        "GNU",
-        "/wiki/Grand_National_Union_of_Kenya"
-      ]
-    ],
-    [
-      [
-        "20",
-        null
-      ],
-      [
-        "Kirinyaga",
-        "/wiki/Kirinyaga_County"
-      ],
-      [
-        "Joseph Kathuri Ndathi",
-        null
-      ],
-      [
-        "Julius Muthike Njiri",
-        null
-      ],
-      [
-        "TNA",
-        "/wiki/The_National_Alliance"
+        [
+          "[\u00b1]"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

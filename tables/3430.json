@@ -1,203 +1,979 @@
 {
-  "url": "https://en.wikipedia.org/wiki/ECHL_awards",
-  "title": "ECHL awards",
+  "url": "https://en.wikipedia.org/wiki/List_of_GM-EMD_locomotives",
+  "title": "List of GM-EMD locomotives",
   "header": [
     [
-      "Award",
-      null
+      [
+        "Model designation"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Created",
-      null
+      [
+        "Build year"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Description",
-      null
+      [
+        "Total produced"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Current holder",
-      null
+      [
+        "AAR wheel arrangement"
+      ],
+      [
+        "/wiki/AAR_wheel_arrangement"
+      ]
+    ],
+    [
+      [
+        "Prime mover"
+      ],
+      [
+        "/wiki/Prime_mover_(locomotive)"
+      ]
+    ],
+    [
+      [
+        "Power output"
+      ],
+      [
+        "/wiki/Horsepower"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "ECHL Most Valuable Player",
-        "/wiki/ECHL_Most_Valuable_Player"
+        [
+          "FP45"
+        ],
+        [
+          "/wiki/EMD_FP45"
+        ]
       ],
       [
-        "1989",
-        "/wiki/1988%E2%80%9389_ECHL_season"
+        [
+          "1967\u20131970"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Awarded to the player adjudged to be the most valuable to his team as voted by the coaches of each team in the ECHL.",
-        null
+        [
+          "14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jesse Schultz,Cincinnati Cyclones",
-        "/wiki/Jesse_Schultz /wiki/Cincinnati_Cyclones"
+        [
+          "C-C"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 20-645E3"
+        ],
+        [
+          "/wiki/EMD_645"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "MW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
       ]
     ],
     [
       [
-        "Kelly Cup Playoffs Most Valuable Player",
-        "/wiki/Kelly_Cup"
+        [
+          "F45"
+        ],
+        [
+          "/wiki/EMD_F45"
+        ]
       ],
       [
-        "1989",
-        "/wiki/1988%E2%80%9389_ECHL_season"
+        [
+          "1968\u20131971"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Awarded to the most valuable player for his team in the playoffs as selected by members of the media at the conclusion of the final game of the Kelly Cup playoffs.",
-        null
+        [
+          "86"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Zach O'Brien,Newfoundland Growlers",
-        "/wiki/Zach_O%27Brien /wiki/Newfoundland_Growlers"
+        [
+          "C-C"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 20-645E3"
+        ],
+        [
+          "/wiki/EMD_645"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "MW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
       ]
     ],
     [
       [
-        "John Brophy Award",
-        "/wiki/John_Brophy_Award"
+        [
+          "SDP40F"
+        ],
+        [
+          "/wiki/EMD_SDP40F"
+        ]
       ],
       [
-        "1989",
-        "/wiki/1988%E2%80%9389_ECHL_season"
+        [
+          "1973\u20131974"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Awarded to the ECHL coach adjudged to have contributed the most to his team's success as voted by the coaches of each of the ECHL teams.",
-        null
+        [
+          "150"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matt Thomas,Cincinnati Cyclones",
-        "/wiki/Matt_Thomas_(ice_hockey) /wiki/Cincinnati_Cyclones"
+        [
+          "C-C"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 16-645E3"
+        ],
+        [
+          "/wiki/EMD_645"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "MW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
       ]
     ],
     [
       [
-        "ECHL Goaltender of the Year",
-        "/wiki/ECHL_Goaltender_of_the_Year"
+        [
+          "F40C"
+        ],
+        [
+          "/wiki/EMD_F40C"
+        ]
       ],
       [
-        "1994",
-        "/wiki/1993%E2%80%9394_ECHL_season"
+        [
+          "1974"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Awarded to the goaltender adjudged to be the best at his position as voted by the coaches of each team in the ECHL.",
-        null
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Michael Houser,Cincinnati Cyclones",
-        "/wiki/Michael_Houser_(ice_hockey) /wiki/Cincinnati_Cyclones"
+        [
+          "C-C"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 16-645E3"
+        ],
+        [
+          "/wiki/EMD_645"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "MW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
       ]
     ],
     [
       [
-        "Rookie of the Year",
-        null
+        [
+          "F40PH"
+        ],
+        [
+          "/wiki/EMD_F40PH"
+        ]
       ],
       [
-        "1989",
-        "/wiki/1988%E2%80%9389_ECHL_season"
+        [
+          "1975\u20131988"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Awarded to the player selected as the most proficient in his first year of competition in the ECHL as voted by the coaches of each of the ECHL teams.  Previously known as the John A. Daley Memorial Trophy",
-        null
+        [
+          "196"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kalamazoo Wings",
-        "/wiki/Kalamazoo_Wings"
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 16-645E3"
+        ],
+        [
+          "/wiki/EMD_645"
+        ]
+      ],
+      [
+        [
+          "3,000\u20133,200\u00a0hp (2.2\u20132.4\u00a0MW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Defenseman of the Year",
-        null
+        [
+          "F40PHR"
+        ],
+        [
+          "/wiki/EMD_F40PH"
+        ]
       ],
       [
-        "1989",
-        "/wiki/1988%E2%80%9389_ECHL_season"
+        [
+          "1977\u20131985"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Awarded to the defenseman who demonstrates throughout the season the greatest ability at the position as voted by the coaches of each of the ECHL teams.",
-        null
+        [
+          "123"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cincinnati Cyclones",
-        "/wiki/Cincinnati_Cyclones"
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 16-645E3"
+        ],
+        [
+          "/wiki/EMD_645"
+        ]
+      ],
+      [
+        [
+          "3,000\u00a0hp (2.2\u00a0MW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Leading Scorer Award",
-        "/wiki/ECHL_Leading_Scorer_Award"
+        [
+          "F40PH-2M"
+        ],
+        [
+          "/wiki/EMD_F40PH"
+        ]
       ],
       [
-        "1989",
-        "/wiki/1988%E2%80%9389_ECHL_season"
+        [
+          "1982\u20131985"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Awarded to the player who leads the league in scoring at the end of the regular season.",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jesse Schultz,Cincinnati Cyclones",
-        "/wiki/Jesse_Schultz /wiki/Cincinnati_Cyclones"
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 16-645E3"
+        ],
+        [
+          "/wiki/EMD_645"
+        ]
+      ],
+      [
+        [
+          "2,000\u00a0hp (1.5\u00a0MW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Plus Performer Award",
-        null
+        [
+          "F40PH-2"
+        ],
+        [
+          "/wiki/EMD_F40PH"
+        ]
       ],
       [
-        "2000",
-        "/wiki/1999%E2%80%932000_ECHL_season"
+        [
+          "1985\u20131989"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "plus/minus",
-        "/wiki/Plus-minus_(ice_hockey)"
+        [
+          "31"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Florida Everblades",
-        "/wiki/Florida_Everblades"
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 16-645E3"
+        ],
+        [
+          "/wiki/EMD_645"
+        ]
+      ],
+      [
+        [
+          "3,200\u00a0hp (2.4\u00a0MW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Sportsmanship Award",
-        null
+        [
+          "F40PH-2C"
+        ],
+        [
+          "/wiki/EMD_F40PH"
+        ]
       ],
       [
-        "1997",
-        "/wiki/1996%E2%80%9397_ECHL_season"
+        [
+          "1987\u20131988"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Awarded to the player adjudged to have exhibited the best type of sportsmanship and gentlemanly conduct combined with a high standard of playing ability as voted by the coaches of each of the ECHL teams.",
-        null
+        [
+          "26"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Zach O'Brien,Newfoundland Growlers",
-        "/wiki/Zach_O%27Brien /wiki/Newfoundland_Growlers"
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 16-645E3"
+        ],
+        [
+          "/wiki/EMD_645"
+        ]
+      ],
+      [
+        [
+          "3,200\u00a0hp (2.4\u00a0MW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Community Service Award",
-        null
+        [
+          "F40PHM-2"
+        ],
+        [
+          "/wiki/EMD_F40PH"
+        ]
       ],
       [
-        "2011",
-        "/wiki/2010%E2%80%9311_ECHL_season"
+        [
+          "1991\u20131992"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Awarded to a player who goes above and beyond in his efforts for community and charitable causes.",
-        null
+        [
+          "30"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Adirondack Thunder",
-        "/wiki/Adirondack_Thunder"
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 16-645E3"
+        ],
+        [
+          "/wiki/EMD_645"
+        ]
+      ],
+      [
+        [
+          "3,200\u00a0hp (2.4\u00a0MW)"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "SD40-2F"
+        ],
+        [
+          "/wiki/GMD_SD40-2F"
+        ]
+      ],
+      [
+        [
+          "1988"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "25"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "C-C"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 16-645E3"
+        ],
+        [
+          "/wiki/EMD_645"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "MW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "SD50F"
+        ],
+        [
+          "/wiki/EMD_SD50"
+        ]
+      ],
+      [
+        [
+          "1985\u20131987"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "60"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "C-C"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 16-645F3B"
+        ],
+        [
+          "/wiki/EMD_645"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "MW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "SD60F"
+        ],
+        [
+          "/wiki/EMD_SD60F"
+        ]
+      ],
+      [
+        [
+          "1985\u20131989"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "64"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "C-C"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 16-710G3A"
+        ],
+        [
+          "/wiki/EMD_710"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "MW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "F59PH"
+        ],
+        [
+          "/wiki/EMD_F59PH"
+        ]
+      ],
+      [
+        [
+          "1988\u20131994"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "73"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 12-710G3"
+        ],
+        [
+          "/wiki/EMD_710"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "MW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "F59PHI"
+        ],
+        [
+          "/wiki/EMD_F59PHI"
+        ]
+      ],
+      [
+        [
+          "1994\u20132001"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "83"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 12-710G3"
+        ],
+        [
+          "/wiki/EMD_710"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "MW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "F69PHAC"
+        ],
+        [
+          "/wiki/EMD_F69PHAC"
+        ]
+      ],
+      [
+        [
+          "1989"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 12-710G3"
+        ],
+        [
+          "/wiki/EMD_710"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "MW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "DE30AC,DM30AC"
+        ],
+        [
+          "/wiki/EMD_DE30AC_and_DM30AC"
+        ]
+      ],
+      [
+        [
+          "1997\u20131998"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "23 (DE30AC)23 (DM30AC)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 16-710G3"
+        ],
+        [
+          "/wiki/EMD_710"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "MW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "F125"
+        ],
+        [
+          "/wiki/EMD_F125"
+        ]
+      ],
+      [
+        [
+          "2015-2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "20"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "Caterpillar C175-20"
+        ],
+        [
+          "/wiki/Caterpillar_Inc."
+        ]
+      ],
+      [
+        [
+          "hp",
+          "MW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
       ]
     ]
   ],

@@ -1,243 +1,551 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Ranked_lists_of_Chilean_regions",
-  "title": "Ranked lists of Chilean regions",
+  "url": "https://en.wikipedia.org/wiki/WCF_Hall_of_Fame",
+  "title": "WCF Hall of Fame",
   "header": [
     [
-      "Region",
-      null
+      [
+        "Year"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Men(years)",
-      null
+      [
+        "Inductee"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Women(years)",
-      null
+      [
+        "Country"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Arica and Parinacota",
-        "/wiki/Arica_and_Parinacota_Region"
+        [
+          "1978"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "77.03",
-        null
+        [
+          "Ken Watson"
+        ],
+        [
+          "/wiki/Ken_Watson"
+        ]
       ],
       [
-        "81.36",
-        null
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ]
     ],
     [
       [
-        "Tarapac\u00e1",
-        "/wiki/Tarapac%C3%A1_Region"
+        [
+          "1979"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "76.66",
-        null
+        [
+          "Chuck Hay"
+        ],
+        [
+          "/wiki/Chuck_Hay"
+        ]
       ],
       [
-        "81.49",
-        null
+        [
+          "Scotland"
+        ],
+        [
+          "/wiki/Scotland"
+        ]
       ]
     ],
     [
       [
-        "Antofagasta",
-        "/wiki/Antofagasta_Region"
+        [
+          "1980"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "75.73",
-        null
+        [
+          "Bob Grierson"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "80.21",
-        null
+        [
+          "Scotland"
+        ],
+        [
+          "/wiki/Scotland"
+        ]
       ]
     ],
     [
       [
-        "Atacama",
-        "/wiki/Atacama_Region"
+        [
+          "1981"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "77.04",
-        null
+        [
+          "Doug Maxwell"
+        ],
+        [
+          "/wiki/Doug_Maxwell"
+        ]
       ],
       [
-        "81.47",
-        null
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ]
     ],
     [
       [
-        "Coquimbo",
-        "/wiki/Coquimbo_Region"
+        [
+          "1982"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "77.46",
-        null
+        [
+          "Sven Eklund"
+        ],
+        [
+          "/wiki/Sven_Eklund"
+        ]
       ],
       [
-        "82.51",
-        null
+        [
+          "Sweden"
+        ],
+        [
+          "/wiki/Sweden"
+        ]
       ]
     ],
     [
       [
-        "Valpara\u00edso",
-        "/wiki/Valpara%C3%ADso_Region"
+        [
+          "1983"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "76.48",
-        null
+        [
+          "Mabel DeWare"
+        ],
+        [
+          "/wiki/Mabel_DeWare"
+        ]
       ],
       [
-        "81.61",
-        null
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ]
     ],
     [
       [
-        "Santiago",
-        "/wiki/Santiago_Metropolitan_Region"
+        [
+          "1984"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "76.92",
-        null
+        [
+          "Robin Welsh"
+        ],
+        [
+          "/wiki/Robin_Welsh"
+        ]
       ],
       [
-        "82.13",
-        null
+        [
+          "Scotland"
+        ],
+        [
+          "/wiki/Scotland"
+        ]
       ]
     ],
     [
       [
-        "O'Higgins",
-        "/wiki/O%27Higgins_Region"
+        [
+          "1985"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "76.69",
-        null
+        [
+          "Don McLeod"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "81.35",
-        null
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ]
     ],
     [
       [
-        "Maule",
-        "/wiki/Maule_Region"
+        [
+          "1986"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "75.99",
-        null
+        [
+          "Art Cobb"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "80.92",
-        null
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ]
     ],
     [
       [
-        "Biob\u00edo",
-        "/wiki/Biob%C3%ADo_Region"
+        [
+          "1987"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "76.24",
-        null
+        [
+          "Bob Picken"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "81.42",
-        null
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ]
     ],
     [
       [
-        "Araucan\u00eda",
-        "/wiki/Araucan%C3%ADa_Region"
+        [
+          "1988"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "75.98",
-        null
+        [
+          "Kay Sugahara"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "81.12",
-        null
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ]
     ],
     [
       [
-        "Los R\u00edos",
-        "/wiki/Los_R%C3%ADos_Region"
+        [
+          "1989"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "75.55",
-        null
+        [
+          "Don McKay"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "80.77",
-        null
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ]
     ],
     [
       [
-        "Los Lagos",
-        "/wiki/Los_Lagos_Region"
+        [
+          "1990"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "75.02",
-        null
+        [
+          "Colin Campbell"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "80.89",
-        null
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ]
     ],
     [
       [
-        "Ais\u00e9n",
-        "/wiki/Ais%C3%A9n_Region"
+        [
+          "1994"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "75.08",
-        null
+        [
+          "Keith Wendorf"
+        ],
+        [
+          "/wiki/Keith_Wendorf"
+        ]
       ],
       [
-        "81.55",
-        null
+        [
+          "Germany"
+        ],
+        [
+          "/wiki/Germany"
+        ]
       ]
     ],
     [
       [
-        "Magallanes",
-        "/wiki/Magallanes_Region"
+        [
+          "1996"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "75.26",
-        null
+        [
+          "Elizabeth Paterson-Brown"
+        ],
+        [
+          "/wiki/Elizabeth_Paterson-Brown"
+        ]
       ],
       [
-        "80.87",
-        null
+        [
+          "Scotland"
+        ],
+        [
+          "/wiki/Scotland"
+        ]
       ]
     ],
     [
       [
-        "Chile",
-        "/wiki/Chile"
+        [
+          "1997"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "76.52",
-        null
+        [
+          "Erwin Sautter"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "81.69",
-        null
+        [
+          "Switzerland"
+        ],
+        [
+          "/wiki/Switzerland"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Bob Hardy"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ernie Richardson"
+        ],
+        [
+          "/wiki/Ernie_Richardson_(curler)"
+        ]
+      ],
+      [
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2001"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Shirley Morash"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2001"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Raymond Somerville"
+        ],
+        [
+          "/wiki/Bud_Somerville"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ]
     ]
   ],

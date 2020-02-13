@@ -1,291 +1,551 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2010_Belarusian_Premier_League",
-  "title": "2010 Belarusian Premier League",
+  "url": "https://en.wikipedia.org/wiki/Antidepressant",
+  "title": "Antidepressant",
   "header": [
     [
-      "Team",
-      null
+      [
+        "Drug name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      null
+      [
+        "Drug class"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Venue",
-      null
-    ],
-    [
-      "Capacity",
-      null
-    ],
-    [
-      "Position in 2009",
-      null
+      [
+        "Total prescriptions"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "BATE",
-        "/wiki/FC_BATE_Borisov"
+        [
+          "Sertraline"
+        ],
+        [
+          "/wiki/Sertraline"
+        ]
       ],
       [
-        "Borisov",
-        "/wiki/Barysaw"
+        [
+          "SSRI"
+        ],
+        [
+          "/wiki/SSRI"
+        ]
       ],
       [
-        "City Stadium, Borisov",
-        "/wiki/Haradzki_Stadium"
-      ],
-      [
-        "5,400",
-        null
-      ],
-      [
-        "1",
-        null
+        [
+          "33,409,838"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Dinamo Minsk",
-        "/wiki/FC_Dinamo_Minsk"
+        [
+          "Citalopram"
+        ],
+        [
+          "/wiki/Citalopram"
+        ]
       ],
       [
-        "Minsk",
-        "/wiki/Minsk"
+        [
+          "SSRI"
+        ],
+        [
+          "/wiki/SSRI"
+        ]
       ],
       [
-        "Dinamo-Yuni",
-        "/wiki/Dinamo-Yuni_Stadium"
-      ],
-      [
-        "4,500",
-        null
-      ],
-      [
-        "2",
-        null
+        [
+          "27,993,635"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Dnepr",
-        "/wiki/FC_Dnepr_Mogilev"
+        [
+          "Fluoxetine"
+        ],
+        [
+          "/wiki/Fluoxetine"
+        ]
       ],
       [
-        "Mogilev",
-        "/wiki/Mogilev"
+        [
+          "SSRI"
+        ],
+        [
+          "/wiki/SSRI"
+        ]
       ],
       [
-        "Spartak, Mogilev",
-        "/wiki/Spartak_Stadion_(Mogilev)"
-      ],
-      [
-        "7,350",
-        null
-      ],
-      [
-        "3",
-        null
+        [
+          "24,473,994"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Naftan",
-        "/wiki/FC_Naftan_Novopolotsk"
+        [
+          "Escitalopram"
+        ],
+        [
+          "/wiki/Escitalopram"
+        ]
       ],
       [
-        "Novopolotsk",
-        "/wiki/Novopolotsk"
+        [
+          "SSRI"
+        ],
+        [
+          "/wiki/SSRI"
+        ]
       ],
       [
-        "Atlant",
-        "/wiki/Atlant_Stadium"
-      ],
-      [
-        "5,300",
-        null
-      ],
-      [
-        "4",
-        null
+        [
+          "23,000,456"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Dinamo Brest",
-        "/wiki/FC_Dinamo_Brest"
+        [
+          "Trazodone"
+        ],
+        [
+          "/wiki/Trazodone"
+        ]
       ],
       [
-        "Brest",
-        "/wiki/Brest,_Belarus"
+        [
+          "SARI"
+        ],
+        [
+          "/wiki/Serotonin_antagonist_and_reuptake_inhibitor"
+        ]
       ],
       [
-        "OSK Brestskiy",
-        "/wiki/OSK_Brestskiy"
-      ],
-      [
-        "10,162",
-        null
-      ],
-      [
-        "5",
-        null
+        [
+          "18,786,495"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Shakhtyor",
-        "/wiki/FC_Shakhtyor_Soligorsk"
+        [
+          "Venlafaxine"
+        ],
+        [
+          "/wiki/Venlafaxine"
+        ]
       ],
       [
-        "Soligorsk",
-        "/wiki/Soligorsk"
+        [
+          "SNRI"
+        ],
+        [
+          "/wiki/Serotonin%E2%80%93norepinephrine_reuptake_inhibitor"
+        ]
       ],
       [
-        "Stroitel",
-        "/wiki/Stroitel_Stadium_(Soligorsk)"
-      ],
-      [
-        "4,500",
-        null
-      ],
-      [
-        "6",
-        null
+        [
+          "16,110,606"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Neman",
-        "/wiki/FC_Neman_Grodno"
+        [
+          "Bupropion"
+        ],
+        [
+          "/wiki/Bupropion"
+        ]
       ],
       [
-        "Grodno",
-        "/wiki/Grodno"
+        [
+          "NDRI"
+        ],
+        [
+          "/wiki/Norepinephrine%E2%80%93dopamine_reuptake_inhibitor"
+        ]
       ],
       [
-        "Neman",
-        "/wiki/Neman_Stadium"
-      ],
-      [
-        "8,500",
-        null
-      ],
-      [
-        "7",
-        null
+        [
+          "15,792,653"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Torpedo",
-        "/wiki/FC_Torpedo_Zhodino"
+        [
+          "Duloxetine"
+        ],
+        [
+          "/wiki/Duloxetine"
+        ]
       ],
       [
-        "Zhodino",
-        "/wiki/Zhodino"
+        [
+          "SNRI"
+        ],
+        [
+          "/wiki/Serotonin%E2%80%93norepinephrine_reuptake_inhibitor"
+        ]
       ],
       [
-        "Torpedo, Zhodino",
-        "/wiki/Torpedo_Stadium_(Zhodino)"
-      ],
-      [
-        "3,020",
-        null
-      ],
-      [
-        "8",
-        null
+        [
+          "14,591,949"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Minsk",
-        "/wiki/FC_Minsk"
+        [
+          "Paroxetine"
+        ],
+        [
+          "/wiki/Paroxetine"
+        ]
       ],
       [
-        "Minsk",
-        "/wiki/Minsk"
+        [
+          "SSRI"
+        ],
+        [
+          "/wiki/SSRI"
+        ]
       ],
       [
-        "Dinamo, Minsk",
-        "/wiki/Dinamo_Stadium_(Minsk)"
-      ],
-      [
-        "41,000",
-        null
-      ],
-      [
-        "9",
-        null
+        [
+          "12,979,366"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Vitebsk",
-        "/wiki/FC_Vitebsk"
+        [
+          "Amitriptyline"
+        ],
+        [
+          "/wiki/Amitriptyline"
+        ]
       ],
       [
-        "Vitebsk",
-        "/wiki/Vitebsk"
+        [
+          "TCA"
+        ],
+        [
+          "/wiki/Tricyclic_antidepressant"
+        ]
       ],
       [
-        "Central, Vitebsk",
-        "/wiki/Tsentral%27nyi_Sportkompleks"
-      ],
-      [
-        "8,300",
-        null
-      ],
-      [
-        "10",
-        null
+        [
+          "12,611,254"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Partizan",
-        "/wiki/FC_Partizan_Minsk"
+        [
+          "Venlafaxine"
+        ],
+        [
+          "/wiki/Venlafaxine"
+        ]
       ],
       [
-        "Minsk",
-        "/wiki/Minsk"
+        [
+          "SNRI"
+        ],
+        [
+          "/wiki/Serotonin%E2%80%93norepinephrine_reuptake_inhibitor"
+        ]
       ],
       [
-        "Traktor",
-        "/wiki/Traktor_Stadium"
-      ],
-      [
-        "17,600",
-        null
-      ],
-      [
-        "11",
-        null
+        [
+          "7,603,949"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Belshina",
-        "/wiki/FC_Belshina_Bobruisk"
+        [
+          "Bupropion"
+        ],
+        [
+          "/wiki/Bupropion"
+        ]
       ],
       [
-        "Bobruisk",
-        "/wiki/Bobruisk"
+        [
+          "NDRI"
+        ],
+        [
+          "/wiki/Norepinephrine%E2%80%93dopamine_reuptake_inhibitor"
+        ]
       ],
       [
-        "Spartak, Bobruisk",
-        "/wiki/Spartak_Stadium_(Babruysk)"
+        [
+          "7,317,814"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Mirtazapine"
+        ],
+        [
+          "/wiki/Mirtazapine"
+        ]
       ],
       [
-        "3,700",
-        null
+        [
+          "TeCA"
+        ],
+        [
+          "/wiki/Tetracyclic_antidepressant"
+        ]
       ],
       [
-        "First League",
-        "/wiki/2009_Belarusian_First_League"
+        [
+          "6,308,288"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Venlafaxine"
+        ],
+        [
+          "/wiki/Venlafaxine"
+        ]
+      ],
+      [
+        [
+          "SNRI"
+        ],
+        [
+          "/wiki/Serotonin%E2%80%93norepinephrine_reuptake_inhibitor"
+        ]
+      ],
+      [
+        [
+          "5,526,132"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Bupropion"
+        ],
+        [
+          "/wiki/Bupropion"
+        ]
+      ],
+      [
+        [
+          "NDRI"
+        ],
+        [
+          "/wiki/Norepinephrine%E2%80%93dopamine_reuptake_inhibitor"
+        ]
+      ],
+      [
+        [
+          "4,588,996"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Desvenlafaxine"
+        ],
+        [
+          "/wiki/Desvenlafaxine"
+        ]
+      ],
+      [
+        [
+          "SNRI"
+        ],
+        [
+          "/wiki/Serotonin%E2%80%93norepinephrine_reuptake_inhibitor"
+        ]
+      ],
+      [
+        [
+          "3,412,354"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Nortriptyline"
+        ],
+        [
+          "/wiki/Nortriptyline"
+        ]
+      ],
+      [
+        [
+          "TCA"
+        ],
+        [
+          "/wiki/Tricyclic_antidepressant"
+        ]
+      ],
+      [
+        [
+          "3,210,476"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Bupropion"
+        ],
+        [
+          "/wiki/Bupropion"
+        ]
+      ],
+      [
+        [
+          "NDRI"
+        ],
+        [
+          "/wiki/Norepinephrine%E2%80%93dopamine_reuptake_inhibitor"
+        ]
+      ],
+      [
+        [
+          "3,132,327"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Venlafaxine"
+        ],
+        [
+          "/wiki/Venlafaxine"
+        ]
+      ],
+      [
+        [
+          "SNRI"
+        ],
+        [
+          "/wiki/Serotonin%E2%80%93norepinephrine_reuptake_inhibitor"
+        ]
+      ],
+      [
+        [
+          "2,980,525"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Bupropion"
+        ],
+        [
+          "/wiki/Bupropion"
+        ]
+      ],
+      [
+        [
+          "NDRI"
+        ],
+        [
+          "/wiki/Norepinephrine%E2%80%93dopamine_reuptake_inhibitor"
+        ]
+      ],
+      [
+        [
+          "753,516"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

@@ -1,302 +1,1016 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_aircraft_of_World_War_II",
-  "title": "List of aircraft of World War II",
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_Internet_forum_software",
+  "title": "Comparison of Internet forum software",
   "header": [
     [
-      "Name of aircraft",
-      null
+      [
+        ""
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Yearfirst flight",
-      null
+      [
+        "Creator"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country of origin",
-      null
+      [
+        "Latest release date"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Current stable version"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Programming language"
+      ],
+      [
+        "/wiki/Programming_language"
+      ]
+    ],
+    [
+      [
+        "License"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Aeronautica Lombarda AL-12P",
-        "/wiki/Aeronautica_Lombarda_AL-12P"
+        [
+          "bbPress"
+        ],
+        [
+          "/wiki/BbPress"
+        ]
       ],
       [
-        "1943",
-        null
+        [
+          "WordPress Foundation"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Italy",
-        null
+        [
+          "2019-09-04"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5.2.3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "PHP"
+        ],
+        [
+          "/wiki/PHP"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Allied Aviation XLRA",
-        "/wiki/Allied_Aviation_XLRA"
+        [
+          "Beehive Forum"
+        ],
+        [
+          "/wiki/Beehive_Forum"
+        ]
       ],
       [
-        "1943",
-        null
+        [
+          "Project Beehive Forum Developers"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "2016-11-05"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.5.2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "PHP"
+        ],
+        [
+          "/wiki/PHP"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "AVIA LM.02",
-        "/wiki/HTTP_404"
+        [
+          "Discourse"
+        ],
+        [
+          "/wiki/Discourse_(software)"
+        ]
       ],
       [
-        "1942",
-        null
+        [
+          "Civilized Discourse Construction Kit, Inc."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Italy",
-        null
+        [
+          "2019-11-06"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2.3.6"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ruby",
+          "JavaScript"
+        ],
+        [
+          "/wiki/Ruby_(programming_language)",
+          "/wiki/JavaScript"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Baynes Bat",
-        "/wiki/Baynes_Bat"
+        [
+          "Discuz!"
+        ],
+        [
+          "/wiki/Discuz!"
+        ]
       ],
       [
-        "1943",
-        null
+        [
+          "Comsenz Inc."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UK",
-        null
+        [
+          "2018-01-01"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "X3.4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "PHP"
+        ],
+        [
+          "/wiki/PHP"
+        ]
+      ],
+      [
+        [
+          "proprietary",
+          "gratis"
+        ],
+        [
+          "/wiki/Proprietary_software",
+          "/wiki/Gratis_versus_libre"
+        ]
       ]
     ],
     [
       [
-        "Blohm & Voss BV 40",
-        "/wiki/Blohm_%26_Voss_BV_40"
+        [
+          "FluxBB"
+        ],
+        [
+          "/wiki/FluxBB"
+        ]
       ],
       [
-        "1944",
-        null
+        [
+          "FluxBB.org Developers"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        null
+        [
+          "2018-12-31"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.5.11"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "PHP"
+        ],
+        [
+          "/wiki/PHP"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Bristol XLRQ",
-        "/wiki/Bristol_XLRQ"
+        [
+          "FUDforum"
+        ],
+        [
+          "/wiki/FUDforum"
+        ]
       ],
       [
-        "1943",
-        null
+        [
+          "Advanced Internet Designs Inc."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "2018-04-09"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3.0.9"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "PHP"
+        ],
+        [
+          "/wiki/PHP"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "CAT TM-2",
-        "/wiki/HTTP_404"
+        [
+          "Ikonboard"
+        ],
+        [
+          "/wiki/Ikonboard"
+        ]
       ],
       [
-        "1943",
-        null
+        [
+          "Matt Mecham (original creator) Joshua Johnson"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Italy",
-        null
+        [
+          "2012-10-19"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3.1.5A"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Perl"
+        ],
+        [
+          "/wiki/Perl"
+        ]
+      ],
+      [
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ]
     ],
     [
       [
-        "Chase YCG-14",
-        "/wiki/Chase_YCG-14"
+        [
+          "Invision Power Board"
+        ],
+        [
+          "/wiki/Invision_Power_Board"
+        ]
       ],
       [
-        "1945",
-        null
+        [
+          "Invision Power Services Inc."
+        ],
+        [
+          "/wiki/Invision_Power_Services"
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "2019-06-12"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "4.4.4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "PHP"
+        ],
+        [
+          "/wiki/PHP"
+        ]
+      ],
+      [
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ]
     ],
     [
       [
-        "Cornelius XFG-1",
-        "/wiki/Cornelius_XFG-1"
+        [
+          "MyBB"
+        ],
+        [
+          "/wiki/MyBB"
+        ]
       ],
       [
-        "1944",
-        null
+        [
+          "MyBB Group"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "2019-12-30"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.8.22"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "PHP"
+        ],
+        [
+          "/wiki/PHP"
+        ]
+      ],
+      [
+        [
+          "LGPL",
+          "BSD"
+        ],
+        [
+          "/wiki/GNU_Lesser_General_Public_License",
+          "/wiki/BSD_License"
+        ]
       ]
     ],
     [
       [
-        "DFS 331",
-        "/wiki/DFS_331"
+        [
+          "Phorum"
+        ],
+        [
+          "/wiki/Phorum"
+        ]
       ],
       [
-        "1942",
-        null
+        [
+          "Brian Moon"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        null
+        [
+          "2017-08-23"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5.2.23"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "PHP"
+        ],
+        [
+          "/wiki/PHP"
+        ]
+      ],
+      [
+        [
+          "BSD"
+        ],
+        [
+          "/wiki/BSD_licenses"
+        ]
       ]
     ],
     [
       [
-        "Frankfort TG-1",
-        "/wiki/Frankfort_Cinema"
+        [
+          "phpBB"
+        ],
+        [
+          "/wiki/PhpBB"
+        ]
       ],
       [
-        "1940",
-        null
+        [
+          "phpBB Ltd."
+        ],
+        [
+          "/wiki/PhpBB"
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "2020-01-06"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3.3.0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "PHP"
+        ],
+        [
+          "/wiki/PHP"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "General Airborne Transport XCG-16",
-        "/wiki/General_Airborne_Transport_XCG-16"
+        [
+          "PunBB"
+        ],
+        [
+          "/wiki/PunBB"
+        ]
       ],
       [
-        "1943",
-        null
+        [
+          "PunBB"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "2015-10-14"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.4.4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "PHP"
+        ],
+        [
+          "/wiki/PHP"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Gotha Ka 430",
-        "/wiki/Gotha_Ka_430"
+        [
+          "Simple Machines Forum"
+        ],
+        [
+          "/wiki/Simple_Machines_Forum"
+        ]
       ],
       [
-        "1943",
-        null
+        [
+          "Simple Machines"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        null
+        [
+          "2019-12-30"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2.0.17"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "PHP"
+        ],
+        [
+          "/wiki/PHP"
+        ]
+      ],
+      [
+        [
+          "BSD License"
+        ],
+        [
+          "/wiki/BSD_License"
+        ]
       ]
     ],
     [
       [
-        "Horten H.IV",
-        "/wiki/Horten_H.IV"
+        [
+          "Syndie"
+        ],
+        [
+          "/wiki/Syndie"
+        ]
       ],
       [
-        "1941",
-        null
+        [
+          "I2P"
+        ],
+        [
+          "/wiki/I2P"
+        ]
       ],
       [
-        "Germany",
-        null
+        [
+          "2014-08-14"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.107b"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
+      ],
+      [
+        [
+          "Open source, multiple licenses"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Horten H.V",
-        "/wiki/Horten_H.V"
+        [
+          "Thredded"
+        ],
+        [
+          "/wiki/Thredded"
+        ]
       ],
       [
-        "1937",
-        null
+        [
+          "Joel Oliveira, Gleb Mazovetskiy, et al."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        null
+        [
+          "2019-08-17"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.16.13"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ruby"
+        ],
+        [
+          "/wiki/Ruby_(programming_language)"
+        ]
+      ],
+      [
+        [
+          "MIT"
+        ],
+        [
+          "/wiki/MIT_License"
+        ]
       ]
     ],
     [
       [
-        "I.Ae. 25 Ma\u00f1que",
-        "/wiki/I.Ae._25_Ma%C3%B1que"
+        [
+          "Vanilla Forums"
+        ],
+        [
+          "/wiki/Vanilla_Forums"
+        ]
       ],
       [
-        "1945",
-        null
+        [
+          "Vanilla Forums"
+        ],
+        [
+          "/wiki/Vanilla_Forums"
+        ]
       ],
       [
-        "Argentina",
-        null
+        [
+          "2019-03-15"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2.8.1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "PHP"
+        ],
+        [
+          "/wiki/PHP"
+        ]
+      ],
+      [
+        [
+          "Proprietary",
+          "GPL"
+        ],
+        [
+          "/wiki/Proprietary_software",
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Junkers Ju 322",
-        "/wiki/Junkers_Ju_322"
+        [
+          "vBulletin"
+        ],
+        [
+          "/wiki/VBulletin"
+        ]
       ],
       [
-        "1941",
-        null
+        [
+          "vBulletin Solutions Inc."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        null
+        [
+          "2019-05-14"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5.5.2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "PHP"
+        ],
+        [
+          "/wiki/PHP"
+        ]
+      ],
+      [
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ]
     ],
     [
       [
-        "Kokusai Ku-7",
-        "/wiki/Kokusai_Ku-7"
+        [
+          "XenForo"
+        ],
+        [
+          "/wiki/XenForo"
+        ]
       ],
       [
-        "1942",
-        null
+        [
+          "XenForo Limited, Kier Darby, Mike Sullivan."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Japan",
-        null
+        [
+          "2019-11-06"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2.1.5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "PHP"
+        ],
+        [
+          "/wiki/PHP"
+        ]
+      ],
+      [
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ]
     ],
     [
       [
-        "Laister-Kauffman XCG-10",
-        "/wiki/Laister-Kauffman_XCG-10"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1942",
-        null
+        [
+          "Creator"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "US",
-        null
-      ]
-    ],
-    [
-      [
-        "Maeda Ku-6",
-        "/wiki/Maeda_Ku-6"
+        [
+          "Latest release date"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1945",
-        null
+        [
+          "Current stable version"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Japan",
-        null
+        [
+          "Programming language"
+        ],
+        [
+          "/wiki/Programming_language"
+        ]
+      ],
+      [
+        [
+          "License"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "Basic general information about the forums: creator/company, license/price etc.",
   "idx": 2611
 }

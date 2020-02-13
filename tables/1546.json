@@ -1,203 +1,425 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2013_Latvian_Higher_League",
-  "title": "2013 Latvian Higher League",
+  "url": "https://en.wikipedia.org/wiki/United_Soccer_Conference",
+  "title": "United Soccer Conference",
   "header": [
     [
-      "Club",
-      null
+      [
+        "Institution"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Stadium",
-      null
+      [
+        "Joined"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Capacity",
-      null
+      [
+        "Left"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Current women's soccer conference"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "FC Daugava",
-        "/wiki/FC_Daugava"
+        [
+          "Delaware State University"
+        ],
+        [
+          "/wiki/Delaware_State_University"
+        ]
       ],
       [
-        "Daugavpils",
-        "/wiki/Daugavpils"
+        [
+          "Hornets"
+        ],
+        [
+          "/wiki/Delaware_State_Hornets"
+        ]
       ],
       [
-        "Daugava Stadium",
-        "/wiki/Daugava_Stadium_(Daugavpils)"
+        [
+          "2005"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4,100",
-        null
+        [
+          "2009"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Independent"
+        ],
+        [
+          "/wiki/NCAA_Division_I_independent_schools_(soccer)"
+        ]
       ]
     ],
     [
       [
-        "FK Daugava R\u012bga",
-        "/wiki/FK_Daugava_(2003)"
+        [
+          "Howard University"
+        ],
+        [
+          "/wiki/Howard_University"
+        ]
       ],
       [
-        "Riga",
-        "/wiki/Riga"
+        [
+          "Lady Bison"
+        ],
+        [
+          "/wiki/Howard_Bison_and_Lady_Bison"
+        ]
       ],
       [
-        "Daugava Stadium",
-        "/wiki/Daugava_Stadium_(Riga)"
+        [
+          "2005"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "5,000",
-        null
+        [
+          "2009"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Southwestern Athletic Conference"
+        ],
+        [
+          "/wiki/Southwestern_Athletic_Conference"
+        ]
       ]
     ],
     [
       [
-        "Il\u016bkstes NSS",
-        "/wiki/Il%C5%ABkstes_NSS"
+        [
+          "Indiana University \u2013 Purdue University Fort Wayne"
+        ],
+        [
+          "/wiki/Indiana_University_%E2%80%93_Purdue_University_Fort_Wayne"
+        ]
       ],
       [
-        "Il\u016bkste",
-        "/wiki/Il%C5%ABkste"
+        [
+          "Mastodons"
+        ],
+        [
+          "/wiki/Purdue_Fort_Wayne_Mastodons"
+        ]
       ],
       [
-        "Il\u016bkstes pils\u0113tas stadions",
-        "/wiki/Il%C5%ABkstes_pils%C4%93tas_stadions"
+        [
+          "2005"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "500",
-        null
+        [
+          "2006"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Summit League"
+        ],
+        [
+          "/wiki/Summit_League"
+        ]
       ]
     ],
     [
       [
-        "FK Jelgava",
-        "/wiki/FK_Jelgava"
+        [
+          "Longwood University"
+        ],
+        [
+          "/wiki/Longwood_University"
+        ]
       ],
       [
-        "Jelgava",
-        "/wiki/Jelgava"
+        [
+          "Lancers"
+        ],
+        [
+          "/wiki/Longwood_Lancers"
+        ]
       ],
       [
-        "Zemgales Olimpiskais Sporta Centrs",
-        "/wiki/Zemgales_Olimpiskais_Sporta_Centrs"
+        [
+          "2005"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2,200",
-        null
+        [
+          "2009"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Big South Conference"
+        ],
+        [
+          "/wiki/Big_South_Conference"
+        ]
       ]
     ],
     [
       [
-        "FC J\u016brmala",
-        "/wiki/FC_J%C5%ABrmala"
+        [
+          "New Jersey Institute of Technology"
+        ],
+        [
+          "/wiki/New_Jersey_Institute_of_Technology"
+        ]
       ],
       [
-        "J\u016brmala",
-        "/wiki/J%C5%ABrmala"
+        [
+          "Highlanders"
+        ],
+        [
+          "/wiki/NJIT_Highlanders"
+        ]
       ],
       [
-        "Slokas Stadium",
-        "/wiki/Slokas_Stadium"
+        [
+          "2007"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "5,000",
-        null
+        [
+          "2009"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "ASUN Conference"
+        ],
+        [
+          "/wiki/Atlantic_Sun_Conference"
+        ]
       ]
     ],
     [
       [
-        "SK Liep\u0101jas Metalurgs",
-        "/wiki/FK_Liep%C4%81jas_Metalurgs"
+        [
+          "North Dakota State University"
+        ],
+        [
+          "/wiki/North_Dakota_State_University"
+        ]
       ],
       [
-        "Liep\u0101ja",
-        "/wiki/Liep%C4%81ja"
+        [
+          "Bison"
+        ],
+        [
+          "/wiki/North_Dakota_State_Bison_women%27s_soccer"
+        ]
       ],
       [
-        "Daugava Stadium",
-        "/wiki/Daugava_Stadium_(Liep%C4%81ja)"
+        [
+          "2006"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6,000",
-        null
+        [
+          "2006"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Summit League"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "FS Metta/LU",
-        "/wiki/FS_METTA/Latvijas_Universit%C4%81te"
+        [
+          "South Carolina State University"
+        ],
+        [
+          "/wiki/South_Carolina_State_University"
+        ]
       ],
       [
-        "Riga",
-        null
+        [
+          "Lady Bulldogs"
+        ],
+        [
+          "/wiki/South_Carolina_State_Bulldogs_and_Lady_Bulldogs"
+        ]
       ],
       [
-        "Stadions Ark\u0101dija",
-        "/wiki/Stadions_Ark%C4%81dija"
+        [
+          "2005"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "500",
-        null
+        [
+          "2009"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Independent"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Skonto FC",
-        "/wiki/Skonto_FC"
+        [
+          "South Dakota State University"
+        ],
+        [
+          "/wiki/South_Dakota_State_University"
+        ]
       ],
       [
-        "Riga",
-        null
+        [
+          "Jackrabbits"
+        ],
+        [
+          "/wiki/South_Dakota_State_Jackrabbits"
+        ]
       ],
       [
-        "Skonto Stadium",
-        "/wiki/Skonto_Stadions"
+        [
+          "2006"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "10,000",
-        null
+        [
+          "2006"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Summit League"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "FK Spartaks J\u016brmala",
-        "/wiki/FK_Spartaks_J%C5%ABrmala"
+        [
+          "Utah Valley University"
+        ],
+        [
+          "/wiki/Utah_Valley_University"
+        ]
       ],
       [
-        "J\u016brmala",
-        null
+        [
+          "Wolverines"
+        ],
+        [
+          "/wiki/Utah_Valley_Wolverines"
+        ]
       ],
       [
-        "Slokas Stadium",
-        null
+        [
+          "2005"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "5,000",
-        null
-      ]
-    ],
-    [
-      [
-        "FK Ventspils",
-        "/wiki/FK_Ventspils"
+        [
+          "2009"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ventspils",
-        "/wiki/Ventspils"
-      ],
-      [
-        "Olimpiskais Stadium",
-        "/wiki/Ventspils_Olimpiskais_Stadions"
-      ],
-      [
-        "3,200",
-        null
+        [
+          "Western Athletic Conference"
+        ],
+        [
+          "/wiki/Western_Athletic_Conference"
+        ]
       ]
     ]
   ],

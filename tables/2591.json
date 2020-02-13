@@ -1,247 +1,377 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Latin_America",
-  "title": "Latin America",
+  "url": "https://en.wikipedia.org/wiki/List_of_bus_transit_systems_in_the_United_States",
+  "title": "List of bus transit systems in the United States",
   "header": [
     [
-      "City",
-      null
+      [
+        "System"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country",
-      null
+      [
+        "Locale"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "2017 population",
-      null
-    ],
-    [
-      "GDP,PPP,USD",
-      "/wiki/Gross_domestic_product /wiki/GDP_(PPP) /wiki/USD"
-    ],
-    [
-      "USD",
-      "/wiki/USD"
+      [
+        "Major city(s)"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Mexico City",
-        "/wiki/Greater_Mexico_City"
+        [
+          "Brockton Area Transit Authority"
+        ],
+        [
+          "/wiki/Brockton_Area_Transit_Authority"
+        ]
       ],
       [
-        "Mexico",
-        "/wiki/Mexico"
+        [
+          "Brockton"
+        ],
+        [
+          "/wiki/Brockton,_Massachusetts"
+        ]
       ],
       [
-        "23,655,355",
-        null
-      ],
-      [
-        "$403,561",
-        null
-      ],
-      [
-        "$19,239",
-        null
+        [
+          "Brockton"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "S\u00e3o Paulo",
-        "/wiki/Greater_S%C3%A3o_Paulo"
+        [
+          "Cape Ann Transportation Authority"
+        ],
+        [
+          "/wiki/Cape_Ann_Transportation_Authority"
+        ]
       ],
       [
-        "Brazil",
-        "/wiki/Brazil"
+        [
+          "Cape Ann"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "23,467,354",
-        null
-      ],
-      [
-        "$430,510",
-        null
-      ],
-      [
-        "$20,650",
-        null
+        [
+          "Gloucester"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Buenos Aires",
-        "/wiki/Greater_Buenos_Aires"
+        [
+          "Cape Cod Regional Transit Authority"
+        ],
+        [
+          "/wiki/Cape_Cod_Regional_Transit_Authority"
+        ]
       ],
       [
-        "Argentina",
-        "/wiki/Argentina"
+        [
+          "Barnstable County"
+        ],
+        [
+          "/wiki/Barnstable_County,_Massachusetts"
+        ]
       ],
       [
-        "15,564,354",
-        null
-      ],
-      [
-        "$315,885",
-        null
-      ],
-      [
-        "$23,606",
-        null
+        [
+          "Barnstable"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Rio de Janeiro",
-        "/wiki/Greater_Rio_de_Janeiro"
+        [
+          "Greater Attleboro Taunton Regional Transit Authority"
+        ],
+        [
+          "/wiki/Greater_Attleboro_Taunton_Regional_Transit_Authority"
+        ]
       ],
       [
-        "Brazil",
-        "/wiki/Brazil"
+        [
+          "Attleboro",
+          "Taunton"
+        ],
+        [
+          "/wiki/Attleboro,_Massachusetts",
+          "/wiki/Taunton,_Massachusetts"
+        ]
       ],
       [
-        "14,440,345",
-        null
-      ],
-      [
-        "$176,630",
-        null
-      ],
-      [
-        "$14,176",
-        null
+        [
+          "Attleboro and Taunton"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bogot\u00e1",
-        "/wiki/Metropolitan_Area_of_Bogot%C3%A1"
+        [
+          "Lowell Regional Transit Authority"
+        ],
+        [
+          "/wiki/Lowell_Regional_Transit_Authority"
+        ]
       ],
       [
-        "Colombia",
-        "/wiki/Colombia"
+        [
+          "Lowell"
+        ],
+        [
+          "/wiki/Lowell,_Massachusetts"
+        ]
       ],
       [
-        "9,900,800",
-        null
-      ],
-      [
-        "$199,150",
-        null
-      ],
-      [
-        "$19,497",
-        null
+        [
+          "Lowell"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lima",
-        "/wiki/Lima_Metropolitan_Area"
+        [
+          "Massachusetts Bay Transportation Authority"
+        ],
+        [
+          "/wiki/MBTA_Bus"
+        ]
       ],
       [
-        "Peru",
-        "/wiki/Peru"
+        [
+          "Boston"
+        ],
+        [
+          "/wiki/Boston"
+        ]
       ],
       [
-        "9,752,000",
-        null
-      ],
-      [
-        "$176,447",
-        null
-      ],
-      [
-        "$16,530",
-        null
+        [
+          "Boston"
+        ],
+        [
+          "/wiki/Boston"
+        ]
       ]
     ],
     [
       [
-        "Santiago",
-        "/wiki/Santiago_Metropolitan_Region"
+        [
+          "Merrimack Valley Regional Transit Authority"
+        ],
+        [
+          "/wiki/Merrimack_Valley_Regional_Transit_Authority"
+        ]
       ],
       [
-        "Chile",
-        "/wiki/Chile"
+        [
+          "Merrimack River"
+        ],
+        [
+          "/wiki/Merrimack_River"
+        ]
       ],
       [
-        "7,164,400",
-        null
-      ],
-      [
-        "$171,436",
-        null
-      ],
-      [
-        "$23,290",
-        null
+        [
+          "Lawrence and Haverhill"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Belo Horizonte",
-        "/wiki/Greater_Belo_Horizonte"
+        [
+          "MetroWest Regional Transit Authority"
+        ],
+        [
+          "/wiki/MetroWest_Regional_Transit_Authority"
+        ]
       ],
       [
-        "Brazil",
-        "/wiki/Brazil"
+        [
+          "MetroWest Region"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6,145,800",
-        null
-      ],
-      [
-        "$95,686",
-        null
-      ],
-      [
-        "$17,635",
-        null
+        [
+          "Framingham"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Guadalajara",
-        "/wiki/Guadalajara_Metropolitan_Area"
+        [
+          "Montachusett Regional Transit Authority"
+        ],
+        [
+          "/wiki/Montachusett_Regional_Transit_Authority"
+        ]
       ],
       [
-        "Mexico",
-        "/wiki/Mexico"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4,687,700",
-        null
-      ],
-      [
-        "$80,656",
-        null
-      ],
-      [
-        "$17,206",
-        null
+        [
+          "Fitchburg, Leominster, and Gardner"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Monterrey",
-        "/wiki/Monterrey_Metropolitan_area"
+        [
+          "Nantucket Regional Transit Authority"
+        ],
+        [
+          "/wiki/Nantucket_Regional_Transit_Authority"
+        ]
       ],
       [
-        "Mexico",
-        "/wiki/Mexico"
+        [
+          "Nantucket"
+        ],
+        [
+          "/wiki/Nantucket"
+        ]
       ],
       [
-        "4,344,200",
-        null
+        [
+          "Nantucket"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Pioneer Valley Transit Authority"
+        ],
+        [
+          "/wiki/Pioneer_Valley_Transit_Authority"
+        ]
       ],
       [
-        "$122,896",
-        null
+        [
+          "Hampden",
+          "Hampshire",
+          "Franklin"
+        ],
+        [
+          "/wiki/Hampden_County,_Massachusetts",
+          "/wiki/Hampshire_County,_Massachusetts",
+          "/wiki/Franklin_County,_Massachusetts"
+        ]
       ],
       [
-        "$28,290",
-        null
+        [
+          "Springfield"
+        ],
+        [
+          "/wiki/Springfield,_MA"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Southeastern Regional Transit Authority"
+        ],
+        [
+          "/wiki/Southeastern_Regional_Transit_Authority"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Fall River and New Bedford"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Worcester Regional Transit Authority"
+        ],
+        [
+          "/wiki/Worcester_Regional_Transit_Authority"
+        ]
+      ],
+      [
+        [
+          "Worcester"
+        ],
+        [
+          "/wiki/Worcester,_MA"
+        ]
+      ],
+      [
+        [
+          "Worcester",
+          "Auburn"
+        ],
+        [
+          "/wiki/Worcester,_MA",
+          "/wiki/Auburn,_MA"
+        ]
       ]
     ]
   ],

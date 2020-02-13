@@ -1,467 +1,923 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Departments_of_France",
-  "title": "Departments of France",
+  "url": "https://en.wikipedia.org/wiki/List_of_disasters_in_the_United_States_by_death_toll",
+  "title": "List of disasters in the United States by death toll",
   "header": [
     [
-      "INSEE code",
-      "/wiki/INSEE_code"
+      [
+        "Year"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Department",
-      null
+      [
+        "Type"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Prefecture",
-      null
+      [
+        "Fatalities"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Region",
-      null
+      [
+        "Article"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Named after",
-      null
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "01",
-        null
+        [
+          "1871"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ain",
-        "/wiki/Ain"
+        [
+          "Fire"
+        ],
+        [
+          "/wiki/Fire"
+        ]
       ],
       [
-        "Bourg-en-Bresse",
-        "/wiki/Bourg-en-Bresse"
+        [
+          "200\u2013300"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Auvergne-Rh\u00f4ne-Alpes",
-        "/wiki/Auvergne-Rh%C3%B4ne-Alpes"
+        [
+          "Great Chicago Fire"
+        ],
+        [
+          "/wiki/Great_Chicago_Fire"
+        ]
       ],
       [
-        "Ain (river)",
-        "/wiki/Ain_(river)"
+        [
+          "Chicago, Illinois"
+        ],
+        [
+          "/wiki/Chicago,_Illinois"
+        ]
       ]
     ],
     [
       [
-        "02",
-        null
+        [
+          "1900"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Aisne",
-        "/wiki/Aisne"
+        [
+          "Accident",
+          "coal mine"
+        ],
+        [
+          "/wiki/Accident",
+          "/wiki/Coal_mine"
+        ]
       ],
       [
-        "Laon",
-        "/wiki/Laon"
+        [
+          "200"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hauts-de-France",
-        "/wiki/Hauts-de-France"
+        [
+          "Scofield Mine disaster"
+        ],
+        [
+          "/wiki/Scofield_Mine_disaster"
+        ]
       ],
       [
-        "Aisne (river)",
-        "/wiki/Aisne_(river)"
+        [
+          "Scofield, Utah"
+        ],
+        [
+          "/wiki/Scofield,_Utah"
+        ]
       ]
     ],
     [
       [
-        "03",
-        null
+        [
+          "1898"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Allier",
-        "/wiki/Allier"
+        [
+          "Accident",
+          "shipwreck"
+        ],
+        [
+          "/wiki/Accident",
+          "/wiki/Shipwreck"
+        ]
       ],
       [
-        "Moulins",
-        "/wiki/Moulins,_Allier"
+        [
+          "192"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Auvergne-Rh\u00f4ne-Alpes",
-        "/wiki/Auvergne-Rh%C3%B4ne-Alpes"
+        [
+          "The Portland"
+        ],
+        [
+          "/wiki/Portland_(shipwreck)"
+        ]
       ],
       [
-        "Allier (river)",
-        "/wiki/Allier_(river)"
+        [
+          "Gloucester, Massachusetts"
+        ],
+        [
+          "/wiki/Gloucester,_Massachusetts"
+        ]
       ]
     ],
     [
       [
-        "04",
-        null
+        [
+          "1863"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Alpes-de-Haute-Provence",
-        "/wiki/Alpes-de-Haute-Provence"
+        [
+          "Mass murder",
+          "military operation"
+        ],
+        [
+          "/wiki/Mass_murder",
+          "/wiki/Military_operation"
+        ]
       ],
       [
-        "Digne-les-Bains",
-        "/wiki/Digne-les-Bains"
+        [
+          "185\u2013200"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Provence-Alpes-C\u00f4te d'Azur",
-        "/wiki/Provence-Alpes-C%C3%B4te_d%27Azur"
+        [
+          "Lawrence Massacre"
+        ],
+        [
+          "/wiki/Lawrence_Massacre"
+        ]
       ],
       [
-        "Alps,Provence",
-        "/wiki/Alps /wiki/Provence"
+        [
+          "Lawrence, Kansas"
+        ],
+        [
+          "/wiki/Lawrence,_Kansas"
+        ]
       ]
     ],
     [
       [
-        "05",
-        null
+        [
+          "1947"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hautes-Alpes",
-        "/wiki/Hautes-Alpes"
+        [
+          "Tornado"
+        ],
+        [
+          "/wiki/Tornado"
+        ]
       ],
       [
-        "Gap",
-        "/wiki/Gap,_Hautes-Alpes"
+        [
+          "181"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Provence-Alpes-C\u00f4te d'Azur",
-        "/wiki/Provence-Alpes-C%C3%B4te_d%27Azur"
+        [
+          "1947 Glazier\u2013Higgins\u2013Woodward tornadoes"
+        ],
+        [
+          "/wiki/1947_Glazier%E2%80%93Higgins%E2%80%93Woodward_tornadoes"
+        ]
       ],
       [
-        "Alps",
-        "/wiki/Alps"
+        [
+          "Oklahoma",
+          "Woodward",
+          "Texas",
+          "Glazier",
+          "Higgins",
+          "Kansas"
+        ],
+        [
+          "/wiki/Oklahoma",
+          "/wiki/Woodward,_Oklahoma",
+          "/wiki/Texas",
+          "/wiki/Glazier,_Texas",
+          "/wiki/Higgins,_Texas",
+          "/wiki/Kansas"
+        ]
       ]
     ],
     [
       [
-        "06",
-        null
+        [
+          "1908"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Alpes-Maritimes",
-        "/wiki/Alpes-Maritimes"
+        [
+          "Fire"
+        ],
+        [
+          "/wiki/Fire"
+        ]
       ],
       [
-        "Nice",
-        "/wiki/Nice"
+        [
+          "174"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Provence-Alpes-C\u00f4te d'Azur",
-        "/wiki/Provence-Alpes-C%C3%B4te_d%27Azur"
+        [
+          "Collinwood school fire"
+        ],
+        [
+          "/wiki/Collinwood_school_fire"
+        ]
       ],
       [
-        "Alps",
-        "/wiki/Alps"
+        [
+          "Cleveland, Ohio"
+        ],
+        [
+          "/wiki/Cleveland,_Ohio"
+        ]
       ]
     ],
     [
       [
-        "07",
-        null
+        [
+          "1908"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ard\u00e8che",
-        "/wiki/Ard%C3%A8che"
+        [
+          "Fire"
+        ],
+        [
+          "/wiki/Fire"
+        ]
       ],
       [
-        "Privas",
-        "/wiki/Privas"
+        [
+          "171"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Auvergne-Rh\u00f4ne-Alpes",
-        "/wiki/Auvergne-Rh%C3%B4ne-Alpes"
+        [
+          "Rhoads Opera House fire"
+        ],
+        [
+          "/wiki/Rhoads_Opera_House_fire"
+        ]
       ],
       [
-        "Ard\u00e8che (river)",
-        "/wiki/Ard%C3%A8che_(river)"
+        [
+          "Boyertown, Pennsylvania"
+        ],
+        [
+          "/wiki/Boyertown,_Pennsylvania"
+        ]
       ]
     ],
     [
       [
-        "08",
-        null
+        [
+          "1917"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ardennes",
-        "/wiki/Ardennes_(department)"
+        [
+          "Fire"
+        ],
+        [
+          "/wiki/Fire"
+        ]
       ],
       [
-        "Charleville-M\u00e9zi\u00e8res",
-        "/wiki/Charleville-M%C3%A9zi%C3%A8res"
+        [
+          "168"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grand Est",
-        "/wiki/Grand_Est"
+        [
+          "Speculator Mine disaster"
+        ],
+        [
+          "/wiki/Speculator_Mine_disaster"
+        ]
       ],
       [
-        "Ardennes Forest",
-        "/wiki/Ardennes_Forest"
+        [
+          "Butte, Montana"
+        ],
+        [
+          "/wiki/Butte,_Montana"
+        ]
       ]
     ],
     [
       [
-        "09",
-        null
+        [
+          "1944"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ari\u00e8ge",
-        "/wiki/Ari%C3%A8ge_(department)"
+        [
+          "Fire"
+        ],
+        [
+          "/wiki/Fire"
+        ]
       ],
       [
-        "Foix",
-        "/wiki/Foix"
+        [
+          "168"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Occitanie",
-        "/wiki/Occitanie"
+        [
+          "Hartford circus fire"
+        ],
+        [
+          "/wiki/Hartford_circus_fire"
+        ]
       ],
       [
-        "Ari\u00e8ge (river)",
-        "/wiki/Ari%C3%A8ge_(river)"
+        [
+          "Hartford, Connecticut"
+        ],
+        [
+          "/wiki/Hartford,_Connecticut"
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "1966"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Aube",
-        "/wiki/Aube"
+        [
+          "Smog"
+        ],
+        [
+          "/wiki/Smog"
+        ]
       ],
       [
-        "Troyes",
-        "/wiki/Troyes"
+        [
+          "168"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grand Est",
-        "/wiki/Grand_Est"
+        [
+          "1966 New York City smog"
+        ],
+        [
+          "/wiki/1966_New_York_City_smog"
+        ]
       ],
       [
-        "Aube (river)",
-        "/wiki/Aube_(river)"
+        [
+          "New York City",
+          "New York metropolitan area",
+          "New Jersey",
+          "Connecticut"
+        ],
+        [
+          "/wiki/New_York_City",
+          "/wiki/New_York_metropolitan_area",
+          "/wiki/New_Jersey",
+          "/wiki/Connecticut"
+        ]
       ]
     ],
     [
       [
-        "11",
-        null
+        [
+          "1995"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Aude",
-        "/wiki/Aude"
+        [
+          "Terrorism"
+        ],
+        [
+          "/wiki/Terrorism"
+        ]
       ],
       [
-        "Carcassonne",
-        "/wiki/Carcassonne"
+        [
+          "168"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Occitanie",
-        "/wiki/Occitanie"
+        [
+          "Oklahoma City bombing"
+        ],
+        [
+          "/wiki/Oklahoma_City_bombing"
+        ]
       ],
       [
-        "Aude (river)",
-        "/wiki/Aude_(river)"
+        [
+          "Oklahoma City, Oklahoma"
+        ],
+        [
+          "/wiki/Oklahoma_City,_Oklahoma"
+        ]
       ]
     ],
     [
       [
-        "12",
-        null
+        [
+          "1946"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Aveyron",
-        "/wiki/Aveyron"
+        [
+          "Tsunami",
+          "Earthquake"
+        ],
+        [
+          "/wiki/Tsunami",
+          "/wiki/Earthquake"
+        ]
       ],
       [
-        "Rodez",
-        "/wiki/Rodez"
+        [
+          "165"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Occitanie",
-        "/wiki/Occitanie"
+        [
+          "1946 Aleutian Islands earthquake"
+        ],
+        [
+          "/wiki/1946_Aleutian_Islands_earthquake"
+        ]
       ],
       [
-        "Aveyron (river)",
-        "/wiki/Aveyron_(river)"
+        [
+          "Alaska",
+          "Hawaii"
+        ],
+        [
+          "/wiki/Alaska",
+          "/wiki/Hawaii"
+        ]
       ]
     ],
     [
       [
-        "13",
-        null
+        [
+          "1977"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bouches-du-Rh\u00f4ne",
-        "/wiki/Bouches-du-Rh%C3%B4ne"
+        [
+          "Fire"
+        ],
+        [
+          "/wiki/Fire"
+        ]
       ],
       [
-        "Marseille",
-        "/wiki/Marseille"
+        [
+          "165"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Provence-Alpes-C\u00f4te d'Azur",
-        "/wiki/Provence-Alpes-C%C3%B4te_d%27Azur"
+        [
+          "Beverly Hills Supper Club fire"
+        ],
+        [
+          "/wiki/Beverly_Hills_Supper_Club_fire"
+        ]
       ],
       [
-        "Rh\u00f4ne (river)",
-        "/wiki/Rh%C3%B4ne_(river)"
+        [
+          "Southgate, Kentucky"
+        ],
+        [
+          "/wiki/Southgate,_Kentucky"
+        ]
       ]
     ],
     [
       [
-        "14",
-        null
+        [
+          "1944"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Calvados",
-        "/wiki/Calvados_(department)"
+        [
+          "Maritime",
+          "Accident"
+        ],
+        [
+          "/wiki/Sea",
+          "/wiki/Accident"
+        ]
       ],
       [
-        "Caen",
-        "/wiki/Caen"
+        [
+          "163"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Normandy",
-        "/wiki/Normandy"
+        [
+          "West Loch disaster"
+        ],
+        [
+          "/wiki/West_Loch_disaster"
+        ]
       ],
       [
-        "Calvados rocks",
-        null
+        [
+          "Pearl Harbor",
+          "Hawaii"
+        ],
+        [
+          "/wiki/Pearl_Harbor",
+          "/wiki/Hawaii"
+        ]
       ]
     ],
     [
       [
-        "15",
-        null
+        [
+          "1956"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cantal",
-        "/wiki/Cantal"
+        [
+          "Blizzard"
+        ],
+        [
+          "/wiki/Blizzard"
+        ]
       ],
       [
-        "Aurillac",
-        "/wiki/Aurillac"
+        [
+          "162"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Auvergne-Rh\u00f4ne-Alpes",
-        "/wiki/Auvergne-Rh%C3%B4ne-Alpes"
+        [
+          "March 18\u201320, 1956 nor'easter"
+        ],
+        [
+          "/wiki/March_18%E2%80%9320,_1956_nor%27easter"
+        ]
       ],
       [
-        "Mounts of Cantal",
-        "/wiki/Mounts_of_Cantal"
+        [
+          "Northeastern United States"
+        ],
+        [
+          "/wiki/Northeastern_United_States"
+        ]
       ]
     ],
     [
       [
-        "16",
-        null
+        [
+          "2011"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Charente",
-        "/wiki/Charente"
+        [
+          "Tornado"
+        ],
+        [
+          "/wiki/Tornado"
+        ]
       ],
       [
-        "Angoul\u00eame",
-        "/wiki/Angoul%C3%AAme"
+        [
+          "158"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nouvelle-Aquitaine",
-        "/wiki/Nouvelle-Aquitaine"
+        [
+          "2011 Joplin tornado"
+        ],
+        [
+          "/wiki/2011_Joplin_tornado"
+        ]
       ],
       [
-        "Charente (river)",
-        "/wiki/Charente_(river)"
+        [
+          "Joplin, Missouri"
+        ],
+        [
+          "/wiki/Joplin,_Missouri"
+        ]
       ]
     ],
     [
       [
-        "17",
-        null
+        [
+          "2012"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Charente-Maritime",
-        "/wiki/Charente-Maritime"
+        [
+          "Tropical cyclone"
+        ],
+        [
+          "/wiki/Tropical_cyclone"
+        ]
       ],
       [
-        "La Rochelle",
-        "/wiki/La_Rochelle"
+        [
+          "158"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nouvelle-Aquitaine",
-        "/wiki/Nouvelle-Aquitaine"
+        [
+          "Hurricane Sandy"
+        ],
+        [
+          "/wiki/Hurricane_Sandy"
+        ]
       ],
       [
-        "Charente (river)",
-        "/wiki/Charente_(river)"
+        [
+          "United States East Coast"
+        ],
+        [
+          "/wiki/United_States_East_Coast"
+        ]
       ]
     ],
     [
       [
-        "18",
-        null
+        [
+          "1960"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cher",
-        "/wiki/Cher_(department)"
+        [
+          "Tropical cyclone"
+        ],
+        [
+          "/wiki/Tropical_cyclone"
+        ]
       ],
       [
-        "Bourges",
-        "/wiki/Bourges"
+        [
+          "157"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Centre-Val de Loire",
-        "/wiki/Centre-Val_de_Loire"
+        [
+          "Hurricane Donna"
+        ],
+        [
+          "/wiki/Hurricane_Donna"
+        ]
       ],
       [
-        "Cher (river)",
-        "/wiki/Cher_(river)"
+        [
+          "The Caribbean",
+          "United States East Coast"
+        ],
+        [
+          "/wiki/The_Caribbean",
+          "/wiki/United_States_East_Coast"
+        ]
       ]
     ],
     [
       [
-        "19",
-        null
+        [
+          "1987"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Corr\u00e8ze",
-        "/wiki/Corr%C3%A8ze"
+        [
+          "Accident",
+          "aircraft"
+        ],
+        [
+          "/wiki/Accident",
+          "/wiki/Aircraft"
+        ]
       ],
       [
-        "Tulle",
-        "/wiki/Tulle"
+        [
+          "156"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nouvelle-Aquitaine",
-        "/wiki/Nouvelle-Aquitaine"
+        [
+          "Northwest Airlines Flight 255"
+        ],
+        [
+          "/wiki/Northwest_Airlines_Flight_255"
+        ]
       ],
       [
-        "Corr\u00e8ze (river)",
-        "/wiki/Corr%C3%A8ze_(river)"
+        [
+          "Detroit, Michigan"
+        ],
+        [
+          "/wiki/Detroit,_Michigan"
+        ]
       ]
     ],
     [
       [
-        "2A",
-        null
+        [
+          "1982"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Corse-du-Sud",
-        "/wiki/Corse-du-Sud"
+        [
+          "Accident",
+          "aircraft"
+        ],
+        [
+          "/wiki/Accident",
+          "/wiki/Aircraft"
+        ]
       ],
       [
-        "Ajaccio",
-        "/wiki/Ajaccio"
+        [
+          "153"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Corsica",
-        "/wiki/Corsica"
+        [
+          "Pan Am Flight 759"
+        ],
+        [
+          "/wiki/Pan_Am_Flight_759"
+        ]
       ],
       [
-        "Corsica",
-        "/wiki/Corsica"
+        [
+          "New Orleans, Louisiana"
+        ],
+        [
+          "/wiki/New_Orleans,_Louisiana"
+        ]
       ]
     ]
   ],

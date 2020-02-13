@@ -1,269 +1,457 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_museums_and_cultural_institutions_in_New_York_City",
-  "title": "List of museums and cultural institutions in New York City",
+  "url": "https://en.wikipedia.org/wiki/List_of_colleges_and_universities_in_Nevada",
+  "title": "List of colleges and universities in Nevada",
   "header": [
     [
-      "Name",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Neighborhood",
-      null
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Borough",
-      null
+      [
+        "Type"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Type",
-      null
+      [
+        "Founded"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Summary",
-      null
+      [
+        "Enrollment"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Notes"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Austrian Cultural Forum New York",
-        "/wiki/Austrian_Cultural_Forum_New_York"
+        [
+          "College of Southern Nevada"
+        ],
+        [
+          "/wiki/College_of_Southern_Nevada"
+        ]
       ],
       [
-        "Midtown Manhattan",
-        null
+        [
+          "Las Vegas"
+        ],
+        [
+          "/wiki/Las_Vegas,_Nevada"
+        ]
       ],
       [
-        "Manhattan",
-        null
+        [
+          "Two year"
+        ],
+        [
+          "/wiki/Community_college"
+        ]
       ],
       [
-        "Culture",
-        null
+        [
+          "1971"
+        ],
+        [
+          "/wiki/Category:Educational_institutions_established_in_1971"
+        ]
       ],
       [
-        "website",
-        "/wiki/HTTP_404"
+        [
+          "37,758"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Founded as Clark County Community College, later renamed the Community College of Southern Nevada."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "National Museum of the American Indian",
-        "/wiki/National_Museum_of_the_American_Indian"
+        [
+          "Desert Research Institute"
+        ],
+        [
+          "/wiki/Desert_Research_Institute"
+        ]
       ],
       [
-        "Financial District",
-        null
+        [
+          "Reno",
+          "Las Vegas"
+        ],
+        [
+          "/wiki/Reno,_Nevada",
+          "/wiki/Las_Vegas,_Nevada"
+        ]
       ],
       [
-        "Manhattan",
-        null
+        [
+          "Graduate"
+        ],
+        [
+          "/wiki/Graduate_school"
+        ]
       ],
       [
-        "Culture",
-        null
+        [
+          "1959"
+        ],
+        [
+          "/wiki/Category:Educational_institutions_established_in_1959"
+        ]
       ],
       [
-        "[1]",
-        "/wiki/HTTP_404"
+        [
+          "440"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Degrees awarded through the University of Nevada, Reno."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Instituto Cervantes",
-        "/wiki/Instituto_Cervantes"
+        [
+          "Great Basin College"
+        ],
+        [
+          "/wiki/Great_Basin_College"
+        ]
       ],
       [
-        "Midtown Manhattan",
-        null
+        [
+          "Elko"
+        ],
+        [
+          "/wiki/Elko,_Nevada"
+        ]
       ],
       [
-        "Manhattan",
-        null
+        [
+          "Four year"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Culture",
-        null
+        [
+          "1967"
+        ],
+        [
+          "/wiki/Category:Educational_institutions_established_in_1967"
+        ]
       ],
       [
-        "website",
-        "/wiki/HTTP_404"
+        [
+          "3,436"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Founded as Elko College, it was later renamed Northern Nevada College."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Czech Centre New York",
-        "/wiki/HTTP_404"
+        [
+          "Nevada State College"
+        ],
+        [
+          "/wiki/Nevada_State_College"
+        ]
       ],
       [
-        "Upper East Side",
-        null
+        [
+          "Henderson"
+        ],
+        [
+          "/wiki/Henderson,_Nevada"
+        ]
       ],
       [
-        "Manhattan",
-        null
+        [
+          "Four year"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Art",
-        null
+        [
+          "2002"
+        ],
+        [
+          "/wiki/Category:Educational_institutions_established_in_2002"
+        ]
       ],
       [
-        "website,Bohemian National Hall",
-        "/wiki/HTTP_404 /wiki/Bohemian_National_Hall"
+        [
+          "3,390"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Swiss Institute",
-        "/wiki/New_Era_Building_(New_York_City)#Swiss_Institute"
+        [
+          "Truckee Meadows Community College"
+        ],
+        [
+          "/wiki/Truckee_Meadows_Community_College"
+        ]
       ],
       [
-        "Lower Manhattan",
-        null
+        [
+          "Reno"
+        ],
+        [
+          "/wiki/Reno,_Nevada"
+        ]
       ],
       [
-        "Manhattan",
-        null
+        [
+          "Two year"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Art",
-        null
+        [
+          "1971"
+        ],
+        [
+          "/wiki/Category:Educational_institutions_established_in_1971"
+        ]
       ],
       [
-        "website",
-        "/wiki/HTTP_404"
+        [
+          "11,849"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Split from Western Nevada College in 1979."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Scandinavia House \u2013 The Nordic Center in America",
-        "/wiki/Scandinavia_House_%E2%80%93_The_Nordic_Center_in_America"
+        [
+          "University of Nevada, Las Vegas"
+        ],
+        [
+          "/wiki/University_of_Nevada,_Las_Vegas"
+        ]
       ],
       [
-        "Midtown Manhattan",
-        null
+        [
+          "Paradise"
+        ],
+        [
+          "/wiki/Paradise,_Nevada"
+        ]
       ],
       [
-        "Manhattan",
-        null
+        [
+          "Four year"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cultural",
-        null
+        [
+          "1957"
+        ],
+        [
+          "/wiki/Category:Educational_institutions_established_in_1957"
+        ]
       ],
       [
-        "Art, design, and historical exhibitions of the Nordic countries",
-        null
+        [
+          "28,515"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ukrainian Museum",
-        "/wiki/The_Ukrainian_Museum"
+        [
+          "University of Nevada, Reno"
+        ],
+        [
+          "/wiki/University_of_Nevada,_Reno"
+        ]
       ],
       [
-        "East Village",
-        "/wiki/East_Village,_Manhattan"
+        [
+          "Reno"
+        ],
+        [
+          "/wiki/Reno,_Nevada"
+        ]
       ],
       [
-        "Manhattan",
-        null
+        [
+          "Four year"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ukrainian-American",
-        "/wiki/Ukrainian-American"
+        [
+          "1874"
+        ],
+        [
+          "/wiki/Category:Educational_institutions_established_in_1874"
+        ]
       ],
       [
-        "Ukrainian heritage in America",
-        null
+        [
+          "21,353"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Garibaldi-Meucci Museum",
-        "/wiki/Garibaldi-Meucci_Museum"
+        [
+          "Western Nevada College"
+        ],
+        [
+          "/wiki/Western_Nevada_College"
+        ]
       ],
       [
-        "Rosebank",
-        "/wiki/Rosebank,_Staten_Island"
+        [
+          "Carson City"
+        ],
+        [
+          "/wiki/Carson_City,_Nevada"
+        ]
       ],
       [
-        "Staten Island",
-        null
+        [
+          "Two year"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ethnic",
-        null
+        [
+          "1971"
+        ],
+        [
+          "/wiki/Category:Educational_institutions_established_in_1971"
+        ]
       ],
       [
-        "Giuseppe Garibaldi,Antonio Meucci",
-        "/wiki/Giuseppe_Garibaldi /wiki/Antonio_Meucci"
-      ]
-    ],
-    [
-      [
-        "American Folk Art Museum",
-        "/wiki/American_Folk_Art_Museum"
+        [
+          "4,820"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Upper West Side",
-        "/wiki/Upper_West_Side"
-      ],
-      [
-        "Manhattan",
-        null
-      ],
-      [
-        "Art",
-        null
-      ],
-      [
-        "American folk art",
-        null
-      ]
-    ],
-    [
-      [
-        "George Gustav Heye Center",
-        "/wiki/George_Gustav_Heye_Center"
-      ],
-      [
-        "Financial District",
-        "/wiki/Financial_District,_Manhattan"
-      ],
-      [
-        "Manhattan",
-        "/wiki/Manhattan"
-      ],
-      [
-        "Native American",
-        "/wiki/Native_Americans_in_the_United_States"
-      ],
-      [
-        "Smithsonian",
-        "/wiki/Smithsonian"
-      ]
-    ],
-    [
-      [
-        "Goethe-Institut, New York",
-        "/wiki/Goethe-Institut,_New_York"
-      ],
-      [
-        "Lower East Side",
-        "/wiki/Lower_East_Side"
-      ],
-      [
-        "Manhattan",
-        "/wiki/Manhattan"
-      ],
-      [
-        "German culture",
-        "/wiki/Germany"
-      ],
-      [
-        "Goethe-Institut",
-        "/wiki/Goethe-Institut"
+        [
+          "Formerly known as Western Nevada Community College."
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

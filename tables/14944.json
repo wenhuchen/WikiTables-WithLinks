@@ -1,383 +1,429 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Timeline_of_programming_languages",
-  "title": "Timeline of programming languages",
+  "url": "https://en.wikipedia.org/wiki/World_language",
+  "title": "World language",
   "header": [
     [
-      "Year",
-      null
+      [
+        "Language"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Name",
-      null
+      [
+        "Native speakers"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Chief developer, company",
-      null
+      [
+        "Total speakers"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Predecessor(s)",
-      null
+      [
+        "Official status distribution"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1960",
-        null
+        [
+          "Hindustani",
+          "Hindi Belt",
+          "Urdu"
+        ],
+        [
+          "/wiki/Hindustani_language",
+          "/wiki/Hindi_Belt",
+          "/wiki/Urdu"
+        ]
       ],
       [
-        "ALGOL 60",
-        "/wiki/ALGOL_60"
+        [
+          "329\u00a0M (260M Hindi, 69 Urdu)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "697\u00a0M (534M Hindi, 163 Urdu)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ALGOL 58",
-        null
+        [
+          "India",
+          "Hindi",
+          "Urdu",
+          "Pakistan",
+          "Urdu",
+          "Fiji",
+          "Fiji Hindi",
+          "Mauritius",
+          "Hindi",
+          "Surinam",
+          "Sarnami Hindustani"
+        ],
+        [
+          "/wiki/India",
+          "/wiki/Hindi",
+          "/wiki/Urdu",
+          "/wiki/Pakistan",
+          "/wiki/Urdu",
+          "/wiki/Fiji",
+          "/wiki/Fiji_Hindi",
+          "/wiki/Mauritius",
+          "/wiki/Hindi",
+          "/wiki/Surinam",
+          "/wiki/Caribbean_Hindustani"
+        ]
       ]
     ],
     [
       [
-        "1960",
-        null
+        [
+          "Dutch",
+          "Afrikaans"
+        ],
+        [
+          "/wiki/Dutch_language",
+          "/wiki/Afrikaans"
+        ]
       ],
       [
-        "COBOL 61",
-        "/wiki/COBOL"
+        [
+          "29\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CODASYL",
-        "/wiki/CODASYL"
+        [
+          "30\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FLOW-MATIC, COMTRAN",
-        null
+        [
+          "List of territorial entities where Afrikaans and Dutch are official languages"
+        ],
+        [
+          "/wiki/List_of_territorial_entities_where_Afrikaans_and_Dutch_are_official_languages"
+        ]
       ]
     ],
     [
       [
-        "1961",
-        null
+        [
+          "Bengali"
+        ],
+        [
+          "/wiki/Bengali_language"
+        ]
       ],
       [
-        "COMIT",
-        "/wiki/COMIT"
+        [
+          "243\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Victor Yngve",
-        "/wiki/Victor_Yngve"
+        [
+          "262\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "none (unique language)",
-        null
+        [
+          "India",
+          "West Bengal",
+          "Tripura",
+          "Assam",
+          "Bangladesh"
+        ],
+        [
+          "/wiki/India",
+          "/wiki/West_Bengal",
+          "/wiki/Tripura",
+          "/wiki/Assam",
+          "/wiki/Bangladesh"
+        ]
       ]
     ],
     [
       [
-        "1962",
-        null
+        [
+          "Malay",
+          "Indonesian"
+        ],
+        [
+          "/wiki/Malay_language",
+          "/wiki/Indonesian_language"
+        ]
       ],
       [
-        "FORTRAN IV",
-        "/wiki/Fortran#FORTRAN_IV"
+        [
+          "39\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "IBM",
-        "/wiki/IBM"
+        [
+          "218\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FORTRAN II",
-        null
+        [
+          "List of territorial entities where Malay is an official language"
+        ],
+        [
+          "/wiki/List_of_territorial_entities_where_Malay_is_an_official_language"
+        ]
       ]
     ],
     [
       [
-        "1962",
-        null
+        [
+          "Swahili"
+        ],
+        [
+          "/wiki/Swahili_language"
+        ]
       ],
       [
-        "APL",
-        "/wiki/APL_(programming_language)"
+        [
+          "16\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kenneth E. Iverson",
-        "/wiki/Kenneth_E._Iverson"
+        [
+          "98\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "none (unique language)",
-        null
+        [
+          "Tanzania",
+          "Kenya",
+          "Democratic Republic of the Congo",
+          "Rwanda",
+          "Uganda",
+          "African Union",
+          "East African Community"
+        ],
+        [
+          "/wiki/Tanzania",
+          "/wiki/Kenya",
+          "/wiki/Democratic_Republic_of_the_Congo",
+          "/wiki/Rwanda",
+          "/wiki/Uganda",
+          "/wiki/African_Union",
+          "/wiki/East_African_Community"
+        ]
       ]
     ],
     [
       [
-        "1962",
-        null
+        [
+          "Persian"
+        ],
+        [
+          "/wiki/Persian_language"
+        ]
       ],
       [
-        "Simula",
-        "/wiki/Simula"
+        [
+          "58 to 60\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "61 M to 110\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ALGOL 60",
-        null
+        [
+          "Iran",
+          "Afghanistan",
+          "Dari",
+          "Tajikistan",
+          "Tajik"
+        ],
+        [
+          "/wiki/Iran",
+          "/wiki/Afghanistan",
+          "/wiki/Dari_language",
+          "/wiki/Tajikistan",
+          "/wiki/Tajik_language"
+        ]
       ]
     ],
     [
       [
-        "1962",
-        null
+        [
+          "Turkish"
+        ],
+        [
+          "/wiki/Turkish_language"
+        ]
       ],
       [
-        "SNOBOL",
-        "/wiki/SNOBOL"
+        [
+          "74\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ralph Griswold",
-        "/wiki/Ralph_Griswold"
+        [
+          "79 M to 100\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FORTRAN II, COMIT",
-        null
+        [
+          "Turkey",
+          "Cyprus",
+          "Northern Cyprus",
+          "Bosnia and Herzegovina",
+          "Macedonia",
+          "Romania",
+          "Iraq",
+          "Greece",
+          "Republic of Kosovo"
+        ],
+        [
+          "/wiki/Turkey",
+          "/wiki/Cyprus",
+          "/wiki/Northern_Cyprus",
+          "/wiki/Bosnia_and_Herzegovina",
+          "/wiki/Republic_of_Macedonia",
+          "/wiki/Romania",
+          "/wiki/Iraq",
+          "/wiki/Greece",
+          "/wiki/Republic_of_Kosovo"
+        ]
       ]
     ],
     [
       [
-        "1963",
-        null
+        [
+          "Italian"
+        ],
+        [
+          "/wiki/Italian_language"
+        ]
       ],
       [
-        "CPL",
-        "/wiki/Combined_Programming_Language"
+        [
+          "65\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Christopher Strachey",
-        "/wiki/Christopher_Strachey"
+        [
+          "68 M to 85\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ALGOL 60",
-        null
+        [
+          "Italy",
+          "Switzerland",
+          "San Marino",
+          "Sovereign Military Order of Malta",
+          "Vatican City",
+          "Italian diaspora",
+          "Italian Empire"
+        ],
+        [
+          "/wiki/Italy",
+          "/wiki/Switzerland",
+          "/wiki/San_Marino",
+          "/wiki/Sovereign_Military_Order_of_Malta",
+          "/wiki/Vatican_City",
+          "/wiki/Italian_diaspora",
+          "/wiki/Italian_Empire"
+        ]
       ]
     ],
     [
       [
-        "1963",
-        null
+        [
+          "Tamil"
+        ],
+        [
+          "/wiki/Tamil_language"
+        ]
       ],
       [
-        "SNOBOL",
-        "/wiki/SNOBOL"
+        [
+          "68\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Griswold",
-        "/wiki/Ralph_Griswold"
+        [
+          "75\u00a0M"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "SNOBOL",
-        null
-      ]
-    ],
-    [
-      [
-        "1963",
-        null
-      ],
-      [
-        "ALGOL 68",
-        "/wiki/ALGOL_68"
-      ],
-      [
-        "Adriaan van Wijngaarden",
-        "/wiki/Adriaan_van_Wijngaarden"
-      ],
-      [
-        "ALGOL 60",
-        null
-      ]
-    ],
-    [
-      [
-        "1963",
-        null
-      ],
-      [
-        "JOSS I",
-        "/wiki/JOSS"
-      ],
-      [
-        "RAND",
-        "/wiki/RAND_Corporation"
-      ],
-      [
-        "ALGOL 58",
-        null
-      ]
-    ],
-    [
-      [
-        "1964",
-        null
-      ],
-      [
-        "MIMIC",
-        "/wiki/MIMIC"
-      ],
-      [
-        "H. E. Petersen, et al.",
-        null
-      ],
-      [
-        "MIDAS",
-        null
-      ]
-    ],
-    [
-      [
-        "1964",
-        null
-      ],
-      [
-        "COWSEL",
-        "/wiki/COWSEL"
-      ],
-      [
-        "Rod Burstall,Robin Popplestone",
-        "/wiki/Rod_Burstall /wiki/Robin_Popplestone"
-      ],
-      [
-        "CPL, LISP",
-        null
-      ]
-    ],
-    [
-      [
-        "1964",
-        null
-      ],
-      [
-        "PL/I",
-        "/wiki/PL/I"
-      ],
-      [
-        "IBM",
-        "/wiki/IBM"
-      ],
-      [
-        "ALGOL 60, COBOL, FORTRAN",
-        null
-      ]
-    ],
-    [
-      [
-        "1964",
-        null
-      ],
-      [
-        "BASIC",
-        "/wiki/BASIC"
-      ],
-      [
-        "John George Kemeny,Thomas Eugene Kurtz,Dartmouth College",
-        "/wiki/John_George_Kemeny /wiki/Thomas_Eugene_Kurtz /wiki/Dartmouth_College"
-      ],
-      [
-        "FORTRAN II, JOSS",
-        null
-      ]
-    ],
-    [
-      [
-        "1964",
-        null
-      ],
-      [
-        "IBM RPG",
-        "/wiki/IBM_RPG"
-      ],
-      [
-        "IBM",
-        "/wiki/IBM"
-      ],
-      [
-        "FARGO",
-        null
-      ]
-    ],
-    [
-      [
-        "1964",
-        null
-      ],
-      [
-        "Mark-IV",
-        "/wiki/MARK_IV_(software)"
-      ],
-      [
-        "Informatics",
-        "/wiki/Sterling_Software"
-      ],
-      [
-        "",
-        null
-      ]
-    ],
-    [
-      [
-        "1964",
-        null
-      ],
-      [
-        "Speakeasy-2",
-        "/wiki/Speakeasy_(computational_environment)"
-      ],
-      [
-        "Argonne National Laboratory",
-        "/wiki/Argonne_National_Laboratory"
-      ],
-      [
-        "Speakeasy",
-        null
-      ]
-    ],
-    [
-      [
-        "1964",
-        null
-      ],
-      [
-        "TRAC",
-        "/wiki/TRAC_(programming_language)"
-      ],
-      [
-        "Calvin Mooers",
-        "/wiki/Calvin_Mooers"
-      ],
-      [
-        "",
-        null
-      ]
-    ],
-    [
-      [
-        "1964",
-        null
-      ],
-      [
-        "P\u2032\u2032",
-        "/wiki/P%E2%80%B2%E2%80%B2"
-      ],
-      [
-        "Corrado B\u00f6hm",
-        "/wiki/Corrado_B%C3%B6hm"
-      ],
-      [
-        "none (unique language)",
-        null
+        [
+          "List of territorial entities where Tamil is an official language"
+        ],
+        [
+          "/wiki/List_of_territorial_entities_where_Tamil_is_an_official_language"
+        ]
       ]
     ]
   ],

@@ -1,302 +1,764 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Sharpless_catalog",
-  "title": "Sharpless catalog",
+  "url": "https://en.wikipedia.org/wiki/List_of_cities_in_Mozambique_by_population",
+  "title": "List of cities in Mozambique by population",
   "header": [
     [
-      "Sh2 No.",
-      null
+      [
+        "Rank"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "A common name",
-      null
+      [
+        "City"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Names and designations",
-      null
+      [
+        "Population"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Census date"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Province"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "6",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NGC 6302",
-        "/wiki/NGC_6302"
+        [
+          "Matola"
+        ],
+        [
+          "/wiki/Matola"
+        ]
       ],
       [
-        "RCW,Gum,Caldwell",
-        "/wiki/RCW_Catalogue /wiki/Gum_catalog /wiki/Caldwell_catalogue"
+        [
+          "1,616,267"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Maputo"
+        ],
+        [
+          "/wiki/Maputo_Province"
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NGC 6334",
-        "/wiki/NGC_6334"
+        [
+          "Maputo"
+        ],
+        [
+          "/wiki/Maputo"
+        ]
       ],
       [
-        "ESO 392-EN 009, Sharpless 8, RCW 127, Gum 64, NGC 6334",
-        null
+        [
+          "1,101,170"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Maputo City"
+        ],
+        [
+          "/wiki/Maputo"
+        ]
       ]
     ],
     [
       [
-        "11",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NGC 6357",
-        "/wiki/NGC_6357"
+        [
+          "Nampula"
+        ],
+        [
+          "/wiki/Nampula"
+        ]
       ],
       [
-        "Sh2-11, NGC 6357, RCW 131, Gum 66, War and Peace Nebula",
-        null
+        [
+          "743,125"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Nampula"
+        ],
+        [
+          "/wiki/Nampula_Province"
+        ]
       ]
     ],
     [
       [
-        "25",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lagoon Nebula",
-        "/wiki/Lagoon_Nebula"
+        [
+          "Beira"
+        ],
+        [
+          "/wiki/Beira,_Mozambique"
+        ]
       ],
       [
-        "Sh2 25, RCW 146, Gum 72,  Messier 8",
-        null
+        [
+          "533,825"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Sofala"
+        ],
+        [
+          "/wiki/Sofala_Province"
+        ]
       ]
     ],
     [
       [
-        "29",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sharpless 29",
-        null
+        [
+          "Chimoio"
+        ],
+        [
+          "/wiki/Chimoio"
+        ]
       ],
       [
-        "Sh2 29",
-        null
+        [
+          "372,821"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Manica"
+        ],
+        [
+          "/wiki/Manica_Province"
+        ]
       ]
     ],
     [
       [
-        "30",
-        null
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Trifid Nebula",
-        "/wiki/Trifid_Nebula"
+        [
+          "Quelimane"
+        ],
+        [
+          "/wiki/Quelimane"
+        ]
       ],
       [
-        "Sh2 30, M20, NGC 6514, RCW 147, Gum 76",
-        null
+        [
+          "349,842"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Zambezia"
+        ],
+        [
+          "/wiki/Zambezia_Province"
+        ]
       ]
     ],
     [
       [
-        "45",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Omega Nebula",
-        "/wiki/Omega_Nebula"
+        [
+          "Tete"
+        ],
+        [
+          "/wiki/Tete"
+        ]
       ],
       [
-        "Omega Nebula, M17, NGC 6618, Swan Nebula, Sharpless 45, RCW 160, Gum 81",
-        null
+        [
+          "305,722"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tete"
+        ],
+        [
+          "/wiki/Tete_Province"
+        ]
       ]
     ],
     [
       [
-        "49",
-        null
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Eagle Nebula",
-        "/wiki/Eagle_Nebula"
+        [
+          "Nacala"
+        ],
+        [
+          "/wiki/Nacala"
+        ]
       ],
       [
-        "Sh2 49, Messier 16, NGC 6611, RCW 165, Gum 83",
-        null
+        [
+          "225,034"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Nampula"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "64",
-        null
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "W 40",
-        "/wiki/Westerhout_40"
+        [
+          "Lichinga"
+        ],
+        [
+          "/wiki/Lichinga"
+        ]
       ],
       [
-        "Sh2 64, RCW 174",
-        null
+        [
+          "213,361"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Niassa"
+        ],
+        [
+          "/wiki/Niassa_Province"
+        ]
       ]
     ],
     [
       [
-        "101",
-        null
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tulip Nebula",
-        "/wiki/Tulip_Nebula"
+        [
+          "Pemba"
+        ],
+        [
+          "/wiki/Pemba,_Mozambique"
+        ]
       ],
       [
-        "Sharpless 101",
-        null
+        [
+          "201,846"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cabo Delgado"
+        ],
+        [
+          "/wiki/Cabo_Delgado_Province"
+        ]
       ]
     ],
     [
       [
-        "105",
-        null
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Crescent Nebula",
-        "/wiki/Crescent_Nebula"
+        [
+          "Mocuba"
+        ],
+        [
+          "/wiki/Mocuba"
+        ]
       ],
       [
-        "Sh2 105, NGC 6888, Sharpless 105, Caldwell 27",
-        null
+        [
+          "168,736"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2007"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Zambezia"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "106",
-        null
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sh2-106",
-        "/wiki/Celestial_Snow_Angel"
+        [
+          "Gur\u00fa\u00e8"
+        ],
+        [
+          "/wiki/Gur%C3%BA%C3%A8"
+        ]
       ],
       [
-        "Sh2-106, Celestial Snow Angel",
-        null
+        [
+          "145,466"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2007"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Zambezia"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "117",
-        null
+        [
+          "13"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "North America Nebula",
-        "/wiki/North_America_Nebula"
+        [
+          "Xai-Xai"
+        ],
+        [
+          "/wiki/Xai-Xai"
+        ]
       ],
       [
-        "NGC 7000,  Caldwell 20",
-        null
+        [
+          "143,128"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Gaza"
+        ],
+        [
+          "/wiki/Gaza_Province"
+        ]
       ]
     ],
     [
       [
-        "125",
-        null
+        [
+          "14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cocoon Nebula",
-        "/wiki/IC_5146"
+        [
+          "Maxixe"
+        ],
+        [
+          "/wiki/Maxixe,_Mozambique"
+        ]
       ],
       [
-        "IC 5146,  Caldwell 19",
-        null
+        [
+          "123,868"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Inhambane"
+        ],
+        [
+          "/wiki/Inhambane_Province"
+        ]
       ]
     ],
     [
       [
-        "140",
-        null
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sh2-140",
-        null
+        [
+          "Angoche"
+        ],
+        [
+          "/wiki/Angoche"
+        ]
       ],
       [
-        "Sh2-140",
-        null
+        [
+          "89,998"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2007"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Nampula"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "155",
-        null
+        [
+          "16"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cave Nebula",
-        "/wiki/Cave_Nebula"
+        [
+          "Inhambane"
+        ],
+        [
+          "/wiki/Inhambane"
+        ]
       ],
       [
-        "Sh2-155, Caldwell 9",
-        null
+        [
+          "79,724"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Inhambane"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "162",
-        null
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NGC 7635",
-        "/wiki/NGC_7635"
+        [
+          "Cuamba"
+        ],
+        [
+          "/wiki/Cuamba"
+        ]
       ],
       [
-        "Sh2-162, NGC 7635, Bubble nebula",
-        null
-      ]
-    ],
-    [
-      [
-        "184",
-        null
+        [
+          "79,013"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NGC 281",
-        "/wiki/NGC_281"
+        [
+          "2007"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NGC 281, IC 11",
-        null
-      ]
-    ],
-    [
-      [
-        "191",
-        null
-      ],
-      [
-        "Maffei 1",
-        "/wiki/Maffei_1"
-      ],
-      [
-        "Sh2-191, Maffei 1, PGC 9892",
-        null
-      ]
-    ],
-    [
-      [
-        "197",
-        null
-      ],
-      [
-        "Maffei 2",
-        "/wiki/Maffei_2"
-      ],
-      [
-        "PGC",
-        "/wiki/Principal_Galaxies_Catalogue"
+        [
+          "Niassa"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "From these 17 cities shown here they all collectively have a population of 6 million while the population of the entire country ranges at 29 million thus showing that majority of the population still live in rural areas.",
   "idx": 14146
 }

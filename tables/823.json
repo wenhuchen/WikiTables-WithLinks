@@ -1,299 +1,887 @@
 {
-  "url": "https://en.wikipedia.org/wiki/South_African_Premier_Division",
-  "title": "South African Premier Division",
+  "url": "https://en.wikipedia.org/wiki/Serie_A",
+  "title": "Serie A",
   "header": [
     [
-      "Club",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Number of seasons in Premier Division",
-      null
+      [
+        "Home city"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Seasons",
-      null
+      [
+        "Stadium"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Capacity"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "2018\u201319 season"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "African Wanderers",
-        "/wiki/African_Wanderers"
+        [
+          "Atalanta"
+        ],
+        [
+          "/wiki/Atalanta_B.C."
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "Bergamo"
+        ],
+        [
+          "/wiki/Bergamo"
+        ]
       ],
       [
-        "1997/98, 1999/00, 2000/01, 2002/03",
-        null
+        [
+          "Gewiss Stadium"
+        ],
+        [
+          "/wiki/Stadio_Atleti_Azzurri_d%27Italia"
+        ]
+      ],
+      [
+        [
+          "21,300"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3rd in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "AmaZulu",
-        "/wiki/AmaZulu"
+        [
+          "Bologna"
+        ],
+        [
+          "/wiki/Bologna_F.C._1909"
+        ]
       ],
       [
-        "15",
-        null
+        [
+          "Bologna"
+        ],
+        [
+          "/wiki/Bologna"
+        ]
       ],
       [
-        "1996/97, 1997/98, 1998/99, 1999/00, 2001/02, 2003/04, 2004/05, 2006/07, 2007/08, 2008/09, 2009/10, 2010/11, 2011/12, 2012/13, 2013/14, 2014/15",
-        null
+        [
+          "Stadio Renato Dall'Ara"
+        ],
+        [
+          "/wiki/Stadio_Renato_Dall%27Ara"
+        ]
+      ],
+      [
+        [
+          "38,279"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "10th in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "Ajax Cape Town",
-        "/wiki/Ajax_Cape_Town"
+        [
+          "Brescia"
+        ],
+        [
+          "/wiki/Brescia_Calcio"
+        ]
       ],
       [
-        "18",
-        null
+        [
+          "Brescia"
+        ],
+        [
+          "/wiki/Brescia"
+        ]
       ],
       [
-        "1999/00, 2000/01, 2001/02, 2002/03, 2003/04, 2004/05, 2006/07, 2005/06, 2007/08, 2008/09, 2009/10, 2010/11, 2011/12, 2012/13, 2013/14, 2014/15, 2015/16, 2016/17",
-        null
+        [
+          "Stadio Mario Rigamonti"
+        ],
+        [
+          "/wiki/Stadio_Mario_Rigamonti"
+        ]
+      ],
+      [
+        [
+          "16,743"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Serie B champions"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_B"
+        ]
       ]
     ],
     [
       [
-        "Baroka",
-        "/wiki/Baroka"
+        [
+          "Cagliari"
+        ],
+        [
+          "/wiki/Cagliari_Calcio"
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "Cagliari"
+        ],
+        [
+          "/wiki/Cagliari"
+        ]
       ],
       [
-        "2016/17,\n2017/18,\n2018/19,\n2019/20",
-        null
+        [
+          "Sardegna Arena"
+        ],
+        [
+          "/wiki/Sardegna_Arena"
+        ]
+      ],
+      [
+        [
+          "16,233"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "15th in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "Bay United",
-        "/wiki/Bay_United"
+        [
+          "Fiorentina"
+        ],
+        [
+          "/wiki/ACF_Fiorentina"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Florence"
+        ],
+        [
+          "/wiki/Florence"
+        ]
       ],
       [
-        "2008/09",
-        null
+        [
+          "Stadio Artemio Franchi"
+        ],
+        [
+          "/wiki/Stadio_Artemio_Franchi"
+        ]
+      ],
+      [
+        [
+          "43,147"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "16th in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "Benoni Premier United",
-        "/wiki/Benoni_Premier_United"
+        [
+          "Genoa"
+        ],
+        [
+          "/wiki/Genoa_C.F.C."
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Genoa"
+        ],
+        [
+          "/wiki/Genoa"
+        ]
       ],
       [
-        "2006/07",
-        null
+        [
+          "Stadio Luigi Ferraris"
+        ],
+        [
+          "/wiki/Stadio_Luigi_Ferraris"
+        ]
+      ],
+      [
+        [
+          "36,685"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "17th in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "Bidvest Wits",
-        "/wiki/Bidvest_Wits"
+        [
+          "Hellas Verona"
+        ],
+        [
+          "/wiki/Hellas_Verona_F.C."
+        ]
       ],
       [
-        "22",
-        null
+        [
+          "Verona"
+        ],
+        [
+          "/wiki/Verona"
+        ]
       ],
       [
-        "1996/97, 1997/98, 1998/99, 1999/00, 2000/01, 2001/02, 2002/03, 2003/04, 2004/05, 2006/07, 2007/08, 2008/09, 2009/10, 2010/11, 2011/12, 2012/13, 2013/14, 2014/15, 2015/16, 2016/17,\n2017/18,\n2018/19,\n2019/20",
-        null
+        [
+          "Stadio Marc'Antonio Bentegodi"
+        ],
+        [
+          "/wiki/Stadio_Marc%27Antonio_Bentegodi"
+        ]
+      ],
+      [
+        [
+          "39,211"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Serie B Playoff champions"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_B"
+        ]
       ]
     ],
     [
       [
-        "Black Leopards",
-        "/wiki/Black_Leopards"
+        [
+          "Internazionale"
+        ],
+        [
+          "/wiki/Inter_Milan"
+        ]
       ],
       [
-        "9",
-        null
+        [
+          "Milan"
+        ],
+        [
+          "/wiki/Milan"
+        ]
       ],
       [
-        "2001/02, 2002/03, 2003/04, 2004/05, 2005/06, 2006/07, 2007/08, 2011/12, 2012/13",
-        null
+        [
+          "San Siro"
+        ],
+        [
+          "/wiki/San_Siro"
+        ]
+      ],
+      [
+        [
+          "80,018"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "4th in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "Bloemfontein Celtic",
-        "/wiki/Bloemfontein_Celtic"
+        [
+          "Juventus"
+        ],
+        [
+          "/wiki/Juventus_F.C."
+        ]
       ],
       [
-        "21",
-        null
+        [
+          "Turin"
+        ],
+        [
+          "/wiki/Turin"
+        ]
       ],
       [
-        "1996/97, 1997/98, 1998/99, 1999/00, 2000/01, 2004/05, 2005/06, 2006/07, 2007/08, 2008/09, 2009/10, 2010/11, 2011/12, 2012/13, 2013/14, 2014/15, 2015/16, 2016/17,\n2017/18,\n2018/19,\n2019/20",
-        null
+        [
+          "Allianz Stadium"
+        ],
+        [
+          "/wiki/Juventus_Stadium"
+        ]
+      ],
+      [
+        [
+          "41,507"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Serie A champions"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "Bush Bucks",
-        "/wiki/Bush_Bucks"
+        [
+          "Lazio"
+        ],
+        [
+          "/wiki/S.S._Lazio"
+        ]
       ],
       [
-        "9",
-        null
+        [
+          "Rome"
+        ],
+        [
+          "/wiki/Rome"
+        ]
       ],
       [
-        "1996/97, 1997/98, 1998/99, 1999/00, 2000/01, 2001/02, 2002/03, 2004/05, 2005/06",
-        null
+        [
+          "Stadio Olimpico"
+        ],
+        [
+          "/wiki/Stadio_Olimpico"
+        ]
+      ],
+      [
+        [
+          "72,698"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "8th in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "Cape Town Spurs",
-        "/wiki/Cape_Town_Spurs"
+        [
+          "Lecce"
+        ],
+        [
+          "/wiki/U.S._Lecce"
+        ]
       ],
       [
-        "3",
-        null
+        [
+          "Lecce"
+        ],
+        [
+          "/wiki/Lecce"
+        ]
       ],
       [
-        "1996/97, 1997/98, 1998/99",
-        null
+        [
+          "Stadio Via del Mare"
+        ],
+        [
+          "/wiki/Stadio_Via_del_Mare"
+        ]
+      ],
+      [
+        [
+          "33,876"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2nd in Serie B"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_B"
+        ]
       ]
     ],
     [
       [
-        "Cape Town City",
-        "/wiki/HTTP_404"
+        [
+          "Milan"
+        ],
+        [
+          "/wiki/A.C._Milan"
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "Milan"
+        ],
+        [
+          "/wiki/Milan"
+        ]
       ],
       [
-        "2016/17, 2017/18, 2018/19, 2019/20",
-        null
+        [
+          "San Siro"
+        ],
+        [
+          "/wiki/San_Siro"
+        ]
+      ],
+      [
+        [
+          "80,018"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5th in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "Chippa United",
-        "/wiki/Chippa_United"
+        [
+          "Napoli"
+        ],
+        [
+          "/wiki/S.S.C._Napoli"
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "Naples"
+        ],
+        [
+          "/wiki/Naples"
+        ]
       ],
       [
-        "2012/13, 2014/15, 2015/16, 2016/17,\n2017/18,\n2018/19,\n2019/20",
-        null
+        [
+          "Stadio San Paolo"
+        ],
+        [
+          "/wiki/Stadio_San_Paolo"
+        ]
+      ],
+      [
+        [
+          "60,240"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2nd in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "Dynamos",
-        "/wiki/Dynamos_F.C._(South_Africa)"
+        [
+          "Parma"
+        ],
+        [
+          "/wiki/Parma_Calcio_1913"
+        ]
       ],
       [
-        "5",
-        null
+        [
+          "Parma"
+        ],
+        [
+          "/wiki/Parma"
+        ]
       ],
       [
-        "1998/99, 2002/03, 2003/04, 2004/05, 2005/06,",
-        null
+        [
+          "Stadio Ennio Tardini"
+        ],
+        [
+          "/wiki/Stadio_Ennio_Tardini"
+        ]
+      ],
+      [
+        [
+          "27,906"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "14th in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "Free State Stars",
-        "/wiki/Free_State_Stars"
+        [
+          "Roma"
+        ],
+        [
+          "/wiki/A.S._Roma"
+        ]
       ],
       [
-        "19",
-        null
+        [
+          "Rome"
+        ],
+        [
+          "/wiki/Rome"
+        ]
       ],
       [
-        "1996/97, 1997/98, 1998/99, 1999/00, 2000/01, 2001/02, 2005/06, 2007/08, 2008/09, 2009/10, 2010/11, 2011/12, 2012/13, 2013/14, 2014/15, 2015/16, 2016/17,\n2017/18,\n2018/19",
-        null
+        [
+          "Stadio Olimpico"
+        ],
+        [
+          "/wiki/Stadio_Olimpico"
+        ]
+      ],
+      [
+        [
+          "72,698"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "6th in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "Hellenic",
-        "/wiki/Hellenic_FC"
+        [
+          "Sampdoria"
+        ],
+        [
+          "/wiki/U.C._Sampdoria"
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "Genoa"
+        ],
+        [
+          "/wiki/Genoa"
+        ]
       ],
       [
-        "1996/97, 1997/98, 1998/99, 1999/00, 2000/01, 2001/02, 2002/03, 2003/04",
-        null
+        [
+          "Stadio Luigi Ferraris"
+        ],
+        [
+          "/wiki/Stadio_Luigi_Ferraris"
+        ]
+      ],
+      [
+        [
+          "36,685"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "9th in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "Highlands Park",
-        "/wiki/Highlands_Park"
+        [
+          "Sassuolo"
+        ],
+        [
+          "/wiki/U.S._Sassuolo_Calcio"
+        ]
       ],
       [
-        "3",
-        null
+        [
+          "Sassuolo"
+        ],
+        [
+          "/wiki/Sassuolo"
+        ]
       ],
       [
-        "2016/17,\n2017/18,\n2019/20",
-        null
+        [
+          "Mapei Stadium \u2013 Citt\u00e0 del Tricolore"
+        ],
+        [
+          "/wiki/Mapei_Stadium_%E2%80%93_Citt%C3%A0_del_Tricolore"
+        ]
+      ],
+      [
+        [
+          "23,717"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "11th in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "Jomo Cosmos",
-        "/wiki/Jomo_Cosmos"
+        [
+          "SPAL"
+        ],
+        [
+          "/wiki/S.P.A.L."
+        ]
       ],
       [
-        "15",
-        null
+        [
+          "Ferrara"
+        ],
+        [
+          "/wiki/Ferrara"
+        ]
       ],
       [
-        "1996/97, 1997/98, 1998/99, 1999/00, 2000/01, 2001/02, 2002/03, 2003/04, 2004/05, 2005/06, 2006/07, 2007/08, 2009/10, 2011/12, 2015/16",
-        null
+        [
+          "Stadio Paolo Mazza"
+        ],
+        [
+          "/wiki/Stadio_Paolo_Mazza"
+        ]
+      ],
+      [
+        [
+          "16,164"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "13th in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "Kaizer Chiefs",
-        "/wiki/Kaizer_Chiefs"
+        [
+          "Torino"
+        ],
+        [
+          "/wiki/Torino_F.C."
+        ]
       ],
       [
-        "24",
-        null
+        [
+          "Turin"
+        ],
+        [
+          "/wiki/Turin"
+        ]
       ],
       [
-        "all",
-        null
+        [
+          "Stadio Olimpico Grande Torino"
+        ],
+        [
+          "/wiki/Stadio_Olimpico_Grande_Torino"
+        ]
+      ],
+      [
+        [
+          "27,994"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "7th in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ],
     [
       [
-        "Lamontville Golden Arrows",
-        "/wiki/Lamontville_Golden_Arrows"
+        [
+          "Udinese"
+        ],
+        [
+          "/wiki/Udinese_Calcio"
+        ]
       ],
       [
-        "16",
-        null
+        [
+          "Udine"
+        ],
+        [
+          "/wiki/Udine"
+        ]
       ],
       [
-        "2000/01, 2001/02, 2002/03, 2003/04, 2004/05, 2005/06, 2006/07, 2007/08, 2008/09, 2009/10, 2010/11, 2011/12, 2012/13, 2013/14, 2015/16, 2016/17",
-        null
+        [
+          "Stadio Friuli"
+        ],
+        [
+          "/wiki/Stadio_Friuli"
+        ]
+      ],
+      [
+        [
+          "25,132"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "12th in Serie A"
+        ],
+        [
+          "/wiki/2018%E2%80%9319_Serie_A"
+        ]
       ]
     ]
   ],

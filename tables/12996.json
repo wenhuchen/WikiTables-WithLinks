@@ -1,229 +1,1089 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Amusement_Today",
-  "title": "Amusement Today",
+  "url": "https://en.wikipedia.org/wiki/1998_Brazilian_Grand_Prix",
+  "title": "1998 Brazilian Grand Prix",
   "header": [
     [
-      "Times Hosting",
-      null
+      [
+        "Pos"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Park",
-      null
+      [
+        "No"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Years",
-      null
+      [
+        "Driver"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Constructor"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Lap Time"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Gap"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "3",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Holiday World & Splashin' Safari",
-        "/wiki/Holiday_World_%26_Splashin%27_Safari"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2001, 2006, 2011",
-        null
+        [
+          "Mika H\u00e4kkinen"
+        ],
+        [
+          "/wiki/Mika_H%C3%A4kkinen"
+        ]
+      ],
+      [
+        [
+          "McLaren",
+          "Mercedes"
+        ],
+        [
+          "/wiki/McLaren",
+          "/wiki/Mercedes_AMG_High_Performance_Powertrains"
+        ]
+      ],
+      [
+        [
+          "1:17.092"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cedar Point",
-        "/wiki/Cedar_Point"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2004, 2016",
-        null
+        [
+          "David Coulthard"
+        ],
+        [
+          "/wiki/David_Coulthard"
+        ]
+      ],
+      [
+        [
+          "McLaren",
+          "Mercedes"
+        ],
+        [
+          "/wiki/McLaren",
+          "/wiki/Mercedes_AMG_High_Performance_Powertrains"
+        ]
+      ],
+      [
+        [
+          "1:17.757"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+0.665"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dollywood",
-        "/wiki/Dollywood"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2007, 2012",
-        null
+        [
+          "Heinz-Harald Frentzen"
+        ],
+        [
+          "/wiki/Heinz-Harald_Frentzen"
+        ]
+      ],
+      [
+        [
+          "Williams",
+          "Mecachrome"
+        ],
+        [
+          "/wiki/Williams_Grand_Prix_Engineering",
+          "/wiki/Mecachrome"
+        ]
+      ],
+      [
+        [
+          "1:18.109"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+1.017"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Busch Gardens Williamsburg",
-        "/wiki/Busch_Gardens_Williamsburg"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2010",
-        null
+        [
+          "Michael Schumacher"
+        ],
+        [
+          "/wiki/Michael_Schumacher"
+        ]
+      ],
+      [
+        [
+          "Ferrari"
+        ],
+        [
+          "/wiki/Scuderia_Ferrari"
+        ]
+      ],
+      [
+        [
+          "1:18.250"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+1.158"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kings Island",
-        "/wiki/Kings_Island"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2002",
-        null
+        [
+          "Alexander Wurz"
+        ],
+        [
+          "/wiki/Alexander_Wurz"
+        ]
+      ],
+      [
+        [
+          "Benetton",
+          "Playlife"
+        ],
+        [
+          "/wiki/Benetton_Formula",
+          "/wiki/Playlife"
+        ]
+      ],
+      [
+        [
+          "1:18.261"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+1.169"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lake Compounce",
-        "/wiki/Lake_Compounce"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2017",
-        null
+        [
+          "Eddie Irvine"
+        ],
+        [
+          "/wiki/Eddie_Irvine"
+        ]
+      ],
+      [
+        [
+          "Ferrari"
+        ],
+        [
+          "/wiki/Scuderia_Ferrari"
+        ]
+      ],
+      [
+        [
+          "1:18.449"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+1.357"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Legoland California",
-        "/wiki/Legoland_California"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2009",
-        null
+        [
+          "Giancarlo Fisichella"
+        ],
+        [
+          "/wiki/Giancarlo_Fisichella"
+        ]
+      ],
+      [
+        [
+          "Benetton",
+          "Playlife"
+        ],
+        [
+          "/wiki/Benetton_Formula",
+          "/wiki/Playlife"
+        ]
+      ],
+      [
+        [
+          "1:18.652"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+1.560"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Luna Park, Coney Island",
-        "/wiki/Luna_Park,_Coney_Island_(2010)"
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2015",
-        null
+        [
+          "Ralf Schumacher"
+        ],
+        [
+          "/wiki/Ralf_Schumacher"
+        ]
+      ],
+      [
+        [
+          "Jordan",
+          "Mugen-Honda"
+        ],
+        [
+          "/wiki/Jordan_Grand_Prix",
+          "/wiki/Mugen-Honda"
+        ]
+      ],
+      [
+        [
+          "1:18.735"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+1.643"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Quassy Amusement Park",
-        "/wiki/Quassy_Amusement_Park"
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2017",
-        null
+        [
+          "Olivier Panis"
+        ],
+        [
+          "/wiki/Olivier_Panis"
+        ]
+      ],
+      [
+        [
+          "Prost",
+          "Peugeot"
+        ],
+        [
+          "/wiki/Prost_Grand_Prix",
+          "/wiki/Peugeot"
+        ]
+      ],
+      [
+        [
+          "1:18.753"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+1.661"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Santa Cruz Beach Boardwalk",
-        "/wiki/Santa_Cruz_Beach_Boardwalk"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2013",
-        null
+        [
+          "Jacques Villeneuve"
+        ],
+        [
+          "/wiki/Jacques_Villeneuve"
+        ]
+      ],
+      [
+        [
+          "Williams",
+          "Mecachrome"
+        ],
+        [
+          "/wiki/Williams_Grand_Prix_Engineering",
+          "/wiki/Mecachrome"
+        ]
+      ],
+      [
+        [
+          "1:18.761"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+1.669"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Schlitterbahn",
-        "/wiki/Schlitterbahn"
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2003",
-        null
+        [
+          "Damon Hill"
+        ],
+        [
+          "/wiki/Damon_Hill"
+        ]
+      ],
+      [
+        [
+          "Jordan",
+          "Mugen-Honda"
+        ],
+        [
+          "/wiki/Jordan_Grand_Prix",
+          "/wiki/Mugen-Honda"
+        ]
+      ],
+      [
+        [
+          "1:18.988"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+1.896"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "SeaWorld San Diego",
-        "/wiki/SeaWorld_San_Diego"
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2014",
-        null
+        [
+          "Jarno Trulli"
+        ],
+        [
+          "/wiki/Jarno_Trulli"
+        ]
+      ],
+      [
+        [
+          "Prost",
+          "Peugeot"
+        ],
+        [
+          "/wiki/Prost_Grand_Prix",
+          "/wiki/Peugeot"
+        ]
+      ],
+      [
+        [
+          "1:19.069"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+1.977"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "13"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Silver Dollar City",
-        "/wiki/Silver_Dollar_City"
+        [
+          "18"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2018",
-        null
+        [
+          "Rubens Barrichello"
+        ],
+        [
+          "/wiki/Rubens_Barrichello"
+        ]
+      ],
+      [
+        [
+          "Stewart",
+          "Ford"
+        ],
+        [
+          "/wiki/Stewart_Grand_Prix",
+          "/wiki/Ford_Motor_Company"
+        ]
+      ],
+      [
+        [
+          "1:19.344"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+2.252"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Silverwood Theme Park",
-        "/wiki/Silverwood_Theme_Park"
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2019",
-        null
+        [
+          "Johnny Herbert"
+        ],
+        [
+          "/wiki/Johnny_Herbert"
+        ]
+      ],
+      [
+        [
+          "Sauber",
+          "Petronas"
+        ],
+        [
+          "/wiki/Sauber",
+          "/wiki/Sauber_Petronas_Engineering"
+        ]
+      ],
+      [
+        [
+          "1:19.375"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+2.283"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Six Flags Fiesta Texas",
-        "/wiki/Six_Flags_Fiesta_Texas"
+        [
+          "14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2005",
-        null
+        [
+          "Jean Alesi"
+        ],
+        [
+          "/wiki/Jean_Alesi"
+        ]
+      ],
+      [
+        [
+          "Sauber",
+          "Petronas"
+        ],
+        [
+          "/wiki/Sauber",
+          "/wiki/Sauber_Petronas_Engineering"
+        ]
+      ],
+      [
+        [
+          "1:19.449"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+2.357"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "16"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "19"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Jan Magnussen"
+        ],
+        [
+          "/wiki/Jan_Magnussen"
+        ]
+      ],
+      [
+        [
+          "Stewart",
+          "Ford"
+        ],
+        [
+          "/wiki/Stewart_Grand_Prix",
+          "/wiki/Ford_Motor_Company"
+        ]
+      ],
+      [
+        [
+          "1:19.644"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+2.552"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "17"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "21"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Toranosuke Takagi"
+        ],
+        [
+          "/wiki/Toranosuke_Takagi"
+        ]
+      ],
+      [
+        [
+          "Tyrrell",
+          "Ford"
+        ],
+        [
+          "/wiki/Tyrrell_Racing",
+          "/wiki/Ford_Motor_Company"
+        ]
+      ],
+      [
+        [
+          "1:20.203"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+3.111"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "18"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "22"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Shinji Nakano"
+        ],
+        [
+          "/wiki/Shinji_Nakano"
+        ]
+      ],
+      [
+        [
+          "Minardi",
+          "Ford"
+        ],
+        [
+          "/wiki/Minardi",
+          "/wiki/Ford_Motor_Company"
+        ]
+      ],
+      [
+        [
+          "1:20.390"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+3.298"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "19"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "23"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Esteban Tuero"
+        ],
+        [
+          "/wiki/Esteban_Tuero"
+        ]
+      ],
+      [
+        [
+          "Minardi",
+          "Ford"
+        ],
+        [
+          "/wiki/Minardi",
+          "/wiki/Ford_Motor_Company"
+        ]
+      ],
+      [
+        [
+          "1:20.459"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+3.367"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "20"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "17"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Mika Salo"
+        ],
+        [
+          "/wiki/Mika_Salo"
+        ]
+      ],
+      [
+        [
+          "Arrows"
+        ],
+        [
+          "/wiki/Arrows_Grand_Prix_International"
+        ]
+      ],
+      [
+        [
+          "1:20.481"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "+3.389"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

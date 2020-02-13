@@ -1,257 +1,165 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_power_stations_in_Pakistan",
-  "title": "List of power stations in Pakistan",
+  "url": "https://en.wikipedia.org/wiki/List_of_bus_transit_systems_in_the_United_States",
+  "title": "List of bus transit systems in the United States",
   "header": [
     [
-      "Station",
-      null
+      [
+        "System"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Community",
-      null
+      [
+        "Locale"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "MW",
-      "/wiki/Megawatt"
-    ],
-    [
-      "Status",
-      null
+      [
+        "Major city(s)"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Lucky Cement Ltd",
-        "/wiki/HTTP_404"
+        [
+          "Bettendorf Transit"
+        ],
+        [
+          "/wiki/Bettendorf_Transit"
+        ]
       ],
       [
-        "Karachi,Sindh",
-        "/wiki/Karachi /wiki/Sindh"
+        [
+          "Scott County"
+        ],
+        [
+          "/wiki/Scott_County,_Iowa"
+        ]
       ],
       [
-        "20",
-        null
-      ],
-      [
-        "Operational.",
-        null
+        [
+          "Bettendorf"
+        ],
+        [
+          "/wiki/Bettendorf,_Iowa"
+        ]
       ]
     ],
     [
       [
-        "Lucky Cement Ltd",
-        "/wiki/HTTP_404"
+        [
+          "Cambus"
+        ],
+        [
+          "/wiki/Cambus"
+        ]
       ],
       [
-        "Pezu,KPK",
-        "/wiki/Pezu /wiki/Khyber_Pakhtunkhwa"
+        [
+          "Iowa City",
+          "University of Iowa"
+        ],
+        [
+          "/wiki/Iowa_City,_Iowa",
+          "/wiki/University_of_Iowa"
+        ]
       ],
       [
-        "30",
-        null
-      ],
-      [
-        "Operational.",
-        null
+        [
+          "Iowa City"
+        ],
+        [
+          "/wiki/Iowa_City,_Iowa"
+        ]
       ]
     ],
     [
       [
-        "Maple Leaf Cement Ltd",
-        "/wiki/HTTP_404"
+        [
+          "CyRide"
+        ],
+        [
+          "/wiki/CyRide"
+        ]
       ],
       [
-        "Mianwali,Punjab",
-        "/wiki/Mianwali /wiki/Punjab,_Pakistan"
+        [
+          "Ames",
+          "Iowa State University"
+        ],
+        [
+          "/wiki/Ames,_Iowa",
+          "/wiki/Iowa_State_University"
+        ]
       ],
       [
-        "15",
-        null
-      ],
-      [
-        "Operational.",
-        null
+        [
+          "Ames"
+        ],
+        [
+          "/wiki/Ames,_Iowa"
+        ]
       ]
     ],
     [
       [
-        "Gharibwal Cement Ltd",
-        "/wiki/HTTP_404"
+        [
+          "Des Moines Area Regional Transit"
+        ],
+        [
+          "/wiki/Des_Moines_Area_Regional_Transit"
+        ]
       ],
       [
-        "Chakwal,Punjab",
-        "/wiki/Chakwal /wiki/Punjab,_Pakistan"
+        [
+          "Polk County"
+        ],
+        [
+          "/wiki/Polk_County,_Iowa"
+        ]
       ],
       [
-        "20",
-        null
-      ],
-      [
-        "Operational.",
-        null
+        [
+          "Des Moines"
+        ],
+        [
+          "/wiki/Des_Moines,_Iowa"
+        ]
       ]
     ],
     [
       [
-        "Bestway Cement Ltd",
-        "/wiki/HTTP_404"
+        [
+          "Sioux City Transit"
+        ],
+        [
+          "/wiki/Sioux_City_Transit"
+        ]
       ],
       [
-        "Chakwal,Punjab",
-        "/wiki/Chakwal /wiki/Punjab,_Pakistan"
+        [
+          "Sioux City, Iowa"
+        ],
+        [
+          "/wiki/Sioux_City,_Iowa"
+        ]
       ],
       [
-        "15",
-        null
-      ],
-      [
-        "Operational.",
-        null
-      ]
-    ],
-    [
-      [
-        "Bestway Cement Ltd",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Hattar,KPK, Pakistan",
-        "/wiki/Hattar,_Pakistan /wiki/KPK,_Pakistan"
-      ],
-      [
-        "13.5",
-        null
-      ],
-      [
-        "Operational.",
-        null
-      ]
-    ],
-    [
-      [
-        "Bestway Cement Ltd",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Farooqia,Punjab",
-        "/wiki/HTTP_404 /wiki/KPK,_Pakistan"
-      ],
-      [
-        "13.5",
-        null
-      ],
-      [
-        "Operational.",
-        null
-      ]
-    ],
-    [
-      [
-        "Bestway Cement Ltd",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Chakwal,Punjab",
-        "/wiki/Chakwal /wiki/Punjab,_Pakistan"
-      ],
-      [
-        "15",
-        null
-      ],
-      [
-        "Operational.",
-        null
-      ]
-    ],
-    [
-      [
-        "Bestway Cement Ltd",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Kallar Kahar,Punjab",
-        "/wiki/Kallar_Kahar /wiki/Punjab,_Pakistan"
-      ],
-      [
-        "12",
-        null
-      ],
-      [
-        "Operational.",
-        null
-      ]
-    ],
-    [
-      [
-        "Fauji Cement Company Ltd",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Attock,Punjab",
-        "/wiki/Attock /wiki/Punjab,_Pakistan"
-      ],
-      [
-        "21",
-        null
-      ],
-      [
-        "Operational.",
-        null
-      ]
-    ],
-    [
-      [
-        "Pioneer Cement Ltd",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Sargodha,Punjab",
-        "/wiki/Sargodha /wiki/Punjab,_Pakistan"
-      ],
-      [
-        "12",
-        null
-      ],
-      [
-        "Operational.",
-        null
-      ]
-    ],
-    [
-      [
-        "DG Khan Cement Company Ltd",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Chakwal,Punjab",
-        "/wiki/Chakwal /wiki/Punjab,_Pakistan"
-      ],
-      [
-        "8.6",
-        null
-      ],
-      [
-        "Operational.",
-        null
-      ]
-    ],
-    [
-      [
-        "Kohat Cement Ltd",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Chakwal,KPK",
-        "/wiki/Chakwal /wiki/Khyber_Pakhtunkhwa"
-      ],
-      [
-        "15",
-        null
-      ],
-      [
-        "Operational.",
-        null
+        [
+          "Sioux City, Iowa"
+        ],
+        [
+          "/wiki/Sioux_City,_Iowa"
+        ]
       ]
     ]
   ],

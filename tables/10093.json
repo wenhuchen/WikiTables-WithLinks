@@ -1,302 +1,1066 @@
 {
-  "url": "https://en.wikipedia.org/wiki/UEFA_Cup_Winners'_Cup_records_and_statistics",
-  "title": "UEFA Cup Winners' Cup records and statistics",
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_document-markup_languages",
+  "title": "Comparison of document-markup languages",
   "header": [
     [
-      "Team",
-      null
+      [
+        "Language"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "No.",
-      null
+      [
+        "Major purpose"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Years",
-      null
+      [
+        "Based on"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Markup type"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Structural markup"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Presentational markup"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Cardiff Town / Cardiff City",
-        "/wiki/Cardiff_City_F.C."
+        [
+          "AsciiDoc"
+        ],
+        [
+          "/wiki/AsciiDoc"
+        ]
       ],
       [
-        "14",
-        null
+        [
+          "Multi-purpose"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1965,1966,1968,1969,1970,1971,1972,1974,1975,1977,1978,1989,1993,1994",
-        "/wiki/1964%E2%80%9365_European_Cup_Winners%27_Cup /wiki/1965%E2%80%9366_European_Cup_Winners%27_Cup /wiki/1967%E2%80%9368_European_Cup_Winners%27_Cup /wiki/1968%E2%80%9369_European_Cup_Winners%27_Cup /wiki/1969%E2%80%9370_European_Cup_Winners%27_Cup /wiki/1970%E2%80%9371_European_Cup_Winners%27_Cup /wiki/1971%E2%80%9372_European_Cup_Winners%27_Cup /wiki/1973%E2%80%9374_European_Cup_Winners%27_Cup /wiki/1974%E2%80%9375_European_Cup_Winners%27_Cup /wiki/1976%E2%80%9377_European_Cup_Winners%27_Cup /wiki/1977%E2%80%9378_European_Cup_Winners%27_Cup /wiki/1988%E2%80%9389_European_Cup_Winners%27_Cup /wiki/1992%E2%80%9393_European_Cup_Winners%27_Cup /wiki/1993%E2%80%9394_European_Cup_Winners%27_Cup"
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Barcelona",
-        "/wiki/FC_Barcelona"
+        [
+          "Computable Document Format"
+        ],
+        [
+          "/wiki/Computable_Document_Format"
+        ]
       ],
       [
-        "13",
-        null
+        [
+          "Interactive technical documents, infographics, blogs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1964,1969,1972,1979,1980,1982,1983,1984,1985,1989,1990,1991,1997",
-        "/wiki/1963%E2%80%9364_European_Cup_Winners%27_Cup /wiki/1968%E2%80%9369_European_Cup_Winners%27_Cup /wiki/1971%E2%80%9372_European_Cup_Winners%27_Cup /wiki/1978%E2%80%9379_European_Cup_Winners%27_Cup /wiki/1979%E2%80%9380_European_Cup_Winners%27_Cup /wiki/1981%E2%80%9382_European_Cup_Winners%27_Cup /wiki/1982%E2%80%9383_European_Cup_Winners%27_Cup /wiki/1983%E2%80%9384_European_Cup_Winners%27_Cup /wiki/1984%E2%80%9385_European_Cup_Winners%27_Cup /wiki/1988%E2%80%9389_European_Cup_Winners%27_Cup /wiki/1989%E2%80%9390_European_Cup_Winners%27_Cup /wiki/1990-91_European_Cup_Winners%27_Cup /wiki/1996%E2%80%9397_European_Cup_Winners%27_Cup"
+        [
+          "Wolfram Language"
+        ],
+        [
+          "/wiki/Wolfram_Language"
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Steaua Bucure\u0219ti",
-        "/wiki/FCSB"
+        [
+          "Darwin Information Typing Architecture (DITA)"
+        ],
+        [
+          "/wiki/Darwin_Information_Typing_Architecture"
+        ]
       ],
       [
-        "11",
-        null
+        [
+          "Technical documents"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1963,1965,1967,1968,1970,1971,1972,1980,1985,1991,1993",
-        "/wiki/1962%E2%80%9363_European_Cup_Winners%27_Cup /wiki/1964%E2%80%9365_European_Cup_Winners%27_Cup /wiki/1966-67_European_Cup_Winners%27_Cup /wiki/1967%E2%80%9368_European_Cup_Winners%27_Cup /wiki/1969%E2%80%9370_European_Cup_Winners%27_Cup /wiki/1970%E2%80%9371_European_Cup_Winners%27_Cup /wiki/1971%E2%80%9372_European_Cup_Winners%27_Cup /wiki/1979%E2%80%9380_European_Cup_Winners%27_Cup /wiki/1984%E2%80%9385_European_Cup_Winners%27_Cup /wiki/1990%E2%80%9391_European_Cup_Winners%27_Cup /wiki/1992%E2%80%9393_UEFA_Cup_Winners%27_Cup"
+        [
+          "XML"
+        ],
+        [
+          "/wiki/XML"
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Levski / Levski-Spartak / Vitosha Sofia",
-        "/wiki/PFC_Levski_Sofia"
+        [
+          "DocBook"
+        ],
+        [
+          "/wiki/DocBook"
+        ]
       ],
       [
-        "11",
-        null
+        [
+          "Technical documents"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1968,1970,1972,1977,1987,1988,1992,1993,1997,1998,1999",
-        "/wiki/1967%E2%80%9368_European_Cup_Winners%27_Cup /wiki/1969%E2%80%9370_European_Cup_Winners%27_Cup /wiki/1971%E2%80%9372_European_Cup_Winners%27_Cup /wiki/1976%E2%80%9377_European_Cup_Winners%27_Cup /wiki/1986%E2%80%9387_European_Cup_Winners%27_Cup /wiki/1987%E2%80%9388_European_Cup_Winners%27_Cup /wiki/1991%E2%80%9392_European_Cup_Winners%27_Cup /wiki/1992%E2%80%9393_European_Cup_Winners%27_Cup /wiki/1996%E2%80%9397_European_Cup_Winners%27_Cup /wiki/1997%E2%80%9398_UEFA_Cup_Winners%27_Cup /wiki/1998%E2%80%9399_UEFA_Cup_Winners%27_Cup"
+        [
+          "SGML",
+          "XML"
+        ],
+        [
+          "/wiki/Standard_Generalized_Markup_Language",
+          "/wiki/XML"
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Rangers",
-        "/wiki/Rangers_F.C."
+        [
+          "Encoded Archival Description (EAD)"
+        ],
+        [
+          "/wiki/Encoded_Archival_Description"
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "Finding aids"
+        ],
+        [
+          "/wiki/Finding_aid"
+        ]
       ],
       [
-        "1961,1963,1967,1970,1972,1974,1978,1980,1982,1984",
-        "/wiki/1960%E2%80%9361_European_Cup_Winners%27_Cup /wiki/1962%E2%80%9363_European_Cup_Winners%27_Cup /wiki/1966-67_European_Cup_Winners%27_Cup /wiki/1969%E2%80%9370_European_Cup_Winners%27_Cup /wiki/1971%E2%80%9372_European_Cup_Winners%27_Cup /wiki/1973%E2%80%9374_European_Cup_Winners%27_Cup /wiki/1977-78_European_Cup_Winners%27_Cup /wiki/1979%E2%80%9380_European_Cup_Winners%27_Cup /wiki/1981%E2%80%9382_European_Cup_Winners%27_Cup /wiki/1983%E2%80%9384_European_Cup_Winners%27_Cup"
+        [
+          "XML"
+        ],
+        [
+          "/wiki/XML"
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Floriana",
-        "/wiki/Floriana_F.C."
+        [
+          "Extensible HyperText Markup Language (XHTML)"
+        ],
+        [
+          "/wiki/XHTML"
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "Hypertext"
+        ],
+        [
+          "/wiki/Hypertext"
+        ]
       ],
       [
-        "1962,1966,1967,1968,1973,1977,1979,1982,1989,1995",
-        "/wiki/1961%E2%80%9362_European_Cup_Winners%27_Cup /wiki/1965%E2%80%9366_European_Cup_Winners%27_Cup /wiki/1966-67_European_Cup_Winners%27_Cup /wiki/1967%E2%80%9368_European_Cup_Winners%27_Cup /wiki/1972%E2%80%9373_European_Cup_Winners%27_Cup /wiki/1976%E2%80%9377_European_Cup_Winners%27_Cup /wiki/1978-79_European_Cup_Winners%27_Cup /wiki/1981%E2%80%9382_European_Cup_Winners%27_Cup /wiki/1988%E2%80%9389_European_Cup_Winners%27_Cup /wiki/1994%E2%80%9395_UEFA_Cup_Winners%27_Cup"
+        [
+          "XML"
+        ],
+        [
+          "/wiki/XML"
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Rapid Vienna",
-        "/wiki/SK_Rapid_Wien"
+        [
+          "FictionBook"
+        ],
+        [
+          "/wiki/FB2"
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "Multi-purpose"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1962,1967,1970,1973,1974,1977,1985,1986,1987,1996",
-        "/wiki/1961%E2%80%9362_European_Cup_Winners%27_Cup /wiki/1966%E2%80%9367_European_Cup_Winners%27_Cup /wiki/1969-70_European_Cup_Winners%27_Cup /wiki/1972%E2%80%9373_European_Cup_Winners%27_Cup /wiki/1973%E2%80%9374_European_Cup_Winners%27_Cup /wiki/1976%E2%80%9377_European_Cup_Winners%27_Cup /wiki/1984-85_European_Cup_Winners%27_Cup /wiki/1985%E2%80%9386_European_Cup_Winners%27_Cup /wiki/1986%E2%80%9387_European_Cup_Winners%27_Cup /wiki/1995%E2%80%9396_UEFA_Cup_Winners%27_Cup"
+        [
+          "XML"
+        ],
+        [
+          "/wiki/XML"
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "APOEL Nicosia",
-        "/wiki/APOEL_FC"
+        [
+          "HyperText Markup Language (HTML)"
+        ],
+        [
+          "/wiki/HTML"
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "Hypertext"
+        ],
+        [
+          "/wiki/Hypertext"
+        ]
       ],
       [
-        "1964,1969,1970,1977,1979,1980,1985,1994,1996,1998",
-        "/wiki/1963%E2%80%9364_European_Cup_Winners%27_Cup /wiki/1968%E2%80%9369_European_Cup_Winners%27_Cup /wiki/1969-70_European_Cup_Winners%27_Cup /wiki/1976%E2%80%9377_European_Cup_Winners%27_Cup /wiki/1978%E2%80%9379_European_Cup_Winners%27_Cup /wiki/1979%E2%80%9380_European_Cup_Winners%27_Cup /wiki/1984-85_European_Cup_Winners%27_Cup /wiki/1993%E2%80%9394_European_Cup_Winners%27_Cup /wiki/1995%E2%80%9396_UEFA_Cup_Winners%27_Cup /wiki/1997%E2%80%9398_UEFA_Cup_Winners%27_Cup"
+        [
+          "SGML"
+        ],
+        [
+          "/wiki/Standard_Generalized_Markup_Language"
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Dinamo / Croatia Zagreb",
-        "/wiki/GNK_Dinamo_Zagreb"
+        [
+          "Lilypond"
+        ],
+        [
+          "/wiki/Lilypond"
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "Music notation"
+        ],
+        [
+          "/wiki/Music_notation"
+        ]
       ],
       [
-        "1961,1964,1965,1966,1970,1974,1981,1984,1995,1998",
-        "/wiki/1960%E2%80%9361_European_Cup_Winners%27_Cup /wiki/1963%E2%80%9364_European_Cup_Winners%27_Cup /wiki/1964-65_European_Cup_Winners%27_Cup /wiki/1965%E2%80%9366_European_Cup_Winners%27_Cup /wiki/1969%E2%80%9370_European_Cup_Winners%27_Cup /wiki/1973%E2%80%9374_European_Cup_Winners%27_Cup /wiki/1980-81_European_Cup_Winners%27_Cup /wiki/1983%E2%80%9384_European_Cup_Winners%27_Cup /wiki/1994%E2%80%9395_UEFA_Cup_Winners%27_Cup /wiki/1997%E2%80%9398_UEFA_Cup_Winners%27_Cup"
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Control code"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Union Luxembourg",
-        "/wiki/Union_Luxembourg"
+        [
+          "Maker Interchange Format (MIF)"
+        ],
+        [
+          "/wiki/Maker_Interchange_Format"
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "Technical documents"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1964,1965,1970,1971,1979,1985,1987,1990,1997,1998",
-        "/wiki/1963%E2%80%9364_European_Cup_Winners%27_Cup /wiki/1964%E2%80%9365_European_Cup_Winners%27_Cup /wiki/1969-70_European_Cup_Winners%27_Cup /wiki/1970-71_European_Cup_Winners%27_Cup /wiki/1978%E2%80%9379_European_Cup_Winners%27_Cup /wiki/1984%E2%80%9385_European_Cup_Winners%27_Cup /wiki/1986-87_European_Cup_Winners%27_Cup /wiki/1989%E2%80%9390_European_Cup_Winners%27_Cup /wiki/1996%E2%80%9397_UEFA_Cup_Winners%27_Cup /wiki/1997%E2%80%9398_UEFA_Cup_Winners%27_Cup"
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Atl\u00e9tico Madrid",
-        "/wiki/Atl%C3%A9tico_Madrid"
+        [
+          "Markdown"
+        ],
+        [
+          "/wiki/Markdown"
+        ]
       ],
       [
-        "9",
-        null
+        [
+          "Hypertext",
+          "E-mail"
+        ],
+        [
+          "/wiki/Hypertext",
+          "/wiki/E-mail"
+        ]
       ],
       [
-        "1962, 1963, 1966, 1973, 1976, 1977, 1986, 1992, 1993",
-        null
+        [
+          "Text E-mail conventions"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Olympiacos",
-        "/wiki/Olympiacos_F.C."
+        [
+          "Math Markup Language (MathML)"
+        ],
+        [
+          "/wiki/MathML"
+        ]
       ],
       [
-        "9",
-        null
+        [
+          "Mathematical"
+        ],
+        [
+          "/wiki/Mathematics"
+        ]
       ],
       [
-        "1962, 1964, 1966, 1969, 1970, 1972, 1987, 1991, 1993",
-        null
+        [
+          "XML"
+        ],
+        [
+          "/wiki/XML"
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Sliema Wanderers",
-        "/wiki/Sliema_Wanderers_F.C."
+        [
+          "The Music Encoding Initiative (MEI)"
+        ],
+        [
+          "/wiki/Music_Encoding_Initiative"
+        ]
       ],
       [
-        "9",
-        null
+        [
+          "Music notation"
+        ],
+        [
+          "/wiki/Music_notation"
+        ]
       ],
       [
-        "1964, 1969, 1970, 1975, 1980, 1983, 1988, 1991, 1994",
-        null
+        [
+          "XML"
+        ],
+        [
+          "/wiki/XML"
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Legia Warsaw",
-        "/wiki/Legia_Warsaw"
+        [
+          "Music Extensible Markup Language (MusicXML)"
+        ],
+        [
+          "/wiki/MusicXML"
+        ]
       ],
       [
-        "9",
-        null
+        [
+          "Music notation"
+        ],
+        [
+          "/wiki/Music_notation"
+        ]
       ],
       [
-        "1965, 1967, 1973, 1974, 1981, 1982, 1990, 1991, 1998",
-        null
+        [
+          "XML"
+        ],
+        [
+          "/wiki/XML"
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Glentoran",
-        "/wiki/Glentoran_F.C."
+        [
+          "Office Open XML (OOXML)"
+        ],
+        [
+          "/wiki/Office_Open_XML"
+        ]
       ],
       [
-        "9",
-        null
+        [
+          "Multi-purpose"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1967, 1974, 1984, 1986, 1987, 1988, 1991, 1997, 1999",
-        null
+        [
+          "XML",
+          "ZIP"
+        ],
+        [
+          "/wiki/XML",
+          "/wiki/ZIP_(file_format)"
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Fram",
-        "/wiki/Knattspyrnuf%C3%A9lagi%C3%B0_Fram"
+        [
+          "OpenDocument Format (ODF)"
+        ],
+        [
+          "/wiki/OpenDocument"
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "Multi-purpose"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1972, 1975, 1981, 1982, 1986, 1987, 1989, 1991",
-        null
+        [
+          "XML",
+          "ZIP"
+        ],
+        [
+          "/wiki/XML",
+          "/wiki/ZIP_(file_format)"
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Aberdeen",
-        "/wiki/Aberdeen_F.C."
+        [
+          "Open Mathematical Document (OMDoc)"
+        ],
+        [
+          "/wiki/OMDoc"
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "Mathematical"
+        ],
+        [
+          "/wiki/Mathematics"
+        ]
       ],
       [
-        "1968, 1971, 1979, 1983, 1984, 1987, 1991, 1994",
-        null
+        [
+          "XML"
+        ],
+        [
+          "/wiki/XML"
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Hajduk Split",
-        "/wiki/HNK_Hajduk_Split"
+        [
+          "Org-mode"
+        ],
+        [
+          "/wiki/Org-mode"
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "Multi-purpose (notes, project management, publishing, literate programming)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1968, 1973, 1977, 1978, 1985, 1988, 1992, 1994",
-        null
+        [
+          "Text outliner"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ferencv\u00e1ros",
-        "/wiki/Ferencv%C3%A1rosi_TC"
+        [
+          "reStructuredText"
+        ],
+        [
+          "/wiki/ReStructuredText"
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "Technical and Multi-purpose documents"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1961, 1973, 1975, 1979, 1990, 1992, 1994, 1995",
-        null
+        [
+          "Structured Text and Setext"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tag"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Austria Vienna",
-        "/wiki/FK_Austria_Wien"
+        [
+          "Rich Text Format (RTF)"
+        ],
+        [
+          "/wiki/Rich_Text_Format"
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "Formatted documents"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1961, 1968, 1972, 1975, 1978, 1983, 1991, 1995",
-        null
+        [
+          "TeX"
+        ],
+        [
+          "/wiki/TeX"
+        ]
+      ],
+      [
+        [
+          "Pattern parsing"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "Some characteristics of the markup languages.",
   "idx": 10093
 }

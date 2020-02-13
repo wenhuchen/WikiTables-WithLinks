@@ -1,551 +1,897 @@
 {
-  "url": "https://en.wikipedia.org/wiki/ISO_3166-2:ID",
-  "title": "ISO 3166-2:ID",
+  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Northern_Territory",
+  "title": "List of airports in the Northern Territory",
   "header": [
     [
-      "Code",
-      null
+      [
+        "Community"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "id",
-      "/wiki/Indonesian_language"
+      [
+        "Airport name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Local variant",
-      null
+      [
+        "Type"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "en",
-      "/wiki/English_language"
+      [
+        "ICAO"
+      ],
+      [
+        "/wiki/International_Civil_Aviation_Organization_airport_code"
+      ]
     ],
     [
-      "Subdivision type",
-      null
-    ],
-    [
-      "In geographical unit",
-      null
+      [
+        "IATA"
+      ],
+      [
+        "/wiki/International_Air_Transport_Association_airport_code"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "ID-AC",
-        null
+        [
+          "Alice Springs"
+        ],
+        [
+          "/wiki/Alice_Springs"
+        ]
       ],
       [
-        "Aceh",
-        "/wiki/Aceh"
+        [
+          "Alice Springs Airport"
+        ],
+        [
+          "/wiki/Alice_Springs_Airport"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Aceh",
-        null
+        [
+          "YBAS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "SM",
-        "/wiki/Sumatera"
+        [
+          "ASP"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-BA",
-        null
+        [
+          "Angurugu"
+        ],
+        [
+          "/wiki/Angurugu"
+        ]
       ],
       [
-        "Bali",
-        "/wiki/Bali"
+        [
+          "Groote Eylandt Airport"
+        ],
+        [
+          "/wiki/Groote_Eylandt_Airport"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bali",
-        null
+        [
+          "YGTE"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "NU",
-        "/wiki/Nusa_Tenggara"
+        [
+          "GTE"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-BB",
-        null
+        [
+          "Batchelor"
+        ],
+        [
+          "/wiki/Batchelor,_Northern_Territory"
+        ]
       ],
       [
-        "Kepulauan Bangka Belitung",
-        "/wiki/Kepulauan_Bangka_Belitung"
+        [
+          "Batchelor Airfield"
+        ],
+        [
+          "/wiki/Batchelor_Airfield"
+        ]
       ],
       [
-        "Babel",
-        null
+        [
+          "Military/Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bangka Belitung Islands",
-        null
+        [
+          "YBCR"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "SM",
-        "/wiki/Sumatera"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-BT",
-        null
+        [
+          "Borroloola"
+        ],
+        [
+          "/wiki/Borroloola"
+        ]
       ],
       [
-        "Banten",
-        "/wiki/Banten"
+        [
+          "Borroloola Airport"
+        ],
+        [
+          "/wiki/Borroloola_Airport"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Banten",
-        null
+        [
+          "YBRL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "JW",
-        "/wiki/Jawa_(Indonesia)"
+        [
+          "BOX"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-BE",
-        null
+        [
+          "Coomalie Creek"
+        ],
+        [
+          "/wiki/Coomalie_Creek,_Northern_Territory"
+        ]
       ],
       [
-        "Bengkulu",
-        "/wiki/Bengkulu"
+        [
+          "Coomalie Creek Airfield"
+        ],
+        [
+          "/wiki/Coomalie_Creek_Airfield"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Military"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bengkulu",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "SM",
-        "/wiki/Sumatera"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-GO",
-        null
+        [
+          "Croker Island"
+        ],
+        [
+          "/wiki/Croker_Island"
+        ]
       ],
       [
-        "Gorontalo",
-        "/wiki/Gorontalo"
+        [
+          "Croker Island Airport"
+        ],
+        [
+          "/wiki/Croker_Island_Airport"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Gorontalo",
-        null
+        [
+          "YCKI"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "SL",
-        "/wiki/Sulawesi"
+        [
+          "CKI"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-JA",
-        null
+        [
+          "Daguragu Community"
+        ],
+        [
+          "/wiki/Daguragu_Community"
+        ]
       ],
       [
-        "Jambi",
-        "/wiki/Jambi"
+        [
+          "Kalkgurung Airport"
+        ],
+        [
+          "/wiki/Kalkgurung_Airport"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jambi",
-        null
+        [
+          "YKKG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "SM",
-        "/wiki/Sumatera"
+        [
+          "KFG"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-JB",
-        null
+        [
+          "Elcho Island"
+        ],
+        [
+          "/wiki/Elcho_Island"
+        ]
       ],
       [
-        "Jawa Barat",
-        "/wiki/Jawa_Barat"
+        [
+          "Elcho Island Airport"
+        ],
+        [
+          "/wiki/Elcho_Island_Airport"
+        ]
       ],
       [
-        "Jabar",
-        null
+        [
+          "Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "West Java",
-        null
+        [
+          "YELD"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "JW",
-        "/wiki/Jawa_(Indonesia)"
+        [
+          "ELC"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-JT",
-        null
+        [
+          "Gapuwiyak"
+        ],
+        [
+          "/wiki/Gapuwiyak"
+        ]
       ],
       [
-        "Jawa Tengah",
-        "/wiki/Jawa_Tengah"
+        [
+          "Lake Evella Airport"
+        ],
+        [
+          "/wiki/Lake_Evella_Airport"
+        ]
       ],
       [
-        "Jateng",
-        null
+        [
+          "Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Central Java",
-        null
+        [
+          "YLEV"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "JW",
-        "/wiki/Jawa_(Indonesia)"
+        [
+          "LEL"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-JI",
-        null
+        [
+          "Katherine"
+        ],
+        [
+          "/wiki/Katherine,_Northern_Territory"
+        ]
       ],
       [
-        "Jawa Timur",
-        "/wiki/Jawa_Timur"
+        [
+          "RAAF Base Tindal"
+        ],
+        [
+          "/wiki/RAAF_Base_Tindal"
+        ]
       ],
       [
-        "Jatim",
-        null
+        [
+          "Military/Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "East Java",
-        null
+        [
+          "YPTN"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "JW",
-        "/wiki/Jawa_(Indonesia)"
+        [
+          "KTR"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-KB",
-        null
+        [
+          "Lajamanu"
+        ],
+        [
+          "/wiki/Lajamanu"
+        ]
       ],
       [
-        "Kalimantan Barat",
-        "/wiki/Kalimantan_Barat"
+        [
+          "Hooker Creek Airport"
+        ],
+        [
+          "/wiki/Hooker_Creek_Airport"
+        ]
       ],
       [
-        "Kalbar",
-        null
+        [
+          "Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "West Kalimantan",
-        null
+        [
+          "YHOO"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "KA",
-        "/wiki/Kalimantan"
+        [
+          "HOK"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-KS",
-        null
+        [
+          "Maningrida"
+        ],
+        [
+          "/wiki/Maningrida"
+        ]
       ],
       [
-        "Kalimantan Selatan",
-        "/wiki/Kalimantan_Selatan"
+        [
+          "Maningrida Airport"
+        ],
+        [
+          "/wiki/Maningrida_Airport"
+        ]
       ],
       [
-        "Kalsel",
-        null
+        [
+          "Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "South Kalimantan",
-        null
+        [
+          "YMGD"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "KA",
-        "/wiki/Kalimantan"
+        [
+          "MNG"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-KT",
-        null
+        [
+          "Marrara",
+          "Darwin"
+        ],
+        [
+          "/wiki/Marrara",
+          "/wiki/Darwin,_Northern_Territory"
+        ]
       ],
       [
-        "Kalimantan Tengah",
-        "/wiki/Kalimantan_Tengah"
+        [
+          "RAAF Base Darwin"
+        ],
+        [
+          "/wiki/RAAF_Base_Darwin"
+        ]
       ],
       [
-        "Kalteng",
-        null
+        [
+          "Military"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Central Kalimantan",
-        null
+        [
+          "YPDN"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "KA",
-        "/wiki/Kalimantan"
+        [
+          "DRW"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-KI",
-        null
+        [
+          "Marrara",
+          "Darwin"
+        ],
+        [
+          "/wiki/Marrara",
+          "/wiki/Darwin,_Northern_Territory"
+        ]
       ],
       [
-        "Kalimantan Timur",
-        "/wiki/Kalimantan_Timur"
+        [
+          "Darwin International Airport"
+        ],
+        [
+          "/wiki/Darwin_International_Airport"
+        ]
       ],
       [
-        "Kaltim",
-        null
+        [
+          "Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "East Kalimantan",
-        null
+        [
+          "YPDN"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "KA",
-        "/wiki/Kalimantan"
+        [
+          "DRW"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-KU",
-        null
+        [
+          "McArthur River zinc mine"
+        ],
+        [
+          "/wiki/McArthur_River_zinc_mine"
+        ]
       ],
       [
-        "Kalimantan Utara",
-        "/wiki/Kalimantan_Utara"
+        [
+          "McArthur River Mine Airport"
+        ],
+        [
+          "/wiki/McArthur_River_Mine_Airport"
+        ]
       ],
       [
-        "Kaltara; Kalut",
-        null
+        [
+          "Private"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "North Kalimantan",
-        null
+        [
+          "YMHU"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "KA",
-        "/wiki/Kalimantan"
+        [
+          "MCV"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-KR",
-        null
+        [
+          "Milikapiti",
+          "Melville Island"
+        ],
+        [
+          "/wiki/Milikapiti",
+          "/wiki/Melville_Island_(Australia)"
+        ]
       ],
       [
-        "Kepulauan Riau",
-        "/wiki/Kepulauan_Riau"
+        [
+          "Snake Bay Airport"
+        ],
+        [
+          "/wiki/Snake_Bay_Airport"
+        ]
       ],
       [
-        "Kepri",
-        null
+        [
+          "Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Riau Islands",
-        null
+        [
+          "YSNB"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "SM",
-        "/wiki/Sumatera"
+        [
+          "SNB"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-LA",
-        null
+        [
+          "Milingimbi Island"
+        ],
+        [
+          "/wiki/Milingimbi_Island"
+        ]
       ],
       [
-        "Lampung",
-        "/wiki/Lampung"
+        [
+          "Milingimbi Airport"
+        ],
+        [
+          "/wiki/Milingimbi_Airport"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lampung",
-        null
+        [
+          "YMGB"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "SM",
-        "/wiki/Sumatera"
+        [
+          "MGT"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-MA",
-        null
+        [
+          "Nhulunbuy"
+        ],
+        [
+          "/wiki/Nhulunbuy"
+        ]
       ],
       [
-        "Maluku",
-        "/wiki/Maluku_(province)"
+        [
+          "Gove Airport"
+        ],
+        [
+          "/wiki/Gove_Airport"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Maluku",
-        null
+        [
+          "YPGV"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "ML",
-        "/wiki/Maluku_Islands"
+        [
+          "GOV"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-MU",
-        null
+        [
+          "Noonamah",
+          "Darwin"
+        ],
+        [
+          "/wiki/Noonamah,_Northern_Territory",
+          "/wiki/Darwin,_Northern_Territory"
+        ]
       ],
       [
-        "Maluku Utara",
-        "/wiki/Maluku_Utara"
+        [
+          "Hughes Airfield"
+        ],
+        [
+          "/wiki/Hughes_Airfield"
+        ]
       ],
       [
-        "Malut",
-        null
+        [
+          "Military"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "North Maluku",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "ML",
-        "/wiki/Maluku_Islands"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ID-NB",
-        null
+        [
+          "Pirlangimpi",
+          "Melville Island"
+        ],
+        [
+          "/wiki/Pirlangimpi",
+          "/wiki/Melville_Island_(Australia)"
+        ]
       ],
       [
-        "Nusa Tenggara Barat",
-        "/wiki/Nusa_Tenggara_Barat"
+        [
+          "Garden Point Airport"
+        ],
+        [
+          "/wiki/Garden_Point_Airport"
+        ]
       ],
       [
-        "NTB",
-        null
+        [
+          "Public"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "West Nusa Tenggara",
-        null
+        [
+          "YGPT"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "province",
-        null
-      ],
-      [
-        "NU",
-        "/wiki/Nusa_Tenggara"
+        [
+          "GPN"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

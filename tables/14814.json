@@ -1,383 +1,545 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_nature_centres_in_Canada",
-  "title": "List of nature centres in Canada",
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
   "header": [
     [
-      "Name",
-      null
+      [
+        "Emulator"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      null
+      [
+        "Latest version"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Region",
-      null
+      [
+        "Released"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Summary",
-      null
+      [
+        "Guest emulation capabilities"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Host Operating System"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "License"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Apps' Mill Nature Centre",
-        null
+        [
+          "Clock Signal (CLK)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Brantford",
-        "/wiki/Brantford"
+        [
+          "2019-08-01"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Southwestern Ontario",
-        null
+        [
+          "August 1, 2019"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "website,Grand River Conservation Authority",
-        "/wiki/HTTP_404 /wiki/Grand_River_Conservation_Authority"
+        [
+          "Acorn Electron",
+          "Amstrad CPC",
+          "Apple II",
+          "Atari 2600",
+          "ColecoVision",
+          "Commodore VIC-20",
+          "Macintosh",
+          "MSX",
+          "Oric",
+          "Sega Master System",
+          "ZX80",
+          "ZX81"
+        ],
+        [
+          "/wiki/Acorn_Electron",
+          "/wiki/Amstrad_CPC",
+          "/wiki/Apple_II",
+          "/wiki/Atari_2600",
+          "/wiki/ColecoVision",
+          "/wiki/Commodore_VIC-20",
+          "/wiki/Macintosh_512Ke",
+          "/wiki/MSX",
+          "/wiki/Oric",
+          "/wiki/Sega_Master_System",
+          "/wiki/ZX80",
+          "/wiki/ZX81"
+        ]
+      ],
+      [
+        [
+          "macOS"
+        ],
+        [
+          "/wiki/MacOS"
+        ]
+      ],
+      [
+        [
+          "MIT License"
+        ],
+        [
+          "/wiki/MIT_License"
+        ]
       ]
     ],
     [
       [
-        "Backus Mill Heritage and Conservation Centre",
-        "/wiki/Backus_Mill_Heritage_and_Conservation_Centre"
+        [
+          "EightyOne"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Port Rowan",
-        "/wiki/Port_Rowan,_Ontario"
+        [
+          "1.0a"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Southwestern Ontario",
-        "/wiki/Southwestern_Ontario"
+        [
+          "May 28, 2008"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1,240 acres, features late 18th century grist mill, conservation education centre and heritage village",
-        null
+        [
+          "Various Sinclair computers"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Bronte Creek Provincial Park",
-        "/wiki/Bronte_Creek_Provincial_Park"
+        [
+          "MAME",
+          "MESS"
+        ],
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
       ],
       [
-        "Oakville",
-        "/wiki/Oakville,_Ontario"
+        [
+          "0.196"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Southwestern Ontario",
-        null
+        [
+          "March 28, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6.4-square-kilometre (2.5 sq mi) park, features nature centre, children's farm, early 20th century historic farmhouse museum",
-        null
+        [
+          "Various computers, consoles, and arcade systems"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "New BSD",
+          "GPLv2"
+        ],
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "Ball\u2019s Falls Centre for Conservation",
-        "/wiki/Ball%27s_Falls,_Ontario"
+        [
+          "XTender"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ball's Falls",
-        "/wiki/Ball%27s_Falls,_Ontario"
+        [
+          "1.28"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Southwestern Ontario",
-        null
+        [
+          "May 2008"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Niagara Escarpment",
-        "/wiki/Niagara_Escarpment"
+        [
+          "Sinclair ZX80",
+          "Sinclair ZX81"
+        ],
+        [
+          "/wiki/ZX80",
+          "/wiki/ZX81"
+        ]
+      ],
+      [
+        [
+          "DOS"
+        ],
+        [
+          "/wiki/DOS"
+        ]
+      ],
+      [
+        [
+          "Shareware"
+        ],
+        [
+          "/wiki/Shareware"
+        ]
       ]
     ],
     [
       [
-        "Cooper Marsh Conservation Area",
-        null
+        [
+          "sz81"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "South Lancaster",
-        "/wiki/South_Lancaster,_Ontario"
+        [
+          "2.1.7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Eastern Ontario",
-        "/wiki/Eastern_Ontario"
+        [
+          "February 13, 2011"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "website,Lake Saint Francis",
-        "/wiki/HTTP_404 /wiki/Lake_Saint_Francis_(Canada)"
+        [
+          "Sinclair ZX80",
+          "Sinclair ZX81"
+        ],
+        [
+          "/wiki/ZX80",
+          "/wiki/ZX81"
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "EcoHouse Green Venture",
-        null
+        [
+          "z81"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hamilton",
-        "/wiki/Hamilton,_Ontario"
+        [
+          "2.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Golden Horseshoe",
-        "/wiki/Golden_Horseshoe"
+        [
+          "October 1, 2004"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "website",
-        "/wiki/HTTP_404"
+        [
+          "Sinclair ZX80",
+          "Sinclair ZX81"
+        ],
+        [
+          "/wiki/ZX80",
+          "/wiki/ZX81"
+        ]
+      ],
+      [
+        [
+          "Linux"
+        ],
+        [
+          "/wiki/Linux"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Giant Rib Discovery Centre",
-        "/wiki/Dundas_Valley_Conservation_Area"
+        [
+          "NO$ZX81"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dundas",
-        "/wiki/Dundas,_Ontario"
+        [
+          "1.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Golden Horseshoe",
-        null
+        [
+          "April 2001"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Natural history of the Dundas Valley Conservation Area and the Niagara Escarpment",
-        null
+        [
+          "Sinclair ZX80",
+          "Sinclair ZX81"
+        ],
+        [
+          "/wiki/ZX80",
+          "/wiki/ZX81"
+        ]
+      ],
+      [
+        [
+          "DOS",
+          "Windows"
+        ],
+        [
+          "/wiki/DOS",
+          "/wiki/Windows"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Gamiing Nature Centre",
-        "/wiki/Gamiing"
+        [
+          "ZX80 Emulator"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lindsay",
-        "/wiki/Lindsay,_Ontario"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Central Ontario",
-        "/wiki/Central_Ontario"
+        [
+          "March 10, 2010"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "100 acres, nature workshops and events about lake ecosystems",
-        null
+        [
+          "Sinclair ZX80"
+        ],
+        [
+          "/wiki/ZX80"
+        ]
+      ],
+      [
+        [
+          "Web browser",
+          "JavaScript"
+        ],
+        [
+          "/wiki/Web_browser",
+          "/wiki/JavaScript"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Guelph Lake Nature Centre",
-        "/wiki/Guelph_Lake"
+        [
+          "ZX81 - iOS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Guelph",
-        "/wiki/Guelph"
+        [
+          "1.7.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Southwestern Ontario",
-        null
+        [
+          "November 20, 2019"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grand River Conservation Authority",
-        "/wiki/Grand_River_Conservation_Authority"
-      ]
-    ],
-    [
-      [
-        "Heartland Forest Nature Experience",
-        "/wiki/HTTP_404"
+        [
+          "Sinclair ZX80",
+          "Sinclair ZX81"
+        ],
+        [
+          "/wiki/ZX80",
+          "/wiki/ZX81"
+        ]
       ],
       [
-        "Niagara Falls",
-        "/wiki/Niagara_Falls,_Ontario"
+        [
+          "iOS"
+        ],
+        [
+          "/wiki/IOS"
+        ]
       ],
       [
-        "Golden Horseshoe",
-        null
-      ],
-      [
-        "website",
-        "/wiki/HTTP_404"
-      ]
-    ],
-    [
-      [
-        "High Park",
-        "/wiki/High_Park"
-      ],
-      [
-        "Toronto",
-        "/wiki/Toronto"
-      ],
-      [
-        "Golden Horseshoe",
-        null
-      ],
-      [
-        "161 hectares (400 acres) park, High Park Nature Centre serves as an educational centre for visitors to the Park",
-        null
-      ]
-    ],
-    [
-      [
-        "H. R. Frink Outdoor Education Centre",
-        null
-      ],
-      [
-        "Plainfield",
-        "/wiki/Plainfield,_Ontario"
-      ],
-      [
-        "Central Ontario",
-        "/wiki/Central_Ontario"
-      ],
-      [
-        "website,Friend of the Frink Center,Quinte Conservation",
-        "/wiki/HTTP_404 /wiki/HTTP_404 /wiki/Quinte_Conservation"
-      ]
-    ],
-    [
-      [
-        "Kortright Centre for Conservation",
-        "/wiki/Kortright_Centre_for_Conservation"
-      ],
-      [
-        "Vaughan",
-        "/wiki/Vaughan"
-      ],
-      [
-        "Greater Toronto Area",
-        "/wiki/Greater_Toronto_Area"
-      ],
-      [
-        "Toronto and Region Conservation Authority",
-        "/wiki/Toronto_and_Region_Conservation_Authority"
-      ]
-    ],
-    [
-      [
-        "Laurel Creek Nature Centre",
-        null
-      ],
-      [
-        "Waterloo",
-        "/wiki/Waterloo,_Ontario"
-      ],
-      [
-        "Southwestern Ontario",
-        null
-      ],
-      [
-        "website,Grand River Conservation Authority",
-        "/wiki/HTTP_404 /wiki/Grand_River_Conservation_Authority"
-      ]
-    ],
-    [
-      [
-        "Ojibway Nature Center and Ojibway Park",
-        "/wiki/Ojibway_Prairie_Complex"
-      ],
-      [
-        "Windsor",
-        "/wiki/Windsor,_Ontario"
-      ],
-      [
-        "Southwestern Ontario",
-        null
-      ],
-      [
-        "Operated by the Windsor Department of Parks, natural history of the Ojibway Prairie Complex",
-        null
-      ]
-    ],
-    [
-      [
-        "Presqu'ile Provincial Park",
-        "/wiki/Presqu%27ile_Provincial_Park"
-      ],
-      [
-        "Brighton",
-        "/wiki/Brighton,_Ontario"
-      ],
-      [
-        "Central Ontario",
-        null
-      ],
-      [
-        "9.37 km2 (3.62 sq mi), features a nature centre and the Lighthouse Interpretive Centre",
-        null
-      ]
-    ],
-    [
-      [
-        "Rockwood Nature Centre",
-        "/wiki/Rockwood_Conservation_Area"
-      ],
-      [
-        "Rockwood",
-        "/wiki/Rockwood,_Ontario"
-      ],
-      [
-        "Southwestern Ontario",
-        null
-      ],
-      [
-        "Open seasonally, operated by the Grand River Conservation Authority in Rockwood Park",
-        null
-      ]
-    ],
-    [
-      [
-        "Rouge Valley Conservation Centre",
-        "/wiki/Rouge_Valley_Conservation_Centre"
-      ],
-      [
-        "Toronto",
-        null
-      ],
-      [
-        "Golden Horseshoe",
-        null
-      ],
-      [
-        "Rouge Park",
-        "/wiki/Rouge_Park"
-      ]
-    ],
-    [
-      [
-        "Royal Botanical Gardens",
-        "/wiki/Royal_Botanical_Gardens_(Ontario)"
-      ],
-      [
-        "Burlington",
-        "/wiki/Burlington,_Ontario"
-      ],
-      [
-        "Golden Horseshoe",
-        null
-      ],
-      [
-        "980 hectares (2,422 acres), includes an arboretum, herbarium, nature interpretive centre, network of over 37\u00a0km of trails and outdoor floral arrangements",
-        null
-      ]
-    ],
-    [
-      [
-        "Shade's Mill Nature Centre",
-        null
-      ],
-      [
-        "Cambridge",
-        "/wiki/Cambridge,_Ontario"
-      ],
-      [
-        "Southwestern Ontario",
-        null
-      ],
-      [
-        "website,Grand River Conservation Authority",
-        "/wiki/HTTP_404 /wiki/Grand_River_Conservation_Authority"
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ]
   ],

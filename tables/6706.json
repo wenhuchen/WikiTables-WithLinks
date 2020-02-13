@@ -1,379 +1,971 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2008_Belarusian_Premier_League",
-  "title": "2008 Belarusian Premier League",
+  "url": "https://en.wikipedia.org/wiki/Western_United_States",
+  "title": "Western United States",
   "header": [
     [
-      "Team",
-      null
+      [
+        "Rank(West)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      null
+      [
+        "Rank(USA)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Venue",
-      null
+      [
+        "MSA"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Capacity",
-      null
+      [
+        "Population"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Position in 2007",
-      null
+      [
+        "State(s)"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "BATE",
-        "/wiki/FC_BATE_Borisov"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Borisov",
-        "/wiki/Barysaw"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "City Stadium, Borisov",
-        "/wiki/Haradzki_Stadium"
+        [
+          "Los Angeles",
+          "Long Beach",
+          "Anaheim",
+          "MSA"
+        ],
+        [
+          "/wiki/Los_Angeles",
+          "/wiki/Long_Beach,_California",
+          "/wiki/Anaheim,_California",
+          "/wiki/Los_Angeles_metropolitan_area"
+        ]
       ],
       [
-        "5,500",
-        null
+        [
+          "13,340,068"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "California"
+        ],
+        [
+          "/wiki/California"
+        ]
       ]
     ],
     [
       [
-        "Gomel",
-        "/wiki/FC_Gomel"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Gomel",
-        "/wiki/Gomel"
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Central, Gomel",
-        "/wiki/Central_Stadion"
+        [
+          "San Francisco",
+          "Oakland",
+          "Hayward",
+          "MSA"
+        ],
+        [
+          "/wiki/San_Francisco",
+          "/wiki/Oakland,_California",
+          "/wiki/Hayward,_California",
+          "/wiki/San_Francisco_Bay_Area"
+        ]
       ],
       [
-        "11,800",
-        null
+        [
+          "4,656,132"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "California"
+        ],
+        [
+          "/wiki/California"
+        ]
       ]
     ],
     [
       [
-        "Shakhtyor",
-        "/wiki/FC_Shakhtyor_Soligorsk"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Soligorsk",
-        "/wiki/Soligorsk"
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stroitel",
-        "/wiki/Stroitel_Stadium_(Soligorsk)"
+        [
+          "Phoenix",
+          "Mesa",
+          "Scottsdale",
+          "MSA"
+        ],
+        [
+          "/wiki/Phoenix,_Arizona",
+          "/wiki/Mesa,_Arizona",
+          "/wiki/Scottsdale,_Arizona",
+          "/wiki/Phoenix_metropolitan_area"
+        ]
       ],
       [
-        "5,000",
-        null
+        [
+          "4,574,531"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "3",
-        null
+        [
+          "Arizona"
+        ],
+        [
+          "/wiki/Arizona"
+        ]
       ]
     ],
     [
       [
-        "Torpedo",
-        "/wiki/FC_Torpedo_Zhodino"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Zhodino",
-        "/wiki/Zhodino"
+        [
+          "13"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Torpedo, Zhodino",
-        "/wiki/Torpedo_Stadium_(Zhodino)"
+        [
+          "San Bernardino",
+          "Riverside",
+          "Ontario",
+          "MSA"
+        ],
+        [
+          "/wiki/San_Bernardino,_California",
+          "/wiki/Riverside,_California",
+          "/wiki/Ontario,_California",
+          "/wiki/Inland_Empire"
+        ]
       ],
       [
-        "3,020",
-        null
+        [
+          "4,489,159"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "California"
+        ],
+        [
+          "/wiki/California"
+        ]
       ]
     ],
     [
       [
-        "MTZ-RIPO",
-        "/wiki/FC_Partizan_Minsk"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Minsk",
-        "/wiki/Minsk"
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Traktor",
-        "/wiki/Traktor_Stadium"
+        [
+          "Seattle",
+          "Tacoma",
+          "Bellevue",
+          "MSA"
+        ],
+        [
+          "/wiki/Seattle",
+          "/wiki/Tacoma,_Washington",
+          "/wiki/Bellevue,_Washington",
+          "/wiki/Seattle_metropolitan_area"
+        ]
       ],
       [
-        "17,600",
-        null
+        [
+          "3,733,580"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "5",
-        null
+        [
+          "Washington"
+        ],
+        [
+          "/wiki/Washington_(state)"
+        ]
       ]
     ],
     [
       [
-        "Neman",
-        "/wiki/FC_Neman_Grodno"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grodno",
-        "/wiki/Grodno"
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Neman",
-        "/wiki/Neman_Stadium"
+        [
+          "San Diego",
+          "Carlsbad",
+          "MSA"
+        ],
+        [
+          "/wiki/San_Diego",
+          "/wiki/Carlsbad,_California",
+          "/wiki/San_Diego_metropolitan_area"
+        ]
       ],
       [
-        "6,300",
-        null
+        [
+          "3,299,521"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6",
-        null
+        [
+          "California"
+        ],
+        [
+          "/wiki/California"
+        ]
       ]
     ],
     [
       [
-        "Naftan",
-        "/wiki/FC_Naftan_Novopolotsk"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Novopolotsk",
-        "/wiki/Novopolotsk"
+        [
+          "19"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Atlant",
-        "/wiki/Atlant_Stadium"
+        [
+          "Denver",
+          "Aurora",
+          "Lakewood",
+          "MSA"
+        ],
+        [
+          "/wiki/Denver",
+          "/wiki/Aurora,_Colorado",
+          "/wiki/Lakewood,_Colorado",
+          "/wiki/Denver_metropolitan_area"
+        ]
       ],
       [
-        "6,500",
-        null
+        [
+          "2,814,330"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "Colorado"
+        ],
+        [
+          "/wiki/Colorado"
+        ]
       ]
     ],
     [
       [
-        "Vitebsk",
-        "/wiki/FC_Vitebsk"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Vitebsk",
-        "/wiki/Vitebsk"
+        [
+          "23"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Central, Vitebsk",
-        "/wiki/Tsentral%27nyi_Sportkompleks"
+        [
+          "Portland",
+          "Vancouver",
+          "Hillsboro",
+          "MSA"
+        ],
+        [
+          "/wiki/Portland,_Oregon",
+          "/wiki/Vancouver,_Washington",
+          "/wiki/Hillsboro,_Oregon",
+          "/wiki/Portland_metropolitan_area"
+        ]
       ],
       [
-        "8,300",
-        null
+        [
+          "2,389,228"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "Oregon",
+          "Washington"
+        ],
+        [
+          "/wiki/Oregon",
+          "/wiki/Washington_(state)"
+        ]
       ]
     ],
     [
       [
-        "Dinamo Minsk",
-        "/wiki/FC_Dinamo_Minsk"
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Minsk",
-        "/wiki/Minsk"
+        [
+          "27"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dinamo, Minsk",
-        "/wiki/Dinamo_Stadium_(Minsk)"
+        [
+          "Sacramento",
+          "Roseville",
+          "Arden-Arcade",
+          "MSA"
+        ],
+        [
+          "/wiki/Sacramento,_California",
+          "/wiki/Roseville,_California",
+          "/wiki/Arden-Arcade,_California",
+          "/wiki/Sacramento_metropolitan_area"
+        ]
       ],
       [
-        "41,040",
-        null
+        [
+          "2,274,194"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "9",
-        null
+        [
+          "California"
+        ],
+        [
+          "/wiki/California"
+        ]
       ]
     ],
     [
       [
-        "Smorgon",
-        "/wiki/FC_Smorgon"
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Smorgon",
-        "/wiki/Smarhon"
+        [
+          "29"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Yunost",
-        "/wiki/Junost_Stadium"
+        [
+          "Las Vegas",
+          "Henderson",
+          "Paradise",
+          "MSA"
+        ],
+        [
+          "/wiki/Las_Vegas",
+          "/wiki/Henderson,_Nevada",
+          "/wiki/Paradise,_Nevada",
+          "/wiki/Las_Vegas_Valley"
+        ]
       ],
       [
-        "3,500",
-        null
+        [
+          "2,114,801"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "Nevada"
+        ],
+        [
+          "/wiki/Nevada"
+        ]
       ]
     ],
     [
       [
-        "Darida",
-        "/wiki/FC_Darida_Minsk_Raion"
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Minsk Raion",
-        "/wiki/Minsk_Raion"
+        [
+          "35"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Darida",
-        "/wiki/Darida_Stadium"
+        [
+          "San Jose",
+          "Sunnyvale",
+          "Santa Clara",
+          "MSA"
+        ],
+        [
+          "/wiki/San_Jose,_California",
+          "/wiki/Sunnyvale,_California",
+          "/wiki/Santa_Clara,_California",
+          "/wiki/San_Jose-San_Francisco-Oakland,_CA_Combined_Statistical_Area"
+        ]
       ],
       [
-        "6,000",
-        null
+        [
+          "1,976,836"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "11",
-        null
+        [
+          "California"
+        ],
+        [
+          "/wiki/California"
+        ]
       ]
     ],
     [
       [
-        "Dinamo Brest",
-        "/wiki/FC_Dinamo_Brest"
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Brest",
-        "/wiki/Brest,_Belarus"
+        [
+          "48"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "OSK Brestskiy",
-        "/wiki/OSK_Brestskiy"
+        [
+          "Salt Lake City",
+          "MSA"
+        ],
+        [
+          "/wiki/Salt_Lake_City",
+          "/wiki/Wasatch_Front"
+        ]
       ],
       [
-        "10,080",
-        null
+        [
+          "1,170,266"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "12",
-        null
+        [
+          "Utah"
+        ],
+        [
+          "/wiki/Utah"
+        ]
       ]
     ],
     [
       [
-        "Dnepr",
-        "/wiki/FC_Dnepr_Mogilev"
+        [
+          "13"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mogilev",
-        "/wiki/Mogilev"
+        [
+          "53"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Spartak",
-        "/wiki/Spartak_Stadion_(Mogilev)"
+        [
+          "Tucson"
+        ],
+        [
+          "/wiki/Tucson,_Arizona"
+        ]
       ],
       [
-        "11,200",
-        null
+        [
+          "1,010,025"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13",
-        null
+        [
+          "Arizona"
+        ],
+        [
+          "/wiki/Arizona"
+        ]
       ]
     ],
     [
       [
-        "Savit",
-        "/wiki/FC_Savit_Mogilev"
+        [
+          "14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mogilev",
-        "/wiki/Mogilev"
+        [
+          "54"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Torpedo, Mogilev",
-        "/wiki/Torpedo_Stadium_(Mahilyow)"
+        [
+          "Honolulu"
+        ],
+        [
+          "/wiki/Honolulu"
+        ]
       ],
       [
-        "3,500",
-        null
+        [
+          "998,714"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "First league",
-        "/wiki/2007_Belarusian_First_League"
+        [
+          "Hawaii"
+        ],
+        [
+          "/wiki/Hawaii"
+        ]
       ]
     ],
     [
       [
-        "Granit",
-        "/wiki/FC_Granit_Mikashevichi"
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mikashevichi",
-        "/wiki/Mikashevichi"
+        [
+          "56"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "OSK Brestskiy",
-        "/wiki/OSK_Brestskiy"
+        [
+          "Fresno",
+          "MSA"
+        ],
+        [
+          "/wiki/Fresno,_California",
+          "/wiki/Metropolitan_Fresno"
+        ]
       ],
       [
-        "3,130",
-        null
+        [
+          "974,861"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "First league",
-        "/wiki/2007_Belarusian_First_League"
+        [
+          "California"
+        ],
+        [
+          "/wiki/California"
+        ]
       ]
     ],
     [
       [
-        "Lokomotiv",
-        "/wiki/FC_SKVICH_Minsk"
+        [
+          "16"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Minsk",
-        "/wiki/Minsk"
+        [
+          "60"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "City Stadium, Molodechno",
-        "/wiki/Horodskiy_Stadium_(Maladzechna)"
+        [
+          "Albuquerque",
+          "MSA"
+        ],
+        [
+          "/wiki/Albuquerque,_New_Mexico",
+          "/wiki/Albuquerque_metropolitan_area"
+        ]
       ],
       [
-        "4,800",
-        null
+        [
+          "907,301"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "First league",
-        "/wiki/2007_Belarusian_First_League"
+        [
+          "New Mexico"
+        ],
+        [
+          "/wiki/New_Mexico"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "17"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "61"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Bakersfield",
+          "Delano"
+        ],
+        [
+          "/wiki/Bakersfield,_California",
+          "/wiki/Delano,_California"
+        ]
+      ],
+      [
+        [
+          "882,176"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "California"
+        ],
+        [
+          "/wiki/California"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "18"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "66"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Oxnard",
+          "Thousand Oaks",
+          "Ventura",
+          "MSA"
+        ],
+        [
+          "/wiki/Oxnard,_California",
+          "/wiki/Thousand_Oaks,_California",
+          "/wiki/Ventura,_California",
+          "/wiki/Ventura_County,_California"
+        ]
+      ],
+      [
+        [
+          "850,536"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "California"
+        ],
+        [
+          "/wiki/California"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "19"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "77"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Stockton",
+          "Lodi"
+        ],
+        [
+          "/wiki/Stockton,_California",
+          "/wiki/Lodi,_California"
+        ]
+      ],
+      [
+        [
+          "726,106"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "California"
+        ],
+        [
+          "/wiki/California"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "20"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "80"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Colorado Springs",
+          "MSA"
+        ],
+        [
+          "/wiki/Colorado_Springs,_Colorado",
+          "/wiki/Colorado_Springs_metropolitan_area"
+        ]
+      ],
+      [
+        [
+          "697,856"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Colorado"
+        ],
+        [
+          "/wiki/Colorado"
+        ]
       ]
     ]
   ],

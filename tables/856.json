@@ -1,159 +1,1059 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_association_football_clubs_in_the_Republic_of_Ireland",
-  "title": "List of association football clubs in the Republic of Ireland",
+  "url": "https://en.wikipedia.org/wiki/List_of_NHL_playoff_series",
+  "title": "List of NHL playoff series",
   "header": [
     [
-      "Club",
-      null
+      [
+        "Opponent"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Home town/suburb",
-      null
+      [
+        "S"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Home ground",
-      null
+      [
+        "Occurrences"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "GP"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Rec"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "%"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Blarney Street Athletic",
-        null
+        [
+          "Philadelphia Flyers"
+        ],
+        [
+          "/wiki/Philadelphia_Flyers"
+        ]
       ],
       [
-        "Monard, County Cork",
-        "/wiki/Monard,_County_Cork"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "1978",
+          "1995",
+          "2000",
+          "2004",
+          "2010",
+          "2012"
+        ],
+        [
+          "/wiki/1978_Stanley_Cup_playoffs",
+          "/wiki/1995_Stanley_Cup_playoffs",
+          "/wiki/2000_Stanley_Cup_playoffs",
+          "/wiki/2004_Stanley_Cup_playoffs",
+          "/wiki/2010_Stanley_Cup_playoffs",
+          "/wiki/2012_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "30"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3\u20133"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".500"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Carrigtwohill United A",
-        null
+        [
+          "New York Rangers"
+        ],
+        [
+          "/wiki/New_York_Rangers"
+        ]
       ],
       [
-        "Carrigtwohill",
-        "/wiki/Carrigtwohill"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ballyadam Park",
-        null
+        [
+          "1992",
+          "1994",
+          "1997",
+          "2006",
+          "2008",
+          "2012"
+        ],
+        [
+          "/wiki/1992_Stanley_Cup_playoffs",
+          "/wiki/1994_Stanley_Cup_playoffs",
+          "/wiki/1997_Stanley_Cup_playoffs",
+          "/wiki/2006_Stanley_Cup_playoffs",
+          "/wiki/2008_Stanley_Cup_playoffs",
+          "/wiki/2012_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "34"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20134"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".333"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Coachford",
-        null
+        [
+          "Pittsburgh Penguins"
+        ],
+        [
+          "/wiki/Pittsburgh_Penguins"
+        ]
       ],
       [
-        "Coachford",
-        "/wiki/Coachford"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "1991",
+          "1993",
+          "1995",
+          "1999",
+          "2001"
+        ],
+        [
+          "/wiki/1991_Stanley_Cup_playoffs",
+          "/wiki/1993_Stanley_Cup_playoffs",
+          "/wiki/1995_Stanley_Cup_playoffs",
+          "/wiki/1999_Stanley_Cup_playoffs",
+          "/wiki/2001_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "29"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20133"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".400"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Glenthorn Celtic A",
-        null
+        [
+          "Boston Bruins"
+        ],
+        [
+          "/wiki/Boston_Bruins"
+        ]
       ],
       [
-        "Glenthorn, Dublin Hill",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "1988",
+          "1994",
+          "1995",
+          "2003"
+        ],
+        [
+          "/wiki/1988_Stanley_Cup_playoffs",
+          "/wiki/1994_Stanley_Cup_playoffs",
+          "/wiki/1995_Stanley_Cup_playoffs",
+          "/wiki/2003_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "23"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".750"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Grattan United A",
-        null
+        [
+          "Carolina Hurricanes"
+        ],
+        [
+          "/wiki/Carolina_Hurricanes"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "O'Neill Park",
-        null
+        [
+          "2001",
+          "2002",
+          "2006",
+          "2009"
+        ],
+        [
+          "/wiki/2001_Stanley_Cup_playoffs",
+          "/wiki/2002_Stanley_Cup_playoffs",
+          "/wiki/2006_Stanley_Cup_playoffs",
+          "/wiki/2009_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "24"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20133"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".250"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Killumney United",
-        null
+        [
+          "Tampa Bay Lightning"
+        ],
+        [
+          "/wiki/Tampa_Bay_Lightning"
+        ]
       ],
       [
-        "Killumney",
-        "/wiki/Killumney"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "2003",
+          "2007",
+          "2018"
+        ],
+        [
+          "/wiki/2003_Stanley_Cup_playoffs",
+          "/wiki/2007_Stanley_Cup_playoffs",
+          "/wiki/2018_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "16"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".667"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Kilreen Celtic",
-        null
+        [
+          "Ottawa Senators"
+        ],
+        [
+          "/wiki/Ottawa_Senators"
+        ]
       ],
       [
-        "Ballyphehane",
-        "/wiki/Ballyphehane"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ballyphehane Park",
-        null
+        [
+          "1998",
+          "2003",
+          "2007"
+        ],
+        [
+          "/wiki/1998_Stanley_Cup_playoffs",
+          "/wiki/2003_Stanley_Cup_playoffs",
+          "/wiki/2007_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "18"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20132"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".333"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Park United A",
-        null
+        [
+          "Florida Panthers"
+        ],
+        [
+          "/wiki/Florida_Panthers"
+        ]
       ],
       [
-        "Mitchelstown",
-        "/wiki/Mitchelstown"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Brigown",
-        null
+        [
+          "2000",
+          "2012"
+        ],
+        [
+          "/wiki/2000_Stanley_Cup_playoffs",
+          "/wiki/2012_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "11"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Pearse Celtic A",
-        null
+        [
+          "Toronto Maple Leafs"
+        ],
+        [
+          "/wiki/Toronto_Maple_Leafs"
+        ]
       ],
       [
-        "Togher, Cork",
-        "/wiki/Togher,_Cork"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Clashduv Road",
-        null
+        [
+          "2000",
+          "2001"
+        ],
+        [
+          "/wiki/2000_Stanley_Cup_playoffs",
+          "/wiki/2001_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "13"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Village United",
-        null
+        [
+          "Washington Capitals"
+        ],
+        [
+          "/wiki/Washington_Capitals"
+        ]
       ],
       [
-        "Mayfield, Cork",
-        "/wiki/Mayfield,_Cork"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Silverheights Park",
-        null
+        [
+          "1988",
+          "1990"
+        ],
+        [
+          "/wiki/1988_Stanley_Cup_playoffs",
+          "/wiki/1990_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "13"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".500"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Anaheim Ducks"
+        ],
+        [
+          "/wiki/Anaheim_Ducks"
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2003"
+        ],
+        [
+          "/wiki/2003_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Buffalo Sabres"
+        ],
+        [
+          "/wiki/Buffalo_Sabres"
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1994"
+        ],
+        [
+          "/wiki/1994_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Dallas Stars"
+        ],
+        [
+          "/wiki/Dallas_Stars"
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2000"
+        ],
+        [
+          "/wiki/2000_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "6"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Detroit Red Wings"
+        ],
+        [
+          "/wiki/Detroit_Red_Wings"
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1995"
+        ],
+        [
+          "/wiki/1995_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Montreal Canadiens"
+        ],
+        [
+          "/wiki/Montreal_Canadiens"
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1997"
+        ],
+        [
+          "/wiki/1997_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "New York Islanders"
+        ],
+        [
+          "/wiki/New_York_Islanders"
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1988"
+        ],
+        [
+          "/wiki/1988_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "6"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Colorado Avalanche"
+        ],
+        [
+          "/wiki/Colorado_Avalanche"
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2001"
+        ],
+        [
+          "/wiki/2001_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Los Angeles Kings"
+        ],
+        [
+          "/wiki/Los_Angeles_Kings"
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2012"
+        ],
+        [
+          "/wiki/2012_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "6"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Totals"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "45"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "259"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "25\u201320"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".556"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

@@ -1,271 +1,921 @@
 {
-  "url": "https://en.wikipedia.org/wiki/NHL_All-Star_Skills_Competition",
-  "title": "NHL All-Star Skills Competition",
+  "url": "https://en.wikipedia.org/wiki/List_of_NHL_playoff_series",
+  "title": "List of NHL playoff series",
   "header": [
     [
-      "Season",
-      "/wiki/Season_(sports)"
+      [
+        "Opponent"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Team",
-      null
+      [
+        "S"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Player",
-      null
+      [
+        "Occurrences"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "GP"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Rec"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "%"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1990",
-        "/wiki/1989%E2%80%9390_NHL_season"
+        [
+          "Pittsburgh Penguins"
+        ],
+        [
+          "/wiki/Pittsburgh_Penguins"
+        ]
       ],
       [
-        "Campbell Conference",
-        "/wiki/Campbell_Conference"
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "none",
-        null
+        [
+          "1991",
+          "1992",
+          "1994",
+          "1995",
+          "1996",
+          "2000",
+          "2001",
+          "2009",
+          "2016",
+          "2017",
+          "2018"
+        ],
+        [
+          "/wiki/1991_Stanley_Cup_playoffs",
+          "/wiki/1992_Stanley_Cup_playoffs",
+          "/wiki/1994_Stanley_Cup_playoffs",
+          "/wiki/1995_Stanley_Cup_playoffs",
+          "/wiki/1996_Stanley_Cup_playoffs",
+          "/wiki/2000_Stanley_Cup_playoffs",
+          "/wiki/2001_Stanley_Cup_playoffs",
+          "/wiki/2009_Stanley_Cup_playoffs",
+          "/wiki/2016_Stanley_Cup_playoffs",
+          "/wiki/2017_Stanley_Cup_playoffs",
+          "/wiki/2018_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "68"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20139"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".182"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1991",
-        "/wiki/1990%E2%80%9391_NHL_season"
+        [
+          "New York Rangers"
+        ],
+        [
+          "/wiki/New_York_Rangers"
+        ]
       ],
       [
-        "Campbell Conference",
-        null
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "none",
-        null
+        [
+          "1986",
+          "1990",
+          "1991",
+          "1994",
+          "2009",
+          "2011",
+          "2012",
+          "2013",
+          "2015"
+        ],
+        [
+          "/wiki/1986_Stanley_Cup_playoffs",
+          "/wiki/1990_Stanley_Cup_playoffs",
+          "/wiki/1991_Stanley_Cup_playoffs",
+          "/wiki/1994_Stanley_Cup_playoffs",
+          "/wiki/2009_Stanley_Cup_playoffs",
+          "/wiki/2011_Stanley_Cup_playoffs",
+          "/wiki/2012_Stanley_Cup_playoffs",
+          "/wiki/2013_Stanley_Cup_playoffs",
+          "/wiki/2015_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "55"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "4\u20135"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".444"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1992",
-        "/wiki/1991%E2%80%9392_NHL_season"
+        [
+          "New York Islanders"
+        ],
+        [
+          "/wiki/New_York_Islanders"
+        ]
       ],
       [
-        "Campbell Conference",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "none",
-        null
+        [
+          "1983",
+          "1984",
+          "1985",
+          "1986",
+          "1987",
+          "1993",
+          "2015"
+        ],
+        [
+          "/wiki/1983_Stanley_Cup_playoffs",
+          "/wiki/1984_Stanley_Cup_playoffs",
+          "/wiki/1985_Stanley_Cup_playoffs",
+          "/wiki/1986_Stanley_Cup_playoffs",
+          "/wiki/1987_Stanley_Cup_playoffs",
+          "/wiki/1993_Stanley_Cup_playoffs",
+          "/wiki/2015_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "37"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20135"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".286"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1993",
-        "/wiki/1992%E2%80%9393_NHL_season"
+        [
+          "Philadelphia Flyers"
+        ],
+        [
+          "/wiki/Philadelphia_Flyers"
+        ]
       ],
       [
-        "Wales Conference",
-        "/wiki/Wales_Conference"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "none",
-        null
+        [
+          "1984",
+          "1988",
+          "1989",
+          "2008",
+          "2016"
+        ],
+        [
+          "/wiki/1984_Stanley_Cup_playoffs",
+          "/wiki/1988_Stanley_Cup_playoffs",
+          "/wiki/1989_Stanley_Cup_playoffs",
+          "/wiki/2008_Stanley_Cup_playoffs",
+          "/wiki/2016_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "29"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3\u20132"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".600"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1994",
-        "/wiki/1993%E2%80%9394_NHL_season"
+        [
+          "Boston Bruins"
+        ],
+        [
+          "/wiki/Boston_Bruins"
+        ]
       ],
       [
-        "Eastern Conference",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Russ Courtnall",
-        "/wiki/Russ_Courtnall"
+        [
+          "1990",
+          "1998",
+          "2012"
+        ],
+        [
+          "/wiki/1990_Stanley_Cup_playoffs",
+          "/wiki/1998_Stanley_Cup_playoffs",
+          "/wiki/2012_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "17"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".667"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1996",
-        "/wiki/1995%E2%80%9396_NHL_season"
+        [
+          "Tampa Bay Lightning"
+        ],
+        [
+          "/wiki/Tampa_Bay_Lightning"
+        ]
       ],
       [
-        "Western Conference",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pierre Turgeon",
-        "/wiki/Pierre_Turgeon"
+        [
+          "2003",
+          "2011",
+          "2018"
+        ],
+        [
+          "/wiki/2003_Stanley_Cup_playoffs",
+          "/wiki/2011_Stanley_Cup_playoffs",
+          "/wiki/2018_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "17"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20132"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".333"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1997",
-        "/wiki/1996%E2%80%9397_NHL_season"
+        [
+          "New Jersey Devils"
+        ],
+        [
+          "/wiki/New_Jersey_Devils"
+        ]
       ],
       [
-        "Western Conference",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Geoff Sanderson",
-        "/wiki/Geoff_Sanderson"
+        [
+          "1988",
+          "1990"
+        ],
+        [
+          "/wiki/1988_Stanley_Cup_playoffs",
+          "/wiki/1990_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "13"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".500"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1998",
-        "/wiki/1997%E2%80%9398_NHL_season"
+        [
+          "Buffalo Sabres"
+        ],
+        [
+          "/wiki/Buffalo_Sabres"
+        ]
       ],
       [
-        "World",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Teemu Selanne",
-        "/wiki/Teemu_Sel%C3%A4nne"
+        [
+          "1998"
+        ],
+        [
+          "/wiki/1998_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "6"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1999",
-        "/wiki/1998%E2%80%9399_NHL_season"
+        [
+          "Columbus Blue Jackets"
+        ],
+        [
+          "/wiki/Columbus_Blue_Jackets"
+        ]
       ],
       [
-        "North America",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paul Kariya",
-        "/wiki/Paul_Kariya"
+        [
+          "2018"
+        ],
+        [
+          "/wiki/2018_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "6"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2000",
-        "/wiki/1999%E2%80%932000_NHL_season"
+        [
+          "Ottawa Senators"
+        ],
+        [
+          "/wiki/Ottawa_Senators"
+        ]
       ],
       [
-        "North America",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paul Kariya",
-        null
+        [
+          "1998"
+        ],
+        [
+          "/wiki/1998_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2001",
-        "/wiki/2000%E2%80%9301_NHL_season"
+        [
+          "Toronto Maple Leafs"
+        ],
+        [
+          "/wiki/Toronto_Maple_Leafs"
+        ]
       ],
       [
-        "North America",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paul Kariya",
-        null
+        [
+          "2017"
+        ],
+        [
+          "/wiki/2017_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "6"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2002",
-        "/wiki/2001%E2%80%9302_NHL_season"
+        [
+          "Vegas Golden Knights"
+        ],
+        [
+          "/wiki/Vegas_Golden_Knights"
+        ]
       ],
       [
-        "North America",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paul Kariya",
-        null
+        [
+          "2018"
+        ],
+        [
+          "/wiki/2018_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2003",
-        "/wiki/2002%E2%80%9303_NHL_season"
+        [
+          "Carolina Hurricanes"
+        ],
+        [
+          "/wiki/Carolina_Hurricanes"
+        ]
       ],
       [
-        "Eastern Conference",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Martin St. Louis",
-        "/wiki/Martin_St._Louis"
+        [
+          "2019"
+        ],
+        [
+          "/wiki/2019_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2004",
-        "/wiki/2003%E2%80%9304_NHL_season"
+        [
+          "Detroit Red Wings"
+        ],
+        [
+          "/wiki/Detroit_Red_Wings"
+        ]
       ],
       [
-        "Western Conference",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rick Nash",
-        "/wiki/Rick_Nash"
+        [
+          "1998"
+        ],
+        [
+          "/wiki/1998_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2007",
-        "/wiki/2006%E2%80%9307_NHL_season"
+        [
+          "Montreal Canadiens"
+        ],
+        [
+          "/wiki/Montreal_Canadiens"
+        ]
       ],
       [
-        "Western Conference",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rick Nash",
-        null
+        [
+          "2010"
+        ],
+        [
+          "/wiki/2010_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2008",
-        "/wiki/2007%E2%80%9308_NHL_season"
+        [
+          "Totals"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Western Conference",
-        null
+        [
+          "48"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Shawn Horcoff",
-        "/wiki/Shawn_Horcoff"
-      ]
-    ],
-    [
-      [
-        "2018",
-        "/wiki/2017%E2%80%9318_NHL_season"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pacific Division",
-        null
+        [
+          "282"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Johnny Gaudreau",
-        "/wiki/Johnny_Gaudreau"
-      ]
-    ],
-    [
-      [
-        "2019",
-        "/wiki/2018%E2%80%9319_NHL_season"
+        [
+          "20\u201328"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pacific Division",
-        null
-      ],
-      [
-        "Johnny Gaudreau",
-        null
+        [
+          ".417"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

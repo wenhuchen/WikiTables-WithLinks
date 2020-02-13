@@ -1,448 +1,996 @@
 {
-  "url": "https://en.wikipedia.org/wiki/SYUN",
-  "title": "SYUN",
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_document-markup_languages",
+  "title": "Comparison of document-markup languages",
   "header": [
     [
-      "Cat. No.",
-      null
+      [
+        "Language"
+      ],
+      [
+        "/wiki/Markup_language"
+      ]
     ],
     [
-      "Artist",
-      null
+      [
+        "Creator"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Title",
-      null
+      [
+        "First public release date"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Format",
-      null
+      [
+        "Editor"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Release DateYYYY-MM-DD",
-      null
+      [
+        "Viewer"
+      ],
+      [
+        "/wiki/File_viewer"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "SYUN-001",
-        null
+        [
+          "AsciiDoc"
+        ],
+        [
+          "/wiki/AsciiDoc"
+        ]
       ],
       [
-        "SYUN",
-        "/wiki/Shun_(band)"
+        [
+          "Stuart Rackham"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "OOPARTS",
-        "/wiki/OOPARTS_(SYUN_album)"
+        [
+          "2002"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD",
-        "/wiki/Compact_Disc"
+        [
+          "Text editor"
+        ],
+        [
+          "/wiki/Text_editor"
+        ]
       ],
       [
-        "1994-05-25",
-        null
+        [
+          "XHTML",
+          "HTML",
+          "DocBook",
+          "PDF",
+          "EPUB",
+          "DVI",
+          "LaTeX",
+          "roff",
+          "Postscript"
+        ],
+        [
+          "/wiki/XHTML",
+          "/wiki/HTML",
+          "/wiki/DocBook",
+          "/wiki/PDF",
+          "/wiki/EPUB",
+          "/wiki/Device_independent_file_format",
+          "/wiki/LaTeX",
+          "/wiki/Roff_(computer_program)",
+          "/wiki/Postscript"
+        ]
       ]
     ],
     [
       [
-        "SYUN-002",
-        null
+        [
+          "Computable Document Format"
+        ],
+        [
+          "/wiki/Computable_Document_Format"
+        ]
       ],
       [
-        "P-MODEL",
-        "/wiki/P-Model"
+        [
+          "Wolfram Research"
+        ],
+        [
+          "/wiki/Wolfram_Research"
+        ]
       ],
       [
-        "Pause",
-        "/wiki/Pause_(P-Model_album)"
+        [
+          "2010"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD",
-        "/wiki/Compact_Disc"
+        [
+          "Wolfram Language",
+          "Mathematica"
+        ],
+        [
+          "/wiki/Wolfram_Language",
+          "/wiki/Mathematica"
+        ]
       ],
       [
-        "1994-05-25",
-        null
+        [
+          "CDF Player"
+        ],
+        [
+          "/wiki/CDF_Player"
+        ]
       ]
     ],
     [
       [
-        "DSS-001",
-        null
+        [
+          "Creole"
+        ],
+        [
+          "/wiki/Creole_(markup)"
+        ]
       ],
       [
-        "P-MODEL",
-        "/wiki/P-Model"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "demo",
-        "/wiki/Demo_(P-MODEL)"
+        [
+          "2007"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mini CD single",
-        "/wiki/Mini_CD_single"
+        [
+          "Text editor"
+        ],
+        [
+          "/wiki/Text_editor"
+        ]
       ],
       [
-        "1994-05-25",
-        null
+        [
+          "HTML",
+          "RTF",
+          "LaTeX",
+          "MFC"
+        ],
+        [
+          "/wiki/HTML",
+          "/wiki/Rich_Text_Format",
+          "/wiki/LaTeX",
+          "/wiki/Microsoft_Foundation_Class_Library"
+        ]
       ]
     ],
     [
       [
-        "SYUN-003",
-        null
+        [
+          "Darwin Information Typing Architecture (DITA)"
+        ],
+        [
+          "/wiki/Darwin_Information_Typing_Architecture"
+        ]
       ],
       [
-        "P-MODEL",
-        "/wiki/P-Model"
+        [
+          "OASIS"
+        ],
+        [
+          "/wiki/OASIS_(organization)"
+        ]
       ],
       [
-        "The Way of LIVE",
-        "/wiki/The_Way_of_LIVE"
+        [
+          "2005"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD",
-        "/wiki/Compact_Disc"
+        [
+          "Text",
+          "XML editor"
+        ],
+        [
+          "/wiki/Text_editor",
+          "/wiki/XML_editor"
+        ]
       ],
       [
-        "1994-07-25",
-        null
+        [
+          "HTML",
+          "PDF",
+          "CHM",
+          "javadoc"
+        ],
+        [
+          "/wiki/HTML",
+          "/wiki/Portable_Document_Format",
+          "/wiki/Microsoft_Compiled_HTML_Help",
+          "/wiki/Javadoc"
+        ]
       ]
     ],
     [
       [
-        "SYUN-004",
-        null
+        [
+          "DocBook"
+        ],
+        [
+          "/wiki/DocBook"
+        ]
       ],
       [
-        "Kotobuki Hikaru,Phnonpenh MODEL",
-        "/wiki/Hikaru_Kotobuki /wiki/Phnonpenh_Model"
+        [
+          "The Davenport Group",
+          "OASIS"
+        ],
+        [
+          null,
+          "/wiki/OASIS_(organization)"
+        ]
       ],
       [
-        "Desk Top Hard Lock",
-        "/wiki/Desk_Top_Hard_Lock"
+        [
+          "1992"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD",
-        "/wiki/Compact_Disc"
+        [
+          "XML editor"
+        ],
+        [
+          "/wiki/XML_editor"
+        ]
       ],
       [
-        "1994-07-25",
-        null
+        [
+          "HTML",
+          "PDF",
+          "CHM",
+          "javadoc"
+        ],
+        [
+          "/wiki/HTML",
+          "/wiki/Portable_Document_Format",
+          "/wiki/Microsoft_Compiled_HTML_Help",
+          "/wiki/Javadoc"
+        ]
       ]
     ],
     [
       [
-        "SYUN-005",
-        null
+        [
+          "Encoded Archival Description (EAD)"
+        ],
+        [
+          "/wiki/Encoded_Archival_Description"
+        ]
       ],
       [
-        "Pre P-MODEL",
-        null
+        [
+          "Berkeley Project"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Air On The Wiring",
-        "/wiki/HTTP_404"
+        [
+          "1998"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD",
-        "/wiki/Compact_Disc"
+        [
+          "Text editor"
+        ],
+        [
+          "/wiki/Text_editor"
+        ]
       ],
       [
-        "1994-10-22",
-        null
+        [
+          "Web browser"
+        ],
+        [
+          "/wiki/Web_browser"
+        ]
       ]
     ],
     [
       [
-        "SYUN-006",
-        null
+        [
+          "Extensible HyperText Markup Language (XHTML)"
+        ],
+        [
+          "/wiki/XHTML"
+        ]
       ],
       [
-        "SYUN",
-        "/wiki/Shun_(band)"
+        [
+          "W3C"
+        ],
+        [
+          "/wiki/W3C"
+        ]
       ],
       [
-        "Landscapes",
-        "/wiki/HTTP_404"
+        [
+          "2000 (January 26)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD",
-        "/wiki/Compact_Disc"
+        [
+          "Text",
+          "XML editor",
+          "HTML editor"
+        ],
+        [
+          "/wiki/Text_editor",
+          "/wiki/XML_editor",
+          "/wiki/HTML_editor"
+        ]
       ],
       [
-        "1994-10-22",
-        null
+        [
+          "Web browser"
+        ],
+        [
+          "/wiki/Web_browser"
+        ]
       ]
     ],
     [
       [
-        "SYUN-007",
-        null
+        [
+          "HyperText Markup Language (HTML)"
+        ],
+        [
+          "/wiki/HTML"
+        ]
       ],
       [
-        "P-MODEL",
-        "/wiki/P-Model"
+        [
+          "Tim Berners-Lee"
+        ],
+        [
+          "/wiki/Tim_Berners-Lee"
+        ]
       ],
       [
-        "Corrective Errors\u301cre-mix of Fune",
-        "/wiki/HTTP_404"
+        [
+          "1993"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD",
-        "/wiki/Compact_Disc"
+        [
+          "Text editor",
+          "HTML editor"
+        ],
+        [
+          "/wiki/Text_editor",
+          "/wiki/HTML_editor"
+        ]
       ],
       [
-        "1995-09-30",
-        null
+        [
+          "Web browser"
+        ],
+        [
+          "/wiki/Web_browser"
+        ]
       ]
     ],
     [
       [
-        "SYUN-008",
-        null
+        [
+          "LilyPond"
+        ],
+        [
+          "/wiki/GNU_LilyPond"
+        ]
       ],
       [
-        "Tadahiko Yokogawa",
-        "/wiki/HTTP_404"
+        [
+          "Han-Wen Nienhuys",
+          "Jan Nieuwenhuizen"
+        ],
+        [
+          "/wiki/Han-Wen_Nienhuys",
+          "/wiki/Jan_Nieuwenhuizen"
+        ]
       ],
       [
-        "DIVE",
-        "/wiki/HTTP_404"
+        [
+          "1996"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD",
-        "/wiki/Compact_Disc"
+        [
+          "Text editor",
+          "Scorewriter"
+        ],
+        [
+          "/wiki/Text_editor",
+          "/wiki/Scorewriter"
+        ]
       ],
       [
-        "1995-09-30",
-        null
+        [
+          "DVI",
+          "PDF",
+          "PostScript",
+          "PNG"
+        ],
+        [
+          "/wiki/DVI_file_format",
+          "/wiki/Portable_Document_Format",
+          "/wiki/PostScript",
+          "/wiki/Portable_Network_Graphics"
+        ]
       ]
     ],
     [
       [
-        "SYUN-009",
-        null
+        [
+          "Maker Interchange Format (MIF)"
+        ],
+        [
+          "/wiki/Maker_Interchange_Format"
+        ]
       ],
       [
-        "P-MODEL",
-        "/wiki/P-Model"
+        [
+          "Frame Technology",
+          "Adobe Systems"
+        ],
+        [
+          "/wiki/Adobe_FrameMaker",
+          "/wiki/Adobe_Systems"
+        ]
       ],
       [
-        "SCUBA RECYCLE",
-        "/wiki/SCUBA_(P-MODEL_album)#SCUBA_RECYCLE"
+        [
+          "1986"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD",
-        "/wiki/Compact_Disc"
+        [
+          "Text editor",
+          "FrameMaker"
+        ],
+        [
+          "/wiki/Text_editor",
+          "/wiki/FrameMaker"
+        ]
       ],
       [
-        "1995-11-30",
-        null
+        [
+          "FrameMaker"
+        ],
+        [
+          "/wiki/FrameMaker"
+        ]
       ]
     ],
     [
       [
-        "SYUN-010",
-        null
+        [
+          "MakeDoc"
+        ],
+        [
+          "/wiki/MakeDoc"
+        ]
       ],
       [
-        "SYUN",
-        "/wiki/Shun_(band)"
+        [
+          "Carl Sassenrath"
+        ],
+        [
+          "/wiki/Carl_Sassenrath"
+        ]
       ],
       [
-        "SHUN\u30fb4 VISION",
-        "/wiki/HTTP_404"
+        [
+          "2000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VHS",
-        "/wiki/VHS"
+        [
+          "Text editor"
+        ],
+        [
+          "/wiki/Text_editor"
+        ]
       ],
       [
-        "1995-11-30",
-        null
+        [
+          "Web browser",
+          "XHTML",
+          "HTML"
+        ],
+        [
+          "/wiki/Web_browser",
+          "/wiki/XHTML",
+          "/wiki/HTML"
+        ]
       ]
     ],
     [
       [
-        "S-32580S-32581",
-        null
+        [
+          "Markdown"
+        ],
+        [
+          "/wiki/Markdown"
+        ]
       ],
       [
-        "P-MODEL",
-        "/wiki/P-Model"
+        [
+          "John Gruber",
+          "Aaron Swartz"
+        ],
+        [
+          "/wiki/John_Gruber",
+          "/wiki/Aaron_Swartz"
+        ]
       ],
       [
-        "SAKSIT North Passage MIX",
-        "/wiki/HTTP_404"
+        [
+          "2004"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Vinyl",
-        "/wiki/Gramophone_record"
+        [
+          "Text editor",
+          "E-mail client"
+        ],
+        [
+          "/wiki/Text_editor",
+          "/wiki/E-mail_client"
+        ]
       ],
       [
-        "1996-02-29",
-        null
+        [
+          "Web browser",
+          "XHTML",
+          "HTML"
+        ],
+        [
+          "/wiki/Web_browser",
+          "/wiki/XHTML",
+          "/wiki/HTML"
+        ]
       ]
     ],
     [
       [
-        "SYUN-011",
-        null
+        [
+          "Textile"
+        ],
+        [
+          "/wiki/Textile_(markup_language)"
+        ]
       ],
       [
-        "SYUN",
-        "/wiki/Shun_(band)"
+        [
+          "Dean Allen"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kun Mae on a Calculation",
-        "/wiki/HTTP_404"
+        [
+          "2002"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD",
-        "/wiki/Compact_Disc"
+        [
+          "Text editor"
+        ],
+        [
+          "/wiki/Text_editor"
+        ]
       ],
       [
-        "1996-02-29",
-        null
+        [
+          "Web browser",
+          "XHTML",
+          "HTML"
+        ],
+        [
+          "/wiki/Web_browser",
+          "/wiki/XHTML",
+          "/wiki/HTML"
+        ]
       ]
     ],
     [
       [
-        "SYUN-012",
-        null
+        [
+          "Math Markup Language (MathML)"
+        ],
+        [
+          "/wiki/MathML"
+        ]
       ],
       [
-        "Shifukudan",
-        "/wiki/HTTP_404"
+        [
+          "W3C"
+        ],
+        [
+          "/wiki/W3C"
+        ]
       ],
       [
-        "Chiputan",
-        "/wiki/HTTP_404"
+        [
+          "1999 (July)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD",
-        "/wiki/Compact_Disc"
+        [
+          "Text",
+          "XML editor",
+          "TeX"
+        ],
+        [
+          "/wiki/Text_editor",
+          "/wiki/XML_editor",
+          "/wiki/TeX"
+        ]
       ],
       [
-        "1996-02-29",
-        null
+        [
+          "Web browser",
+          "Word processor"
+        ],
+        [
+          "/wiki/Web_browser",
+          "/wiki/Word_processor"
+        ]
       ]
     ],
     [
       [
-        "SYUN-013",
-        null
+        [
+          "The Music Encoding Initiative (MEI)"
+        ],
+        [
+          "/wiki/Music_Encoding_Initiative"
+        ]
       ],
       [
-        "Fuk\u014d Project",
-        null
+        [
+          "The MEI Community"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "How about FUKO?",
-        "/wiki/HTTP_404"
+        [
+          "1999"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD",
-        "/wiki/Compact_Disc"
+        [
+          "XML editor"
+        ],
+        [
+          "/wiki/XML_editor"
+        ]
       ],
       [
-        "1996-10-05",
-        null
+        [
+          "Verovio"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "SYUN-014",
-        null
+        [
+          "Music Extensible Markup Language (MusicXML)"
+        ],
+        [
+          "/wiki/MusicXML"
+        ]
       ],
       [
-        "PEVO",
-        "/wiki/HTTP_404"
+        [
+          "Recordare"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CONVEX AND CONCAVE",
-        "/wiki/HTTP_404"
+        [
+          "2002"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD",
-        "/wiki/Compact_Disc"
+        [
+          "Scorewriter"
+        ],
+        [
+          "/wiki/Scorewriter"
+        ]
       ],
       [
-        "1996-10-05",
-        null
+        [
+          "Scorewriter"
+        ],
+        [
+          "/wiki/Scorewriter"
+        ]
       ]
     ],
     [
       [
-        "SYUN-015",
-        null
+        [
+          "Office Open XML (OOXML)"
+        ],
+        [
+          "/wiki/Office_Open_XML"
+        ]
       ],
       [
-        "Teruo Nakano",
-        "/wiki/HTTP_404"
+        [
+          "Ecma International",
+          "ISO",
+          "IEC"
+        ],
+        [
+          "/wiki/Ecma_International",
+          "/wiki/International_Organisation_for_Standardisation",
+          "/wiki/International_Electrotechnical_Commission"
+        ]
       ],
       [
-        "User Unknown",
-        "/wiki/HTTP_404"
+        [
+          "2006"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD",
-        "/wiki/Compact_Disc"
+        [
+          "Office suite"
+        ],
+        [
+          "/wiki/Office_suite"
+        ]
       ],
       [
-        "1996-12-10",
-        null
+        [
+          "Office suite"
+        ],
+        [
+          "/wiki/Office_suite"
+        ]
       ]
     ],
     [
       [
-        "SYUN-016",
-        null
+        [
+          "OpenDocument Format (ODF)"
+        ],
+        [
+          "/wiki/OpenDocument"
+        ]
       ],
       [
-        "P-MODEL",
-        "/wiki/P-Model"
+        [
+          "OASIS",
+          "ISO",
+          "IEC"
+        ],
+        [
+          "/wiki/OASIS_(organization)",
+          "/wiki/International_Organisation_for_Standardisation",
+          "/wiki/International_Electrotechnical_Commission"
+        ]
       ],
       [
-        "Sankai no Jintai Chizu",
-        "/wiki/HTTP_404"
+        [
+          "2005"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VHS",
-        "/wiki/VHS"
+        [
+          "Office suite"
+        ],
+        [
+          "/wiki/Office_suite"
+        ]
       ],
       [
-        "1996-12-10",
-        null
+        [
+          "Office suite"
+        ],
+        [
+          "/wiki/Office_suite"
+        ]
       ]
     ],
     [
       [
-        "SYUN-017",
-        null
+        [
+          "Open Mathematical Documents (OMDoc)"
+        ],
+        [
+          "/wiki/OMDoc"
+        ]
       ],
       [
-        "Tadahiko Yokogawa",
-        "/wiki/HTTP_404"
+        [
+          "Michael Kohlhase"
+        ],
+        [
+          "/wiki/Michael_Kohlhase"
+        ]
       ],
       [
-        "solecism",
-        "/wiki/HTTP_404"
+        [
+          "2000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD",
-        "/wiki/Compact_Disc"
+        [
+          "Text",
+          "XML editor"
+        ],
+        [
+          "/wiki/Text_editor",
+          "/wiki/XML_editor"
+        ]
       ],
       [
-        "1997-10-24",
-        null
+        [
+          "XHTML",
+          "MathML",
+          "TeX"
+        ],
+        [
+          "/wiki/XHTML",
+          "/wiki/MathML",
+          "/wiki/TeX"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Org-mode"
+        ],
+        [
+          "/wiki/Org-mode"
+        ]
+      ],
+      [
+        [
+          "Org-mode project"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2003"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Emacs"
+        ],
+        [
+          "/wiki/Emacs"
+        ]
+      ],
+      [
+        [
+          "Emacs",
+          "HTML",
+          "PDF",
+          "DocBook",
+          "FreeMind",
+          "OpenDocument Format (ODF)"
+        ],
+        [
+          "/wiki/Emacs",
+          "/wiki/HTML",
+          "/wiki/Portable_Document_Format",
+          "/wiki/DocBook",
+          "/wiki/FreeMind",
+          "/wiki/OpenDocument"
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "Basic general information about the markup languages: creator, version, etc.",
   "idx": 10092
 }

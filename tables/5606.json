@@ -1,467 +1,1095 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_football_clubs_in_Italy",
-  "title": "List of football clubs in Italy",
+  "url": "https://en.wikipedia.org/wiki/Mobile_browser",
+  "title": "Mobile browser",
   "header": [
     [
-      "Team",
-      null
+      [
+        "Browser"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Home city",
-      null
+      [
+        "Creator"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Stadium",
-      null
+      [
+        "FOSS"
+      ],
+      [
+        "/wiki/Free_and_open_source_software"
+      ]
     ],
     [
-      "Capacity",
-      null
+      [
+        "layout engine"
+      ],
+      [
+        "/wiki/Browser_engine"
+      ]
     ],
     [
-      "2018\u201319 season",
-      null
+      [
+        "Software license"
+      ],
+      [
+        "/wiki/Software_license"
+      ]
+    ],
+    [
+      [
+        "Notes"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Atalanta",
-        "/wiki/Atalanta_B.C."
+        [
+          "Amazon Silk"
+        ],
+        [
+          "/wiki/Amazon_Silk"
+        ]
       ],
       [
-        "Bergamo",
-        "/wiki/Bergamo"
+        [
+          "Amazon.com"
+        ],
+        [
+          "/wiki/Amazon.com"
+        ]
       ],
       [
-        "Gewiss Stadium",
-        "/wiki/Stadio_Atleti_Azzurri_d%27Italia"
+        [
+          "Some"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "21,300",
-        null
+        [
+          "Blink"
+        ],
+        [
+          "/wiki/Blink_(layout_engine)"
+        ]
       ],
       [
-        "3rd in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "proprietary",
+          "LGPL"
+        ],
+        [
+          "/wiki/Proprietary_software",
+          "/wiki/GNU_Lesser_General_Public_License"
+        ]
+      ],
+      [
+        [
+          "Uses split architecture whereby all processing is performed on Amazon's servers"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bologna",
-        "/wiki/Bologna_F.C._1909"
+        [
+          "Android"
+        ],
+        [
+          "/wiki/Android_(operating_system)"
+        ]
       ],
       [
-        "Bologna",
-        "/wiki/Bologna"
+        [
+          "Google"
+        ],
+        [
+          "/wiki/Google"
+        ]
       ],
       [
-        "Stadio Renato Dall'Ara",
-        "/wiki/Stadio_Renato_Dall%27Ara"
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "38,279",
-        null
+        [
+          "WebKit"
+        ],
+        [
+          "/wiki/WebKit"
+        ]
       ],
       [
-        "10th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "BSD",
+          "LGPL"
+        ],
+        [
+          "/wiki/BSD_licenses",
+          "/wiki/GNU_Lesser_General_Public_License"
+        ]
+      ],
+      [
+        [
+          "Browser included with Android version 1.5 to version 4.1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Brescia",
-        "/wiki/Brescia_Calcio"
+        [
+          "BlackBerry"
+        ],
+        [
+          "/wiki/BlackBerry"
+        ]
       ],
       [
-        "Brescia",
-        "/wiki/Brescia"
+        [
+          "BlackBerry Ltd"
+        ],
+        [
+          "/wiki/BlackBerry_Limited"
+        ]
       ],
       [
-        "Stadio Mario Rigamonti",
-        "/wiki/Stadio_Mario_Rigamonti"
+        [
+          "Some"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "16,743",
-        null
+        [
+          "Webkit"
+        ],
+        [
+          "/wiki/Webkit"
+        ]
       ],
       [
-        "Serie B champions",
-        "/wiki/2018%E2%80%9319_Serie_B"
+        [
+          "proprietary",
+          "LGPL"
+        ],
+        [
+          "/wiki/Proprietary_software",
+          "/wiki/GNU_Lesser_General_Public_License"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Cagliari",
-        "/wiki/Cagliari_Calcio"
+        [
+          "Blazer"
+        ],
+        [
+          "/wiki/Blazer_(web_browser)"
+        ]
       ],
       [
-        "Cagliari",
-        "/wiki/Cagliari"
+        [
+          "Palm"
+        ],
+        [
+          "/wiki/Palm,_Inc."
+        ]
       ],
       [
-        "Sardegna Arena",
-        "/wiki/Sardegna_Arena"
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "16,233",
-        null
+        [
+          "NetFront"
+        ],
+        [
+          "/wiki/NetFront"
+        ]
       ],
       [
-        "15th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "Treos"
+        ],
+        [
+          "/wiki/Palm_Treo"
+        ]
       ]
     ],
     [
       [
-        "Fiorentina",
-        "/wiki/ACF_Fiorentina"
+        [
+          "Chrome"
+        ],
+        [
+          "/wiki/Google_Chrome"
+        ]
       ],
       [
-        "Florence",
-        "/wiki/Florence"
+        [
+          "Google"
+        ],
+        [
+          "/wiki/Google"
+        ]
       ],
       [
-        "Stadio Artemio Franchi",
-        "/wiki/Stadio_Artemio_Franchi"
+        [
+          "Some"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "43,147",
-        null
+        [
+          "WebKit",
+          "Blink"
+        ],
+        [
+          "/wiki/WebKit",
+          "/wiki/Blink_(web_engine)"
+        ]
       ],
       [
-        "16th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "Freeware",
+          "Chromium (web browser)"
+        ],
+        [
+          "/wiki/Freeware",
+          "/wiki/Chromium_(web_browser)"
+        ]
+      ],
+      [
+        [
+          "Android",
+          "Jelly Bean"
+        ],
+        [
+          "/wiki/Android_(operating_system)",
+          "/wiki/Android_Jelly_Bean"
+        ]
       ]
     ],
     [
       [
-        "Genoa",
-        "/wiki/Genoa_C.F.C."
+        [
+          "Dolphin Browser"
+        ],
+        [
+          "/wiki/Dolphin_Browser"
+        ]
       ],
       [
-        "Genoa",
-        "/wiki/Genoa"
+        [
+          "MoboTap"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stadio Luigi Ferraris",
-        "/wiki/Stadio_Luigi_Ferraris"
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "36,685",
-        null
+        [
+          "WebKit"
+        ],
+        [
+          "/wiki/WebKit"
+        ]
       ],
       [
-        "17th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "Bada"
+        ],
+        [
+          "/wiki/Bada"
+        ]
       ]
     ],
     [
       [
-        "Hellas Verona",
-        "/wiki/Hellas_Verona_F.C."
+        [
+          "Firefox for Mobile"
+        ],
+        [
+          "/wiki/Firefox_for_Mobile"
+        ]
       ],
       [
-        "Verona",
-        "/wiki/Verona"
+        [
+          "Mozilla"
+        ],
+        [
+          "/wiki/Mozilla"
+        ]
       ],
       [
-        "Stadio Marc'Antonio Bentegodi",
-        "/wiki/Stadio_Marc%27Antonio_Bentegodi"
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "39,211",
-        null
+        [
+          "Gecko",
+          "WebKit"
+        ],
+        [
+          "/wiki/Gecko_(software)",
+          "/wiki/WebKit"
+        ]
       ],
       [
-        "Serie B Playoff champions",
-        "/wiki/2018%E2%80%9319_Serie_B"
+        [
+          "MPL"
+        ],
+        [
+          "/wiki/Mozilla_Public_License"
+        ]
+      ],
+      [
+        [
+          "Firefox OS"
+        ],
+        [
+          "/wiki/Firefox_OS"
+        ]
       ]
     ],
     [
       [
-        "Internazionale",
-        "/wiki/Inter_Milan"
+        [
+          "Internet Explorer Mobile"
+        ],
+        [
+          "/wiki/Internet_Explorer_Mobile"
+        ]
       ],
       [
-        "Milan",
-        "/wiki/Milan"
+        [
+          "Microsoft"
+        ],
+        [
+          "/wiki/Microsoft"
+        ]
       ],
       [
-        "San Siro",
-        "/wiki/San_Siro"
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "80,018",
-        null
+        [
+          "Trident"
+        ],
+        [
+          "/wiki/Trident_(layout_engine)"
+        ]
       ],
       [
-        "4th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "Windows Phone",
+          "Windows Mobile"
+        ],
+        [
+          "/wiki/Windows_Phone",
+          "/wiki/Windows_Mobile"
+        ]
       ]
     ],
     [
       [
-        "Juventus",
-        "/wiki/Juventus_F.C."
+        [
+          "Iris Browser"
+        ],
+        [
+          "/wiki/Iris_Browser"
+        ]
       ],
       [
-        "Turin",
-        "/wiki/Turin"
+        [
+          "Torch Mobile"
+        ],
+        [
+          "/wiki/Torch_Mobile"
+        ]
       ],
       [
-        "Allianz Stadium",
-        "/wiki/Juventus_Stadium"
+        [
+          "Some"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "41,507",
-        null
+        [
+          "WebKit"
+        ],
+        [
+          "/wiki/WebKit"
+        ]
       ],
       [
-        "Serie A champions",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "proprietary",
+          "LGPL"
+        ],
+        [
+          "/wiki/Proprietary_software",
+          "/wiki/GNU_Lesser_General_Public_License"
+        ]
+      ],
+      [
+        [
+          "Research in Motion",
+          "Windows Mobile",
+          "Linux"
+        ],
+        [
+          "/wiki/Research_in_Motion",
+          "/wiki/Windows_Mobile",
+          "/wiki/Linux"
+        ]
       ]
     ],
     [
       [
-        "Lazio",
-        "/wiki/S.S._Lazio"
+        [
+          "Kindle"
+        ],
+        [
+          "/wiki/Amazon_Kindle"
+        ]
       ],
       [
-        "Rome",
-        "/wiki/Rome"
+        [
+          "Amazon.com"
+        ],
+        [
+          "/wiki/Amazon.com"
+        ]
       ],
       [
-        "Stadio Olimpico",
-        "/wiki/Stadio_Olimpico"
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "72,698",
-        null
+        [
+          "NetFront"
+        ],
+        [
+          "/wiki/NetFront"
+        ]
       ],
       [
-        "8th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "Labeled \"experimental\""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lecce",
-        "/wiki/US_Lecce"
+        [
+          "Microsoft Edge"
+        ],
+        [
+          "/wiki/Microsoft_Edge"
+        ]
       ],
       [
-        "Lecce",
-        "/wiki/Lecce"
+        [
+          "Microsoft"
+        ],
+        [
+          "/wiki/Microsoft"
+        ]
       ],
       [
-        "Stadio Via del Mare",
-        "/wiki/Stadio_Via_del_Mare"
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "33,876",
-        null
+        [
+          "EdgeHTML"
+        ],
+        [
+          "/wiki/EdgeHTML"
+        ]
       ],
       [
-        "2nd in Serie B",
-        "/wiki/2018%E2%80%9319_Serie_B"
+        [
+          "proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "Windows 10 Mobile"
+        ],
+        [
+          "/wiki/Windows_10_Mobile"
+        ]
       ]
     ],
     [
       [
-        "Milan",
-        "/wiki/A.C._Milan"
+        [
+          "Myriad Browser"
+        ],
+        [
+          "/wiki/Myriad_Group"
+        ]
       ],
       [
-        "Milan",
-        "/wiki/Milan"
+        [
+          "Myriad Group"
+        ],
+        [
+          "/wiki/Myriad_Group"
+        ]
       ],
       [
-        "San Siro",
-        "/wiki/San_Siro"
+        [
+          "Some"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "80,018",
-        null
+        [
+          "WebKit"
+        ],
+        [
+          "/wiki/WebKit"
+        ]
       ],
       [
-        "5th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "proprietary",
+          "LGPL"
+        ],
+        [
+          "/wiki/Proprietary_software",
+          "/wiki/GNU_Lesser_General_Public_License"
+        ]
+      ],
+      [
+        [
+          "Openwave"
+        ],
+        [
+          "/wiki/Openwave"
+        ]
       ]
     ],
     [
       [
-        "Napoli",
-        "/wiki/S.S.C._Napoli"
+        [
+          "NetFront"
+        ],
+        [
+          "/wiki/NetFront"
+        ]
       ],
       [
-        "Naples",
-        "/wiki/Naples"
+        [
+          "ACCESS Co., Ltd."
+        ],
+        [
+          "/wiki/Access_Co._Ltd."
+        ]
       ],
       [
-        "Stadio San Paolo",
-        "/wiki/Stadio_San_Paolo"
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "60,240",
-        null
+        [
+          "NetFront"
+        ],
+        [
+          "/wiki/NetFront"
+        ]
       ],
       [
-        "2nd in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Parma",
-        "/wiki/Parma_Calcio_1913"
+        [
+          "Nokia Series 40"
+        ],
+        [
+          "/wiki/Nokia_Series_40"
+        ]
       ],
       [
-        "Parma",
-        "/wiki/Parma"
+        [
+          "Nokia"
+        ],
+        [
+          "/wiki/Nokia"
+        ]
       ],
       [
-        "Stadio Ennio Tardini",
-        "/wiki/Stadio_Ennio_Tardini"
+        [
+          "Some"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "27,906",
-        null
+        [
+          "WebKit"
+        ],
+        [
+          "/wiki/WebKit"
+        ]
       ],
       [
-        "14th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "proprietary",
+          "LGPL"
+        ],
+        [
+          "/wiki/Proprietary_software",
+          "/wiki/GNU_Lesser_General_Public_License"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Roma",
-        "/wiki/A.S._Roma"
+        [
+          "Opera Mini"
+        ],
+        [
+          "/wiki/Opera_Mini"
+        ]
       ],
       [
-        "Rome",
-        "/wiki/Rome"
+        [
+          "Opera Software"
+        ],
+        [
+          "/wiki/Opera_Software"
+        ]
       ],
       [
-        "Stadio Olimpico",
-        "/wiki/Stadio_Olimpico"
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "72,698",
-        null
+        [
+          "Presto"
+        ],
+        [
+          "/wiki/Presto_(layout_engine)"
+        ]
       ],
       [
-        "6th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "Capable of pre-processing web pages and formatting for small screens"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Sampdoria",
-        "/wiki/U.C._Sampdoria"
+        [
+          "Opera Mobile"
+        ],
+        [
+          "/wiki/Opera_Mobile"
+        ]
       ],
       [
-        "Genoa",
-        "/wiki/Genoa"
+        [
+          "Opera Software"
+        ],
+        [
+          "/wiki/Opera_Software"
+        ]
       ],
       [
-        "Stadio Luigi Ferraris",
-        "/wiki/Stadio_Luigi_Ferraris"
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "36,685",
-        null
+        [
+          "Presto",
+          "Blink"
+        ],
+        [
+          "/wiki/Presto_(layout_engine)",
+          "/wiki/Blink_(web_engine)"
+        ]
       ],
       [
-        "9th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "Capable of reading HTML and can reformat for small screens"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Sassuolo",
-        "/wiki/U.S._Sassuolo_Calcio"
+        [
+          "PlayStation Portable web browser"
+        ],
+        [
+          "/wiki/PSP_browser"
+        ]
       ],
       [
-        "Sassuolo",
-        "/wiki/Sassuolo"
+        [
+          "Sony"
+        ],
+        [
+          "/wiki/Sony"
+        ]
       ],
       [
-        "Mapei Stadium \u2013 Citt\u00e0 del Tricolore",
-        "/wiki/Mapei_Stadium_%E2%80%93_Citt%C3%A0_del_Tricolore"
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "23,717",
-        null
+        [
+          "NetFront"
+        ],
+        [
+          "/wiki/NetFront"
+        ]
       ],
       [
-        "11th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "SPAL",
-        "/wiki/S.P.A.L."
+        [
+          "Polaris Browser"
+        ],
+        [
+          "/wiki/Polaris_Browser"
+        ]
       ],
       [
-        "Ferrara",
-        "/wiki/Ferrara"
+        [
+          "Infraware Inc."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stadio Paolo Mazza",
-        "/wiki/Stadio_Paolo_Mazza"
+        [
+          "Some"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "16,164",
-        null
+        [
+          "WebKit"
+        ],
+        [
+          "/wiki/WebKit"
+        ]
       ],
       [
-        "13th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "proprietary",
+          "LGPL"
+        ],
+        [
+          "/wiki/Proprietary_software",
+          "/wiki/GNU_Lesser_General_Public_License"
+        ]
+      ],
+      [
+        [
+          "Nokia, Samsung, Kyocera and other phones sold in the US, China, South Korea, etc."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Torino",
-        "/wiki/Torino_F.C."
+        [
+          "S60 web browser"
+        ],
+        [
+          "/wiki/Web_Browser_for_S60"
+        ]
       ],
       [
-        "Turin",
-        "/wiki/Turin"
+        [
+          "Nokia"
+        ],
+        [
+          "/wiki/Nokia"
+        ]
       ],
       [
-        "Stadio Olimpico Grande Torino",
-        "/wiki/Stadio_Olimpico_Grande_Torino"
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "27,994",
-        null
+        [
+          "WebKit"
+        ],
+        [
+          "/wiki/WebKit"
+        ]
       ],
       [
-        "7th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "LGPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ],
+      [
+        [
+          "S60 phones"
+        ],
+        [
+          "/wiki/S60_(software_platform)"
+        ]
       ]
     ],
     [
       [
-        "Udinese",
-        "/wiki/Udinese_Calcio"
+        [
+          "Safari"
+        ],
+        [
+          "/wiki/Safari_(web_browser)"
+        ]
       ],
       [
-        "Udine",
-        "/wiki/Udine"
+        [
+          "Apple Inc."
+        ],
+        [
+          "/wiki/Apple_Inc."
+        ]
       ],
       [
-        "Stadio Friuli",
-        "/wiki/Stadio_Friuli"
+        [
+          "Some"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "25,132",
-        null
+        [
+          "WebKit",
+          "WebCore"
+        ],
+        [
+          "/wiki/WebKit",
+          "/wiki/WebCore"
+        ]
       ],
       [
-        "12th in Serie A",
-        "/wiki/2018%E2%80%9319_Serie_A"
+        [
+          "proprietary",
+          "LGPL"
+        ],
+        [
+          "/wiki/Proprietary_software",
+          "/wiki/GNU_Lesser_General_Public_License"
+        ]
+      ],
+      [
+        [
+          "iOS",
+          "iPhone",
+          "iPod Touch",
+          "iPad"
+        ],
+        [
+          "/wiki/IOS",
+          "/wiki/IPhone",
+          "/wiki/IPod_Touch",
+          "/wiki/IPad"
+        ]
       ]
     ]
   ],

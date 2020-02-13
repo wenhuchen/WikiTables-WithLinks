@@ -1,247 +1,559 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2010_Faroe_Islands_Premier_League",
-  "title": "2010 Faroe Islands Premier League",
+  "url": "https://en.wikipedia.org/wiki/List_of_build_automation_software",
+  "title": "List of build automation software",
   "header": [
     [
-      "Team",
-      null
+      [
+        "Tool name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "City",
-      null
+      [
+        "Description language"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Stadium",
-      null
-    ],
-    [
-      "Capacity",
-      null
-    ],
-    [
-      "Manager",
-      null
+      [
+        "License"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "AB",
-        "/wiki/Argja_B%C3%B3ltfelag"
+        [
+          "A-A-P"
+        ],
+        [
+          "/wiki/A-A-P"
+        ]
       ],
       [
-        "Argir",
-        "/wiki/Argir"
+        [
+          "recipe"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Inni \u00ed Vika",
-        "/wiki/Inni_%C3%AD_Vika"
-      ],
-      [
-        "2,000",
-        null
-      ],
-      [
-        "Samal Erik Hentze",
-        "/wiki/HTTP_404"
+        [
+          "GNU GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "B36",
-        "/wiki/B36_T%C3%B3rshavn"
+        [
+          "Ant"
+        ],
+        [
+          "/wiki/Apache_Ant"
+        ]
       ],
       [
-        "T\u00f3rshavn",
-        "/wiki/T%C3%B3rshavn"
+        [
+          "XML"
+        ],
+        [
+          "/wiki/XML"
+        ]
       ],
       [
-        "Gundadalur",
-        "/wiki/Gundadalur"
-      ],
-      [
-        "5,000",
-        null
-      ],
-      [
-        "Allan M\u00f8rk\u00f8re",
-        "/wiki/Allan_M%C3%B8rk%C3%B8re"
+        [
+          "Apache License 2.0"
+        ],
+        [
+          "/wiki/Apache_License_2.0"
+        ]
       ]
     ],
     [
       [
-        "B68",
-        "/wiki/B68_Toftir"
+        [
+          "AnthillPro"
+        ],
+        [
+          "/wiki/AnthillPro"
+        ]
       ],
       [
-        "Toftir",
-        "/wiki/Toftir"
+        [
+          "Wraps Make, Ant, Maven, MsBuild, Nant, etc. for controlled build, deploy, test processes."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Svangaskar\u00f0",
-        "/wiki/Svangaskar%C3%B0"
-      ],
-      [
-        "6,000",
-        null
-      ],
-      [
-        "Bill McLeod Jacobsen",
-        "/wiki/Bill_McLeod_Jacobsen"
+        [
+          "Discontinued"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "B71",
-        "/wiki/B71_Sandoy"
+        [
+          "Bamboo"
+        ],
+        [
+          "/wiki/Atlassian_bamboo"
+        ]
       ],
       [
-        "Sandur",
-        "/wiki/Sandur_(Faroe_Islands)"
+        [
+          "continuous integration"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Inni \u00ed Dal",
-        "/wiki/Inni_%C3%AD_Dal"
-      ],
-      [
-        "2,000",
-        null
-      ],
-      [
-        "",
-        null
+        [
+          "Trialware"
+        ],
+        [
+          "/wiki/Trialware"
+        ]
       ]
     ],
     [
       [
-        "EB/Streymur",
-        "/wiki/EB/Streymur"
+        [
+          "Bazel"
+        ],
+        [
+          "/wiki/Bazel_(software)"
+        ]
       ],
       [
-        "Streymnes",
-        "/wiki/Streymnes"
+        [
+          "BUILD/Starlark, a Python-like DSL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Vi\u00f0 Marg\u00e1ir",
-        "/wiki/Vi%C3%B0_Marg%C3%A1ir"
-      ],
-      [
-        "1,000",
-        null
-      ],
-      [
-        "He\u00f0in Askham",
-        "/wiki/HTTP_404"
+        [
+          "Apache License 2.0"
+        ],
+        [
+          "/wiki/Apache_License_2.0"
+        ]
       ]
     ],
     [
       [
-        "FC Su\u00f0uroy",
-        "/wiki/FC_Su%C3%B0uroy"
+        [
+          "BuildAMation"
+        ],
+        [
+          "/wiki/BuildAMation"
+        ]
       ],
       [
-        "V\u00e1gur",
-        "/wiki/V%C3%A1gur"
+        [
+          "C#",
+          "XML"
+        ],
+        [
+          "/wiki/C_Sharp_(programming_language)",
+          "/wiki/XML"
+        ]
       ],
       [
-        "\u00e1 Ei\u00f0inum",
-        "/wiki/%C3%81_Ei%C3%B0inum"
-      ],
-      [
-        "3,000",
-        null
-      ],
-      [
-        "J\u00f3n Pauli Olsen",
-        "/wiki/J%C3%B3n_Pauli_Olsen"
+        [
+          "New BSD License"
+        ],
+        [
+          "/wiki/New_BSD_License"
+        ]
       ]
     ],
     [
       [
-        "HB",
-        "/wiki/Havnar_B%C3%B3ltfelag"
+        [
+          "Buildr"
+        ],
+        [
+          "/wiki/Apache_Buildr"
+        ]
       ],
       [
-        "T\u00f3rshavn",
-        "/wiki/T%C3%B3rshavn"
+        [
+          "Ruby"
+        ],
+        [
+          "/wiki/Ruby_(programming_language)"
+        ]
       ],
       [
-        "Gundadalur",
-        "/wiki/Gundadalur"
-      ],
-      [
-        "5,000",
-        null
-      ],
-      [
-        "Julian Hansen",
-        "/wiki/Julian_Hansen"
+        [
+          "Apache License 2.0"
+        ],
+        [
+          "/wiki/Apache_License_2.0"
+        ]
       ]
     ],
     [
       [
-        "\u00cdF",
-        "/wiki/%C3%8DF_Fuglafj%C3%B8r%C3%B0ur"
+        [
+          "Boot"
+        ],
+        [
+          "/wiki/Boot_(software)"
+        ]
       ],
       [
-        "Fuglafj\u00f8r\u00f0ur",
-        "/wiki/Fuglafj%C3%B8r%C3%B0ur"
+        [
+          "Clojure"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\u00ed Fl\u00f8tuger\u00f0i",
-        "/wiki/%C3%8D_Fl%C3%B8tuger%C3%B0i"
-      ],
-      [
-        "3,000",
-        null
-      ],
-      [
-        "Abraham L\u00f8kin",
-        "/wiki/Abraham_L%C3%B8kin"
+        [
+          "Eclipse Public License"
+        ],
+        [
+          "/wiki/Eclipse_Public_License"
+        ]
       ]
     ],
     [
       [
-        "NS\u00cd",
-        "/wiki/NS%C3%8D_Runav%C3%ADk"
+        [
+          "Capistrano"
+        ],
+        [
+          "/wiki/Capistrano_(software)"
+        ]
       ],
       [
-        "Runav\u00edk",
-        "/wiki/Runav%C3%ADk"
+        [
+          "XML"
+        ],
+        [
+          "/wiki/XML"
+        ]
       ],
       [
-        "Vi\u00f0 L\u00f8kin",
-        "/wiki/Vi%C3%B0_L%C3%B8kin"
-      ],
-      [
-        "2,000",
-        null
-      ],
-      [
-        "Pauli Poulsen",
-        "/wiki/HTTP_404"
+        [
+          "MIT License"
+        ],
+        [
+          "/wiki/MIT_License"
+        ]
       ]
     ],
     [
       [
-        "V\u00edkingur",
-        "/wiki/V%C3%ADkingur_G%C3%B8ta"
+        [
+          "CMake"
+        ],
+        [
+          "/wiki/CMake"
+        ]
       ],
       [
-        "Nor\u00f0rag\u00f8ta",
-        "/wiki/Nor%C3%B0rag%C3%B8ta"
+        [
+          "uses CMakeLists.txt file"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sarpuger\u00f0i",
-        "/wiki/Sarpuger%C3%B0i"
+        [
+          "New BSD License"
+        ],
+        [
+          "/wiki/New_BSD_License"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Cake"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2,000",
-        null
+        [
+          "C#, .NET, .NET core.  Uses C# written cake file"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "J\u00f3gvan Martin Olsen",
-        "/wiki/J%C3%B3gvan_Martin_Olsen"
+        [
+          "MIT License"
+        ],
+        [
+          "/wiki/MIT_License"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Collective Knowledge Framework"
+        ],
+        [
+          "/wiki/Collective_Knowledge_(software)"
+        ]
+      ],
+      [
+        [
+          "Python",
+          "JSON",
+          "JSON"
+        ],
+        [
+          "/wiki/Python_(language)",
+          "/wiki/JSON",
+          "/wiki/JSON"
+        ]
+      ],
+      [
+        [
+          "New BSD License"
+        ],
+        [
+          "/wiki/New_BSD_License"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Continuum"
+        ],
+        [
+          "/wiki/Apache_Continuum"
+        ]
+      ],
+      [
+        [
+          "?"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Apache License 2.0"
+        ],
+        [
+          "/wiki/Apache_License_2.0"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "CruiseControl"
+        ],
+        [
+          "/wiki/CruiseControl"
+        ]
+      ],
+      [
+        [
+          "XML"
+        ],
+        [
+          "/wiki/XML"
+        ]
+      ],
+      [
+        [
+          "BSD"
+        ],
+        [
+          "/wiki/BSD_licenses"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "FinalBuilder"
+        ],
+        [
+          "/wiki/FinalBuilder"
+        ]
+      ],
+      [
+        [
+          "IronPython",
+          "PowerShell"
+        ],
+        [
+          "/wiki/IronPython",
+          "/wiki/Windows_PowerShell"
+        ]
+      ],
+      [
+        [
+          "Trialware"
+        ],
+        [
+          "/wiki/Trialware"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Gradle"
+        ],
+        [
+          "/wiki/Gradle"
+        ]
+      ],
+      [
+        [
+          "Groovy-based DSL"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Apache License 2.0"
+        ],
+        [
+          "/wiki/Apache_License_2.0"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Jenkins"
+        ],
+        [
+          "/wiki/Jenkins_(software)"
+        ]
+      ],
+      [
+        [
+          "continuous integration"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MIT License"
+        ],
+        [
+          "/wiki/MIT_License"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Homebrew"
+        ],
+        [
+          "/wiki/Homebrew_(package_management_software)"
+        ]
+      ],
+      [
+        [
+          "Ruby"
+        ],
+        [
+          "/wiki/Ruby_(programming_language)"
+        ]
+      ],
+      [
+        [
+          "Simplified BSD License"
+        ],
+        [
+          "/wiki/Simplified_BSD_License"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Leiningen"
+        ],
+        [
+          "/wiki/Leiningen_(software)"
+        ]
+      ],
+      [
+        [
+          "Clojure"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Eclipse Public License"
+        ],
+        [
+          "/wiki/Eclipse_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "make"
+        ],
+        [
+          "/wiki/Make_(software)"
+        ]
+      ],
+      [
+        [
+          "uses Makefile"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Same as the bundling OS"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

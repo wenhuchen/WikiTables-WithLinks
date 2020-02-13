@@ -3,201 +3,381 @@
   "title": "1967 College Baseball All-America Team",
   "header": [
     [
-      "Position",
-      null
+      [
+        "Position"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Name",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "School",
-      null
+      [
+        "School"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Notes",
-      null
+      [
+        "Notes"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Pitcher",
-        "/wiki/Pitcher"
+        [
+          "Pitcher"
+        ],
+        [
+          "/wiki/Pitcher"
+        ]
       ],
       [
-        "Gary Gentry",
-        "/wiki/Gary_Gentry"
+        [
+          "Gary Gentry"
+        ],
+        [
+          "/wiki/Gary_Gentry"
+        ]
       ],
       [
-        "Arizona State",
-        "/wiki/Arizona_State_Sun_Devils_baseball"
+        [
+          "Arizona State"
+        ],
+        [
+          "/wiki/Arizona_State_Sun_Devils_baseball"
+        ]
       ],
       [
-        "strikeouts",
-        "/wiki/Strikeouts"
+        [
+          "strikeouts"
+        ],
+        [
+          "/wiki/Strikeouts"
+        ]
       ]
     ],
     [
       [
-        "Pitcher",
-        "/wiki/Pitcher"
+        [
+          "Pitcher"
+        ],
+        [
+          "/wiki/Pitcher"
+        ]
       ],
       [
-        "Q.V. Lowe",
-        "/wiki/Q.V._Lowe"
+        [
+          "Q.V. Lowe"
+        ],
+        [
+          "/wiki/Q.V._Lowe"
+        ]
       ],
       [
-        "Auburn",
-        "/wiki/Auburn_Tigers_baseball"
+        [
+          "Auburn"
+        ],
+        [
+          "/wiki/Auburn_Tigers_baseball"
+        ]
       ],
       [
-        "H/9",
-        "/wiki/Hits_per_nine_innings"
+        [
+          "H/9"
+        ],
+        [
+          "/wiki/Hits_per_nine_innings"
+        ]
       ]
     ],
     [
       [
-        "Catcher",
-        "/wiki/Catcher"
+        [
+          "Catcher"
+        ],
+        [
+          "/wiki/Catcher"
+        ]
       ],
       [
-        "Tony Sellari",
-        "/wiki/HTTP_404"
+        [
+          "Tony Sellari"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Oklahoma State",
-        "/wiki/Oklahoma_State_Cowboys_baseball"
+        [
+          "Oklahoma State"
+        ],
+        [
+          "/wiki/Oklahoma_State_Cowboys_baseball"
+        ]
       ],
       [
-        "",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "First baseman",
-        "/wiki/First_baseman"
+        [
+          "First baseman"
+        ],
+        [
+          "/wiki/First_baseman"
+        ]
       ],
       [
-        "Mark Marquess",
-        "/wiki/Mark_Marquess"
+        [
+          "Mark Marquess"
+        ],
+        [
+          "/wiki/Mark_Marquess"
+        ]
       ],
       [
-        "Stanford",
-        "/wiki/Stanford_Cardinal_baseball"
+        [
+          "Stanford"
+        ],
+        [
+          "/wiki/Stanford_Cardinal_baseball"
+        ]
       ],
       [
-        "1987,1988 College World Series,Stanford",
-        "/wiki/1987_College_World_Series /wiki/1988_College_World_Series /wiki/Stanford_Cardinal_baseball"
+        [
+          "1987",
+          "1988 College World Series",
+          "Stanford"
+        ],
+        [
+          "/wiki/1987_College_World_Series",
+          "/wiki/1988_College_World_Series",
+          "/wiki/Stanford_Cardinal_baseball"
+        ]
       ]
     ],
     [
       [
-        "Second baseman",
-        "/wiki/Second_baseman"
+        [
+          "Second baseman"
+        ],
+        [
+          "/wiki/Second_baseman"
+        ]
       ],
       [
-        "Rusty Adkins",
-        "/wiki/HTTP_404"
+        [
+          "Rusty Adkins"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Clemson",
-        "/wiki/Clemson_Tigers_baseball"
+        [
+          "Clemson"
+        ],
+        [
+          "/wiki/Clemson_Tigers_baseball"
+        ]
       ],
       [
-        "",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Third baseman",
-        "/wiki/Third_baseman"
+        [
+          "Third baseman"
+        ],
+        [
+          "/wiki/Third_baseman"
+        ]
       ],
       [
-        "Jesse Hodges",
-        "/wiki/HTTP_404"
+        [
+          "Jesse Hodges"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Temple",
-        "/wiki/Temple_Owls"
+        [
+          "Temple"
+        ],
+        [
+          "/wiki/Temple_Owls"
+        ]
       ],
       [
-        "",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Shortstop",
-        "/wiki/Shortstop"
+        [
+          "Shortstop"
+        ],
+        [
+          "/wiki/Shortstop"
+        ]
       ],
       [
-        "Eddie Leon",
-        "/wiki/Eddie_Leon"
+        [
+          "Eddie Leon"
+        ],
+        [
+          "/wiki/Eddie_Leon"
+        ]
       ],
       [
-        "Arizona",
-        "/wiki/Arizona_Wildcats_baseball"
+        [
+          "Arizona"
+        ],
+        [
+          "/wiki/Arizona_Wildcats_baseball"
+        ]
       ],
       [
-        "triples",
-        "/wiki/Triple_(baseball)"
+        [
+          "triples"
+        ],
+        [
+          "/wiki/Triple_(baseball)"
+        ]
       ]
     ],
     [
       [
-        "Outfielder",
-        "/wiki/Outfielder"
+        [
+          "Outfielder"
+        ],
+        [
+          "/wiki/Outfielder"
+        ]
       ],
       [
-        "Scott Reid",
-        "/wiki/Scott_Reid_(baseball)"
+        [
+          "Scott Reid"
+        ],
+        [
+          "/wiki/Scott_Reid_(baseball)"
+        ]
       ],
       [
-        "Arizona State",
-        "/wiki/Arizona_State_Sun_Devils_baseball"
+        [
+          "Arizona State"
+        ],
+        [
+          "/wiki/Arizona_State_Sun_Devils_baseball"
+        ]
       ],
       [
-        "",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Outfielder",
-        "/wiki/Outfielder"
+        [
+          "Outfielder"
+        ],
+        [
+          "/wiki/Outfielder"
+        ]
       ],
       [
-        "Tom Paciorek",
-        "/wiki/Tom_Paciorek"
+        [
+          "Tom Paciorek"
+        ],
+        [
+          "/wiki/Tom_Paciorek"
+        ]
       ],
       [
-        "Houston",
-        "/wiki/Houston_Cougars_baseball"
+        [
+          "Houston"
+        ],
+        [
+          "/wiki/Houston_Cougars_baseball"
+        ]
       ],
       [
-        "1981 AL All-Star",
-        "/wiki/1981_Major_League_Baseball_All-Star_Game"
+        [
+          "1981 AL All-Star"
+        ],
+        [
+          "/wiki/1981_Major_League_Baseball_All-Star_Game"
+        ]
       ]
     ],
     [
       [
-        "Outfielder",
-        "/wiki/Outfielder"
+        [
+          "Outfielder"
+        ],
+        [
+          "/wiki/Outfielder"
+        ]
       ],
       [
-        "Roy Shoup",
-        "/wiki/HTTP_404"
+        [
+          "Roy Shoup"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ohio State",
-        "/wiki/Ohio_State_Buckeyes_baseball"
+        [
+          "Ohio State"
+        ],
+        [
+          "/wiki/Ohio_State_Buckeyes_baseball"
+        ]
       ],
       [
-        "",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

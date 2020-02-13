@@ -1,383 +1,859 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Parables_of_Jesus",
-  "title": "Parables of Jesus",
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_bus_interfaces",
+  "title": "List of computer bus interfaces",
   "header": [
     [
-      "Number",
-      null
+      [
+        "Interface name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Event",
-      null
+      [
+        "Year introduced"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Matthew",
-      null
+      [
+        "Connector"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Luke",
-      null
+      [
+        "Max transfer"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Main use"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Notes"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "CAMAC"
+        ],
+        [
+          "/wiki/Computer_Automated_Measurement_and_Control"
+        ]
       ],
       [
-        "The Growing Seed",
-        "/wiki/The_Growing_Seed"
+        [
+          "1972"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Processor independent"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Industry use."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "S-100"
+        ],
+        [
+          "/wiki/S-100_bus"
+        ]
       ],
       [
-        "The Two Debtors",
-        "/wiki/The_Two_Debtors"
+        [
+          "1974"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "2\u00d750 2.54\u00a0mm card edge"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Luke 7:41\u201343",
-        "/wiki/HTTP_404"
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Intel 8080"
+        ],
+        [
+          "/wiki/Intel_8080"
+        ]
+      ],
+      [
+        [
+          "Homebrew and industry use."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "VME"
+        ],
+        [
+          "/wiki/VMEbus"
+        ]
       ],
       [
-        "The Lamp under a Bushel",
-        "/wiki/The_Lamp_under_a_Bushel"
+        [
+          "1981"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matthew 5:14\u201315",
-        "/wiki/HTTP_404"
+        [
+          "DIN 41612"
+        ],
+        [
+          "/wiki/DIN_41612"
+        ]
       ],
       [
-        "Luke 8:16\u201318",
-        "/wiki/HTTP_404"
+        [
+          "10 MByte/s"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Motorola 68000"
+        ],
+        [
+          "/wiki/Motorola_68000"
+        ]
+      ],
+      [
+        [
+          "Industry use."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "STEbus"
+        ],
+        [
+          "/wiki/STEbus"
+        ]
       ],
       [
-        "Parable of the Good Samaritan",
-        "/wiki/Parable_of_the_Good_Samaritan"
+        [
+          "1983"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "DIN 41612"
+        ],
+        [
+          "/wiki/DIN_41612"
+        ]
       ],
       [
-        "Luke 10:25\u201337",
-        "/wiki/HTTP_404"
+        [
+          "?"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Processor independent based"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Eurocard"
+        ],
+        [
+          "/wiki/Eurocard_(printed_circuit_board)"
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Acorn system bus"
+        ],
+        [
+          "/wiki/Acorn_Eurocard_systems"
+        ]
       ],
       [
-        "The Friend at Night",
-        "/wiki/The_Friend_at_Night"
+        [
+          "1979"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "DIN 41612"
+        ],
+        [
+          "/wiki/DIN_41612"
+        ]
       ],
       [
-        "Luke 11:5\u20138",
-        "/wiki/HTTP_404"
+        [
+          "?"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "6502 based"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "8-bit data / 16-bit address."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "ISA-8"
+        ],
+        [
+          "/wiki/Industry_Standard_Architecture"
+        ]
       ],
       [
-        "The Rich Fool",
-        "/wiki/The_Rich_Fool"
+        [
+          "1981"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "2\u00d731 2.54\u00a0mm"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Luke 12:16\u201321",
-        "/wiki/HTTP_404"
+        [
+          "1.99\u00a0MByte/s"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "IBM PC"
+        ],
+        [
+          "/wiki/IBM_Personal_Computer"
+        ]
+      ],
+      [
+        [
+          "Widespread."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "ISA-16"
+        ],
+        [
+          "/wiki/Industry_Standard_Architecture"
+        ]
       ],
       [
-        "The Wise and the Foolish Builders",
-        "/wiki/The_Wise_and_the_Foolish_Builders"
+        [
+          "1984"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matthew 7:24\u201327",
-        "/wiki/HTTP_404"
+        [
+          "2\u00d731 + 2\u00d718 2.54\u00a0mm"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Luke 6:46\u201349",
-        "/wiki/HTTP_404"
+        [
+          "3.97\u00a0MByte/s"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "IBM AT"
+        ],
+        [
+          "/wiki/IBM_Personal_Computer/AT"
+        ]
+      ],
+      [
+        [
+          "Widespread."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "Amiga Zorro II"
+        ],
+        [
+          "/wiki/Amiga_Zorro_II"
+        ]
       ],
       [
-        "New Wine into Old Wineskins",
-        "/wiki/New_Wine_into_Old_Wineskins"
+        [
+          "1985"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matthew 9:16\u201317",
-        "/wiki/HTTP_404"
+        [
+          "2\u00d750 2.54\u00a0mm"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Luke 5:37\u201339",
-        "/wiki/HTTP_404"
+        [
+          "3.56\u00a0MByte/s"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Amiga"
+        ],
+        [
+          "/wiki/Amiga"
+        ]
+      ],
+      [
+        [
+          "Auto configuration."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "EISA"
+        ],
+        [
+          "/wiki/Extended_Industry_Standard_Architecture"
+        ]
       ],
       [
-        "Parable of the strong man",
-        "/wiki/Parable_of_the_strong_man"
+        [
+          "1988"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matthew 12:29\u201329",
-        "/wiki/HTTP_404"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Luke 11:21\u201322",
-        "/wiki/HTTP_404"
+        [
+          "20\u00a0MByte/s"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "IBM clones"
+        ],
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "32-bit version of ISA-16 more or less."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "NuBus"
+        ],
+        [
+          "/wiki/NuBus"
+        ]
       ],
       [
-        "Parable of the Sower",
-        "/wiki/Parable_of_the_Sower"
+        [
+          "1987"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matthew 13:3\u20139",
-        "/wiki/HTTP_404"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Luke 8:5\u20138",
-        "/wiki/HTTP_404"
+        [
+          "40 MByte/s"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "NeXT",
+          "Macintosh II"
+        ],
+        [
+          "/wiki/NeXT",
+          "/wiki/Macintosh_II"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "11",
-        null
+        [
+          "Amiga Zorro III"
+        ],
+        [
+          "/wiki/Amiga_Zorro_III"
+        ]
       ],
       [
-        "The Tares",
-        "/wiki/The_Tares"
+        [
+          "1990"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matthew 13:24\u201330",
-        "/wiki/HTTP_404"
+        [
+          "2\u00d750 2.54\u00a0mm"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "150\u00a0MByte/s"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Amiga"
+        ],
+        [
+          "/wiki/Amiga"
+        ]
+      ],
+      [
+        [
+          "Multiplexed 32-bit."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "12",
-        null
+        [
+          "PDS"
+        ],
+        [
+          "/wiki/Processor_Direct_Slot"
+        ]
       ],
       [
-        "The Barren Fig Tree",
-        "/wiki/The_Barren_Fig_Tree"
+        [
+          "1990"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Luke 13:6\u20139",
-        "/wiki/HTTP_404"
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Macintosh LC"
+        ],
+        [
+          "/wiki/Macintosh_LC"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "13",
-        null
+        [
+          "PCI-32/33"
+        ],
+        [
+          "/wiki/Conventional_PCI"
+        ]
       ],
       [
-        "Parable of the Mustard Seed",
-        "/wiki/Parable_of_the_Mustard_Seed"
+        [
+          "1993"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matthew 13:31\u201332",
-        "/wiki/HTTP_404"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Luke 13:18\u201319",
-        "/wiki/HTTP_404"
+        [
+          "133\u00a0MByte/s"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Widespread."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "14",
-        null
+        [
+          "PCI Express"
+        ],
+        [
+          "/wiki/PCI_Express"
+        ]
       ],
       [
-        "The Leaven",
-        "/wiki/The_Leaven"
+        [
+          "2004"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matthew 13:33\u201333",
-        "/wiki/HTTP_404"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Luke 13:20\u201321",
-        "/wiki/HTTP_404"
+        [
+          "250\u00a0MByte/s"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "P2P"
+        ],
+        [
+          "/wiki/Point-to-point_(telecommunications)"
+        ]
       ]
     ],
     [
       [
-        "15",
-        null
+        [
+          "VPX"
+        ],
+        [
+          "/wiki/VPX"
+        ]
       ],
       [
-        "Parable of the Pearl",
-        "/wiki/Parable_of_the_Pearl"
+        [
+          "2004"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matthew 13:45\u201346",
-        "/wiki/HTTP_404"
+        [
+          "MultiGig RT2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "?"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "switched fabrics",
+          "OpenVPX"
+        ],
+        [
+          "/wiki/Switched_fabric",
+          "/wiki/OpenVPX"
+        ]
+      ],
+      [
+        [
+          "VPX computer bus standard - V -VME and P -PCI and X the extents for both buses standards."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "16",
-        null
+        [
+          "VXI"
+        ],
+        [
+          "/wiki/VME_eXtensions_for_Instrumentation"
+        ]
       ],
       [
-        "Drawing in the Net",
-        "/wiki/Drawing_in_the_Net"
+        [
+          "1987"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matthew 13:47\u201350",
-        "/wiki/HTTP_404"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
-      ]
-    ],
-    [
-      [
-        "17",
-        null
+        [
+          "160 MByte/s"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "The Hidden Treasure",
-        "/wiki/The_Hidden_Treasure"
+        [
+          "Multivendor standard for automated testing expansion cards. Working group is VXIConsortium."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matthew 13:44",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "",
-        null
-      ]
-    ],
-    [
-      [
-        "18",
-        null
-      ],
-      [
-        "Counting the Cost",
-        "/wiki/Counting_the_Cost"
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "Luke 14:28\u201333",
-        "/wiki/HTTP_404"
-      ]
-    ],
-    [
-      [
-        "19",
-        null
-      ],
-      [
-        "The Lost Sheep",
-        "/wiki/The_Lost_Sheep"
-      ],
-      [
-        "Matthew 18:10\u201314",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Luke 15:4\u20136",
-        "/wiki/HTTP_404"
-      ]
-    ],
-    [
-      [
-        "20",
-        null
-      ],
-      [
-        "The Unforgiving Servant",
-        "/wiki/The_Unforgiving_Servant"
-      ],
-      [
-        "Matthew 18:23\u201335",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

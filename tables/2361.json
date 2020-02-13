@@ -1,383 +1,889 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_radio_stations_in_Auckland",
-  "title": "List of radio stations in Auckland",
+  "url": "https://en.wikipedia.org/wiki/Media_in_Vancouver",
+  "title": "Media in Vancouver",
   "header": [
     [
-      "Frequency",
-      null
+      [
+        "Frequency"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Name",
-      null
+      [
+        "Call sign"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Format",
-      null
+      [
+        "Branding"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Broadcast area",
-      null
+      [
+        "Format"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Owner"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "87.6",
-        null
+        [
+          "AM 650"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matakana School",
-        "/wiki/Matakana#Education"
+        [
+          "CISL"
+        ],
+        [
+          "/wiki/CISL_(AM)"
+        ]
       ],
       [
-        "Student radio",
-        "/wiki/Student_radio"
+        [
+          "Sportsnet 650"
+        ],
+        [
+          "/wiki/Sportsnet_Radio"
+        ]
       ],
       [
-        "Matakana",
-        "/wiki/Matakana"
+        [
+          "Sports"
+        ],
+        [
+          "/wiki/Sports_radio"
+        ]
+      ],
+      [
+        [
+          "Rogers Media"
+        ],
+        [
+          "/wiki/Rogers_Media"
+        ]
       ]
     ],
     [
       [
-        "87.6",
-        null
+        [
+          "AM 690"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Radio Luke",
-        null
+        [
+          "CBU"
+        ],
+        [
+          "/wiki/CBU_(AM)"
+        ]
       ],
       [
-        "Christian radio",
-        "/wiki/Christian_radio"
+        [
+          "CBC Radio One"
+        ],
+        [
+          "/wiki/CBC_Radio_One"
+        ]
       ],
       [
-        "Manurewa",
-        "/wiki/Manurewa"
+        [
+          "News",
+          "talk"
+        ],
+        [
+          "/wiki/News",
+          "/wiki/Talk_radio"
+        ]
+      ],
+      [
+        [
+          "Canadian Broadcasting Corporation"
+        ],
+        [
+          "/wiki/Canadian_Broadcasting_Corporation"
+        ]
       ]
     ],
     [
       [
-        "87.6",
-        null
+        [
+          "AM 730"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Splash FM",
-        null
+        [
+          "CHMJ"
+        ],
+        [
+          "/wiki/CHMJ"
+        ]
       ],
       [
-        "Pop music",
-        "/wiki/Pop_music"
+        [
+          "AM 730"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Waiheke Island",
-        "/wiki/Waiheke_Island"
+        [
+          "All-traffic"
+        ],
+        [
+          "/wiki/Highway_advisory_radio"
+        ]
+      ],
+      [
+        [
+          "Corus Entertainment"
+        ],
+        [
+          "/wiki/Corus_Entertainment"
+        ]
       ]
     ],
     [
       [
-        "87.6",
-        null
+        [
+          "AM 980"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Waheguru Radio",
-        null
+        [
+          "CKNW"
+        ],
+        [
+          "/wiki/CKNW"
+        ]
       ],
       [
-        "Sikhism religion",
-        null
+        [
+          "Global News Radio 980 CKNW"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Manukau",
-        "/wiki/Manukau"
+        [
+          "News/talk"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Corus Entertainment"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "87.6",
-        null
+        [
+          "AM 1040"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "West Coast Radio WCR 87.6FM",
-        null
+        [
+          "CKST"
+        ],
+        [
+          "/wiki/CKST"
+        ]
       ],
       [
-        "Community radio Top 40 News Sport and Weather",
-        null
+        [
+          "TSN Radio 1040"
+        ],
+        [
+          "/wiki/TSN_Radio"
+        ]
       ],
       [
-        "Auckland",
-        "/wiki/Auckland"
+        [
+          "Sports"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Bell Media"
+        ],
+        [
+          "/wiki/Bell_Media"
+        ]
       ]
     ],
     [
       [
-        "87.6",
-        null
+        [
+          "AM 1130"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "X FM",
-        null
+        [
+          "CKWX"
+        ],
+        [
+          "/wiki/CKWX"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "News 1130"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Auckland CBD",
-        "/wiki/Auckland_CBD"
+        [
+          "All-news"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Rogers Media"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "87.7",
-        null
+        [
+          "AM 1200"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "African Voice FM",
-        null
+        [
+          "CJRJ"
+        ],
+        [
+          "/wiki/CJRJ"
+        ]
       ],
       [
-        "African",
-        "/wiki/Africa"
+        [
+          "Spice Radio"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mount Albert,Massey West,North Shore",
-        "/wiki/Mount_Albert,_New_Zealand /wiki/Massey,_New_Zealand /wiki/North_Shore_City"
+        [
+          "Multicultural"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "IT Productions"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "87.7",
-        null
+        [
+          "AM 1320"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hindi Live News",
-        null
+        [
+          "CHMB"
+        ],
+        [
+          "/wiki/CHMB"
+        ]
       ],
       [
-        "Hindi",
-        "/wiki/Hindi"
+        [
+          "AM1320 CHMB"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Auckland CBD",
-        "/wiki/Auckland_CBD"
+        [
+          "Multicultural"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Mainstream Broadcasting Corporation"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "87.7",
-        null
+        [
+          "AM 1410"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mormon",
-        "/wiki/Mormons"
+        [
+          "CFTE"
+        ],
+        [
+          "/wiki/CFTE"
+        ]
       ],
       [
-        "Christian radio",
-        "/wiki/Christian_radio"
+        [
+          "BNN Bloomberg Radio 1410"
+        ],
+        [
+          "/wiki/Bloomberg_Radio"
+        ]
       ],
       [
-        "Wiri",
-        "/wiki/Wiri"
+        [
+          "Business news"
+        ],
+        [
+          "/wiki/Business_news"
+        ]
+      ],
+      [
+        [
+          "Bell Media"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "87.7",
-        null
+        [
+          "AM 1470"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Radio Masti FM",
-        null
+        [
+          "CJVB"
+        ],
+        [
+          "/wiki/CJVB"
+        ]
       ],
       [
-        "Hindi",
-        "/wiki/Hindi"
+        [
+          "Fairchild Radio"
+        ],
+        [
+          "/wiki/Fairchild_Radio"
+        ]
       ],
       [
-        "Papatoetoe",
-        "/wiki/Papatoetoe"
+        [
+          "Multicultural"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Fairchild Radio"
+        ],
+        [
+          "/wiki/Fairchild_Radio"
+        ]
       ]
     ],
     [
       [
-        "87.7",
-        null
+        [
+          "AM 1550"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tama-Ohi Radio",
-        null
+        [
+          "KRPI"
+        ],
+        [
+          "/wiki/KRPI"
+        ]
       ],
       [
-        "Tongan,Christian radio",
-        "/wiki/Tonga /wiki/Christian_radio"
+        [
+          "Sher E Punjab"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Glen Innes,Pakuranga,Howick",
-        "/wiki/Glen_Innes,_New_Zealand /wiki/Pakuranga /wiki/Howick,_New_Zealand"
+        [
+          "Multicultural"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC Broadcasting"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "87.8",
-        null
+        [
+          "AM 1600"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Radio Austral",
-        null
+        [
+          "KVRI"
+        ],
+        [
+          "/wiki/KVRI"
+        ]
       ],
       [
-        "Spanish",
-        "/wiki/Spanish_language"
+        [
+          "Radio India"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mangere",
-        "/wiki/Mangere"
+        [
+          "Multicultural"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Multicultural Broadcasting"
+        ],
+        [
+          "/wiki/Multicultural_Broadcasting"
+        ]
       ]
     ],
     [
       [
-        "87.8",
-        null
+        [
+          "FM 88.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "HopeFM",
-        null
+        [
+          "CBU-2-FM"
+        ],
+        [
+          "/wiki/CBU_(AM)"
+        ]
       ],
       [
-        "Christian radio",
-        "/wiki/Christian_radio"
+        [
+          "CBC Radio One"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pukekohe",
-        "/wiki/Pukekohe"
+        [
+          "News/talk"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Canadian Broadcasting Corporation"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "87.8",
-        null
+        [
+          "FM 88.7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Radio Mirchi FM",
-        null
+        [
+          "CHNW-FM"
+        ],
+        [
+          "/wiki/CHNW-FM"
+        ]
       ],
       [
-        "Hindi",
-        "/wiki/Hindi"
+        [
+          "CHNW"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "South Auckland",
-        "/wiki/South_Auckland"
+        [
+          "Emergency information"
+        ],
+        [
+          "/wiki/Emergency_population_warning"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "87.8",
-        null
+        [
+          "FM 88.9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Seki A Samoa Radio",
-        null
+        [
+          "VF2521"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Samoan",
-        "/wiki/Samoa"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Otahuhu",
-        "/wiki/Otahuhu"
+        [
+          "Tourist information"
+        ],
+        [
+          "/wiki/Tourist_information"
+        ]
+      ],
+      [
+        [
+          "Cameron Bell Consultancy"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "87.8",
-        null
+        [
+          "FM 89.3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sade Aala Radio 87.8",
-        null
+        [
+          "CFVT-FM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Punjabi",
-        "/wiki/Punjabi_language"
+        [
+          "Vancouver Tourist Radio"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Manukau,Papatoetoe",
-        "/wiki/Manukau /wiki/Papatoetoe"
+        [
+          "Tourist information"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Paul Sander"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "87.8",
-        null
+        [
+          "FM 90.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Waves of the Pacific",
-        null
+        [
+          "CJSF-FM"
+        ],
+        [
+          "/wiki/CJSF-FM"
+        ]
       ],
       [
-        "Pacific Island",
-        "/wiki/Pacific_Island"
+        [
+          "CJSF 90.1 FM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Manurewa,Takanini",
-        "/wiki/Manurewa /wiki/Takanini"
+        [
+          "Campus radio"
+        ],
+        [
+          "/wiki/Campus_radio"
+        ]
+      ],
+      [
+        [
+          "Simon Fraser University"
+        ],
+        [
+          "/wiki/Simon_Fraser_University"
+        ]
       ]
     ],
     [
       [
-        "87.9",
-        null
+        [
+          "FM 90.9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Radio SUR",
-        null
+        [
+          "CBUX-FM"
+        ],
+        [
+          "/wiki/CBUX-FM"
+        ]
       ],
       [
-        "Indian",
-        "/wiki/India"
+        [
+          "Ici Musique"
+        ],
+        [
+          "/wiki/Ici_Musique"
+        ]
       ],
       [
-        "Mount Roskill",
-        "/wiki/Mount_Roskill"
+        [
+          "Public"
+        ],
+        [
+          "/wiki/Public_broadcasting"
+        ]
+      ],
+      [
+        [
+          "Canadian Broadcasting Corporation"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "87.9",
-        null
+        [
+          "FM 93.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "3ABN",
-        "/wiki/Three_Angels_Broadcasting_Network"
+        [
+          "CKYE-FM"
+        ],
+        [
+          "/wiki/CKYE-FM"
+        ]
       ],
       [
-        "Christian radio",
-        "/wiki/Christian_radio"
+        [
+          "Red FM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Massey West,Te Atatu,Henderson",
-        "/wiki/Massey,_New_Zealand /wiki/Te_Atatu /wiki/Henderson,_New_Zealand"
+        [
+          "Multicultural"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "South Asian Broadcasting Corporation"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "87.9",
-        null
+        [
+          "FM 93.7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "West Coast Radio WCR 87.6 FM",
-        null
+        [
+          "CJJR-FM"
+        ],
+        [
+          "/wiki/CJJR-FM"
+        ]
       ],
       [
-        "Community Radio Top 40 News Sport and Weather",
-        null
+        [
+          "JRfm"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "West Rodney",
-        null
+        [
+          "Country music"
+        ],
+        [
+          "/wiki/Country_music"
+        ]
+      ],
+      [
+        [
+          "Jim Pattison Group"
+        ],
+        [
+          "/wiki/Jim_Pattison_Group"
+        ]
       ]
     ]
   ],

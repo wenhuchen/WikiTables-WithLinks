@@ -1,275 +1,719 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Liga_EBA",
-  "title": "Liga EBA",
+  "url": "https://en.wikipedia.org/wiki/African_Slave_Trade_Patrol",
+  "title": "African Slave Trade Patrol",
   "header": [
     [
-      "Team",
-      null
+      [
+        "Vessel"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "City",
-      null
+      [
+        "Captor"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Autonomous community",
-      null
+      [
+        "Date"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Arena",
-      null
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "AC1+ Pi\u00e9lagos",
-        "/wiki/ADB_Pas"
+        [
+          "Uncas"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Renedo de Pi\u00e9lagos",
-        "/wiki/Pi%C3%A9lagos"
+        [
+          "Porpoise"
+        ],
+        [
+          "/wiki/USS_Porpoise_(1836)"
+        ]
       ],
       [
-        "Cantabria",
-        "/wiki/Cantabria"
+        [
+          "1 March 1844"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Fernando Exp\u00f3sito",
-        null
+        [
+          "Gallinas"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Arha Hoteles",
-        "/wiki/AD_Cantbasket_04"
+        [
+          "Spitfire"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Santander",
-        "/wiki/Santander,_Spain"
+        [
+          "Truxtun"
+        ],
+        [
+          "/wiki/USS_Truxtun_(1842)"
+        ]
       ],
       [
-        "Cantabria",
-        "/wiki/Cantabria"
+        [
+          "24 March 1845"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Palacio de Deportes",
-        "/wiki/Palacio_de_Deportes_de_Santander"
+        [
+          "Pongas R."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Baskonia B",
-        "/wiki/Saski_Baskonia_B"
+        [
+          "Patuxent"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Vitoria-Gasteiz",
-        "/wiki/Vitoria-Gasteiz"
+        [
+          "Yorktown"
+        ],
+        [
+          "/wiki/USS_Yorktown_(1839)"
+        ]
       ],
       [
-        "Basque Country",
-        "/wiki/Basque_Country_(autonomous_community)"
+        [
+          "27 September 1845"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mendizorrotza",
-        null
+        [
+          "Cape Mount"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "CB La Flecha",
-        null
+        [
+          "Pons"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Arroyo de la Encomienda",
-        "/wiki/Arroyo_de_la_Encomienda"
+        [
+          "Yorktown"
+        ],
+        [
+          "/wiki/USS_Yorktown_(1839)"
+        ]
       ],
       [
-        "Castile and Le\u00f3n",
-        "/wiki/Castile_and_Le%C3%B3n"
+        [
+          "30 September 1845"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "La Vega",
-        null
+        [
+          "Kabenda"
+        ],
+        [
+          "/wiki/Cabinda_(city)"
+        ]
       ]
     ],
     [
       [
-        "CB Santurtzi SK",
-        "/wiki/CB_Santurtzi_SK"
+        [
+          "Merchant"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Santurtzi",
-        "/wiki/Santurtzi"
+        [
+          "Jamestown"
+        ],
+        [
+          "/wiki/USS_Jamestown_(1844)"
+        ]
       ],
       [
-        "Basque Country",
-        "/wiki/Basque_Country_(autonomous_community)"
+        [
+          "3 December 1845"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mikel Trueba",
-        null
+        [
+          "Sierra Leone"
+        ],
+        [
+          "/wiki/Sierra_Leone"
+        ]
       ]
     ],
     [
       [
-        "CB Solares",
-        null
+        [
+          "Panther"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Medio Cudeyo",
-        "/wiki/Medio_Cudeyo"
+        [
+          "Yorktown"
+        ],
+        [
+          "/wiki/USS_Yorktown_(1839)"
+        ]
       ],
       [
-        "Cantabria",
-        "/wiki/Cantabria"
+        [
+          "15 December 1845"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mies del Corro",
-        null
+        [
+          "Kabenda"
+        ],
+        [
+          "/wiki/Cabinda_(city)"
+        ]
       ]
     ],
     [
       [
-        "Easo",
-        null
+        [
+          "Robert Wilson"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "San Sebasti\u00e1n",
-        "/wiki/San_Sebasti%C3%A1n"
+        [
+          "Jamestown"
+        ],
+        [
+          "/wiki/USS_Jamestown_(1844)"
+        ]
       ],
       [
-        "Basque Country",
-        "/wiki/Basque_Country_(autonomous_community)"
+        [
+          "15 January 1846"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jos\u00e9 Antonio Gasca",
-        "/wiki/Polideportivo_Municipal_Jos%C3%A9_Antonio_Gasca"
+        [
+          "Porto Praya"
+        ],
+        [
+          "/wiki/Praia"
+        ]
       ]
     ],
     [
       [
-        "Goierri-Iparragirre 2020",
-        null
+        [
+          "Malaga"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Urretxu",
-        "/wiki/Urretxu"
+        [
+          "Boxer"
+        ],
+        [
+          "/wiki/USS_Boxer_(1832)"
+        ]
       ],
       [
-        "Basque Country",
-        "/wiki/Basque_Country_(autonomous_community)"
+        [
+          "13 April 1846"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Aldiri",
-        null
+        [
+          "Kabenda"
+        ],
+        [
+          "/wiki/Cabinda_(city)"
+        ]
       ]
     ],
     [
       [
-        "Manteneo Filipenses",
-        null
+        [
+          "Casket"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Palencia",
-        "/wiki/Palencia"
+        [
+          "Marion"
+        ],
+        [
+          "/wiki/USS_Marion_(1839)"
+        ]
       ],
       [
-        "Castile and Le\u00f3n",
-        "/wiki/Castile_and_Le%C3%B3n"
+        [
+          "2 August 1846"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Municipal",
-        null
+        [
+          "Kabenda"
+        ],
+        [
+          "/wiki/Cabinda_(city)"
+        ]
       ]
     ],
     [
       [
-        "Megacalzado Ardoi",
-        null
+        [
+          "Chancellor"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Zizur Mayor-Zizur Nagusia",
-        "/wiki/Zizur_Mayor/Zizur_Nagusia"
+        [
+          "Dolphin"
+        ],
+        [
+          "/wiki/USS_Dolphin_(1836)"
+        ]
       ],
       [
-        "Navarre",
-        "/wiki/Navarre"
+        [
+          "10 April 1847"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Municipal",
-        null
+        [
+          "Cape Palmas"
+        ],
+        [
+          "/wiki/Cape_Palmas"
+        ]
       ]
     ],
     [
       [
-        "Mondrag\u00f3n Unibersitatea",
-        null
+        [
+          "Excellent"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mondrag\u00f3n",
-        "/wiki/Mondrag%C3%B3n"
+        [
+          "John Adams"
+        ],
+        [
+          "/wiki/USS_John_Adams_(1799)"
+        ]
       ],
       [
-        "Basque Country",
-        "/wiki/Basque_Country_(autonomous_community)"
+        [
+          "23 April 1850"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Iturripe",
-        null
+        [
+          "Ambriz"
+        ],
+        [
+          "/wiki/Ambriz"
+        ]
       ]
     ],
     [
       [
-        "Nissan Grupo de Santiago",
-        "/wiki/CB_Miraflores"
+        [
+          "Martha"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Burgos",
-        "/wiki/Burgos"
+        [
+          "Perry"
+        ],
+        [
+          "/wiki/USS_Perry_(1843)"
+        ]
       ],
       [
-        "Castile and Le\u00f3n",
-        "/wiki/Castile_and_Le%C3%B3n"
+        [
+          "6 June 1850"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "El Plant\u00edo",
-        "/wiki/Polideportivo_El_Plant%C3%ADo"
+        [
+          "Ambriz"
+        ],
+        [
+          "/wiki/Ambriz"
+        ]
       ]
     ],
     [
       [
-        "Tabirako Baqu\u00e9",
-        null
+        [
+          "Chatsworth"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Durango",
-        "/wiki/Durango,_Biscay"
+        [
+          "Perry"
+        ],
+        [
+          "/wiki/USS_Perry_(1843)"
+        ]
       ],
       [
-        "Basque Country",
-        "/wiki/Basque_Country_(autonomous_community)"
+        [
+          "11 September 1850"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Landako",
-        null
+        [
+          "Ambriz"
+        ],
+        [
+          "/wiki/Ambriz"
+        ]
       ]
     ],
     [
       [
-        "Ulacia Zarautz",
-        "/wiki/Zarautz_KE"
+        [
+          "Advance"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Zarautz",
-        "/wiki/Zarautz"
+        [
+          "Germantown"
+        ],
+        [
+          "/wiki/USS_Germantown_(1846)"
+        ]
       ],
       [
-        "Basque Country",
-        "/wiki/Basque_Country_(autonomous_community)"
+        [
+          "3 November 1852"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Aritzbatalde",
-        null
+        [
+          "Porto Praya"
+        ],
+        [
+          "/wiki/Praia"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "R.P. Brown"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Germantown"
+        ],
+        [
+          "/wiki/USS_Germantown_(1846)"
+        ]
+      ],
+      [
+        [
+          "23 January 1853"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Porto Praya"
+        ],
+        [
+          "/wiki/Praia"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "H.N. Gambrill"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Constitution"
+        ],
+        [
+          "/wiki/USS_Constitution"
+        ]
+      ],
+      [
+        [
+          "3 November 1853"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Kongo"
+        ],
+        [
+          "/wiki/Kingdom_of_Kongo"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Glamorgan"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Perry"
+        ],
+        [
+          "/wiki/USS_Perry_(1843)"
+        ]
+      ],
+      [
+        [
+          "10 March 1854"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Kongo"
+        ],
+        [
+          "/wiki/Kingdom_of_Kongo"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "W.G. Lewis"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Dale"
+        ],
+        [
+          "/wiki/USS_Dale_(1839)"
+        ]
+      ],
+      [
+        [
+          "6 November 1857"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Kongo"
+        ],
+        [
+          "/wiki/Kingdom_of_Kongo"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Brothers"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Marion"
+        ],
+        [
+          "/wiki/USS_Marion_(1839)"
+        ]
+      ],
+      [
+        [
+          "8 September 1858"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Mayumba"
+        ],
+        [
+          "/wiki/Mayumba,_Gabon"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Julia Dean"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Vincennes"
+        ],
+        [
+          "/wiki/USS_Vincennes_(1826)"
+        ]
+      ],
+      [
+        [
+          "28 December 1858"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cape Coast Castle"
+        ],
+        [
+          "/wiki/Cape_Coast_Castle"
+        ]
       ]
     ]
   ],

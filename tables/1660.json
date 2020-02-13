@@ -1,291 +1,719 @@
 {
-  "url": "https://en.wikipedia.org/wiki/1995_Skate_Canada_International",
-  "title": "1995 Skate Canada International",
+  "url": "https://en.wikipedia.org/wiki/List_of_mammals_of_Alabama",
+  "title": "List of mammals of Alabama",
   "header": [
     [
-      "Rank",
-      null
+      [
+        "Scientific name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Name",
-      null
+      [
+        "Common name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Nation",
-      null
+      [
+        "Family"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "TFP",
-      null
-    ],
-    [
-      "SP",
-      "/wiki/Short_program_(figure_skating)"
-    ],
-    [
-      "FS",
-      "/wiki/Free_skating"
+      [
+        "Conservationconcern"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "Eubalaena glacialis"
+        ],
+        [
+          "/wiki/North_Atlantic_right_whale"
+        ]
       ],
       [
-        "Michelle Kwan",
-        "/wiki/Michelle_Kwan"
+        [
+          "North Atlantic right whale"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United States",
-        "/wiki/United_States"
+        [
+          "Balaenidae"
+        ],
+        [
+          "/wiki/Balaenidae"
+        ]
       ],
       [
-        "1.5",
-        null
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "1",
-        null
+        [
+          "Endangered"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "Balaenoptera musculus"
+        ],
+        [
+          "/wiki/Blue_whale"
+        ]
       ],
       [
-        "Hanae Yokoya",
-        "/wiki/Hanae_Yokoya"
+        [
+          "blue whale"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Japan",
-        "/wiki/Japan"
+        [
+          "Balaenopteridae"
+        ],
+        [
+          "/wiki/Balaenopteridae"
+        ]
       ],
       [
-        "3.0",
-        null
-      ],
-      [
-        "2",
-        null
-      ],
-      [
-        "2",
-        null
+        [
+          "Endangered"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "Balaenoptera physalus"
+        ],
+        [
+          "/wiki/Fin_whale"
+        ]
       ],
       [
-        "Jos\u00e9e Chouinard",
-        "/wiki/Jos%C3%A9e_Chouinard"
+        [
+          "fin whale"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Canada",
-        "/wiki/Canada"
+        [
+          "Balaenopteridae"
+        ],
+        [
+          "/wiki/Balaenopteridae"
+        ]
       ],
       [
-        "4.5",
-        null
-      ],
-      [
-        "3",
-        null
-      ],
-      [
-        "3",
-        null
+        [
+          "Endangered"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "Balaenoptera borealis"
+        ],
+        [
+          "/wiki/Sei_whale"
+        ]
       ],
       [
-        "Olga Markova",
-        "/wiki/Olga_Markova_(figure_skater)"
+        [
+          "sei whale"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Russia",
-        "/wiki/Russia"
+        [
+          "Balaenopteridae"
+        ],
+        [
+          "/wiki/Balaenopteridae"
+        ]
       ],
       [
-        "6.0",
-        null
-      ],
-      [
-        "4",
-        null
-      ],
-      [
-        "4",
-        null
+        [
+          "Endangered"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Balaenoptera brydei"
+        ],
+        [
+          "/wiki/Bryde%27s_whale"
+        ]
       ],
       [
-        "Susan Humphreys",
-        "/wiki/Susan_Humphreys"
+        [
+          "Bryde's whale"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Canada",
-        "/wiki/Canada"
+        [
+          "Balaenopteridae"
+        ],
+        [
+          "/wiki/Balaenopteridae"
+        ]
       ],
       [
-        "8.0",
-        null
-      ],
-      [
-        "6",
-        null
-      ],
-      [
-        "5",
-        null
+        [
+          "Data deficient"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "Balaenoptera brydei"
+        ],
+        [
+          "/wiki/Common_minke_whale"
+        ]
       ],
       [
-        "Lucinda Ruh",
-        "/wiki/Lucinda_Ruh"
+        [
+          "common minke whale"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Switzerland",
-        "/wiki/Switzerland"
+        [
+          "Balaenopteridae"
+        ],
+        [
+          "/wiki/Balaenopteridae"
+        ]
       ],
       [
-        "9.5",
-        null
-      ],
-      [
-        "5",
-        null
-      ],
-      [
-        "7",
-        null
+        [
+          "Least concern"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "Megaptera novaeangliae"
+        ],
+        [
+          "/wiki/Humpback_whale"
+        ]
       ],
       [
-        "Krisztina Czak\u00f3",
-        "/wiki/Krisztina_Czak%C3%B3"
+        [
+          "humpback whale"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hungary",
-        "/wiki/Hungary"
+        [
+          "Balaenopteridae"
+        ],
+        [
+          "/wiki/Balaenopteridae"
+        ]
       ],
       [
-        "10.0",
-        null
-      ],
-      [
-        "8",
-        null
-      ],
-      [
-        "6",
-        null
+        [
+          "Least concern"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "Physeter macrocephalus"
+        ],
+        [
+          "/wiki/Sperm_whale"
+        ]
       ],
       [
-        "Elena Liashenko",
-        "/wiki/Elena_Liashenko"
+        [
+          "sperm whale"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ukraine",
-        "/wiki/Ukraine"
+        [
+          "Physeteridae"
+        ],
+        [
+          "/wiki/Physeteridae"
+        ]
       ],
       [
-        "11.5",
-        null
-      ],
-      [
-        "7",
-        null
-      ],
-      [
-        "8",
-        null
+        [
+          "Vulnerable"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "Kogia breviceps"
+        ],
+        [
+          "/wiki/Pygmy_sperm_whale"
+        ]
       ],
       [
-        "Evelyn Gro\u00dfmann",
-        "/wiki/Evelyn_Gro%C3%9Fmann"
+        [
+          "pygmy sperm whale"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        "/wiki/Germany"
+        [
+          "Kogiidae"
+        ],
+        [
+          "/wiki/Kogiidae"
+        ]
       ],
       [
-        "14.0",
-        null
-      ],
-      [
-        "10",
-        null
-      ],
-      [
-        "9",
-        null
+        [
+          "Data deficient"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "Kogia sima"
+        ],
+        [
+          "/wiki/Dwarf_sperm_whale"
+        ]
       ],
       [
-        "Jennifer Robinson",
-        "/wiki/Jennifer_Robinson_(figure_skater)"
+        [
+          "dwarf sperm whale"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Canada",
-        "/wiki/Canada"
+        [
+          "Kogiidae"
+        ],
+        [
+          "/wiki/Kogiidae"
+        ]
       ],
       [
-        "14.5",
-        null
+        [
+          "Data deficient"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Ziphius cavirostris"
+        ],
+        [
+          "/wiki/Cuvier%27s_beaked_whale"
+        ]
       ],
       [
-        "9",
-        null
+        [
+          "Cuvier's beaked whale"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "Ziphiidae"
+        ],
+        [
+          "/wiki/Ziphiidae"
+        ]
+      ],
+      [
+        [
+          "Least concern"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Mesoplodon densirostris"
+        ],
+        [
+          "/wiki/Blainville%27s_beaked_whale"
+        ]
+      ],
+      [
+        [
+          "Blainville's beaked whale"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ziphiidae"
+        ],
+        [
+          "/wiki/Ziphiidae"
+        ]
+      ],
+      [
+        [
+          "Data deficient"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Mesoplodon bidens"
+        ],
+        [
+          "/wiki/Sowerby%27s_beaked_whale"
+        ]
+      ],
+      [
+        [
+          "Sowerby's beaked whale"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ziphiidae"
+        ],
+        [
+          "/wiki/Ziphiidae"
+        ]
+      ],
+      [
+        [
+          "Data deficient"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Mesoplodon europaeus"
+        ],
+        [
+          "/wiki/Gervais%27_beaked_whale"
+        ]
+      ],
+      [
+        [
+          "Gervais' beaked whale"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ziphiidae"
+        ],
+        [
+          "/wiki/Ziphiidae"
+        ]
+      ],
+      [
+        [
+          "Data deficient"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Peponocephala electra"
+        ],
+        [
+          "/wiki/Melon-headed_whale"
+        ]
+      ],
+      [
+        [
+          "melon-headed whale"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ziphiidae"
+        ],
+        [
+          "/wiki/Ziphiidae"
+        ]
+      ],
+      [
+        [
+          "Data deficient"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Feresa attenuata"
+        ],
+        [
+          "/wiki/Pygmy_killer_whale"
+        ]
+      ],
+      [
+        [
+          "pygmy killer Whale"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Delphinidae"
+        ],
+        [
+          "/wiki/Delphinidae"
+        ]
+      ],
+      [
+        [
+          "Data deficient"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Pseudorca crassidens"
+        ],
+        [
+          "/wiki/False_killer_whale"
+        ]
+      ],
+      [
+        [
+          "false killer Whale"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Delphinidae"
+        ],
+        [
+          "/wiki/Delphinidae"
+        ]
+      ],
+      [
+        [
+          "Data deficient"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Orcinus orca"
+        ],
+        [
+          "/wiki/Killer_whale"
+        ]
+      ],
+      [
+        [
+          "killer whale"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Delphinidae"
+        ],
+        [
+          "/wiki/Delphinidae"
+        ]
+      ],
+      [
+        [
+          "Data deficient"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Globicephala macrorhynchus"
+        ],
+        [
+          "/wiki/Short-finned_pilot_whale"
+        ]
+      ],
+      [
+        [
+          "short-finned pilot whale"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Delphinidae"
+        ],
+        [
+          "/wiki/Delphinidae"
+        ]
+      ],
+      [
+        [
+          "Data deficient"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Steno bredanensis"
+        ],
+        [
+          "/wiki/Rough-toothed_dolphin"
+        ]
+      ],
+      [
+        [
+          "rough-toothed dolphin"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Delphinidae"
+        ],
+        [
+          "/wiki/Delphinidae"
+        ]
+      ],
+      [
+        [
+          "Least concern"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

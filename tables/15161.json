@@ -1,257 +1,375 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Herring_as_food",
-  "title": "Herring as food",
+  "url": "https://en.wikipedia.org/wiki/Salmon_as_food",
+  "title": "Salmon as food",
   "header": [
     [
-      "Name",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Origin",
-      null
+      [
+        "Origin"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Description",
-      null
+      [
+        "Description"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Avruga caviar",
-        "/wiki/Avruga_caviar"
+        [
+          "Gravlax"
+        ],
+        [
+          "/wiki/Gravlax"
+        ]
       ],
       [
-        "Spain",
-        null
+        [
+          "Nordic"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "caviar substitute,citric acid,xanthan gum,sodium benzoate,squid ink,fish roe",
-        "/wiki/Caviar_substitute /wiki/Citric_acid /wiki/Xanthan_gum /wiki/Sodium_benzoate /wiki/Squid_ink /wiki/Fish_roe"
+        [
+          "cured",
+          "dill",
+          "appetiser"
+        ],
+        [
+          "/wiki/Curing_(food_preservation)",
+          "/wiki/Dill",
+          "/wiki/Appetiser"
+        ]
       ]
     ],
     [
       [
-        "Bloater",
-        "/wiki/Bloater_(herring)"
+        [
+          "Lohikeitto"
+        ],
+        [
+          "/wiki/Lohikeitto"
+        ]
       ],
       [
-        "England",
-        "/wiki/English_cuisine"
+        [
+          "Nordic"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "kippers",
-        "/wiki/Kipper"
+        [
+          "leeks",
+          "dill"
+        ],
+        [
+          "/wiki/Leek",
+          "/wiki/Dill"
+        ]
       ]
     ],
     [
       [
-        "Brathering",
-        "/wiki/Brathering"
+        [
+          "Lomi salmon"
+        ],
+        [
+          "/wiki/Lomi_salmon"
+        ]
       ],
       [
-        "Germany",
-        "/wiki/German_cuisine"
+        [
+          "Polynesian"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "marinated,herring,breaded,flour,marinade,onion,salt,pepper,bay leaves,mustard,sugar",
-        "/wiki/Marination /wiki/Herring /wiki/Breading /wiki/Flour /wiki/Marinade /wiki/Onion /wiki/Salt /wiki/Black_pepper /wiki/Bay_leaves /wiki/Mustard_seed /wiki/Sugar"
+        [
+          "Maui onions",
+          "green onion",
+          "chili pepper",
+          "cucumber",
+          "sweet onion"
+        ],
+        [
+          "/wiki/Sweet_onion",
+          "/wiki/Scallion",
+          "/wiki/Chili_pepper",
+          "/wiki/Cucumber",
+          "/wiki/Sweet_onion"
+        ]
       ]
     ],
     [
       [
-        "Buckling",
-        "/wiki/Buckling_(fish)"
+        [
+          "Lox"
+        ],
+        [
+          "/wiki/Lox"
+        ]
       ],
       [
-        "European",
-        null
+        [
+          "European(Ashkenazi) Jewish"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "herring,kipper,bloater,roe,milt,cold smoked",
-        "/wiki/Herring /wiki/Kipper /wiki/Bloater_(herring) /wiki/Roe /wiki/Milt /wiki/Cold_smoked"
+        [
+          "fillet",
+          "cured",
+          "bagel",
+          "cream cheese",
+          "onion",
+          "tomato",
+          "cucumber",
+          "capers"
+        ],
+        [
+          "/wiki/Fish_fillet",
+          "/wiki/Curing_(food_preservation)",
+          "/wiki/Bagel",
+          "/wiki/Cream_cheese",
+          "/wiki/Onion",
+          "/wiki/Tomato",
+          "/wiki/Cucumber",
+          "/wiki/Caper"
+        ]
       ]
     ],
     [
       [
-        "Dressed herring",
-        "/wiki/Dressed_herring"
+        [
+          "Rui-be"
+        ],
+        [
+          "/wiki/Rui-be"
+        ]
       ],
       [
-        "Russia",
-        "/wiki/Russian_cuisine"
+        [
+          "Japan"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "former USSR",
-        "/wiki/Post-Soviet_states"
+        [
+          "sashimi",
+          "soy sauce",
+          "water peppers"
+        ],
+        [
+          "/wiki/Sashimi",
+          "/wiki/Soy_sauce",
+          "/wiki/Water_pepper"
+        ]
       ]
     ],
     [
       [
-        "Fischbr\u00f6tchen",
-        "/wiki/Fischbr%C3%B6tchen"
+        [
+          "Salmon burger"
+        ],
+        [
+          "/wiki/Salmon_burger"
+        ]
       ],
       [
-        "Germany",
-        "/wiki/German_cuisine"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "bismarck herring,soused herring",
-        "/wiki/Bismarck_herring /wiki/Soused_herring"
+        [
+          "fishcake",
+          "salmon",
+          "hamburger",
+          "Alaska"
+        ],
+        [
+          "/wiki/Fishcake",
+          "/wiki/Salmon",
+          "/wiki/Hamburger",
+          "/wiki/Alaska"
+        ]
       ]
     ],
     [
       [
-        "\u015aledzie",
-        null
+        [
+          "Salmon tartare"
+        ],
+        [
+          "/wiki/Salmon_tartare"
+        ]
       ],
       [
-        "Poland",
-        "/wiki/Polish_cuisine"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pickled herring,Wigilia",
-        "/wiki/Pickled_herring /wiki/Wigilia"
+        [
+          "Appetiser prepared with fresh raw salmon and seasonings, commonly spread on a cracker or artisan style bread"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Herring with mushrooms",
-        null
+        [
+          "Smoked salmon"
+        ],
+        [
+          "/wiki/Smoked_salmon"
+        ]
       ],
       [
-        "Lithuania",
-        "/wiki/Lithuania"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Traditional Christmas Eve dish. Lithuanians have more than 100 different variations on how to prepare herring.",
-        null
+        [
+          "fillet",
+          "cured",
+          "smoked",
+          "lox"
+        ],
+        [
+          "/wiki/Fish_fillet",
+          "/wiki/Curing_(food_preservation)",
+          "/wiki/Smoking_(food)",
+          "/wiki/Lox"
+        ]
       ]
     ],
     [
       [
-        "Gwamegi",
-        "/wiki/Gwamegi"
+        [
+          "Salmon sashimi"
+        ],
+        [
+          "/wiki/Sashimi"
+        ]
       ],
       [
-        "Korea",
-        "/wiki/Korean_cuisine"
+        [
+          "Japan"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "soy sauce",
+          "wasabi"
+        ],
+        [
+          "/wiki/Soy_sauce",
+          "/wiki/Wasabi"
+        ]
       ]
     ],
     [
       [
-        "roe",
-        "/wiki/Roe"
+        [
+          "Salmon sushi"
+        ],
+        [
+          "/wiki/Sushi"
+        ]
       ],
       [
-        "Japan",
-        "/wiki/Japanese_cuisine"
+        [
+          "Norway"
+        ],
+        [
+          "/wiki/Norway"
+        ]
       ],
       [
-        "\u6570\u306e\u5b50,Osechi,the Japanese new year",
-        "/wiki/HTTP_404 /wiki/Osechi /wiki/Japanese_New_Year"
+        [
+          "nori",
+          "makizushi",
+          "nigiri sushi",
+          "soy sauce",
+          "wasabi"
+        ],
+        [
+          "/wiki/Nori",
+          "/wiki/Makizushi",
+          "/wiki/Nigiri_sushi",
+          "/wiki/Soy_sauce",
+          "/wiki/Wasabi"
+        ]
       ]
     ],
     [
       [
-        "Herring spawn",
-        null
+        [
+          "Kippered salmon"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Japan",
-        "/wiki/Japanese_cuisine"
+        [
+          "Hupa",
+          "Karuk",
+          "Yurok"
+        ],
+        [
+          "/wiki/Hupa",
+          "/wiki/Karuk",
+          "/wiki/Yurok_people"
+        ]
       ],
       [
-        "Sushi,Chinmi",
-        "/wiki/Sushi /wiki/Chinmi"
-      ]
-    ],
-    [
-      [
-        "Herring noodle",
-        null
-      ],
-      [
-        "Japan",
-        "/wiki/Japanese_cuisine"
-      ],
-      [
-        "Called Nishin-soba (\u306b\u3057\u3093\u854e\u9ea6). Hokkaido].",
-        null
-      ]
-    ],
-    [
-      [
-        "Herring spawn",
-        null
-      ],
-      [
-        "Japan",
-        "/wiki/Japanese_cuisine"
-      ],
-      [
-        "Called matsumae-duke(\u677e\u524d\u6f2c\u3051\uff09. Hokkaido].",
-        null
-      ]
-    ],
-    [
-      [
-        "Herring soup",
-        "/wiki/Herring_soup"
-      ],
-      [
-        "Sweden",
-        "/wiki/Swedish_cuisine"
-      ],
-      [
-        "",
-        null
-      ]
-    ],
-    [
-      [
-        "Kibinago",
-        "/wiki/Kibinago"
-      ],
-      [
-        "Japan",
-        "/wiki/Japanese_cuisine"
-      ],
-      [
-        "",
-        null
-      ]
-    ],
-    [
-      [
-        "Kipper",
-        "/wiki/Kipper"
-      ],
-      [
-        "United Kingdom",
-        null
-      ],
-      [
-        "cold smoked",
-        "/wiki/Cold_smoked"
-      ]
-    ],
-    [
-      [
-        "Solomon Gundy",
-        "/wiki/Solomon_Gundy"
-      ],
-      [
-        "Jamaica",
-        "/wiki/Jamaican_cuisine"
-      ],
-      [
-        "",
-        null
+        [
+          "Salmon smoked using fruitwood until cooked on the outside but raw on the inside, then canned and pressure cooked. Can be seasoned with red pepper and other seasonings."
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

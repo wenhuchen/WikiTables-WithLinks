@@ -1,185 +1,1161 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_nature_centres_in_Canada",
-  "title": "List of nature centres in Canada",
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
   "header": [
     [
-      "Name",
-      null
+      [
+        "Emulator"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      null
+      [
+        "Current version"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Region",
-      null
+      [
+        "Released"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Summary",
-      null
+      [
+        "Guest emulation capabilities"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Host Operating System"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "License"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Beaverhill Lake Nature Centre",
-        null
+        [
+          "blueMSX"
+        ],
+        [
+          "/wiki/BlueMSX"
+        ]
       ],
       [
-        "Tofield",
-        "/wiki/Tofield,_Alberta"
+        [
+          "2.8.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Central Alberta",
-        "/wiki/Central_Alberta"
+        [
+          "August 14, 2009"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "website",
-        "/wiki/HTTP_404"
+        [
+          "MSX",
+          "MSX2",
+          "MSX2+",
+          "MSX TurboR",
+          "SpectraVideo SVI318/328",
+          "ColecoVision",
+          "Sega SG-1000"
+        ],
+        [
+          "/wiki/MSX",
+          "/wiki/MSX2",
+          "/wiki/MSX",
+          "/wiki/MSX",
+          null,
+          "/wiki/ColecoVision",
+          "/wiki/Sega_SG-1000"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_GPL"
+        ]
       ]
     ],
     [
       [
-        "Boreal Centre for Bird Conservation",
-        "/wiki/Lesser_Slave_Lake_Provincial_Park"
+        [
+          "CocoaMSX"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Slave Lake",
-        "/wiki/Slave_Lake,_Alberta"
+        [
+          "1.61"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Northern Alberta",
-        "/wiki/Northern_Alberta"
+        [
+          "August 5, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "boreal",
-        "/wiki/Boreal_forest_of_Canada"
+        [
+          "MSX",
+          "MSX2",
+          "MSX2+",
+          "MSX TurboR"
+        ],
+        [
+          "/wiki/MSX",
+          "/wiki/MSX2",
+          "/wiki/MSX",
+          "/wiki/MSX"
+        ]
+      ],
+      [
+        [
+          "OS X"
+        ],
+        [
+          "/wiki/Mac_OS_X"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_GPL"
+        ]
       ]
     ],
     [
       [
-        "Bow Habitat Station",
-        null
+        [
+          "Clock Signal (CLK)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Calgary",
-        "/wiki/Calgary"
+        [
+          "2020-01-16"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Calgary Region",
-        "/wiki/Calgary_Region"
+        [
+          "August 1, 2019"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "website,Pearce Estate Park",
-        "/wiki/HTTP_404 /wiki/Pearce_Estate_Park"
+        [
+          "MSX1",
+          "Acorn Electron",
+          "Amstrad CPC",
+          "Apple II",
+          "Atari 2600",
+          "ColecoVision",
+          "Commodore VIC-20",
+          "Macintosh",
+          "Oric",
+          "Sega Master System",
+          "ZX80",
+          "ZX81"
+        ],
+        [
+          "/wiki/MSX1",
+          "/wiki/Acorn_Electron",
+          "/wiki/Amstrad_CPC",
+          "/wiki/Apple_II",
+          "/wiki/Atari_2600",
+          "/wiki/ColecoVision",
+          "/wiki/Commodore_VIC-20",
+          "/wiki/Macintosh_512Ke",
+          "/wiki/Oric",
+          "/wiki/Sega_Master_System",
+          "/wiki/ZX80",
+          "/wiki/ZX81"
+        ]
+      ],
+      [
+        [
+          "macOS"
+        ],
+        [
+          "/wiki/MacOS"
+        ]
+      ],
+      [
+        [
+          "MIT License"
+        ],
+        [
+          "/wiki/MIT_License"
+        ]
       ]
     ],
     [
       [
-        "Helen Schuler Nature Centre",
-        "/wiki/HTTP_404"
+        [
+          "fMSX"
+        ],
+        [
+          "/wiki/FMSX"
+        ]
       ],
       [
-        "Lethbridge",
-        "/wiki/Lethbridge"
+        [
+          "5.3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Southern Alberta",
-        "/wiki/Southern_Alberta"
+        [
+          "March 27, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "website,Oldman River valley parks system",
-        "/wiki/HTTP_404 /wiki/Oldman_River_valley_parks_system"
+        [
+          "MSX",
+          "MSX2",
+          "MSX2+"
+        ],
+        [
+          "/wiki/MSX",
+          "/wiki/MSX2",
+          "/wiki/MSX"
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "Commercial"
+        ],
+        [
+          "/wiki/Commercial_software"
+        ]
       ]
     ],
     [
       [
-        "Inglewood Bird Sanctuary and Nature Centre",
-        null
+        [
+          "fMSX PSP"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Calgary",
-        "/wiki/Calgary"
+        [
+          "3.5.41"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Calgary Region",
-        null
+        [
+          "March 17, 2010"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "website",
-        "/wiki/HTTP_404"
+        [
+          "MSX",
+          "MSX2",
+          "MSX2+"
+        ],
+        [
+          "/wiki/MSX",
+          "/wiki/MSX2",
+          "/wiki/MSX"
+        ]
+      ],
+      [
+        [
+          "Sony PSP"
+        ],
+        [
+          "/wiki/PlayStation_Portable"
+        ]
+      ],
+      [
+        [
+          "Open source"
+        ],
+        [
+          "/wiki/Open-source_software"
+        ]
       ]
     ],
     [
       [
-        "John Janzen Nature Centre",
-        "/wiki/HTTP_404"
+        [
+          "MAME",
+          "MESS"
+        ],
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
       ],
       [
-        "Edmonton",
-        "/wiki/Edmonton"
+        [
+          "0.196"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Edmonton Capital Region",
-        "/wiki/Edmonton_Capital_Region"
+        [
+          "March 28, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "website",
-        "/wiki/HTTP_404"
+        [
+          "Various computers, consoles, and arcade systems"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "New BSD",
+          "GPLv2"
+        ],
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "Kerry Wood Nature Center",
-        "/wiki/HTTP_404"
+        [
+          "meisei"
+        ],
+        [
+          "/wiki/Meisei"
+        ]
       ],
       [
-        "Red Deer",
-        "/wiki/Red_Deer,_Alberta"
+        [
+          "1.3.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Central Alberta",
-        null
+        [
+          "February 9, 2010"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "website",
-        "/wiki/HTTP_404"
+        [
+          "MSX"
+        ],
+        [
+          "/wiki/MSX"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "Open source"
+        ],
+        [
+          "/wiki/Open-source_software"
+        ]
       ]
     ],
     [
       [
-        "Kimiwan Lake Interpretive Centre",
-        null
+        [
+          "MSKISS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "McLennan",
-        "/wiki/McLennan,_Alberta"
+        [
+          "0.2.4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Northern Alberta",
-        null
+        [
+          "March 13, 2000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "website",
-        "/wiki/HTTP_404"
+        [
+          "MSX",
+          "MSX2",
+          "MSX2+"
+        ],
+        [
+          "/wiki/MSX",
+          "/wiki/MSX2",
+          "/wiki/MSX"
+        ]
+      ],
+      [
+        [
+          "DOS",
+          "Windows"
+        ],
+        [
+          "/wiki/DOS",
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Police Point Park Nature Centre",
-        null
+        [
+          "MSX Emulator"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Medicine Hat",
-        "/wiki/Medicine_Hat,_Alberta"
+        [
+          "0.10b"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Southern Alberta",
-        null
+        [
+          "October 26, 2006"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "website",
-        "/wiki/HTTP_404"
+        [
+          "MSX"
+        ],
+        [
+          "/wiki/MSX"
+        ]
+      ],
+      [
+        [
+          "Atari ST"
+        ],
+        [
+          "/wiki/Atari_ST"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "MSX Emulator"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.8"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "August 16, 2010"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MSX",
+          "MSX2"
+        ],
+        [
+          "/wiki/MSX",
+          "/wiki/MSX2"
+        ]
+      ],
+      [
+        [
+          "UNIX"
+        ],
+        [
+          "/wiki/UNIX"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GPL"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "msxDS"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.93"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "January 1, 2012"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MSX",
+          "MSX2",
+          "MSX2+"
+        ],
+        [
+          "/wiki/MSX",
+          "/wiki/MSX2",
+          "/wiki/MSX"
+        ]
+      ],
+      [
+        [
+          "Nintendo DS"
+        ],
+        [
+          "/wiki/Nintendo_DS"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "NLMSX"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.48"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "June 12, 2003"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MSX",
+          "MSX2",
+          "MSX2+",
+          "MSX TurboR"
+        ],
+        [
+          "/wiki/MSX",
+          "/wiki/MSX2",
+          "/wiki/MSX",
+          "/wiki/MSX"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "NO$MSX"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "May 1, 2003"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MSX",
+          "MSX2"
+        ],
+        [
+          "/wiki/MSX",
+          "/wiki/MSX2"
+        ]
+      ],
+      [
+        [
+          "Windows",
+          "DOS"
+        ],
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/DOS"
+        ]
+      ],
+      [
+        [
+          "Shareware"
+        ],
+        [
+          "/wiki/Shareware"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "openMSX"
+        ],
+        [
+          "/wiki/OpenMSX"
+        ]
+      ],
+      [
+        [
+          "0.15.0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "December 8, 2018"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MSX",
+          "MSX2",
+          "MSX2+",
+          "MSX TurboR",
+          "SpectraVideo SVI318/328",
+          "ColecoVision"
+        ],
+        [
+          "/wiki/MSX",
+          "/wiki/MSX2",
+          "/wiki/MSX",
+          "/wiki/MSX",
+          null,
+          "/wiki/ColecoVision"
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_GPL"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "paraMSX"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.50b"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "October 8, 2009"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MSX",
+          "MSX2",
+          "MSX2+",
+          "MSX TurboR"
+        ],
+        [
+          "/wiki/MSX",
+          "/wiki/MSX2",
+          "/wiki/MSX",
+          "/wiki/MSX"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "rMSX"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "April 1, 2016"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MSX",
+          "MSX2"
+        ],
+        [
+          "/wiki/MSX",
+          "/wiki/MSX2"
+        ]
+      ],
+      [
+        [
+          "MSX tR"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "RuMSX"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.82"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "June 18, 2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MSX",
+          "MSX2",
+          "MSX2+",
+          "MSX TurboR"
+        ],
+        [
+          "/wiki/MSX",
+          "/wiki/MSX2",
+          "/wiki/MSX",
+          "/wiki/MSX"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "jsMSX"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "beta"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "December 29, 2011"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MSX"
+        ],
+        [
+          "/wiki/MSX"
+        ]
+      ],
+      [
+        [
+          "Web browser",
+          "JavaScript"
+        ],
+        [
+          "/wiki/Web_browser",
+          "/wiki/JavaScript"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_GPL"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "WebMSX"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5.4.4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "June 1, 2018"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MSX",
+          "MSX2",
+          "MSX2+"
+        ],
+        [
+          "/wiki/MSX",
+          "/wiki/MSX2",
+          "/wiki/MSX"
+        ]
+      ],
+      [
+        [
+          "Web browser",
+          "JavaScript"
+        ],
+        [
+          "/wiki/Web_browser",
+          "/wiki/JavaScript"
+        ]
+      ],
+      [
+        [
+          "Open Source"
+        ],
+        [
+          "/wiki/Open_Source"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "TMSX"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "beta"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "December 14, 2015"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MSX"
+        ],
+        [
+          "/wiki/MSX"
+        ]
+      ],
+      [
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_(programming_language)"
+        ]
+      ],
+      [
+        [
+          "Open Source"
+        ],
+        [
+          "/wiki/Open_Source"
+        ]
       ]
     ]
   ],

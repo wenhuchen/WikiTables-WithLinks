@@ -1,187 +1,543 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_ViacomCBS_television_programs",
-  "title": "List of ViacomCBS television programs",
+  "url": "https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_conference_realignments_(2000\u2013present)",
+  "title": "List of NCAA Division I conference realignments (2000\u2013present)",
   "header": [
     [
-      "Airdate",
-      null
+      [
+        "School"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Title",
-      null
+      [
+        "Sport(s)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Network",
-      null
+      [
+        "Former Conference"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "New Conference"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "September 13, 1989",
-        null
+        [
+          "Bemidji State",
+          "Beavers"
+        ],
+        [
+          "/wiki/Bemidji_State_University",
+          "/wiki/Bemidji_State_Beavers_men%27s_ice_hockey"
+        ]
       ],
       [
-        "Fire and Rain",
-        "/wiki/Fire_and_Rain_(film)"
+        [
+          "Men's ice hockey"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "USA Network",
-        "/wiki/USA_Network"
+        [
+          "CHA"
+        ],
+        [
+          "/wiki/College_Hockey_America"
+        ]
+      ],
+      [
+        [
+          "WCHA"
+        ],
+        [
+          "/wiki/Western_Collegiate_Hockey_Association"
+        ]
       ]
     ],
     [
       [
-        "July 11, 1990",
-        null
+        [
+          "Duquesne",
+          "Dukes"
+        ],
+        [
+          "/wiki/Duquesne_University",
+          "/wiki/Duquesne_Dukes"
+        ]
       ],
       [
-        "Wheels of Terror",
-        "/wiki/Wheels_of_Terror"
+        [
+          "Baseball"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "USA Network",
-        null
+        [
+          "Atlantic 10"
+        ],
+        [
+          "/wiki/Atlantic_10_Conference"
+        ]
+      ],
+      [
+        [
+          "Dropped baseball"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "October 31, 1990",
-        null
+        [
+          "Georgia State",
+          "Panthers"
+        ],
+        [
+          "/wiki/Georgia_State_University",
+          "/wiki/Georgia_State_Panthers_football"
+        ]
       ],
       [
-        "Nightmare on the 13th Floor",
-        "/wiki/Nightmare_on_the_13th_Floor"
+        [
+          "Football"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "USA Network",
-        null
+        [
+          "(non-football)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Division I FCS Independent"
+        ],
+        [
+          "/wiki/NCAA_Division_I_FCS_independent_schools"
+        ]
       ]
     ],
     [
       [
-        "January 29, 1991",
-        null
+        [
+          "High Point",
+          "Panthers"
+        ],
+        [
+          "/wiki/High_Point_University",
+          "/wiki/High_Point_Panthers_women%27s_lacrosse"
+        ]
       ],
       [
-        "Deadly Desire",
-        "/wiki/Deadly_Desire"
+        [
+          "Women's lacrosse"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "USA Network",
-        null
+        [
+          "Club team"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "National Lacrosse Conference"
+        ],
+        [
+          "/wiki/National_Lacrosse_Conference"
+        ]
       ]
     ],
     [
       [
-        "March 18, 1992",
-        null
+        [
+          "Hofstra",
+          "Pride"
+        ],
+        [
+          "/wiki/Hofstra_University",
+          "/wiki/Hofstra_Pride_football"
+        ]
       ],
       [
-        "Duplicates",
-        null
+        [
+          "Football"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "USA Network",
-        null
+        [
+          "CAA"
+        ],
+        [
+          "/wiki/Colonial_Athletic_Association"
+        ]
+      ],
+      [
+        [
+          "Dropped football"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "April 8, 1992",
-        null
+        [
+          "Lamar",
+          "Cardinals"
+        ],
+        [
+          "/wiki/Lamar_University",
+          "/wiki/Lamar_Cardinals_football"
+        ]
       ],
       [
-        "Treacherous Crossing",
-        null
+        [
+          "Football"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "USA Network",
-        null
+        [
+          "(non-football)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Division I FCS Independent"
+        ],
+        [
+          "/wiki/NCAA_Division_I_FCS_independent_schools"
+        ]
       ]
     ],
     [
       [
-        "October 8, 1993",
-        null
+        [
+          "Old Dominion",
+          "Monarchs"
+        ],
+        [
+          "/wiki/Old_Dominion_University",
+          "/wiki/Old_Dominion_Monarchs_football"
+        ]
       ],
       [
-        "Linda",
-        "/wiki/Linda_(1993_film)"
+        [
+          "Football"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "USA Network",
-        null
+        [
+          "(non-football)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Division I FCS Independent"
+        ],
+        [
+          "/wiki/NCAA_Division_I_FCS_independent_schools"
+        ]
       ]
     ],
     [
       [
-        "March 17, 1994",
-        null
+        [
+          "New Orleans",
+          "Privateers"
+        ],
+        [
+          "/wiki/University_of_New_Orleans",
+          "/wiki/New_Orleans_Privateers"
+        ]
       ],
       [
-        "Accidental Meeting",
-        "/wiki/Accidental_Meeting"
+        [
+          "All sports (non-football)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "USA Network",
-        null
+        [
+          "Sun Belt"
+        ],
+        [
+          "/wiki/Sun_Belt_Conference"
+        ]
+      ],
+      [
+        [
+          "Independent"
+        ],
+        [
+          "/wiki/NCAA_Division_I_independent_schools_(basketball)"
+        ]
       ]
     ],
     [
       [
-        "January 5, 1995",
-        null
+        [
+          "Niagara",
+          "Purple Eagles"
+        ],
+        [
+          "/wiki/Niagara_University",
+          "/wiki/Niagara_Purple_Eagles_men%27s_ice_hockey"
+        ]
       ],
       [
-        "A Vow to Kill",
-        "/wiki/A_Vow_to_Kill"
+        [
+          "Men's ice hockey"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "USA Network",
-        null
+        [
+          "CHA"
+        ],
+        [
+          "/wiki/College_Hockey_America"
+        ]
+      ],
+      [
+        [
+          "Atlantic Hockey"
+        ],
+        [
+          "/wiki/Atlantic_Hockey"
+        ]
       ]
     ],
     [
       [
-        "May 10, 1995",
-        null
+        [
+          "Northeastern",
+          "Huskies"
+        ],
+        [
+          "/wiki/Northeastern_University",
+          "/wiki/Northeastern_Huskies_football"
+        ]
       ],
       [
-        "As Good as Dead",
-        "/wiki/As_Good_as_Dead_(1995_film)"
+        [
+          "Football"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "USA Network",
-        null
+        [
+          "CAA"
+        ],
+        [
+          "/wiki/Colonial_Athletic_Association"
+        ]
+      ],
+      [
+        [
+          "Dropped football"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "January 14, 1998",
-        null
+        [
+          "Robert Morris",
+          "Colonials"
+        ],
+        [
+          "/wiki/Robert_Morris_University",
+          "/wiki/Robert_Morris_Colonials_men%27s_ice_hockey"
+        ]
       ],
       [
-        "Atomic Dog",
-        "/wiki/Atomic_Dog_(film)"
+        [
+          "Men's ice hockey"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "USA Network",
-        null
+        [
+          "CHA"
+        ],
+        [
+          "/wiki/College_Hockey_America"
+        ]
+      ],
+      [
+        [
+          "Atlantic Hockey"
+        ],
+        [
+          "/wiki/Atlantic_Hockey"
+        ]
       ]
     ],
     [
       [
-        "January 28, 1999",
-        null
+        [
+          "SIU Edwardsville",
+          "Cougars"
+        ],
+        [
+          "/wiki/Southern_Illinois_University_Edwardsville",
+          "/wiki/SIU_Edwardsville_Cougars"
+        ]
       ],
       [
-        "Alien Cargo",
-        "/wiki/Alien_Cargo"
+        [
+          "Men's Soccer"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UPN",
-        "/wiki/UPN"
+        [
+          "Division I Independent"
+        ],
+        [
+          "/wiki/NCAA_Division_I_independent_schools_(soccer)"
+        ]
+      ],
+      [
+        [
+          "Missouri Valley Conference"
+        ],
+        [
+          "/wiki/Missouri_Valley_Conference"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "UAH",
+          "Chargers"
+        ],
+        [
+          "/wiki/University_of_Alabama_in_Huntsville",
+          "/wiki/Alabama-Huntsville_Chargers_men%27s_ice_hockey"
+        ]
+      ],
+      [
+        [
+          "Hockey"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "CHA"
+        ],
+        [
+          "/wiki/College_Hockey_America"
+        ]
+      ],
+      [
+        [
+          "Division I Independent"
+        ],
+        [
+          "/wiki/NCAA_Division_I_independent_schools_(ice_hockey)"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "UNO",
+          "Mavericks"
+        ],
+        [
+          "/wiki/University_of_Nebraska_Omaha",
+          "/wiki/Omaha_Mavericks_men%27s_ice_hockey"
+        ]
+      ],
+      [
+        [
+          "Hockey"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "CCHA"
+        ],
+        [
+          "/wiki/Central_Collegiate_Hockey_Association"
+        ]
+      ],
+      [
+        [
+          "WCHA"
+        ],
+        [
+          "/wiki/Western_Collegiate_Hockey_Association"
+        ]
       ]
     ]
   ],

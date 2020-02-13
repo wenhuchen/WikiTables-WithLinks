@@ -1,159 +1,805 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2002_Winter_Olympics",
-  "title": "2002 Winter Olympics",
+  "url": "https://en.wikipedia.org/wiki/MLS_Golden_Boot",
+  "title": "MLS Golden Boot",
   "header": [
     [
-      "Venue",
-      null
+      [
+        "Season"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Events",
-      null
+      [
+        "Player"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Gross capacity",
-      null
+      [
+        "Club"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Goals"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Games"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Rate"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Deer Valley",
-        "/wiki/Deer_Valley"
+        [
+          "2005"
+        ],
+        [
+          "/wiki/2005_Major_League_Soccer_season"
+        ]
       ],
       [
-        "Alpine skiing,freestyle skiing",
-        "/wiki/Alpine_skiing_at_the_2002_Winter_Olympics /wiki/Freestyle_skiing_at_the_2002_Winter_Olympics"
+        [
+          "Taylor Twellman"
+        ],
+        [
+          "/wiki/Taylor_Twellman"
+        ]
       ],
       [
-        "13,400",
-        null
+        [
+          "New England Revolution"
+        ],
+        [
+          "/wiki/New_England_Revolution"
+        ]
+      ],
+      [
+        [
+          "17"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "25"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.68"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "E Center",
-        "/wiki/E_Center"
+        [
+          "2006"
+        ],
+        [
+          "/wiki/2006_Major_League_Soccer_season"
+        ]
       ],
       [
-        "Ice hockey",
-        "/wiki/Ice_hockey_at_the_2002_Winter_Olympics"
+        [
+          "Jeff Cunningham"
+        ],
+        [
+          "/wiki/Jeff_Cunningham"
+        ]
       ],
       [
-        "10,500",
-        null
+        [
+          "Real Salt Lake"
+        ],
+        [
+          "/wiki/Real_Salt_Lake"
+        ]
+      ],
+      [
+        [
+          "16"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "31"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.52"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Park City Mountain Resort",
-        "/wiki/Park_City_Mountain_Resort"
+        [
+          "2007"
+        ],
+        [
+          "/wiki/2007_Major_League_Soccer_season"
+        ]
       ],
       [
-        "snowboarding",
-        "/wiki/Snowboarding_at_the_2002_Winter_Olympics"
+        [
+          "Luciano Emilio"
+        ],
+        [
+          "/wiki/Luciano_Emilio"
+        ]
       ],
       [
-        "16,000",
-        null
+        [
+          "D.C. United"
+        ],
+        [
+          "/wiki/D.C._United"
+        ]
+      ],
+      [
+        [
+          "20"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "29"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.69"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Peaks Ice Arena",
-        "/wiki/Peaks_Ice_Arena"
+        [
+          "2008"
+        ],
+        [
+          "/wiki/2008_Major_League_Soccer_season"
+        ]
       ],
       [
-        "Ice hockey",
-        null
+        [
+          "Landon Donovan"
+        ],
+        [
+          "/wiki/Landon_Donovan"
+        ]
       ],
       [
-        "8,400",
-        null
+        [
+          "Los Angeles Galaxy"
+        ],
+        [
+          "/wiki/Los_Angeles_Galaxy"
+        ]
+      ],
+      [
+        [
+          "20"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "25"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.80"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Salt Lake Ice Center",
-        "/wiki/Salt_Lake_Ice_Center"
+        [
+          "2009"
+        ],
+        [
+          "/wiki/2009_Major_League_Soccer_season"
+        ]
       ],
       [
-        "Figure skating,short track speed skating",
-        "/wiki/Figure_skating_at_the_2002_Winter_Olympics /wiki/Short_track_speed_skating_at_the_2002_Winter_Olympics"
+        [
+          "Jeff Cunningham"
+        ],
+        [
+          "/wiki/Jeff_Cunningham"
+        ]
       ],
       [
-        "17,500",
-        null
+        [
+          "FC Dallas"
+        ],
+        [
+          "/wiki/FC_Dallas"
+        ]
+      ],
+      [
+        [
+          "17"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "28"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.61"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Snowbasin",
-        "/wiki/Snowbasin"
+        [
+          "2010"
+        ],
+        [
+          "/wiki/2010_Major_League_Soccer_season"
+        ]
       ],
       [
-        "Alpine skiing (combined, downhill, super-G)",
-        null
+        [
+          "Chris Wondolowski"
+        ],
+        [
+          "/wiki/Chris_Wondolowski"
+        ]
       ],
       [
-        "22,500",
-        null
+        [
+          "San Jose Earthquakes"
+        ],
+        [
+          "/wiki/San_Jose_Earthquakes"
+        ]
+      ],
+      [
+        [
+          "18"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "28"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.64"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Soldier Hollow",
-        "/wiki/Soldier_Hollow"
+        [
+          "2011"
+        ],
+        [
+          "/wiki/2011_Major_League_Soccer_season"
+        ]
       ],
       [
-        "Biathlon,cross-country skiing,Nordic combined",
-        "/wiki/Biathlon_at_the_2002_Winter_Olympics /wiki/Cross-country_skiing_at_the_2002_Winter_Olympics /wiki/Nordic_combined_at_the_2002_Winter_Olympics"
+        [
+          "Dwayne De Rosario"
+        ],
+        [
+          "/wiki/Dwayne_De_Rosario"
+        ]
       ],
       [
-        "15,200",
-        null
+        [
+          "D.C. United"
+        ],
+        [
+          "/wiki/D.C._United"
+        ]
+      ],
+      [
+        [
+          "16"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "33"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.48"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "The Ice Sheet at Ogden",
-        "/wiki/The_Ice_Sheet_at_Ogden"
+        [
+          "2012"
+        ],
+        [
+          "/wiki/2012_Major_League_Soccer_season"
+        ]
       ],
       [
-        "Curling",
-        "/wiki/Curling_at_the_2002_Winter_Olympics"
+        [
+          "Chris Wondolowski"
+        ],
+        [
+          "/wiki/Chris_Wondolowski"
+        ]
       ],
       [
-        "2,000",
-        null
+        [
+          "San Jose Earthquakes"
+        ],
+        [
+          "/wiki/San_Jose_Earthquakes"
+        ]
+      ],
+      [
+        [
+          "27"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "32"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.84"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Utah Olympic Oval",
-        "/wiki/Utah_Olympic_Oval"
+        [
+          "2013"
+        ],
+        [
+          "/wiki/2013_Major_League_Soccer_season"
+        ]
       ],
       [
-        "Speed skating",
-        "/wiki/Speed_skating_at_the_2002_Winter_Olympics"
+        [
+          "Camilo Sanvezzo"
+        ],
+        [
+          "/wiki/Camilo_Sanvezzo"
+        ]
       ],
       [
-        "5,236",
-        null
+        [
+          "Vancouver Whitecaps FC"
+        ],
+        [
+          "/wiki/Vancouver_Whitecaps_FC"
+        ]
+      ],
+      [
+        [
+          "22"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "32"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.69"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Utah Olympic Park,bobsleigh, luge, and skeleton track",
-        "/wiki/Utah_Olympic_Park /wiki/Utah_Olympic_Park_Track"
+        [
+          "2014"
+        ],
+        [
+          "/wiki/2014_Major_League_Soccer_season"
+        ]
       ],
       [
-        "Bobsleigh,luge,skeleton,ski jumping",
-        "/wiki/Bobsleigh_at_the_2002_Winter_Olympics /wiki/Luge_at_the_2002_Winter_Olympics /wiki/Skeleton_at_the_2002_Winter_Olympics /wiki/Ski_jumping_at_the_2002_Winter_Olympics"
+        [
+          "Bradley Wright-Phillips"
+        ],
+        [
+          "/wiki/Bradley_Wright-Phillips"
+        ]
       ],
       [
-        "18,100 (ski jumping)15,000 (sliding track)",
-        null
+        [
+          "New York Red Bulls"
+        ],
+        [
+          "/wiki/New_York_Red_Bulls"
+        ]
+      ],
+      [
+        [
+          "27"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "32"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.84"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2015"
+        ],
+        [
+          "/wiki/2015_Major_League_Soccer_season"
+        ]
+      ],
+      [
+        [
+          "Sebastian Giovinco"
+        ],
+        [
+          "/wiki/Sebastian_Giovinco"
+        ]
+      ],
+      [
+        [
+          "Toronto FC"
+        ],
+        [
+          "/wiki/Toronto_FC"
+        ]
+      ],
+      [
+        [
+          "22"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "33"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.67"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2016"
+        ],
+        [
+          "/wiki/2016_Major_League_Soccer_season"
+        ]
+      ],
+      [
+        [
+          "Bradley Wright-Phillips"
+        ],
+        [
+          "/wiki/Bradley_Wright-Phillips"
+        ]
+      ],
+      [
+        [
+          "New York Red Bulls"
+        ],
+        [
+          "/wiki/New_York_Red_Bulls"
+        ]
+      ],
+      [
+        [
+          "24"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "34"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.71"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2017"
+        ],
+        [
+          "/wiki/2017_Major_League_Soccer_season"
+        ]
+      ],
+      [
+        [
+          "Nemanja Nikoli\u0107"
+        ],
+        [
+          "/wiki/Nemanja_Nikoli%C4%87_(footballer,_born_1987)"
+        ]
+      ],
+      [
+        [
+          "Chicago Fire"
+        ],
+        [
+          "/wiki/Chicago_Fire_Soccer_Club"
+        ]
+      ],
+      [
+        [
+          "24"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "33"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.73"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2018"
+        ],
+        [
+          "/wiki/2018_Major_League_Soccer_season"
+        ]
+      ],
+      [
+        [
+          "Josef Mart\u00ednez"
+        ],
+        [
+          "/wiki/Josef_Mart%C3%ADnez"
+        ]
+      ],
+      [
+        [
+          "Atlanta United"
+        ],
+        [
+          "/wiki/Atlanta_United_FC"
+        ]
+      ],
+      [
+        [
+          "31"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "34"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.91"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2019"
+        ],
+        [
+          "/wiki/2019_Major_League_Soccer_season"
+        ]
+      ],
+      [
+        [
+          "Carlos Vela"
+        ],
+        [
+          "/wiki/Carlos_Vela"
+        ]
+      ],
+      [
+        [
+          "Los Angeles FC"
+        ],
+        [
+          "/wiki/Los_Angeles_FC"
+        ]
+      ],
+      [
+        [
+          "34"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "31"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.09"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

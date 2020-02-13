@@ -1,145 +1,549 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC",
-  "title": "Vancouver Whitecaps FC",
+  "url": "https://en.wikipedia.org/wiki/Kabul_Province",
+  "title": "Kabul Province",
   "header": [
     [
-      "Year",
-      null
+      [
+        "District"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Player",
-      null
+      [
+        "Capital"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Goals",
-      null
+      [
+        "Population"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Ethnic data (%)"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "2011",
-        "/wiki/2011_Vancouver_Whitecaps_FC_season"
+        [
+          "Bagrami"
+        ],
+        [
+          "/wiki/Bagrami_District"
+        ]
       ],
       [
-        "Camilo",
-        "/wiki/Camilo_Sanvezzo"
+        [
+          "Bagrami"
+        ],
+        [
+          "/wiki/Bagrami"
+        ]
       ],
       [
-        "12",
-        null
+        [
+          "85,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Pashtuns"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2012",
-        "/wiki/2012_Vancouver_Whitecaps_FC_season"
+        [
+          "Chahar Asyab"
+        ],
+        [
+          "/wiki/Chahar_Asyab_District"
+        ]
       ],
       [
-        "Darren Mattocks",
-        "/wiki/Darren_Mattocks"
+        [
+          "Qalai Naeem"
+        ],
+        [
+          "/wiki/Qalai_Naeem"
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "32,500"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Pashtuns"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2013",
-        "/wiki/2013_Vancouver_Whitecaps_FC_season"
+        [
+          "Deh Sabz"
+        ],
+        [
+          "/wiki/Deh_Sabz_District"
+        ]
       ],
       [
-        "Camilo",
-        "/wiki/Camilo_Sanvezzo"
+        [
+          "Tarakhel"
+        ],
+        [
+          "/wiki/Tarakhel"
+        ]
       ],
       [
-        "22",
-        null
+        [
+          "47,900"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "UNHCR Sub-Office Central Region - District Profile - Deh Sabz"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2014",
-        "/wiki/2014_Vancouver_Whitecaps_FC_season"
+        [
+          "Farza"
+        ],
+        [
+          "/wiki/Farza_District"
+        ]
       ],
       [
-        "Pedro Morales",
-        "/wiki/Pedro_Morales_(footballer)"
+        [
+          "Dehnawe Farza"
+        ],
+        [
+          "/wiki/Dehnawe_Farza"
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "19,100"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "40% Pashtuns60% Tajiks"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2015",
-        "/wiki/2015_Vancouver_Whitecaps_FC_season"
+        [
+          "Guldara"
+        ],
+        [
+          "/wiki/Guldara_District"
+        ]
       ],
       [
-        "Octavio Rivero",
-        "/wiki/Octavio_Rivero"
+        [
+          "Guldara"
+        ],
+        [
+          "/wiki/Guldara"
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "25,213"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "85% Tajiks15% Pashtuns"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2016",
-        "/wiki/2016_Vancouver_Whitecaps_FC_season"
+        [
+          "Istalif"
+        ],
+        [
+          "/wiki/Istalif_District"
+        ]
       ],
       [
-        "Pedro Morales",
-        "/wiki/Pedro_Morales_(footballer)"
+        [
+          "Istalif"
+        ],
+        [
+          "/wiki/Istalif"
+        ]
       ],
       [
-        "9",
-        null
+        [
+          "29,800"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tajik"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2017",
-        "/wiki/2017_Vancouver_Whitecaps_FC_season"
+        [
+          "Kabul"
+        ],
+        [
+          "/wiki/Kabul_District"
+        ]
       ],
       [
-        "Fredy Montero",
-        "/wiki/Fredy_Montero"
+        [
+          "Kabul"
+        ],
+        [
+          "/wiki/Kabul"
+        ]
       ],
       [
-        "13",
-        null
+        [
+          "3,289,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Hindu"
+        ],
+        [
+          "/wiki/Hinduism_in_Afghanistan"
+        ]
       ]
     ],
     [
       [
-        "2018",
-        "/wiki/2018_Vancouver_Whitecaps_FC_season"
+        [
+          "Kalakan"
+        ],
+        [
+          "/wiki/Kalakan_District"
+        ]
       ],
       [
-        "Kei Kamara",
-        "/wiki/Kei_Kamara"
+        [
+          "Kalakan"
+        ],
+        [
+          "/wiki/Kalakan"
+        ]
       ],
       [
-        "14",
-        null
+        [
+          "26,900"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Predominantly Tajik"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2019",
-        "/wiki/2019_Vancouver_Whitecaps_FC_season"
+        [
+          "Khaki Jabbar"
+        ],
+        [
+          "/wiki/Khaki_Jabbar_District"
+        ]
       ],
       [
-        "Fredy Montero",
-        "/wiki/Fredy_Montero"
+        [
+          "Khak-i Jabbar"
+        ],
+        [
+          "/wiki/Khak-i_Jabbar"
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "75,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Pashtuns"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Sarai-khuwaja"
+        ],
+        [
+          "/wiki/Mir_Bacha_Kot_District"
+        ]
+      ],
+      [
+        [
+          "Mir Bacha Kot"
+        ],
+        [
+          "/wiki/Mir_Bacha_Kot"
+        ]
+      ],
+      [
+        [
+          "46,300"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Predominantly Tajik"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Mussahi"
+        ],
+        [
+          "/wiki/Mussahi_District"
+        ]
+      ],
+      [
+        [
+          "Mussahi"
+        ],
+        [
+          "/wiki/Mussahi"
+        ]
+      ],
+      [
+        [
+          "30,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Pashtuns"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Paghman"
+        ],
+        [
+          "/wiki/Paghman_District"
+        ]
+      ],
+      [
+        [
+          "Paghman"
+        ],
+        [
+          "/wiki/Paghman"
+        ]
+      ],
+      [
+        [
+          "150,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "75% Pashtuns25% Tajiks"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Qarabagh"
+        ],
+        [
+          "/wiki/Qarabagh_District,_Kabul"
+        ]
+      ],
+      [
+        [
+          "Qara Bagh"
+        ],
+        [
+          "/wiki/Qara_Bagh,_Kabul_Province"
+        ]
+      ],
+      [
+        [
+          "67,700"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "50% Tajiks50% Pashtuns"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Shakardara"
+        ],
+        [
+          "/wiki/Shakardara_District"
+        ]
+      ],
+      [
+        [
+          "Shakar Dara"
+        ],
+        [
+          "/wiki/Shakar_Dara"
+        ]
+      ],
+      [
+        [
+          "72,900"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "60% Tajiks40% Pashtuns"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Surobi"
+        ],
+        [
+          "/wiki/Surobi_District_(Kabul)"
+        ]
+      ],
+      [
+        [
+          "Surobi"
+        ],
+        [
+          "/wiki/Surobi,_Kabul"
+        ]
+      ],
+      [
+        [
+          "150,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Pashais"
+        ],
+        [
+          "/wiki/Pashai_people"
+        ]
       ]
     ]
   ],

@@ -1,167 +1,459 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2006_Aerobic_Gymnastics_World_Championships",
-  "title": "2006 Aerobic Gymnastics World Championships",
+  "url": "https://en.wikipedia.org/wiki/List_of_matrices",
+  "title": "List of matrices",
   "header": [
     [
-      "Rank",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Gymnast",
-      null
+      [
+        "Explanation"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country",
-      null
-    ],
-    [
-      "Point",
-      null
+      [
+        "Notes"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "",
-        null
+        [
+          "Circular matrix",
+          "Coninvolutory matrix"
+        ],
+        [
+          null,
+          null
+        ]
       ],
       [
-        "Ao Jinping",
-        "/wiki/HTTP_404"
+        [
+          "A matrix whose inverse is equal to its entrywise complex conjugate: A = A."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "China",
-        "/wiki/China"
-      ],
-      [
-        "21.700",
-        null
+        [
+          "Compare with unitary matrices."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "",
-        null
+        [
+          "Congruent matrix"
+        ],
+        [
+          "/wiki/Matrix_congruence"
+        ]
       ],
       [
-        "Ivan Parejo",
-        "/wiki/Ivan_Parejo"
+        [
+          "Two matrices A and B are congruent if there exists an invertible matrix P such that P A P = B."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Spain",
-        "/wiki/Spain"
-      ],
-      [
-        "21.200",
-        null
+        [
+          "Compare with similar matrices."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "",
-        null
+        [
+          "EP matrix"
+        ],
+        [
+          "/wiki/EP_matrix"
+        ]
       ],
       [
-        "Mircea Zamfir",
-        "/wiki/Mircea_Zamfir"
+        [
+          "Moore\u2013Penrose inverse"
+        ],
+        [
+          "/wiki/Moore%E2%80%93Penrose_inverse"
+        ]
       ],
       [
-        "Romania",
-        "/wiki/Romania"
-      ],
-      [
-        "21.050",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "Idempotent matrix",
+          "Projection Matrix"
+        ],
+        [
+          "/wiki/Idempotent_matrix",
+          "/wiki/Projection_(linear_algebra)"
+        ]
       ],
       [
-        "Vito Iaia",
-        "/wiki/HTTP_404"
+        [
+          "A matrix that has the property A\u00b2 = AA = A."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Italy",
-        "/wiki/Italy"
-      ],
-      [
-        "20.850",
-        null
+        [
+          "one projection"
+        ],
+        [
+          "/wiki/Projection_(linear_algebra)"
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Invertible matrix"
+        ],
+        [
+          "/wiki/Invertible_matrix"
+        ]
       ],
       [
-        "Popa Bogdan",
-        "/wiki/HTTP_404"
+        [
+          "inverse"
+        ],
+        [
+          "/wiki/Inverse_matrix"
+        ]
       ],
       [
-        "Romania",
-        "/wiki/Romania"
-      ],
-      [
-        "20.700",
-        null
+        [
+          "general linear group"
+        ],
+        [
+          "/wiki/General_linear_group"
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "Involutory matrix"
+        ],
+        [
+          "/wiki/Involutory_matrix"
+        ]
       ],
       [
-        "Gr\u00e9gory Alcan",
-        "/wiki/HTTP_404"
+        [
+          "A square matrix which is its own inverse, i.e., AA = I."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "France",
-        "/wiki/France"
-      ],
-      [
-        "20.700",
-        null
+        [
+          "Signature matrices",
+          "Householder Matrices"
+        ],
+        [
+          "/wiki/Signature_matrix",
+          "/wiki/Householder_transformation"
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "Nilpotent matrix"
+        ],
+        [
+          "/wiki/Nilpotent_matrix"
+        ]
       ],
       [
-        "Jonatan Canada",
-        "/wiki/HTTP_404"
+        [
+          "A square matrix satisfying A = 0 for some positive integer q."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Spain",
-        "/wiki/Spain"
-      ],
-      [
-        "19.900",
-        null
+        [
+          "Equivalently, the only eigenvalue of A is 0."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "Normal matrix"
+        ],
+        [
+          "/wiki/Normal_matrix"
+        ]
       ],
       [
-        "Song Bo",
-        "/wiki/Song_Bo"
+        [
+          "conjugate transpose"
+        ],
+        [
+          "/wiki/Conjugate_transpose"
+        ]
       ],
       [
-        "China",
-        "/wiki/China"
+        [
+          "spectral theorem"
+        ],
+        [
+          "/wiki/Spectral_theorem"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Orthogonal matrix"
+        ],
+        [
+          "/wiki/Orthogonal_matrix"
+        ]
       ],
       [
-        "19.750",
-        null
+        [
+          "transpose"
+        ],
+        [
+          "/wiki/Transpose"
+        ]
+      ],
+      [
+        [
+          "orthogonal group"
+        ],
+        [
+          "/wiki/Orthogonal_group"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Orthonormal matrix"
+        ],
+        [
+          "/wiki/Orthonormal_matrix"
+        ]
+      ],
+      [
+        [
+          "orthonormal"
+        ],
+        [
+          "/wiki/Orthonormal"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Singular matrix"
+        ],
+        [
+          "/wiki/Singular_matrix"
+        ]
+      ],
+      [
+        [
+          "A square matrix that is not invertible."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Unimodular matrix"
+        ],
+        [
+          "/wiki/Unimodular_matrix"
+        ]
+      ],
+      [
+        [
+          "integer matrix"
+        ],
+        [
+          "/wiki/Integer_matrix"
+        ]
+      ],
+      [
+        [
+          "Necessarily the determinant is +1 or \u22121."
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Unipotent matrix"
+        ],
+        [
+          "/wiki/Unipotent_matrix"
+        ]
+      ],
+      [
+        [
+          "A square matrix with all eigenvalues equal to 1."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "unipotent group"
+        ],
+        [
+          "/wiki/Unipotent_group"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Unitary matrix"
+        ],
+        [
+          "/wiki/Unitary_matrix"
+        ]
+      ],
+      [
+        [
+          "conjugate transpose"
+        ],
+        [
+          "/wiki/Conjugate_transpose"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Totally unimodular matrix"
+        ],
+        [
+          "/wiki/Totally_unimodular_matrix"
+        ]
+      ],
+      [
+        [
+          "unimodular",
+          "linear programming",
+          "relaxation",
+          "integer program"
+        ],
+        [
+          "/wiki/Unimodular_matrix",
+          "/wiki/Linear_programming",
+          "/wiki/Linear_programming_relaxation",
+          "/wiki/Integer_program"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Weighing matrix"
+        ],
+        [
+          "/wiki/Weighing_matrix"
+        ]
+      ],
+      [
+        [
+          "A square matrix the entries of which are in {0, 1, \u22121}, such that AA = wI for some positive integer w."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

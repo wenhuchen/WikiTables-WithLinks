@@ -1,383 +1,1073 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Republic_of_the_Congo",
-  "title": "List of airports in the Republic of the Congo",
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
   "header": [
     [
-      "LOCATION",
-      null
+      [
+        "Emulator"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "ICAO",
-      "/wiki/ICAO_airport_code"
+      [
+        "Latest version"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "IATA",
-      "/wiki/IATA_airport_code"
+      [
+        "Released"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "AIRPORT\u00a0NAME",
-      null
+      [
+        "Guest emulation capabilities"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Host Operating System"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "License"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "B\u00e9tou",
-        "/wiki/B%C3%A9tou"
+        [
+          "MAME",
+          "MESS"
+        ],
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
       ],
       [
-        "FCOT",
-        null
+        [
+          "0.196"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BTB",
-        null
+        [
+          "March 28, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "B\u00e9tou Airport",
-        "/wiki/B%C3%A9tou_Airport"
+        [
+          "Various computers, consoles, and arcade systems"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "New BSD",
+          "GPLv2"
+        ],
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "Boundji",
-        "/wiki/Boundji"
+        [
+          "MagiC64"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCOB",
-        null
+        [
+          "1.81"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BOE",
-        null
+        [
+          "January 13, 1999"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Boundji Airport",
-        "/wiki/Boundji_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "Amiga"
+        ],
+        [
+          "/wiki/Amiga"
+        ]
+      ],
+      [
+        [
+          "Shareware"
+        ],
+        [
+          "/wiki/Shareware"
+        ]
       ]
     ],
     [
       [
-        "Brazzaville",
-        "/wiki/Brazzaville"
+        [
+          "C64S"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCBB",
-        null
+        [
+          "2.5B"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BZV",
-        null
+        [
+          "February 28, 1997"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Maya-Maya Airport",
-        "/wiki/Maya-Maya_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "DOS"
+        ],
+        [
+          "/wiki/DOS"
+        ]
+      ],
+      [
+        [
+          "Shareware"
+        ],
+        [
+          "/wiki/Shareware"
+        ]
       ]
     ],
     [
       [
-        "Djambala",
-        "/wiki/Djambala"
+        [
+          "PC64Dos"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCBD",
-        null
+        [
+          "1.22"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "DJM",
-        null
+        [
+          "September 1, 1997"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Djambala Airport",
-        "/wiki/Djambala_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "DOS"
+        ],
+        [
+          "/wiki/DOS"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Dolisie",
-        "/wiki/Dolisie"
+        [
+          "PC64Win"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCPL",
-        null
+        [
+          "2.14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "DIS",
-        null
+        [
+          "January 15, 1997"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dolisie Airport",
-        "/wiki/Dolisie_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Enyell\u00e9",
-        "/wiki/Enyell%C3%A9"
+        [
+          "VICE"
+        ],
+        [
+          "/wiki/VICE"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "3.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "May 20, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Enyell\u00e9 Airport",
-        "/wiki/HTTP_404"
+        [
+          "Commodore 64",
+          "Commodore 128",
+          "Commodore VIC-20",
+          "Commodore PET",
+          "Commodore Plus/4",
+          "CBM-II"
+        ],
+        [
+          "/wiki/Commodore_64",
+          "/wiki/Commodore_128",
+          "/wiki/Commodore_VIC-20",
+          "/wiki/Commodore_PET",
+          "/wiki/Commodore_Plus/4",
+          "/wiki/CBM-II"
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Ewo",
-        "/wiki/Ewo"
+        [
+          "PSPVice"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCOE",
-        null
+        [
+          "1.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "EWO",
-        null
+        [
+          "January 2008"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ewo Airport",
-        "/wiki/Ewo_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "Sony PSP"
+        ],
+        [
+          "/wiki/Sony_PSP"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Gamboma",
-        "/wiki/Gamboma"
+        [
+          "VICE PSP"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCOG",
-        null
+        [
+          "2.2.15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GMM",
-        null
+        [
+          "January 16, 2011"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Gamboma Airport",
-        "/wiki/Gamboma_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "Sony PSP"
+        ],
+        [
+          "/wiki/Sony_PSP"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Impfondo",
-        "/wiki/Impfondo"
+        [
+          "CCS64"
+        ],
+        [
+          "/wiki/CCS64"
+        ]
       ],
       [
-        "FCOI",
-        null
+        [
+          "3.9.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ION",
-        null
+        [
+          "September 8, 2015"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Impfondo Airport",
-        "/wiki/Impfondo_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "Shareware"
+        ],
+        [
+          "/wiki/Shareware"
+        ]
       ]
     ],
     [
       [
-        "Kelle",
-        "/wiki/Kelle"
+        [
+          "Frodo"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCOK",
-        null
+        [
+          "4.1b"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "KEE",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kelle Airport",
-        "/wiki/Kelle_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Kindamba",
-        "/wiki/Kindamba"
+        [
+          "Frodo (Mac)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCBK",
-        null
+        [
+          "4.4.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "KNJ",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kindamba Airport",
-        "/wiki/Kindamba_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "OS X"
+        ],
+        [
+          "/wiki/OS_X"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Makabana",
-        "/wiki/Makabana"
+        [
+          "FrodoDS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCPA",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "KMK",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Makabana Airport",
-        "/wiki/Makabana_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "Nintendo DS"
+        ],
+        [
+          "/wiki/Nintendo_DS"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Makoua",
-        "/wiki/Makoua"
+        [
+          "Hoxs64"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCOM",
-        null
+        [
+          "1.0.9.8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "MKJ",
-        null
+        [
+          "February 4, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Makoua Airport",
-        "/wiki/Makoua_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Mossendjo",
-        "/wiki/Mossendjo"
+        [
+          "Micro64"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCMM",
-        null
+        [
+          "1.00.2013.05.11 Build 714"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "MSX",
-        null
+        [
+          "May 11, 2013"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mossendjo Airport",
-        "/wiki/Mossendjo_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "Windows",
+          "Linux",
+          "OS X"
+        ],
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/Linux",
+          "/wiki/OS_X"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Mouyondzi",
-        "/wiki/Mouyondzi"
+        [
+          "Hyper64"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCBM",
-        null
+        [
+          "1.00.2008.08.08 Build 20"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "MUY",
-        null
+        [
+          "August 8, 2008"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mouyondzi Airport",
-        "/wiki/Mouyondzi_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Nkayi",
-        "/wiki/Nkayi,_Republic_of_the_Congo"
+        [
+          "JME C64"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCBY",
-        null
+        [
+          "1.13"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NKY",
-        null
+        [
+          "October 2, 2009"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Yokangassi Airport",
-        "/wiki/Yokangassi_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_Platform"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Oyo",
-        "/wiki/Oyo,_Republic_of_the_Congo"
+        [
+          "ec64"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCOD",
-        null
+        [
+          "0.17"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "OLL",
-        null
+        [
+          "December 21, 2003"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Oyo Ollombo Airport",
-        "/wiki/Oyo_Ollombo_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "Linux"
+        ],
+        [
+          "/wiki/Linux"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Okoyo",
-        "/wiki/Okoyo"
+        [
+          "VirtualC64"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "1.8.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "OKG",
-        null
+        [
+          "March 23, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Okoyo Airport",
-        "/wiki/Okoyo_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "OS X"
+        ],
+        [
+          "/wiki/OS_X"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Ouesso",
-        "/wiki/Ouesso"
+        [
+          "Jac64"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCOU",
-        null
+        [
+          "1.11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "OUE",
-        null
+        [
+          "January 4, 2008"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ou\u00e9sso Airport",
-        "/wiki/Ou%C3%A9sso_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "Java"
+        ],
+        [
+          "/wiki/Java_Platform"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Owando",
-        "/wiki/Owando"
+        [
+          "FC64"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FCOO",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FTX",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Owando Airport",
-        "/wiki/Owando_Airport"
+        [
+          "Commodore 64"
+        ],
+        [
+          "/wiki/Commodore_64"
+        ]
+      ],
+      [
+        [
+          "Adobe Flash"
+        ],
+        [
+          "/wiki/Adobe_Flash"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ]
   ],

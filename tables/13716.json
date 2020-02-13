@@ -1,467 +1,583 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Star_Alliance",
-  "title": "Star Alliance",
+  "url": "https://en.wikipedia.org/wiki/2013_Kenyan_Premier_League",
+  "title": "2013 Kenyan Premier League",
   "header": [
     [
-      "City",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Airport",
-      null
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "IATA",
-      null
+      [
+        "Stadium"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Terminal",
-      null
-    ],
-    [
-      "Exceptions",
-      null
+      [
+        "Capacity"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Barcelona",
-        null
+        [
+          "A.F.C. Leopards"
+        ],
+        [
+          "/wiki/A.F.C._Leopards"
+        ]
       ],
       [
-        "Barcelona\u2013El Prat Airport",
-        "/wiki/Barcelona%E2%80%93El_Prat_Airport"
+        [
+          "Nairobi"
+        ],
+        [
+          "/wiki/Nairobi"
+        ]
       ],
       [
-        "BCN",
-        null
+        [
+          "Nyayo National Stadium"
+        ],
+        [
+          "/wiki/Nyayo_National_Stadium"
+        ]
       ],
       [
-        "Terminal 1",
-        null
-      ],
-      [
-        "",
-        null
+        [
+          "30,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Beijing",
-        null
+        [
+          "Bandari"
+        ],
+        [
+          "/wiki/Bandari_F.C._(Kenya)"
+        ]
       ],
       [
-        "Beijing Capital International Airport",
-        "/wiki/Beijing_Capital_International_Airport"
+        [
+          "Mombasa"
+        ],
+        [
+          "/wiki/Mombasa"
+        ]
       ],
       [
-        "PEK",
-        null
+        [
+          "Mombasa Municipal Stadium"
+        ],
+        [
+          "/wiki/Mombasa_Municipal_Stadium"
+        ]
       ],
       [
-        "Terminal 3(E)",
-        null
-      ],
-      [
-        "Air China,Beijing Daxing International Airport",
-        "/wiki/Air_China /wiki/Beijing_Daxing_International_Airport"
+        [
+          "10,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Cairo",
-        null
+        [
+          "Chemelil Sugar"
+        ],
+        [
+          "/wiki/Chemelil_Sugar_F.C."
+        ]
       ],
       [
-        "Cairo International Airport",
-        "/wiki/Cairo_International_Airport"
+        [
+          "Chemelil"
+        ],
+        [
+          "/wiki/Chemelil"
+        ]
       ],
       [
-        "CAI",
-        null
+        [
+          "Chemelil Sports Complex"
+        ],
+        [
+          "/wiki/Chemelil_Sports_Complex"
+        ]
       ],
       [
-        "Terminal 3",
-        null
-      ],
-      [
-        "",
-        null
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Chongqing",
-        null
+        [
+          "Gor Mahia"
+        ],
+        [
+          "/wiki/Gor_Mahia_F.C."
+        ]
       ],
       [
-        "Chongqing Jiangbei International Airport",
-        "/wiki/Chongqing_Jiangbei_International_Airport"
+        [
+          "Nairobi"
+        ],
+        [
+          "/wiki/Nairobi"
+        ]
       ],
       [
-        "CKG",
-        null
+        [
+          "Nairobi City Stadium"
+        ],
+        [
+          "/wiki/Nairobi_City_Stadium"
+        ]
       ],
       [
-        "Terminal 3",
-        null
-      ],
-      [
-        "",
-        null
+        [
+          "15,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Delhi",
-        null
+        [
+          "Kakamega Homeboyz"
+        ],
+        [
+          "/wiki/Kakamega_Homeboyz_F.C."
+        ]
       ],
       [
-        "Indira Gandhi International Airport",
-        "/wiki/Indira_Gandhi_International_Airport"
+        [
+          "Kakamega"
+        ],
+        [
+          "/wiki/Kakamega"
+        ]
       ],
       [
-        "DEL",
-        null
+        [
+          "Bukhungu Stadium"
+        ],
+        [
+          "/wiki/Bukhungu_Stadium"
+        ]
       ],
       [
-        "Terminal 3",
-        null
-      ],
-      [
-        "",
-        null
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Dublin",
-        null
+        [
+          "Karuturi Sports"
+        ],
+        [
+          "/wiki/Karuturi_Sports"
+        ]
       ],
       [
-        "Dublin Airport",
-        "/wiki/Dublin_Airport"
+        [
+          "Naivasha"
+        ],
+        [
+          "/wiki/Naivasha"
+        ]
       ],
       [
-        "DUB",
-        null
+        [
+          "Naivasha Stadium"
+        ],
+        [
+          "/wiki/Naivasha_Stadium"
+        ]
       ],
       [
-        "Terminal 1",
-        null
-      ],
-      [
-        "United Airlines",
-        "/wiki/United_Airlines"
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Frankfurt",
-        null
+        [
+          "KCB"
+        ],
+        [
+          "/wiki/Kenya_Commercial_Bank_S.C."
+        ]
       ],
       [
-        "Frankfurt Airport",
-        "/wiki/Frankfurt_Airport"
+        [
+          "Nairobi"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FRA",
-        null
+        [
+          "Nairobi City Stadium"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Terminal 1 \"Star Alliance Terminal\"",
-        null
-      ],
-      [
-        "",
-        null
+        [
+          "15,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Guangzhou",
-        null
+        [
+          "Mathare United"
+        ],
+        [
+          "/wiki/Mathare_United_F.C."
+        ]
       ],
       [
-        "Guangzhou Baiyun International Airport",
-        "/wiki/Guangzhou_Baiyun_International_Airport"
+        [
+          "Nairobi"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CAN",
-        null
+        [
+          "Kasarani Stadium"
+        ],
+        [
+          "/wiki/Kasarani_Stadium"
+        ]
       ],
       [
-        "Terminal 1",
-        null
-      ],
-      [
-        "Singapore Airlines,Thai Airways",
-        "/wiki/Singapore_Airlines /wiki/Thai_Airways"
+        [
+          "60,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Hong Kong",
-        null
+        [
+          "Muhoroni Youth"
+        ],
+        [
+          "/wiki/Muhoroni_Youth_F.C."
+        ]
       ],
       [
-        "Hong Kong International Airport",
-        "/wiki/Hong_Kong_International_Airport"
+        [
+          "Muhoroni"
+        ],
+        [
+          "/wiki/Muhoroni"
+        ]
       ],
       [
-        "HKG",
-        null
+        [
+          "Muhoroni Stadium"
+        ],
+        [
+          "/wiki/Muhoroni_Stadium"
+        ]
       ],
       [
-        "Terminal 1",
-        null
-      ],
-      [
-        "Thai Airways",
-        "/wiki/Thai_Airways"
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "London",
-        null
+        [
+          "Nairobi City Stars"
+        ],
+        [
+          "/wiki/Nairobi_City_Stars"
+        ]
       ],
       [
-        "London Heathrow Airport",
-        "/wiki/London_Heathrow_Airport"
+        [
+          "Nairobi"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LHR",
-        null
+        [
+          "Hope Centre"
+        ],
+        [
+          "/wiki/Hope_Centre"
+        ]
       ],
       [
-        "Terminal 2 (The Queen's Terminal) \"Star Alliance Terminal\"",
-        null
-      ],
-      [
-        "",
-        null
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Manchester, UK",
-        null
+        [
+          "Sofapaka"
+        ],
+        [
+          "/wiki/Sofapaka_F.C."
+        ]
       ],
       [
-        "Manchester Airport",
-        "/wiki/Manchester_Airport"
+        [
+          "Nairobi"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "MAN",
-        null
+        [
+          "Nyayo National Stadium"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lufthansa,Austrian Airlines,Scandinavian Airlines,Aegean Airlines,Turkish Airlines,Brussels Airlines",
-        "/wiki/Lufthansa /wiki/Austrian_Airlines /wiki/Scandinavian_Airlines /wiki/Aegean_Airlines /wiki/Turkish_Airlines /wiki/Brussels_Airlines"
-      ],
-      [
-        "Singapore Airlines,United Airlines,Air Canada Rouge",
-        "/wiki/Singapore_Airlines /wiki/United_Airlines /wiki/Air_Canada_Rouge"
+        [
+          "30,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Mexico City",
-        null
+        [
+          "Sony Sugar"
+        ],
+        [
+          "/wiki/Sony_Sugar_F.C."
+        ]
       ],
       [
-        "Benito Ju\u00e1rez International Airport",
-        "/wiki/Benito_Ju%C3%A1rez_International_Airport"
+        [
+          "Awendo"
+        ],
+        [
+          "/wiki/Awendo"
+        ]
       ],
       [
-        "MEX",
-        null
+        [
+          "Green Stadium"
+        ],
+        [
+          "/wiki/Green_Stadium,_Awendo"
+        ]
       ],
       [
-        "Terminal 1",
-        null
-      ],
-      [
-        "Copa Airlines",
-        "/wiki/Copa_Airlines"
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Miami",
-        null
+        [
+          "Thika United"
+        ],
+        [
+          "/wiki/Thika_United_F.C."
+        ]
       ],
       [
-        "Miami International Airport",
-        "/wiki/Miami_International_Airport"
+        [
+          "Thika"
+        ],
+        [
+          "/wiki/Thika"
+        ]
       ],
       [
-        "MIA",
-        null
+        [
+          "Thika Municipal Stadium"
+        ],
+        [
+          "/wiki/Thika_Municipal_Stadium"
+        ]
       ],
       [
-        "Concourse J",
-        null
-      ],
-      [
-        "United Airlines",
-        "/wiki/United_Airlines"
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Munich",
-        null
+        [
+          "Tusker"
+        ],
+        [
+          "/wiki/Tusker_F.C."
+        ]
       ],
       [
-        "Munich Airport",
-        "/wiki/Munich_Airport"
+        [
+          "Nairobi"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "MUC",
-        null
+        [
+          "Kasarani Stadium"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Terminal 2",
-        null
-      ],
-      [
-        "Turkish Airlines",
-        "/wiki/Turkish_Airlines"
+        [
+          "60,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Moscow",
-        null
+        [
+          "Ulinzi Stars"
+        ],
+        [
+          "/wiki/Ulinzi_Stars_F.C."
+        ]
       ],
       [
-        "Domodedovo International Airport",
-        "/wiki/Domodedovo_International_Airport"
+        [
+          "Nakuru"
+        ],
+        [
+          "/wiki/Nakuru"
+        ]
       ],
       [
-        "DME",
-        null
+        [
+          "Afraha Stadium"
+        ],
+        [
+          "/wiki/Afraha_Stadium"
+        ]
       ],
       [
-        "Concourse A",
-        null
-      ],
-      [
-        "Air China,Brussels Airlines,Scandinavian Airlines,Sheremetyevo Airport,Turkish Airlines,Vnukovo Airport",
-        "/wiki/Air_China /wiki/Brussels_Airlines /wiki/Scandinavian_Airlines /wiki/Sheremetyevo_Airport /wiki/Turkish_Airlines /wiki/Vnukovo_Airport"
+        [
+          "8,200"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Paris",
-        null
+        [
+          "Western Stima"
+        ],
+        [
+          "/wiki/Western_Stima_F.C."
+        ]
       ],
       [
-        "Charles de Gaulle Airport",
-        "/wiki/Charles_de_Gaulle_Airport"
+        [
+          "Kakamega"
+        ],
+        [
+          "/wiki/Kakamega"
+        ]
       ],
       [
-        "CDG",
-        null
+        [
+          "Bukhungu Stadium"
+        ],
+        [
+          "/wiki/Bukhungu_Stadium"
+        ]
       ],
       [
-        "Terminal 1",
-        null
-      ],
-      [
-        "Austrian Airlines,Croatia Airlines,Air Canada,Ethiopian Airlines,Air India",
-        "/wiki/Austrian_Airlines /wiki/Croatia_Airlines /wiki/Air_Canada /wiki/Ethiopian_Airlines /wiki/Air_India"
-      ]
-    ],
-    [
-      [
-        "Phuket",
-        null
-      ],
-      [
-        "Phuket International Airport",
-        "/wiki/Phuket_International_Airport"
-      ],
-      [
-        "HKT",
-        null
-      ],
-      [
-        "Terminal 1",
-        null
-      ],
-      [
-        "Thai Airways International",
-        "/wiki/Thai_Airways_International"
-      ]
-    ],
-    [
-      [
-        "S\u00e3o Paulo",
-        null
-      ],
-      [
-        "S\u00e3o Paulo\u2013Guarulhos International Airport",
-        "/wiki/S%C3%A3o_Paulo%E2%80%93Guarulhos_International_Airport"
-      ],
-      [
-        "GRU",
-        null
-      ],
-      [
-        "Terminal 3",
-        null
-      ],
-      [
-        "Avianca,Copa Airlines",
-        "/wiki/Avianca /wiki/Copa_Airlines"
-      ]
-    ],
-    [
-      [
-        "Seoul",
-        null
-      ],
-      [
-        "Incheon International Airport",
-        "/wiki/Incheon_International_Airport"
-      ],
-      [
-        "ICN",
-        null
-      ],
-      [
-        "Terminal 1",
-        null
-      ],
-      [
-        "",
-        null
-      ]
-    ],
-    [
-      [
-        "Shanghai",
-        null
-      ],
-      [
-        "Shanghai Pudong International Airport",
-        "/wiki/Shanghai_Pudong_International_Airport"
-      ],
-      [
-        "PVG",
-        null
-      ],
-      [
-        "Terminal 2",
-        null
-      ],
-      [
-        "",
-        null
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

@@ -1,311 +1,561 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_nature_centres_in_Canada",
-  "title": "List of nature centres in Canada",
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
   "header": [
     [
-      "Name",
-      null
+      [
+        "Emulator"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      null
+      [
+        "Latest version"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Region",
-      null
+      [
+        "Released"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Summary",
-      null
+      [
+        "Guest emulation capabilities"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Host Operating System"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "License"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Allan Brooks Nature Centre",
-        null
+        [
+          "Clock Signal (CLK)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Vernon",
-        "/wiki/Vernon,_British_Columbia"
+        [
+          "2019-08-01"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "North Okanagan",
-        "/wiki/Regional_District_of_North_Okanagan"
+        [
+          "August 1, 2019"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "website,Allan Brooks",
-        "/wiki/HTTP_404 /wiki/Allan_Brooks"
+        [
+          "Oric 1",
+          "Oric Atmos",
+          "Acorn Electron",
+          "Amstrad CPC",
+          "Apple II",
+          "Atari 2600",
+          "ColecoVision",
+          "Commodore VIC-20",
+          "Macintosh",
+          "MSX",
+          "Sega Master System",
+          "ZX80",
+          "ZX81"
+        ],
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems",
+          "/wiki/Acorn_Electron",
+          "/wiki/Amstrad_CPC",
+          "/wiki/Apple_II",
+          "/wiki/Atari_2600",
+          "/wiki/ColecoVision",
+          "/wiki/Commodore_VIC-20",
+          "/wiki/Macintosh_512Ke",
+          "/wiki/MSX",
+          "/wiki/Sega_Master_System",
+          "/wiki/ZX80",
+          "/wiki/ZX81"
+        ]
+      ],
+      [
+        [
+          "macOS"
+        ],
+        [
+          "/wiki/MacOS"
+        ]
+      ],
+      [
+        [
+          "MIT License"
+        ],
+        [
+          "/wiki/MIT_License"
+        ]
       ]
     ],
     [
       [
-        "Creston Valley Wildlife Management Area",
-        "/wiki/Creston_Valley"
+        [
+          "DSoric"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Creston",
-        "/wiki/Creston,_British_Columbia"
+        [
+          "1.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Central Kootenay",
-        "/wiki/Regional_District_of_Central_Kootenay"
+        [
+          "January 19, 2008"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7,000-hectares (17,000 acres), Wildlife Interpretation Centre open seasonally",
-        null
+        [
+          "Oric 1",
+          "Oric Atmos"
+        ],
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems"
+        ]
+      ],
+      [
+        [
+          "Nintendo DS"
+        ],
+        [
+          "/wiki/Nintendo_DS"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Goldstream Nature House",
-        "/wiki/Goldstream_Provincial_Park"
+        [
+          "Consolatoric"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Langford",
-        "/wiki/Langford,_British_Columbia"
+        [
+          "r6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Capital",
-        "/wiki/Capital_Regional_District"
+        [
+          "January 16, 2009"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Seasonal programs, located in the 477-hectare Goldstream Provincial Park and operated by RLC Park Services",
-        null
+        [
+          "Oric 1",
+          "Oric Atmos"
+        ],
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Great Blue Heron Nature Reserve",
-        "/wiki/HTTP_404"
+        [
+          "Euphoric"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Chilliwack",
-        "/wiki/Chilliwack"
+        [
+          "1019"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Fraser Valley",
-        "/wiki/Fraser_Valley_Regional_District"
+        [
+          "November 21, 2014"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "website",
-        "/wiki/HTTP_404"
+        [
+          "Oric 1",
+          "Oric Atmos",
+          "Telestrat"
+        ],
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems",
+          "/wiki/Tangerine_Computer_Systems"
+        ]
+      ],
+      [
+        [
+          "DOS",
+          "Windows"
+        ],
+        [
+          "/wiki/DOS",
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Iris Griffith Centre, Ruby Lake Lagoon",
-        null
+        [
+          "Xeuphoric"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Madeira Park",
-        "/wiki/Madeira_Park,_British_Columbia"
+        [
+          "0.19.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sunshine Coast",
-        "/wiki/Sunshine_Coast_Regional_District"
+        [
+          "August 26, 2010"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "website",
-        "/wiki/HTTP_404"
+        [
+          "Oric 1",
+          "Oric Atmos",
+          "Telestrat"
+        ],
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems",
+          "/wiki/Tangerine_Computer_Systems"
+        ]
+      ],
+      [
+        [
+          "Unix"
+        ],
+        [
+          "/wiki/Unix"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Lynn Canyon Ecology Centre",
-        "/wiki/Lynn_Canyon_Park"
+        [
+          "MAME",
+          "MESS"
+        ],
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
       ],
       [
-        "North Vancouver",
-        "/wiki/North_Vancouver_(city)"
+        [
+          "0.196"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Metro Vancouver",
-        "/wiki/Metro_Vancouver"
+        [
+          "March 28, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Located in 617-acre (250 ha) Lynn Canyon Park, features natural history museum and education programs",
-        null
+        [
+          "Various computers, consoles, and arcade systems"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "New BSD",
+          "GPLv2"
+        ],
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "Miracle Beach Nature House",
-        "/wiki/Miracle_Beach_Provincial_Park"
+        [
+          "Oric"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Campbell River",
-        "/wiki/Campbell_River,_British_Columbia"
+        [
+          "1.7.8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Strathcona",
-        "/wiki/Strathcona_Regional_District"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Seasonal programs, located in the 137-hectare Miracle Beach Provincial Park and operated by RLC Park Services",
-        null
+        [
+          "Oric 1",
+          "Oric Atmos"
+        ],
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems"
+        ]
+      ],
+      [
+        [
+          "Mac OS"
+        ],
+        [
+          "/wiki/Mac_OS"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "Morrell Nature Sanctuary",
-        null
+        [
+          "Oricutron"
+        ],
+        [
+          "/wiki/Tangerine_Computer_Systems"
+        ]
       ],
       [
-        "Nanaimo",
-        "/wiki/Nanaimo"
+        [
+          "1.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nanaimo",
-        "/wiki/Regional_District_of_Nanaimo"
+        [
+          "December 14, 2014"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "website",
-        "/wiki/HTTP_404"
+        [
+          "Oric 1",
+          "Oric Atmos"
+        ],
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems"
+        ]
+      ],
+      [
+        [
+          "Amiga",
+          "OS X",
+          "MorphOS",
+          "Windows",
+          "Haiku"
+        ],
+        [
+          "/wiki/Amiga",
+          "/wiki/OS_X",
+          "/wiki/MorphOS",
+          "/wiki/Windows",
+          "/wiki/Haiku_(operating_system)"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "Nk'mip Desert Cultural Centre",
-        "/wiki/Nk%27mip_Desert_Cultural_Centre"
+        [
+          "PocketOric"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Osoyoos",
-        "/wiki/Osoyoos"
+        [
+          "0.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Okanagan-Similkameen",
-        "/wiki/Regional_District_of_Okanagan-Similkameen"
+        [
+          "September 24, 2002"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Osoyoos Indian Band",
-        "/wiki/Osoyoos_Indian_Band"
-      ]
-    ],
-    [
-      [
-        "North Island Wildlife Recovery Centre",
-        null
+        [
+          "Oric 1",
+          "Oric Atmos"
+        ],
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems"
+        ]
       ],
       [
-        "Errington",
-        "/wiki/Errington,_British_Columbia"
+        [
+          "Pocket PC"
+        ],
+        [
+          "/wiki/Pocket_PC"
+        ]
       ],
       [
-        "Nanaimo",
-        null
-      ],
-      [
-        "website",
-        "/wiki/HTTP_404"
-      ]
-    ],
-    [
-      [
-        "Osoyoos Desert Centre",
-        "/wiki/Osoyoos_Desert_Centre"
-      ],
-      [
-        "Osoyoos",
-        null
-      ],
-      [
-        "Okanagan-Similkameen",
-        null
-      ],
-      [
-        "Natural history of the Okanagan Desert, 67-acre nature interpretive facility, operated by the Osoyoos Desert Society",
-        null
-      ]
-    ],
-    [
-      [
-        "Rathtrevor Beach Nature House",
-        "/wiki/Rathtrevor_Beach_Provincial_Park"
-      ],
-      [
-        "Parksville",
-        "/wiki/Parksville,_British_Columbia"
-      ],
-      [
-        "Nanaimo",
-        null
-      ],
-      [
-        "Seasonal programs, located in the 347-hectare Rathtrevor Beach Provincial Park and operated by RLC Park Services",
-        null
-      ]
-    ],
-    [
-      [
-        "Richmond Nature Park",
-        "/wiki/Richmond_Nature_Park"
-      ],
-      [
-        "Richmond",
-        "/wiki/Richmond,_British_Columbia"
-      ],
-      [
-        "Metro Vancouver",
-        null
-      ],
-      [
-        "200 acres, includes the Nature House",
-        null
-      ]
-    ],
-    [
-      [
-        "Scout Island Nature House",
-        "/wiki/Williams_Lake,_British_Columbia#Scout_Island"
-      ],
-      [
-        "Williams Lake",
-        "/wiki/Williams_Lake,_British_Columbia"
-      ],
-      [
-        "Cariboo",
-        "/wiki/Cariboo_Regional_District"
-      ],
-      [
-        "website",
-        "/wiki/HTTP_404"
-      ]
-    ],
-    [
-      [
-        "Stanley Park Nature House",
-        "/wiki/Stanley_Park"
-      ],
-      [
-        "Vancouver",
-        "/wiki/Vancouver"
-      ],
-      [
-        "Metro Vancouver",
-        null
-      ],
-      [
-        "Stanley Park Ecology Society",
-        "/wiki/Stanley_Park_Ecology_Society"
-      ]
-    ],
-    [
-      [
-        "Swan Lake Nature Sanctuary",
-        "/wiki/Swan_Lake_Nature_Sanctuary"
-      ],
-      [
-        "Saanich",
-        "/wiki/Saanich,_British_Columbia"
-      ],
-      [
-        "Capital",
-        null
-      ],
-      [
-        "Features the Swan Lake Christmas Hill Nature House",
-        null
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ]
   ],

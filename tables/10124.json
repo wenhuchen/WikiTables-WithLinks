@@ -1,314 +1,536 @@
 {
-  "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2008_qualifying",
-  "title": "UEFA Euro 2008 qualifying",
+  "url": "https://en.wikipedia.org/wiki/Transportation_in_California",
+  "title": "Transportation in California",
   "header": [
     [
-      "Team",
-      null
+      [
+        "System"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Qualified as",
-      null
+      [
+        "Type"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Qualified on",
-      null
+      [
+        "No. of lines"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Previous appearances in tournament",
-      null
+      [
+        "Description"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Austria",
-        "/wiki/Austria_national_football_team"
+        [
+          "Altamont Corridor Express"
+        ],
+        [
+          "/wiki/Altamont_Corridor_Express"
+        ]
       ],
       [
-        "Co-host",
-        null
+        [
+          "Commuter rail"
+        ],
+        [
+          "/wiki/Commuter_rail"
+        ]
       ],
       [
-        "12 December 2002",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0 (debut)",
-        null
+        [
+          "San Jose",
+          "Stockton",
+          "Silicon Valley",
+          "Alameda County",
+          "San Joaquin County"
+        ],
+        [
+          "/wiki/San_Jose,_California",
+          "/wiki/Stockton,_California",
+          "/wiki/Silicon_Valley",
+          "/wiki/Alameda_County,_California",
+          "/wiki/San_Joaquin_County,_California"
+        ]
       ]
     ],
     [
       [
-        "Switzerland",
-        "/wiki/Switzerland_national_football_team"
+        [
+          "Bay Area Rapid Transit"
+        ],
+        [
+          "/wiki/Bay_Area_Rapid_Transit"
+        ]
       ],
       [
-        "Co-host",
-        null
+        [
+          "Heavy rail",
+          "light rail",
+          "automated guideway transit"
+        ],
+        [
+          "/wiki/Heavy_rail_transit",
+          "/wiki/Light_rail",
+          "/wiki/Automated_guideway_transit"
+        ]
       ],
       [
-        "12 December 2002",
-        null
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1996,2004",
-        "/wiki/UEFA_Euro_1996 /wiki/UEFA_Euro_2004"
+        [
+          "San Francisco Bay Area",
+          "San Francisco",
+          "East Bay",
+          "San Mateo County"
+        ],
+        [
+          "/wiki/San_Francisco_Bay_Area",
+          "/wiki/San_Francisco",
+          "/wiki/East_Bay_(San_Francisco_Bay_Area)",
+          "/wiki/San_Mateo_County,_California"
+        ]
       ]
     ],
     [
       [
-        "Germany",
-        "/wiki/Germany_national_football_team"
+        [
+          "Caltrain"
+        ],
+        [
+          "/wiki/Caltrain"
+        ]
       ],
       [
-        "Group D",
-        "/wiki/UEFA_Euro_2008_qualifying_Group_D"
+        [
+          "Commuter rail"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13 October 2007",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1972,1976,1980,1984,1988,1992,1996,2000,2004",
-        "/wiki/UEFA_Euro_1972 /wiki/UEFA_Euro_1976 /wiki/UEFA_Euro_1980 /wiki/UEFA_Euro_1984 /wiki/UEFA_Euro_1988 /wiki/UEFA_Euro_1992 /wiki/UEFA_Euro_1996 /wiki/UEFA_Euro_2000 /wiki/UEFA_Euro_2004"
+        [
+          "San Francisco",
+          "San Francisco Peninsula",
+          "Silicon Valley"
+        ],
+        [
+          "/wiki/San_Francisco",
+          "/wiki/San_Francisco_Peninsula",
+          "/wiki/Silicon_Valley"
+        ]
       ]
     ],
     [
       [
-        "Greece",
-        "/wiki/Greece_national_football_team"
+        [
+          "COASTER"
+        ],
+        [
+          "/wiki/Coaster_(San_Diego)"
+        ]
       ],
       [
-        "Group C",
-        "/wiki/UEFA_Euro_2008_qualifying_Group_C"
+        [
+          "Commuter rail"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "17 October 2007",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1980,2004",
-        "/wiki/UEFA_Euro_1980 /wiki/UEFA_Euro_2004"
+        [
+          "northern coastal",
+          "San Diego County",
+          "San Diego",
+          "Oceanside"
+        ],
+        [
+          "/wiki/North_County,_San_Diego",
+          "/wiki/San_Diego_County,_California",
+          "/wiki/San_Diego",
+          "/wiki/Oceanside,_California"
+        ]
       ]
     ],
     [
       [
-        "Czech Republic",
-        "/wiki/Czech_Republic_national_football_team"
+        [
+          "Metro Rail"
+        ],
+        [
+          "/wiki/Metro_Rail_(Los_Angeles_County)"
+        ]
       ],
       [
-        "Group D",
-        "/wiki/UEFA_Euro_2008_qualifying_Group_D"
+        [
+          "light rail"
+        ],
+        [
+          "/wiki/Light_rail"
+        ]
       ],
       [
-        "17 October 2007",
-        null
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1960,1976,1980,1996,2000,2004",
-        "/wiki/1960_European_Nations%27_Cup /wiki/UEFA_Euro_1976 /wiki/UEFA_Euro_1980 /wiki/UEFA_Euro_1996 /wiki/UEFA_Euro_2000 /wiki/UEFA_Euro_2004"
+        [
+          "Los Angeles County"
+        ],
+        [
+          "/wiki/Los_Angeles_County"
+        ]
       ]
     ],
     [
       [
-        "Romania",
-        "/wiki/Romania_national_football_team"
+        [
+          "Metrolink"
+        ],
+        [
+          "/wiki/Metrolink_(Southern_California)"
+        ]
       ],
       [
-        "Group G",
-        "/wiki/UEFA_Euro_2008_qualifying_Group_G"
+        [
+          "Commuter rail"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "17 October 2007",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1984,1996,2000",
-        "/wiki/UEFA_Euro_1984 /wiki/UEFA_Euro_1996 /wiki/UEFA_Euro_2000"
+        [
+          "Los Angeles",
+          "Southern California",
+          "Los Angeles",
+          "San Diego",
+          "Orange",
+          "Riverside",
+          "San Bernardino",
+          "Ventura"
+        ],
+        [
+          "/wiki/Los_Angeles",
+          "/wiki/Southern_California",
+          "/wiki/Los_Angeles_County,_California",
+          "/wiki/San_Diego_County,_California",
+          "/wiki/Orange_County,_California",
+          "/wiki/Riverside_County,_California",
+          "/wiki/San_Bernardino_County,_California",
+          "/wiki/Ventura_County,_California"
+        ]
       ]
     ],
     [
       [
-        "Poland",
-        "/wiki/Poland_national_football_team"
+        [
+          "Muni Metro"
+        ],
+        [
+          "/wiki/Muni_Metro"
+        ]
       ],
       [
-        "Group A",
-        "/wiki/UEFA_Euro_2008_qualifying_Group_A"
+        [
+          "Light rail"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "17 November 2007",
-        null
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0 (debut)",
-        null
+        [
+          "San Francisco"
+        ],
+        [
+          "/wiki/San_Francisco"
+        ]
       ]
     ],
     [
       [
-        "Italy",
-        "/wiki/Italy_national_football_team"
+        [
+          "Sacramento RT Light Rail"
+        ],
+        [
+          "/wiki/Sacramento_RT_Light_Rail"
+        ]
       ],
       [
-        "Group B",
-        "/wiki/UEFA_Euro_2008_qualifying_Group_B"
+        [
+          "Light rail"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "17 November 2007",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1968,1980,1988,1996,2000,2004",
-        "/wiki/UEFA_Euro_1968 /wiki/UEFA_Euro_1980 /wiki/UEFA_Euro_1988 /wiki/UEFA_Euro_1996 /wiki/UEFA_Euro_2000 /wiki/UEFA_Euro_2004"
+        [
+          "Sacramento"
+        ],
+        [
+          "/wiki/Sacramento,_California"
+        ]
       ]
     ],
     [
       [
-        "France",
-        "/wiki/France_national_football_team"
+        [
+          "San Diego Trolley"
+        ],
+        [
+          "/wiki/San_Diego_Trolley"
+        ]
       ],
       [
-        "Group B",
-        "/wiki/UEFA_Euro_2008_qualifying_Group_B"
+        [
+          "Light rail"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "17 November 2007",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1960,1984,1992,1996,2000,2004",
-        "/wiki/1960_European_Nations%27_Cup /wiki/UEFA_Euro_1984 /wiki/UEFA_Euro_1992 /wiki/UEFA_Euro_1996 /wiki/UEFA_Euro_2000 /wiki/UEFA_Euro_2004"
+        [
+          "San Diego"
+        ],
+        [
+          "/wiki/San_Diego"
+        ]
       ]
     ],
     [
       [
-        "Croatia",
-        "/wiki/Croatia_national_football_team"
+        [
+          "San Francisco cable car system"
+        ],
+        [
+          "/wiki/San_Francisco_cable_car_system"
+        ]
       ],
       [
-        "Group E",
-        "/wiki/UEFA_Euro_2008_qualifying_Group_E"
+        [
+          "Streetcar"
+        ],
+        [
+          "/wiki/Streetcar"
+        ]
       ],
       [
-        "17 November 2007",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1996,2004",
-        "/wiki/UEFA_Euro_1996 /wiki/UEFA_Euro_2004"
+        [
+          "San Francisco"
+        ],
+        [
+          "/wiki/San_Francisco"
+        ]
       ]
     ],
     [
       [
-        "Spain",
-        "/wiki/Spain_national_football_team"
+        [
+          "Sonoma\u2013Marin Area Rail Transit"
+        ],
+        [
+          "/wiki/Sonoma%E2%80%93Marin_Area_Rail_Transit"
+        ]
       ],
       [
-        "Group F",
-        "/wiki/UEFA_Euro_2008_qualifying_Group_F"
+        [
+          "Commuter rail"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "17 November 2007",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1964,1980,1984,1988,1996,2000,2004",
-        "/wiki/1964_European_Nations%27_Cup /wiki/UEFA_Euro_1980 /wiki/UEFA_Euro_1984 /wiki/UEFA_Euro_1988 /wiki/UEFA_Euro_1996 /wiki/UEFA_Euro_2000 /wiki/UEFA_Euro_2004"
+        [
+          "Sonoma",
+          "Marin"
+        ],
+        [
+          "/wiki/Sonoma_County,_California",
+          "/wiki/Marin_County,_California"
+        ]
       ]
     ],
     [
       [
-        "Netherlands",
-        "/wiki/Netherlands_national_football_team"
+        [
+          "SPRINTER"
+        ],
+        [
+          "/wiki/Sprinter_(North_County_Transit_District)"
+        ]
       ],
       [
-        "Group G",
-        "/wiki/UEFA_Euro_2008_qualifying_Group_G"
+        [
+          "Diesel light rail"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "17 November 2007",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1976,1980,1988,1992,1996,2000,2004",
-        "/wiki/UEFA_Euro_1976 /wiki/UEFA_Euro_1980 /wiki/UEFA_Euro_1988 /wiki/UEFA_Euro_1992 /wiki/UEFA_Euro_1996 /wiki/UEFA_Euro_2000 /wiki/UEFA_Euro_2004"
+        [
+          "north region",
+          "San Diego County",
+          "Oceanside",
+          "Escondido"
+        ],
+        [
+          "/wiki/North_County,_San_Diego",
+          "/wiki/San_Diego_County,_California",
+          "/wiki/Oceanside,_California",
+          "/wiki/Escondido,_California"
+        ]
       ]
     ],
     [
       [
-        "Portugal",
-        "/wiki/Portugal_national_football_team"
+        [
+          "VTA Light Rail"
+        ],
+        [
+          "/wiki/Santa_Clara_Valley_Transportation_Authority_light_rail"
+        ]
       ],
       [
-        "Group A",
-        "/wiki/UEFA_Euro_2008_qualifying_Group_A"
+        [
+          "Light Rail"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "21 November 2007",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1984,1996,2000,2004",
-        "/wiki/UEFA_Euro_1984 /wiki/UEFA_Euro_1996 /wiki/UEFA_Euro_2000 /wiki/UEFA_Euro_2004"
-      ]
-    ],
-    [
-      [
-        "Turkey",
-        "/wiki/Turkey_national_football_team"
-      ],
-      [
-        "Group C",
-        "/wiki/UEFA_Euro_2008_qualifying_Group_C"
-      ],
-      [
-        "21 November 2007",
-        null
-      ],
-      [
-        "1996,2000",
-        "/wiki/UEFA_Euro_1996 /wiki/UEFA_Euro_2000"
-      ]
-    ],
-    [
-      [
-        "Russia",
-        "/wiki/Russia_national_football_team"
-      ],
-      [
-        "Group E",
-        "/wiki/UEFA_Euro_2008_qualifying_Group_E"
-      ],
-      [
-        "21 November 2007",
-        null
-      ],
-      [
-        "1960,1964,1968,1972,1988,1992,1996,2004",
-        "/wiki/1960_European_Nations%27_Cup /wiki/1964_European_Nations%27_Cup /wiki/UEFA_Euro_1968 /wiki/UEFA_Euro_1972 /wiki/UEFA_Euro_1988 /wiki/UEFA_Euro_1992 /wiki/UEFA_Euro_1996 /wiki/UEFA_Euro_2004"
-      ]
-    ],
-    [
-      [
-        "Sweden",
-        "/wiki/Sweden_national_football_team"
-      ],
-      [
-        "Group F",
-        "/wiki/UEFA_Euro_2008_qualifying_Group_F"
-      ],
-      [
-        "21 November 2007",
-        null
-      ],
-      [
-        "1992,2000,2004",
-        "/wiki/UEFA_Euro_1992 /wiki/UEFA_Euro_2000 /wiki/UEFA_Euro_2004"
+        [
+          "San Jose",
+          "Silicon Valley"
+        ],
+        [
+          "/wiki/San_Jose,_California",
+          "/wiki/Silicon_Valley"
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "Although known for its car culture, California also has a number of local and regional passenger rail systems, including the following:",
   "idx": 10124
 }

@@ -1,386 +1,300 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Comparison_of_firewalls",
-  "title": "Comparison of firewalls",
+  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Calgary_area",
+  "title": "List of airports in the Calgary area",
   "header": [
     [
-      "Firewall",
-      null
+      [
+        "Airport name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "License",
-      "/wiki/Software_license"
+      [
+        "ICAO",
+        "TC",
+        "LID",
+        "IATA"
+      ],
+      [
+        "/wiki/International_Civil_Aviation_Organization_airport_code",
+        "/wiki/Transport_Canada",
+        "/wiki/Location_identifier",
+        "/wiki/International_Air_Transport_Association_airport_code"
+      ]
     ],
     [
-      "Cost and usage limits",
-      null
-    ],
-    [
-      "OS",
-      "/wiki/Operating_system"
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Avast Internet Security",
-        "/wiki/Avast_Antivirus"
+        [
+          "Airdrie Aerodrome"
+        ],
+        [
+          "/wiki/Airdrie_Aerodrome"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CEF4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paid",
-        null
-      ],
-      [
-        "Microsoft Windows",
-        "/wiki/Microsoft_Windows"
+        [
+          "Airdrie"
+        ],
+        [
+          "/wiki/Airdrie,_Alberta"
+        ]
       ]
     ],
     [
       [
-        "Comodo InternetSecurity",
-        "/wiki/Comodo_Internet_Security"
+        [
+          "Calgary International Airport"
+        ],
+        [
+          "/wiki/Calgary_International_Airport"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CYYC (YYC)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Free",
-        null
-      ],
-      [
-        "Windows 10/8.1/8/7/Vista x32/x64, XP x32",
-        "/wiki/Microsoft_Windows"
+        [
+          "Calgary"
+        ],
+        [
+          "/wiki/Calgary"
+        ]
       ]
     ],
     [
       [
-        "Intego VirusBarrier",
-        "/wiki/Intego"
+        [
+          "Calgary/Christiansen Field Aerodrome"
+        ],
+        [
+          "/wiki/Calgary/Christiansen_Field_Aerodrome"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CRS3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paid",
-        null
-      ],
-      [
-        "Mac OS X,10.5,Xserve",
-        "/wiki/Mac_OS_X /wiki/Mac_OS_X_10.5 /wiki/Xserve"
+        [
+          "Okotoks"
+        ],
+        [
+          "/wiki/Okotoks"
+        ]
       ]
     ],
     [
       [
-        "KasperskyInternet Security",
-        "/wiki/Kaspersky_Internet_Security"
+        [
+          "Calgary/Okotoks Airranch Airport"
+        ],
+        [
+          "/wiki/Calgary/Okotoks_Airranch_Airport"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CFX2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paid / 30 day trial",
-        null
-      ],
-      [
-        "Windows unknown versions",
-        "/wiki/Microsoft_Windows"
+        [
+          "Okotoks"
+        ],
+        [
+          "/wiki/Okotoks"
+        ]
       ]
     ],
     [
       [
-        "LavasoftPersonal Firewall",
-        "/wiki/Lavasoft_Personal_Firewall"
+        [
+          "Calgary/Okotoks (Rowland Field) Aerodrome"
+        ],
+        [
+          "/wiki/Calgary/Okotoks_(Rowland_Field)_Aerodrome"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CRF4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paid",
-        null
-      ],
-      [
-        "Windows unknown versions",
-        "/wiki/Microsoft_Windows"
+        [
+          "Okotoks"
+        ],
+        [
+          "/wiki/Okotoks"
+        ]
       ]
     ],
     [
       [
-        "MicrosoftForefront ThreatManagementGateway",
-        "/wiki/Microsoft_Forefront_Threat_Management_Gateway"
+        [
+          "Calgary/Springbank Airport"
+        ],
+        [
+          "/wiki/Calgary/Springbank_Airport"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CYBW (YBW)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Discontinued",
-        null
-      ],
-      [
-        "Windows unknown versions",
-        "/wiki/Microsoft_Windows"
+        [
+          "Springbank"
+        ],
+        [
+          "/wiki/Springbank,_Alberta"
+        ]
       ]
     ],
     [
       [
-        "NetLimiter",
-        "/wiki/NetLimiter"
+        [
+          "Chestermere (Kirkby Field) Airport"
+        ],
+        [
+          "/wiki/Chestermere_(Kirkby_Field)_Airport"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CFX8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paid",
-        null
-      ],
-      [
-        "Windows 10, 8, 7",
-        "/wiki/Microsoft_Windows"
+        [
+          "Chestermere"
+        ],
+        [
+          "/wiki/Chestermere"
+        ]
       ]
     ],
     [
       [
-        "Norton 360",
-        "/wiki/Norton_360"
+        [
+          "Cheadle Airport"
+        ],
+        [
+          "/wiki/Cheadle_Airport"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CFQ4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paid",
-        null
-      ],
-      [
-        "Windows unknown versions",
-        "/wiki/Microsoft_Windows"
+        [
+          "Cheadle"
+        ],
+        [
+          "/wiki/Cheadle,_Alberta"
+        ]
       ]
     ],
     [
       [
-        "Online ArmorPersonal Firewall",
-        "/wiki/Online_Armor_Personal_Firewall"
+        [
+          "De Winton/South Calgary Airport"
+        ],
+        [
+          "/wiki/De_Winton/South_Calgary_Airport"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CEH4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Discontinued",
-        null
-      ],
-      [
-        "Windows unknown versions",
-        "/wiki/Microsoft_Windows"
+        [
+          "De Winton"
+        ],
+        [
+          "/wiki/De_Winton,_Alberta"
+        ]
       ]
     ],
     [
       [
-        "OutpostFirewall Pro",
-        "/wiki/Outpost_Firewall_Pro"
+        [
+          "Indus/Winters Aire Park Airport"
+        ],
+        [
+          "/wiki/Indus/Winters_Aire_Park_Airport"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CFY4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Discontinued",
-        null
-      ],
-      [
-        "Windows 10, 8, 7, Vista, XP",
-        "/wiki/Microsoft_Windows"
-      ]
-    ],
-    [
-      [
-        "PC ToolsFirewall Plus",
-        "/wiki/PC_Tools_Firewall_Plus"
-      ],
-      [
-        "Proprietary",
-        "/wiki/Proprietary_software"
-      ],
-      [
-        "Discontinued",
-        null
-      ],
-      [
-        "Windows unknown versions",
-        "/wiki/Microsoft_Windows"
-      ]
-    ],
-    [
-      [
-        "SygatePersonal Firewall",
-        "/wiki/Sygate_Personal_Firewall"
-      ],
-      [
-        "Proprietary",
-        "/wiki/Proprietary_software"
-      ],
-      [
-        "Discontinued",
-        null
-      ],
-      [
-        "Windows unknown versions",
-        "/wiki/Microsoft_Windows"
-      ]
-    ],
-    [
-      [
-        "Windows Firewall",
-        "/wiki/Windows_Firewall"
-      ],
-      [
-        "Proprietary",
-        "/wiki/Proprietary_software"
-      ],
-      [
-        "Included with WindowsXP SP2 and later",
-        null
-      ],
-      [
-        "Windows versions",
-        "/wiki/Microsoft_Windows"
-      ]
-    ],
-    [
-      [
-        "ZoneAlarm",
-        "/wiki/ZoneAlarm"
-      ],
-      [
-        "Proprietary",
-        "/wiki/Proprietary_software"
-      ],
-      [
-        "Free / Paid",
-        null
-      ],
-      [
-        "Windows 10/8.1/8/7/Vista x32/x64, XP x32",
-        "/wiki/Microsoft_Windows"
-      ]
-    ],
-    [
-      [
-        "Netfilter/iptables",
-        "/wiki/Netfilter/iptables"
-      ],
-      [
-        "GPL",
-        "/wiki/GPL"
-      ],
-      [
-        "Free",
-        null
-      ],
-      [
-        "Linux",
-        "/wiki/Linux"
-      ]
-    ],
-    [
-      [
-        "nftables",
-        "/wiki/Nftables"
-      ],
-      [
-        "GPL",
-        "/wiki/GPL"
-      ],
-      [
-        "Free",
-        null
-      ],
-      [
-        "Linux",
-        "/wiki/Linux"
-      ]
-    ],
-    [
-      [
-        "Shorewall",
-        "/wiki/Shorewall"
-      ],
-      [
-        "GPL",
-        "/wiki/GPL"
-      ],
-      [
-        "Free",
-        null
-      ],
-      [
-        "Linux",
-        "/wiki/Linux"
-      ]
-    ],
-    [
-      [
-        "PeerBlock",
-        "/wiki/PeerBlock"
-      ],
-      [
-        "GPL",
-        "/wiki/GPL"
-      ],
-      [
-        "Free",
-        null
-      ],
-      [
-        "Windows 8/8.1, 7, Vista",
-        "/wiki/Microsoft_Windows"
-      ]
-    ],
-    [
-      [
-        "NPF",
-        "/wiki/NPF_(firewall)"
-      ],
-      [
-        "BSD",
-        "/wiki/BSD"
-      ],
-      [
-        "Free",
-        null
-      ],
-      [
-        "NetBSD",
-        "/wiki/NetBSD"
-      ]
-    ],
-    [
-      [
-        "PF",
-        "/wiki/PF_(firewall)"
-      ],
-      [
-        "BSD",
-        "/wiki/BSD"
-      ],
-      [
-        "Free",
-        null
-      ],
-      [
-        "*BSD",
-        "/wiki/Berkeley_Software_Distribution"
+        [
+          "Indus"
+        ],
+        [
+          "/wiki/Indus,_Alberta"
+        ]
       ]
     ]
   ],
-  "context": "Some firewall solutions are provided as software solutions that run on general purpose operating systems. The following table lists different firewall software that can be installed / configured in different general purpose operating systems.",
+  "context": "",
   "idx": 10911
 }

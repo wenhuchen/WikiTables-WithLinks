@@ -1,551 +1,887 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions",
-  "title": "Comparison of Linux distributions",
+  "url": "https://en.wikipedia.org/wiki/Miss_Teen_USA",
+  "title": "Miss Teen USA",
   "header": [
     [
-      "Distribution",
-      null
+      [
+        "Year"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Linux kernel",
-      "/wiki/Linux_kernel"
+      [
+        "2nd runner-up"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "file system",
-      "/wiki/File_system"
+      [
+        "State Represented"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "init system",
-      "/wiki/Init"
+      [
+        "Hometown"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "desktop environment,window manager",
-      "/wiki/Desktop_environment /wiki/Window_manager"
-    ],
-    [
-      "Reproducible builds",
-      "/wiki/Reproducible_builds"
+      [
+        "Age"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Alpine Linux",
-        "/wiki/Alpine_Linux"
+        [
+          "1983"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1983"
+        ]
       ],
       [
-        "Binary blobs",
-        null
+        [
+          "Krista Keith"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ext4",
-        null
+        [
+          "Kentucky"
+        ],
+        [
+          "/wiki/Miss_Kentucky_Teen_USA"
+        ]
       ],
       [
-        "openrc",
-        "/wiki/OpenRC"
+        [
+          "Louisville"
+        ],
+        [
+          "/wiki/Louisville,_Kentucky"
+        ]
       ],
       [
-        "none",
-        null
-      ],
-      [
-        "No",
-        null
+        [
+          "16"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ALT Linux",
-        "/wiki/ALT_Linux"
+        [
+          "1984"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1984"
+        ]
       ],
       [
-        "Binary blobs",
-        null
+        [
+          "Molly Diane Brown"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ext3",
-        null
+        [
+          "Tennessee"
+        ],
+        [
+          "/wiki/Miss_Tennessee_Teen_USA"
+        ]
       ],
       [
-        "systemd",
-        "/wiki/Systemd"
+        [
+          "Loretto"
+        ],
+        [
+          "/wiki/Loretto,_Tennessee"
+        ]
       ],
       [
-        "Xfce",
-        "/wiki/Xfce"
-      ],
-      [
-        "No",
-        null
+        [
+          "16"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Arch Linux",
-        "/wiki/Arch_Linux"
+        [
+          "1985"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1985"
+        ]
       ],
       [
-        "Binary blobs",
-        null
+        [
+          "Dru Homer"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "none",
-        null
+        [
+          "Washington"
+        ],
+        [
+          "/wiki/Miss_Washington_Teen_USA"
+        ]
       ],
       [
-        "systemd",
-        null
+        [
+          "Selah"
+        ],
+        [
+          "/wiki/Selah,_Washington"
+        ]
       ],
       [
-        "none",
-        null
-      ],
-      [
-        "No",
-        null
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BLAG",
-        "/wiki/BLAG_Linux_and_GNU"
+        [
+          "1986"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1986"
+        ]
       ],
       [
-        "Linux-libre",
-        "/wiki/Linux-libre"
+        [
+          "Claudia Liem"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ext3",
-        null
+        [
+          "New York"
+        ],
+        [
+          "/wiki/Miss_New_York_Teen_USA"
+        ]
       ],
       [
-        "sysvinit",
-        null
+        [
+          "Glendale"
+        ],
+        [
+          "/wiki/Glendale,_Queens"
+        ]
       ],
       [
-        "GNOME",
-        null
-      ],
-      [
-        "No",
-        null
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bodhi Linux",
-        "/wiki/Bodhi_Linux"
+        [
+          "1987"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1987"
+        ]
       ],
       [
-        "Binary blobs",
-        null
+        [
+          "Bobbie Jean Brown"
+        ],
+        [
+          "/wiki/Bobbie_Brown"
+        ]
       ],
       [
-        "ext4",
-        null
+        [
+          "Louisiana"
+        ],
+        [
+          "/wiki/Miss_Louisiana_Teen_USA"
+        ]
       ],
       [
-        "systemd",
-        null
+        [
+          "Baton Rouge"
+        ],
+        [
+          "/wiki/Baton_Rouge,_Louisiana"
+        ]
       ],
       [
-        "Enlightenment",
-        "/wiki/Enlightenment_(window_manager)"
-      ],
-      [
-        "No",
-        null
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Canaima",
-        "/wiki/Canaima_(operating_system)"
+        [
+          "1988"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1988"
+        ]
       ],
       [
-        "Binary blobs",
-        null
+        [
+          "Amy Pietsch"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "?",
-        null
+        [
+          "Louisiana"
+        ],
+        [
+          "/wiki/Miss_Louisiana_Teen_USA"
+        ]
       ],
       [
-        "systemd",
-        null
+        [
+          "Ringgold"
+        ],
+        [
+          "/wiki/Ringgold,_Louisiana"
+        ]
       ],
       [
-        "Cinnamon,MATE",
-        "/wiki/Cinnamon_(software) /wiki/MATE_(software)"
-      ],
-      [
-        "No",
-        null
+        [
+          "18"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "CentOS",
-        "/wiki/CentOS"
+        [
+          "1989"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1989"
+        ]
       ],
       [
-        "Binary blobs",
-        null
+        [
+          "Kara Quinn"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "xfs",
-        null
+        [
+          "Vermont"
+        ],
+        [
+          "/wiki/Miss_Vermont_Teen_USA"
+        ]
       ],
       [
-        "systemd",
-        null
+        [
+          "Rutland"
+        ],
+        [
+          "/wiki/Rutland_(town),_Vermont"
+        ]
       ],
       [
-        "GNOME",
-        null
-      ],
-      [
-        "No",
-        null
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Chakra",
-        "/wiki/Chakra_(operating_system)"
+        [
+          "1990"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1990"
+        ]
       ],
       [
-        "Binary blobs",
-        null
+        [
+          "Holly Roehl"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ext4",
-        null
+        [
+          "Georgia"
+        ],
+        [
+          "/wiki/Miss_Georgia_Teen_USA"
+        ]
       ],
       [
-        "systemd",
-        null
+        [
+          "Griffin"
+        ],
+        [
+          "/wiki/Griffin,_Georgia"
+        ]
       ],
       [
-        "KDE Plasma Workspaces",
-        null
-      ],
-      [
-        "No",
-        null
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ClearOS",
-        "/wiki/ClearOS"
+        [
+          "1991"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1991"
+        ]
       ],
       [
-        "Binary blobs",
-        null
+        [
+          "Audra Sherman"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ext3",
-        null
+        [
+          "Missouri"
+        ],
+        [
+          "/wiki/Miss_Missouri_Teen_USA"
+        ]
       ],
       [
-        "systemd",
-        null
+        [
+          "Sikeston"
+        ],
+        [
+          "/wiki/Sikeston,_Missouri"
+        ]
       ],
       [
-        "none (Web based)",
-        null
-      ],
-      [
-        "No",
-        null
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "CoreOS",
-        "/wiki/CoreOS"
+        [
+          "1992"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1992"
+        ]
       ],
       [
-        "Binary blobs",
-        null
+        [
+          "Danielle Boatwright"
+        ],
+        [
+          "/wiki/Danni_Boatwright"
+        ]
       ],
       [
-        "ext4",
-        null
+        [
+          "Kansas"
+        ],
+        [
+          "/wiki/Miss_Kansas_Teen_USA"
+        ]
       ],
       [
-        "systemd",
-        null
+        [
+          "Tonganoxie"
+        ],
+        [
+          "/wiki/Tonganoxie,_Kansas"
+        ]
       ],
       [
-        "None",
-        null
-      ],
-      [
-        "No",
-        null
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "CrunchBang Linux",
-        "/wiki/CrunchBang_Linux"
+        [
+          "1993"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1993"
+        ]
       ],
       [
-        "Binary blobs",
-        null
+        [
+          "Ursula Abbott"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ext4",
-        null
+        [
+          "Pennsylvania"
+        ],
+        [
+          "/wiki/Miss_Pennsylvania_Teen_USA"
+        ]
       ],
       [
-        "sysvinit",
-        null
+        [
+          "Harrisburg"
+        ],
+        [
+          "/wiki/Harrisburg,_Pennsylvania"
+        ]
       ],
       [
-        "Openbox",
-        "/wiki/Openbox"
-      ],
-      [
-        "No",
-        null
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Damn Small Linux",
-        "/wiki/Damn_Small_Linux"
+        [
+          "1994"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1994"
+        ]
       ],
       [
-        "Binary blobs",
-        null
+        [
+          "Melissa Hurtig"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ext3",
-        null
+        [
+          "Kansas"
+        ],
+        [
+          "/wiki/Miss_Kansas_Teen_USA"
+        ]
       ],
       [
-        "sysvinit",
-        null
+        [
+          "Courtland"
+        ],
+        [
+          "/wiki/Courtland,_Kansas"
+        ]
       ],
       [
-        "JWM",
-        "/wiki/JWM"
-      ],
-      [
-        "No",
-        null
+        [
+          "18"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Debian",
-        "/wiki/Debian"
+        [
+          "1995"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1995"
+        ]
       ],
       [
-        "Linux-libre",
-        "/wiki/Linux-libre"
+        [
+          "Loni Sorden"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ext4",
-        null
+        [
+          "Utah"
+        ],
+        [
+          "/wiki/Miss_Utah_Teen_USA"
+        ]
       ],
       [
-        "systemd",
-        null
+        [
+          "Virgin"
+        ],
+        [
+          "/wiki/Virgin,_Utah"
+        ]
       ],
       [
-        "KDE,Xfce,LXDE",
-        "/wiki/KDE /wiki/Xfce /wiki/LXDE"
-      ],
-      [
-        "In progress",
-        null
+        [
+          "18"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Devuan",
-        "/wiki/Devuan"
+        [
+          "1996"
+        ],
+        [
+          "/wiki/Miss_USA_1996"
+        ]
       ],
       [
-        "Binary blobs",
-        null
+        [
+          "Michelle Cardamon"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ext4",
-        "/wiki/Ext4"
+        [
+          "California"
+        ],
+        [
+          "/wiki/Miss_California_Teen_USA"
+        ]
       ],
       [
-        "sysvinit",
-        "/wiki/Sysvinit"
+        [
+          "San Diego"
+        ],
+        [
+          "/wiki/San_Diego,_California"
+        ]
       ],
       [
-        "Xfce",
-        "/wiki/Xfce"
-      ],
-      [
-        "No",
-        null
+        [
+          "18"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Dragora GNU/Linux-Libre",
-        "/wiki/Dragora_GNU/Linux-Libre"
+        [
+          "1997"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1997"
+        ]
       ],
       [
-        "Linux-libre",
-        "/wiki/Linux-libre"
+        [
+          "Mahana Ka'ahumanu Walters"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ext4",
-        null
+        [
+          "Hawaii"
+        ],
+        [
+          "/wiki/Miss_Hawaii_Teen_USA"
+        ]
       ],
       [
-        "runit",
-        "/wiki/Runit"
+        [
+          "Pupukea"
+        ],
+        [
+          "/wiki/Pupukea,_Hawaii"
+        ]
       ],
       [
-        "Xfce",
-        null
-      ],
-      [
-        "No",
-        null
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "dyne:bolic",
-        "/wiki/Dyne:bolic"
+        [
+          "1998"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1998"
+        ]
       ],
       [
-        "Linux-libre",
-        "/wiki/Linux-libre"
+        [
+          "Victoria Franklin"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "?",
-        null
+        [
+          "Nevada"
+        ],
+        [
+          "/wiki/Miss_Nevada_Teen_USA"
+        ]
       ],
       [
-        "systemd",
-        null
+        [
+          "Las Vegas"
+        ],
+        [
+          "/wiki/Las_Vegas,_Nevada"
+        ]
       ],
       [
-        "GNOME",
-        null
-      ],
-      [
-        "No",
-        null
+        [
+          "14"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Fedora",
-        "/wiki/Fedora_(operating_system)"
+        [
+          "1999"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_1999"
+        ]
       ],
       [
-        "Binary blobs",
-        null
+        [
+          "Khosi Roy"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ext4",
-        null
+        [
+          "Maryland"
+        ],
+        [
+          "/wiki/Miss_Maryland_Teen_USA"
+        ]
       ],
       [
-        "systemd",
-        null
+        [
+          "Silver Spring"
+        ],
+        [
+          "/wiki/Silver_Spring,_Maryland"
+        ]
       ],
       [
-        "Sugar on a Stick",
-        "/wiki/Sugar_(software)#Sugar_on_a_Stick"
-      ],
-      [
-        "In progress",
-        null
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Funtoo",
-        "/wiki/Funtoo_Linux"
+        [
+          "2000"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_2000"
+        ]
       ],
       [
-        "Binary blobs",
-        null
+        [
+          "Kristen Johnson"
+        ],
+        [
+          "/wiki/Kristen_Johnson"
+        ]
       ],
       [
-        "none",
-        null
+        [
+          "Kentucky"
+        ],
+        [
+          "/wiki/Miss_Kentucky_Teen_USA"
+        ]
       ],
       [
-        "openrc",
-        null
+        [
+          "Slaughters"
+        ],
+        [
+          "/wiki/Slaughters,_Kentucky"
+        ]
       ],
       [
-        "None",
-        null
-      ],
-      [
-        "No",
-        null
+        [
+          "18"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Gentoo",
-        "/wiki/Gentoo_Linux"
+        [
+          "2001"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_2001"
+        ]
       ],
       [
-        "Binary blobs",
-        null
+        [
+          "Marianna Zaslavsky"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "none",
-        null
+        [
+          "Massachusetts"
+        ],
+        [
+          "/wiki/Miss_Massachusetts_Teen_USA"
+        ]
       ],
       [
-        "openrc",
-        null
+        [
+          "Boston"
+        ],
+        [
+          "/wiki/Boston,_Massachusetts"
+        ]
       ],
       [
-        "Awesome",
-        "/wiki/Awesome_(window_manager)"
-      ],
-      [
-        "No",
-        null
+        [
+          "16"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "gNewSense",
-        "/wiki/GNewSense"
+        [
+          "2002"
+        ],
+        [
+          "/wiki/Miss_Teen_USA_2002"
+        ]
       ],
       [
-        "Debian Linux kernel, and (unlike Debian) blobs cannot be installed",
-        null
+        [
+          "Tara Conner"
+        ],
+        [
+          "/wiki/Tara_Conner"
+        ]
       ],
       [
-        "ext3",
-        null
+        [
+          "Kentucky"
+        ],
+        [
+          "/wiki/Miss_Kentucky_Teen_USA"
+        ]
       ],
       [
-        "sysvinit",
-        null
+        [
+          "Russell Springs"
+        ],
+        [
+          "/wiki/Russell_Springs,_Kentucky"
+        ]
       ],
       [
-        "GNOME",
-        null
-      ],
-      [
-        "No",
-        null
+        [
+          "16"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

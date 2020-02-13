@@ -1,467 +1,239 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Media_in_Vancouver",
-  "title": "Media in Vancouver",
+  "url": "https://en.wikipedia.org/wiki/List_of_power_stations_in_California",
+  "title": "List of power stations in California",
   "header": [
     [
-      "Frequency",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Call sign",
-      null
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Branding",
-      null
-    ],
-    [
-      "Format",
-      null
-    ],
-    [
-      "Owner",
-      null
+      [
+        "MW"
+      ],
+      [
+        "/wiki/Megawatt"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "AM 650",
-        null
+        [
+          "Alta Wind Energy Center"
+        ],
+        [
+          "/wiki/Alta_Wind_Energy_Center"
+        ]
       ],
       [
-        "CISL",
-        "/wiki/CISL_(AM)"
+        [
+          "Kern County"
+        ],
+        [
+          "/wiki/Kern_County,_California"
+        ]
       ],
       [
-        "Sportsnet 650",
-        "/wiki/Sportsnet_Radio"
-      ],
-      [
-        "Sports",
-        "/wiki/Sports_radio"
-      ],
-      [
-        "Rogers Media",
-        "/wiki/Rogers_Media"
+        [
+          "1,320"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "AM 690",
-        null
+        [
+          "Tehachapi Pass Wind Farm"
+        ],
+        [
+          "/wiki/Tehachapi_Pass_Wind_Farm"
+        ]
       ],
       [
-        "CBU",
-        "/wiki/CBU_(AM)"
+        [
+          "Tehachapi Mountains"
+        ],
+        [
+          "/wiki/Tehachapi_Mountains"
+        ]
       ],
       [
-        "CBC Radio One",
-        "/wiki/CBC_Radio_One"
-      ],
-      [
-        "News,talk",
-        "/wiki/News /wiki/Talk_radio"
-      ],
-      [
-        "Canadian Broadcasting Corporation",
-        "/wiki/Canadian_Broadcasting_Corporation"
+        [
+          "705"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "AM 730",
-        null
+        [
+          "San Gorgonio Pass Wind Farm"
+        ],
+        [
+          "/wiki/San_Gorgonio_Pass_Wind_Farm"
+        ]
       ],
       [
-        "CHMJ",
-        "/wiki/CHMJ"
+        [
+          "White Water"
+        ],
+        [
+          "/wiki/White_Water,_California"
+        ]
       ],
       [
-        "AM 730",
-        null
-      ],
-      [
-        "All-traffic",
-        "/wiki/Highway_advisory_radio"
-      ],
-      [
-        "Corus Entertainment",
-        "/wiki/Corus_Entertainment"
+        [
+          "615"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "AM 980",
-        null
+        [
+          "Altamont Pass Wind Farm"
+        ],
+        [
+          "/wiki/Altamont_Pass_Wind_Farm"
+        ]
       ],
       [
-        "CKNW",
-        "/wiki/CKNW"
+        [
+          "Livermore"
+        ],
+        [
+          "/wiki/Livermore,_California"
+        ]
       ],
       [
-        "Global News Radio 980 CKNW",
-        null
-      ],
-      [
-        "News/talk",
-        null
-      ],
-      [
-        "Corus Entertainment",
-        null
+        [
+          "576"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "AM 1040",
-        null
+        [
+          "Ocotillo Wind Energy Facility"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CKST",
-        "/wiki/CKST"
+        [
+          "Ocotillo, California"
+        ],
+        [
+          "/wiki/Ocotillo,_California"
+        ]
       ],
       [
-        "TSN Radio 1040",
-        "/wiki/TSN_Radio"
-      ],
-      [
-        "Sports",
-        null
-      ],
-      [
-        "Bell Media",
-        "/wiki/Bell_Media"
+        [
+          "315"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "AM 1130",
-        null
+        [
+          "Tule Wind Energy Project"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CKWX",
-        "/wiki/CKWX"
+        [
+          "San Diego County"
+        ],
+        [
+          "/wiki/San_Diego_County"
+        ]
       ],
       [
-        "News 1130",
-        null
-      ],
-      [
-        "All-news",
-        null
-      ],
-      [
-        "Rogers Media",
-        null
+        [
+          "200"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "AM 1200",
-        null
+        [
+          "Shiloh Wind Power Plant"
+        ],
+        [
+          "/wiki/Shiloh_Wind_Power_Plant"
+        ]
       ],
       [
-        "CJRJ",
-        "/wiki/CJRJ"
+        [
+          "Bird's Landing"
+        ],
+        [
+          "/wiki/Bird%27s_Landing,_California"
+        ]
       ],
       [
-        "Spice Radio",
-        null
-      ],
-      [
-        "Multicultural",
-        null
-      ],
-      [
-        "IT Productions",
-        null
+        [
+          "300"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "AM 1320",
-        null
+        [
+          "Kumeyaay Wind farm"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CHMB",
-        "/wiki/CHMB"
+        [
+          "Campo Indian Reservation"
+        ],
+        [
+          "/wiki/Campo_Indian_Reservation"
+        ]
       ],
       [
-        "AM1320 CHMB",
-        null
-      ],
-      [
-        "Multicultural",
-        null
-      ],
-      [
-        "Mainstream Broadcasting Corporation",
-        null
-      ]
-    ],
-    [
-      [
-        "AM 1410",
-        null
-      ],
-      [
-        "CFTE",
-        "/wiki/CFTE"
-      ],
-      [
-        "BNN Bloomberg Radio 1410",
-        "/wiki/Bloomberg_Radio"
-      ],
-      [
-        "Business news",
-        "/wiki/Business_news"
-      ],
-      [
-        "Bell Media",
-        null
-      ]
-    ],
-    [
-      [
-        "AM 1470",
-        null
-      ],
-      [
-        "CJVB",
-        "/wiki/CJVB"
-      ],
-      [
-        "Fairchild Radio",
-        "/wiki/Fairchild_Radio"
-      ],
-      [
-        "Multicultural",
-        null
-      ],
-      [
-        "Fairchild Radio",
-        "/wiki/Fairchild_Radio"
-      ]
-    ],
-    [
-      [
-        "AM 1550",
-        null
-      ],
-      [
-        "KRPI",
-        "/wiki/KRPI"
-      ],
-      [
-        "Sher E Punjab",
-        null
-      ],
-      [
-        "Multicultural",
-        null
-      ],
-      [
-        "BBC Broadcasting",
-        null
-      ]
-    ],
-    [
-      [
-        "AM 1600",
-        null
-      ],
-      [
-        "KVRI",
-        "/wiki/KVRI"
-      ],
-      [
-        "Radio India",
-        null
-      ],
-      [
-        "Multicultural",
-        null
-      ],
-      [
-        "Multicultural Broadcasting",
-        "/wiki/Multicultural_Broadcasting"
-      ]
-    ],
-    [
-      [
-        "FM 88.1",
-        null
-      ],
-      [
-        "CBU-2-FM",
-        "/wiki/CBU_(AM)"
-      ],
-      [
-        "CBC Radio One",
-        null
-      ],
-      [
-        "News/talk",
-        null
-      ],
-      [
-        "Canadian Broadcasting Corporation",
-        null
-      ]
-    ],
-    [
-      [
-        "FM 88.7",
-        null
-      ],
-      [
-        "CHNW-FM",
-        "/wiki/CHNW-FM"
-      ],
-      [
-        "CHNW",
-        null
-      ],
-      [
-        "Emergency information",
-        "/wiki/Emergency_population_warning"
-      ],
-      [
-        "",
-        null
-      ]
-    ],
-    [
-      [
-        "FM 88.9",
-        null
-      ],
-      [
-        "VF2521",
-        null
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "Tourist information",
-        "/wiki/Tourist_information"
-      ],
-      [
-        "Cameron Bell Consultancy",
-        null
-      ]
-    ],
-    [
-      [
-        "FM 89.3",
-        null
-      ],
-      [
-        "CFVT-FM",
-        null
-      ],
-      [
-        "Vancouver Tourist Radio",
-        null
-      ],
-      [
-        "Tourist information",
-        null
-      ],
-      [
-        "Paul Sander",
-        null
-      ]
-    ],
-    [
-      [
-        "FM 90.1",
-        null
-      ],
-      [
-        "CJSF-FM",
-        "/wiki/CJSF-FM"
-      ],
-      [
-        "CJSF 90.1 FM",
-        null
-      ],
-      [
-        "Campus radio",
-        "/wiki/Campus_radio"
-      ],
-      [
-        "Simon Fraser University",
-        "/wiki/Simon_Fraser_University"
-      ]
-    ],
-    [
-      [
-        "FM 90.9",
-        null
-      ],
-      [
-        "CBUX-FM",
-        "/wiki/CBUX-FM"
-      ],
-      [
-        "Ici Musique",
-        "/wiki/Ici_Musique"
-      ],
-      [
-        "Public",
-        "/wiki/Public_broadcasting"
-      ],
-      [
-        "Canadian Broadcasting Corporation",
-        null
-      ]
-    ],
-    [
-      [
-        "FM 93.1",
-        null
-      ],
-      [
-        "CKYE-FM",
-        "/wiki/CKYE-FM"
-      ],
-      [
-        "Red FM",
-        null
-      ],
-      [
-        "Multicultural",
-        null
-      ],
-      [
-        "South Asian Broadcasting Corporation",
-        null
-      ]
-    ],
-    [
-      [
-        "FM 93.7",
-        null
-      ],
-      [
-        "CJJR-FM",
-        "/wiki/CJJR-FM"
-      ],
-      [
-        "JRfm",
-        null
-      ],
-      [
-        "Country music",
-        "/wiki/Country_music"
-      ],
-      [
-        "Jim Pattison Group",
-        "/wiki/Jim_Pattison_Group"
+        [
+          "50"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

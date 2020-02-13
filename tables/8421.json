@@ -1,243 +1,887 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Brisbane_Heat",
-  "title": "Brisbane Heat",
+  "url": "https://en.wikipedia.org/wiki/List_of_soccer_clubs_in_Australia",
+  "title": "List of soccer clubs in Australia",
   "header": [
     [
-      "Player",
-      null
+      [
+        "Club"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country",
-      null
+      [
+        "League/Division"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Years",
-      null
+      [
+        "Lvl"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "State"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "City"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Brendon McCullum",
-        "/wiki/Brendon_McCullum"
+        [
+          "Macarthur Rams"
+        ],
+        [
+          "/wiki/Macarthur_Rams_FC"
+        ]
       ],
       [
-        "New Zealand",
-        "/wiki/New_Zealand"
+        [
+          "National Premier Leagues NSW 3"
+        ],
+        [
+          "/wiki/National_Premier_Leagues_NSW_3"
+        ]
       ],
       [
-        "2011,2015+, 2016\u20132019",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "New South Wales"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Sydney"
+        ],
+        [
+          "/wiki/Sydney"
+        ]
       ]
     ],
     [
       [
-        "Roelof van der Merwe",
-        "/wiki/Roelof_van_der_Merwe"
+        [
+          "Mackay & Whitsundays Magpies Crusaders United"
+        ],
+        [
+          "/wiki/Mackay_%26_Whitsundays_Magpies_Crusaders_United_FC"
+        ]
       ],
       [
-        "Netherlands,South Africa",
-        "/wiki/Netherlands /wiki/South_Africa"
+        [
+          "National Premier Leagues Queensland"
+        ],
+        [
+          "/wiki/National_Premier_Leagues_Queensland"
+        ]
       ],
       [
-        "2011",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Queensland"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Mackay"
+        ],
+        [
+          "/wiki/Mackay,_Queensland"
+        ]
       ]
     ],
     [
       [
-        "Daniel Vettori",
-        "/wiki/Daniel_Vettori"
+        [
+          "Maidstone United"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "New Zealand",
-        "/wiki/New_Zealand"
+        [
+          "Victorian State League Division 5"
+        ],
+        [
+          "/wiki/Victorian_State_League_Division_5"
+        ]
       ],
       [
-        "2011\u20132014",
-        null
+        [
+          "8"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victoria"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melbourne"
+        ],
+        [
+          "/wiki/Melbourne"
+        ]
       ]
     ],
     [
       [
-        "Thisara Perera",
-        "/wiki/Thisara_Perera"
+        [
+          "Maitland"
+        ],
+        [
+          "/wiki/Maitland_FC"
+        ]
       ],
       [
-        "Sri Lanka",
-        "/wiki/Sri_Lanka"
+        [
+          "National Premier Leagues Northern NSW"
+        ],
+        [
+          "/wiki/National_Premier_Leagues_Northern_NSW"
+        ]
       ],
       [
-        "2012",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "New South Wales"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Maitland"
+        ],
+        [
+          "/wiki/Maitland,_New_South_Wales"
+        ]
       ]
     ],
     [
       [
-        "Kemar Roach",
-        "/wiki/Kemar_Roach"
+        [
+          "Majura"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Barbados",
-        "/wiki/Barbados"
+        [
+          "State League Division 9"
+        ],
+        [
+          "/wiki/Capital_Football_State_League"
+        ]
       ],
       [
-        "2012",
-        null
+        [
+          "12"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Australian Capital Territory"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Canberra"
+        ],
+        [
+          "/wiki/Canberra"
+        ]
       ]
     ],
     [
       [
-        "Dale Steyn",
-        "/wiki/Dale_Steyn"
+        [
+          "Malvern City"
+        ],
+        [
+          "/wiki/Malvern_City_FC"
+        ]
       ],
       [
-        "South Africa",
-        "/wiki/South_Africa"
+        [
+          "Victorian State League Division 1"
+        ],
+        [
+          "/wiki/Victorian_State_League_Division_1"
+        ]
       ],
       [
-        "2012",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victoria"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melbourne"
+        ],
+        [
+          "/wiki/Melbourne"
+        ]
       ]
     ],
     [
       [
-        "Craig Kieswetter",
-        "/wiki/Craig_Kieswetter"
+        [
+          "Mandurah City"
+        ],
+        [
+          "/wiki/Mandurah_City_FC"
+        ]
       ],
       [
-        "England",
-        "/wiki/England"
+        [
+          "National Premier Leagues Western Australia"
+        ],
+        [
+          "/wiki/National_Premier_Leagues_Western_Australia"
+        ]
       ],
       [
-        "2013",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Western Australia"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Mandurah"
+        ],
+        [
+          "/wiki/Mandurah"
+        ]
       ]
     ],
     [
       [
-        "Andrew Flintoff",
-        "/wiki/Andrew_Flintoff"
+        [
+          "Manningham United"
+        ],
+        [
+          "/wiki/Manningham_United_FC"
+        ]
       ],
       [
-        "England",
-        "/wiki/England"
+        [
+          "Victorian State League Division 1"
+        ],
+        [
+          "/wiki/Victorian_State_League_Division_1"
+        ]
       ],
       [
-        "2014",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victoria"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melbourne"
+        ],
+        [
+          "/wiki/Melbourne"
+        ]
       ]
     ],
     [
       [
-        "Stephen Parry",
-        "/wiki/Stephen_Parry_(cricketer)"
+        [
+          "Manly United"
+        ],
+        [
+          "/wiki/Manly_United_FC"
+        ]
       ],
       [
-        "England",
-        "/wiki/England"
+        [
+          "National Premier Leagues NSW"
+        ],
+        [
+          "/wiki/National_Premier_Leagues_NSW"
+        ]
       ],
       [
-        "2014",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "New South Wales"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Sydney"
+        ],
+        [
+          "/wiki/Sydney"
+        ]
       ]
     ],
     [
       [
-        "Samuel Badree",
-        "/wiki/Samuel_Badree"
+        [
+          "Marcellin Old Collegians"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Trinidad and Tobago",
-        "/wiki/Trinidad_and_Tobago"
+        [
+          "Victorian State League Division 4"
+        ],
+        [
+          "/wiki/Victorian_State_League_Division_4"
+        ]
       ],
       [
-        "2014\u201315",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victoria"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melbourne"
+        ],
+        [
+          "/wiki/Melbourne"
+        ]
       ]
     ],
     [
       [
-        "Lendl Simmons",
-        "/wiki/Lendl_Simmons"
+        [
+          "Marconi Stallions"
+        ],
+        [
+          "/wiki/Marconi_Stallions_FC"
+        ]
       ],
       [
-        "Trinidad and Tobago",
-        "/wiki/Trinidad_and_Tobago"
+        [
+          "National Premier Leagues NSW"
+        ],
+        [
+          "/wiki/National_Premier_Leagues_NSW"
+        ]
       ],
       [
-        "2015\u201316",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "New South Wales"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Sydney"
+        ],
+        [
+          "/wiki/Sydney"
+        ]
       ]
     ],
     [
       [
-        "Tymal Mills",
-        "/wiki/Tymal_Mills"
+        [
+          "Maribyrnong Greens"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "England",
-        "/wiki/England"
+        [
+          "Victorian State League Division 5"
+        ],
+        [
+          "/wiki/Victorian_State_League_Division_5"
+        ]
       ],
       [
-        "2017",
-        null
+        [
+          "8"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victoria"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melbourne"
+        ],
+        [
+          "/wiki/Melbourne"
+        ]
       ]
     ],
     [
       [
-        "Shadab Khan",
-        "/wiki/Shadab_Khan"
+        [
+          "Mazenod Victory"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pakistan",
-        "/wiki/Pakistan"
+        [
+          "Victoria State League Division 2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2017",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victoria"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melbourne"
+        ],
+        [
+          "/wiki/Melbourne"
+        ]
       ]
     ],
     [
       [
-        "Yasir Shah",
-        "/wiki/Yasir_Shah"
+        [
+          "Mazenod United"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pakistan",
-        "/wiki/Pakistan"
+        [
+          "Victorian State League Division 2"
+        ],
+        [
+          "/wiki/Victorian_State_League_Division_2"
+        ]
       ],
       [
-        "2017",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victoria"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melbourne"
+        ],
+        [
+          "/wiki/Melbourne"
+        ]
       ]
     ],
     [
       [
-        "Mujeeb Ur Rahman",
-        "/wiki/Mujeeb_Ur_Rahman"
+        [
+          "Meadow Park"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Afghanistan",
-        "/wiki/Afghanistan"
+        [
+          "Victorian State League Division 5"
+        ],
+        [
+          "/wiki/Victorian_State_League_Division_5"
+        ]
       ],
       [
-        "2018\u201320",
-        null
+        [
+          "8"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victoria"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melbourne"
+        ],
+        [
+          "/wiki/Melbourne"
+        ]
       ]
     ],
     [
       [
-        "AB De Villiers",
-        "/wiki/AB_De_Villiers"
+        [
+          "Melbourne City"
+        ],
+        [
+          "/wiki/Melbourne_City_FC"
+        ]
       ],
       [
-        "South Africa",
-        "/wiki/South_Africa"
+        [
+          "A-League"
+        ],
+        [
+          "/wiki/A-League"
+        ]
       ],
       [
-        "2019-20",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victoria"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melbourne"
+        ],
+        [
+          "/wiki/Melbourne"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Melbourne City"
+        ],
+        [
+          "/wiki/Footscray_JUST"
+        ]
+      ],
+      [
+        [
+          "Victorian State League Division 3"
+        ],
+        [
+          "/wiki/Victorian_State_League_Division_3"
+        ]
+      ],
+      [
+        [
+          "6"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victoria"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melbourne"
+        ],
+        [
+          "/wiki/Melbourne"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Melbourne Knights"
+        ],
+        [
+          "/wiki/Melbourne_Knights_FC"
+        ]
+      ],
+      [
+        [
+          "National Premier Leagues Victoria"
+        ],
+        [
+          "/wiki/National_Premier_Leagues_Victoria"
+        ]
+      ],
+      [
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victoria"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melbourne"
+        ],
+        [
+          "/wiki/Melbourne"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Melbourne Lions"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victorian State League Division 5"
+        ],
+        [
+          "/wiki/Victorian_State_League_Division_5"
+        ]
+      ],
+      [
+        [
+          "8"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victoria"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melbourne"
+        ],
+        [
+          "/wiki/Melbourne"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Melbourne Victory"
+        ],
+        [
+          "/wiki/Melbourne_Victory_FC"
+        ]
+      ],
+      [
+        [
+          "A-League"
+        ],
+        [
+          "/wiki/A-League"
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victoria"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melbourne"
+        ],
+        [
+          "/wiki/Melbourne"
+        ]
       ]
     ]
   ],

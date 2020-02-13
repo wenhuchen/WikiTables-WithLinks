@@ -1,162 +1,512 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Magyar_Kupa",
-  "title": "Magyar Kupa",
+  "url": "https://en.wikipedia.org/wiki/Blaenplwyf_transmitting_station",
+  "title": "Blaenplwyf transmitting station",
   "header": [
     [
-      "County",
-      null
+      [
+        "Frequency"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Titles",
-      null
+      [
+        "UHF"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Winning Clubs",
-      null
+      [
+        "kW"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Service"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "System"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Budapest",
-        "/wiki/Budapest"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "58",
-        null
+        [
+          "21"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ferencv\u00e1rosi TC,MTK Budapest FC,\u00dajpest FC,Budapest Honv\u00e9d FC,Vasas Budapest,Soroks\u00e1r FC,III. Ker\u00fcleti TVE",
-        "/wiki/Ferencv%C3%A1rosi_TC /wiki/MTK_Budapest_FC /wiki/%C3%9Ajpest_FC /wiki/Budapest_Honv%C3%A9d_FC /wiki/Vasas_SC /wiki/Soroks%C3%A1r_FC /wiki/III._Ker%C3%BCleti_TVE"
+        [
+          "100"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "S4C"
+        ],
+        [
+          "/wiki/S4C"
+        ]
+      ],
+      [
+        [
+          "PAL"
+        ],
+        [
+          "/wiki/PAL"
+        ]
       ]
     ],
     [
       [
-        "Hajd\u00fa-Bihar",
-        "/wiki/Hajd%C3%BA-Bihar_County"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "22+"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Debreceni VSC,Bocskai FC",
-        "/wiki/Debreceni_VSC /wiki/Bocskai_FC"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Digital 3&4"
+        ],
+        [
+          "/wiki/Digital_3%264"
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          "/wiki/DVB-T"
+        ]
       ]
     ],
     [
       [
-        "Gy\u0151r-Moson-Sopron",
-        "/wiki/Gy%C5%91r-Moson-Sopron_County"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "5",
-        null
+        [
+          "24"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Gy\u0151ri ETO FC,FC Sopron",
-        "/wiki/Gy%C5%91ri_ETO_FC /wiki/FC_Sopron"
+        [
+          "100"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "ITV1 Wales"
+        ],
+        [
+          "/wiki/ITV_Wales_%26_West"
+        ]
+      ],
+      [
+        [
+          "PAL System I"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Borsod-Aba\u00faj-Zempl\u00e9n",
-        "/wiki/Borsod-Aba%C3%BAj-Zempl%C3%A9n_County"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "25+"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Di\u00f3sgy\u0151ri VTK",
-        "/wiki/Di%C3%B3sgy%C5%91ri_VTK"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "SDN"
+        ],
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Fej\u00e9r",
-        "/wiki/Fej%C3%A9r_County"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "27"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Videoton FC",
-        "/wiki/Videoton_FC"
+        [
+          "100"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC Two Wales"
+        ],
+        [
+          "/wiki/BBC_Two_Wales"
+        ]
+      ],
+      [
+        [
+          "PAL System I"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "B\u00e1cs-Kiskun",
-        "/wiki/B%C3%A1cs-Kiskun_County"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "28+"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kecskem\u00e9ti TE",
-        "/wiki/Kecskem%C3%A9ti_TE"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC"
+        ],
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Baranya",
-        "/wiki/Baranya_County"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "29+"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "P\u00e9csi MSC",
-        "/wiki/P%C3%A9csi_MFC"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Arqiva"
+        ],
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "B\u00e9k\u00e9s",
-        "/wiki/B%C3%A9k%C3%A9s_County"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "31"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "B\u00e9k\u00e9scsaba 1912 El\u0151re SE",
-        "/wiki/B%C3%A9k%C3%A9scsaba_1912_El%C5%91re_SE"
+        [
+          "100"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC One Wales"
+        ],
+        [
+          "/wiki/BBC_One_Wales"
+        ]
+      ],
+      [
+        [
+          "PAL System I"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "J\u00e1sz-Nagykun-Szolnok",
-        "/wiki/J%C3%A1sz-Nagykun-Szolnok_County"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "32+"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Szolnoki M\u00c1V FC",
-        "/wiki/Szolnoki_M%C3%81V_FC"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC (Mux B)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Somogy",
-        "/wiki/Somogy_County"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "33+"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Si\u00f3foki B\u00e1ny\u00e1sz",
-        "/wiki/BFC_Si%C3%B3fok"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Arqiva (Mux D)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        [
+          "56"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Channel 5"
+        ],
+        [
+          "/wiki/Channel_5_(UK)"
+        ]
+      ],
+      [
+        [
+          "PAL System I"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "The UK's initial experimental digital television service was rolled out, using low power for the transmissions and interleaved with the analogue transmissions in an attempt to make the whole set receivable with the original aerial group.",
   "idx": 6838
 }

@@ -1,225 +1,887 @@
 {
-  "url": "https://en.wikipedia.org/wiki/South_Africa",
-  "title": "South Africa",
+  "url": "https://en.wikipedia.org/wiki/Deloitte_Football_Money_League",
+  "title": "Deloitte Football Money League",
   "header": [
     [
-      "Province",
-      null
+      [
+        "Rank in2015"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Provincial capital",
-      null
+      [
+        "Club"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Largest city",
-      null
+      [
+        "\u20ac"
+      ],
+      [
+        "/wiki/Euro"
+      ]
     ],
     [
-      "Area (km)",
-      null
+      [
+        "Country"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Population (2016)",
-      null
+      [
+        "Rank in2014"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Eastern Cape",
-        "/wiki/Eastern_Cape"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bhisho",
-        "/wiki/Bhisho"
+        [
+          "Real Madrid"
+        ],
+        [
+          "/wiki/Real_Madrid_C.F."
+        ]
       ],
       [
-        "Port Elizabeth",
-        "/wiki/Port_Elizabeth"
+        [
+          "549.5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "168,966",
-        null
+        [
+          "Spain"
+        ],
+        [
+          "/wiki/Spain"
+        ]
       ],
       [
-        "6,996,976",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Free State",
-        "/wiki/Free_State_(South_African_province)"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bloemfontein",
-        "/wiki/Bloemfontein"
+        [
+          "Manchester United"
+        ],
+        [
+          "/wiki/Manchester_United_F.C."
+        ]
       ],
       [
-        "Bloemfontein",
-        null
+        [
+          "518.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "129,825",
-        null
+        [
+          "England"
+        ],
+        [
+          "/wiki/England"
+        ]
       ],
       [
-        "2,834,714",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Gauteng",
-        "/wiki/Gauteng"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Johannesburg",
-        "/wiki/Johannesburg"
+        [
+          "Bayern Munich"
+        ],
+        [
+          "/wiki/FC_Bayern_Munich"
+        ]
       ],
       [
-        "Johannesburg",
-        null
+        [
+          "487.5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "18,178",
-        null
+        [
+          "Germany"
+        ],
+        [
+          "/wiki/Germany"
+        ]
       ],
       [
-        "13,399,724",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "KwaZulu-Natal",
-        "/wiki/KwaZulu-Natal"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pietermaritzburg",
-        "/wiki/Pietermaritzburg"
+        [
+          "Barcelona"
+        ],
+        [
+          "/wiki/FC_Barcelona"
+        ]
       ],
       [
-        "Durban",
-        "/wiki/Durban"
+        [
+          "484.6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "94,361",
-        null
+        [
+          "Spain"
+        ],
+        [
+          "/wiki/Spain"
+        ]
       ],
       [
-        "11,065,240",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Limpopo",
-        "/wiki/Limpopo"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Polokwane",
-        "/wiki/Polokwane"
+        [
+          "Paris\u00a0Saint\u2011Germain"
+        ],
+        [
+          "/wiki/Paris_Saint-Germain_F.C."
+        ]
       ],
       [
-        "Polokwane",
-        null
+        [
+          "474.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "125,754",
-        null
+        [
+          "France"
+        ],
+        [
+          "/wiki/France"
+        ]
       ],
       [
-        "5,799,090",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Mpumalanga",
-        "/wiki/Mpumalanga"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mbombela",
-        "/wiki/Mbombela"
+        [
+          "Manchester City"
+        ],
+        [
+          "/wiki/Manchester_City_F.C."
+        ]
       ],
       [
-        "Mbombela",
-        "/wiki/Mbombela"
+        [
+          "414.4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "76,495",
-        null
+        [
+          "England"
+        ],
+        [
+          "/wiki/England"
+        ]
       ],
       [
-        "4,335,964",
-        null
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "North West",
-        "/wiki/North_West_(South_African_province)"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mahikeng",
-        "/wiki/Mahikeng"
+        [
+          "Chelsea"
+        ],
+        [
+          "/wiki/Chelsea_F.C."
+        ]
       ],
       [
-        "Klerksdorp",
-        "/wiki/Klerksdorp"
+        [
+          "387.9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "104,882",
-        null
+        [
+          "England"
+        ],
+        [
+          "/wiki/England"
+        ]
       ],
       [
-        "3,748,435",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Northern Cape",
-        "/wiki/Northern_Cape"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kimberley",
-        "/wiki/Kimberley,_South_Africa"
+        [
+          "Arsenal"
+        ],
+        [
+          "/wiki/Arsenal_F.C."
+        ]
       ],
       [
-        "Kimberley",
-        null
+        [
+          "359.3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "372,889",
-        null
+        [
+          "England"
+        ],
+        [
+          "/wiki/England"
+        ]
       ],
       [
-        "1,193,780",
-        null
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Western Cape",
-        "/wiki/Western_Cape"
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cape Town",
-        "/wiki/Cape_Town"
+        [
+          "Liverpool"
+        ],
+        [
+          "/wiki/Liverpool_F.C."
+        ]
       ],
       [
-        "Cape Town",
-        null
+        [
+          "305.9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "129,462",
-        null
+        [
+          "England"
+        ],
+        [
+          "/wiki/England"
+        ]
       ],
       [
-        "6,279,730",
-        null
+        [
+          "12"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "10"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Juventus"
+        ],
+        [
+          "/wiki/Juventus_F.C."
+        ]
+      ],
+      [
+        [
+          "279.4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Italy"
+        ],
+        [
+          "/wiki/Italy"
+        ]
+      ],
+      [
+        [
+          "9"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "11"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Borussia Dortmund"
+        ],
+        [
+          "/wiki/Borussia_Dortmund"
+        ]
+      ],
+      [
+        [
+          "261.5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Germany"
+        ],
+        [
+          "/wiki/Germany"
+        ]
+      ],
+      [
+        [
+          "11"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "12"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Milan"
+        ],
+        [
+          "/wiki/A.C._Milan"
+        ]
+      ],
+      [
+        [
+          "249.7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Italy"
+        ],
+        [
+          "/wiki/Italy"
+        ]
+      ],
+      [
+        [
+          "10"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "13"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tottenham Hotspur"
+        ],
+        [
+          "/wiki/Tottenham_Hotspur_F.C."
+        ]
+      ],
+      [
+        [
+          "215.8"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "England"
+        ],
+        [
+          "/wiki/England"
+        ]
+      ],
+      [
+        [
+          "14"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "14"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Schalke 04"
+        ],
+        [
+          "/wiki/FC_Schalke_04"
+        ]
+      ],
+      [
+        [
+          "213.9"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Germany"
+        ],
+        [
+          "/wiki/Germany"
+        ]
+      ],
+      [
+        [
+          "13"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "15"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Atl\u00e9tico Madrid"
+        ],
+        [
+          "/wiki/Atl%C3%A9tico_Madrid"
+        ]
+      ],
+      [
+        [
+          "169.9"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Spain"
+        ],
+        [
+          "/wiki/Spain"
+        ]
+      ],
+      [
+        [
+          "20"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "16"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Napoli"
+        ],
+        [
+          "/wiki/S.S.C._Napoli"
+        ]
+      ],
+      [
+        [
+          "164.8"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Italy"
+        ],
+        [
+          "/wiki/Italy"
+        ]
+      ],
+      [
+        [
+          "22"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "17"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Internazionale"
+        ],
+        [
+          "/wiki/Inter_Milan"
+        ]
+      ],
+      [
+        [
+          "164.0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Italy"
+        ],
+        [
+          "/wiki/Italy"
+        ]
+      ],
+      [
+        [
+          "15"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "18"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Galatasaray"
+        ],
+        [
+          "/wiki/Galatasaray_S.K._(football)"
+        ]
+      ],
+      [
+        [
+          "161.9"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Turkey"
+        ],
+        [
+          "/wiki/Turkey"
+        ]
+      ],
+      [
+        [
+          "16"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "19"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Newcastle United"
+        ],
+        [
+          "/wiki/Newcastle_United_F.C."
+        ]
+      ],
+      [
+        [
+          "155.1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "England"
+        ],
+        [
+          "/wiki/England"
+        ]
+      ],
+      [
+        [
+          "25"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "20"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Everton"
+        ],
+        [
+          "/wiki/Everton_F.C."
+        ]
+      ],
+      [
+        [
+          "144.1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "England"
+        ],
+        [
+          "/wiki/England"
+        ]
+      ],
+      [
+        [
+          "31+"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

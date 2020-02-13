@@ -1,239 +1,763 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_newspapers_in_Kenya",
-  "title": "List of newspapers in Kenya",
+  "url": "https://en.wikipedia.org/wiki/Cloud-computing_comparison",
+  "title": "Cloud-computing comparison",
   "header": [
     [
-      "City",
-      null
+      [
+        "SaaS (Software as a Service)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Newspaper",
-      null
+      [
+        "Initial release date"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Publisher/parent company",
-      null
+      [
+        "License(s)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Website",
-      null
+      [
+        "Written in"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "As a service"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Local installations"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Nairobi",
-        "/wiki/Nairobi"
+        [
+          "fluid Operations eCloudManager"
+        ],
+        [
+          "/wiki/Fluid_Operations"
+        ]
       ],
       [
-        "The Daily Nation",
-        "/wiki/The_Daily_Nation"
+        [
+          "2009-03-01"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nation Media Group",
-        "/wiki/Nation_Media_Group"
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "[1]",
-        "/wiki/HTTP_404"
+        [
+          "Java, Groovy"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Nairobi",
-        "/wiki/Nairobi"
+        [
+          "AppScale"
+        ],
+        [
+          "/wiki/AppScale"
+        ]
       ],
       [
-        "KSN",
-        "/wiki/HTTP_404"
+        [
+          "2009-03-07"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kenya Satellite News Network",
-        null
+        [
+          "Apache License",
+          "[1]"
+        ],
+        [
+          "/wiki/Apache_License",
+          null
+        ]
       ],
       [
-        "[2]",
-        "/wiki/HTTP_404"
+        [
+          "Python, Ruby, Go"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Nairobi",
-        "/wiki/Nairobi"
+        [
+          "Cloud Foundry"
+        ],
+        [
+          "/wiki/Cloud_Foundry"
+        ]
       ],
       [
-        "The Standard",
-        "/wiki/The_Standard_(Kenya)"
+        [
+          "2011-04-12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Standard Group Limited",
-        null
+        [
+          "Apache License"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
       ],
       [
-        "[3]",
-        "/wiki/HTTP_404"
+        [
+          "Ruby, C, Java, Go"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Nairobi",
-        "/wiki/Nairobi"
+        [
+          "Cloud.com"
+        ],
+        [
+          "/wiki/Cloud.com"
+        ]
       ],
       [
-        "The EastAfrican",
-        "/wiki/The_EastAfrican"
+        [
+          "2010-05-04"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nation Media Group",
-        "/wiki/Nation_Media_Group"
+        [
+          "Apache license"
+        ],
+        [
+          "/wiki/Apache_license"
+        ]
       ],
       [
-        "[4]",
-        "/wiki/HTTP_404"
+        [
+          "Java, C"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Nairobi",
-        "/wiki/Nairobi"
+        [
+          "Eucalyptus"
+        ],
+        [
+          "/wiki/Eucalyptus_(computing)"
+        ]
       ],
       [
-        "The Kenya Times",
-        "/wiki/The_Kenya_Times"
+        [
+          "2008-05-29"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Proprietary",
+          "GPL v3"
+        ],
+        [
+          "/wiki/Proprietary_software",
+          "/wiki/GPL_v3"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Java, C"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Nairobi",
-        "/wiki/Nairobi"
+        [
+          "Flexiant Limited"
+        ],
+        [
+          "/wiki/Flexiant_Limited"
+        ]
       ],
       [
-        "The Sub-Saharan Informer",
-        "/wiki/The_Sub-Saharan_Informer"
+        [
+          "2007-01-15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Proprietary software"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Java, C"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Nairobi",
-        "/wiki/Nairobi"
+        [
+          "Nimbus"
+        ],
+        [
+          "/wiki/Nimbus_(cloud_computing)"
+        ]
       ],
       [
-        "Taifa Leo",
-        "/wiki/Taifa_Leo"
+        [
+          "2009-01-09"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nation Media Group",
-        "/wiki/Nation_Media_Group"
+        [
+          "Apache License"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
       ],
       [
-        "[5],Swahili",
-        "/wiki/HTTP_404 /wiki/Swahili_language"
+        [
+          "Java, Python"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Nairobi",
-        "/wiki/Nairobi"
+        [
+          "OpenNebula"
+        ],
+        [
+          "/wiki/OpenNebula"
+        ]
       ],
       [
-        "Business Daily",
-        "/wiki/Business_Daily_Africa"
+        [
+          "2008-03-??"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nation Media Group",
-        "/wiki/Nation_Media_Group"
+        [
+          "Apache License"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
       ],
       [
-        "[6]",
-        "/wiki/HTTP_404"
+        [
+          "C++, C, Ruby, Java, Shell script, lex, yacc"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Nairobi",
-        "/wiki/Nairobi"
+        [
+          "OpenQRM"
+        ],
+        [
+          "/wiki/OpenQRM"
+        ]
       ],
       [
-        "The Star",
-        "/wiki/The_Star_(Kenya)"
+        [
+          "2008-03-??"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Radio Africa Group",
-        "/wiki/HTTP_404"
+        [
+          "GPL License"
+        ],
+        [
+          "/wiki/GPL_License"
+        ]
       ],
       [
-        "[7]",
-        "/wiki/HTTP_404"
+        [
+          "C++, PHP, Shell script"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Nairobi",
-        "/wiki/Nairobi"
+        [
+          "OpenShift"
+        ],
+        [
+          "/wiki/OpenShift"
+        ]
       ],
       [
-        "The People",
-        "/wiki/HTTP_404"
+        [
+          "2011-05-04"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Media Max Limited",
-        "/wiki/HTTP_404"
+        [
+          "Apache License"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
       ],
       [
-        "[8]",
-        "/wiki/HTTP_404"
+        [
+          "Go"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Mombasa",
-        "/wiki/Mombasa"
+        [
+          "OpenStack"
+        ],
+        [
+          "/wiki/OpenStack"
+        ]
       ],
       [
-        "Coast Week",
-        "/wiki/HTTP_404"
+        [
+          "2010-10-21"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Coast Week Limited",
-        "/wiki/HTTP_404"
+        [
+          "Apache License"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
       ],
       [
-        "[9]",
-        "/wiki/HTTP_404"
+        [
+          "Python"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Nairobi",
-        "/wiki/Nairobi"
+        [
+          "OnApp"
+        ],
+        [
+          "/wiki/OnApp"
+        ]
       ],
       [
-        "KDRTV Kenya News",
-        "/wiki/HTTP_404"
+        [
+          "2010-07-01"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "KDRTV",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "[10]",
-        "/wiki/HTTP_404"
+        [
+          "Java, Ruby, C++"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "oVirt"
+        ],
+        [
+          "/wiki/OVirt"
+        ]
+      ],
+      [
+        [
+          "2012-08-09"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Apache License"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
+      ],
+      [
+        [
+          "Java, Python"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "?"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Jelastic"
+        ],
+        [
+          "/wiki/Jelastic"
+        ]
+      ],
+      [
+        [
+          "2011-01-27"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GPL License",
+          "Apache License",
+          "BSD License"
+        ],
+        [
+          "/wiki/GPL_License",
+          "/wiki/Apache_License",
+          "/wiki/BSD_License"
+        ]
+      ],
+      [
+        [
+          "Java, JavaScript, Perl, Shell script"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

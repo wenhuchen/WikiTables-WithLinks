@@ -1,167 +1,381 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2006_Aerobic_Gymnastics_World_Championships",
-  "title": "2006 Aerobic Gymnastics World Championships",
+  "url": "https://en.wikipedia.org/wiki/List_of_matrices",
+  "title": "List of matrices",
   "header": [
     [
-      "Rank",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Gymnast",
-      null
+      [
+        "Explanation"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country",
-      null
+      [
+        "Symbolic description of the entries"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Point",
-      null
+      [
+        "Notes"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "",
-        null
+        [
+          "Exchange\u00a0matrix"
+        ],
+        [
+          "/wiki/Exchange_matrix"
+        ]
       ],
       [
-        "Marcela Lopez",
-        "/wiki/Marcela_Lopez"
+        [
+          "binary matrix"
+        ],
+        [
+          "/wiki/Binary_matrix"
+        ]
       ],
       [
-        "Brazil",
-        "/wiki/Brazil"
+        [
+          "aij = \u03b4n+1\u2212i,j"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "21.600",
-        null
+        [
+          "permutation matrix"
+        ],
+        [
+          "/wiki/Permutation_matrix"
+        ]
       ]
     ],
     [
       [
-        "",
-        null
+        [
+          "Hilbert matrix"
+        ],
+        [
+          "/wiki/Hilbert_matrix"
+        ]
       ],
       [
-        "Huang Jinxuan",
-        "/wiki/HTTP_404"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "China",
-        "/wiki/China"
+        [
+          "aij\u00a0=\u00a0(i\u00a0+\u00a0j\u00a0\u2212\u00a01)."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "20.350",
-        null
+        [
+          "Hankel matrix"
+        ],
+        [
+          "/wiki/Hankel_matrix"
+        ]
       ]
     ],
     [
       [
-        "",
-        null
+        [
+          "Identity matrix"
+        ],
+        [
+          "/wiki/Identity_matrix"
+        ]
       ],
       [
-        "Elmira Dassaeva",
-        "/wiki/HTTP_404"
+        [
+          "A square diagonal matrix, with all entries on the main diagonal equal to 1, and the rest 0."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Spain",
-        "/wiki/Spain"
+        [
+          "aij = \u03b4ij"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "20.250",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "Lehmer matrix"
+        ],
+        [
+          "/wiki/Lehmer_matrix"
+        ]
       ],
       [
-        "Arianna Ciucci",
-        "/wiki/HTTP_404"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Italy",
-        "/wiki/Italy"
+        [
+          "aij = min(i, j) \u00f7 max(i, j)."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "20.000",
-        null
+        [
+          "positive",
+          "symmetric matrix"
+        ],
+        [
+          "/wiki/Positive_matrix",
+          "/wiki/Symmetric_matrix"
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Matrix of ones"
+        ],
+        [
+          "/wiki/Matrix_of_ones"
+        ]
       ],
       [
-        "Angela McMillian",
-        "/wiki/HTTP_404"
+        [
+          "A matrix with all entries equal to one."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "New Zealand",
-        "/wiki/New_Zealand"
+        [
+          "aij = 1."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "19.850",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "Pascal matrix"
+        ],
+        [
+          "/wiki/Pascal_matrix"
+        ]
       ],
       [
-        "Ekaterina Cherepanova",
-        "/wiki/HTTP_404"
+        [
+          "Pascal's triangle"
+        ],
+        [
+          "/wiki/Pascal%27s_triangle"
+        ]
       ],
       [
-        "Russia",
-        "/wiki/Russia"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "19.800",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "Pauli matrices"
+        ],
+        [
+          "/wiki/Pauli_matrices"
+        ]
       ],
       [
-        "Cristina Simona Nedelcu",
-        "/wiki/Cristina_Simona_Nedelcu"
+        [
+          "A set of three 2\u00a0\u00d7\u00a02 complex Hermitian and unitary matrices. When combined with the I2 identity matrix, they form an orthogonal basis for the 2\u00a0\u00d7\u00a02 complex Hermitian matrices."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Romania",
-        "/wiki/Romania"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "19.650",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "Redheffer\u00a0matrix"
+        ],
+        [
+          "/wiki/Redheffer_matrix"
+        ]
       ],
       [
-        "Tania Mihaela Pohoata",
-        "/wiki/Mihaela_Pohoata"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Romania",
-        "/wiki/Romania"
+        [
+          "aij are 1 if i divides j or if j = 1; otherwise, aij = 0."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "19.300",
-        null
+        [
+          "A (0, 1)-matrix."
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Shift matrix"
+        ],
+        [
+          "/wiki/Shift_matrix"
+        ]
+      ],
+      [
+        [
+          "A matrix with ones on the superdiagonal or subdiagonal and zeroes elsewhere."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "aij = \u03b4i+1,j or aij = \u03b4i\u22121,j"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Multiplication by it shifts matrix elements by one position."
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Zero matrix"
+        ],
+        [
+          "/wiki/Zero_matrix"
+        ]
+      ],
+      [
+        [
+          "A matrix with all entries equal to zero."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "aij = 0."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

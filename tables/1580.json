@@ -1,383 +1,633 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Gatorade_Player_of_the_Year_awards",
-  "title": "Gatorade Player of the Year awards",
+  "url": "https://en.wikipedia.org/wiki/List_of_Major_League_Baseball_triples_records",
+  "title": "List of Major League Baseball triples records",
   "header": [
     [
-      "Year",
-      null
+      [
+        "Player"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Winner",
-      null
+      [
+        "Triples"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Hometown",
-      null
-    ],
-    [
-      "College",
-      null
+      [
+        "Teams & Seasons"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1986",
-        null
+        [
+          "Sam Crawford"
+        ],
+        [
+          "/wiki/Sam_Crawford"
+        ]
       ],
       [
-        "J.R. Reid",
-        "/wiki/J.R._Reid"
+        [
+          "309"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Virginia Beach, VA",
-        "/wiki/Virginia_Beach,_Virginia"
-      ],
-      [
-        "North Carolina",
-        "/wiki/North_Carolina_Tar_Heels_men%27s_basketball"
+        [
+          "Cincinnati",
+          "Detroit"
+        ],
+        [
+          "/wiki/Cincinnati_Reds",
+          "/wiki/Detroit_Tigers"
+        ]
       ]
     ],
     [
       [
-        "1987",
-        null
+        [
+          "Ty Cobb"
+        ],
+        [
+          "/wiki/Ty_Cobb"
+        ]
       ],
       [
-        "LaBradford Smith",
-        "/wiki/LaBradford_Smith"
+        [
+          "297"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bay City, TX",
-        "/wiki/Bay_City,_Texas"
-      ],
-      [
-        "Louisville",
-        "/wiki/Louisville_Cardinals_men%27s_basketball"
+        [
+          "Detroit",
+          "Philadelphia (AL)"
+        ],
+        [
+          "/wiki/Detroit_Tigers",
+          "/wiki/Philadelphia_Athletics"
+        ]
       ]
     ],
     [
       [
-        "1988",
-        null
+        [
+          "Honus Wagner"
+        ],
+        [
+          "/wiki/Honus_Wagner"
+        ]
       ],
       [
-        "Alonzo Mourning",
-        "/wiki/Alonzo_Mourning"
+        [
+          "252"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Chesapeake, VA",
-        "/wiki/Chesapeake,_Virginia"
-      ],
-      [
-        "Georgetown",
-        "/wiki/Georgetown_Hoyas_men%27s_basketball"
+        [
+          "Louisville",
+          "Pittsburgh"
+        ],
+        [
+          "/wiki/Louisville_Colonels",
+          "/wiki/Pittsburgh_Pirates"
+        ]
       ]
     ],
     [
       [
-        "1989",
-        null
+        [
+          "Jake Beckley"
+        ],
+        [
+          "/wiki/Jake_Beckley"
+        ]
       ],
       [
-        "Kenny Anderson",
-        "/wiki/Kenny_Anderson_(basketball)"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jamaica, NY",
-        "/wiki/Jamaica,_Queens"
-      ],
-      [
-        "Georgia Tech",
-        "/wiki/Georgia_Tech_Yellow_Jackets_men%27s_basketball"
+        [
+          "Pittsburgh",
+          "Pittsburgh (PL)",
+          "New York (NL)",
+          "Cincinnati",
+          "St. Louis (NL)"
+        ],
+        [
+          "/wiki/Pittsburgh_Pirates",
+          "/wiki/Pittsburgh_Burghers",
+          "/wiki/New_York_Giants_(NL)",
+          "/wiki/Cincinnati_Reds",
+          "/wiki/St._Louis_Cardinals"
+        ]
       ]
     ],
     [
       [
-        "1990",
-        null
+        [
+          "Roger Connor"
+        ],
+        [
+          "/wiki/Roger_Connor"
+        ]
       ],
       [
-        "Damon Bailey",
-        "/wiki/Damon_Bailey"
+        [
+          "233"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bedford, IN",
-        "/wiki/Bedford,_Indiana"
-      ],
-      [
-        "Indiana",
-        "/wiki/Indiana_Hoosiers_men%27s_basketball"
+        [
+          "Troy (NL)",
+          "New York (NL)",
+          "Philadelphia (NL)",
+          "St. Louis (NL)"
+        ],
+        [
+          "/wiki/Troy_Trojans_(MLB_team)",
+          "/wiki/New_York_Giants_(NL)",
+          "/wiki/Philadelphia_Phillies",
+          "/wiki/St._Louis_Cardinals"
+        ]
       ]
     ],
     [
       [
-        "1991",
-        null
+        [
+          "Tris Speaker"
+        ],
+        [
+          "/wiki/Tris_Speaker"
+        ]
       ],
       [
-        "Chris Webber",
-        "/wiki/Chris_Webber"
+        [
+          "222"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Detroit, MI",
-        "/wiki/Detroit"
-      ],
-      [
-        "Michigan",
-        "/wiki/Michigan_Wolverines_men%27s_basketball"
+        [
+          "Boston (AL)",
+          "Cleveland",
+          "Washington",
+          "Philadelphia (AL)"
+        ],
+        [
+          "/wiki/Boston_Red_Sox",
+          "/wiki/Cleveland_Indians",
+          "/wiki/Washington_Senators_(1901%E2%80%9360)",
+          "/wiki/Philadelphia_Athletics"
+        ]
       ]
     ],
     [
       [
-        "1992",
-        null
+        [
+          "Dan Brouthers"
+        ],
+        [
+          "/wiki/Dan_Brouthers"
+        ]
       ],
       [
-        "Corliss Williamson",
-        "/wiki/Corliss_Williamson"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Russellville, AR",
-        "/wiki/Russellville,_Arkansas"
-      ],
-      [
-        "Arkansas",
-        "/wiki/Arkansas_Razorbacks_men%27s_basketball"
+        [
+          "Troy (NL)",
+          "Buffalo (NL)",
+          "Detroit (NL)",
+          "Boston (NL)",
+          "Boston (PL-AA)",
+          "Brooklyn",
+          "Baltimore (NL)",
+          "Louisville (NL)",
+          "Philadelphia (NL)",
+          "New York (NL)"
+        ],
+        [
+          "/wiki/Troy_Trojans_(MLB_team)",
+          "/wiki/Buffalo_Bisons_(NL)",
+          "/wiki/Detroit_Wolverines",
+          "/wiki/Boston_Braves_(baseball)",
+          "/wiki/Boston_Reds_(1890%E2%80%9391)",
+          "/wiki/Brooklyn_Dodgers",
+          "/wiki/Baltimore_Orioles_(19th_century)",
+          "/wiki/Louisville_Colonels",
+          "/wiki/Philadelphia_Phillies",
+          "/wiki/New_York_Giants_(NL)"
+        ]
       ]
     ],
     [
       [
-        "1993",
-        null
+        [
+          "Joe Kelley"
+        ],
+        [
+          "/wiki/Joe_Kelley"
+        ]
       ],
       [
-        "Randy Livingston",
-        "/wiki/Randy_Livingston"
+        [
+          "194"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "New Orleans, LA",
-        "/wiki/New_Orleans"
-      ],
-      [
-        "LSU",
-        "/wiki/LSU_Tigers_basketball"
+        [
+          "Boston (NL)",
+          "Pittsburgh",
+          "Baltimore (NL)",
+          "Brooklyn",
+          "Baltimore (AL)",
+          "Cincinnati"
+        ],
+        [
+          "/wiki/Boston_Braves_(baseball)",
+          "/wiki/Pittsburgh_Pirates",
+          "/wiki/Baltimore_Orioles_(19th_century)",
+          "/wiki/Brooklyn_Dodgers",
+          "/wiki/Baltimore_Orioles_(1901%E2%80%9302)",
+          "/wiki/Cincinnati_Reds"
+        ]
       ]
     ],
     [
       [
-        "1994",
-        null
+        [
+          "Paul Waner"
+        ],
+        [
+          "/wiki/Paul_Waner"
+        ]
       ],
       [
-        "Felipe L\u00f3pez",
-        "/wiki/Felipe_L%C3%B3pez_(basketball)"
+        [
+          "191"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "New York, NY",
-        "/wiki/Manhattan"
-      ],
-      [
-        "St. John's",
-        "/wiki/St._John%27s_Red_Storm_men%27s_basketball"
+        [
+          "Pittsburgh",
+          "Boston (NL)",
+          "Brooklyn",
+          "New York (AL)"
+        ],
+        [
+          "/wiki/Pittsburgh_Pirates",
+          "/wiki/Boston_Braves_(baseball)",
+          "/wiki/Brooklyn_Dodgers",
+          "/wiki/New_York_Yankees"
+        ]
       ]
     ],
     [
       [
-        "1995",
-        null
+        [
+          "Bid McPhee"
+        ],
+        [
+          "/wiki/Bid_McPhee"
+        ]
       ],
       [
-        "Stephon Marbury",
-        "/wiki/Stephon_Marbury"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Brooklyn, NY",
-        "/wiki/Brooklyn"
-      ],
-      [
-        "Georgia Tech",
-        "/wiki/Georgia_Tech_Yellow_Jackets_men%27s_basketball"
+        [
+          "Cincinnati (AA)",
+          "Cincinnati (NL)"
+        ],
+        [
+          "/wiki/Cincinnati_Reds",
+          "/wiki/Cincinnati_Reds"
+        ]
       ]
     ],
     [
       [
-        "1996",
-        null
+        [
+          "Eddie Collins"
+        ],
+        [
+          "/wiki/Eddie_Collins"
+        ]
       ],
       [
-        "Kobe Bryant",
-        "/wiki/Kobe_Bryant"
+        [
+          "187"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ardmore, PA",
-        "/wiki/Ardmore,_Pennsylvania"
-      ],
-      [
-        "Did not attend",
-        null
+        [
+          "Philadelphia (AL)",
+          "Chicago (AL)"
+        ],
+        [
+          "/wiki/Philadelphia_Athletics",
+          "/wiki/Chicago_White_Sox"
+        ]
       ]
     ],
     [
       [
-        "1997",
-        null
+        [
+          "Ed Delahanty"
+        ],
+        [
+          "/wiki/Ed_Delahanty"
+        ]
       ],
       [
-        "Baron Davis",
-        "/wiki/Baron_Davis"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Santa Monica, CA",
-        "/wiki/Santa_Monica,_California"
-      ],
-      [
-        "UCLA",
-        "/wiki/UCLA_Bruins_men%27s_basketball"
+        [
+          "Philadelphia (NL)",
+          "Cleveland (PL)",
+          "Washington (AL)"
+        ],
+        [
+          "/wiki/Philadelphia_Phillies",
+          "/wiki/Cleveland_Infants",
+          "/wiki/Washington_Senators_(1901%E2%80%9360)"
+        ]
       ]
     ],
     [
       [
-        "1998",
-        null
+        [
+          "Sam Rice"
+        ],
+        [
+          "/wiki/Sam_Rice"
+        ]
       ],
       [
-        "Al Harrington",
-        "/wiki/Al_Harrington"
+        [
+          "184"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Elizabeth, NJ",
-        "/wiki/Elizabeth,_New_Jersey"
-      ],
-      [
-        "Did not attend",
-        null
+        [
+          "Washington (AL)",
+          "Cleveland"
+        ],
+        [
+          "/wiki/Washington_Senators_(1901%E2%80%9360)",
+          "/wiki/Cleveland_Indians"
+        ]
       ]
     ],
     [
       [
-        "1999",
-        null
+        [
+          "Jesse Burkett"
+        ],
+        [
+          "/wiki/Jesse_Burkett"
+        ]
       ],
       [
-        "LaVell Blanchard",
-        "/wiki/LaVell_Blanchard"
+        [
+          "182"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ann Arbor, MI",
-        "/wiki/Ann_Arbor,_Michigan"
-      ],
-      [
-        "Michigan",
-        "/wiki/Michigan_Wolverines_men%27s_basketball"
+        [
+          "New York (NL)",
+          "Cleveland (NL)",
+          "St. Louis (NL)",
+          "St. Louis (AL)",
+          "Boston (AL)"
+        ],
+        [
+          "/wiki/New_York_Giants_(NL)",
+          "/wiki/Cleveland_Spiders",
+          "/wiki/St._Louis_Cardinals",
+          "/wiki/St._Louis_Browns",
+          "/wiki/Boston_Red_Sox"
+        ]
       ]
     ],
     [
       [
-        "2000",
-        null
+        [
+          "Ed Konetchy"
+        ],
+        [
+          "/wiki/Ed_Konetchy"
+        ]
       ],
       [
-        "Jared Jeffries",
-        "/wiki/Jared_Jeffries"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bloomington, IN",
-        "/wiki/Bloomington,_Indiana"
-      ],
-      [
-        "Indiana",
-        "/wiki/Indiana_Hoosiers_men%27s_basketball"
+        [
+          "St. Louis (NL)",
+          "Pittsburgh",
+          "Pittsburgh (FL)",
+          "Boston (NL)",
+          "Brooklyn",
+          "Philadelphia (NL)"
+        ],
+        [
+          "/wiki/St._Louis_Cardinals",
+          "/wiki/Pittsburgh_Pirates",
+          "/wiki/Pittsburgh_Rebels",
+          "/wiki/Boston_Braves_(baseball)",
+          "/wiki/Brooklyn_Dodgers",
+          "/wiki/Philadelphia_Phillies"
+        ]
       ]
     ],
     [
       [
-        "2001",
-        null
+        [
+          "Edd Roush"
+        ],
+        [
+          "/wiki/Edd_Roush"
+        ]
       ],
       [
-        "Kelvin Torbert",
-        "/wiki/Kelvin_Torbert"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Flint, MI",
-        "/wiki/Flint,_Michigan"
-      ],
-      [
-        "Michigan State",
-        "/wiki/Michigan_State_Spartans_men%27s_basketball"
+        [
+          "Chicago (AL)",
+          "Indianapolis/Newark (FL)",
+          "New York (NL)",
+          "Cincinnati"
+        ],
+        [
+          "/wiki/Chicago_White_Sox",
+          "/wiki/Newark_Pepper",
+          "/wiki/New_York_Giants_(NL)",
+          "/wiki/Cincinnati_Reds"
+        ]
       ]
     ],
     [
       [
-        "2002",
-        null
+        [
+          "Buck Ewing"
+        ],
+        [
+          "/wiki/Buck_Ewing"
+        ]
       ],
       [
-        "LeBron James",
-        "/wiki/LeBron_James"
+        [
+          "178"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Akron, OH",
-        "/wiki/Akron,_Ohio"
-      ],
-      [
-        "Did not attend",
-        null
+        [
+          "Troy (NL)",
+          "New York (NL)",
+          "Cleveland (NL)",
+          "Cincinnati"
+        ],
+        [
+          "/wiki/Troy_Trojans_(MLB_team)",
+          "/wiki/New_York_Giants_(NL)",
+          "/wiki/Cleveland_Spiders",
+          "/wiki/Cincinnati_Reds"
+        ]
       ]
     ],
     [
       [
-        "2003",
-        null
+        [
+          "Rabbit Maranville"
+        ],
+        [
+          "/wiki/Rabbit_Maranville"
+        ]
       ],
       [
-        "LeBron James",
-        "/wiki/LeBron_James"
+        [
+          "177"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Akron, OH",
-        "/wiki/Akron,_Ohio"
-      ],
-      [
-        "Did not attend",
-        null
+        [
+          "Boston (NL)",
+          "Pittsburgh",
+          "Chicago (NL)",
+          "Brooklyn",
+          "St. Louis (NL)"
+        ],
+        [
+          "/wiki/Boston_Braves_(baseball)",
+          "/wiki/Pittsburgh_Pirates",
+          "/wiki/Chicago_Cubs",
+          "/wiki/Brooklyn_Dodgers",
+          "/wiki/St._Louis_Cardinals"
+        ]
       ]
     ],
     [
       [
-        "2004",
-        null
+        [
+          "Stan Musial"
+        ],
+        [
+          "/wiki/Stan_Musial"
+        ]
       ],
       [
-        "Dwight Howard",
-        "/wiki/Dwight_Howard"
+        [
+          "177"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Atlanta, GA",
-        "/wiki/Atlanta"
-      ],
-      [
-        "Did not attend",
-        null
-      ]
-    ],
-    [
-      [
-        "2005",
-        null
-      ],
-      [
-        "Greg Oden",
-        "/wiki/Greg_Oden"
-      ],
-      [
-        "Indianapolis, IN",
-        "/wiki/Indianapolis"
-      ],
-      [
-        "Ohio State",
-        "/wiki/Ohio_State_Buckeyes_men%27s_basketball"
+        [
+          "St. Louis (NL)"
+        ],
+        [
+          "/wiki/St._Louis_Cardinals"
+        ]
       ]
     ]
   ],

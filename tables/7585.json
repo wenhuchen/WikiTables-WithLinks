@@ -1,314 +1,468 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_football_clubs_in_Greenland",
-  "title": "List of football clubs in Greenland",
+  "url": "https://en.wikipedia.org/wiki/Conference_USA",
+  "title": "Conference USA",
   "header": [
     [
-      "Club",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "City",
-      null
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Stadium (capacity)",
-      null
+      [
+        "Stadium"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Greenlandic Men's Football Championships won",
-      null
+      [
+        "Opposing Conference"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Aqigssiaq",
-        "/wiki/Aqigssiaq_Maniitsoq"
+        [
+          "Arizona Bowl"
+        ],
+        [
+          "/wiki/Arizona_Bowl"
+        ]
       ],
       [
-        "Maniitsoq",
-        "/wiki/Maniitsoq"
+        [
+          "Tucson, Arizona"
+        ],
+        [
+          "/wiki/Tucson,_Arizona"
+        ]
       ],
       [
-        "Manittsoq Stadium",
-        "/wiki/HTTP_404"
+        [
+          "Arizona Stadium"
+        ],
+        [
+          "/wiki/Arizona_Stadium"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Mountain West"
+        ],
+        [
+          "/wiki/Mountain_West_Conference"
+        ]
       ]
     ],
     [
       [
-        "A.T.A.",
-        "/wiki/A.T.A._(Greenland)"
+        [
+          "Armed Forces Bowl"
+        ],
+        [
+          "/wiki/Armed_Forces_Bowl"
+        ]
       ],
       [
-        "Tasiilaq",
-        "/wiki/Tasiilaq"
+        [
+          "Fort Worth, Texas"
+        ],
+        [
+          "/wiki/Fort_Worth,_Texas"
+        ]
       ],
       [
-        "Nuuk Stadium",
-        "/wiki/Nuuk_Stadium"
+        [
+          "Amon G. Carter Stadium"
+        ],
+        [
+          "/wiki/Amon_G._Carter_Stadium"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "The American",
+          "Army",
+          "Big 12",
+          "Big Ten",
+          "Mountain West"
+        ],
+        [
+          "/wiki/American_Athletic_Conference",
+          "/wiki/Army_Black_Knights_football",
+          "/wiki/Big_12_Conference",
+          "/wiki/Big_Ten_Conference",
+          "/wiki/Mountain_West_Conference"
+        ]
       ]
     ],
     [
       [
-        "B-67",
-        "/wiki/B-67"
+        [
+          "Bahamas Bowl"
+        ],
+        [
+          "/wiki/Bahamas_Bowl"
+        ]
       ],
       [
-        "Nuuk",
-        "/wiki/Nuuk"
+        [
+          "Nassau, Bahamas"
+        ],
+        [
+          "/wiki/Nassau,_Bahamas"
+        ]
       ],
       [
-        "Nuuk Stadium",
-        "/wiki/Nuuk_Stadium"
+        [
+          "Thomas Robinson Stadium"
+        ],
+        [
+          "/wiki/Thomas_Robinson_Stadium"
+        ]
       ],
       [
-        "13",
-        null
+        [
+          "The American",
+          "MAC",
+          "Sun Belt"
+        ],
+        [
+          "/wiki/American_Athletic_Conference",
+          "/wiki/Mid-American_Conference",
+          "/wiki/Sun_Belt_Conference"
+        ]
       ]
     ],
     [
       [
-        "CIF-70 Qasigiannguit",
-        "/wiki/CIF-70_Qasigiannguit"
+        [
+          "Boca Raton Bowl"
+        ],
+        [
+          "/wiki/Boca_Raton_Bowl"
+        ]
       ],
       [
-        "Qasigiannguit",
-        "/wiki/Qasigiannguit"
+        [
+          "Boca Raton, Florida"
+        ],
+        [
+          "/wiki/Boca_Raton,_Florida"
+        ]
       ],
       [
-        "Qasigiannguit Stadium",
-        "/wiki/HTTP_404"
+        [
+          "FAU Stadium"
+        ],
+        [
+          "/wiki/FAU_Stadium"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "The American",
+          "MAC"
+        ],
+        [
+          "/wiki/American_Athletic_Conference",
+          "/wiki/Mid-American_Conference"
+        ]
       ]
     ],
     [
       [
-        "Eqaluk-54",
-        "/wiki/HTTP_404"
+        [
+          "First Responder Bowl"
+        ],
+        [
+          "/wiki/First_Responder_Bowl"
+        ]
       ],
       [
-        "Tasiusaq",
-        "/wiki/Tasiusaq,_Kujalleq"
+        [
+          "Dallas, Texas"
+        ],
+        [
+          "/wiki/Dallas"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Cotton Bowl"
+        ],
+        [
+          "/wiki/Cotton_Bowl_(stadium)"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "Big 12",
+          "Big Ten"
+        ],
+        [
+          "/wiki/Big_12_Conference",
+          "/wiki/Big_Ten_Conference"
+        ]
       ]
     ],
     [
       [
-        "Eqaluk-56",
-        "/wiki/HTTP_404"
+        [
+          "Frisco Bowl"
+        ],
+        [
+          "/wiki/Frisco_Bowl"
+        ]
       ],
       [
-        "Ikerasak",
-        "/wiki/Ikerasak"
+        [
+          "Frisco, Texas"
+        ],
+        [
+          "/wiki/Frisco,_Texas"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Toyota Stadium"
+        ],
+        [
+          "/wiki/Toyota_Stadium_(Texas)"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "The American"
+        ],
+        [
+          "/wiki/American_Athletic_Conference"
+        ]
       ]
     ],
     [
       [
-        "Gr\u00f8nlands Seminarius Sportklub",
-        "/wiki/Gr%C3%B8nlands_Seminarius_Sportklub"
+        [
+          "Hawaii Bowl"
+        ],
+        [
+          "/wiki/Hawaii_Bowl"
+        ]
       ],
       [
-        "Nuuk",
-        "/wiki/Nuuk"
+        [
+          "Honolulu, Hawaii"
+        ],
+        [
+          "/wiki/Honolulu"
+        ]
       ],
       [
-        "Nuuk Stadium",
-        "/wiki/Nuuk_Stadium"
+        [
+          "Aloha Stadium"
+        ],
+        [
+          "/wiki/Aloha_Stadium"
+        ]
       ],
       [
-        "5",
-        null
+        [
+          "Mountain West"
+        ],
+        [
+          "/wiki/Mountain_West_Conference"
+        ]
       ]
     ],
     [
       [
-        "G-44 Qeqertarsuaq",
-        "/wiki/G-44_Qeqertarsuaq"
+        [
+          "Independence Bowl"
+        ],
+        [
+          "/wiki/Independence_Bowl"
+        ]
       ],
       [
-        "Qeqertarsuaq",
-        "/wiki/Qeqertarsuaq"
+        [
+          "Shreveport, Louisiana"
+        ],
+        [
+          "/wiki/Shreveport,_Louisiana"
+        ]
       ],
       [
-        "Qeqertarsuaq Stadium",
-        "/wiki/HTTP_404"
+        [
+          "Independence Stadium"
+        ],
+        [
+          "/wiki/Independence_Stadium_(Shreveport)"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "ACC",
+          "SEC"
+        ],
+        [
+          "/wiki/Atlantic_Coast_Conference",
+          "/wiki/Southeastern_Conference"
+        ]
       ]
     ],
     [
       [
-        "Inuit Timersoqatigiiffiat-79",
-        "/wiki/Inuit_Timersoqatigiiffiat-79"
+        [
+          "Miami Beach Bowl"
+        ],
+        [
+          "/wiki/Miami_Beach_Bowl"
+        ]
       ],
       [
-        "Nuuk",
-        "/wiki/Nuuk"
+        [
+          "Miami, Florida"
+        ],
+        [
+          "/wiki/Miami"
+        ]
       ],
       [
-        "Nuuk Stadium",
-        "/wiki/Nuuk_Stadium"
+        [
+          "Marlins Park"
+        ],
+        [
+          "/wiki/Marlins_Park"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "The American"
+        ],
+        [
+          "/wiki/American_Athletic_Conference"
+        ]
       ]
     ],
     [
       [
-        "Kissaviarsuk-33",
-        "/wiki/Kissaviarsuk-33"
+        [
+          "New Mexico Bowl"
+        ],
+        [
+          "/wiki/New_Mexico_Bowl"
+        ]
       ],
       [
-        "Qaqortoq",
-        "/wiki/Qaqortoq"
+        [
+          "Albuquerque, New Mexico"
+        ],
+        [
+          "/wiki/Albuquerque,_New_Mexico"
+        ]
       ],
       [
-        "Qaqortoq Football Stadium",
-        "/wiki/HTTP_404"
+        [
+          "Dreamstyle Stadium"
+        ],
+        [
+          "/wiki/Dreamstyle_Stadium"
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "Mountain West"
+        ],
+        [
+          "/wiki/Mountain_West_Conference"
+        ]
       ]
     ],
     [
       [
-        "Kugsak-45",
-        "/wiki/Kugsak-45"
+        [
+          "New Orleans Bowl"
+        ],
+        [
+          "/wiki/New_Orleans_Bowl"
+        ]
       ],
       [
-        "Qasigiannguit",
-        "/wiki/Qasigiannguit"
+        [
+          "New Orleans, Louisiana"
+        ],
+        [
+          "/wiki/New_Orleans"
+        ]
       ],
       [
-        "Qasigiannguit Stadium",
-        "/wiki/HTTP_404"
+        [
+          "Mercedes-Benz Superdome"
+        ],
+        [
+          "/wiki/Mercedes-Benz_Superdome"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "Sun Belt"
+        ],
+        [
+          "/wiki/Sun_Belt_Conference"
+        ]
       ]
     ],
     [
       [
-        "FC Malamuk",
-        "/wiki/FC_Malamuk"
+        [
+          "Gasparilla Bowl"
+        ],
+        [
+          "/wiki/Gasparilla_Bowl"
+        ]
       ],
       [
-        "Uummannaq",
-        "/wiki/Uummannaq"
+        [
+          "Tampa, Florida"
+        ],
+        [
+          "/wiki/Tampa,_Florida"
+        ]
       ],
       [
-        "Uummannaq Stadium",
-        "/wiki/HTTP_404"
+        [
+          "Raymond James Stadium"
+        ],
+        [
+          "/wiki/Raymond_James_Stadium"
+        ]
       ],
       [
-        "1",
-        null
-      ]
-    ],
-    [
-      [
-        "Nagdlunguaq-48",
-        "/wiki/Nagdlunguaq-48"
-      ],
-      [
-        "Ilulissat",
-        "/wiki/Ilulissat"
-      ],
-      [
-        "Nuuk Stadium",
-        "/wiki/Nuuk_Stadium"
-      ],
-      [
-        "10",
-        null
-      ]
-    ],
-    [
-      [
-        "Nuuk Idraetslag",
-        "/wiki/Nuuk_Idraetslag"
-      ],
-      [
-        "Nuuk",
-        "/wiki/Nuuk"
-      ],
-      [
-        "Nuuk Stadium",
-        "/wiki/Nuuk_Stadium"
-      ],
-      [
-        "5",
-        null
-      ]
-    ],
-    [
-      [
-        "Siumut Amerdlok Kunuk",
-        "/wiki/Siumut_Amerdlok_Kunuk"
-      ],
-      [
-        "Sisimiut",
-        "/wiki/Sisimiut"
-      ],
-      [
-        "Sisimiut Stadium",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "1",
-        null
-      ]
-    ],
-    [
-      [
-        "Tupilak-41",
-        "/wiki/Tupilak-41"
-      ],
-      [
-        "Aasiaat",
-        "/wiki/Aasiaat"
-      ],
-      [
-        "Aasiaat Stadium",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "3",
-        null
+        [
+          "The American"
+        ],
+        [
+          "/wiki/American_Athletic_Conference"
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "For the 2014\u201319 seasons, Conference USA is guaranteed at least five of the following bowl games.",
   "idx": 7585
 }

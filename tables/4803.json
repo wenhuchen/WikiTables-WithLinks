@@ -1,242 +1,470 @@
 {
-  "url": "https://en.wikipedia.org/wiki/West_Shore_Conference",
-  "title": "West Shore Conference",
+  "url": "https://en.wikipedia.org/wiki/Divis_transmitting_station",
+  "title": "Divis transmitting station",
   "header": [
     [
-      "School",
-      null
+      [
+        "Frequency"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Nickname",
-      null
+      [
+        "UHF"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      null
+      [
+        "kW"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Colors",
-      null
+      [
+        "Operator"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Type",
-      null
-    ],
-    [
-      "Notes",
-      null
+      [
+        "System"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Avon",
-        "/wiki/Avon_High_School_(Ohio)"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Eagles",
-        null
+        [
+          "21+"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Avon",
-        "/wiki/Avon,_Ohio"
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Purple & Gold",
-        null
+        [
+          "D3&4"
+        ],
+        [
+          "/wiki/Digital_3%264"
+        ]
       ],
       [
-        "Public",
-        null
-      ],
-      [
-        "SWC",
-        "/wiki/Southwestern_Conference_(Ohio)"
+        [
+          "DVB-T"
+        ],
+        [
+          "/wiki/DVB-T"
+        ]
       ]
     ],
     [
       [
-        "Bay",
-        "/wiki/Bay_High_School_(Bay_Village,_Ohio)"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Rockets",
-        null
+        [
+          "23"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bay Village",
-        "/wiki/Bay_Village,_Ohio"
+        [
+          "50"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Blue & White",
-        null
+        [
+          "SDN"
+        ],
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
       ],
       [
-        "Public",
-        null
-      ],
-      [
-        "GLC",
-        "/wiki/Great_Lakes_Conference"
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Elyria Catholic",
-        "/wiki/Elyria_Catholic_High_School_(Elyria,_Ohio)"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Panthers",
-        null
+        [
+          "24"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Elyria",
-        "/wiki/Elyria,_Ohio"
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Green & White",
-        null
+        [
+          "BBC"
+        ],
+        [
+          "/wiki/BBC"
+        ]
       ],
       [
-        "Parochial",
-        null
-      ],
-      [
-        "GLC",
-        "/wiki/Great_Lakes_Conference"
+        [
+          "DVB-T2"
+        ],
+        [
+          "/wiki/DVB-T2"
+        ]
       ]
     ],
     [
       [
-        "Lakewood",
-        "/wiki/Lakewood_High_School_(Lakewood,_Ohio)"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Rangers",
-        null
+        [
+          "26"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lakewood",
-        "/wiki/Lakewood,_Ohio"
+        [
+          "50"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Purple & Gold",
-        null
+        [
+          "ARQ"
+        ],
+        [
+          "/wiki/Arqiva"
+        ]
       ],
       [
-        "Public",
-        null
-      ],
-      [
-        "SWC",
-        "/wiki/Southwestern_Conference_(Ohio)"
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Midview",
-        "/wiki/Midview_High_School_(Grafton,_Ohio)"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Middies",
-        null
+        [
+          "27"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grafton",
-        "/wiki/Grafton,_Ohio"
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Blue & Silver",
-        null
+        [
+          "PSB1 (BBC A)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Public",
-        null
-      ],
-      [
-        "SWC",
-        "/wiki/Southwestern_Conference_(Ohio)"
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "North Ridgeville",
-        "/wiki/North_Ridgeville_High_School"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Rangers",
-        null
+        [
+          "30 (was 29)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "North Ridgeville",
-        "/wiki/North_Ridgeville,_Ohio"
+        [
+          "50"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Navy Blue & Gold",
-        null
+        [
+          "COM6 (ARQ B)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Public",
-        null
-      ],
-      [
-        "SWC",
-        "/wiki/Southwestern_Conference_(Ohio)"
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Rocky River",
-        "/wiki/Rocky_River_High_School_(Ohio)"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Pirates",
-        null
+        [
+          "36 (Was 30)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rocky River",
-        "/wiki/Rocky_River,_Ohio"
+        [
+          "19"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Maroon & White",
-        null
+        [
+          "LTVmux"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Public",
-        null
-      ],
-      [
-        "GLC",
-        "/wiki/Great_Lakes_Conference"
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Vermilion",
-        "/wiki/Vermilion_High_School"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Sailors",
-        null
+        [
+          "48 (From Sept 2019)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Vermilion",
-        "/wiki/Vermilion,_Ohio"
+        [
+          "0.01"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Purple & Vegas Gold",
-        null
+        [
+          "NIMM (RTE)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Public",
-        null
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "SBC",
-        "/wiki/Sandusky_Bay_Conference"
+        [
+          "51 (Was 33)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "12.4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "COM7 (ARQ C)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "DVB-T2"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        [
+          "60 (Was 34)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "12.66"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "COM8 (ARQ D)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "DVB-T2"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "Digital television services broadcast on the following frequencies (frequency changes -Sept 2019), and with the following powers:",
   "idx": 4803
 }

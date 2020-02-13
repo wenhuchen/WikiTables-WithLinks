@@ -1,170 +1,436 @@
 {
-  "url": "https://en.wikipedia.org/wiki/1992_World_Rhythmic_Gymnastics_Championships",
-  "title": "1992 World Rhythmic Gymnastics Championships",
+  "url": "https://en.wikipedia.org/wiki/Strictly_Come_Dancing_(series_2)",
+  "title": "Strictly Come Dancing (series 2)",
   "header": [
     [
-      "Rank",
-      null
+      [
+        "Dance"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Gymnast",
-      null
+      [
+        "Best dancer(s)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country",
-      null
+      [
+        "Best score"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Point",
-      null
+      [
+        "Worst dancer(s)"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Worst score"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "",
-        null
+        [
+          "Cha-Cha-Cha"
+        ],
+        [
+          "/wiki/Cha-cha-cha_(dance)"
+        ]
       ],
       [
-        "Larissa Lukianenko",
-        "/wiki/Larissa_Lukianenko"
+        [
+          "Jill Halfpenny"
+        ],
+        [
+          "/wiki/Jill_Halfpenny"
+        ]
       ],
       [
-        "Belarus",
-        "/wiki/Belarus"
+        [
+          "36"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "9.800",
-        null
+        [
+          "Quentin Willson"
+        ],
+        [
+          "/wiki/Quentin_Willson"
+        ]
+      ],
+      [
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "",
-        null
+        [
+          "Foxtrot"
+        ],
+        [
+          "/wiki/Foxtrot"
+        ]
       ],
       [
-        "Oxana Kostina",
-        "/wiki/Oxana_Kostina"
+        [
+          "Jill Halfpenny"
+        ],
+        [
+          "/wiki/Jill_Halfpenny"
+        ]
       ],
       [
-        "Russia",
-        "/wiki/Russia"
+        [
+          "34"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "9.800",
-        null
+        [
+          "Julian Clary"
+        ],
+        [
+          "/wiki/Julian_Clary"
+        ]
+      ],
+      [
+        [
+          "24"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "",
-        null
+        [
+          "Jive"
+        ],
+        [
+          "/wiki/Jive_(dance)"
+        ]
       ],
       [
-        "Maria Petrova",
-        "/wiki/Maria_Petrova_(rhythmic_gymnast)"
+        [
+          "Jill Halfpenny"
+        ],
+        [
+          "/wiki/Jill_Halfpenny"
+        ]
       ],
       [
-        "Bulgaria",
-        "/wiki/Bulgaria"
+        [
+          "40"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "9.675",
-        null
+        [
+          "Julian Clary"
+        ],
+        [
+          "/wiki/Julian_Clary"
+        ]
+      ],
+      [
+        [
+          "21"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "Paso Doble"
+        ],
+        [
+          "/wiki/Paso_Doble"
+        ]
       ],
       [
-        "Carmen Acedo",
-        "/wiki/Carmen_Acedo"
+        [
+          "Jill Halfpenny"
+        ],
+        [
+          "/wiki/Jill_Halfpenny"
+        ]
       ],
       [
-        "Spain",
-        "/wiki/Spain"
+        [
+          "37"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "9.600",
-        null
+        [
+          "Diarmuid Gavin"
+        ],
+        [
+          "/wiki/Diarmuid_Gavin"
+        ]
+      ],
+      [
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Quickstep"
+        ],
+        [
+          "/wiki/Quickstep"
+        ]
       ],
       [
-        "Ekaterina Serebrianskaya",
-        "/wiki/Ekaterina_Serebrianskaya"
+        [
+          "Denise Lewis"
+        ],
+        [
+          "/wiki/Denise_Lewis"
+        ]
       ],
       [
-        "Ukraine",
-        "/wiki/Ukraine"
+        [
+          "38"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "9.575",
-        null
+        [
+          "Diarmuid Gavin"
+        ],
+        [
+          "/wiki/Diarmuid_Gavin"
+        ]
+      ],
+      [
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "Rumba"
+        ],
+        [
+          "/wiki/Rhumba"
+        ]
       ],
       [
-        "Diana Popova",
-        "/wiki/Diana_Popova"
+        [
+          "Jill Halfpenny",
+          "Denise Lewis"
+        ],
+        [
+          "/wiki/Jill_Halfpenny",
+          "/wiki/Denise_Lewis"
+        ]
       ],
       [
-        "Bulgaria",
-        "/wiki/Bulgaria"
+        [
+          "32"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "9.550",
-        null
+        [
+          "Esther Rantzen"
+        ],
+        [
+          "/wiki/Esther_Rantzen"
+        ]
+      ],
+      [
+        [
+          "16"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "Samba"
+        ],
+        [
+          "/wiki/Samba_(ballroom)"
+        ]
       ],
       [
-        "Irina Deleanu",
-        "/wiki/Irina_Deleanu"
+        [
+          "Jill Halfpenny"
+        ],
+        [
+          "/wiki/Jill_Halfpenny"
+        ]
       ],
       [
-        "Romania",
-        "/wiki/Romania"
+        [
+          "35"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "9.525",
-        null
+        [
+          "Roger Black",
+          "Sarah Manners",
+          "Julian Clary"
+        ],
+        [
+          "/wiki/Roger_Black",
+          "/wiki/Sarah_Manners",
+          "/wiki/Julian_Clary"
+        ]
+      ],
+      [
+        [
+          "23"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "Tango"
+        ],
+        [
+          "/wiki/Tango_(dance)"
+        ]
       ],
       [
-        "Lenka Oulehlov\u00e1",
-        "/wiki/Lenka_Oulehlov%C3%A1"
+        [
+          "Denise Lewis"
+        ],
+        [
+          "/wiki/Denise_Lewis"
+        ]
       ],
       [
-        "Czechoslovakia",
-        "/wiki/Czechoslovakia"
+        [
+          "35"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "9.400",
-        null
+        [
+          "Diarmuid Gavin"
+        ],
+        [
+          "/wiki/Diarmuid_Gavin"
+        ]
+      ],
+      [
+        [
+          "14"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Waltz"
+        ],
+        [
+          "/wiki/Waltz"
+        ]
+      ],
+      [
+        [
+          "Denise Lewis"
+        ],
+        [
+          "/wiki/Denise_Lewis"
+        ]
+      ],
+      [
+        [
+          "31"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Roger Black",
+          "Carol Vorderman"
+        ],
+        [
+          "/wiki/Roger_Black",
+          "/wiki/Carol_Vorderman"
+        ]
+      ],
+      [
+        [
+          "22"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "The best and worst performances in each dance according to the judges' scores are as follows:",
   "idx": 4298
 }

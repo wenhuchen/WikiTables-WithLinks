@@ -1,170 +1,382 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Cornwall_League_1",
-  "title": "Cornwall League 1",
+  "url": "https://en.wikipedia.org/wiki/2013_French_Road_Cycling_Cup",
+  "title": "2013 French Road Cycling Cup",
   "header": [
     [
-      "Team",
-      null
+      [
+        "Pos."
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Ground",
-      null
+      [
+        "Rider"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Town/Village",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Previous season",
-      null
+      [
+        "Points"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Bodmin",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Clifden Park",
-        null
+        [
+          "Samuel Dumoulin"
+        ],
+        [
+          "/wiki/Samuel_Dumoulin"
+        ]
       ],
       [
-        "Bodmin",
-        "/wiki/Bodmin"
+        [
+          "Ag2r\u2013La Mondiale"
+        ],
+        [
+          "/wiki/AG2R_La_Mondiale_(cycling_team)"
+        ]
       ],
       [
-        "3rd",
-        null
+        [
+          "155"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Camborne School of Mines",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Memorial Park, Kernick Road",
-        null
+        [
+          "Bryan Coquard"
+        ],
+        [
+          "/wiki/Bryan_Coquard"
+        ]
       ],
       [
-        "Penryn",
-        "/wiki/Penryn,_Cornwall"
+        [
+          "Team Europcar"
+        ],
+        [
+          "/wiki/Total_Direct_%C3%89nergie_(cycling_team)"
+        ]
       ],
       [
-        "4th",
-        null
+        [
+          "149"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Hayle",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Memorial Park",
-        null
+        [
+          "Anthony Geslin"
+        ],
+        [
+          "/wiki/Anthony_Geslin"
+        ]
       ],
       [
-        "Hayle,Cornwall",
-        "/wiki/Hayle /wiki/Cornwall"
+        [
+          "FDJ.fr"
+        ],
+        [
+          "/wiki/Groupama%E2%80%93FDJ"
+        ]
       ],
       [
-        "Cornwall/Devon",
-        "/wiki/Tribute_Cornwall/Devon"
+        [
+          "128"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Illogan Park",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paynters Lane Playing Field",
-        null
+        [
+          "Yannick Martinez"
+        ],
+        [
+          "/wiki/Yannick_Martinez"
+        ]
       ],
       [
-        "Illogan",
-        "/wiki/Illogan"
+        [
+          "La Pomme Marseille"
+        ],
+        [
+          "/wiki/Nippo%E2%80%93Delko%E2%80%93One_Provence"
+        ]
       ],
       [
-        "6th",
-        null
+        [
+          "111"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lankelly-Fowey RFC",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lankelly Farm",
-        null
+        [
+          "Arnaud D\u00e9mare"
+        ],
+        [
+          "/wiki/Arnaud_D%C3%A9mare"
+        ]
       ],
       [
-        "Fowey",
-        "/wiki/Fowey"
+        [
+          "FDJ.fr"
+        ],
+        [
+          "/wiki/Groupama%E2%80%93FDJ"
+        ]
       ],
       [
-        "5th",
-        null
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Newquay Hornets",
-        null
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Newquay Sports Ground",
-        null
+        [
+          "Justin Jules"
+        ],
+        [
+          "/wiki/Justin_Jules"
+        ]
       ],
       [
-        "Newquay",
-        "/wiki/Newquay"
+        [
+          "La Pomme Marseille"
+        ],
+        [
+          "/wiki/Nippo%E2%80%93Delko%E2%80%93One_Provence"
+        ]
       ],
       [
-        "Runners up (lost playoff)",
-        null
+        [
+          "93"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Roseland",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Philleigh Rugby Field",
-        null
+        [
+          "Julien Simon"
+        ],
+        [
+          "/wiki/Julien_Simon"
+        ]
       ],
       [
-        "Philleigh",
-        "/wiki/Philleigh"
+        [
+          "Sojasun"
+        ],
+        [
+          "/wiki/Sojasun_(cycling_team)"
+        ]
       ],
       [
-        "7th",
-        null
+        [
+          "93"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "St Agnes",
-        null
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Enys Parc",
-        null
+        [
+          "Nacer Bouhanni"
+        ],
+        [
+          "/wiki/Nacer_Bouhanni"
+        ]
       ],
       [
-        "St Agnes",
-        "/wiki/St_Agnes,_Cornwall"
+        [
+          "FDJ.fr"
+        ],
+        [
+          "/wiki/Groupama%E2%80%93FDJ"
+        ]
       ],
       [
-        "Cornwall 2",
-        "/wiki/Cornwall_League_2"
+        [
+          "75"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "9"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yauheni Hutarovich"
+        ],
+        [
+          "/wiki/Yauheni_Hutarovich"
+        ]
+      ],
+      [
+        [
+          "Ag2r\u2013La Mondiale"
+        ],
+        [
+          "/wiki/AG2R_La_Mondiale_(cycling_team)"
+        ]
+      ],
+      [
+        [
+          "73"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "10"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Francis Mourey"
+        ],
+        [
+          "/wiki/Francis_Mourey"
+        ]
+      ],
+      [
+        [
+          "FDJ.fr"
+        ],
+        [
+          "/wiki/Groupama%E2%80%93FDJ"
+        ]
+      ],
+      [
+        [
+          "68"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "In order to be eligible for the classification, riders either had to be French or competed for a French-licensed team.",
   "idx": 2737
 }

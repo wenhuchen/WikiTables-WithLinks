@@ -1,383 +1,513 @@
 {
-  "url": "https://en.wikipedia.org/wiki/FIS_Nordic_Combined_World_Cup",
-  "title": "FIS Nordic Combined World Cup",
+  "url": "https://en.wikipedia.org/wiki/Stanley_Cup_Finals",
+  "title": "Stanley Cup Finals",
   "header": [
     [
-      "Season",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Winner",
-      null
+      [
+        "Appearance streak"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Runner-up",
-      null
+      [
+        "Consecutive appearances"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Third",
-      null
+      [
+        "Wins during streak"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1983\u201384",
-        "/wiki/1983%E2%80%9384_FIS_Nordic_Combined_World_Cup"
+        [
+          "Montreal Canadiens"
+        ],
+        [
+          "/wiki/Montreal_Canadiens"
+        ]
       ],
       [
-        "Tom Sandberg",
-        "/wiki/Tom_Sandberg"
+        [
+          "10 seasons"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Uwe Dotzauer",
-        "/wiki/Uwe_Dotzauer"
+        [
+          "1950\u201351",
+          "1959\u201360"
+        ],
+        [
+          "/wiki/1950%E2%80%9351_NHL_season",
+          "/wiki/1959%E2%80%9360_NHL_season"
+        ]
       ],
       [
-        "Geir Andersen",
-        "/wiki/Geir_Andersen"
+        [
+          "1952\u201353",
+          "1955\u201356",
+          "1956\u201357",
+          "1957\u201358",
+          "1958\u201359",
+          "1959\u201360"
+        ],
+        [
+          "/wiki/1952%E2%80%9353_NHL_season",
+          "/wiki/1955%E2%80%9356_NHL_season",
+          "/wiki/1956%E2%80%9357_NHL_season",
+          "/wiki/1957%E2%80%9358_NHL_season",
+          "/wiki/1958%E2%80%9359_NHL_season",
+          "/wiki/1959%E2%80%9360_NHL_season"
+        ]
       ]
     ],
     [
       [
-        "1984\u201385",
-        "/wiki/1984%E2%80%9385_FIS_Nordic_Combined_World_Cup"
+        [
+          "Montreal Canadiens"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Geir Andersen",
-        "/wiki/Geir_Andersen"
+        [
+          "05 seasons"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hermann Weinbuch",
-        "/wiki/Hermann_Weinbuch"
+        [
+          "1964\u201365",
+          "1968\u201369"
+        ],
+        [
+          "/wiki/1964%E2%80%9365_NHL_season",
+          "/wiki/1968%E2%80%9369_NHL_season"
+        ]
       ],
       [
-        "Hubert Schwarz",
-        "/wiki/Hubert_Schwarz"
+        [
+          "1964\u201365",
+          "1965\u201366",
+          "1967\u201368",
+          "1968\u201369"
+        ],
+        [
+          "/wiki/1964%E2%80%9365_NHL_season",
+          "/wiki/1965%E2%80%9366_NHL_season",
+          "/wiki/1967%E2%80%9368_NHL_season",
+          "/wiki/1968%E2%80%9369_NHL_season"
+        ]
       ]
     ],
     [
       [
-        "1985\u201386",
-        "/wiki/1985%E2%80%9386_FIS_Nordic_Combined_World_Cup"
+        [
+          "New York Islanders"
+        ],
+        [
+          "/wiki/New_York_Islanders"
+        ]
       ],
       [
-        "Hermann Weinbuch",
-        "/wiki/Hermann_Weinbuch"
+        [
+          "05 seasons"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Thomas M\u00fcller",
-        "/wiki/Thomas_M%C3%BCller_(skier)"
+        [
+          "1979\u201380",
+          "1983\u201384"
+        ],
+        [
+          "/wiki/1979%E2%80%9380_NHL_season",
+          "/wiki/1983%E2%80%9384_NHL_season"
+        ]
       ],
       [
-        "Geir Andersen",
-        "/wiki/Geir_Andersen"
+        [
+          "1979\u201380",
+          "1980\u201381",
+          "1981\u201382",
+          "1982\u201383"
+        ],
+        [
+          "/wiki/1979%E2%80%9380_NHL_season",
+          "/wiki/1980%E2%80%9381_NHL_season",
+          "/wiki/1981%E2%80%9382_NHL_season",
+          "/wiki/1982%E2%80%9383_NHL_season"
+        ]
       ]
     ],
     [
       [
-        "1986\u201387",
-        "/wiki/1986%E2%80%9387_FIS_Nordic_Combined_World_Cup"
+        [
+          "Montreal Canadiens"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Torbj\u00f8rn L\u00f8kken",
-        "/wiki/Torbj%C3%B8rn_L%C3%B8kken"
+        [
+          "04 seasons"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hermann Weinbuch",
-        "/wiki/Hermann_Weinbuch"
+        [
+          "1975\u201376",
+          "1978\u201379"
+        ],
+        [
+          "/wiki/1975%E2%80%9376_NHL_season",
+          "/wiki/1978%E2%80%9379_NHL_season"
+        ]
       ],
       [
-        "Hippolyt Kempf",
-        "/wiki/Hippolyt_Kempf"
+        [
+          "1975\u201376",
+          "1976\u201377",
+          "1977\u201378",
+          "1978\u201379"
+        ],
+        [
+          "/wiki/1975%E2%80%9376_NHL_season",
+          "/wiki/1976%E2%80%9377_NHL_season",
+          "/wiki/1977%E2%80%9378_NHL_season",
+          "/wiki/1978%E2%80%9379_NHL_season"
+        ]
       ]
     ],
     [
       [
-        "1987\u201388",
-        "/wiki/1987%E2%80%9388_FIS_Nordic_Combined_World_Cup"
+        [
+          "Detroit Red Wings"
+        ],
+        [
+          "/wiki/Detroit_Red_Wings"
+        ]
       ],
       [
-        "Klaus Sulzenbacher",
-        "/wiki/Klaus_Sulzenbacher"
+        [
+          "03 seasons"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Torbj\u00f8rn L\u00f8kken",
-        "/wiki/Torbj%C3%B8rn_L%C3%B8kken"
+        [
+          "1940\u201341",
+          "1942\u201343"
+        ],
+        [
+          "/wiki/1940%E2%80%9341_NHL_season",
+          "/wiki/1942%E2%80%9343_NHL_season"
+        ]
       ],
       [
-        "Andreas Schaad",
-        "/wiki/Andreas_Schaad"
+        [
+          "1942\u201343"
+        ],
+        [
+          "/wiki/1942%E2%80%9343_NHL_season"
+        ]
       ]
     ],
     [
       [
-        "1988\u201389",
-        "/wiki/1988%E2%80%9389_FIS_Nordic_Combined_World_Cup"
+        [
+          "Toronto Maple Leafs"
+        ],
+        [
+          "/wiki/Toronto_Maple_Leafs"
+        ]
       ],
       [
-        "Trond-Arne Bredesen",
-        "/wiki/Trond-Arne_Bredesen"
+        [
+          "03 seasons"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Klaus Sulzenbacher",
-        "/wiki/Klaus_Sulzenbacher"
+        [
+          "1946\u201347",
+          "1948\u201349"
+        ],
+        [
+          "/wiki/1946%E2%80%9347_NHL_season",
+          "/wiki/1948%E2%80%9349_NHL_season"
+        ]
       ],
       [
-        "Hippolyt Kempf",
-        "/wiki/Hippolyt_Kempf"
+        [
+          "1946\u201347",
+          "1947\u201348",
+          "1948\u201349"
+        ],
+        [
+          "/wiki/1946%E2%80%9347_NHL_season",
+          "/wiki/1947%E2%80%9348_NHL_season",
+          "/wiki/1948%E2%80%9349_NHL_season"
+        ]
       ]
     ],
     [
       [
-        "1989\u201390",
-        "/wiki/1989%E2%80%9390_FIS_Nordic_Combined_World_Cup"
+        [
+          "Detroit Red Wings"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Klaus Sulzenbacher",
-        "/wiki/Klaus_Sulzenbacher"
+        [
+          "03 seasons"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Allar Levandi",
-        "/wiki/Allar_Levandi"
+        [
+          "1947\u201348",
+          "1949\u201350"
+        ],
+        [
+          "/wiki/1947%E2%80%9348_NHL_season",
+          "/wiki/1949%E2%80%9350_NHL_season"
+        ]
       ],
       [
-        "Knut Tore Apeland",
-        "/wiki/Knut_Tore_Apeland"
+        [
+          "1949\u201350"
+        ],
+        [
+          "/wiki/1949%E2%80%9350_NHL_season"
+        ]
       ]
     ],
     [
       [
-        "1990\u201391",
-        "/wiki/1990%E2%80%9391_FIS_Nordic_Combined_World_Cup"
+        [
+          "Detroit Red Wings"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Fred B\u00f8rre Lundberg",
-        "/wiki/Fred_B%C3%B8rre_Lundberg"
+        [
+          "03 seasons"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Klaus Sulzenbacher",
-        "/wiki/Klaus_Sulzenbacher"
+        [
+          "1953\u201354",
+          "1955\u201356"
+        ],
+        [
+          "/wiki/1953%E2%80%9354_NHL_season",
+          "/wiki/1955%E2%80%9356_NHL_season"
+        ]
       ],
       [
-        "Trond-Einar Elden",
-        "/wiki/Trond-Einar_Elden"
+        [
+          "1953\u201354",
+          "1954\u201355"
+        ],
+        [
+          "/wiki/1953%E2%80%9354_NHL_season",
+          "/wiki/1954%E2%80%9355_NHL_season"
+        ]
       ]
     ],
     [
       [
-        "1991\u201392",
-        "/wiki/1991%E2%80%9392_FIS_Nordic_Combined_World_Cup"
+        [
+          "Toronto Maple Leafs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Fabrice Guy",
-        "/wiki/Fabrice_Guy"
+        [
+          "03 seasons"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Klaus Sulzenbacher",
-        "/wiki/Klaus_Sulzenbacher"
+        [
+          "1961\u201362",
+          "1963\u201364"
+        ],
+        [
+          "/wiki/1961%E2%80%9362_NHL_season",
+          "/wiki/1963%E2%80%9364_NHL_season"
+        ]
       ],
       [
-        "Fred B\u00f8rre Lundberg",
-        "/wiki/Fred_B%C3%B8rre_Lundberg"
+        [
+          "1961\u201362",
+          "1962\u201363",
+          "1963\u201364"
+        ],
+        [
+          "/wiki/1961%E2%80%9362_NHL_season",
+          "/wiki/1962%E2%80%9363_NHL_season",
+          "/wiki/1963%E2%80%9364_NHL_season"
+        ]
       ]
     ],
     [
       [
-        "1992\u201393",
-        "/wiki/1992%E2%80%9393_FIS_Nordic_Combined_World_Cup"
+        [
+          "St. Louis Blues"
+        ],
+        [
+          "/wiki/St._Louis_Blues"
+        ]
       ],
       [
-        "Kenji Ogiwara",
-        "/wiki/Kenji_Ogiwara"
+        [
+          "03 seasons"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Fred B\u00f8rre Lundberg",
-        "/wiki/Fred_B%C3%B8rre_Lundberg"
+        [
+          "1967\u201368",
+          "1969\u201370"
+        ],
+        [
+          "/wiki/1967%E2%80%9368_NHL_season",
+          "/wiki/1969%E2%80%9370_NHL_season"
+        ]
       ],
       [
-        "Takanori Kono",
-        "/wiki/Takanori_Kono"
+        [
+          "none"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1993\u201394",
-        "/wiki/1993%E2%80%9394_FIS_Nordic_Combined_World_Cup"
+        [
+          "Philadelphia Flyers"
+        ],
+        [
+          "/wiki/Philadelphia_Flyers"
+        ]
       ],
       [
-        "Kenji Ogiwara",
-        "/wiki/Kenji_Ogiwara"
+        [
+          "03 seasons"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Takanori Kono",
-        "/wiki/Takanori_Kono"
+        [
+          "1973\u201374",
+          "1975\u201376"
+        ],
+        [
+          "/wiki/1973%E2%80%9374_NHL_season",
+          "/wiki/1975%E2%80%9376_NHL_season"
+        ]
       ],
       [
-        "Fred B\u00f8rre Lundberg",
-        "/wiki/Fred_B%C3%B8rre_Lundberg"
+        [
+          "1973\u201374",
+          "1974\u201375"
+        ],
+        [
+          "/wiki/1973%E2%80%9374_NHL_season",
+          "/wiki/1974%E2%80%9375_NHL_season"
+        ]
       ]
     ],
     [
       [
-        "1994\u201395",
-        "/wiki/1994%E2%80%9395_FIS_Nordic_Combined_World_Cup"
+        [
+          "Edmonton Oilers"
+        ],
+        [
+          "/wiki/Edmonton_Oilers"
+        ]
       ],
       [
-        "Kenji Ogiwara",
-        "/wiki/Kenji_Ogiwara"
+        [
+          "03 seasons"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bjarte Engen Vik",
-        "/wiki/Bjarte_Engen_Vik"
+        [
+          "1982\u201383",
+          "1984\u201385"
+        ],
+        [
+          "/wiki/1982%E2%80%9383_NHL_season",
+          "/wiki/1984%E2%80%9385_NHL_season"
+        ]
       ],
       [
-        "Knut Tore Apeland",
-        "/wiki/Knut_Tore_Apeland"
-      ]
-    ],
-    [
-      [
-        "1995\u201396",
-        "/wiki/1995%E2%80%9396_FIS_Nordic_Combined_World_Cup"
-      ],
-      [
-        "Knut Tore Apeland",
-        "/wiki/Knut_Tore_Apeland"
-      ],
-      [
-        "Kenji Ogiwara",
-        "/wiki/Kenji_Ogiwara"
-      ],
-      [
-        "Jari Mantila",
-        "/wiki/Jari_Mantila"
-      ]
-    ],
-    [
-      [
-        "1996\u201397",
-        "/wiki/1996%E2%80%9397_FIS_Nordic_Combined_World_Cup"
-      ],
-      [
-        "Samppa Lajunen",
-        "/wiki/Samppa_Lajunen"
-      ],
-      [
-        "Jari Mantila",
-        "/wiki/Jari_Mantila"
-      ],
-      [
-        "Bjarte Engen Vik",
-        "/wiki/Bjarte_Engen_Vik"
-      ]
-    ],
-    [
-      [
-        "1997\u201398",
-        "/wiki/1997%E2%80%9398_FIS_Nordic_Combined_World_Cup"
-      ],
-      [
-        "Bjarte Engen Vik",
-        "/wiki/Bjarte_Engen_Vik"
-      ],
-      [
-        "Mario Stecher",
-        "/wiki/Mario_Stecher"
-      ],
-      [
-        "Felix Gottwald",
-        "/wiki/Felix_Gottwald"
-      ]
-    ],
-    [
-      [
-        "1998\u201399",
-        "/wiki/1998%E2%80%9399_FIS_Nordic_Combined_World_Cup"
-      ],
-      [
-        "Bjarte Engen Vik",
-        "/wiki/Bjarte_Engen_Vik"
-      ],
-      [
-        "Hannu Manninen",
-        "/wiki/Hannu_Manninen"
-      ],
-      [
-        "Ladislav Rygl",
-        "/wiki/Ladislav_Rygl,_Jr."
-      ]
-    ],
-    [
-      [
-        "1999\u201300",
-        "/wiki/1999%E2%80%9300_FIS_Nordic_Combined_World_Cup"
-      ],
-      [
-        "Samppa Lajunen",
-        "/wiki/Samppa_Lajunen"
-      ],
-      [
-        "Bjarte Engen Vik",
-        "/wiki/Bjarte_Engen_Vik"
-      ],
-      [
-        "Ladislav Rygl",
-        "/wiki/Ladislav_Rygl,_Jr."
-      ]
-    ],
-    [
-      [
-        "2000\u201301",
-        "/wiki/2000%E2%80%9301_FIS_Nordic_Combined_World_Cup"
-      ],
-      [
-        "Felix Gottwald",
-        "/wiki/Felix_Gottwald"
-      ],
-      [
-        "Ronny Ackermann",
-        "/wiki/Ronny_Ackermann"
-      ],
-      [
-        "Bjarte Engen Vik",
-        "/wiki/Bjarte_Engen_Vik"
-      ]
-    ],
-    [
-      [
-        "2001\u201302",
-        "/wiki/2001%E2%80%9302_FIS_Nordic_Combined_World_Cup"
-      ],
-      [
-        "Ronny Ackermann",
-        "/wiki/Ronny_Ackermann"
-      ],
-      [
-        "Felix Gottwald",
-        "/wiki/Felix_Gottwald"
-      ],
-      [
-        "Samppa Lajunen",
-        "/wiki/Samppa_Lajunen"
-      ]
-    ],
-    [
-      [
-        "2002\u201303",
-        "/wiki/2002%E2%80%9303_FIS_Nordic_Combined_World_Cup"
-      ],
-      [
-        "Ronny Ackermann",
-        "/wiki/Ronny_Ackermann"
-      ],
-      [
-        "Felix Gottwald",
-        "/wiki/Felix_Gottwald"
-      ],
-      [
-        "Bj\u00f6rn Kircheisen",
-        "/wiki/Bj%C3%B6rn_Kircheisen"
+        [
+          "1983\u201384",
+          "1984\u201385"
+        ],
+        [
+          "/wiki/1983%E2%80%9384_NHL_season",
+          "/wiki/1984%E2%80%9385_NHL_season"
+        ]
       ]
     ]
   ],

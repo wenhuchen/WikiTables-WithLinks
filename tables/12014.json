@@ -1,218 +1,388 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Indian_Idol",
-  "title": "Indian Idol",
+  "url": "https://en.wikipedia.org/wiki/Cumberland_League",
+  "title": "Cumberland League",
   "header": [
     [
-      "Name",
-      null
+      [
+        "Club"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Hometown",
-      null
+      [
+        "Founded"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Elimination",
-      null
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Club Colours"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "LV Revanth",
-        "/wiki/LV_Revanth"
+        [
+          "Broughton Red Rose"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hyderabad",
-        "/wiki/Hyderabad"
+        [
+          "1965"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Winner",
-        null
+        [
+          "Great Broughton",
+          "Cockermouth"
+        ],
+        [
+          "/wiki/Great_Broughton,_Cumbria",
+          "/wiki/Cockermouth"
+        ]
+      ],
+      [
+        [
+          "Red & White"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Khuda Baksh",
-        null
+        [
+          "Cockermouth Titans"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Punjab",
-        "/wiki/Punjab"
+        [
+          "2006"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Runner-up",
-        null
+        [
+          "Cockermouth"
+        ],
+        [
+          "/wiki/Cockermouth"
+        ]
+      ],
+      [
+        [
+          "Blue & Yellow"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "PVNS Rohit",
-        null
+        [
+          "Distington"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hyderabad",
-        "/wiki/Hyderabad"
+        [
+          "1984"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2nd Runner-up",
-        null
+        [
+          "Distington"
+        ],
+        [
+          "/wiki/Distington"
+        ]
+      ],
+      [
+        [
+          "Navy & Red"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Malvika Sunder",
-        null
+        [
+          "Glasson Rangers"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Chennai",
-        "/wiki/Chennai"
+        [
+          "1912"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Eliminated 11th",
-        null
+        [
+          "Maryport"
+        ],
+        [
+          "/wiki/Maryport"
+        ]
+      ],
+      [
+        [
+          "Blue & Red"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Mohit Chopra",
-        null
+        [
+          "Hensingham"
+        ],
+        [
+          "/wiki/Hensingham_ARLFC"
+        ]
       ],
       [
-        "New Delhi",
-        "/wiki/New_Delhi"
+        [
+          "1900"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Eliminated 10th",
-        null
+        [
+          "Hensingham",
+          "Whitehaven"
+        ],
+        [
+          "/wiki/Hensingham",
+          "/wiki/Whitehaven"
+        ]
+      ],
+      [
+        [
+          "Red & Black"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Manya Narang",
-        null
+        [
+          "Kells"
+        ],
+        [
+          "/wiki/Kells_A.R.L.F.C."
+        ]
       ],
       [
-        "New Delhi",
-        "/wiki/New_Delhi"
+        [
+          "1931"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Eliminated 9th",
-        null
+        [
+          "Kells",
+          "Whitehaven"
+        ],
+        [
+          "/wiki/Kells,_Whitehaven",
+          "/wiki/Whitehaven"
+        ]
+      ],
+      [
+        [
+          "Red & White"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Hardeep Singh",
-        null
+        [
+          "Maryport"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ludhiana",
-        "/wiki/Ludhiana"
+        [
+          "1968"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Eliminated 8th",
-        null
+        [
+          "Maryport"
+        ],
+        [
+          "/wiki/Maryport"
+        ]
+      ],
+      [
+        [
+          "Blue & Yellow"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "R P Shravan",
-        null
+        [
+          "Seaton Rangers"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Chennai",
-        "/wiki/Chennai"
+        [
+          "1968"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Eliminated 7th",
-        null
+        [
+          "Seaton"
+        ],
+        [
+          "/wiki/Seaton,_Cumbria"
+        ]
+      ],
+      [
+        [
+          "Maroon & Amber"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Tajinder Singh",
-        null
+        [
+          "Seaton Rangers"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Faridabad",
-        "/wiki/Faridabad"
+        [
+          "1968"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Eliminated 6th",
-        null
+        [
+          "Seaton"
+        ],
+        [
+          "/wiki/Seaton,_Cumbria"
+        ]
+      ],
+      [
+        [
+          "Maroon & Amber"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Jeli Kayi",
-        null
+        [
+          "Wath Brow Hornets"
+        ],
+        [
+          "/wiki/Wath_Brow_Hornets"
+        ]
       ],
       [
-        "Itanagar",
-        "/wiki/Itanagar"
+        [
+          "1963"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Eliminated 5th",
-        null
-      ]
-    ],
-    [
-      [
-        "Bharti Gupta",
-        null
+        [
+          "Cleator Moor"
+        ],
+        [
+          "/wiki/Cleator_Moor"
+        ]
       ],
       [
-        "Ghaziabad",
-        "/wiki/Ghaziabad,_Uttar_Pradesh"
-      ],
-      [
-        "Eliminated 4th",
-        null
-      ]
-    ],
-    [
-      [
-        "Mansi Bhardwaj",
-        null
-      ],
-      [
-        "Kolkata",
-        "/wiki/Kolkata"
-      ],
-      [
-        "Eliminated 3rd",
-        null
-      ]
-    ],
-    [
-      [
-        "Stuti Tiwari",
-        null
-      ],
-      [
-        "Kolkata",
-        "/wiki/Kolkata"
-      ],
-      [
-        "Eliminated 2nd",
-        null
-      ]
-    ],
-    [
-      [
-        "Saumya Mishra",
-        null
-      ],
-      [
-        "Renukut",
-        "/wiki/Renukut"
-      ],
-      [
-        "Eliminated 1st",
-        null
+        [
+          "Black & Amber"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "Top 14 Contestants:-",
+  "context": "",
   "idx": 12014
 }

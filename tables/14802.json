@@ -1,225 +1,661 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Media_in_Fort_McMurray",
-  "title": "Media in Fort McMurray",
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
   "header": [
     [
-      "Frequency",
-      null
+      [
+        "Emulator"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Call sign",
-      null
+      [
+        "Latest version"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Branding",
-      null
+      [
+        "Released"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Format",
-      null
+      [
+        "Guest emulation capabilities"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Owner",
-      null
+      [
+        "Host Operating System"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "License"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "0091.1",
-        null
+        [
+          "MAME",
+          "MESS"
+        ],
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
       ],
       [
-        "CKOS-FM",
-        "/wiki/CKOS-FM"
+        [
+          "0.196"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "KAOS 91.1",
-        null
+        [
+          "March 28, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Contemporary Christian music",
-        "/wiki/Contemporary_Christian_music"
+        [
+          "Various computers, consoles, and arcade systems"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "King\u2019s Kids Promotions Outreach Ministries",
-        null
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "New BSD",
+          "GPLv2"
+        ],
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "0093.3",
-        null
+        [
+          "Mini vMac"
+        ],
+        [
+          "/wiki/Mini_vMac"
+        ]
       ],
       [
-        "CJOK-FM",
-        "/wiki/CJOK-FM"
+        [
+          "3.5.8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Country 93.3",
-        null
+        [
+          "August 13, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "country",
-        "/wiki/Country_music"
+        [
+          "Macintosh Plus"
+        ],
+        [
+          "/wiki/Macintosh_Plus"
+        ]
       ],
       [
-        "Rogers Radio",
-        "/wiki/Rogers_Radio"
+        [
+          "Windows",
+          "Linux",
+          "OS X"
+        ],
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/Linux",
+          "/wiki/OS_X"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "0094.5",
-        null
+        [
+          "PCE/macplus"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CFWE-FM-5",
-        "/wiki/CFWE-FM"
+        [
+          "20180323-184b521a"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CFWE Radio Network",
-        null
+        [
+          "December 18, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "First Nations,community radio",
-        "/wiki/First_Nations /wiki/Community_radio"
+        [
+          "Macintosh 128k",
+          "Macintosh 512k",
+          "Macintosh 512Ke",
+          "Macintosh Plus",
+          "Macintosh SE",
+          "Macintosh Classic"
+        ],
+        [
+          "/wiki/Macintosh_128k",
+          "/wiki/Macintosh_512k",
+          "/wiki/Macintosh_512Ke",
+          "/wiki/Macintosh_Plus",
+          "/wiki/Macintosh_SE",
+          "/wiki/Macintosh_Classic"
+        ]
       ],
       [
-        "Aboriginal Multimedia Society",
-        "/wiki/Aboriginal_Multimedia_Society"
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "GPLv2"
+        ],
+        [
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "0096.7",
-        null
+        [
+          "Clock Signal (CLK)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CKUA-FM-11",
-        "/wiki/CKUA_Radio_Network"
+        [
+          "2019-08-01"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CKUA Radio Network",
-        null
+        [
+          "August 1, 2019"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "public broadcasting",
-        "/wiki/Public_broadcasting"
+        [
+          "Macintosh 512ke",
+          "Acorn Electron",
+          "Amstrad CPC",
+          "Apple II",
+          "Atari 2600",
+          "ColecoVision",
+          "Commodore Vic-20",
+          "MSX",
+          "Oric",
+          "Sega Master System",
+          "ZX80",
+          "ZX81"
+        ],
+        [
+          "/wiki/Macintosh_512ke",
+          "/wiki/Acorn_Electron",
+          "/wiki/Amstrad_CPC",
+          "/wiki/Apple_II",
+          "/wiki/Atari_2600",
+          "/wiki/ColecoVision",
+          "/wiki/Commodore_Vic-20",
+          "/wiki/MSX",
+          "/wiki/Oric",
+          "/wiki/Sega_Master_System",
+          "/wiki/ZX80",
+          "/wiki/ZX81"
+        ]
       ],
       [
-        "CKUA Radio Foundation",
-        null
+        [
+          "macOS"
+        ],
+        [
+          "/wiki/MacOS"
+        ]
+      ],
+      [
+        [
+          "MIT License"
+        ],
+        [
+          "/wiki/MIT_License"
+        ]
       ]
     ],
     [
       [
-        "0097.9",
-        null
+        [
+          "Executor"
+        ],
+        [
+          "/wiki/Executor_(software)"
+        ]
       ],
       [
-        "CKYX-FM",
-        "/wiki/CKYX-FM"
+        [
+          "2.1pr11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rock 97.9",
-        null
+        [
+          "July 9, 2009"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "active rock",
-        "/wiki/Active_rock"
+        [
+          "Apple Macintosh"
+        ],
+        [
+          "/wiki/Apple_Macintosh"
+        ]
       ],
       [
-        "Rogers Radio",
-        "/wiki/Rogers_Radio"
+        [
+          "Windows",
+          "Linux"
+        ],
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/Linux"
+        ]
+      ],
+      [
+        [
+          "MIT License"
+        ],
+        [
+          "/wiki/MIT_License"
+        ]
       ]
     ],
     [
       [
-        "0099.3",
-        null
+        [
+          "vMac"
+        ],
+        [
+          "/wiki/VMac"
+        ]
       ],
       [
-        "CBXN-FM",
-        "/wiki/CBX_(AM)"
+        [
+          "0.1.9.6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CBC Radio One",
-        "/wiki/CBC_Radio_One"
+        [
+          "1999"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "public,news,talk",
-        "/wiki/Public_radio /wiki/News /wiki/Talk_radio"
+        [
+          "Macintosh Plus"
+        ],
+        [
+          "/wiki/Macintosh_Plus"
+        ]
       ],
       [
-        "Canadian Broadcasting Corporation",
-        "/wiki/Canadian_Broadcasting_Corporation"
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "Open source"
+        ],
+        [
+          "/wiki/Open-source_software"
+        ]
       ]
     ],
     [
       [
-        "0100.5",
-        null
+        [
+          "A-Max"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CHFT-FM",
-        "/wiki/CHFT-FM"
+        [
+          "4.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "100.5 Cruz FM",
-        null
+        [
+          "1993"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "classic hits",
-        "/wiki/Classic_hits"
+        [
+          "Macintosh 128k",
+          "Macintosh 512k",
+          "Macintosh 512Ke",
+          "Macintosh Plus",
+          "Macintosh II",
+          "Macintosh Quadra"
+        ],
+        [
+          "/wiki/Macintosh_128k",
+          "/wiki/Macintosh_512k",
+          "/wiki/Macintosh_512Ke",
+          "/wiki/Macintosh_Plus",
+          "/wiki/Macintosh_II",
+          "/wiki/Macintosh_Quadra"
+        ]
       ],
       [
-        "Harvard Broadcasting",
-        "/wiki/Harvard_Broadcasting"
+        [
+          "Amiga"
+        ],
+        [
+          "/wiki/Amiga"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "0101.5",
-        null
+        [
+          "Basilisk II"
+        ],
+        [
+          "/wiki/Basilisk_II"
+        ]
       ],
       [
-        "CHFA-6-FM",
-        "/wiki/CHFA_(AM)"
+        [
+          "0.9-1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ici Radio-Canada Premi\u00e8re",
-        "/wiki/Ici_Radio-Canada_Premi%C3%A8re"
+        [
+          "May 31, 2001"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "public,news,talk",
-        "/wiki/Public_radio /wiki/News /wiki/Talk_radio"
+        [
+          "Macintosh Classic",
+          "Macintosh II"
+        ],
+        [
+          "/wiki/Macintosh_Classic",
+          "/wiki/Macintosh_II"
+        ]
       ],
       [
-        "Canadian Broadcasting Corporation",
-        "/wiki/Canadian_Broadcasting_Corporation"
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "0103.7",
-        null
+        [
+          "SoftMac XP"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CFVR-FM",
-        "/wiki/CFVR-FM"
+        [
+          "8.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mix 103.7",
-        null
+        [
+          "2008"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "hot adult contemporary",
-        "/wiki/Hot_adult_contemporary"
+        [
+          "Apple Macintosh"
+        ],
+        [
+          "/wiki/Apple_Macintosh"
+        ]
       ],
       [
-        "Harvard Broadcasting",
-        "/wiki/Harvard_Broadcasting"
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Windows"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Fusion"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3.0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Apple Macintosh"
+        ],
+        [
+          "/wiki/Apple_Macintosh"
+        ]
+      ],
+      [
+        [
+          "DOS"
+        ],
+        [
+          "/wiki/DOS"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Shoebill"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.0.5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "September 15, 2015"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Macintosh II",
+          "A/UX"
+        ],
+        [
+          "/wiki/Macintosh_II",
+          "/wiki/A/UX"
+        ]
+      ],
+      [
+        [
+          "macOS"
+        ],
+        [
+          "/wiki/MacOS"
+        ]
+      ],
+      [
+        [
+          "BSD"
+        ],
+        [
+          "/wiki/BSD"
+        ]
       ]
     ]
   ],

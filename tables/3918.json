@@ -1,246 +1,876 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_matrices",
-  "title": "List of matrices",
+  "url": "https://en.wikipedia.org/wiki/LA_postcode_area",
+  "title": "LA postcode area",
   "header": [
     [
-      "Name",
-      null
+      [
+        "Postcode district"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Explanation",
-      null
+      [
+        "Post town"
+      ],
+      [
+        "/wiki/Post_town"
+      ]
     ],
     [
-      "Notes",
-      null
+      [
+        "Coverage"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Local authority area"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Circular matrix,Coninvolutory matrix",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "LA1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "A matrix whose inverse is equal to its entrywise complex conjugate: A = A.",
-        null
+        [
+          "LANCASTER"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Compare with unitary matrices.",
-        null
+        [
+          "Aldcliffe",
+          "Bailrigg"
+        ],
+        [
+          "/wiki/Aldcliffe",
+          "/wiki/Bailrigg"
+        ]
+      ],
+      [
+        [
+          "City of Lancaster"
+        ],
+        [
+          "/wiki/City_of_Lancaster"
+        ]
       ]
     ],
     [
       [
-        "Congruent matrix",
-        "/wiki/Matrix_congruence"
+        [
+          "LA2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Two matrices A and B are congruent if there exists an invertible matrix P such that P A P = B.",
-        null
+        [
+          "LANCASTER"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Compare with similar matrices.",
-        null
+        [
+          "Abbeystead",
+          "Aldcliffe",
+          "Aughton",
+          "Austwick",
+          "Bailrigg",
+          "Bay Horse",
+          "Caton",
+          "Clapham",
+          "Cockerham",
+          "Dolphinholme",
+          "Ellel",
+          "Farleton",
+          "Galgate",
+          "Glasson Dock",
+          "Halton",
+          "Hest Bank",
+          "High Bentham",
+          "Hornby",
+          "Quernmore",
+          "Tatham",
+          "Wharfe"
+        ],
+        [
+          "/wiki/Abbeystead",
+          "/wiki/Aldcliffe",
+          "/wiki/Halton,_Lancashire",
+          "/wiki/Austwick",
+          "/wiki/Bailrigg",
+          "/wiki/Bay_Horse",
+          "/wiki/Caton,_Lancashire",
+          "/wiki/Clapham,_North_Yorkshire",
+          "/wiki/Cockerham",
+          "/wiki/Dolphinholme",
+          "/wiki/Ellel,_Lancashire",
+          "/wiki/Farleton,_Lancashire",
+          "/wiki/Galgate",
+          "/wiki/Glasson_Dock",
+          "/wiki/Halton,_Lancashire",
+          "/wiki/Hest_Bank",
+          "/wiki/High_Bentham",
+          "/wiki/Hornby,_Lancashire",
+          "/wiki/Quernmore",
+          "/wiki/Tatham,_Lancashire",
+          "/wiki/Wharfe,_North_Yorkshire"
+        ]
+      ],
+      [
+        [
+          "Craven",
+          "Wyre"
+        ],
+        [
+          "/wiki/Craven",
+          "/wiki/Borough_of_Wyre"
+        ]
       ]
     ],
     [
       [
-        "EP matrix",
-        "/wiki/EP_matrix"
+        [
+          "LA3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Moore\u2013Penrose inverse",
-        "/wiki/Moore%E2%80%93Penrose_inverse"
+        [
+          "MORECAMBE"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Morecambe",
+          "Heysham",
+          "Middleton",
+          "Overton",
+          "Sunderland Point"
+        ],
+        [
+          "/wiki/Morecambe",
+          "/wiki/Heysham",
+          "/wiki/Middleton,_Lancashire",
+          "/wiki/Overton,_Lancashire",
+          "/wiki/Sunderland_Point"
+        ]
+      ],
+      [
+        [
+          "City of Lancaster"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Idempotent matrix,Projection Matrix",
-        "/wiki/Idempotent_matrix /wiki/Projection_(linear_algebra)"
+        [
+          "LA4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "A matrix that has the property A\u00b2 = AA = A.",
-        null
+        [
+          "MORECAMBE"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "one projection",
-        "/wiki/Projection_(linear_algebra)#Properties_and_classification"
+        [
+          "Morecambe",
+          "Torrisholme"
+        ],
+        [
+          "/wiki/Morecambe",
+          "/wiki/Torrisholme"
+        ]
+      ],
+      [
+        [
+          "City of Lancaster"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Invertible matrix",
-        "/wiki/Invertible_matrix"
+        [
+          "LA5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "inverse",
-        "/wiki/Inverse_matrix"
+        [
+          "CARNFORTH"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "general linear group",
-        "/wiki/General_linear_group"
+        [
+          "Carnforth",
+          "Arnside",
+          "Silverdale",
+          "Warton",
+          "Bolton-Le-Sands"
+        ],
+        [
+          "/wiki/Carnforth",
+          "/wiki/Arnside",
+          "/wiki/Silverdale,_Lancashire",
+          "/wiki/Warton,_Lancaster",
+          "/wiki/Bolton-Le-Sands"
+        ]
+      ],
+      [
+        [
+          "South Lakeland"
+        ],
+        [
+          "/wiki/South_Lakeland"
+        ]
       ]
     ],
     [
       [
-        "Involutory matrix",
-        "/wiki/Involutory_matrix"
+        [
+          "LA6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "A square matrix which is its own inverse, i.e., AA = I.",
-        null
+        [
+          "CARNFORTH"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Signature matrices,Householder Matrices",
-        "/wiki/Signature_matrix /wiki/Householder_transformation#Definition_and_properties"
+        [
+          "Arkholme",
+          "Burton-in-Kendal",
+          "Burton in Lonsdale",
+          "Cantsfield",
+          "Casterton",
+          "Ingleton",
+          "Ireby",
+          "Kirkby Lonsdale",
+          "Masongill",
+          "Tunstall",
+          "Whittington"
+        ],
+        [
+          "/wiki/Arkholme",
+          "/wiki/Burton-in-Kendal",
+          "/wiki/Burton_in_Lonsdale",
+          "/wiki/Cantsfield",
+          "/wiki/Casterton,_Cumbria",
+          "/wiki/Ingleton,_North_Yorkshire",
+          "/wiki/Ireby,_Lancashire",
+          "/wiki/Kirkby_Lonsdale",
+          "/wiki/Masongill",
+          "/wiki/Tunstall,_Lancashire",
+          "/wiki/Whittington,_Lancashire"
+        ]
+      ],
+      [
+        [
+          "City of Lancaster, Craven, South Lakeland"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Nilpotent matrix",
-        "/wiki/Nilpotent_matrix"
+        [
+          "LA7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "A square matrix satisfying A = 0 for some positive integer q.",
-        null
+        [
+          "MILNTHORPE"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Equivalently, the only eigenvalue of A is 0.",
-        null
+        [
+          "Milnthorpe",
+          "Beetham",
+          "Storth",
+          "Heversham"
+        ],
+        [
+          "/wiki/Milnthorpe",
+          "/wiki/Beetham",
+          "/wiki/Storth",
+          "/wiki/Heversham"
+        ]
+      ],
+      [
+        [
+          "South Lakeland"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Normal matrix",
-        "/wiki/Normal_matrix"
+        [
+          "LA8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "conjugate transpose",
-        "/wiki/Conjugate_transpose"
+        [
+          "KENDAL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "spectral theorem",
-        "/wiki/Spectral_theorem"
+        [
+          "Kendal",
+          "Brigsteer",
+          "Grayrigg",
+          "Levens",
+          "Sedgwick",
+          "Sizergh"
+        ],
+        [
+          "/wiki/Kendal",
+          "/wiki/Brigsteer",
+          "/wiki/Grayrigg",
+          "/wiki/Levens,_Cumbria",
+          "/wiki/Sedgwick,_Cumbria",
+          null
+        ]
+      ],
+      [
+        [
+          "Eden"
+        ],
+        [
+          "/wiki/Eden_District"
+        ]
       ]
     ],
     [
       [
-        "Orthogonal matrix",
-        "/wiki/Orthogonal_matrix"
+        [
+          "LA9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "transpose",
-        "/wiki/Transpose"
+        [
+          "KENDAL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "orthogonal group",
-        "/wiki/Orthogonal_group"
+        [
+          "Burneside",
+          "Natland",
+          "Oxenholme"
+        ],
+        [
+          "/wiki/Burneside",
+          "/wiki/Natland",
+          "/wiki/Oxenholme"
+        ]
+      ],
+      [
+        [
+          "South Lakeland"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Orthonormal matrix",
-        "/wiki/Orthonormal_matrix"
+        [
+          "LA10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "orthonormal",
-        "/wiki/Orthonormal"
+        [
+          "SEDBERGH"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Sedbergh",
+          "Dent"
+        ],
+        [
+          "/wiki/Sedbergh",
+          "/wiki/Dent_(Lonsdale)"
+        ]
+      ],
+      [
+        [
+          "South Lakeland, Craven, Eden"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Singular matrix",
-        "/wiki/Singular_matrix"
+        [
+          "LA11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "A square matrix that is not invertible.",
-        null
+        [
+          "GRANGE-OVER-SANDS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Grange-over-Sands",
+          "Allithwaite",
+          "Cark",
+          "Cartmel",
+          "Field Broughton",
+          "High Newton",
+          "Lindale",
+          "Low Newton",
+          "Meathop and Ulpha",
+          "Witherslack"
+        ],
+        [
+          "/wiki/Grange-over-Sands",
+          "/wiki/Allithwaite",
+          "/wiki/Cark",
+          "/wiki/Cartmel",
+          "/wiki/Field_Broughton",
+          "/wiki/High_Newton",
+          "/wiki/Lindale,_Cumbria",
+          "/wiki/Low_Newton,_Cumbria",
+          "/wiki/Meathop_and_Ulpha",
+          "/wiki/Witherslack"
+        ]
+      ],
+      [
+        [
+          "South Lakeland"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Unimodular matrix",
-        "/wiki/Unimodular_matrix"
+        [
+          "LA12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "integer matrix",
-        "/wiki/Integer_matrix"
+        [
+          "ULVERSTON"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Necessarily the determinant is +1 or \u22121.",
-        null
+        [
+          "Ulverston",
+          "Aldingham",
+          "Backbarrow",
+          "Gleaston",
+          "Haverthwaite",
+          "Leece",
+          "Lindal-in-Furness",
+          "Newbiggin (Furness)",
+          "Newby Bridge",
+          "Staveley-in-Cartmel",
+          "Urswick"
+        ],
+        [
+          "/wiki/Ulverston",
+          "/wiki/Aldingham",
+          "/wiki/Backbarrow",
+          "/wiki/Gleaston",
+          "/wiki/Haverthwaite",
+          "/wiki/Leece",
+          "/wiki/Lindal-in-Furness",
+          "/wiki/Newbiggin,_Furness",
+          "/wiki/Newby_Bridge",
+          "/wiki/Staveley-in-Cartmel",
+          "/wiki/Urswick"
+        ]
+      ],
+      [
+        [
+          "Barrow-in-Furness"
+        ],
+        [
+          "/wiki/Borough_of_Barrow-in-Furness"
+        ]
       ]
     ],
     [
       [
-        "Unipotent matrix",
-        "/wiki/Unipotent_matrix"
+        [
+          "LA13"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "A square matrix with all eigenvalues equal to 1.",
-        null
+        [
+          "BARROW-IN-FURNESS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "unipotent group",
-        "/wiki/Unipotent_group"
+        [
+          "Barrow-in-Furness",
+          "Newton-in-Furness",
+          "Piel Island",
+          "Rampside",
+          "Roa Island",
+          "Stainton with Adgarley"
+        ],
+        [
+          "/wiki/Barrow-in-Furness",
+          "/wiki/Newton-in-Furness",
+          "/wiki/Piel_Island",
+          "/wiki/Rampside",
+          "/wiki/Roa_Island",
+          "/wiki/Stainton_with_Adgarley"
+        ]
+      ],
+      [
+        [
+          "Barrow-in-Furness, South Lakeland"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Unitary matrix",
-        "/wiki/Unitary_matrix"
+        [
+          "LA14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "conjugate transpose",
-        "/wiki/Conjugate_transpose"
+        [
+          "BARROW-IN-FURNESS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Walney Island"
+        ],
+        [
+          "/wiki/Walney_Island"
+        ]
+      ],
+      [
+        [
+          "Barrow-in-Furness"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Totally unimodular matrix",
-        "/wiki/Totally_unimodular_matrix"
+        [
+          "LA14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "unimodular,linear programming,relaxation,integer program",
-        "/wiki/Unimodular_matrix /wiki/Linear_programming /wiki/Linear_programming_relaxation /wiki/Integer_program"
+        [
+          "DALTON-IN-FURNESS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "non-geographic"
+        ],
+        [
+          "/wiki/Non-geographic_postcodes"
+        ]
       ]
     ],
     [
       [
-        "Weighing matrix",
-        "/wiki/Weighing_matrix"
+        [
+          "LA15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "A square matrix the entries of which are in {0, 1, \u22121}, such that AA = wI for some positive integer w.",
-        null
+        [
+          "DALTON-IN-FURNESS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Dalton-in-Furness"
+        ],
+        [
+          "/wiki/Dalton-in-Furness"
+        ]
+      ],
+      [
+        [
+          "Barrow-in-Furness"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "LA16"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "ASKAM-IN-FURNESS"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Askam-in-Furness"
+        ],
+        [
+          "/wiki/Askam-in-Furness"
+        ]
+      ],
+      [
+        [
+          "Barrow-in-Furness"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "LA17"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "KIRKBY-IN-FURNESS"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Kirkby-in-Furness"
+        ],
+        [
+          "/wiki/Kirkby-in-Furness"
+        ]
+      ],
+      [
+        [
+          "South Lakeland"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "LA18"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MILLOM"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Millom"
+        ],
+        [
+          "/wiki/Millom"
+        ]
+      ],
+      [
+        [
+          "Copeland"
+        ],
+        [
+          "/wiki/Borough_of_Copeland"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "LA19"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MILLOM"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Waberthwaite",
+          "Bootle"
+        ],
+        [
+          "/wiki/Waberthwaite,_Cumbria",
+          "/wiki/Bootle,_Cumbria"
+        ]
+      ],
+      [
+        [
+          "Copeland"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "The approximate coverage of the postcode districts:",
   "idx": 3918
 }

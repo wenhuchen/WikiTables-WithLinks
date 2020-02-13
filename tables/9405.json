@@ -1,285 +1,551 @@
 {
-  "url": "https://en.wikipedia.org/wiki/International_Democrat_Union",
-  "title": "International Democrat Union",
+  "url": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Lok_Sabha",
+  "title": "List of constituencies of the Lok Sabha",
   "header": [
     [
-      "Person",
-      null
+      [
+        "Constituency  No."
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Party",
-      null
+      [
+        "Constituency"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country",
-      null
+      [
+        "Reserved for  (SC/ST/None)"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Alois Mock",
-        "/wiki/Alois_Mock"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Austrian People's Party",
-        "/wiki/Austrian_People%27s_Party"
+        [
+          "Chikkodi"
+        ],
+        [
+          "/wiki/Chikkodi_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "Austria",
-        "/wiki/Austria"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Margaret Thatcher",
-        "/wiki/Margaret_Thatcher"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Conservative Party",
-        "/wiki/Conservative_Party_(UK)"
+        [
+          "Belagavi"
+        ],
+        [
+          "/wiki/Belagavi_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "United Kingdom",
-        "/wiki/United_Kingdom"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Helmut Kohl",
-        "/wiki/Helmut_Kohl"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Christian Democratic Union of Germany",
-        "/wiki/Christian_Democratic_Union_of_Germany"
+        [
+          "Bagalkote"
+        ],
+        [
+          "/wiki/Bagalkot_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "Germany",
-        "/wiki/Germany"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Franz Josef Strauss",
-        "/wiki/Franz_Josef_Strauss"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Christian Social Union in Bavaria",
-        "/wiki/Christian_Social_Union_in_Bavaria"
+        [
+          "Vijaypura"
+        ],
+        [
+          "/wiki/Bijapur_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "Germany",
-        "/wiki/Germany"
+        [
+          "SC"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Jacques Chirac",
-        "/wiki/Jacques_Chirac"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rally for the Republic",
-        "/wiki/Rally_for_the_Republic"
+        [
+          "Kalburgi"
+        ],
+        [
+          "/wiki/Gulbarga_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "France",
-        "/wiki/France"
+        [
+          "SC"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Andrew Peacock",
-        "/wiki/Andrew_Peacock"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Liberal Party of Australia",
-        "/wiki/Liberal_Party_of_Australia"
+        [
+          "Raichur"
+        ],
+        [
+          "/wiki/Raichur_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "Australia",
-        "/wiki/Australia"
+        [
+          "ST"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Evangelos Averoff-Tossizza",
-        "/wiki/Evangelos_Averoff-Tossizza"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "New Democracy",
-        "/wiki/New_Democracy_(Greece)"
+        [
+          "Bidar"
+        ],
+        [
+          "/wiki/Bidar_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "Greece",
-        "/wiki/Greece"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Fraga Iribarne",
-        "/wiki/Fraga_Iribarne"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "People's Alliance",
-        "/wiki/People%27s_Alliance_(Spain)"
+        [
+          "Koppal"
+        ],
+        [
+          "/wiki/Koppal_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "Spain",
-        "/wiki/Spain"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Oscar Alzaga",
-        "/wiki/HTTP_404"
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "People's Democratic Party",
-        "/wiki/People%27s_Democratic_Party_(Spain)"
+        [
+          "Bellari"
+        ],
+        [
+          "/wiki/Bellary_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "Spain",
-        "/wiki/Spain"
+        [
+          "ST"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Susanne Wood",
-        "/wiki/Susanne_Wood"
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "New Zealand National Party",
-        "/wiki/New_Zealand_National_Party"
+        [
+          "Haveri"
+        ],
+        [
+          "/wiki/Haveri_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "New Zealand",
-        "/wiki/New_Zealand"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Glafcos Clerides",
-        "/wiki/Glafcos_Clerides"
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Democratic Rally",
-        "/wiki/Democratic_Rally"
+        [
+          "Dharwad"
+        ],
+        [
+          "/wiki/Dharwad_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "Cyprus",
-        "/wiki/Cyprus"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ilkka Suominen",
-        "/wiki/Ilkka_Suominen"
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "National Coalition Party",
-        "/wiki/National_Coalition_Party"
+        [
+          "Uttara Kannada"
+        ],
+        [
+          "/wiki/Uttara_Kannada_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "Finland",
-        "/wiki/Finland"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lucas Pires",
-        "/wiki/Lucas_Pires"
+        [
+          "13"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CDS \u2013 People's Party",
-        "/wiki/CDS_%E2%80%93_People%27s_Party"
+        [
+          "Davanagere"
+        ],
+        [
+          "/wiki/Davangere_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "Portugal",
-        "/wiki/Portugal"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Tatsuo Tanaka,ja",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Liberal Democratic Party",
-        "/wiki/Liberal_Democratic_Party_(Japan)"
+        [
+          "Shivamogga"
+        ],
+        [
+          "/wiki/Shimoga_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "Japan",
-        "/wiki/Japan"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ulf Adelsohn",
-        "/wiki/Ulf_Adelsohn"
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Moderate Party",
-        "/wiki/Moderate_Party"
+        [
+          "Udupi Chikmagaluru"
+        ],
+        [
+          "/wiki/Udupi_Chikmagalur_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "Sweden",
-        "/wiki/Sweden"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Erik Nielsen",
-        "/wiki/Erik_Nielsen"
+        [
+          "16"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Progressive Conservative Party of Canada",
-        "/wiki/Progressive_Conservative_Party_of_Canada"
+        [
+          "Hassan"
+        ],
+        [
+          "/wiki/Hassan_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "Canada",
-        "/wiki/Canada"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Poul Schl\u00fcter",
-        "/wiki/Poul_Schl%C3%BCter"
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Conservative People's Party",
-        "/wiki/Conservative_People%27s_Party_(Denmark)"
+        [
+          "Dakshina Kannada"
+        ],
+        [
+          "/wiki/Dakshina_Kannada_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "Denmark",
-        "/wiki/Denmark"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Jo Benkow",
-        "/wiki/Jo_Benkow"
+        [
+          "18"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Conservative Party",
-        "/wiki/Conservative_Party_(Norway)"
+        [
+          "Chitradurga"
+        ],
+        [
+          "/wiki/Chitradurga_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "Norway",
-        "/wiki/Norway"
+        [
+          "SC"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Frank Fahrenkopf",
-        "/wiki/Frank_Fahrenkopf"
+        [
+          "19"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Republican Party",
-        "/wiki/Republican_Party_(United_States)"
+        [
+          "Tumakuru"
+        ],
+        [
+          "/wiki/Tumkur_(Lok_Sabha_constituency)"
+        ]
       ],
       [
-        "United States",
-        "/wiki/United_States"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "20"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Mandya"
+        ],
+        [
+          "/wiki/Mandya_(Lok_Sabha_constituency)"
+        ]
+      ],
+      [
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

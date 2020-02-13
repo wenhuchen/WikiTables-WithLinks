@@ -1,271 +1,891 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Commonwealth_Games",
-  "title": "Commonwealth Games",
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_web_server_software",
+  "title": "Comparison of web server software",
   "header": [
     [
-      "Sport",
-      null
+      [
+        "Server"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Type",
-      null
+      [
+        "Developed by"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Years",
-      null
+      [
+        "Software license"
+      ],
+      [
+        "/wiki/Software_license"
+      ]
+    ],
+    [
+      [
+        "Last stable version"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Latest release date"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Archery",
-        "/wiki/Archery_at_the_Commonwealth_Games"
+        [
+          "AOLserver"
+        ],
+        [
+          "/wiki/AOLserver"
+        ]
       ],
       [
-        "Optional",
-        null
+        [
+          "NaviSoft"
+        ],
+        [
+          "/wiki/NaviSoft"
+        ]
       ],
       [
-        "1982, 2010",
-        null
+        [
+          "Mozilla"
+        ],
+        [
+          "/wiki/Mozilla_Public_License"
+        ]
+      ],
+      [
+        [
+          "4.5.2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2012-09-19"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Athletics",
-        "/wiki/Athletics_at_the_Commonwealth_Games"
+        [
+          "Apache HTTP Server"
+        ],
+        [
+          "/wiki/Apache_HTTP_Server"
+        ]
       ],
       [
-        "Core",
-        null
+        [
+          "Apache Software Foundation"
+        ],
+        [
+          "/wiki/Apache_Software_Foundation"
+        ]
       ],
       [
-        "1930\u2013present",
-        null
+        [
+          "Apache"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
+      ],
+      [
+        [
+          "2.4.41"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2019-08-14"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Para Athletics",
-        "/wiki/Athletics_at_the_Commonwealth_Games"
+        [
+          "Apache Tomcat"
+        ],
+        [
+          "/wiki/Apache_Tomcat"
+        ]
       ],
       [
-        "Core",
-        null
+        [
+          "Apache Software Foundation"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1994, 2002\u2013present",
-        null
+        [
+          "Apache"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "9.0.21"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2019-06-07"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Badminton",
-        "/wiki/Badminton_at_the_Commonwealth_Games"
+        [
+          "Boa"
+        ],
+        [
+          "/wiki/Boa_(web_server)"
+        ]
       ],
       [
-        "Core",
-        null
+        [
+          "Jon Nelson and Larry Doolittle"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1966\u2013present",
-        null
+        [
+          "GNU GPL"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.94.13"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2002-07-30(discontinued)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Basketball",
-        "/wiki/Basketball_at_the_Commonwealth_Games"
+        [
+          "Caddy"
+        ],
+        [
+          "/wiki/Caddy_(web_server)"
+        ]
       ],
       [
-        "Optional",
-        null
+        [
+          "Matt Holt"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2006, 2018",
-        null
+        [
+          "Apache"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.0.0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2019-04-24"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Basketball 3x3",
-        "/wiki/Basketball_at_the_Commonwealth_Games"
+        [
+          "Caudium"
+        ],
+        [
+          "/wiki/Caudium_(web_server)"
+        ]
       ],
       [
-        "Optional",
-        null
+        [
+          "The Caudium Group"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2022",
-        null
+        [
+          "GNU GPL"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.4.18"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2012-02-24"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Boxing",
-        "/wiki/Boxing_at_the_Commonwealth_Games"
+        [
+          "Cherokee HTTP\nServer"
+        ],
+        [
+          "/wiki/Cherokee_(Webserver)"
+        ]
       ],
       [
-        "Core",
-        null
+        [
+          "\u00c1lvaro L\u00f3pez Ortega"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1930\u2013present",
-        null
+        [
+          "GNU GPL"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.2.103"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2013-04-21"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Cricket",
-        "/wiki/Cricket_at_the_Commonwealth_Games"
+        [
+          "GlassFish"
+        ],
+        [
+          "/wiki/GlassFish"
+        ]
       ],
       [
-        "Optional",
-        null
+        [
+          "Oracle Corporation",
+          "Sun Microsystems"
+        ],
+        [
+          "/wiki/Oracle_Corporation",
+          "/wiki/Sun_Microsystems"
+        ]
       ],
       [
-        "1998, 2022",
-        null
+        [
+          "Common Development and Distribution License",
+          "GNU General Public License"
+        ],
+        [
+          "/wiki/Common_Development_and_Distribution_License",
+          "/wiki/GNU_General_Public_License"
+        ]
+      ],
+      [
+        [
+          "5.1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2019-01-28"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Cycling (Mountain Bike)",
-        "/wiki/Cycling_at_the_Commonwealth_Games"
+        [
+          "Hiawatha"
+        ],
+        [
+          "/wiki/Hiawatha_(web_server)"
+        ]
       ],
       [
-        "Optional",
-        null
+        [
+          "Hugo Leisink"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2002\u20132006, 2014\u2013present",
-        null
+        [
+          "GNU GPLv2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "10.9"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2019-02-18"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Cycling (Para Track)",
-        "/wiki/Cycling_at_the_Commonwealth_Games"
+        [
+          "HFS"
+        ],
+        [
+          "/wiki/HTTP_File_Server"
+        ]
       ],
       [
-        "Optional",
-        null
+        [
+          "Rejetto"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2014\u2013present",
-        null
+        [
+          "GNU GPL"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2.3i"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2016-06-14"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Cycling (Road)",
-        "/wiki/Cycling_at_the_Commonwealth_Games"
+        [
+          "IBM HTTP Server"
+        ],
+        [
+          "/wiki/IBM_HTTP_Server"
+        ]
       ],
       [
-        "Core",
-        null
+        [
+          "IBM"
+        ],
+        [
+          "/wiki/IBM"
+        ]
       ],
       [
-        "1938\u2013present",
-        null
+        [
+          "proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "9.0.0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2016-03-11"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Cycling (Track)",
-        "/wiki/Cycling_at_the_Commonwealth_Games"
+        [
+          "Internet Information Services"
+        ],
+        [
+          "/wiki/Internet_Information_Services"
+        ]
       ],
       [
-        "Optional",
-        null
+        [
+          "Microsoft"
+        ],
+        [
+          "/wiki/Microsoft"
+        ]
       ],
       [
-        "1934\u2013present",
-        null
+        [
+          "Non-free proprietary"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "10.0.17763.1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2018-10-02"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Diving",
-        "/wiki/Diving_at_the_Commonwealth_Games"
+        [
+          "Jetty"
+        ],
+        [
+          "/wiki/Jetty_(web_server)"
+        ]
       ],
       [
-        "Optional",
-        null
+        [
+          "Eclipse Foundation"
+        ],
+        [
+          "/wiki/Eclipse_Foundation"
+        ]
       ],
       [
-        "1930\u2013present",
-        null
+        [
+          "Apache"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "9.4.18"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2019-04-29"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Hockey",
-        "/wiki/Hockey_at_the_Commonwealth_Games"
+        [
+          "Jexus"
+        ],
+        [
+          "/wiki/Jexus"
+        ]
       ],
       [
-        "Core",
-        null
+        [
+          "Bing Liu"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1998\u2013present",
-        null
+        [
+          "Non-free proprietary"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5.5.2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2014-04-27"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Gymnastics",
-        "/wiki/Gymnastics_at_the_Commonwealth_Games"
+        [
+          "lighttpd"
+        ],
+        [
+          "/wiki/Lighttpd"
+        ]
       ],
       [
-        "Core",
-        null
+        [
+          "Jan Kneschke (Incremental)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1978, 1990\u2013present",
-        null
+        [
+          "BSD"
+        ],
+        [
+          "/wiki/BSD_licenses"
+        ]
+      ],
+      [
+        [
+          "1.4.55"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2020-01-31"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Gymnastics",
-        "/wiki/Gymnastics_at_the_Commonwealth_Games"
+        [
+          "LiteSpeed Web Server"
+        ],
+        [
+          "/wiki/LiteSpeed_Web_Server"
+        ]
       ],
       [
-        "Optional",
-        null
+        [
+          "LiteSpeed Technologies"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1978, 1990\u20131998, 2006\u2013present",
-        null
+        [
+          "Non-free proprietary"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5.3.7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2019-03-15"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Judo",
-        "/wiki/Judo_at_the_Commonwealth_Games"
+        [
+          "Mongoose"
+        ],
+        [
+          "/wiki/Mongoose_(web_server)"
+        ]
       ],
       [
-        "Optional",
-        null
+        [
+          "Cesanta Software"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1990, 2002, 2014",
-        null
+        [
+          "GNU GPLv2"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ],
+      [
+        [
+          "6.14"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2019-03-04"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lawn bowls",
-        "/wiki/Lawn_bowls_at_the_Commonwealth_Games"
+        [
+          "Monkey HTTP Server"
+        ],
+        [
+          "/wiki/Monkey_HTTP_Server"
+        ]
       ],
       [
-        "Core",
-        null
+        [
+          "Monkey Software"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1930\u20131962, 1970\u2013present",
-        null
+        [
+          "Apache"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
+      ],
+      [
+        [
+          "1.6.9"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2016-05-04"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "NaviServer"
+        ],
+        [
+          "/wiki/NaviServer"
+        ]
+      ],
+      [
+        [
+          "Various"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Mozilla 1.1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "4.99.18"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2019-02-24"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "NCSA HTTPd"
+        ],
+        [
+          "/wiki/NCSA_HTTPd"
+        ]
+      ],
+      [
+        [
+          "Robert McCool"
+        ],
+        [
+          "/wiki/Robert_McCool"
+        ]
+      ],
+      [
+        [
+          "Non-free proprietary"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.5.2a"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1996-10-08"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

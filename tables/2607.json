@@ -1,299 +1,855 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_aircraft_of_World_War_II",
-  "title": "List of aircraft of World War II",
+  "url": "https://en.wikipedia.org/wiki/Time_in_Brazil",
+  "title": "Time in Brazil",
   "header": [
     [
-      "Name of aircraft",
-      null
+      [
+        "c.c.*"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Yearin service",
-      null
+      [
+        "coordinates*"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country of origin",
-      null
+      [
+        "TZ*"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "comments*"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "UTC offset"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "DST"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Airspeed Oxford",
-        "/wiki/Airspeed_Oxford"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1937",
-        null
+        [
+          "-0351-03225"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UK",
-        null
+        [
+          "America/Noronha"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Atlantic islands"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "\u221202:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9202:00"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Avro Anson",
-        "/wiki/Avro_Anson"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1936",
-        null
+        [
+          "-0127-04829"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UKCanada",
-        null
+        [
+          "America/Belem"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Amap\u00e1, E Par\u00e1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "\u221203:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9203:00"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Blackburn Botha",
-        "/wiki/Blackburn_Botha"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1939",
-        null
+        [
+          "-0343-03830"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UK",
-        null
+        [
+          "America/Fortaleza"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "NE Brazil (MA, PI, CE, RN, PB)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "\u221203:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9203:00"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bristol Buckmaster",
-        "/wiki/Bristol_Buckmaster"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1945",
-        null
+        [
+          "-0803-03454"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UK",
-        null
+        [
+          "America/Recife"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Pernambuco"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "\u221203:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9203:00"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Beechcraft AT-10 Wichita",
-        "/wiki/Beechcraft_AT-10_Wichita"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1942",
-        null
+        [
+          "-0712-04812"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "America/Araguaina"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tocantins"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "\u221203:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9203:00"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Cessna AT-8/AT-17/UC-78/JRC Bobcat/Crane",
-        "/wiki/Cessna_AT-17"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1939",
-        null
+        [
+          "-0940-03543"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "America/Maceio"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Alagoas, Sergipe"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "\u221203:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9203:00"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Consolidated AT-22/TB-24 Liberator",
-        "/wiki/Consolidated_C-87_Liberator_Express"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1943",
-        null
+        [
+          "-1259-03831"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "America/Bahia"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Bahia"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "\u221203:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9203:00"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "CANT Z.1015",
-        "/wiki/CANT_Z.1015"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1939",
-        null
+        [
+          "-2332-04637"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Italy",
-        null
+        [
+          "America/Sao_Paulo"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "S & SE Brazil (GO, DF, MG, ES, RJ, SP, PR, SC, RS)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "\u221203:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9203:00"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Curtiss AT-9",
-        "/wiki/Curtiss_AT-9"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1941",
-        null
+        [
+          "-2027-05437"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "America/Campo_Grande"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Mato Grosso do Sul"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "\u221204:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9204:00"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "De Havilland Dominie",
-        "/wiki/De_Havilland_Dominie"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1940",
-        null
+        [
+          "-1535-05605"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UK",
-        null
+        [
+          "America/Cuiaba"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Mato Grosso"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "\u221204:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9204:00"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Fairchild AT-21 Gunner",
-        "/wiki/Fairchild_AT-21_Gunner"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1943",
-        null
+        [
+          "-0226-05452"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "America/Santarem"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "W Para"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "\u221203:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9203:00"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Fairey III",
-        "/wiki/Fairey_III"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1926",
-        null
+        [
+          "-0846-06354"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UK",
-        null
+        [
+          "America/Porto_Velho"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Rond\u00f4nia"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "\u221204:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9204:00"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Fairey Battle",
-        "/wiki/Fairey_Battle"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1939",
-        null
+        [
+          "+0249-06040"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UK",
-        null
+        [
+          "America/Boa_Vista"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Roraima"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "\u221204:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9204:00"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Fairey Gordon",
-        "/wiki/Fairey_Gordon"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1931",
-        null
+        [
+          "-0308-06001"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UK",
-        null
+        [
+          "America/Manaus"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "E Amazonas"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "\u221204:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9204:00"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Fleet Fort",
-        "/wiki/Fleet_Fort"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1941",
-        null
+        [
+          "-0640-06952"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Canada",
-        null
+        [
+          "America/Eirunepe"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "W Amazonas"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "\u221205:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9205:00"
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Focke-Wulf Fw 58",
-        "/wiki/Focke-Wulf_Fw_58"
+        [
+          "BR"
+        ],
+        [
+          "/wiki/ISO_3166-1:BR"
+        ]
       ],
       [
-        "1937",
-        null
+        [
+          "-0958-06748"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        null
-      ]
-    ],
-    [
-      [
-        "Hanriot H.232",
-        "/wiki/Hanriot_H.232"
+        [
+          "America/Rio_Branco"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1940",
-        null
+        [
+          "Acre"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "France",
-        null
-      ]
-    ],
-    [
-      [
-        "Hawker Henley",
-        "/wiki/Hawker_Henley"
+        [
+          "\u221205:00"
+        ],
+        [
+          "/wiki/UTC%E2%88%9205:00"
+        ]
       ],
       [
-        "1938",
-        null
-      ],
-      [
-        "UK",
-        null
-      ]
-    ],
-    [
-      [
-        "Kyushu K10W",
-        "/wiki/Kyushu_K10W"
-      ],
-      [
-        "1943",
-        null
-      ],
-      [
-        "Japan",
-        null
-      ]
-    ],
-    [
-      [
-        "Kyushu K11W",
-        "/wiki/Kyushu_K11W"
-      ],
-      [
-        "1943",
-        null
-      ],
-      [
-        "Japan",
-        null
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

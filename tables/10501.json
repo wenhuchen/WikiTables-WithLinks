@@ -1,404 +1,470 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Senegal",
-  "title": "List of airports in Senegal",
+  "url": "https://en.wikipedia.org/wiki/Preseli_transmitting_station",
+  "title": "Preseli transmitting station",
   "header": [
     [
-      "City\u00a0served",
-      "/wiki/List_of_cities_in_Senegal"
+      [
+        "Frequency"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Region",
-      "/wiki/List_of_regions_of_Senegal"
+      [
+        "UHF"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "ICAO",
-      "/wiki/ICAO_airport_code"
+      [
+        "kW"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "IATA",
-      "/wiki/IATA_airport_code"
+      [
+        "Service"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Airport\u00a0name",
-      null
+      [
+        "System"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Bakel",
-        "/wiki/Bakel,_Senegal"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Tambacounda",
-        "/wiki/Tambacounda_Region"
+        [
+          "37"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GOTB",
-        null
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BXE",
-        null
+        [
+          "Channel 5"
+        ],
+        [
+          "/wiki/Channel_5_(UK)"
+        ]
       ],
       [
-        "Bakel Airport",
-        "/wiki/Bakel_Airport"
+        [
+          "PAL"
+        ],
+        [
+          "/wiki/PAL"
+        ]
       ]
     ],
     [
       [
-        "Cap Skirring",
-        "/wiki/Cap_Skirring"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Ziguinchor",
-        "/wiki/Ziguinchor_Region"
+        [
+          "39"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GOGS",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CSK",
-        null
+        [
+          "SDN"
+        ],
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
       ],
       [
-        "Cap Skirring Airport",
-        "/wiki/Cap_Skirring_Airport"
+        [
+          "DVB-T"
+        ],
+        [
+          "/wiki/DVB-T"
+        ]
       ]
     ],
     [
       [
-        "Dakar",
-        "/wiki/Dakar"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Dakar",
-        "/wiki/Dakar_Region"
+        [
+          "40"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GOOY",
-        null
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "DKR",
-        null
+        [
+          "ITV1 Wales"
+        ],
+        [
+          "/wiki/ITV_Wales_%26_West"
+        ]
       ],
       [
-        "L\u00e9opold S\u00e9dar Senghor International Airport",
-        "/wiki/L%C3%A9opold_S%C3%A9dar_Senghor_International_Airport"
+        [
+          "PAL System I"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Dakar",
-        "/wiki/Dakar"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Thi\u00e8s",
-        "/wiki/Thi%C3%A8s_Region"
+        [
+          "42-"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GOBD",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "DSS",
-        null
+        [
+          "BBC"
+        ],
+        [
+          "/wiki/BBC"
+        ]
       ],
       [
-        "Blaise Diagne International Airport",
-        "/wiki/Blaise_Diagne_International_Airport"
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Dodji",
-        "/wiki/Dodji"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Louga",
-        "/wiki/Louga_Region"
+        [
+          "43+"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GO66",
-        null
+        [
+          "20"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "BBC"
+        ],
+        [
+          "/wiki/BBC"
+        ]
       ],
       [
-        "Dodji Airport",
-        "/wiki/Dodji_Airport"
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Kaolack",
-        "/wiki/Kaolack"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Kaolack",
-        "/wiki/Kaolack_Region"
+        [
+          "45-"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GOOK",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "KLC",
-        null
+        [
+          "Arqiva"
+        ],
+        [
+          "/wiki/Arqiva"
+        ]
       ],
       [
-        "Kaolack Airport",
-        "/wiki/Kaolack_Airport"
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "K\u00e9dougou",
-        "/wiki/K%C3%A9dougou"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "K\u00e9dougou",
-        "/wiki/K%C3%A9dougou_Region"
+        [
+          "46"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GOTK",
-        null
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "KGG",
-        null
+        [
+          "BBC One Wales"
+        ],
+        [
+          "/wiki/BBC_One_Wales"
+        ]
       ],
       [
-        "K\u00e9dougou Airport",
-        "/wiki/K%C3%A9dougou_Airport"
+        [
+          "PAL System I"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Kolda",
-        "/wiki/Kolda"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Kolda",
-        "/wiki/Kolda_Region"
+        [
+          "49-"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GODK",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "KDA",
-        null
+        [
+          "Arqiva (Mux D)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kolda North Airport",
-        "/wiki/Kolda_North_Airport"
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lingu\u00e8re",
-        "/wiki/Lingu%C3%A8re"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Louga",
-        "/wiki/Louga_Region"
+        [
+          "50"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GOOG",
-        null
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "S4C"
+        ],
+        [
+          "/wiki/S4C"
+        ]
       ],
       [
-        "Lingu\u00e8re Airport",
-        "/wiki/Lingu%C3%A8re_Airport"
+        [
+          "PAL System I"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Matam",
-        "/wiki/Matam,_Senegal"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Matam",
-        "/wiki/Matam_Region"
+        [
+          "51+"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GOSM",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "MAX",
-        null
+        [
+          "Digital 3&4"
+        ],
+        [
+          "/wiki/Digital_3%264"
+        ]
       ],
       [
-        "Ouro Sogui Airport",
-        "/wiki/Ouro_Sogui_Airport"
-      ]
-    ],
-    [
-      [
-        "Niokolo-Koba",
-        "/wiki/Niokolo-Koba"
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "NIK",
-        null
-      ],
-      [
-        "Niokolo-Koba Airport",
-        "/wiki/Niokolo-Koba_Airport"
-      ]
-    ],
-    [
-      [
-        "Podor",
-        "/wiki/Podor"
-      ],
-      [
-        "Saint-Louis",
-        "/wiki/Saint-Louis_Region"
-      ],
-      [
-        "GOSP",
-        null
-      ],
-      [
-        "POD",
-        null
-      ],
-      [
-        "Podor Airport",
-        "/wiki/Podor_Airport"
-      ]
-    ],
-    [
-      [
-        "Richard Toll",
-        "/wiki/Richard_Toll"
-      ],
-      [
-        "Saint-Louis",
-        "/wiki/Saint-Louis_Region"
-      ],
-      [
-        "GOSR",
-        null
-      ],
-      [
-        "RDT",
-        null
-      ],
-      [
-        "Richard Toll Airport",
-        "/wiki/Richard_Toll_Airport"
-      ]
-    ],
-    [
-      [
-        "Saint-Louis",
-        "/wiki/Saint-Louis,_Senegal"
-      ],
-      [
-        "Saint-Louis",
-        "/wiki/Saint-Louis_Region"
-      ],
-      [
-        "GOSS",
-        null
-      ],
-      [
-        "XLS",
-        null
-      ],
-      [
-        "Saint-Louis Airport",
-        "/wiki/Saint-Louis_Airport"
-      ]
-    ],
-    [
-      [
-        "Simenti",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Tambacounda",
-        "/wiki/Tambacounda_Region"
-      ],
-      [
-        "GOTS",
-        null
-      ],
-      [
-        "SMY",
-        null
-      ],
-      [
-        "Simenti Airport",
-        "/wiki/Simenti_Airport"
-      ]
-    ],
-    [
-      [
-        "Tambacounda",
-        "/wiki/Tambacounda"
-      ],
-      [
-        "Tambacounda",
-        "/wiki/Tambacounda_Region"
-      ],
-      [
-        "GOTT",
-        null
-      ],
-      [
-        "TUD",
-        null
-      ],
-      [
-        "Tambacounda Airport",
-        "/wiki/Tambacounda_Airport"
-      ]
-    ],
-    [
-      [
-        "Ziguinchor",
-        "/wiki/Ziguinchor"
-      ],
-      [
-        "Ziguinchor",
-        "/wiki/Ziguinchor_Region"
-      ],
-      [
-        "GOGG",
-        null
-      ],
-      [
-        "ZIG",
-        null
-      ],
-      [
-        "Ziguinchor Airport",
-        "/wiki/Ziguinchor_Airport"
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "For the duration of the switchover, all the channels carried on Multiplex B were duplicated on this new PSB1 multiplex.",
   "idx": 10501
 }

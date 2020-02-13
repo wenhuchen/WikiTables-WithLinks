@@ -1,185 +1,1083 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_power_stations_in_Kenya",
-  "title": "List of power stations in Kenya",
+  "url": "https://en.wikipedia.org/wiki/List_of_ethnic_groups_of_Africa",
+  "title": "List of ethnic groups of Africa",
   "header": [
     [
-      "Station",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "MW",
-      "/wiki/Megawatt"
+      [
+        "Family"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      "/wiki/Geographic_coordinate_system"
+      [
+        "Language"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Status",
-      null
+      [
+        "Region"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Country"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Population (million)"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Olkaria I Geothermal Power Station",
-        "/wiki/Olkaria_I_Geothermal_Power_Station"
+        [
+          "Aka"
+        ],
+        [
+          "/wiki/Aka_people"
+        ]
       ],
       [
-        "185",
-        null
+        [
+          "Nilo-Saharan, Pygmy"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0\u00b053\u203236\u2033S 36\u00b018\u203230\u2033E\ufeff / \ufeff0.89333\u00b0S 36.30833\u00b0E\ufeff / -0.89333; 36.30833\ufeff (Olkaria I Geothermal Power Station)",
-        "/wiki/HTTP_404"
+        [
+          "Aka"
+        ],
+        [
+          "/wiki/Aka_language"
+        ]
       ],
       [
-        "Operational",
-        null
+        [
+          "Central/Northern"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Central African Republic",
+          "Congo"
+        ],
+        [
+          "/wiki/Central_African_Republic",
+          "/wiki/Republic_of_the_Congo"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Olkaria II Geothermal Power Station",
-        "/wiki/Olkaria_II_Geothermal_Power_Station"
+        [
+          "Baka"
+        ],
+        [
+          "/wiki/Baka_(Congolese-Sudanese_ethnic_group)"
+        ]
       ],
       [
-        "105",
-        null
+        [
+          "Pygmy"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0\u00b051\u203249\u2033S 36\u00b018\u203200\u2033E\ufeff / \ufeff0.86361\u00b0S 36.30000\u00b0E\ufeff / -0.86361; 36.30000\ufeff (Olkaria II Geothermal Power Station)",
-        "/wiki/HTTP_404"
+        [
+          "Baka"
+        ],
+        [
+          "/wiki/Baka_language_(South_Sudan)"
+        ]
       ],
       [
-        "Operational",
-        null
+        [
+          "Central/Northern"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Western Equatoria",
+          "South Sudan"
+        ],
+        [
+          "/wiki/Western_Equatoria",
+          "/wiki/South_Sudan"
+        ]
+      ],
+      [
+        [
+          "0.25"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Olkaria III Geothermal Power Station",
-        "/wiki/Olkaria_III_Geothermal_Power_Station"
+        [
+          "Banda"
+        ],
+        [
+          "/wiki/Banda_people"
+        ]
       ],
       [
-        "139",
-        null
+        [
+          "Niger-Congo, Ubangian"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0\u00b052\u203230\u2033S 36\u00b018\u203200\u2033E\ufeff / \ufeff0.87500\u00b0S 36.30000\u00b0E\ufeff / -0.87500; 36.30000\ufeff (Olkaria III Geothermal Power Station)",
-        "/wiki/HTTP_404"
+        [
+          "Banda language"
+        ],
+        [
+          "/wiki/Banda_languages"
+        ]
       ],
       [
-        "Operational",
-        null
+        [
+          "Chad Basin"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Central African Republic"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.5"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Olkaria IV Geothermal Power Station",
-        "/wiki/Olkaria_IV_Geothermal_Power_Station"
+        [
+          "Chewa"
+        ],
+        [
+          "/wiki/Chewa_people"
+        ]
       ],
       [
-        "140",
-        null
+        [
+          "Niger\u2013Congo, Bantu"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0\u00b051\u203249\u2033S 36\u00b018\u203200\u2033E\ufeff / \ufeff0.86361\u00b0S 36.30000\u00b0E\ufeff / -0.86361; 36.30000\ufeff (Olkaria IV Geothermal Power Station)",
-        "/wiki/HTTP_404"
+        [
+          "Chichewa"
+        ],
+        [
+          "/wiki/Chichewa_language"
+        ]
       ],
       [
-        "Operational",
-        null
+        [
+          "Central/Southern"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Botswana",
+          "Malawi",
+          "Mozambique",
+          "Namibia",
+          "Tanzania",
+          "Zambia",
+          "Zimbabwe"
+        ],
+        [
+          "/wiki/Botswana",
+          "/wiki/Malawi",
+          "/wiki/Mozambique",
+          "/wiki/Namibia",
+          "/wiki/Tanzania",
+          "/wiki/Zambia",
+          "/wiki/Zimbabwe"
+        ]
+      ],
+      [
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Olkaria V Geothermal Power Station",
-        "/wiki/Olkaria_V_Geothermal_Power_Station"
+        [
+          "Chokwe"
+        ],
+        [
+          "/wiki/Chokwe_people"
+        ]
       ],
       [
-        "158",
-        null
+        [
+          "Niger\u2013Congo, Bantu"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0\u00b051\u203249\u2033S 36\u00b018\u203200\u2033E\ufeff / \ufeff0.86361\u00b0S 36.30000\u00b0E\ufeff / -0.86361; 36.30000\ufeff (Olkaria V Geothermal Power Station)",
-        "/wiki/HTTP_404"
+        [
+          "Chokwe"
+        ],
+        [
+          "/wiki/Chokwe_language"
+        ]
       ],
       [
-        "In development",
-        null
+        [
+          "Central"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Angola, Congo (Kinshasa), Zambia"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Akiira One Geothermal Power Station",
-        "/wiki/Akiira_One_Geothermal_Power_Station"
+        [
+          "Ef\u00e9"
+        ],
+        [
+          "/wiki/Ef%C3%A9"
+        ]
       ],
       [
-        "70",
-        null
+        [
+          "Nilo-Saharan, Pygmy"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "00\u00b056\u203200\u2033S 36\u00b018\u203200\u2033E\ufeff / \ufeff0.93333\u00b0S 36.30000\u00b0E\ufeff / -0.93333; 36.30000\ufeff (Akiira One Geothermal Power Station)",
-        "/wiki/HTTP_404"
+        [
+          "Efe"
+        ],
+        [
+          "/wiki/Efe_language"
+        ]
       ],
       [
-        "Planned",
-        null
+        [
+          "Central/Northern"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ituri Rainforest",
+          "Congo"
+        ],
+        [
+          "/wiki/Ituri_Rainforest",
+          "/wiki/Republic_of_the_Congo"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Menengai I Geothermal Power Station",
-        "/wiki/Menengai_I_Geothermal_Power_Station"
+        [
+          "Gbaya"
+        ],
+        [
+          "/wiki/Gbaya_people"
+        ]
       ],
       [
-        "35",
-        null
+        [
+          "Niger-Congo, Ubangian"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "00\u00b011\u203235\u2033S 36\u00b004\u203212\u2033E\ufeff / \ufeff0.19306\u00b0S 36.07000\u00b0E\ufeff / -0.19306; 36.07000\ufeff (Menengai I Geothermal Power Station)",
-        "/wiki/HTTP_404"
+        [
+          "Gbaya language"
+        ],
+        [
+          "/wiki/Gbaya_language"
+        ]
       ],
       [
-        "In development",
-        null
+        [
+          "Chad Basin"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Central African Republic"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.5"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Menengai II Geothermal Power Station",
-        "/wiki/Menengai_II_Geothermal_Power_Station"
+        [
+          "Kongo"
+        ],
+        [
+          "/wiki/Kongo_people"
+        ]
       ],
       [
-        "35",
-        null
+        [
+          "Niger\u2013Congo, Bantu"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "00\u00b011\u203246\u2033S 36\u00b003\u203247\u2033E\ufeff / \ufeff0.19611\u00b0S 36.06306\u00b0E\ufeff / -0.19611; 36.06306\ufeff (Menengai II Geothermal Power Station)",
-        "/wiki/HTTP_404"
+        [
+          "Kongo"
+        ],
+        [
+          "/wiki/Kongo_language"
+        ]
       ],
       [
-        "In development",
-        null
+        [
+          "Central"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Democratic Republic of the Congo, Angola, Republic of the Congo"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Menengai III Geothermal Power Station",
-        "/wiki/Menengai_III_Geothermal_Power_Station"
+        [
+          "Kanuri"
+        ],
+        [
+          "/wiki/Kanuri_people"
+        ]
       ],
       [
-        "35",
-        null
+        [
+          "Nilo-Saharan, Western Saharan"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "00\u00b011\u203243\u2033S 36\u00b004\u203254\u2033E\ufeff / \ufeff0.19528\u00b0S 36.08167\u00b0E\ufeff / -0.19528; 36.08167\ufeff (Menengai III Geothermal Power Station)",
-        "/wiki/HTTP_404"
+        [
+          "Kanuri"
+        ],
+        [
+          "/wiki/Kanuri_language"
+        ]
       ],
       [
-        "In development",
-        null
+        [
+          "Chad Basin"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Nigeria, Niger, Cameroon, Chad"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "10"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Lingala"
+        ],
+        [
+          "/wiki/Lingala"
+        ]
+      ],
+      [
+        [
+          "Niger\u2013Congo, Bantu"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Lingala"
+        ],
+        [
+          "/wiki/Lingala"
+        ]
+      ],
+      [
+        [
+          "Central"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Democratic Republic of the Congo, Republic of the Congo, Angola, Central African Republic"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Luba"
+        ],
+        [
+          "/wiki/Luba_people"
+        ]
+      ],
+      [
+        [
+          "Niger\u2013Congo, Bantu"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Luba-Kasai",
+          "Luba-Katanga"
+        ],
+        [
+          "/wiki/Luba-Kasai_language",
+          "/wiki/Luba-Katanga_language"
+        ]
+      ],
+      [
+        [
+          "Central"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Democratic Republic of the Congo"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "13"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Kotoko"
+        ],
+        [
+          "/wiki/Kotoko_people"
+        ]
+      ],
+      [
+        [
+          "Afro-Asiatic, Chadic"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Lagwan"
+        ],
+        [
+          "/wiki/Lagwan_language"
+        ]
+      ],
+      [
+        [
+          "Chad Basin"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cameroon, Chad"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "< 1"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Mbunda"
+        ],
+        [
+          "/wiki/Mbunda_people"
+        ]
+      ],
+      [
+        [
+          "Niger\u2013Congo, Bantu"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Mb\u00fa\u00f9nda",
+          "Chimb\u00fa\u00f9nda",
+          "Mpuono"
+        ],
+        [
+          "/wiki/Mbunda_language",
+          "/wiki/Mbunda_language",
+          "/wiki/Mpuono_language"
+        ]
+      ],
+      [
+        [
+          "Central"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Angola",
+          "Zambia"
+        ],
+        [
+          "/wiki/Angola",
+          "/wiki/Zambia"
+        ]
+      ],
+      [
+        [
+          "0.5"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Mbundu"
+        ],
+        [
+          "/wiki/Northern_Mbundu_people"
+        ]
+      ],
+      [
+        [
+          "Niger\u2013Congo, Bantu"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Kimbundu"
+        ],
+        [
+          "/wiki/North_Mbundu_language"
+        ]
+      ],
+      [
+        [
+          "Central"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Angola"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2.4"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Moghamo"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Niger-Congo, Southern Bantoid"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Moghamo"
+        ],
+        [
+          "/wiki/Meta%27_language"
+        ]
+      ],
+      [
+        [
+          "Central/West"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cameroon"
+        ],
+        [
+          "/wiki/Cameroon"
+        ]
+      ],
+      [
+        [
+          "0.018"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Mongo"
+        ],
+        [
+          "/wiki/Mongo_people"
+        ]
+      ],
+      [
+        [
+          "Niger\u2013Congo, Bantu"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Mongo"
+        ],
+        [
+          "/wiki/Mongo_language"
+        ]
+      ],
+      [
+        [
+          "Central"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Democratic Republic of the Congo"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "12"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Ngamambo"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Niger-Congo, Southern Bantoid"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ngamambo"
+        ],
+        [
+          "/wiki/Meta%27_language"
+        ]
+      ],
+      [
+        [
+          "Central/West"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cameroon"
+        ],
+        [
+          "/wiki/Cameroon"
+        ]
+      ],
+      [
+        [
+          "0.011"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Ovimbundu"
+        ],
+        [
+          "/wiki/Ovimbundu"
+        ]
+      ],
+      [
+        [
+          "Niger\u2013Congo, Bantu"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Umbundu"
+        ],
+        [
+          "/wiki/South_Mbundu_language"
+        ]
+      ],
+      [
+        [
+          "Central"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Angola"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "4.6"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Sara"
+        ],
+        [
+          "/wiki/Sara_people"
+        ]
+      ],
+      [
+        [
+          "Nilo-Saharan, Central Sudanic"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Sara"
+        ],
+        [
+          "/wiki/Sara_languages"
+        ]
+      ],
+      [
+        [
+          "Chad Basin"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Chad, Cameroon, Central African Republic"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3.5"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Sua"
+        ],
+        [
+          "/wiki/Sua_people"
+        ]
+      ],
+      [
+        [
+          "Nilo-Saharan, Pygmy"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Sua"
+        ],
+        [
+          "/wiki/Sua_language"
+        ]
+      ],
+      [
+        [
+          "Central/Northern"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ituri Rainforest",
+          "Congo"
+        ],
+        [
+          "/wiki/Ituri_Rainforest",
+          "/wiki/Republic_of_the_Congo"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

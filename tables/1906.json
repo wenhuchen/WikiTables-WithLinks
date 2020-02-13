@@ -1,467 +1,605 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Moses_Kotane_Local_Municipality",
-  "title": "Moses Kotane Local Municipality",
+  "url": "https://en.wikipedia.org/wiki/Provinces_of_Zambia",
+  "title": "Provinces of Zambia",
   "header": [
     [
-      "Place",
-      null
+      [
+        "Province"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Code",
-      null
+      [
+        "Capital"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Area (km)",
-      null
+      [
+        "Area (km\u00b2)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Population",
-      null
+      [
+        "Population (2018)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Most spoken language",
-      null
+      [
+        "Density(people/km\u00b2)"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Districts"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Amahlubi",
-        "/wiki/HTTP_404"
+        [
+          "Central"
+        ],
+        [
+          "/wiki/Central_Province,_Zambia"
+        ]
       ],
       [
-        "60501",
-        "/wiki/HTTP_404"
+        [
+          "Kabwe"
+        ],
+        [
+          "/wiki/Kabwe"
+        ]
       ],
       [
-        "563.29",
-        null
+        [
+          "110,450"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "3,646",
-        null
+        [
+          "1,743,999"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Xhosa",
-        "/wiki/Xhosa_language"
+        [
+          "15.8"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bafokeng",
-        "/wiki/Bafokeng"
+        [
+          "Copperbelt"
+        ],
+        [
+          "/wiki/Copperbelt_Province"
+        ]
       ],
       [
-        "60502",
-        "/wiki/HTTP_404"
+        [
+          "Ndola"
+        ],
+        [
+          "/wiki/Ndola"
+        ]
       ],
       [
-        "138.54",
-        null
+        [
+          "31,328"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4,305",
-        null
+        [
+          "2,642,132"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tswana",
-        "/wiki/Tswana_language"
+        [
+          "81.2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bakgatla Ba Ga Kgafela",
-        "/wiki/HTTP_404"
+        [
+          "Eastern"
+        ],
+        [
+          "/wiki/Eastern_Province,_Zambia"
+        ]
       ],
       [
-        "60503",
-        "/wiki/HTTP_404"
+        [
+          "Chipata"
+        ],
+        [
+          "/wiki/Chipata"
+        ]
       ],
       [
-        "1,166.89",
-        null
+        [
+          "51,476"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "75,072",
-        null
+        [
+          "1,961,269"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tswana",
-        null
+        [
+          "38.1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "14"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bakubung Ba Ratheo",
-        "/wiki/HTTP_404"
+        [
+          "Luapula"
+        ],
+        [
+          "/wiki/Luapula_Province"
+        ]
       ],
       [
-        "60504",
-        "/wiki/HTTP_404"
+        [
+          "Mansa"
+        ],
+        [
+          "/wiki/Mansa,_Zambia"
+        ]
       ],
       [
-        "203.24",
-        null
+        [
+          "50,567"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "19,800",
-        null
+        [
+          "1,215,294"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tswana",
-        null
+        [
+          "24.0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bakwena Ba Mare A Phogole",
-        "/wiki/HTTP_404"
+        [
+          "Lusaka"
+        ],
+        [
+          "/wiki/Lusaka_Province"
+        ]
       ],
       [
-        "60505",
-        "/wiki/HTTP_404"
+        [
+          "Lusaka"
+        ],
+        [
+          "/wiki/Lusaka"
+        ]
       ],
       [
-        "72.95",
-        null
+        [
+          "23,490"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "3,314",
-        null
+        [
+          "3,186,336"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tswana",
-        null
+        [
+          "135.6"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bakwena Boo Modimosana",
-        "/wiki/HTTP_404"
+        [
+          "Muchinga"
+        ],
+        [
+          "/wiki/Muchinga_Province"
+        ]
       ],
       [
-        "60506",
-        "/wiki/HTTP_404"
+        [
+          "Chinsali"
+        ],
+        [
+          "/wiki/Chinsali"
+        ]
       ],
       [
-        "235.27",
-        null
+        [
+          "87,806"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "14,364",
-        null
+        [
+          "1,011,655"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tswana",
-        null
+        [
+          "11.5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Baphalane",
-        "/wiki/HTTP_404"
+        [
+          "North-Western"
+        ],
+        [
+          "/wiki/North-Western_Province,_Zambia"
+        ]
       ],
       [
-        "60507",
-        "/wiki/HTTP_404"
+        [
+          "Solwezi"
+        ],
+        [
+          "/wiki/Solwezi"
+        ]
       ],
       [
-        "656.08",
-        null
+        [
+          "125,826"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "22,101",
-        null
+        [
+          "902,631"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tswana",
-        null
+        [
+          "7.2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Baphiring",
-        "/wiki/HTTP_404"
+        [
+          "Northern"
+        ],
+        [
+          "/wiki/Northern_Province,_Zambia"
+        ]
       ],
       [
-        "60508",
-        "/wiki/HTTP_404"
+        [
+          "Kasama"
+        ],
+        [
+          "/wiki/Kasama,_Zambia"
+        ]
       ],
       [
-        "152.35",
-        null
+        [
+          "77,650"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "8,887",
-        null
+        [
+          "1,430,543"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tswana",
-        null
+        [
+          "18.4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bapo 2 Ba Ga Mogale",
-        "/wiki/HTTP_404"
+        [
+          "Southern"
+        ],
+        [
+          "/wiki/Southern_Province,_Zambia"
+        ]
       ],
       [
-        "60509",
-        "/wiki/HTTP_404"
+        [
+          "Choma"
+        ],
+        [
+          "/wiki/Choma,_Zambia"
+        ]
       ],
       [
-        "5.08",
-        null
+        [
+          "68,410"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4,415",
-        null
+        [
+          "1,852,361"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tswana",
-        null
+        [
+          "27.1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "13"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BAPO 2",
-        "/wiki/BAPO_2"
+        [
+          "Western"
+        ],
+        [
+          "/wiki/Western_Province,_Zambia"
+        ]
       ],
       [
-        "60510",
-        "/wiki/HTTP_404"
+        [
+          "Mongu"
+        ],
+        [
+          "/wiki/Mongu"
+        ]
       ],
       [
-        "0.82",
-        null
+        [
+          "126,386"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1,643",
-        null
+        [
+          "1,041,500"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tswana",
-        null
+        [
+          "8.2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "16"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Barokologadi Ba Ga Maotwa",
-        "/wiki/Barokologadi_Ba_Ga_Maotwa"
+        [
+          "Zambia"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "60511",
-        "/wiki/HTTP_404"
+        [
+          "Lusaka"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "289.33",
-        null
+        [
+          "752,612"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7,100",
-        null
+        [
+          "13,092,666"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tswana",
-        null
-      ]
-    ],
-    [
-      [
-        "Bataung Ba Moubane",
-        "/wiki/HTTP_404"
+        [
+          "17.3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "60512",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "1.52",
-        null
-      ],
-      [
-        "529",
-        null
-      ],
-      [
-        "Tswana",
-        null
-      ]
-    ],
-    [
-      [
-        "Batlhako Boo Mututu Ba Ga Mabe",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "60513",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "305.38",
-        null
-      ],
-      [
-        "15,526",
-        null
-      ],
-      [
-        "Tswana",
-        null
-      ]
-    ],
-    [
-      [
-        "Batlhalerwa",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "60514",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "641.83",
-        null
-      ],
-      [
-        "9,224",
-        null
-      ],
-      [
-        "Tswana",
-        null
-      ]
-    ],
-    [
-      [
-        "Batlokwa Ba Bogatsu",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "60515",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "212.95",
-        null
-      ],
-      [
-        "16,518",
-        null
-      ],
-      [
-        "Tswana",
-        null
-      ]
-    ],
-    [
-      [
-        "Batlokwa Ba Ga Sedumedi",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "60516",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "17.76",
-        null
-      ],
-      [
-        "7,044",
-        null
-      ],
-      [
-        "Tswana",
-        null
-      ]
-    ],
-    [
-      [
-        "Batlokwa Boo Matlapane",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "60517",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "70.26",
-        null
-      ],
-      [
-        "1,444",
-        null
-      ],
-      [
-        "Tswana",
-        null
-      ]
-    ],
-    [
-      [
-        "Dinokaneng",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "60518",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "128.10",
-        null
-      ],
-      [
-        "48",
-        null
-      ],
-      [
-        "Tswana",
-        null
-      ]
-    ],
-    [
-      [
-        "Mahobieskraal",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "60519",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "0.64",
-        null
-      ],
-      [
-        "0",
-        null
-      ],
-      [
-        "-",
-        null
-      ]
-    ],
-    [
-      [
-        "Makuntlwane A Kgote",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "60520",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "4.70",
-        null
-      ],
-      [
-        "1,689",
-        null
-      ],
-      [
-        "Tswana",
-        null
+        [
+          "118"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

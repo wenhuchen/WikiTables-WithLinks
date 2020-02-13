@@ -1,299 +1,477 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_Palmair_destinations",
-  "title": "List of Palmair destinations",
+  "url": "https://en.wikipedia.org/wiki/List_of_museums_and_cultural_institutions_in_New_York_City",
+  "title": "List of museums and cultural institutions in New York City",
   "header": [
     [
-      "City",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country",
-      null
+      [
+        "Neighborhood"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Airport",
-      null
+      [
+        "Borough"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Type"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Summary"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Alicante",
-        "/wiki/Alicante"
+        [
+          "Castle Clinton"
+        ],
+        [
+          "/wiki/Castle_Clinton"
+        ]
       ],
       [
-        "Spain",
-        null
+        [
+          "Lower Manhattan"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Alicante Airport",
-        "/wiki/Alicante_Airport"
+        [
+          "Manhattan"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "History"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "National Park Service",
+          "Statue of Liberty",
+          "Ellis Island"
+        ],
+        [
+          "/wiki/National_Park_Service",
+          "/wiki/Statue_of_Liberty",
+          "/wiki/Ellis_Island"
+        ]
       ]
     ],
     [
       [
-        "Bournemouth",
-        "/wiki/Bournemouth"
+        [
+          "Castle Williams"
+        ],
+        [
+          "/wiki/Castle_Williams"
+        ]
       ],
       [
-        "United Kingdom",
-        null
+        [
+          "Governors Island"
+        ],
+        [
+          "/wiki/Governors_Island"
+        ]
       ],
       [
-        "Bournemouth Airport",
-        "/wiki/Bournemouth_Airport"
+        [
+          "Manhattan"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Military"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tours of the 1807 fort and prison"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Brescia",
-        "/wiki/Brescia"
+        [
+          "FDNY Fire Zone"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Italy",
-        null
+        [
+          "Midtown"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Brescia Airport",
-        "/wiki/Brescia_Airport"
+        [
+          "Manhattan"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Firefighting"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "website",
+          "Rockefeller Center"
+        ],
+        [
+          null,
+          "/wiki/Rockefeller_Center"
+        ]
       ]
     ],
     [
       [
-        "Corfu",
-        "/wiki/Corfu"
+        [
+          "Intrepid Sea, Air & Space Museum"
+        ],
+        [
+          "/wiki/Intrepid_Sea,_Air_%26_Space_Museum"
+        ]
       ],
       [
-        "Greece",
-        null
+        [
+          "Hell's Kitchen"
+        ],
+        [
+          "/wiki/Hell%27s_Kitchen,_Manhattan"
+        ]
       ],
       [
-        "Corfu International Airport",
-        "/wiki/Corfu_International_Airport"
+        [
+          "Manhattan"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Military"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "USS Intrepid",
+          "Space Shuttle Enterprise",
+          "USS Growler"
+        ],
+        [
+          "/wiki/USS_Intrepid_(CV-11)",
+          "/wiki/Space_Shuttle_Enterprise",
+          "/wiki/USS_Growler_(SSG-577)"
+        ]
       ]
     ],
     [
       [
-        "Cork",
-        "/wiki/Cork_(city)"
+        [
+          "New York City Fire Museum"
+        ],
+        [
+          "/wiki/New_York_City_Fire_Museum"
+        ]
       ],
       [
-        "Ireland",
-        null
+        [
+          "SoHo"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cork Airport",
-        "/wiki/Cork_Airport"
+        [
+          "Manhattan"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Firefighting"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Historical and modern firefighting vehicles, equipment, uniforms"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Dublin",
-        "/wiki/Dublin"
+        [
+          "New York City Police Museum"
+        ],
+        [
+          "/wiki/New_York_City_Police_Museum"
+        ]
       ],
       [
-        "Ireland",
-        null
+        [
+          "Financial District"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dublin Airport",
-        "/wiki/Dublin_Airport"
+        [
+          "Manhattan"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Law enforcement"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Closed in 2014, plans unclear"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Dubrovnik",
-        "/wiki/Dubrovnik"
+        [
+          "Harbor Defense Museum"
+        ],
+        [
+          "/wiki/Harbor_Defense_Museum"
+        ]
       ],
       [
-        "Croatia",
-        null
+        [
+          "Bay Ridge"
+        ],
+        [
+          "/wiki/Bay_Ridge,_Brooklyn"
+        ]
       ],
       [
-        "Dubrovnik Airport",
-        "/wiki/Dubrovnik_Airport"
+        [
+          "Brooklyn"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Military"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Fort Hamilton"
+        ],
+        [
+          "/wiki/Fort_Hamilton"
+        ]
       ]
     ],
     [
       [
-        "Exeter",
-        "/wiki/Exeter"
+        [
+          "Hall of Fame for Great Americans"
+        ],
+        [
+          "/wiki/Hall_of_Fame_for_Great_Americans"
+        ]
       ],
       [
-        "United Kingdom",
-        null
+        [
+          "University Heights"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Exeter International Airport",
-        "/wiki/Exeter_International_Airport"
+        [
+          "Bronx"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Hall of fame"
+        ],
+        [
+          "/wiki/Hall_of_fame"
+        ]
+      ],
+      [
+        [
+          "Bronx Community College"
+        ],
+        [
+          "/wiki/Bronx_Community_College"
+        ]
       ]
     ],
     [
       [
-        "Faro",
-        "/wiki/Faro,_Portugal"
+        [
+          "Fort Totten"
+        ],
+        [
+          "/wiki/Fort_Totten,_New_York"
+        ]
       ],
       [
-        "Portugal",
-        null
+        [
+          "Bayside"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Faro Airport",
-        "/wiki/Faro_Airport"
+        [
+          "Queens"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Military"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tours of the Civil War-era fort"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Fuerteventura",
-        "/wiki/Fuerteventura"
+        [
+          "Fort Wadsworth"
+        ],
+        [
+          "/wiki/Fort_Wadsworth"
+        ]
       ],
       [
-        "Spain",
-        null
+        [
+          "Fort Wadsworth"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Fuerteventura Airport",
-        "/wiki/Fuerteventura_Airport"
-      ]
-    ],
-    [
-      [
-        "Funchal",
-        "/wiki/Funchal"
+        [
+          "Staten Island"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Portugal",
-        null
+        [
+          "Military"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Madeira Airport",
-        "/wiki/Madeira_Airport"
-      ]
-    ],
-    [
-      [
-        "Jersey",
-        "/wiki/Jersey"
-      ],
-      [
-        "United Kingdom",
-        null
-      ],
-      [
-        "Jersey Airport",
-        "/wiki/Jersey_Airport"
-      ]
-    ],
-    [
-      [
-        "Lanzarote",
-        "/wiki/Lanzarote"
-      ],
-      [
-        "Spain",
-        null
-      ],
-      [
-        "Lanzarote Airport",
-        "/wiki/Lanzarote_Airport"
-      ]
-    ],
-    [
-      [
-        "Luqa",
-        "/wiki/Luqa"
-      ],
-      [
-        "Malta",
-        null
-      ],
-      [
-        "Malta International Airport",
-        "/wiki/Malta_International_Airport"
-      ]
-    ],
-    [
-      [
-        "M\u00e1laga",
-        "/wiki/M%C3%A1laga"
-      ],
-      [
-        "Spain",
-        null
-      ],
-      [
-        "M\u00e1laga Airport",
-        "/wiki/M%C3%A1laga_Airport"
-      ]
-    ],
-    [
-      [
-        "Menorca",
-        "/wiki/Menorca"
-      ],
-      [
-        "Spain",
-        null
-      ],
-      [
-        "Menorca Airport",
-        "/wiki/Menorca_Airport"
-      ]
-    ],
-    [
-      [
-        "Milan",
-        "/wiki/Milan"
-      ],
-      [
-        "Italy",
-        null
-      ],
-      [
-        "Malpensa Airport",
-        "/wiki/Malpensa_Airport"
-      ]
-    ],
-    [
-      [
-        "Monastir",
-        "/wiki/Monastir,_Tunisia"
-      ],
-      [
-        "Tunisia",
-        null
-      ],
-      [
-        "Habib Bourguiba International Airport",
-        "/wiki/Monastir_%E2%80%93_Habib_Bourguiba_International_Airport"
-      ]
-    ],
-    [
-      [
-        "Naples",
-        "/wiki/Naples"
-      ],
-      [
-        "Italy",
-        null
-      ],
-      [
-        "Naples Airport",
-        "/wiki/Naples_Airport"
-      ]
-    ],
-    [
-      [
-        "Palma de Mallorca",
-        "/wiki/Palma_de_Mallorca"
-      ],
-      [
-        "Spain",
-        null
-      ],
-      [
-        "Palma de Mallorca Airport",
-        "/wiki/Palma_de_Mallorca_Airport"
+        [
+          "Exhibits and tours of the mid-19th-century fort"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

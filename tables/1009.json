@@ -1,167 +1,719 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Spain",
-  "title": "List of airports in Spain",
+  "url": "https://en.wikipedia.org/wiki/List_of_industrial_centres_in_India",
+  "title": "List of industrial centres in India",
   "header": [
     [
-      "Location",
-      null
+      [
+        "No."
+      ],
+      [
+        null
+      ]
     ],
     [
-      "ICAO",
-      "/wiki/ICAO_airport_code"
+      [
+        "Place"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "IATA",
-      "/wiki/IATA_airport_code"
+      [
+        "State"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Airport\u00a0name",
-      null
+      [
+        "Significance"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "El Hierro",
-        "/wiki/El_Hierro"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GCHI",
-        null
+        [
+          "Raipur"
+        ],
+        [
+          "/wiki/Raipur"
+        ]
       ],
       [
-        "VDE",
-        null
+        [
+          "Chhattisgarh"
+        ],
+        [
+          "/wiki/Chhattisgarh"
+        ]
       ],
       [
-        "El Hierro Airport,[42]",
-        "/wiki/El_Hierro_Airport /wiki/HTTP_404"
+        [
+          "Steel, Iron ore, plywood, containers logistics, paper power generation and cement, agriculture, Ceramic, stone mines,  textile retail market, electronic manufacturing cluster"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Fuerteventura",
-        "/wiki/Fuerteventura"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GCFV",
-        null
+        [
+          "Rudrapur"
+        ],
+        [
+          "/wiki/Rudrapur,_Uttarakhand"
+        ]
       ],
       [
-        "FUE",
-        null
+        [
+          "Uttarakhand"
+        ],
+        [
+          "/wiki/Uttarakhand"
+        ]
       ],
       [
-        "Fuerteventura Airport,[43]",
-        "/wiki/Fuerteventura_Airport /wiki/HTTP_404"
+        [
+          "Automobile, fmcg, chemical, pharmacuetical,Precious tools, Tire, plywood, electronic & hardwar, and other various industry"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Gran Canaria",
-        "/wiki/Gran_Canaria"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GCLP",
-        null
+        [
+          "Bhilai"
+        ],
+        [
+          "/wiki/Bhilai"
+        ]
       ],
       [
-        "LPA",
-        null
+        [
+          "Chhattisgarh"
+        ],
+        [
+          "/wiki/Chhattisgarh"
+        ]
       ],
       [
-        "Gran Canaria Airport,[44]",
-        "/wiki/Gran_Canaria_Airport /wiki/HTTP_404"
+        [
+          "Iron and Steel, Power generation, cement, chemical, light and heavy Industries, Railway marshalling yard, fabrication and machining, electronics and electrical works"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "La Gomera",
-        "/wiki/La_Gomera"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GCGM",
-        null
+        [
+          "Raigarh"
+        ],
+        [
+          "/wiki/Raigarh"
+        ]
       ],
       [
-        "GMZ",
-        null
+        [
+          "Chhattisgarh"
+        ],
+        [
+          "/wiki/Chhattisgarh"
+        ]
       ],
       [
-        "La Gomera Airport,[45]",
-        "/wiki/La_Gomera_Airport /wiki/HTTP_404"
+        [
+          "Coal, Iron and Steel, Power generation, cement, light and heavy Industries, Rice Mills, limestone, dolomite"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "La Palma",
-        "/wiki/La_Palma"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GCLA",
-        null
+        [
+          "Navi Mumbai"
+        ],
+        [
+          "/wiki/Navi_Mumbai"
+        ]
       ],
       [
-        "SPC",
-        null
+        [
+          "Maharashtra"
+        ],
+        [
+          "/wiki/Maharashtra"
+        ]
       ],
       [
-        "La Palma Airport,[46]",
-        "/wiki/La_Palma_Airport /wiki/HTTP_404"
+        [
+          "IT, Textiles, Logistics, MSME"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lanzarote",
-        "/wiki/Lanzarote"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GCRR",
-        null
+        [
+          "Vijayawada"
+        ],
+        [
+          "/wiki/Vijayawada"
+        ]
       ],
       [
-        "ACE",
-        null
+        [
+          "Andhra Pradesh"
+        ],
+        [
+          "/wiki/Andhra_Pradesh"
+        ]
       ],
       [
-        "Lanzarote Airport,[47]",
-        "/wiki/Lanzarote_Airport /wiki/HTTP_404"
+        [
+          "Auto Parts"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Tenerife",
-        "/wiki/Tenerife"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GCXO",
-        null
+        [
+          "Firozabad"
+        ],
+        [
+          "/wiki/Firozabad"
+        ]
       ],
       [
-        "TFN",
-        null
+        [
+          "Uttar Pradesh"
+        ],
+        [
+          "/wiki/Uttar_Pradesh"
+        ]
       ],
       [
-        "Tenerife North Airport,[48]",
-        "/wiki/Tenerife_North_Airport /wiki/HTTP_404"
+        [
+          "Glass and bangle works"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Tenerife",
-        "/wiki/Tenerife"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GCTS",
-        null
+        [
+          "Panna"
+        ],
+        [
+          "/wiki/Panna,_India"
+        ]
       ],
       [
-        "TFS",
-        null
+        [
+          "Madhya Pradesh"
+        ],
+        [
+          "/wiki/Madhya_Pradesh"
+        ]
       ],
       [
-        "Tenerife South Airport,[49]",
-        "/wiki/Tenerife_South_Airport /wiki/HTTP_404"
+        [
+          "Diamond Mines"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "8"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Panipat"
+        ],
+        [
+          "/wiki/Panipat"
+        ]
+      ],
+      [
+        [
+          "Haryana"
+        ],
+        [
+          "/wiki/Haryana"
+        ]
+      ],
+      [
+        [
+          "Textiles"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "9"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Channapatna"
+        ],
+        [
+          "/wiki/Channapatna"
+        ]
+      ],
+      [
+        [
+          "Karnataka"
+        ],
+        [
+          "/wiki/Karnataka"
+        ]
+      ],
+      [
+        [
+          "Wooden toys and"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "11"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Varanasi"
+        ],
+        [
+          "/wiki/Varanasi"
+        ]
+      ],
+      [
+        [
+          "Uttar Pradesh"
+        ],
+        [
+          "/wiki/Uttar_Pradesh"
+        ]
+      ],
+      [
+        [
+          "Hand-loom"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "12"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Moradabad"
+        ],
+        [
+          "/wiki/Moradabad"
+        ]
+      ],
+      [
+        [
+          "Uttar Pradesh"
+        ],
+        [
+          "/wiki/Uttar_Pradesh"
+        ]
+      ],
+      [
+        [
+          "Handicrafts made of Brass"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "13"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Bareilly"
+        ],
+        [
+          "/wiki/Bareilly"
+        ]
+      ],
+      [
+        [
+          "Uttar Pradesh"
+        ],
+        [
+          "/wiki/Uttar_Pradesh"
+        ]
+      ],
+      [
+        [
+          "Handicrafts, Furniture Manufacturing, Match box"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "14"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Jamshedpur"
+        ],
+        [
+          "/wiki/Jamshedpur"
+        ]
+      ],
+      [
+        [
+          "Jharkhand"
+        ],
+        [
+          "/wiki/Jharkhand"
+        ]
+      ],
+      [
+        [
+          "Iron and Steel, Auto parts"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "16"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tiruppur"
+        ],
+        [
+          "/wiki/Tiruppur"
+        ]
+      ],
+      [
+        [
+          "Tamil Nadu"
+        ],
+        [
+          "/wiki/Tamil_Nadu"
+        ]
+      ],
+      [
+        [
+          "Textiles and garments"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "17"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Rajahmundry"
+        ],
+        [
+          "/wiki/Rajahmundry"
+        ]
+      ],
+      [
+        [
+          "Andhra Pradesh"
+        ],
+        [
+          "/wiki/Andhra_Pradesh"
+        ]
+      ],
+      [
+        [
+          "Textiles, Paper, oil and gas"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "18"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Bokaro Steel City"
+        ],
+        [
+          "/wiki/Bokaro_Steel_City"
+        ]
+      ],
+      [
+        [
+          "Jharkhand"
+        ],
+        [
+          "/wiki/Jharkhand"
+        ]
+      ],
+      [
+        [
+          "Steel and Coal"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "19"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Kolkata"
+        ],
+        [
+          "/wiki/Kolkata"
+        ]
+      ],
+      [
+        [
+          "West Bengal"
+        ],
+        [
+          "/wiki/West_Bengal"
+        ]
+      ],
+      [
+        [
+          "Various"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "20"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Durgapur"
+        ],
+        [
+          "/wiki/Durgapur"
+        ]
+      ],
+      [
+        [
+          "West Bengal"
+        ],
+        [
+          "/wiki/West_Bengal"
+        ]
+      ],
+      [
+        [
+          "Iron and Steel, Power, Cement, Chemicals, Heavy engineering"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "21"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Kharagpur"
+        ],
+        [
+          "/wiki/Kharagpur"
+        ]
+      ],
+      [
+        [
+          "West Bengal"
+        ],
+        [
+          "/wiki/West_Bengal"
+        ]
+      ],
+      [
+        [
+          "Chemicals, machinery, heavy metals, Automobiles, Railways, Cement"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

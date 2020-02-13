@@ -1,386 +1,1220 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Trofeo_Costa_del_Sol",
-  "title": "Trofeo Costa del Sol",
+  "url": "https://en.wikipedia.org/wiki/Viral_disease",
+  "title": "Viral disease",
   "header": [
     [
-      "Year",
-      null
+      [
+        "Type"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Champion",
-      null
+      [
+        "Family"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Score",
-      null
+      [
+        "Transmission"
+      ],
+      [
+        "/wiki/Transmission_(medicine)"
+      ]
     ],
     [
-      "Runner-up",
-      null
+      [
+        "Diseases"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Treatment"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Prevention"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1961",
-        null
+        [
+          "Adenovirus"
+        ],
+        [
+          "/wiki/Adenovirus_infection"
+        ]
       ],
       [
-        "Athletic Bilbao",
-        "/wiki/Athletic_Bilbao"
+        [
+          "Adenoviridae"
+        ],
+        [
+          "/wiki/Adenoviridae"
+        ]
       ],
       [
-        "4\u20130",
-        null
+        [
+          "droplet contact\nfecal-oral\nvenereal\ndirect eye contact"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sevilla",
-        "/wiki/Sevilla_FC"
+        [
+          "gastroenteritis",
+          "keratoconjunctivitis",
+          "pharyngitis",
+          "croup",
+          "pharyngoconjunctival fever",
+          "pneumonia",
+          "pneumonia",
+          "cystitis"
+        ],
+        [
+          "/wiki/Gastroenteritis",
+          "/wiki/Keratoconjunctivitis",
+          "/wiki/Pharyngitis",
+          "/wiki/Croup",
+          "/wiki/Pharyngoconjunctival_fever",
+          "/wiki/Pneumonia",
+          "/wiki/Pneumonia",
+          "/wiki/Cystitis"
+        ]
+      ],
+      [
+        [
+          "None"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Adenovirus vaccine"
+        ],
+        [
+          "/wiki/Adenovirus_vaccine"
+        ]
       ]
     ],
     [
       [
-        "1962",
-        null
+        [
+          "Coxsackievirus"
+        ],
+        [
+          "/wiki/Coxsackievirus"
+        ]
       ],
       [
-        "Roma",
-        "/wiki/A.S._Roma"
+        [
+          "Picornaviridae"
+        ],
+        [
+          "/wiki/Picornaviridae"
+        ]
       ],
       [
-        "3\u20130",
-        null
+        [
+          "fecal-oral\nrespiratory droplet contact"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD M\u00e1laga",
-        "/wiki/CD_M%C3%A1laga"
+        [
+          "Hand, foot and mouth disease",
+          "pleurodynia",
+          "aseptic meningitis",
+          "pericarditis",
+          "myocarditis"
+        ],
+        [
+          "/wiki/Hand,_foot_and_mouth_disease",
+          "/wiki/Pleurodynia",
+          "/wiki/Aseptic_meningitis",
+          "/wiki/Pericarditis",
+          "/wiki/Myocarditis"
+        ]
+      ],
+      [
+        [
+          "None"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "hand washing\ncovering mouth when coughing/sneezing\navoiding contaminated food/water\nimproved sanitation"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1963",
-        null
+        [
+          "Epstein\u2013Barr virus"
+        ],
+        [
+          "/wiki/Epstein%E2%80%93Barr_virus"
+        ]
       ],
       [
-        "CD M\u00e1laga",
-        "/wiki/CD_M%C3%A1laga"
+        [
+          "Herpesviridae"
+        ],
+        [
+          "/wiki/Herpesviridae"
+        ]
       ],
       [
-        "3\u20131",
-        null
+        [
+          "saliva"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Real Madrid",
-        "/wiki/Real_Madrid_C.F."
+        [
+          "infectious mononucleosis",
+          "Burkitt's lymphoma",
+          "Hodgkin's lymphoma",
+          "nasopharyngeal carcinoma"
+        ],
+        [
+          "/wiki/Infectious_mononucleosis",
+          "/wiki/Burkitt%27s_lymphoma",
+          "/wiki/Hodgkin%27s_lymphoma",
+          "/wiki/Nasopharyngeal_carcinoma"
+        ]
+      ],
+      [
+        [
+          "None"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "avoiding close contact with the sick"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1964",
-        null
+        [
+          "Hepatitis A virus"
+        ],
+        [
+          "/wiki/Hepatitis_A_virus"
+        ]
       ],
       [
-        "Sevilla",
-        "/wiki/Sevilla_FC"
+        [
+          "Picornaviridae"
+        ],
+        [
+          "/wiki/Picornaviridae"
+        ]
       ],
       [
-        "2\u20132",
-        null
+        [
+          "fecal-oral"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD M\u00e1laga",
-        "/wiki/CD_M%C3%A1laga"
+        [
+          "acute hepatitis"
+        ],
+        [
+          "/wiki/Acute_hepatitis"
+        ]
+      ],
+      [
+        [
+          "Immunoglobulin",
+          "post-exposure prophylaxis"
+        ],
+        [
+          "/wiki/Immunoglobulin",
+          "/wiki/Post-exposure_prophylaxis"
+        ]
+      ],
+      [
+        [
+          "Hepatitis A vaccine"
+        ],
+        [
+          "/wiki/Hepatitis_A_vaccine"
+        ]
       ]
     ],
     [
       [
-        "1965",
-        null
+        [
+          "Hepatitis B virus"
+        ],
+        [
+          "/wiki/Hepatitis_B_virus"
+        ]
       ],
       [
-        "Tottenham Hotspur",
-        "/wiki/Tottenham_Hotspur_F.C."
+        [
+          "Hepadnaviridae"
+        ],
+        [
+          "/wiki/Hepadnaviridae"
+        ]
       ],
       [
-        "2\u20131",
-        null
+        [
+          "bodily fluids",
+          "Vertical",
+          "sexual"
+        ],
+        [
+          "/wiki/Body_fluids",
+          "/wiki/Vertical_transmission",
+          "/wiki/Sexually_transmitted_disease"
+        ]
       ],
       [
-        "Standard Li\u00e8ge",
-        "/wiki/Standard_Li%C3%A8ge"
+        [
+          "acute hepatitis",
+          "chronic hepatitis",
+          "hepatic cirrhosis",
+          "hepatocellular carcinoma"
+        ],
+        [
+          "/wiki/Acute_hepatitis",
+          "/wiki/Chronic_hepatitis",
+          "/wiki/Cirrhosis",
+          "/wiki/Hepatocellular_carcinoma"
+        ]
+      ],
+      [
+        [
+          "Lamivudine",
+          "Adefovir",
+          "Entecavir",
+          "Pegylated interferon alfa-2"
+        ],
+        [
+          "/wiki/Lamivudine",
+          "/wiki/Adefovir",
+          "/wiki/Entecavir",
+          "/wiki/Pegylated_interferon_alfa-2"
+        ]
+      ],
+      [
+        [
+          "Hepatitis B vaccine"
+        ],
+        [
+          "/wiki/Hepatitis_B_vaccine"
+        ]
       ]
     ],
     [
       [
-        "1966",
-        null
+        [
+          "Hepatitis C virus"
+        ],
+        [
+          "/wiki/Hepatitis_C_virus"
+        ]
       ],
       [
-        "Tottenham Hotspur",
-        "/wiki/Tottenham_Hotspur_F.C."
+        [
+          "Flaviviridae"
+        ],
+        [
+          "/wiki/Flaviviridae"
+        ]
       ],
       [
-        "1\u20130",
-        null
+        [
+          "blood\nsexual contact"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Benfica",
-        "/wiki/S.L._Benfica"
+        [
+          "acute hepatitis",
+          "hepatocellular carcinoma"
+        ],
+        [
+          "/wiki/Acute_hepatitis",
+          "/wiki/Hepatocellular_carcinoma"
+        ]
+      ],
+      [
+        [
+          "Ribavirin",
+          "Pegylated interferon alfa-2"
+        ],
+        [
+          "/wiki/Ribavirin",
+          "/wiki/Pegylated_interferon_alfa-2"
+        ]
+      ],
+      [
+        [
+          "avoiding shared needles/syringes\nsafe sex"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1967",
-        null
+        [
+          "Herpes simplex virus, type 1"
+        ],
+        [
+          "/wiki/Herpes_simplex_virus,_type_1"
+        ]
       ],
       [
-        "Espanyol",
-        "/wiki/RCD_Espanyol"
+        [
+          "Herpesviridae"
+        ],
+        [
+          "/wiki/Herpesviridae"
+        ]
       ],
       [
-        "2\u20131",
-        null
+        [
+          "direct contact\nsaliva"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Argentina",
-        "/wiki/Argentina_national_football_team"
+        [
+          "herpes labialis",
+          "cold sores",
+          "latency",
+          "gingivostomatitis",
+          "tonsillitis",
+          "pharyngitis",
+          "keratoconjunctivitis"
+        ],
+        [
+          "/wiki/Herpes_labialis",
+          "/wiki/Cold_sores",
+          "/wiki/Virus_latency",
+          "/wiki/Gingivostomatitis",
+          "/wiki/Tonsillitis",
+          "/wiki/Pharyngitis",
+          "/wiki/Keratoconjunctivitis"
+        ]
+      ],
+      [
+        [
+          "acyclovir",
+          "famciclovir",
+          "foscarnet",
+          "penciclovir"
+        ],
+        [
+          "/wiki/Acyclovir",
+          "/wiki/Famciclovir",
+          "/wiki/Foscarnet",
+          "/wiki/Penciclovir"
+        ]
+      ],
+      [
+        [
+          "avoiding close contact with lesions\nsafe sex"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1968",
-        null
+        [
+          "Herpes simplex virus, type 2"
+        ],
+        [
+          "/wiki/Herpes_simplex_virus,_type_2"
+        ]
       ],
       [
-        "Racing Club",
-        "/wiki/Racing_Club_de_Avellaneda"
+        [
+          "Herpesviridae"
+        ],
+        [
+          "/wiki/Herpesviridae"
+        ]
       ],
       [
-        "2\u20130",
-        null
+        [
+          "sexual contact\nvertical transmission"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Anderlecht",
-        "/wiki/R.S.C._Anderlecht"
+        [
+          "latent",
+          "Aseptic meningitis"
+        ],
+        [
+          "/wiki/Virus_latency",
+          "/wiki/Aseptic_meningitis"
+        ]
+      ],
+      [
+        [
+          "acyclovir",
+          "famciclovir",
+          "foscarnet",
+          "penciclovir",
+          "cidofovir"
+        ],
+        [
+          "/wiki/Acyclovir",
+          "/wiki/Famciclovir",
+          "/wiki/Foscarnet",
+          "/wiki/Penciclovir",
+          "/wiki/Cidofovir"
+        ]
+      ],
+      [
+        [
+          "avoiding close contact with lesions\nsafe sex"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1969",
-        null
+        [
+          "Cytomegalovirus"
+        ],
+        [
+          "/wiki/Cytomegalovirus"
+        ]
       ],
       [
-        "Corinthians",
-        "/wiki/Sport_Club_Corinthians_Paulista"
+        [
+          "Herpesviridae"
+        ],
+        [
+          "/wiki/Herpesviridae"
+        ]
       ],
       [
-        "2\u20131",
-        null
+        [
+          "vertical transmission",
+          "bodily fluids"
+        ],
+        [
+          "/wiki/Vertical_transmission",
+          "/wiki/Bodily_fluid"
+        ]
       ],
       [
-        "Barcelona",
-        "/wiki/FC_Barcelona"
+        [
+          "infectious mononucleosis",
+          "Cytomegalic inclusion disease",
+          "Premature birth",
+          "liver",
+          "lung",
+          "spleen",
+          "Small size at birth",
+          "Small head size",
+          "seizures"
+        ],
+        [
+          "/wiki/Infectious_mononucleosis",
+          "/wiki/Cytomegalic_inclusion_disease",
+          "/wiki/Premature_birth",
+          "/wiki/Liver_disease",
+          "/wiki/Lung_disease",
+          "/wiki/Spleen",
+          "/wiki/Small_for_gestational_age",
+          "/wiki/Microcephaly",
+          "/wiki/Seizures"
+        ]
+      ],
+      [
+        [
+          "ganciclovir",
+          "cidofovir",
+          "foscarnet"
+        ],
+        [
+          "/wiki/Ganciclovir",
+          "/wiki/Cidofovir",
+          "/wiki/Foscarnet"
+        ]
+      ],
+      [
+        [
+          "hand washing\navoid sharing food and drinks with others\nsafe sex"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1970",
-        null
+        [
+          "Human herpesvirus, type 8"
+        ],
+        [
+          "/wiki/Human_herpesvirus,_type_8"
+        ]
       ],
       [
-        "Vasas",
-        "/wiki/Vasas_SC"
+        [
+          "Herpesviridae"
+        ],
+        [
+          "/wiki/Herpesviridae"
+        ]
       ],
       [
-        "2\u20131",
-        null
+        [
+          "Saliva\nSexual"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD M\u00e1laga",
-        "/wiki/CD_M%C3%A1laga"
+        [
+          "Kaposi sarcoma",
+          "Castleman disease",
+          "primary effusion lymphoma"
+        ],
+        [
+          "/wiki/Kaposi_sarcoma",
+          "/wiki/Castleman_disease",
+          "/wiki/Primary_effusion_lymphoma"
+        ]
+      ],
+      [
+        [
+          "many in evaluation-stage"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "avoid close contact with lesions\nsafe sex"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1971",
-        null
+        [
+          "HIV"
+        ],
+        [
+          "/wiki/HIV"
+        ]
       ],
       [
-        "CD M\u00e1laga",
-        "/wiki/CD_M%C3%A1laga"
+        [
+          "Retroviridae"
+        ],
+        [
+          "/wiki/Retroviridae"
+        ]
       ],
       [
-        "2\u20131",
-        null
+        [
+          "blood",
+          "breast milk"
+        ],
+        [
+          "/wiki/Blood",
+          "/wiki/Breast_milk"
+        ]
       ],
       [
-        "Red Star",
-        "/wiki/Red_Star_Belgrade"
+        [
+          "AIDS"
+        ],
+        [
+          "/wiki/AIDS"
+        ]
+      ],
+      [
+        [
+          "HAART",
+          "protease inhibitors",
+          "reverse-transcriptase inhibitors"
+        ],
+        [
+          "/wiki/HAART",
+          "/wiki/Protease_inhibitor_(pharmacology)",
+          "/wiki/Reverse-transcriptase_inhibitor"
+        ]
+      ],
+      [
+        [
+          "zidovudine"
+        ],
+        [
+          "/wiki/Zidovudine"
+        ]
       ]
     ],
     [
       [
-        "1972",
-        null
+        [
+          "Influenza virus"
+        ],
+        [
+          "/wiki/Influenza_virus"
+        ]
       ],
       [
-        "Nacional",
-        "/wiki/Club_Nacional_de_Football"
+        [
+          "Orthomyxoviridae"
+        ],
+        [
+          "/wiki/Orthomyxoviridae"
+        ]
       ],
       [
-        "1\u20130",
-        null
+        [
+          "droplet contact"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD M\u00e1laga",
-        "/wiki/CD_M%C3%A1laga"
+        [
+          "influenza",
+          "Reye syndrome"
+        ],
+        [
+          "/wiki/Influenza",
+          "/wiki/Reye_syndrome"
+        ]
+      ],
+      [
+        [
+          "amantadine",
+          "rimantadine",
+          "zanamivir",
+          "oseltamivir"
+        ],
+        [
+          "/wiki/Amantadine",
+          "/wiki/Rimantadine",
+          "/wiki/Zanamivir",
+          "/wiki/Oseltamivir"
+        ]
+      ],
+      [
+        [
+          "influenza vaccine",
+          "amantadine",
+          "rimantadine"
+        ],
+        [
+          "/wiki/Influenza_vaccine",
+          "/wiki/Amantadine",
+          "/wiki/Rimantadine"
+        ]
       ]
     ],
     [
       [
-        "1973",
-        null
+        [
+          "Measles virus"
+        ],
+        [
+          "/wiki/Measles_virus"
+        ]
       ],
       [
-        "Red Star",
-        "/wiki/Red_Star_Belgrade"
+        [
+          "Paramyxoviridae"
+        ],
+        [
+          "/wiki/Paramyxoviridae"
+        ]
       ],
       [
-        "2\u20131",
-        null
+        [
+          "droplet contact"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD M\u00e1laga",
-        "/wiki/CD_M%C3%A1laga"
+        [
+          "measles",
+          "postinfectious encephalomyelitis"
+        ],
+        [
+          "/wiki/Measles",
+          "/wiki/Postinfectious_encephalomyelitis"
+        ]
+      ],
+      [
+        [
+          "None"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MMR vaccine"
+        ],
+        [
+          "/wiki/MMR_vaccine"
+        ]
       ]
     ],
     [
       [
-        "1974",
-        null
+        [
+          "Mumps virus"
+        ],
+        [
+          "/wiki/Mumps_virus"
+        ]
       ],
       [
-        "CD M\u00e1laga",
-        "/wiki/CD_M%C3%A1laga"
+        [
+          "Paramyxoviridae"
+        ],
+        [
+          "/wiki/Paramyxoviridae"
+        ]
       ],
       [
-        "1\u20131",
-        null
+        [
+          "droplet contact"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Derby County",
-        "/wiki/Derby_County_F.C."
+        [
+          "mumps"
+        ],
+        [
+          "/wiki/Mumps"
+        ]
+      ],
+      [
+        [
+          "None"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MMR vaccine"
+        ],
+        [
+          "/wiki/MMR_vaccine"
+        ]
       ]
     ],
     [
       [
-        "1975",
-        null
+        [
+          "Human papillomavirus"
+        ],
+        [
+          "/wiki/Human_papillomavirus"
+        ]
       ],
       [
-        "Pe\u00f1arol",
-        "/wiki/Pe%C3%B1arol"
+        [
+          "Papillomaviridae"
+        ],
+        [
+          "/wiki/Papillomaviridae"
+        ]
       ],
       [
-        "3\u20132",
-        null
+        [
+          "direct contact",
+          "sexual contact"
+        ],
+        [
+          "/wiki/Transmission_(medicine)",
+          "/wiki/Transmission_(medicine)"
+        ]
       ],
       [
-        "CD M\u00e1laga",
-        "/wiki/CD_M%C3%A1laga"
+        [
+          "hyperplastic epithelial lesions",
+          "common",
+          "flat",
+          "plantar",
+          "anogenital warts",
+          "laryngeal papillomas",
+          "epidermodysplasia verruciformis",
+          "cervical carcinoma",
+          "squamous cell carcinomas"
+        ],
+        [
+          null,
+          "/wiki/Common_warts",
+          "/wiki/Flat_wart",
+          "/wiki/Plantar_wart",
+          "/wiki/Anogenital_warts",
+          "/wiki/Laryngeal_papilloma",
+          "/wiki/Epidermodysplasia_verruciformis",
+          "/wiki/Cervical_carcinoma",
+          "/wiki/Squamous_cell_carcinomas"
+        ]
+      ],
+      [
+        [
+          "liquid nitrogen",
+          "laser vaporization",
+          "cytotoxic",
+          "interferon",
+          "cidofovir"
+        ],
+        [
+          "/wiki/Liquid_nitrogen",
+          "/wiki/Laser_vaporization",
+          "/wiki/Cytotoxic",
+          "/wiki/Interferon",
+          "/wiki/Cidofovir"
+        ]
+      ],
+      [
+        [
+          "HPV vaccine"
+        ],
+        [
+          "/wiki/HPV_vaccine"
+        ]
       ]
     ],
     [
       [
-        "1976",
-        null
+        [
+          "Parainfluenza virus"
+        ],
+        [
+          "/wiki/Parainfluenza_virus"
+        ]
       ],
       [
-        "Real Madrid",
-        "/wiki/Real_Madrid_C.F."
+        [
+          "Paramyxoviridae"
+        ],
+        [
+          "/wiki/Paramyxoviridae"
+        ]
       ],
       [
-        "3\u20130",
-        null
+        [
+          "droplet contact"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD M\u00e1laga",
-        "/wiki/CD_M%C3%A1laga"
+        [
+          "croup",
+          "pneumonia",
+          "bronchiolitis",
+          "common cold"
+        ],
+        [
+          "/wiki/Croup",
+          "/wiki/Pneumonia",
+          "/wiki/Bronchiolitis",
+          "/wiki/Common_cold"
+        ]
+      ],
+      [
+        [
+          "None"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "hand washing\ncovering mouth when coughing/sneezing"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1977",
-        null
+        [
+          "Poliovirus"
+        ],
+        [
+          "/wiki/Poliovirus"
+        ]
       ],
       [
-        "Barcelona",
-        "/wiki/FC_Barcelona"
+        [
+          "Picornaviridae"
+        ],
+        [
+          "/wiki/Picornaviridae"
+        ]
       ],
       [
-        "3\u20130",
-        null
+        [
+          "fecal-oral"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD M\u00e1laga",
-        "/wiki/CD_M%C3%A1laga"
+        [
+          "poliomyelitis"
+        ],
+        [
+          "/wiki/Poliomyelitis"
+        ]
+      ],
+      [
+        [
+          "None"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Polio vaccine"
+        ],
+        [
+          "/wiki/Polio_vaccine"
+        ]
       ]
     ],
     [
       [
-        "1978",
-        null
+        [
+          "Rabies virus"
+        ],
+        [
+          "/wiki/Rabies_virus"
+        ]
       ],
       [
-        "Athletic Bilbao",
-        "/wiki/Athletic_Bilbao"
+        [
+          "Rhabdoviridae"
+        ],
+        [
+          "/wiki/Rhabdoviridae"
+        ]
       ],
       [
-        "2\u20131",
-        null
+        [
+          "animal bite\ndroplet contact"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hurac\u00e1n",
-        "/wiki/Club_Atl%C3%A9tico_Hurac%C3%A1n"
+        [
+          "rabies"
+        ],
+        [
+          "/wiki/Rabies"
+        ]
+      ],
+      [
+        [
+          "Post-exposure prophylaxis"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "rabies vaccine"
+        ],
+        [
+          "/wiki/Rabies_vaccine"
+        ]
       ]
     ],
     [
       [
-        "1979",
-        null
+        [
+          "Respiratory syncytial virus"
+        ],
+        [
+          "/wiki/Respiratory_syncytial_virus"
+        ]
       ],
       [
-        "Ferencv\u00e1ros",
-        "/wiki/Ferencv%C3%A1rosi_TC"
+        [
+          "Paramyxoviridae"
+        ],
+        [
+          "/wiki/Paramyxoviridae"
+        ]
       ],
       [
-        "2\u20131",
-        null
+        [
+          "droplet contact\nhand to mouth"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sevilla",
-        "/wiki/Sevilla_FC"
+        [
+          "pneumonia",
+          "influenza-like syndrome",
+          "severe bronchiolitis with pneumonia"
+        ],
+        [
+          "/wiki/Pneumonia",
+          null,
+          null
+        ]
+      ],
+      [
+        [
+          "ribavirin"
+        ],
+        [
+          "/wiki/Ribavirin"
+        ]
+      ],
+      [
+        [
+          "palivizumab"
+        ],
+        [
+          "/wiki/Palivizumab"
+        ]
       ]
     ],
     [
       [
-        "1980",
-        null
+        [
+          "Rubella virus"
+        ],
+        [
+          "/wiki/Rubella_virus"
+        ]
       ],
       [
-        "Atl\u00e9tico Mineiro",
-        "/wiki/Clube_Atl%C3%A9tico_Mineiro"
+        [
+          "Togaviridae"
+        ],
+        [
+          "/wiki/Togaviridae"
+        ]
       ],
       [
-        "1\u20130",
-        null
+        [
+          "Respiratory droplet contact"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CD M\u00e1laga",
-        "/wiki/CD_M%C3%A1laga"
+        [
+          "congenital rubella",
+          "German measles"
+        ],
+        [
+          "/wiki/Congenital_rubella",
+          "/wiki/German_measles"
+        ]
+      ],
+      [
+        [
+          "None"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MMR vaccine"
+        ],
+        [
+          "/wiki/MMR_vaccine"
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "The clinical characteristics of viruses may differ substantially among species within the same family:",
   "idx": 1466
 }

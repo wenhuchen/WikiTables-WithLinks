@@ -1,167 +1,573 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2006_Aerobic_Gymnastics_World_Championships",
-  "title": "2006 Aerobic Gymnastics World Championships",
+  "url": "https://en.wikipedia.org/wiki/List_of_matrices",
+  "title": "List of matrices",
   "header": [
     [
-      "Rank",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Gymnasts",
-      null
+      [
+        "Explanation"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country",
-      null
-    ],
-    [
-      "Point",
-      null
+      [
+        "Applications"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "",
-        null
+        [
+          "Adjugate matrix"
+        ],
+        [
+          "/wiki/Adjugate_matrix"
+        ]
       ],
       [
-        "Tudorel-Valentin Mavrodineanu,Tania Mihaela Pohoata",
-        "/wiki/Valentin_Mavrodineanu /wiki/Mihaela_Pohoata"
+        [
+          "minors"
+        ],
+        [
+          "/wiki/Minor_(linear_algebra)"
+        ]
       ],
       [
-        "Romania",
-        "/wiki/Romania"
-      ],
-      [
-        "20.450",
-        null
+        [
+          "inverse matrices",
+          "Laplace expansion"
+        ],
+        [
+          "/wiki/Inverse_matrix",
+          "/wiki/Laplace_expansion"
+        ]
       ]
     ],
     [
       [
-        "",
-        null
+        [
+          "Alternating sign matrix"
+        ],
+        [
+          "/wiki/Alternating_sign_matrix"
+        ]
       ],
       [
-        "Wilkie Satti Sanchez,Giovanna Lecis",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "A square matrix of with entries 0, 1 and \u22121 such that the sum of each row and column is 1 and the nonzero entries in each row and column alternate in sign."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Italy",
-        "/wiki/Italy"
-      ],
-      [
-        "20.250",
-        null
+        [
+          "Dodgson condensation"
+        ],
+        [
+          "/wiki/Dodgson_condensation"
+        ]
       ]
     ],
     [
       [
-        "",
-        null
+        [
+          "Augmented matrix"
+        ],
+        [
+          "/wiki/Augmented_matrix"
+        ]
       ],
       [
-        "Aur\u00e9lie Joly,Julien Chaninet",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "A matrix whose rows are concatenations of the rows of two smaller matrices."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "France",
-        "/wiki/France"
-      ],
-      [
-        "20.200",
-        null
+        [
+          "inverse matrices"
+        ],
+        [
+          "/wiki/Inverse_matrix"
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "B\u00e9zout matrix"
+        ],
+        [
+          "/wiki/B%C3%A9zout_matrix"
+        ]
       ],
       [
-        "Cristina Antonescu,Mircea Brinzea",
-        "/wiki/Cristina_Antonescu /wiki/Mircea_Brinzea"
+        [
+          "A square matrix which may be used as a tool for the efficient location of polynomial zeros"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Romania",
-        "/wiki/Romania"
-      ],
-      [
-        "20.150",
-        null
+        [
+          "Control theory",
+          "Stable polynomials"
+        ],
+        [
+          "/wiki/Control_theory",
+          "/wiki/Stable_polynomial"
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Carleman matrix"
+        ],
+        [
+          "/wiki/Carleman_matrix"
+        ]
       ],
       [
-        "Huang Jinxuan,He Shijian",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "A matrix that converts composition of functions to multiplication of matrices."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "China",
-        "/wiki/China"
-      ],
-      [
-        "19.550",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "Cartan matrix"
+        ],
+        [
+          "/wiki/Cartan_matrix"
+        ]
       ],
       [
-        "Israel Carrasco,Saray Martin",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "associative algebra",
+          "semisimple Lie algebra"
+        ],
+        [
+          "/wiki/Associative_algebra",
+          "/wiki/Semisimple_Lie_algebra"
+        ]
       ],
       [
-        "Spain",
-        "/wiki/Spain"
-      ],
-      [
-        "19.400",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "Circulant matrix"
+        ],
+        [
+          "/wiki/Circulant_matrix"
+        ]
       ],
       [
-        "Margarita Stoyanova,Radoslov Zhivkov",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "A matrix where each row is a circular shift of its predecessor."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bulgaria",
-        "/wiki/Bulgaria"
-      ],
-      [
-        "19.400",
-        null
+        [
+          "System of linear equations",
+          "discrete Fourier transform"
+        ],
+        [
+          "/wiki/System_of_linear_equations",
+          "/wiki/Discrete_Fourier_transform"
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "Cofactor matrix"
+        ],
+        [
+          "/wiki/Cofactor_matrix"
+        ]
       ],
       [
-        "Fan Jie,Ni Zhen Hua",
-        "/wiki/Fan_Jie /wiki/HTTP_404"
+        [
+          "cofactors",
+          "minors"
+        ],
+        [
+          "/wiki/Cofactor_(linear_algebra)",
+          "/wiki/Minor_(linear_algebra)"
+        ]
       ],
       [
-        "China",
-        "/wiki/China"
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Commutation matrix"
+        ],
+        [
+          "/wiki/Commutation_matrix"
+        ]
       ],
       [
-        "19.250",
-        null
+        [
+          "A matrix used for transforming the vectorized form of a matrix into the vectorized form of its transpose."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Coxeter matrix"
+        ],
+        [
+          "/wiki/Coxeter_matrix"
+        ]
+      ],
+      [
+        [
+          "Coxeter groups",
+          "symmetries"
+        ],
+        [
+          "/wiki/Coxeter_groups",
+          "/wiki/Symmetry"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Derogatory matrix"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "minimal polynomial"
+        ],
+        [
+          "/wiki/Minimal_polynomial_(linear_algebra)"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Distance matrix"
+        ],
+        [
+          "/wiki/Distance_matrix"
+        ]
+      ],
+      [
+        [
+          "points"
+        ],
+        [
+          "/wiki/Point_(geometry)"
+        ]
+      ],
+      [
+        [
+          "Computer vision",
+          "network analysis"
+        ],
+        [
+          "/wiki/Computer_vision",
+          "/wiki/Network_analysis_(electronics)"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Duplication matrix"
+        ],
+        [
+          "/wiki/Duplication_matrix"
+        ]
+      ],
+      [
+        [
+          "vectorizations"
+        ],
+        [
+          "/wiki/Vectorization_(mathematics)"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Elimination matrix"
+        ],
+        [
+          "/wiki/Elimination_matrix"
+        ]
+      ],
+      [
+        [
+          "vectorizations"
+        ],
+        [
+          "/wiki/Vectorization_(mathematics)"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Euclidean distance matrix"
+        ],
+        [
+          "/wiki/Euclidean_distance_matrix"
+        ]
+      ],
+      [
+        [
+          "points",
+          "Euclidean space"
+        ],
+        [
+          "/wiki/Point_(geometry)",
+          "/wiki/Euclidean_space"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Fundamental matrix (linear differential equation)"
+        ],
+        [
+          "/wiki/Fundamental_matrix_(linear_differential_equation)"
+        ]
+      ],
+      [
+        [
+          "ordinary differential equation"
+        ],
+        [
+          "/wiki/Ordinary_differential_equation"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Generator matrix"
+        ],
+        [
+          "/wiki/Generator_matrix"
+        ]
+      ],
+      [
+        [
+          "linear code"
+        ],
+        [
+          "/wiki/Linear_code"
+        ]
+      ],
+      [
+        [
+          "Coding theory"
+        ],
+        [
+          "/wiki/Coding_theory"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Gramian matrix"
+        ],
+        [
+          "/wiki/Gramian_matrix"
+        ]
+      ],
+      [
+        [
+          "inner product space"
+        ],
+        [
+          "/wiki/Inner_product_space"
+        ]
+      ],
+      [
+        [
+          "linear independence",
+          "function spaces"
+        ],
+        [
+          "/wiki/Linear_independence",
+          "/wiki/Function_space"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Hessian matrix"
+        ],
+        [
+          "/wiki/Hessian_matrix"
+        ]
+      ],
+      [
+        [
+          "second partial derivatives"
+        ],
+        [
+          "/wiki/Partial_derivative"
+        ]
+      ],
+      [
+        [
+          "local minima",
+          "Blob detection",
+          "computer vision"
+        ],
+        [
+          "/wiki/Local_minimum",
+          "/wiki/Blob_detection",
+          "/wiki/Computer_vision"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Householder matrix"
+        ],
+        [
+          "/wiki/Householder_transformation"
+        ]
+      ],
+      [
+        [
+          "A transformation matrix widely used in matrix algorithms."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "QR decomposition"
+        ],
+        [
+          "/wiki/QR_decomposition"
+        ]
       ]
     ]
   ],

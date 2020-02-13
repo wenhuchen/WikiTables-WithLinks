@@ -1,551 +1,785 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_fatal_dog_attacks_in_the_United_States",
-  "title": "List of fatal dog attacks in the United States",
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_EDA_software",
+  "title": "Comparison of EDA software",
   "header": [
     [
-      "Date",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      null
+      [
+        "Architecture"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Victim's name",
-      null
+      [
+        "License"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Victim's age",
-      null
+      [
+        "Autorouter"
+      ],
+      [
+        "/wiki/Routing_(EDA)"
+      ]
     ],
     [
-      "Category of dog",
-      null
-    ],
-    [
-      "Circumstances",
-      null
+      [
+        "Comment"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "January 9",
-        null
+        [
+          "Electric"
+        ],
+        [
+          "/wiki/Electric_(software)"
+        ]
       ],
       [
-        "Ouachita Parish",
-        "/wiki/Ouachita_Parish,_Louisiana"
+        [
+          "*BSD",
+          "Java"
+        ],
+        [
+          "/wiki/FreeBSD",
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "Laura Ray",
-        null
+        [
+          "GPL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "53 years",
-        null
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pit bull",
-        "/wiki/Pit_bull"
-      ],
-      [
-        "Laura was killed by the dog at a pet boarding facility, Happy Hounds Hotel, where she worked. It was the dog's first stay at the facility; its owner later said the dog had never done anything like that before.  The dog was euthanized later that week.",
-        null
+        [
+          "VLSI",
+          "PCB"
+        ],
+        [
+          "/wiki/Very-large-scale_integration",
+          "/wiki/Printed_circuit_board"
+        ]
       ]
     ],
     [
       [
-        "January 14",
-        null
+        [
+          "FreePCB"
+        ],
+        [
+          "/wiki/FreePCB"
+        ]
       ],
       [
-        "Duncan",
-        "/wiki/Duncan,_Oklahoma"
+        [
+          "w32"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
       ],
       [
-        "Rylee Dodge",
-        null
+        [
+          "GPL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "3 years",
-        null
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pit bull",
-        "/wiki/Pit_bull"
-      ],
-      [
-        "Rylee was killed in her own home by a dog her family had acquired only five days earlier.",
-        null
+        [
+          "printed circuit board",
+          "Microsoft Windows",
+          "metric",
+          "US customary units",
+          "Gerber format",
+          "FreeRouting",
+          "Specctra"
+        ],
+        [
+          "/wiki/Printed_circuit_board",
+          "/wiki/Microsoft_Windows",
+          "/wiki/Metric_system",
+          "/wiki/US_customary_units",
+          "/wiki/Gerber_format",
+          null,
+          "/wiki/Specctra"
+        ]
       ]
     ],
     [
       [
-        "February 15",
-        null
+        [
+          "Fritzing"
+        ],
+        [
+          "/wiki/Fritzing"
+        ]
       ],
       [
-        "Owensboro",
-        "/wiki/Owensboro,_Kentucky"
+        [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/Mac_OS_X",
+          "/wiki/Linux"
+        ]
       ],
       [
-        "David Brown",
-        null
+        [
+          "GPL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "46 years",
-        null
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "pit bull",
-        "/wiki/Pit_bull"
-      ],
-      [
-        "Beagle,Dachshund",
-        "/wiki/Beagle /wiki/Dachshund"
+        [
+          "Arduino",
+          "Raspberry Pi"
+        ],
+        [
+          "/wiki/Arduino",
+          "/wiki/Raspberry_Pi"
+        ]
       ]
     ],
     [
       [
-        "March 7",
-        null
+        [
+          "gEDA"
+        ],
+        [
+          "/wiki/GEDA"
+        ]
       ],
       [
-        "Jonesville",
-        "/wiki/Jonesville,_Virginia"
+        [
+          "*BSD",
+          "Linux",
+          "Mac"
+        ],
+        [
+          "/wiki/FreeBSD",
+          "/wiki/Linux",
+          "/wiki/Mac_OS_X"
+        ]
       ],
       [
-        "Aurora Little",
-        null
+        [
+          "GPL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "8 days",
-        null
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Malamute,Wolf hybrid",
-        "/wiki/Alaskan_Malamute /wiki/Wolfdog"
-      ],
-      [
-        "The baby girl was mauled and killed while she was in her bassinet by the 3-year-old family dog.",
-        null
+        [
+          "schematic, simulation, PCB editor, gerber view"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "March 9",
-        null
+        [
+          "Gnucap"
+        ],
+        [
+          "/wiki/Gnucap"
+        ]
       ],
       [
-        "Cape Girardeau",
-        "/wiki/Cape_Girardeau,_Missouri"
+        [
+          "any (C++98)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Loxli Chavez",
-        null
+        [
+          "GPL3"
+        ],
+        [
+          "/wiki/GPL3"
+        ]
       ],
       [
-        "13 months",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mixed-breed dog,pit bull",
-        "/wiki/Mixed-breed_dog /wiki/Pit_bull"
-      ],
-      [
-        "pit bull,Labrador,Malamute",
-        "/wiki/Pit_bull /wiki/Labrador_retriever /wiki/Alaskan_malamute"
+        [
+          "Mixed-signal circuit simulator"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "March 25",
-        null
+        [
+          "Icarus Verilog"
+        ],
+        [
+          "/wiki/Icarus_Verilog"
+        ]
       ],
       [
-        "Converse",
-        "/wiki/Converse,_Texas"
+        [
+          "*BSD",
+          "Linux",
+          "Mac"
+        ],
+        [
+          "/wiki/FreeBSD",
+          "/wiki/Linux",
+          "/wiki/Mac_OS_X"
+        ]
       ],
       [
-        "Noah Trevino",
-        null
+        [
+          "GPL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4 years",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "pit bull",
-        "/wiki/Pit_bull"
-      ],
-      [
-        "The boy was playing in the backyard of his home when the family dog attacked and killed him. The dog was tethered at the time of the attack and was described as a \"pit bull mix\" by a family member, and as a \"mixed large-breed dog\" by Bexar County Animal Control who seized the dog and intends to euthanize it.",
-        null
+        [
+          "Verilog"
+        ],
+        [
+          "/wiki/Verilog"
+        ]
       ]
     ],
     [
       [
-        "March 25",
-        null
+        [
+          "KiCad"
+        ],
+        [
+          "/wiki/KiCad"
+        ]
       ],
       [
-        "Milwaukee",
-        "/wiki/Milwaukee"
+        [
+          "Linux",
+          "Mac",
+          "Windows"
+        ],
+        [
+          "/wiki/Linux",
+          "/wiki/Mac_OS_X",
+          "/wiki/Microsoft_Windows"
+        ]
       ],
       [
-        "Hong Saengsamly",
-        null
+        [
+          "GNU GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ],
       [
-        "49 years",
-        null
+        [
+          "Built-in, or FreeRouting"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pit bull",
-        "/wiki/Pit_bull"
-      ],
-      [
-        "Victim was killed by her own dog. Her adult son discovered her body with one of her 2 pit bulls guarding it; when it attacked him, he shot it to death. Her arms and shoulders had been mauled so badly, bone was exposed on one arm.",
-        null
+        [
+          "Full package for schematic and board design, etc. Design rule checking. User-defined symbols and footprints. Gerber/ drill file creation. Graphic interface. Active user community."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "May 5",
-        null
+        [
+          "KTechLab"
+        ],
+        [
+          "/wiki/KTechLab"
+        ]
       ],
       [
-        "Sherman Oaks",
-        "/wiki/Sherman_Oaks,_California"
+        [
+          "Linux"
+        ],
+        [
+          "/wiki/Linux"
+        ]
       ],
       [
-        "Gaia Nova",
-        null
+        [
+          "GPL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "3 months",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rottweiler,Labrador Retriever",
-        "/wiki/Rottweiler /wiki/Labrador_Retriever"
-      ],
-      [
-        "terrier",
-        "/wiki/Terrier"
+        [
+          "KTechLab is a schematic capture and simulator. It is specifically geared toward mixed signal simulation of analog components and small digital processors."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "May 10",
-        null
+        [
+          "LTspice"
+        ],
+        [
+          "/wiki/LTspice"
+        ]
       ],
       [
-        "Ardmore",
-        "/wiki/Ardmore,_Oklahoma"
+        [
+          "Windows",
+          "macOS"
+        ],
+        [
+          "/wiki/Windows",
+          "/wiki/MacOS"
+        ]
       ],
       [
-        "Tracy Garcia",
-        null
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "52 years",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dachshund,Terrier,Dachshund,Border Collie",
-        "/wiki/Dachshund /wiki/Pit_bull /wiki/Dachshund /wiki/Border_Collie"
-      ],
-      [
-        "The woman was attacked and killed by her neighbor's seven dogs. The dogs were described as 6 Dachshund-Terrier mixes and one Dachshund-Border Collie mix. While news sources describe the dogs as a number of Dachshund and Terrier mixes, the exact breed(s) of the dogs remains unknown.",
-        null
+        [
+          "Linear Technology",
+          "Analog Devices"
+        ],
+        [
+          "/wiki/Linear_Technology",
+          "/wiki/Analog_Devices"
+        ]
       ]
     ],
     [
       [
-        "May 16",
-        null
+        [
+          "Magic"
+        ],
+        [
+          "/wiki/Magic_(software)"
+        ]
       ],
       [
-        "Gulfport",
-        "/wiki/Gulfport,_Mississippi"
+        [
+          "Linux"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Georgia Morgan",
-        null
+        [
+          "BSD license"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "75 years",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pit bulls",
-        "/wiki/Pit_bull"
-      ],
-      [
-        "Attacked by neighbor's dogs. The neighbor, Emily Craft, was later arrested on charges of \"dog at large\" and \"vicious animal,\" and the dogs were euthanized.",
-        null
+        [
+          "very-large-scale integration"
+        ],
+        [
+          "/wiki/Very-large-scale_integration"
+        ]
       ]
     ],
     [
       [
-        "May 24",
-        null
+        [
+          "Ngspice"
+        ],
+        [
+          "/wiki/Ngspice"
+        ]
       ],
       [
-        "Altoona",
-        "/wiki/Altoona,_Pennsylvania"
+        [
+          "Linux",
+          "Solaris",
+          "Mac",
+          "NetBSD",
+          "FreeBSD",
+          "w32"
+        ],
+        [
+          "/wiki/Linux",
+          "/wiki/Solaris_(operating_system)",
+          "/wiki/Mac_OS_X",
+          "/wiki/NetBSD",
+          "/wiki/FreeBSD",
+          "/wiki/Microsoft_Windows"
+        ]
       ],
       [
-        "Gauge Allen Eckenrode",
-        null
+        [
+          "BSD"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6 years",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pit bull",
-        "/wiki/Pit_bull"
-      ],
-      [
-        "The victim was attacked outside the house by the family dog.",
-        null
+        [
+          "SPICE"
+        ],
+        [
+          "/wiki/SPICE"
+        ]
       ]
     ],
     [
       [
-        "May 30",
-        null
+        [
+          "Oregano"
+        ],
+        [
+          "/wiki/Oregano_(software)"
+        ]
       ],
       [
-        "Miramar",
-        "/wiki/Miramar,_Florida"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Liana Valino",
-        null
+        [
+          "GPL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "8 months",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pit bull",
-        "/wiki/Pit_bull"
-      ],
-      [
-        "Infant attacked by family dog while in a bouncy chair at her grandmother's house. The dog, along with two others in the household, was seized.",
-        null
+        [
+          "Schematic capture + spice simulation"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "June 10",
-        null
+        [
+          "Quite Universal Circuit Simulator"
+        ],
+        [
+          "/wiki/Quite_Universal_Circuit_Simulator"
+        ]
       ],
       [
-        "Forest Park",
-        "/wiki/Forest_Park,_Georgia"
+        [
+          "Linux",
+          "Solaris",
+          "Mac",
+          "NetBSD",
+          "FreeBSD",
+          "w32"
+        ],
+        [
+          "/wiki/Linux",
+          "/wiki/Solaris_(operating_system)",
+          "/wiki/Mac_OS_X",
+          "/wiki/NetBSD",
+          "/wiki/FreeBSD",
+          "/wiki/Microsoft_Windows"
+        ]
       ],
       [
-        "Paige Bradley",
-        null
+        [
+          "GPL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "5 months",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "German Shepherd",
-        "/wiki/German_Shepherd"
-      ],
-      [
-        "The baby girl was mauled and killed by the babysitter's dog while the infant was asleep. The babysitter was also asleep in another room when the incident occurred. The babysitter was a family friend and the dog had been around the baby since it was born.",
-        null
+        [
+          "Schematic capture"
+        ],
+        [
+          "/wiki/Schematic_capture"
+        ]
       ]
     ],
     [
       [
-        "June 21",
-        null
+        [
+          "pcb-rnd"
+        ],
+        [
+          "/wiki/Pcb-rnd"
+        ]
       ],
       [
-        "Huntingtown",
-        "/wiki/Huntingtown,_Maryland"
+        [
+          "*BSD",
+          "Linux",
+          "Mac",
+          "w32"
+        ],
+        [
+          "/wiki/FreeBSD",
+          "/wiki/Linux",
+          "/wiki/Mac_OS_X",
+          "/wiki/Microsoft_Windows"
+        ]
       ],
       [
-        "Jenna Sutphin",
-        null
+        [
+          "GPL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "28 years",
-        null
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dogo Argentino",
-        "/wiki/Dogo_Argentino"
-      ],
-      [
-        "Jenna was attacked and killed by one of her dogs, a Dogo Argentino that she owned with her fiance. She was found outside of her home early in the morning and died later that day as a result of her injuries. Her fiance is a K-9 officer and they owned two Dogo Argentinos (both family dogs) that were being used as a breeding pair. The dog that attacked Jenna was shot and killed by a responding Maryland State Police trooper.",
-        null
+        [
+          "DRC"
+        ],
+        [
+          "/wiki/Design_rule_checking"
+        ]
       ]
     ],
     [
       [
-        "June 25",
-        null
+        [
+          "Verilator"
+        ],
+        [
+          "/wiki/Verilator"
+        ]
       ],
       [
-        "Arcata",
-        "/wiki/Arcata,_California"
+        [
+          "Posix"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Donald Steele",
-        null
+        [
+          "GPL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "91 years",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mixed-breed dog",
-        "/wiki/Mixed-breed_dog"
-      ],
-      [
-        "Victim and his son's girlfriend were attacked in their home in a trailer park by a dog owned by victim's adult son. Shelter official Andre Hale described it as a mixed-breed dog. The animal was euthanized and tested negative for rabies.",
-        null
+        [
+          "SystemC",
+          "ModelSim"
+        ],
+        [
+          "/wiki/SystemC",
+          "/wiki/ModelSim"
+        ]
       ]
     ],
     [
       [
-        "July 8",
-        null
+        [
+          "XCircuit"
+        ],
+        [
+          "/wiki/XCircuit"
+        ]
       ],
       [
-        "Montgomery",
-        "/wiki/Montgomery,_Alabama"
+        [
+          "Unix"
+        ],
+        [
+          "/wiki/Unix"
+        ]
       ],
       [
-        "Joseph Pettaway",
-        null
+        [
+          "GPL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "51 years",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Belgian Malinois",
-        "/wiki/Malinois_dog"
-      ],
-      [
-        "The man was killed by a police K9 unit when police were responding to a burglary-in-progress call. The man was believed to be burglarizing a house when the K9 unit entered the house and attacked him.",
-        null
-      ]
-    ],
-    [
-      [
-        "July 17",
-        null
-      ],
-      [
-        "Jacksonville",
-        "/wiki/Jacksonville,_Florida"
-      ],
-      [
-        "Jaelah Smith",
-        null
-      ],
-      [
-        "6 years",
-        null
-      ],
-      [
-        "pit bull",
-        "/wiki/Pit_bull"
-      ],
-      [
-        "Jaelah was attacked on Sunday, July 15 by a dog that her family was dog sitting and she died of her injuries several days later. The family was watching the dog while its owner was on vacation.",
-        null
-      ]
-    ],
-    [
-      [
-        "August 1",
-        null
-      ],
-      [
-        "Philadelphia",
-        "/wiki/Philadelphia"
-      ],
-      [
-        "Javon Torres",
-        null
-      ],
-      [
-        "2 years",
-        null
-      ],
-      [
-        "Pit bulls",
-        "/wiki/Pit_bull"
-      ],
-      [
-        "Victim was attacked by three dogs in his home while under the care of a babysitter.",
-        null
-      ]
-    ],
-    [
-      [
-        "August 4",
-        null
-      ],
-      [
-        "Chicago",
-        "/wiki/Chicago"
-      ],
-      [
-        "Karen Brown",
-        null
-      ],
-      [
-        "57 years",
-        null
-      ],
-      [
-        "Pit bull",
-        "/wiki/Pit_bull"
-      ],
-      [
-        "Victim was attacked by a loose dog that had been kept in an unfenced backyard by owners who kept multiple dogs in crates",
-        null
-      ]
-    ],
-    [
-      [
-        "August 9",
-        null
-      ],
-      [
-        "Montgomery County",
-        "/wiki/Montgomery_County,_North_Carolina"
-      ],
-      [
-        "Olga Rekhson",
-        null
-      ],
-      [
-        "64 years",
-        null
-      ],
-      [
-        "Pit bulls",
-        "/wiki/Pit_bull"
-      ],
-      [
-        "Victim went for a walk. She was discovered a few hours later, deceased on the side of an unused road within the development.",
-        null
+        [
+          "Used to produce netlists and publish high-quality drawings."
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

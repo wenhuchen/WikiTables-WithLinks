@@ -1,269 +1,647 @@
 {
-  "url": "https://en.wikipedia.org/wiki/La_Voz_(Spanish_season_1)",
-  "title": "La Voz (Spanish season 1)",
+  "url": "https://en.wikipedia.org/wiki/Inter-Cities_Fairs_Cup",
+  "title": "Inter-Cities Fairs Cup",
   "header": [
     [
-      "Order",
-      null
+      [
+        "Club"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Coach",
-      null
+      [
+        "Winners"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Contestant",
-      null
+      [
+        "Runners-up"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Contestant",
-      null
+      [
+        "Winning years"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Song",
-      null
+      [
+        "Runner-up years"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "Barcelona"
+        ],
+        [
+          "/wiki/FC_Barcelona"
+        ]
       ],
       [
-        "David Bisbal",
-        "/wiki/David_Bisbal"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Virginia Alexandre",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lola Dorado",
-        null
+        [
+          "1958",
+          "1960",
+          "1966"
+        ],
+        [
+          "/wiki/1958_Inter-Cities_Fairs_Cup_Final",
+          "/wiki/1960_Inter-Cities_Fairs_Cup_Final",
+          "/wiki/1966_Inter-Cities_Fairs_Cup_Final"
+        ]
       ],
       [
-        "Lady Marmalade",
-        "/wiki/Lady_Marmalade"
+        [
+          "1962"
+        ],
+        [
+          "/wiki/1962_Inter-Cities_Fairs_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "Leeds United"
+        ],
+        [
+          "/wiki/Leeds_United"
+        ]
       ],
       [
-        "Rosario Flores",
-        "/wiki/Rosario_Flores"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jorge Gonz\u00e1lez",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Damaris Mart\u00ednez",
-        null
+        [
+          "1968",
+          "1971"
+        ],
+        [
+          "/wiki/1968_Inter-Cities_Fairs_Cup_Final",
+          "/wiki/1971_Inter-Cities_Fairs_Cup_Final"
+        ]
       ],
       [
-        "What You're Made of",
-        "/wiki/What_You%27re_Made_of"
+        [
+          "1967"
+        ],
+        [
+          "/wiki/1967_Inter-Cities_Fairs_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "Valencia"
+        ],
+        [
+          "/wiki/Valencia_CF"
+        ]
       ],
       [
-        "Melendi",
-        "/wiki/Melendi"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tony Amboaje",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Maika Barbero",
-        null
+        [
+          "1962",
+          "1963"
+        ],
+        [
+          "/wiki/1962_Inter-Cities_Fairs_Cup_Final",
+          "/wiki/1963_Inter-Cities_Fairs_Cup_Final"
+        ]
       ],
       [
-        "I Don't Want to Miss a Thing",
-        "/wiki/I_Don%27t_Want_to_Miss_a_Thing"
+        [
+          "1964"
+        ],
+        [
+          "/wiki/1964_Inter-Cities_Fairs_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "Dinamo Zagreb"
+        ],
+        [
+          "/wiki/Dinamo_Zagreb"
+        ]
       ],
       [
-        "Mal\u00fa",
-        "/wiki/Mal%C3%BA"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Macarena Fern\u00e1ndez",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pau Piqu\u00e9",
-        null
+        [
+          "1967"
+        ],
+        [
+          "/wiki/1967_Inter-Cities_Fairs_Cup_Final"
+        ]
       ],
       [
-        "Somos Novios",
-        "/wiki/Somos_Novios_(It%27s_Impossible)"
+        [
+          "1963"
+        ],
+        [
+          "/wiki/1963_Inter-Cities_Fairs_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Ferencv\u00e1ros"
+        ],
+        [
+          "/wiki/Ferencv%C3%A1rosi_TC"
+        ]
       ],
       [
-        "Melendi",
-        "/wiki/Melendi"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paula Rojo",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Yhadira Garc\u00eda",
-        null
+        [
+          "1965"
+        ],
+        [
+          "/wiki/1965_Inter-Cities_Fairs_Cup_Final"
+        ]
       ],
       [
-        "Complicated",
-        "/wiki/Complicated_(Avril_Lavigne_song)"
+        [
+          "1968"
+        ],
+        [
+          "/wiki/1968_Inter-Cities_Fairs_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "Real Zaragoza"
+        ],
+        [
+          "/wiki/Real_Zaragoza"
+        ]
       ],
       [
-        "David Bisbal",
-        "/wiki/David_Bisbal"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nieves Hidalgo",
-        "/wiki/Nieves_Hidalgo"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sandra Arco",
-        null
+        [
+          "1964"
+        ],
+        [
+          "/wiki/1964_Inter-Cities_Fairs_Cup_Final"
+        ]
       ],
       [
-        "\"Torre de Arena\"",
-        null
+        [
+          "1966"
+        ],
+        [
+          "/wiki/1966_Inter-Cities_Fairs_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "Arsenal"
+        ],
+        [
+          "/wiki/Arsenal_F.C."
+        ]
       ],
       [
-        "Rosario Flores",
-        "/wiki/Rosario_Flores"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "M\u00f3nica Guech",
-        null
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nuria Martorell",
-        null
+        [
+          "1970"
+        ],
+        [
+          "/wiki/1970_Inter-Cities_Fairs_Cup_Final"
+        ]
       ],
       [
-        "Without You",
-        "/wiki/Without_You_(Badfinger_song)"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "Newcastle United"
+        ],
+        [
+          "/wiki/Newcastle_United"
+        ]
       ],
       [
-        "Melendi",
-        "/wiki/Melendi"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Eduardo Ruim\u00e1n",
-        null
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Miguel Kocina",
-        null
+        [
+          "1969"
+        ],
+        [
+          "/wiki/1969_Inter-Cities_Fairs_Cup_Final"
+        ]
       ],
       [
-        "\"Torero\"",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "Roma"
+        ],
+        [
+          "/wiki/A.S._Roma"
+        ]
       ],
       [
-        "Mal\u00fa",
-        "/wiki/Mal%C3%BA"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nicky Triphook",
-        null
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hector Rold\u00e1n",
-        null
+        [
+          "1961"
+        ],
+        [
+          "/wiki/1961_Inter-Cities_Fairs_Cup_Final"
+        ]
       ],
       [
-        "Always",
-        "/wiki/Always_(Bon_Jovi_song)"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "Juventus"
+        ],
+        [
+          "/wiki/Juventus_F.C."
+        ]
       ],
       [
-        "Rosario Flores",
-        "/wiki/Rosario_Flores"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Anabella Arregui",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lorena Ruiz",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\"Aprendiz\"",
-        null
+        [
+          "1965",
+          "1971"
+        ],
+        [
+          "/wiki/1965_Inter-Cities_Fairs_Cup_Final",
+          "/wiki/1971_Inter-Cities_Fairs_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "11",
-        null
+        [
+          "Birmingham City"
+        ],
+        [
+          "/wiki/Birmingham_City"
+        ]
       ],
       [
-        "Mal\u00fa",
-        "/wiki/Mal%C3%BA"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Manuela Paz",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "N\u00faria Mart\u00ednez",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Firework",
-        "/wiki/Firework_(song)"
+        [
+          "1960",
+          "1961"
+        ],
+        [
+          "/wiki/1960_Inter-Cities_Fairs_Cup_Final",
+          "/wiki/1961_Inter-Cities_Fairs_Cup_Final"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Anderlecht"
+        ],
+        [
+          "/wiki/R.S.C._Anderlecht"
+        ]
+      ],
+      [
+        [
+          "0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1970"
+        ],
+        [
+          "/wiki/1970_Inter-Cities_Fairs_Cup_Final"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "\u00dajpest"
+        ],
+        [
+          "/wiki/%C3%9Ajpest_FC"
+        ]
+      ],
+      [
+        [
+          "0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1969"
+        ],
+        [
+          "/wiki/1969_Inter-Cities_Fairs_Cup_Final"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "London XI"
+        ],
+        [
+          "/wiki/London_XI"
+        ]
+      ],
+      [
+        [
+          "0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1958"
+        ],
+        [
+          "/wiki/1958_Inter-Cities_Fairs_Cup_Final"
+        ]
       ]
     ]
   ],

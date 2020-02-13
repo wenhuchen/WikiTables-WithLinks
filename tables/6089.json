@@ -1,140 +1,722 @@
 {
-  "url": "https://en.wikipedia.org/wiki/OAKSTAR",
-  "title": "OAKSTAR",
+  "url": "https://en.wikipedia.org/wiki/List_of_shopping_malls_in_the_Philippines",
+  "title": "List of shopping malls in the Philippines",
   "header": [
     [
-      "Designation",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Covername",
-      null
+      [
+        "City/municipality"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Key Targets",
-      null
+      [
+        "Province"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Type of Information collected",
-      null
-    ],
-    [
-      "Remarks",
-      null
+      [
+        "Developer"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "US-3206\u00a0(PDDG:6T)",
-        null
+        [
+          "Centro Mall Cabuyao"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "MONKEYROCKET",
-        "/wiki/HTTP_404"
+        [
+          "Cabuyao"
+        ],
+        [
+          "/wiki/Cabuyao"
+        ]
       ],
       [
-        "Counterterrorism in the Middle East, Europe, and Asia",
-        null
+        [
+          "Laguna"
+        ],
+        [
+          "/wiki/Laguna_(province)"
+        ]
       ],
       [
-        "metadata",
-        "/wiki/Metadata"
-      ],
-      [
-        "\"Foreign access point,\" was expected to go online in spring 2012",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "US-3217\u00a0(PDDG:MU)",
-        null
+        [
+          "Checkpoint Mall"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "SHIFTINGSHADOW",
-        "/wiki/HTTP_404"
+        [
+          "Calamba"
+        ],
+        [
+          "/wiki/Calamba,_Laguna"
+        ]
       ],
       [
-        "MTN Afghanistan,Roshan,GSM,AWCC",
-        "/wiki/MTN_Group /wiki/Roshan_(telco) /wiki/GSM /wiki/Afghan_Wireless"
+        [
+          "Laguna"
+        ],
+        [
+          "/wiki/Laguna_(province)"
+        ]
       ],
       [
-        "geolocation",
-        "/wiki/Geolocation"
-      ],
-      [
-        "\"Foreign access point\"",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "US-3230\u00a0(PDDG:0B)",
-        null
+        [
+          "Olivarez Plaza Los Ba\u00f1os"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ORANGECRUSH",
-        "/wiki/HTTP_404"
+        [
+          "Los Ba\u00f1os"
+        ],
+        [
+          "/wiki/Los_Ba%C3%B1os,_Laguna"
+        ]
       ],
       [
-        "\"To be determined\"",
-        null
+        [
+          "Laguna"
+        ],
+        [
+          "/wiki/Laguna_(province)"
+        ]
       ],
       [
-        "Voice, fax, DNI, DNR, and metadata",
-        null
-      ],
-      [
-        "PRIMECANE",
-        "/wiki/HTTP_404"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "US-3247\u00a0(PDDG:PJ)",
-        null
+        [
+          "Pavilion Mall"
+        ],
+        [
+          "/wiki/Pavilion_Mall"
+        ]
       ],
       [
-        "YACHTSHOP",
-        "/wiki/HTTP_404"
+        [
+          "Bi\u00f1an"
+        ],
+        [
+          "/wiki/Bi%C3%B1an"
+        ]
       ],
       [
-        "Worldwide DNI Metadata",
-        null
+        [
+          "Laguna"
+        ],
+        [
+          "/wiki/Laguna_(province)"
+        ]
       ],
       [
-        "Worldwide DNI Metadata",
-        null
-      ],
-      [
-        "BLUEANCHOR",
-        "/wiki/HTTP_404"
+        [
+          "Ayala Land"
+        ],
+        [
+          "/wiki/Ayala_Land"
+        ]
       ]
     ],
     [
       [
-        "US-3273\u00a0(PDDG:SK)",
-        null
+        [
+          "Robinsons Place GenTrias"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "SILVERZEPHYR",
-        "/wiki/HTTP_404"
+        [
+          "General Trias"
+        ],
+        [
+          "/wiki/General_Trias,_Cavite"
+        ]
       ],
       [
-        "South, Central and Latin America",
-        null
+        [
+          "Cavite"
+        ],
+        [
+          "/wiki/Cavite"
+        ]
       ],
       [
-        "DNR Metadata, voice and fax; DNI content and metadata",
-        null
+        [
+          "Robinsons Land"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Robinsons Place Imus"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "STEELKNIGHT",
-        "/wiki/HTTP_404"
+        [
+          "Imus"
+        ],
+        [
+          "/wiki/Imus"
+        ]
+      ],
+      [
+        [
+          "Cavite"
+        ],
+        [
+          "/wiki/Cavite"
+        ]
+      ],
+      [
+        [
+          "Robinsons Land"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Robinsons Place Lipa"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Lipa"
+        ],
+        [
+          "/wiki/Lipa,_Batangas"
+        ]
+      ],
+      [
+        [
+          "Batangas"
+        ],
+        [
+          "/wiki/Batangas"
+        ]
+      ],
+      [
+        [
+          "Robinsons Land"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Robinsons Cainta"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cainta"
+        ],
+        [
+          "/wiki/Cainta"
+        ]
+      ],
+      [
+        [
+          "Rizal"
+        ],
+        [
+          "/wiki/Rizal"
+        ]
+      ],
+      [
+        [
+          "Robinsons Land"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Robinsons Sta. Rosa"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Santa Rosa"
+        ],
+        [
+          "/wiki/Santa_Rosa,_Laguna"
+        ]
+      ],
+      [
+        [
+          "Laguna"
+        ],
+        [
+          "/wiki/Laguna_(province)"
+        ]
+      ],
+      [
+        [
+          "Robinsons Land"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Robinsons Town Mall Los Ba\u00f1os"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Los Ba\u00f1os"
+        ],
+        [
+          "/wiki/Los_Ba%C3%B1os,_Laguna"
+        ]
+      ],
+      [
+        [
+          "Laguna"
+        ],
+        [
+          "/wiki/Laguna_(province)"
+        ]
+      ],
+      [
+        [
+          "Robinsons Land"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "SM Center Angono"
+        ],
+        [
+          "/wiki/SM_Center_Angono"
+        ]
+      ],
+      [
+        [
+          "Angono"
+        ],
+        [
+          "/wiki/Angono,_Rizal"
+        ]
+      ],
+      [
+        [
+          "Rizal"
+        ],
+        [
+          "/wiki/Rizal"
+        ]
+      ],
+      [
+        [
+          "SM Prime Holdings"
+        ],
+        [
+          "/wiki/SM_Prime_Holdings"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "SM City Calamba"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Calamba"
+        ],
+        [
+          "/wiki/Calamba,_Laguna"
+        ]
+      ],
+      [
+        [
+          "Laguna"
+        ],
+        [
+          "/wiki/Laguna_(province)"
+        ]
+      ],
+      [
+        [
+          "SM Prime Holdings"
+        ],
+        [
+          "/wiki/SM_Prime_Holdings"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "SM City Lucena"
+        ],
+        [
+          "/wiki/SM_City_Lucena"
+        ]
+      ],
+      [
+        [
+          "Lucena"
+        ],
+        [
+          "/wiki/Lucena,_Philippines"
+        ]
+      ],
+      [
+        [
+          "Quezon"
+        ],
+        [
+          "/wiki/Quezon"
+        ]
+      ],
+      [
+        [
+          "SM Prime Holdings"
+        ],
+        [
+          "/wiki/SM_Prime_Holdings"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "SM City Molino"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Bacoor"
+        ],
+        [
+          "/wiki/Bacoor"
+        ]
+      ],
+      [
+        [
+          "Cavite"
+        ],
+        [
+          "/wiki/Cavite"
+        ]
+      ],
+      [
+        [
+          "SM Prime Holdings"
+        ],
+        [
+          "/wiki/SM_Prime_Holdings"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "SM City Rosario"
+        ],
+        [
+          "/wiki/SM_City_Rosario"
+        ]
+      ],
+      [
+        [
+          "Rosario"
+        ],
+        [
+          "/wiki/Rosario,_Cavite"
+        ]
+      ],
+      [
+        [
+          "Cavite"
+        ],
+        [
+          "/wiki/Cavite"
+        ]
+      ],
+      [
+        [
+          "SM Prime Holdings"
+        ],
+        [
+          "/wiki/SM_Prime_Holdings"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "SM City San Pablo"
+        ],
+        [
+          "/wiki/SM_City_San_Pablo"
+        ]
+      ],
+      [
+        [
+          "San Pablo"
+        ],
+        [
+          "/wiki/San_Pablo,_Laguna"
+        ]
+      ],
+      [
+        [
+          "Laguna"
+        ],
+        [
+          "/wiki/Laguna_(province)"
+        ]
+      ],
+      [
+        [
+          "SM Prime Holdings"
+        ],
+        [
+          "/wiki/SM_Prime_Holdings"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "The District Dasmari\u00f1as"
+        ],
+        [
+          "/wiki/The_District_(mall,_Dasmari%C3%B1as)"
+        ]
+      ],
+      [
+        [
+          "Dasmari\u00f1as"
+        ],
+        [
+          "/wiki/Dasmari%C3%B1as"
+        ]
+      ],
+      [
+        [
+          "Cavite"
+        ],
+        [
+          "/wiki/Cavite"
+        ]
+      ],
+      [
+        [
+          "Ayala Land"
+        ],
+        [
+          "/wiki/Ayala_Land"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "The District Imus"
+        ],
+        [
+          "/wiki/The_District_(mall,_Imus)"
+        ]
+      ],
+      [
+        [
+          "Imus"
+        ],
+        [
+          "/wiki/Imus"
+        ]
+      ],
+      [
+        [
+          "Cavite"
+        ],
+        [
+          "/wiki/Cavite"
+        ]
+      ],
+      [
+        [
+          "Ayala Land"
+        ],
+        [
+          "/wiki/Ayala_Land"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Victory Central Mall Sta. Rosa"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Santa Rosa"
+        ],
+        [
+          "/wiki/Santa_Rosa,_Laguna"
+        ]
+      ],
+      [
+        [
+          "Laguna"
+        ],
+        [
+          "/wiki/Laguna_(province)"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Vista Mall Antipolo"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Antipolo"
+        ],
+        [
+          "/wiki/Antipolo"
+        ]
+      ],
+      [
+        [
+          "Rizal"
+        ],
+        [
+          "/wiki/Rizal"
+        ]
+      ],
+      [
+        [
+          "Vista Land & Lifescapes"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "Community or regional shopping centers in Calabarzon are built around one department store or supermarket and are enclosed. These shopping centers are located mostly in suburban residential areas of the metropolis and typically cater to the basic shopping needs of area residents.",
   "idx": 6089
 }

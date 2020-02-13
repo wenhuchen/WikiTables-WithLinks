@@ -1,293 +1,719 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Transport_in_Latvia",
-  "title": "Transport in Latvia",
+  "url": "https://en.wikipedia.org/wiki/List_of_GE_locomotives",
+  "title": "List of GE locomotives",
   "header": [
     [
-      "Number",
-      null
+      [
+        "Model designation"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "E-road",
-      "/wiki/International_E-road_network"
+      [
+        "Build year"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Route",
-      null
+      [
+        "Total produced"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Length (km)",
-      null
+      [
+        "AAR wheel arrangement"
+      ],
+      [
+        "/wiki/AAR_wheel_arrangement"
+      ]
+    ],
+    [
+      [
+        "Prime mover"
+      ],
+      [
+        "/wiki/Prime_mover_(locomotive)"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "A1",
-        "/wiki/A1_road_(Latvia)"
+        [
+          "20-ton Boxcab"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "E67",
-        "/wiki/European_route_E67"
+        [
+          "1938"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "R\u012bga,Aina\u017ei,EE",
-        "/wiki/R%C4%ABga /wiki/Aina%C5%BEi /wiki/Estonia"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "101",
-        null
+        [
+          "B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "Cummins"
+        ],
+        [
+          "/wiki/Cummins"
+        ]
       ]
     ],
     [
       [
-        "A2",
-        "/wiki/A2_road_(Latvia)"
+        [
+          "23-ton Boxcab"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "E77",
-        "/wiki/European_route_E77"
+        [
+          "1939"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "R\u012bga,Sigulda,Veclaicene,EE",
-        "/wiki/R%C4%ABga /wiki/Sigulda /wiki/Veclaicene /wiki/Estonia"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "196",
-        null
+        [
+          "B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "Cummins"
+        ],
+        [
+          "/wiki/Cummins"
+        ]
       ]
     ],
     [
       [
-        "A3",
-        "/wiki/A3_road_(Latvia)"
+        [
+          "23-ton"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "E264",
-        "/wiki/European_route_E264"
+        [
+          "1941"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "In\u010dukalns,Valmiera,Valka,EE",
-        "/wiki/In%C4%8Dukalns /wiki/Valmiera /wiki/Valka /wiki/Estonia"
+        [
+          "29"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "101",
-        null
+        [
+          "B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "Cummins"
+        ],
+        [
+          "/wiki/Cummins"
+        ]
       ]
     ],
     [
       [
-        "A4",
-        "/wiki/A4_road_(Latvia)"
+        [
+          "25-ton"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "E67,E77",
-        "/wiki/European_route_E67 /wiki/European_route_E77"
+        [
+          "1941\u20131974"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "R\u012bga,Baltezers,Saulkalne",
-        "/wiki/R%C4%ABga /wiki/Baltezers,_%C4%80da%C5%BEi_Municipality /wiki/HTTP_404"
+        [
+          "510"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "20",
-        null
+        [
+          "B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "Cummins"
+        ],
+        [
+          "/wiki/Cummins"
+        ]
       ]
     ],
     [
       [
-        "A5",
-        "/wiki/A5_road_(Latvia)"
+        [
+          "44-ton"
+        ],
+        [
+          "/wiki/GE_44-ton_switcher"
+        ]
       ],
       [
-        "E67,E77",
-        "/wiki/European_route_E67 /wiki/European_route_E77"
+        [
+          "1940\u20131956"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "R\u012bga,Salaspils,Bab\u012bte",
-        "/wiki/R%C4%ABga /wiki/Salaspils /wiki/Bab%C4%ABte"
+        [
+          "386"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "40",
-        null
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "Caterpillar"
+        ],
+        [
+          "/wiki/Caterpillar_Inc."
+        ]
       ]
     ],
     [
       [
-        "A6",
-        "/wiki/A6_road_(Latvia)"
+        [
+          "45-ton"
+        ],
+        [
+          "/wiki/GE_45-ton_switcher"
+        ]
       ],
       [
-        "E22,E262",
-        "/wiki/European_route_E22 /wiki/European_route_E262"
+        [
+          "1940\u20131956"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "R\u012bga,Daugavpils,Kr\u0101slava,P\u0101ternieki,BY",
-        "/wiki/R%C4%ABga /wiki/Daugavpils /wiki/Kr%C4%81slava /wiki/HTTP_404 /wiki/Belarus"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "307",
-        null
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "Cummins"
+        ],
+        [
+          "/wiki/Cummins"
+        ]
       ]
     ],
     [
       [
-        "A7",
-        "/wiki/A7_road_(Latvia)"
+        [
+          "GE 45-Ton switcher \"Drop Cab\""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "E67",
-        "/wiki/European_route_E67"
+        [
+          "1944\u20131949"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "R\u012bga,Bauska,Grenct\u0101le,LT",
-        "/wiki/R%C4%ABga /wiki/Bauska /wiki/HTTP_404 /wiki/Lithuania"
+        [
+          "103"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "85",
-        null
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "A8",
-        "/wiki/A8_road_(Latvia)"
+        [
+          "GE 45-Ton switcher \"Off-Center Cab\""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "E77",
-        "/wiki/European_route_E77"
+        [
+          "1941"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "R\u012bga,Jelgava,Meitene,LT",
-        "/wiki/R%C4%ABga /wiki/Jelgava /wiki/HTTP_404 /wiki/Lithuania"
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "76",
-        null
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "Cooper Bessemer"
+        ],
+        [
+          "/wiki/Cooper_Bessemer"
+        ]
       ]
     ],
     [
       [
-        "A9",
-        "/wiki/A9_road_(Latvia)"
+        [
+          "GE 46-Ton switcher \"Drop Cab\""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "1955"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "R\u012bga,Skulte,Liep\u0101ja",
-        "/wiki/R%C4%ABga /wiki/HTTP_404 /wiki/Liep%C4%81ja"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "199",
-        null
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "A10",
-        "/wiki/A10_road_(Latvia)"
+        [
+          "47-ton \"Drop Cab\""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "E22",
-        "/wiki/European_route_E22"
+        [
+          "1943\u20131953"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "R\u012bga,Ventspils",
-        "/wiki/R%C4%ABga /wiki/Ventspils"
+        [
+          "58"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "190",
-        null
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "A11",
-        "/wiki/A11_road_(Latvia)"
+        [
+          "GE 55-Ton switcher \"Off-Center Cab\""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "1931"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Liep\u0101ja,Rucava,LT",
-        "/wiki/Liep%C4%81ja /wiki/Rucava /wiki/Lithuania"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "57",
-        null
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "Ingersoll Rand 300"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "A12",
-        "/wiki/A12_road_(Latvia)"
+        [
+          "GE 57-Ton switcher \"Off-Center Cab\""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "E22,E262",
-        "/wiki/European_route_E22 /wiki/European_route_E262"
+        [
+          "1935"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "J\u0113kabpils,R\u0113zekne,Ludza,Terehova,RU",
-        "/wiki/J%C4%93kabpils /wiki/R%C4%93zekne /wiki/Ludza /wiki/HTTP_404 /wiki/Russia"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "166",
-        null
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "Cooper Bessemer ENL6"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "A13",
-        "/wiki/A13_road_(Latvia)"
+        [
+          "60-ton \"Boxcab\""
+        ],
+        [
+          "/wiki/GE_boxcab"
+        ]
       ],
       [
-        "E262",
-        "/wiki/European_route_E262"
+        [
+          "1928\u20131930"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Greb\u0146eva,RU,R\u0113zekne,Daugavpils,Medumi,LT",
-        "/wiki/HTTP_404 /wiki/Russia /wiki/R%C4%93zekne /wiki/Daugavpils /wiki/Medumi /wiki/Lithuania"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "163",
-        null
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "Ingersoll Rand 300"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "A14",
-        "/wiki/A14_road_(Latvia)"
+        [
+          "60-ton \"Off-Center Cab\""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "E262",
-        "/wiki/European_route_E262"
+        [
+          "1935\u20131941"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Daugavpils,Tilti,Kalk\u016bne",
-        "/wiki/Daugavpils /wiki/HTTP_404 /wiki/Kalk%C5%ABne"
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "15",
-        null
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "Ingersoll Rand 300 (1) Ingersoll Rand 400 (2) Cooper Bessemer EN8 (3) Cooper Bessemer ENL8 (4)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "A15",
-        "/wiki/A15_road_(Latvia)"
+        [
+          "GE 61-Ton switcher \"Off-Center Cab\""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "E262",
-        "/wiki/European_route_E262"
+        [
+          "1937"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "R\u0113zekne",
-        "/wiki/R%C4%93zekne"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "Cooper Bessemer EN6"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "GE 68-Ton switcher \"Off-Center Cab\""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1939"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "Cooper Bessemer GN6"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

@@ -1,203 +1,969 @@
 {
-  "url": "https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Wright_County,_Iowa",
-  "title": "National Register of Historic Places listings in Wright County, Iowa",
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
   "header": [
     [
-      "",
-      null
+      [
+        "Emulator"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Name on the Register",
-      null
+      [
+        "Latest version"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Date listed",
-      null
+      [
+        "Released"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      null
+      [
+        "Guest emulation capabilities"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "City or town",
-      null
+      [
+        "Host Operating System"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "License"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "6502Em"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Boone River Bridge",
-        "/wiki/Boone_River_Bridge"
+        [
+          "4.00"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "#98000457",
-        "/wiki/HTTP_404"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Boone River,42\u00b051\u203226\u2033N 93\u00b056\u203246\u2033W\ufeff / \ufeff42.857222\u00b0N 93.946111\u00b0W\ufeff / 42.857222; -93.946111\ufeff (Boone River Bridge)",
-        "/wiki/Boone_River /wiki/HTTP_404"
+        [
+          "BBC Micro",
+          "BBC Master",
+          "Acorn Electron"
+        ],
+        [
+          "/wiki/BBC_Micro",
+          "/wiki/BBC_Master",
+          "/wiki/Acorn_Electron"
+        ]
       ],
       [
-        "Goldfield",
-        "/wiki/Goldfield,_Iowa"
+        [
+          "RISC OS"
+        ],
+        [
+          "/wiki/RISC_OS"
+        ]
+      ],
+      [
+        [
+          "Commercial"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "65C12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Burlington, Cedar Rapids & Northern Passenger Depot-Dows",
-        "/wiki/Burlington,_Cedar_Rapids_%26_Northern_Passenger_Depot-Dows"
+        [
+          "1.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "#92001744",
-        "/wiki/HTTP_404"
+        [
+          "November 4, 1998"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "42\u00b039\u203228\u2033N 93\u00b029\u203259\u2033W\ufeff / \ufeff42.657778\u00b0N 93.499722\u00b0W\ufeff / 42.657778; -93.499722\ufeff (Burlington, Cedar Rapids & Northern Passenger Depot-Dows)",
-        "/wiki/HTTP_404"
+        [
+          "BBC Micro"
+        ],
+        [
+          "/wiki/BBC_Micro"
+        ]
       ],
       [
-        "Dows",
-        "/wiki/Dows,_Iowa"
+        [
+          "DOS"
+        ],
+        [
+          "/wiki/DOS"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "65Host"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Burlington, Cedar Rapids and Northern Railroad Passenger Station",
-        "/wiki/Burlington,_Cedar_Rapids_and_Northern_Railroad_Passenger_Station_(Clarion,_Iowa)"
+        [
+          "1.20"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "#88000926",
-        "/wiki/HTTP_404"
+        [
+          "May 18, 1992"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "42\u00b043\u203248\u2033N 93\u00b043\u203259\u2033W\ufeff / \ufeff42.73\u00b0N 93.733056\u00b0W\ufeff / 42.73; -93.733056\ufeff (Burlington, Cedar Rapids and Northern Railroad Passenger Station)",
-        "/wiki/HTTP_404"
+        [
+          "BBC Micro"
+        ],
+        [
+          "/wiki/BBC_Micro"
+        ]
       ],
       [
-        "Clarion",
-        "/wiki/Clarion,_Iowa"
+        [
+          "RISC OS"
+        ],
+        [
+          "/wiki/RISC_OS"
+        ]
+      ],
+      [
+        [
+          "Commercial"
+        ],
+        [
+          "/wiki/Commercial_software"
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "B-Em"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cornelia Lake Bridge",
-        "/wiki/Cornelia_Lake_Bridge"
+        [
+          "2.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "#98000455",
-        "/wiki/HTTP_404"
+        [
+          "June 3, 2012"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cornelia Lake,42\u00b047\u203231\u2033N 93\u00b041\u203238\u2033W\ufeff / \ufeff42.791944\u00b0N 93.693889\u00b0W\ufeff / 42.791944; -93.693889\ufeff (Cornelia Lake Bridge)",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "BBC Micro"
+        ],
+        [
+          "/wiki/BBC_Micro"
+        ]
       ],
       [
-        "Clarion",
-        "/wiki/Clarion,_Iowa"
+        [
+          "DOS, Windows, OS X, Linux"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GPL"
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "BBC 6502 Emulator"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Eagle Grove Public Library",
-        "/wiki/Eagle_Grove_Public_Library"
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "#77000569",
-        "/wiki/HTTP_404"
+        [
+          "February 15, 1992"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "42\u00b039\u203251\u2033N 93\u00b054\u203224\u2033W\ufeff / \ufeff42.664167\u00b0N 93.906667\u00b0W\ufeff / 42.664167; -93.906667\ufeff (Eagle Grove Public Library)",
-        "/wiki/HTTP_404"
+        [
+          "BBC Micro"
+        ],
+        [
+          "/wiki/BBC_Micro"
+        ]
       ],
       [
-        "Eagle Grove",
-        "/wiki/Eagle_Grove,_Iowa"
+        [
+          "DOS/Windows"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "BBC Environment Emulator"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Fillmore Block",
-        "/wiki/Fillmore_Block"
+        [
+          "1.01AR"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "#98001323",
-        "/wiki/HTTP_404"
+        [
+          "1985"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "42\u00b039\u203223\u2033N 93\u00b029\u203259\u2033W\ufeff / \ufeff42.656389\u00b0N 93.499722\u00b0W\ufeff / 42.656389; -93.499722\ufeff (Fillmore Block)",
-        "/wiki/HTTP_404"
+        [
+          "BBC Micro"
+        ],
+        [
+          "/wiki/BBC_Micro"
+        ]
       ],
       [
-        "Dows",
-        "/wiki/Dows,_Iowa"
+        [
+          "Atari 520 ST"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "Beebdroid"
+        ],
+        [
+          "/wiki/Beebdroid"
+        ]
       ],
       [
-        "Quasdorf Blacksmith and Wagon Shop",
-        "/wiki/Quasdorf_Blacksmith_and_Wagon_Shop"
+        [
+          "1.3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "#93001545",
-        "/wiki/HTTP_404"
+        [
+          "February 17, 2012"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "42\u00b039\u203225\u2033N 93\u00b029\u203257\u2033W\ufeff / \ufeff42.656944\u00b0N 93.499167\u00b0W\ufeff / 42.656944; -93.499167\ufeff (Quasdorf Blacksmith and Wagon Shop)",
-        "/wiki/HTTP_404"
+        [
+          "BBC Micro"
+        ],
+        [
+          "/wiki/BBC_Micro"
+        ]
       ],
       [
-        "Dows",
-        "/wiki/Dows,_Iowa"
+        [
+          "Android"
+        ],
+        [
+          "/wiki/Android_(operating_system)"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "BeebEm"
+        ],
+        [
+          "/wiki/BeebEm"
+        ]
       ],
       [
-        "Wright County Courthouse",
-        "/wiki/Wright_County_Courthouse_(Iowa)"
+        [
+          "4.14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "#81000277",
-        "/wiki/HTTP_404"
+        [
+          "February 13, 2012"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "42\u00b043\u203256\u2033N 93\u00b043\u203255\u2033W\ufeff / \ufeff42.732222\u00b0N 93.731944\u00b0W\ufeff / 42.732222; -93.731944\ufeff (Wright County Courthouse)",
-        "/wiki/HTTP_404"
+        [
+          "BBC Micro",
+          "BBC Master 128"
+        ],
+        [
+          "/wiki/BBC_Micro",
+          "/wiki/BBC_Master"
+        ]
       ],
       [
-        "Clarion",
-        "/wiki/Clarion,_Iowa"
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "BeebInC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.99f"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1998"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC Micro"
+        ],
+        [
+          "/wiki/BBC_Micro"
+        ]
+      ],
+      [
+        [
+          "DOS"
+        ],
+        [
+          "/wiki/DOS"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "BeebIt"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.65"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "September 20, 2015"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC Micro"
+        ],
+        [
+          "/wiki/BBC_Micro"
+        ]
+      ],
+      [
+        [
+          "RISC OS"
+        ],
+        [
+          "/wiki/RISC_OS"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "BeebItJ"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.03"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "November 7, 2007"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC Micro"
+        ],
+        [
+          "/wiki/BBC_Micro"
+        ]
+      ],
+      [
+        [
+          "RISC OS"
+        ],
+        [
+          "/wiki/RISC_OS"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Horizon"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2.1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "September 3, 2012"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC Micro"
+        ],
+        [
+          "/wiki/BBC_Micro"
+        ]
+      ],
+      [
+        [
+          "Windows",
+          "OS X"
+        ],
+        [
+          "/wiki/Windows",
+          "/wiki/OS_X"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "jsbeeb"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "-"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2014"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC Micro"
+        ],
+        [
+          "/wiki/BBC_Micro"
+        ]
+      ],
+      [
+        [
+          "Web browser",
+          "JavaScript"
+        ],
+        [
+          "/wiki/Web_browser",
+          "/wiki/JavaScript"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Jbeeb"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2004"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC Micro"
+        ],
+        [
+          "/wiki/BBC_Micro"
+        ]
+      ],
+      [
+        [
+          "Java Applet"
+        ],
+        [
+          "/wiki/Java_Applet"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "MAME",
+          "MESS"
+        ],
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
+      ],
+      [
+        [
+          "0.196"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "March 28, 2018"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Various computers, consoles, and arcade systems"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "New BSD",
+          "GPLv2"
+        ],
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Model-B"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "April 10, 2004"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC Micro"
+        ],
+        [
+          "/wiki/BBC_Micro"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Open Source"
+        ],
+        [
+          "/wiki/Open_Source"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Owl"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.1.0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC Micro"
+        ],
+        [
+          "/wiki/BBC_Micro"
+        ]
+      ],
+      [
+        [
+          "NeXTStep"
+        ],
+        [
+          "/wiki/NeXTStep"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Xbeeb"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0.4.1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "January 15, 2002"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC Micro"
+        ],
+        [
+          "/wiki/BBC_Micro"
+        ]
+      ],
+      [
+        [
+          "Unix"
+        ],
+        [
+          "/wiki/Unix"
+        ]
+      ],
+      [
+        [
+          "Open Source"
+        ],
+        [
+          "/wiki/Open_Source"
+        ]
       ]
     ]
   ],

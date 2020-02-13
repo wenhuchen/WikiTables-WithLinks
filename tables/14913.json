@@ -1,467 +1,317 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Fortune_Global_500",
-  "title": "Fortune Global 500",
+  "url": "https://en.wikipedia.org/wiki/CAF_Super_Cup",
+  "title": "CAF Super Cup",
   "header": [
     [
-      "Sector",
-      null
+      [
+        "Nation"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Company",
-      null
+      [
+        "Winners"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Headquarters",
-      null
-    ],
-    [
-      "Overall  rank",
-      null
-    ],
-    [
-      "Revenues  ($M)",
-      null
+      [
+        "Runners-up"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Aerospace,Defense",
-        "/wiki/Aerospace_manufacturer /wiki/Arms_industry"
+        [
+          "Egypt"
+        ],
+        [
+          "/wiki/Egypt"
+        ]
       ],
       [
-        "Boeing",
-        "/wiki/Boeing"
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Chicago",
-        "/wiki/Chicago"
-      ],
-      [
-        "0060#68",
-        null
-      ],
-      [
-        "101,127",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Apparel",
-        "/wiki/Apparel"
+        [
+          "Morocco"
+        ],
+        [
+          "/wiki/Morocco"
+        ]
       ],
       [
-        "Christian Dior",
-        "/wiki/Christian_Dior_SE"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paris",
-        "/wiki/Paris"
-      ],
-      [
-        "0234#187",
-        null
-      ],
-      [
-        "55,263",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Business services",
-        "/wiki/Corporate_services"
+        [
+          "Tunisia"
+        ],
+        [
+          "/wiki/Tunisia"
+        ]
       ],
       [
-        "Compass Group",
-        "/wiki/Compass_Group"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Chertsey",
-        "/wiki/Chertsey"
-      ],
-      [
-        "0434#403",
-        null
-      ],
-      [
-        "30,879",
-        null
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Chemicals",
-        "/wiki/Chemicals"
+        [
+          "DR Congo"
+        ],
+        [
+          "/wiki/Democratic_Republic_of_the_Congo"
+        ]
       ],
       [
-        "DuPont",
-        "/wiki/DuPont"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Midland",
-        "/wiki/Midland,_Michigan"
-      ],
-      [
-        "0126#100",
-        null
-      ],
-      [
-        "85,977",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Energy",
-        "/wiki/Energy"
+        [
+          "Ivory Coast"
+        ],
+        [
+          "/wiki/Ivory_Coast"
+        ]
       ],
       [
-        "Sinopec Group",
-        "/wiki/China_Petrochemical_Corporation"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Beijing",
-        "/wiki/Beijing"
-      ],
-      [
-        "0002#2",
-        null
-      ],
-      [
-        "414,650",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Engineering,Construction",
-        "/wiki/Engineering /wiki/Construction"
+        [
+          "South Africa"
+        ],
+        [
+          "/wiki/South_Africa"
+        ]
       ],
       [
-        "China State Construction Engineering",
-        "/wiki/China_State_Construction_Engineering"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Beijing",
-        "/wiki/Beijing"
-      ],
-      [
-        "0024#21",
-        null
-      ],
-      [
-        "181,525",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Financials",
-        "/wiki/Financials"
+        [
+          "Nigeria"
+        ],
+        [
+          "/wiki/Nigeria"
+        ]
       ],
       [
-        "Berkshire Hathaway",
-        "/wiki/Berkshire_Hathaway"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Omaha",
-        "/wiki/Omaha,_Nebraska"
-      ],
-      [
-        "0008#12",
-        null
-      ],
-      [
-        "247,837",
-        null
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Food,Drug Stores",
-        "/wiki/Food /wiki/Pharmacy_(shop)"
+        [
+          "Algeria"
+        ],
+        [
+          "/wiki/Algeria"
+        ]
       ],
       [
-        "Walgreens Boots Alliance",
-        "/wiki/Walgreens_Boots_Alliance"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Deerfield",
-        "/wiki/Deerfield,_Illinois"
-      ],
-      [
-        "0037#40",
-        null
-      ],
-      [
-        "131,537",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Food,Beverages,Tobacco",
-        "/wiki/Food /wiki/Beverages /wiki/Tobacco"
+        [
+          "Ghana"
+        ],
+        [
+          "/wiki/Ghana"
+        ]
       ],
       [
-        "Nestl\u00e9",
-        "/wiki/Nestl%C3%A9"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Vevey",
-        "/wiki/Vevey"
-      ],
-      [
-        "0064#76",
-        null
-      ],
-      [
-        "93,513",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Health Care",
-        "/wiki/Health_Care"
+        [
+          "Mali"
+        ],
+        [
+          "/wiki/Mali"
+        ]
       ],
       [
-        "UnitedHealth Group",
-        "/wiki/UnitedHealth_Group"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Minnetonka",
-        "/wiki/Minnetonka,_Minnesota"
-      ],
-      [
-        "0013#14",
-        null
-      ],
-      [
-        "226,247",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Household Products",
-        "/wiki/Household_chemicals"
+        [
+          "Republic of the Congo"
+        ],
+        [
+          "/wiki/Republic_of_the_Congo"
+        ]
       ],
       [
-        "Procter & Gamble",
-        "/wiki/Procter_%26_Gamble"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cincinnati",
-        "/wiki/Cincinnati"
-      ],
-      [
-        "0098#146",
-        null
-      ],
-      [
-        "66,832",
-        null
-      ]
-    ],
-    [
-      [
-        "Industrials",
-        "/wiki/Industrials"
-      ],
-      [
-        "General Electric",
-        "/wiki/General_Electric"
-      ],
-      [
-        "Boston",
-        "/wiki/Boston"
-      ],
-      [
-        "0031#48",
-        null
-      ],
-      [
-        "120,268",
-        null
-      ]
-    ],
-    [
-      [
-        "Materials",
-        "/wiki/Materials"
-      ],
-      [
-        "China Minmetals",
-        "/wiki/China_Minmetals"
-      ],
-      [
-        "Beijing",
-        "/wiki/Beijing"
-      ],
-      [
-        "0120#112",
-        null
-      ],
-      [
-        "80,076",
-        null
-      ]
-    ],
-    [
-      [
-        "Media",
-        "/wiki/Media_(communication)"
-      ],
-      [
-        "Walt Disney",
-        "/wiki/The_Walt_Disney_Company"
-      ],
-      [
-        "Burbank",
-        "/wiki/Burbank,_California"
-      ],
-      [
-        "0161#170",
-        null
-      ],
-      [
-        "59,434",
-        null
-      ]
-    ],
-    [
-      [
-        "Motor Vehicles & Parts",
-        "/wiki/Automotive_industry"
-      ],
-      [
-        "Volkswagen",
-        "/wiki/Volkswagen"
-      ],
-      [
-        "Wolfsburg",
-        "/wiki/Wolfsburg"
-      ],
-      [
-        "0005#9",
-        null
-      ],
-      [
-        "278,342",
-        null
-      ]
-    ],
-    [
-      [
-        "Retailing",
-        "/wiki/Retailing"
-      ],
-      [
-        "Walmart",
-        "/wiki/Walmart"
-      ],
-      [
-        "Bentonville",
-        "/wiki/Bentonville,_Arkansas"
-      ],
-      [
-        "0001#1",
-        null
-      ],
-      [
-        "514,405",
-        null
-      ]
-    ],
-    [
-      [
-        "Technology",
-        "/wiki/Technology"
-      ],
-      [
-        "Apple",
-        "/wiki/Apple_Inc."
-      ],
-      [
-        "Cupertino",
-        "/wiki/Cupertino,_California"
-      ],
-      [
-        "0009#11",
-        null
-      ],
-      [
-        "265,595",
-        null
-      ]
-    ],
-    [
-      [
-        "Telecommunications",
-        "/wiki/Telecommunications"
-      ],
-      [
-        "AT&T",
-        "/wiki/AT%26T"
-      ],
-      [
-        "Dallas",
-        "/wiki/Dallas"
-      ],
-      [
-        "0019#25",
-        null
-      ],
-      [
-        "170,756",
-        null
-      ]
-    ],
-    [
-      [
-        "Transportation",
-        "/wiki/Transportation"
-      ],
-      [
-        "China Post Group",
-        "/wiki/China_Post"
-      ],
-      [
-        "Beijing",
-        "/wiki/Beijing"
-      ],
-      [
-        "0099#101",
-        null
-      ],
-      [
-        "85,628",
-        null
-      ]
-    ],
-    [
-      [
-        "Wholesalers",
-        "/wiki/Wholesalers"
-      ],
-      [
-        "Trafigura Group",
-        "/wiki/Trafigura"
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "0011#22",
-        null
-      ],
-      [
-        "180,744",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

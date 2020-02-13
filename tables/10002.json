@@ -1,247 +1,887 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Fox_Valley_Conference",
-  "title": "Fox Valley Conference",
+  "url": "https://en.wikipedia.org/wiki/List_of_SEPTA_Trolley_and_Interurban_stations",
+  "title": "List of SEPTA Trolley and Interurban stations",
   "header": [
     [
-      "School",
-      null
+      [
+        "Station"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Town",
-      null
+      [
+        "Municipality"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Team Name",
-      null
+      [
+        "Structure type"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Enrollment",
-      null
+      [
+        "Route(s) served"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "IHSA",
-      "/wiki/Illinois_High_School_Association"
+      [
+        "Year opened"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Burlington Central High School",
-        "/wiki/Central_High_School_(Burlington,_Illinois)"
+        [
+          "69th Street Transportation Center"
+        ],
+        [
+          "/wiki/69th_Street_Transportation_Center"
+        ]
       ],
       [
-        "Burlington",
-        "/wiki/Burlington,_Illinois"
+        [
+          "Upper Darby"
+        ],
+        [
+          "/wiki/Upper_Darby_Township,_Pennsylvania"
+        ]
       ],
       [
-        "Rockets",
-        "/wiki/Rocket"
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1063.5",
-        null
+        [
+          "101, 102"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "AA/2A/3A",
-        null
+        [
+          "1907"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Cary-Grove High School",
-        "/wiki/Cary-Grove_High_School"
+        [
+          "Anderson Avenue"
+        ],
+        [
+          "/wiki/Anderson_Avenue_(SEPTA_Route_101_station)"
+        ]
       ],
       [
-        "Cary",
-        "/wiki/Cary,_Illinois"
+        [
+          "Upper Darby"
+        ],
+        [
+          "/wiki/Upper_Darby_Township,_Pennsylvania"
+        ]
       ],
       [
-        "Trojans",
-        "/wiki/Trojan_Army"
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1718",
-        null
+        [
+          "101"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "AA/3A/4A",
-        null
+        [
+          "1913"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Crystal Lake Central High School",
-        "/wiki/Crystal_Lake_Central_High_School"
+        [
+          "Andrews Avenue"
+        ],
+        [
+          "/wiki/Andrews_Avenue_(SEPTA_Route_102_station)"
+        ]
       ],
       [
-        "Crystal Lake",
-        "/wiki/Crystal_Lake,_Illinois"
+        [
+          "Collingdale"
+        ],
+        [
+          "/wiki/Collingdale,_Pennsylvania"
+        ]
       ],
       [
-        "Tigers",
-        "/wiki/Tiger"
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1526.5",
-        null
+        [
+          "102"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "AA/2A/3A",
-        null
+        [
+          "1906"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Crystal Lake South High School",
-        "/wiki/Crystal_Lake_South_High_School"
+        [
+          "Aronimink"
+        ],
+        [
+          "/wiki/Aronimink_(SEPTA_Route_101_station)"
+        ]
       ],
       [
-        "Crystal Lake",
-        "/wiki/Crystal_Lake,_Illinois"
+        [
+          "Drexel Hill"
+        ],
+        [
+          "/wiki/Drexel_Hill,_Pennsylvania"
+        ]
       ],
       [
-        "Gators",
-        "/wiki/Alligator"
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1493",
-        null
+        [
+          "101"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "AA/2A/3A",
-        null
+        [
+          "1913"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Dundee-Crown High School",
-        "/wiki/Dundee-Crown_High_School"
+        [
+          "Avon Road"
+        ],
+        [
+          "/wiki/Avon_Road_(SEPTA_station)"
+        ]
       ],
       [
-        "Carpentersville",
-        "/wiki/Carpentersville,_Illinois"
+        [
+          "Upper Darby"
+        ],
+        [
+          "/wiki/Upper_Darby_Township,_Pennsylvania"
+        ]
       ],
       [
-        "Chargers",
-        "/wiki/Destrier"
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2467",
-        null
+        [
+          "101, 102"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "AA/3A/4A",
-        null
+        [
+          "1906"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Hampshire High School",
-        "/wiki/Hampshire_High_School_(Illinois)"
+        [
+          "Baltimore Pike"
+        ],
+        [
+          "/wiki/Baltimore_Pike_(SEPTA_Route_102_station)"
+        ]
       ],
       [
-        "Hampshire",
-        "/wiki/Hampshire,_Illinois"
+        [
+          "Clifton Heights"
+        ],
+        [
+          "/wiki/Clifton_Heights,_Pennsylvania"
+        ]
       ],
       [
-        "Whip-Purs",
-        null
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1612",
-        null
+        [
+          "102"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "AA/2A/3A",
-        null
+        [
+          "1906"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Huntley High School",
-        "/wiki/Huntley_High_School"
+        [
+          "Bartram Avenue"
+        ],
+        [
+          "/wiki/Bartram_Avenue_(SEPTA_Route_102_station)"
+        ]
       ],
       [
-        "Huntley",
-        "/wiki/Huntley,_Illinois"
+        [
+          "Collingdale"
+        ],
+        [
+          "/wiki/Collingdale,_Pennsylvania"
+        ]
       ],
       [
-        "Red Raiders",
-        null
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "3020.5",
-        null
+        [
+          "102"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "AA/3A/4A",
-        null
+        [
+          "1906"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Jacobs High School",
-        "/wiki/Jacobs_High_School"
+        [
+          "Beatty Road"
+        ],
+        [
+          "/wiki/Beatty_Road_(SEPTA_Route_101_station)"
+        ]
       ],
       [
-        "Algonquin",
-        "/wiki/Algonquin,_Illinois"
+        [
+          "Media"
+        ],
+        [
+          "/wiki/Media,_Pennsylvania"
+        ]
       ],
       [
-        "Golden Eagles",
-        "/wiki/Golden_eagle"
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2145.5",
-        null
+        [
+          "101"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "AA/3A/4A",
-        null
+        [
+          "1913"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "McHenry High Schools",
-        "/wiki/McHenry_East_High_School"
+        [
+          "Beverly Boulevard"
+        ],
+        [
+          "/wiki/Beverly_Boulevard_(SEPTA_station)"
+        ]
       ],
       [
-        "McHenry",
-        "/wiki/McHenry,_Illinois"
+        [
+          "Upper Darby"
+        ],
+        [
+          "/wiki/Upper_Darby,_Pennsylvania"
+        ]
       ],
       [
-        "Warriors",
-        "/wiki/Warrior"
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2209",
-        null
+        [
+          "101, 102"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "AA/3A/4A",
-        null
+        [
+          "1906"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Prairie Ridge High School",
-        "/wiki/Prairie_Ridge_High_School"
+        [
+          "Clifton\u2013Aldan"
+        ],
+        [
+          "/wiki/Clifton%E2%80%93Aldan_(SEPTA_station)"
+        ]
       ],
       [
-        "Crystal Lake",
-        "/wiki/Crystal_Lake,_Illinois"
+        [
+          "Upper Darby"
+        ],
+        [
+          "/wiki/Clifton_Heights,_Pennsylvania"
+        ]
       ],
       [
-        "Wolves",
-        "/wiki/Wolf"
+        [
+          "Sidewalk"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1446.5",
-        null
+        [
+          "102"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "AA/2A/3A",
-        null
+        [
+          "1880"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Congress Avenue"
+        ],
+        [
+          "/wiki/Congress_Avenue_(SEPTA_station)"
+        ]
+      ],
+      [
+        [
+          "Upper Darby"
+        ],
+        [
+          "/wiki/Upper_Darby,_Pennsylvania"
+        ]
+      ],
+      [
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "101, 102"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1906"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Creek Road"
+        ],
+        [
+          "/wiki/Creek_Road_(SEPTA_Route_102_station)"
+        ]
+      ],
+      [
+        [
+          "Drexel Hill"
+        ],
+        [
+          "/wiki/Drexel_Hill,_Pennsylvania"
+        ]
+      ],
+      [
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "102"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1906"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Drexel Hill Junction"
+        ],
+        [
+          "/wiki/Drexel_Hill_Junction_(SEPTA_station)"
+        ]
+      ],
+      [
+        [
+          "Drexel Hill"
+        ],
+        [
+          "/wiki/Drexel_Hill,_Pennsylvania"
+        ]
+      ],
+      [
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "101, 102"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Drexel Manor"
+        ],
+        [
+          "/wiki/Drexel_Manor_(SEPTA_Route_102_station)"
+        ]
+      ],
+      [
+        [
+          "Drexel Hill"
+        ],
+        [
+          "/wiki/Drexel_Hill,_Pennsylvania"
+        ]
+      ],
+      [
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "102"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Drexel Park"
+        ],
+        [
+          "/wiki/Drexel_Park_(SEPTA_station)"
+        ]
+      ],
+      [
+        [
+          "Drexel Hill"
+        ],
+        [
+          "/wiki/Drexel_Hill,_Pennsylvania"
+        ]
+      ],
+      [
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "101, 102"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Drexelbrook"
+        ],
+        [
+          "/wiki/Drexelbrook_(SEPTA_Route_101_station)"
+        ]
+      ],
+      [
+        [
+          "Drexel Hill"
+        ],
+        [
+          "/wiki/Drexel_Hill,_Pennsylvania"
+        ]
+      ],
+      [
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "101"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Drexeline"
+        ],
+        [
+          "/wiki/Drexeline_(SEPTA_Route_101_station)"
+        ]
+      ],
+      [
+        [
+          "Drexel Hill"
+        ],
+        [
+          "/wiki/Drexel_Hill,_Pennsylvania"
+        ]
+      ],
+      [
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "101"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Edgemont Street"
+        ],
+        [
+          "/wiki/Edgemont_Street_(SEPTA_Route_101_station)"
+        ]
+      ],
+      [
+        [
+          "Media"
+        ],
+        [
+          "/wiki/Media,_Pennsylvania"
+        ]
+      ],
+      [
+        [
+          "Sidewalk"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "101"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1913"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Fairfield Avenue"
+        ],
+        [
+          "/wiki/Fairfield_Avenue_(SEPTA_station)"
+        ]
+      ],
+      [
+        [
+          "Upper Darby"
+        ],
+        [
+          "/wiki/Upper_Darby,_Pennsylvania"
+        ]
+      ],
+      [
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "101, 102"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1906"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Garrettford"
+        ],
+        [
+          "/wiki/Garrettford_(SEPTA_Route_102_station)"
+        ]
+      ],
+      [
+        [
+          "Drexel Hill"
+        ],
+        [
+          "/wiki/Drexel_Hill,_Pennsylvania"
+        ]
+      ],
+      [
+        [
+          "Surface"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "102"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

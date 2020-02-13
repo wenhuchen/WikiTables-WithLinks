@@ -1,145 +1,523 @@
 {
-  "url": "https://en.wikipedia.org/wiki/1992_World_Artistic_Gymnastics_Championships",
-  "title": "1992 World Artistic Gymnastics Championships",
+  "url": "https://en.wikipedia.org/wiki/1996_Skate_Canada_International",
+  "title": "1996 Skate Canada International",
   "header": [
     [
-      "Rank",
-      null
+      [
+        "Rank"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Gymnast",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Total",
-      null
+      [
+        "Nation"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "TFP"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "SP"
+      ],
+      [
+        "/wiki/Short_program_(figure_skating)"
+      ]
+    ],
+    [
+      [
+        "FS"
+      ],
+      [
+        "/wiki/Free_skating"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grigory Misutin",
-        "/wiki/Grigory_Misutin"
+        [
+          "Mandy W\u00f6tzel",
+          "Ingo Steuer"
+        ],
+        [
+          "/wiki/Mandy_W%C3%B6tzel",
+          "/wiki/Ingo_Steuer"
+        ]
       ],
       [
-        "9.862",
-        null
+        [
+          "Germany"
+        ],
+        [
+          "/wiki/Germany"
+        ]
+      ],
+      [
+        [
+          "2.5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Li Jing",
-        "/wiki/Li_Jing_(gymnast)"
+        [
+          "Marina Eltsova",
+          "Andrei Bushkov"
+        ],
+        [
+          "/wiki/Marina_Eltsova",
+          "/wiki/Andrei_Bushkov"
+        ]
       ],
       [
-        "9.825",
-        null
+        [
+          "Russia"
+        ],
+        [
+          "/wiki/Russia"
+        ]
+      ],
+      [
+        [
+          "2.5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Igor Korobchinsky",
-        "/wiki/Igor_Korobchinsky"
+        [
+          "Kyoko Ina",
+          "Jason Dungjen"
+        ],
+        [
+          "/wiki/Kyoko_Ina",
+          "/wiki/Jason_Dungjen"
+        ]
       ],
       [
-        "9.787",
-        null
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        [
+          "4.0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Johan Jonasson",
-        "/wiki/Johan_Jonasson"
+        [
+          "Kristy Sargeant",
+          "Kris Wirtz"
+        ],
+        [
+          "/wiki/Kristy_Sargeant",
+          "/wiki/Kris_Wirtz"
+        ]
       ],
       [
-        "9.737",
-        null
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
+      ],
+      [
+        [
+          "6.0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Yukio Iketani",
-        "/wiki/Yukio_Iketani"
+        [
+          "Sarah Abitbol",
+          "St\u00e9phane Bernadis"
+        ],
+        [
+          "/wiki/Sarah_Abitbol",
+          "/wiki/St%C3%A9phane_Bernadis"
+        ]
       ],
       [
-        "9.700",
-        null
+        [
+          "France"
+        ],
+        [
+          "/wiki/France"
+        ]
+      ],
+      [
+        [
+          "7.5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Curtis Hibbert",
-        "/wiki/Curtis_Hibbert"
+        [
+          "Jodeyne Higgins",
+          "Sean Rice"
+        ],
+        [
+          "/wiki/Jodeyne_Higgins",
+          "/wiki/Sean_Rice"
+        ]
       ],
       [
-        "9.650",
-        null
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
+      ],
+      [
+        [
+          "9.5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rob Doyle",
-        "/wiki/Rob_Doyle"
+        [
+          "Michelle Menzies",
+          "Jean-Michel Bombardier"
+        ],
+        [
+          "/wiki/Michelle_Menzies",
+          "/wiki/Jean-Michel_Bombardier"
+        ]
       ],
       [
-        "9.475",
-        null
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
+      ],
+      [
+        [
+          "11.0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "8"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Li Chunyang",
-        "/wiki/Li_Chunyang"
+        [
+          "Lesley Rogers",
+          "Michael Aldred"
+        ],
+        [
+          null,
+          null
+        ]
       ],
       [
-        "9.400",
-        null
+        [
+          "United Kingdom"
+        ],
+        [
+          "/wiki/United_Kingdom"
+        ]
+      ],
+      [
+        [
+          "12.5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "9"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "WD"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Daisuke Nishikawa",
-        "/wiki/Daisuke_Nishikawa"
+        [
+          "Peggy Schwarz",
+          "Mirko M\u00fcller"
+        ],
+        [
+          "/wiki/Peggy_Schwarz",
+          "/wiki/Mirko_M%C3%BCller"
+        ]
       ],
       [
-        "9.125",
-        null
+        [
+          "Germany"
+        ],
+        [
+          "/wiki/Germany"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "6"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

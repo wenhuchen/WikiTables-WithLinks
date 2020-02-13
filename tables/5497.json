@@ -1,329 +1,639 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Ekstraklasa",
-  "title": "Ekstraklasa",
+  "url": "https://en.wikipedia.org/wiki/Football_in_London",
+  "title": "Football in London",
   "header": [
     [
-      "Team",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      null
+      [
+        "Winners"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Venue",
-      null
+      [
+        "Runners-up"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Capacity",
-      null
+      [
+        "Years won"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Years runner-up"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Arka Gdynia",
-        "/wiki/Arka_Gdynia"
+        [
+          "Arsenal"
+        ],
+        [
+          "/wiki/Arsenal_F.C."
+        ]
       ],
       [
-        "Gdynia",
-        "/wiki/Gdynia"
+        [
+          "13"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stadion Miejski",
-        "/wiki/Stadion_GOSiR"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "15,139",
-        null
+        [
+          "1930",
+          "1936",
+          "1950",
+          "1971",
+          "1979",
+          "1993",
+          "1998",
+          "2002",
+          "2003",
+          "2005",
+          "2014",
+          "2015",
+          "2017"
+        ],
+        [
+          "/wiki/1930_FA_Cup_Final",
+          "/wiki/1936_FA_Cup_Final",
+          "/wiki/1950_FA_Cup_Final",
+          "/wiki/1971_FA_Cup_Final",
+          "/wiki/1979_FA_Cup_Final",
+          "/wiki/1993_FA_Cup_Final",
+          "/wiki/1998_FA_Cup_Final",
+          "/wiki/2002_FA_Cup_Final",
+          "/wiki/2003_FA_Cup_Final",
+          "/wiki/2005_FA_Cup_Final",
+          "/wiki/2014_FA_Cup_Final",
+          "/wiki/2015_FA_Cup_Final",
+          "/wiki/2017_FA_Cup_Final"
+        ]
+      ],
+      [
+        [
+          "1927",
+          "1932",
+          "1952",
+          "1972",
+          "1978",
+          "1980",
+          "2001"
+        ],
+        [
+          "/wiki/1927_FA_Cup_Final",
+          "/wiki/1932_FA_Cup_Final",
+          "/wiki/1952_FA_Cup_Final",
+          "/wiki/1972_FA_Cup_Final",
+          "/wiki/1978_FA_Cup_Final",
+          "/wiki/1980_FA_Cup_Final",
+          "/wiki/2001_FA_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "Cracovia",
-        "/wiki/KS_Cracovia_(football)"
+        [
+          "Chelsea"
+        ],
+        [
+          "/wiki/Chelsea_F.C."
+        ]
       ],
       [
-        "Krak\u00f3w",
-        "/wiki/Krak%C3%B3w"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stadion Cracovii",
-        "/wiki/Marshal_J%C3%B3zef_Pi%C5%82sudski_Stadium"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "15,016",
-        null
+        [
+          "1970",
+          "1997",
+          "2000",
+          "2007",
+          "2009",
+          "2010",
+          "2012",
+          "2018"
+        ],
+        [
+          "/wiki/1970_FA_Cup_Final",
+          "/wiki/1997_FA_Cup_Final",
+          "/wiki/2000_FA_Cup_Final",
+          "/wiki/2007_FA_Cup_Final",
+          "/wiki/2009_FA_Cup_Final",
+          "/wiki/2010_FA_Cup_Final",
+          "/wiki/2012_FA_Cup_Final",
+          "/wiki/2018_FA_Cup_Final"
+        ]
+      ],
+      [
+        [
+          "1915",
+          "1967",
+          "1994",
+          "2002",
+          "2017"
+        ],
+        [
+          "/wiki/1915_FA_Cup_Final",
+          "/wiki/1967_FA_Cup_Final",
+          "/wiki/1994_FA_Cup_Final",
+          "/wiki/2002_FA_Cup_Final",
+          "/wiki/2017_FA_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "G\u00f3rnik Zabrze",
-        "/wiki/G%C3%B3rnik_Zabrze"
+        [
+          "Tottenham Hotspur"
+        ],
+        [
+          "/wiki/Tottenham_Hotspur_F.C."
+        ]
       ],
       [
-        "Zabrze",
-        "/wiki/Zabrze"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stadion im. Ernesta Pohla",
-        "/wiki/Ernest_Pohl_Stadium"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "24,413",
-        null
+        [
+          "1901",
+          "1921",
+          "1961",
+          "1962",
+          "1967",
+          "1981",
+          "1982",
+          "1991"
+        ],
+        [
+          "/wiki/1901_FA_Cup_Final",
+          "/wiki/1921_FA_Cup_Final",
+          "/wiki/1961_FA_Cup_Final",
+          "/wiki/1962_FA_Cup_Final",
+          "/wiki/1967_FA_Cup_Final",
+          "/wiki/1981_FA_Cup_Final",
+          "/wiki/1982_FA_Cup_Final",
+          "/wiki/1991_FA_Cup_Final"
+        ]
+      ],
+      [
+        [
+          "1987"
+        ],
+        [
+          "/wiki/1987_FA_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "Jagiellonia Bia\u0142ystok",
-        "/wiki/Jagiellonia_Bia%C5%82ystok"
+        [
+          "Wanderers"
+        ],
+        [
+          "/wiki/Wanderers_F.C."
+        ]
       ],
       [
-        "Bia\u0142ystok",
-        "/wiki/Bia%C5%82ystok"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stadion Miejski",
-        "/wiki/Bia%C5%82ystok_City_Stadium"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "22,432",
-        null
+        [
+          "1872",
+          "1873",
+          "1876",
+          "1877",
+          "1878"
+        ],
+        [
+          "/wiki/1872_FA_Cup_Final",
+          "/wiki/1873_FA_Cup_Final",
+          "/wiki/1876_FA_Cup_Final",
+          "/wiki/1877_FA_Cup_Final",
+          "/wiki/1878_FA_Cup_Final"
+        ]
+      ],
+      [
+        [
+          "\u2014"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Korona Kielce",
-        "/wiki/Korona_Kielce"
+        [
+          "West Ham United"
+        ],
+        [
+          "/wiki/West_Ham_United_F.C."
+        ]
       ],
       [
-        "Kielce",
-        "/wiki/Kielce"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kolporter Arena",
-        "/wiki/Kielce_City_Stadium"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "15,550",
-        null
+        [
+          "1964",
+          "1975",
+          "1980"
+        ],
+        [
+          "/wiki/1964_FA_Cup_Final",
+          "/wiki/1975_FA_Cup_Final",
+          "/wiki/1980_FA_Cup_Final"
+        ]
+      ],
+      [
+        [
+          "1923",
+          "2006"
+        ],
+        [
+          "/wiki/1923_FA_Cup_Final",
+          "/wiki/2006_FA_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "Lech Pozna\u0144",
-        "/wiki/Lech_Pozna%C5%84"
+        [
+          "Charlton Athletic"
+        ],
+        [
+          "/wiki/Charlton_Athletic_F.C."
+        ]
       ],
       [
-        "Pozna\u0144",
-        "/wiki/Pozna%C5%84"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stadion Miejski",
-        "/wiki/Stadion_Miejski_(Pozna%C5%84)"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "43,269",
-        null
+        [
+          "1947"
+        ],
+        [
+          "/wiki/1947_FA_Cup_Final"
+        ]
+      ],
+      [
+        [
+          "1946"
+        ],
+        [
+          "/wiki/1946_FA_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "Lechia Gda\u0144sk",
-        "/wiki/Lechia_Gda%C5%84sk"
+        [
+          "Clapham Rovers"
+        ],
+        [
+          "/wiki/Clapham_Rovers_F.C."
+        ]
       ],
       [
-        "Gda\u0144sk",
-        "/wiki/Gda%C5%84sk"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stadion Energa Gda\u0144sk",
-        "/wiki/Stadion_Energa_Gda%C5%84sk"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "43,615",
-        null
+        [
+          "1880"
+        ],
+        [
+          "/wiki/1880_FA_Cup_Final"
+        ]
+      ],
+      [
+        [
+          "1879"
+        ],
+        [
+          "/wiki/1879_FA_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "Legia Warsaw",
-        "/wiki/Legia_Warsaw"
+        [
+          "Wimbledon"
+        ],
+        [
+          "/wiki/Wimbledon_F.C."
+        ]
       ],
       [
-        "Warsaw",
-        "/wiki/Warsaw"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stadion im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
-        "/wiki/Polish_Army_Stadium"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "31,800",
-        null
+        [
+          "1988"
+        ],
+        [
+          "/wiki/1988_FA_Cup_Final"
+        ]
+      ],
+      [
+        [
+          "\u2014"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "\u0141KS \u0141\u00f3d\u017a",
-        "/wiki/%C5%81KS_%C5%81%C3%B3d%C5%BA"
+        [
+          "Crystal Palace"
+        ],
+        [
+          "/wiki/Crystal_Palace_F.C."
+        ]
       ],
       [
-        "\u0141\u00f3d\u017a",
-        "/wiki/%C5%81%C3%B3d%C5%BA"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stadion \u0141KS",
-        "/wiki/Stadion_%C5%81KS"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "5,700",
-        null
+        [
+          "\u2014"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1990",
+          "2016"
+        ],
+        [
+          "/wiki/1990_FA_Cup_Final",
+          "/wiki/2016_FA_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "Piast Gliwice",
-        "/wiki/Piast_Gliwice"
+        [
+          "Fulham"
+        ],
+        [
+          "/wiki/Fulham_F.C."
+        ]
       ],
       [
-        "Gliwice",
-        "/wiki/Gliwice"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stadion Miejski",
-        "/wiki/Stadion_Piast"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "10,037",
-        null
+        [
+          "\u2014"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1975"
+        ],
+        [
+          "/wiki/1975_FA_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "Pogo\u0144 Szczecin",
-        "/wiki/Pogo%C5%84_Szczecin"
+        [
+          "Queens Park Rangers"
+        ],
+        [
+          "/wiki/Queens_Park_Rangers_F.C."
+        ]
       ],
       [
-        "Szczecin",
-        "/wiki/Szczecin"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stadion im. Floriana Krygiera",
-        "/wiki/Stadion_Florian_Krygier"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "18,027",
-        null
+        [
+          "\u2014"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1982"
+        ],
+        [
+          "/wiki/1982_FA_Cup_Final"
+        ]
       ]
     ],
     [
       [
-        "Rak\u00f3w Cz\u0119stochowa",
-        "/wiki/Rak%C3%B3w_Cz%C4%99stochowa"
+        [
+          "Millwall"
+        ],
+        [
+          "/wiki/Millwall_F.C."
+        ]
       ],
       [
-        "Cz\u0119stochowa",
-        "/wiki/Cz%C4%99stochowa"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Miejski Stadion Pi\u0142karski Rak\u00f3w",
-        "/wiki/HTTP_404"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4,200",
-        null
-      ]
-    ],
-    [
-      [
-        "\u015al\u0105sk Wroc\u0142aw",
-        "/wiki/%C5%9Al%C4%85sk_Wroc%C5%82aw"
+        [
+          "\u2014"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Wroc\u0142aw",
-        "/wiki/Wroc%C5%82aw"
-      ],
-      [
-        "Stadion Miejski",
-        "/wiki/Stadion_Miejski_(Wroc%C5%82aw)"
-      ],
-      [
-        "42,771",
-        null
-      ]
-    ],
-    [
-      [
-        "Wis\u0142a Krak\u00f3w",
-        "/wiki/Wis%C5%82a_Krak%C3%B3w"
-      ],
-      [
-        "Krak\u00f3w",
-        "/wiki/Krak%C3%B3w"
-      ],
-      [
-        "Stadion im. Henryka Reymana",
-        "/wiki/Stadion_Miejski,_Krak%C3%B3w"
-      ],
-      [
-        "33,326",
-        null
-      ]
-    ],
-    [
-      [
-        "Wis\u0142a P\u0142ock",
-        "/wiki/Wis%C5%82a_P%C5%82ock"
-      ],
-      [
-        "P\u0142ock",
-        "/wiki/P%C5%82ock"
-      ],
-      [
-        "Stadion im. Kazimierza G\u00f3rskiego",
-        "/wiki/Kazimierz_G%C3%B3rski_Stadium"
-      ],
-      [
-        "12,800",
-        null
-      ]
-    ],
-    [
-      [
-        "Zag\u0142\u0119bie Lubin",
-        "/wiki/Zag%C5%82%C4%99bie_Lubin"
-      ],
-      [
-        "Lubin",
-        "/wiki/Lubin"
-      ],
-      [
-        "Stadion KGHM Zag\u0142\u0119bia",
-        "/wiki/Stadion_Zag%C5%82%C4%99bia_Lubin"
-      ],
-      [
-        "16,068",
-        null
-      ]
-    ],
-    [
-      [
-        "Zag\u0142\u0119bie Sosnowiec",
-        "/wiki/Zag%C5%82%C4%99bie_Sosnowiec"
-      ],
-      [
-        "Sosnowiec",
-        "/wiki/Sosnowiec"
-      ],
-      [
-        "Stadion Ludowy",
-        "/wiki/Stadion_Ludowy"
-      ],
-      [
-        "7,500 (4,900 seats)",
-        null
+        [
+          "2004"
+        ],
+        [
+          "/wiki/2004_FA_Cup_Final"
+        ]
       ]
     ]
   ],

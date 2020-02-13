@@ -1,265 +1,673 @@
 {
-  "url": "https://en.wikipedia.org/wiki/1995_Skate_America",
-  "title": "1995 Skate America",
+  "url": "https://en.wikipedia.org/wiki/List_of_personal_information_managers",
+  "title": "List of personal information managers",
   "header": [
     [
-      "Rank",
-      null
+      [
+        "PIM application"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Name",
-      null
+      [
+        "Platform(s)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Nation",
-      null
+      [
+        "Software license"
+      ],
+      [
+        "/wiki/Software_license"
+      ]
     ],
     [
-      "TFP",
-      null
-    ],
-    [
-      "SP",
-      "/wiki/Short_program_(figure_skating)"
-    ],
-    [
-      "FS",
-      "/wiki/Free_skating"
+      [
+        "Notes"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "askSam"
+        ],
+        [
+          "/wiki/AskSam"
+        ]
       ],
       [
-        "Michelle Kwan",
-        "/wiki/Michelle_Kwan"
+        [
+          "DOS, Windows"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United States",
-        "/wiki/United_States"
+        [
+          "Commercial"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2.5",
-        null
-      ],
-      [
-        "3",
-        null
-      ],
-      [
-        "1",
-        null
+        [
+          "Free form database"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "Backpack"
+        ],
+        [
+          "/wiki/Basecamp_(company)"
+        ]
       ],
       [
-        "Chen Lu",
-        "/wiki/Chen_Lu_(figure_skater)"
+        [
+          "Web"
+        ],
+        [
+          "/wiki/Web_application"
+        ]
       ],
       [
-        "China",
-        "/wiki/China"
+        [
+          "Commercial"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "3.0",
-        null
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "2",
-        null
+        [
+          "Todo list and calendar"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "Chandler"
+        ],
+        [
+          "/wiki/Chandler_(software)"
+        ]
       ],
       [
-        "Irina Slutskaya",
-        "/wiki/Irina_Slutskaya"
+        [
+          "Linux, OS X, Windows"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Russia",
-        "/wiki/Russia"
+        [
+          "Apache"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
       ],
       [
-        "4.0",
-        null
-      ],
-      [
-        "2",
-        null
-      ],
-      [
-        "3",
-        null
+        [
+          "Lotus Agenda"
+        ],
+        [
+          "/wiki/Lotus_Agenda"
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "Ecco Pro"
+        ],
+        [
+          "/wiki/Ecco_Pro"
+        ]
       ],
       [
-        "Surya Bonaly",
-        "/wiki/Surya_Bonaly"
+        [
+          "Windows"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "France",
-        "/wiki/France"
+        [
+          "Freeware"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6.5",
-        null
-      ],
-      [
-        "5",
-        null
-      ],
-      [
-        "4",
-        null
+        [
+          "organizes information via full power outline and tag assignments.  (Tags can contain text, numeric, or date data.  Date data automatically mapped to calendar.)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Google Notebook"
+        ],
+        [
+          "/wiki/Google_Notebook"
+        ]
       ],
       [
-        "Tonia Kwiatkowski",
-        "/wiki/Tonia_Kwiatkowski"
+        [
+          "Web"
+        ],
+        [
+          "/wiki/Web_application"
+        ]
       ],
       [
-        "United States",
-        "/wiki/United_States"
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ],
       [
-        "8.0",
-        null
-      ],
-      [
-        "6",
-        null
-      ],
-      [
-        "5",
-        null
+        [
+          "Google Docs",
+          "Google Keep"
+        ],
+        [
+          "/wiki/Google_Docs",
+          "/wiki/Google_Keep"
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "Haystack"
+        ],
+        [
+          "/wiki/Haystack_(MIT_project)"
+        ]
       ],
       [
-        "Nicole Bobek",
-        "/wiki/Nicole_Bobek"
+        [
+          "POSIX",
+          "Java"
+        ],
+        [
+          "/wiki/POSIX",
+          "/wiki/Java_(programming_language)"
+        ]
       ],
       [
-        "United States",
-        "/wiki/United_States"
+        [
+          "MIT"
+        ],
+        [
+          "/wiki/MIT_License"
+        ]
       ],
       [
-        "8.0",
-        null
-      ],
-      [
-        "4",
-        null
-      ],
-      [
-        "6",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "Hula"
+        ],
+        [
+          "/wiki/Hula_(software)"
+        ]
       ],
       [
-        "Elena Liashenko",
-        "/wiki/Elena_Liashenko"
+        [
+          "Linux"
+        ],
+        [
+          "/wiki/Linux"
+        ]
       ],
       [
-        "Ukraine",
-        "/wiki/Ukraine"
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ],
       [
-        "10.5",
-        null
-      ],
-      [
-        "7",
-        null
-      ],
-      [
-        "7",
-        null
+        [
+          "Bongo project"
+        ],
+        [
+          "/wiki/Bongo_(software)"
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "IBM Lotus Organizer"
+        ],
+        [
+          "/wiki/IBM_Lotus_Organizer"
+        ]
       ],
       [
-        "Rena Inoue",
-        "/wiki/Rena_Inoue"
+        [
+          "Windows"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Japan",
-        "/wiki/Japan"
+        [
+          "Commercial"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "12.0",
-        null
-      ],
-      [
-        "8",
-        null
-      ],
-      [
-        "8",
-        null
+        [
+          "2003\u20132013"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "ideaList"
+        ],
+        [
+          "/wiki/IdeaList"
+        ]
       ],
       [
-        "Clare Kelly",
-        "/wiki/Clare_Kelly"
+        [
+          "DOS, Windows, Mac"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Canada",
-        "/wiki/Canada"
+        [
+          "Commercial"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13.5",
-        null
+        [
+          "Free form database"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Lotus Agenda"
+        ],
+        [
+          "/wiki/Lotus_Agenda"
+        ]
       ],
       [
-        "9",
-        null
+        [
+          "DOS"
+        ],
+        [
+          "/wiki/DOS"
+        ]
       ],
       [
-        "9",
-        null
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
+      ],
+      [
+        [
+          "IBM Lotus Organizer"
+        ],
+        [
+          "/wiki/IBM_Lotus_Organizer"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Meeting Maker"
+        ],
+        [
+          "/wiki/Meeting_Maker"
+        ]
+      ],
+      [
+        [
+          "Solaris"
+        ],
+        [
+          "/wiki/Solaris_(operating_system)"
+        ]
+      ],
+      [
+        [
+          "Commercial"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Microsoft Entourage"
+        ],
+        [
+          "/wiki/Microsoft_Entourage"
+        ]
+      ],
+      [
+        [
+          "OS X"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Commercial"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "deprecated by Microsoft Outlook for Mac"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "MORE",
+          "GrandView"
+        ],
+        [
+          "/wiki/MORE_(application)",
+          "/wiki/GrandView_(software)"
+        ]
+      ],
+      [
+        [
+          "Classic Mac OS"
+        ],
+        [
+          "/wiki/Classic_Mac_OS"
+        ]
+      ],
+      [
+        [
+          "Commercial"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1986\u20131990"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Mozilla Calendar Project"
+        ],
+        [
+          "/wiki/Mozilla_Calendar_Project"
+        ]
+      ],
+      [
+        [
+          "OpenSolaris",
+          "Solaris",
+          "OS X",
+          "OS/2"
+        ],
+        [
+          "/wiki/OpenSolaris",
+          "/wiki/Solaris_(operating_system)",
+          "/wiki/OS_X",
+          "/wiki/OS/2"
+        ]
+      ],
+      [
+        [
+          "MPL"
+        ],
+        [
+          "/wiki/Mozilla_Public_License"
+        ]
+      ],
+      [
+        [
+          "Lightning"
+        ],
+        [
+          "/wiki/Lightning_(software)"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Mozilla Sunbird"
+        ],
+        [
+          "/wiki/Mozilla_Sunbird"
+        ]
+      ],
+      [
+        [
+          "OpenSolaris",
+          "Solaris",
+          "OS X",
+          "OS/2"
+        ],
+        [
+          "/wiki/OpenSolaris",
+          "/wiki/Solaris_(operating_system)",
+          "/wiki/OS_X",
+          "/wiki/OS/2"
+        ]
+      ],
+      [
+        [
+          "MPL",
+          "GPL",
+          "LGPL"
+        ],
+        [
+          "/wiki/Mozilla_Public_License",
+          "/wiki/GNU_GPL",
+          "/wiki/GNU_Lesser_General_Public_License"
+        ]
+      ],
+      [
+        [
+          "Lightning"
+        ],
+        [
+          "/wiki/Lightning_(software)"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Palm Desktop"
+        ],
+        [
+          "/wiki/Palm_Desktop"
+        ]
+      ],
+      [
+        [
+          "Mac OS, Windows"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Commercial"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Sidekick"
+        ],
+        [
+          "/wiki/Borland_Sidekick"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "Commercial"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1983\u20131999"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Spicebird"
+        ],
+        [
+          "/wiki/Spicebird"
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "LGPL"
+        ],
+        [
+          "/wiki/GNU_Lesser_General_Public_License"
+        ]
+      ],
+      [
+        [
+          "Lightning"
+        ],
+        [
+          "/wiki/Lightning_(software)"
+        ]
       ]
     ]
   ],

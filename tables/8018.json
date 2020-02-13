@@ -1,448 +1,668 @@
 {
-  "url": "https://en.wikipedia.org/wiki/EPUB",
-  "title": "EPUB",
+  "url": "https://en.wikipedia.org/wiki/List_of_Places_of_Scenic_Beauty_of_Japan_(Nara)",
+  "title": "List of Places of Scenic Beauty of Japan (Nara)",
   "header": [
     [
-      "Software",
-      null
+      [
+        "Site"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "License",
-      null
+      [
+        "Municipality"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Platform",
-      null
+      [
+        "Comments"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "DRM formats supported",
-      null
+      [
+        "Type"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Notes",
-      null
+      [
+        "Ref."
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Adobe\u00a0Digital\u00a0Editions",
-        "/wiki/Adobe_Digital_Editions"
+        [
+          "Heij\u014d Palace"
+        ],
+        [
+          "/wiki/Heij%C5%8D_Palace"
+        ]
       ],
       [
-        "Proprietary",
-        null
+        [
+          "Nara"
+        ],
+        [
+          "/wiki/Nara,_Nara"
+        ]
       ],
       [
-        "Microsoft,Windows,Apple,Mac OS X",
-        "/wiki/Microsoft /wiki/Windows /wiki/Apple,_Inc /wiki/Mac_OS_X"
+        [
+          "UNESCO World Heritage List",
+          "Historic Monuments of Ancient Nara"
+        ],
+        [
+          "/wiki/World_Heritage_Sites_in_Japan",
+          "/wiki/Historic_Monuments_of_Ancient_Nara"
+        ]
       ],
       [
-        "Adobe Content Server",
-        "/wiki/Adobe_Content_Server"
+        [
+          "1"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "Requires online activation for ePub files with DRM.",
-        null
+        [
+          "[1]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Aldiko",
-        "/wiki/Aldiko"
+        [
+          "Heij\u014d-ky\u014d",
+          "Saky\u014d Sanj\u014d Nib\u014d Palace Site Gardens",
+          "\u5e73\u57ce\u4eac\u5de6\u4eac\u4e09\u6761\u4e8c\u574a\u5bae\u8de1\u5ead\u5712"
+        ],
+        [
+          "/wiki/Heij%C5%8D-ky%C5%8D",
+          null,
+          null
+        ]
       ],
       [
-        "Proprietary",
-        null
+        [
+          "Nara"
+        ],
+        [
+          "/wiki/Nara,_Nara"
+        ]
       ],
       [
-        "Android",
-        null
+        [
+          "Special Historic Site"
+        ],
+        [
+          "/wiki/List_of_Special_Places_of_Scenic_Beauty,_Special_Historic_Sites_and_Special_Natural_Monuments"
+        ]
       ],
       [
-        "Adobe Content Server",
-        null
+        [
+          "1"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "Supports ePub for Android devices.",
-        null
+        [
+          "[2]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Apple Books",
-        "/wiki/Apple_Books"
+        [
+          "Dorohatch\u014d",
+          "\u701e\u516b\u4e01"
+        ],
+        [
+          null,
+          null
+        ]
       ],
       [
-        "Proprietary",
-        null
+        [
+          "Totsukawa"
+        ],
+        [
+          "/wiki/Totsukawa,_Nara"
+        ]
       ],
       [
-        "OS X, iOS",
-        null
+        [
+          "Shing\u016b",
+          "Wakayama Prefecture",
+          "Kumano",
+          "Mie Prefecture",
+          "Natural Monument"
+        ],
+        [
+          "/wiki/Shing%C5%AB,_Wakayama",
+          "/wiki/Wakayama_Prefecture",
+          "/wiki/Kumano,_Mie",
+          "/wiki/Mie_Prefecture",
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "FairPlay",
-        "/wiki/FairPlay"
+        [
+          "5"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "Supports EPUB 2 and EPUB 3. Books not readable directly on computers other than Macs.",
-        null
+        [
+          "[3]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "AZARDI",
-        null
+        [
+          "Isui-en"
+        ],
+        [
+          "/wiki/Isuien_Garden"
+        ]
       ],
       [
-        "Freeware",
-        null
+        [
+          "Nara"
+        ],
+        [
+          "/wiki/Nara,_Nara"
+        ]
       ],
       [
-        "Linux",
-        "/wiki/Linux"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "proprietary ackage obfuscation",
-        null
+        [
+          "1"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "Supports ePub 3, ePub 2.  Fixed Layout, SMIL, DRM, MathML, Online and Mobile versions are available when used with AZARDI:Content Fulfilment Server.",
-        null
+        [
+          "[4]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bluefire Reader",
-        "/wiki/Bluefire_Reader"
+        [
+          "Enj\u014d-ji"
+        ],
+        [
+          "/wiki/Enj%C5%8D-ji"
+        ]
       ],
       [
-        "Proprietary",
-        null
+        [
+          "Nara"
+        ],
+        [
+          "/wiki/Nara,_Nara"
+        ]
       ],
       [
-        "Apple iOS, Android",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Adobe Content Server",
-        null
+        [
+          "1"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "Supports ePub for Android and iOS devices.",
-        null
+        [
+          "[5]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "calibre",
-        "/wiki/Calibre_(ebook_software)"
+        [
+          "Mount Yoshino"
+        ],
+        [
+          "/wiki/Mount_Yoshino"
+        ]
       ],
       [
-        "GPL",
-        "/wiki/GNU_Public_License"
+        [
+          "Yoshino"
+        ],
+        [
+          "/wiki/Yoshino,_Nara"
+        ]
       ],
       [
-        "Windows, OS X, Linux",
-        null
+        [
+          "Historic Site",
+          "UNESCO World Heritage List",
+          "Sacred Sites and Pilgrimage Routes in the Kii Mountain Range"
+        ],
+        [
+          "/wiki/Monuments_of_Japan",
+          "/wiki/World_Heritage_Sites_in_Japan",
+          "/wiki/Sacred_Sites_and_Pilgrimage_Routes_in_the_Kii_Mountain_Range"
+        ]
       ],
       [
-        "None",
-        null
+        [
+          "3"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "\"About\"",
-        "/wiki/HTTP_404"
+        [
+          "[6]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Microsoft Edge",
-        "/wiki/Microsoft_Edge"
+        [
+          "Former Daij\u014d-in Gardens",
+          "\u65e7\u5927\u4e57\u9662\u5ead\u5712"
+        ],
+        [
+          null,
+          null
+        ]
       ],
       [
-        "Proprietary",
-        null
+        [
+          "Nara"
+        ],
+        [
+          "/wiki/Nara,_Nara"
+        ]
       ],
       [
-        "Windows 10",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "1"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "\"August 30, 2019\u2014KB4512941\"",
-        "/wiki/HTTP_404"
+        [
+          "[7]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "EPUBReader",
-        null
+        [
+          "Tsukigase Plum Groves"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Proprietary",
-        null
+        [
+          "Nara"
+        ],
+        [
+          "/wiki/Nara,_Nara"
+        ]
       ],
       [
-        "Mozilla Firefox",
-        "/wiki/Firefox"
+        [
+          "Tsukigase-K\u014dnoyama Prefectural Natural Park"
+        ],
+        [
+          "/wiki/Tsukigase-K%C5%8Dnoyama_Prefectural_Natural_Park"
+        ]
       ],
       [
-        "None",
-        null
+        [
+          "3"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "EPUBReader home page",
-        "/wiki/HTTP_404"
+        [
+          "[8]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "FBReader",
-        "/wiki/FBReader"
+        [
+          "Jik\u014d-in",
+          "\u6148\u5149\u9662"
+        ],
+        [
+          null,
+          null
+        ]
       ],
       [
-        "Proprietary",
-        null
+        [
+          "Yamatok\u014driyama"
+        ],
+        [
+          "/wiki/Yamatok%C5%8Driyama,_Nara"
+        ]
       ],
       [
-        "PDAs",
-        "/wiki/PDA"
+        [
+          "Historic Site"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "None",
-        null
+        [
+          "1"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "[9]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Google Play Books",
-        "/wiki/Google_Play_Books"
+        [
+          "Yamato Sanzan"
+        ],
+        [
+          "/wiki/Yamato_Sanzan"
+        ]
       ],
       [
-        "Proprietary",
-        null
+        [
+          "Kashihara"
+        ],
+        [
+          "/wiki/Kashihara,_Nara"
+        ]
       ],
       [
-        "Web application, Android, Apple iOS",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lektz DRM",
-        null
+        [
+          "3, 10, 11"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "Supports downloading purchased books as ePub and/or PDF.",
-        null
+        [
+          "[10]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Kitabu",
-        "/wiki/Kitabu"
+        [
+          "Taima-dera"
+        ],
+        [
+          "/wiki/Taima-dera"
+        ]
       ],
       [
-        "Proprietary",
-        null
+        [
+          "Katsuragi"
+        ],
+        [
+          "/wiki/Katsuragi,_Nara"
+        ]
       ],
       [
-        "OS X",
-        null
+        [
+          "Historic Site"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "None",
-        null
+        [
+          "1"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "Supports ePub3, ePub2, Fixed layout.",
-        null
+        [
+          "[11]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Kobo",
-        "/wiki/Kobo_eReader"
+        [
+          "Nara Park"
+        ],
+        [
+          "/wiki/Nara_Park"
+        ]
       ],
       [
-        "Proprietary",
-        null
+        [
+          "Nara"
+        ],
+        [
+          "/wiki/Nara,_Nara"
+        ]
       ],
       [
-        "Windows, OS X, Android, Apple iOS, Kobo eReader Software,",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Adobe Content Server",
-        null
+        [
+          "1"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "Supports EPUB 2 and EPUB 3.",
-        null
+        [
+          "[12]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lektz Readers",
-        "/wiki/Lektz#Ebook_reader"
+        [
+          "Asuka Capital Site Pond",
+          "\u98db\u9ce5\u4eac\u8de1\u82d1\u6c60"
+        ],
+        [
+          null,
+          null
+        ]
       ],
       [
-        "Proprietary",
-        null
+        [
+          "Asuka"
+        ],
+        [
+          "/wiki/Asuka,_Nara"
+        ]
       ],
       [
-        "Web application,Android,iOS",
-        "/wiki/Web_application /wiki/Android_(operating_system) /wiki/IOS_(Apple)"
+        [
+          "Historic Site",
+          "UNESCO World Heritage List",
+          "Asuka-Fujiwara: Archaeological sites of Japan\u2019s Ancient Capitals and Related Properties"
+        ],
+        [
+          "/wiki/Monuments_of_Japan",
+          "/wiki/World_Heritage_Sites_in_Japan",
+          "/wiki/Asuka-Fujiwara"
+        ]
       ],
       [
-        "Lektz",
-        "/wiki/Lektz"
+        [
+          "1"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "eBook Readers for PDF, ePUB/2 and ePUB3 providing uniform experience across different platforms - iOS, Android, Windows PC, Mac Desktop and Web.",
-        null
+        [
+          "[13]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lucifox",
-        "/wiki/Lucifox_(software)"
+        [
+          "Hokke-ji"
+        ],
+        [
+          "/wiki/Hokke-ji"
+        ]
       ],
       [
-        "GPL",
-        "/wiki/GNU_Public_License"
+        [
+          "Nara"
+        ],
+        [
+          "/wiki/Nara,_Nara"
+        ]
       ],
       [
-        "Windows, OS X, Linux",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "None",
-        null
+        [
+          "1"
+        ],
+        [
+          "/wiki/Monuments_of_Japan"
+        ]
       ],
       [
-        "Ebook reader add-on with annotations for Firefox. Supports open standard ebooks in EPUB 3- and EPUB 2 format and retrieval of books from OPDS book catalogues.",
-        null
-      ]
-    ],
-    [
-      [
-        "Okular",
-        "/wiki/Okular"
-      ],
-      [
-        "GPL",
-        "/wiki/GNU_Public_License"
-      ],
-      [
-        "Windows, OS X, Linux",
-        null
-      ],
-      [
-        "unknown",
-        null
-      ],
-      [
-        "",
-        null
-      ]
-    ],
-    [
-      [
-        "Readium",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "BSD",
-        "/wiki/BSD_Licenses"
-      ],
-      [
-        "All web browsers and all platforms",
-        null
-      ],
-      [
-        "Multiple-DRM implementations",
-        null
-      ],
-      [
-        "Exists as a cross-browser solution for embedding in users\u2019 websites (Readium CloudReader), a Chrome extension and a cross-platform SDK.",
-        null
-      ]
-    ],
-    [
-      [
-        "Snapplify",
-        "/wiki/Snapplify"
-      ],
-      [
-        "Proprietary",
-        null
-      ],
-      [
-        "All Web browsers, Apple iOS, Android",
-        null
-      ],
-      [
-        "Snapplify",
-        "/wiki/Snapplify"
-      ],
-      [
-        "Supports downloading purchased books as ePub and/or PDF. Supports PDF, ePUB2 and ePUB3 standard of ebooks.",
-        null
-      ]
-    ],
-    [
-      [
-        "STDU Viewer",
-        "/wiki/STDU_Viewer"
-      ],
-      [
-        "Freeware",
-        null
-      ],
-      [
-        "Windows",
-        null
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "Supports many documents format including ePub.",
-        null
-      ]
-    ],
-    [
-      [
-        "Sumatra PDF",
-        "/wiki/Sumatra_PDF"
-      ],
-      [
-        "GPL",
-        "/wiki/GNU_Public_License"
-      ],
-      [
-        "Windows",
-        null
-      ],
-      [
-        "Adobe Content Server",
-        null
-      ],
-      [
-        "Supports ePub for devices.",
-        null
+        [
+          "[14]"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "The following software can read and display EPUB files:",
+  "context": "",
   "idx": 8018
 }

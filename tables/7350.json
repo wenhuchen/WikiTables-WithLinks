@@ -1,386 +1,1086 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Campeonato_Catarinense",
-  "title": "Campeonato Catarinense",
+  "url": "https://en.wikipedia.org/wiki/List_of_distributed_computing_projects",
+  "title": "List of distributed computing projects",
   "header": [
     [
-      "Team",
-      null
+      [
+        "Project"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "City",
-      null
+      [
+        "Launched"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Titles (most recent)",
-      null
+      [
+        "Home"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Runners-up (most recent)",
-      null
+      [
+        "Category"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Research focus"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "BOINC"
+      ],
+      [
+        "/wiki/BOINC"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Figueirense",
-        "/wiki/Figueirense_Futebol_Clube"
+        [
+          "ABC@home"
+        ],
+        [
+          "/wiki/ABC@home"
+        ]
       ],
       [
-        "Florian\u00f3polis",
-        "/wiki/Florian%C3%B3polis"
+        [
+          "2006-11-21"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "18 (2018)",
-        null
+        [
+          "Leiden University"
+        ],
+        [
+          "/wiki/Leiden_University"
+        ]
       ],
       [
-        "8 (2012)",
-        null
+        [
+          "Mathematics"
+        ],
+        [
+          "/wiki/Mathematics"
+        ]
+      ],
+      [
+        [
+          "ABC conjecture"
+        ],
+        [
+          "/wiki/ABC_conjecture"
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ava\u00ed",
-        "/wiki/Ava%C3%AD_FC"
+        [
+          "AlmereGrid Grid"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Florian\u00f3polis",
-        "/wiki/Florian%C3%B3polis"
+        [
+          "2006-09-27"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "17  (2019)",
-        null
+        [
+          "Almere, the Netherlands"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "9  (1999)",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "A number of applications from local researchers."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Joinville",
-        "/wiki/Joinville_Esporte_Clube"
+        [
+          "AlmereGrid TestGrid"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Joinville",
-        "/wiki/Joinville"
+        [
+          "2008-02-24"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "12 (2001)",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7 (2015)",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Test of the AlmereGrid project."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Crici\u00fama",
-        "/wiki/Crici%C3%BAma_Esporte_Clube"
+        [
+          "AndrOINC"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Crici\u00fama",
-        "/wiki/Crici%C3%BAma"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "10 (2013)",
-        null
+        [
+          "Private"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "10 (2011)",
-        null
+        [
+          "Cryptography"
+        ],
+        [
+          "/wiki/Cryptography"
+        ]
+      ],
+      [
+        [
+          "RSA",
+          "boot",
+          "recovery partition",
+          "Motorola Milestone"
+        ],
+        [
+          "/wiki/RSA_(algorithm)",
+          "/wiki/System_partition_and_boot_partition",
+          "/wiki/Recovery_disc",
+          "/wiki/Motorola_Milestone"
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Chapecoense",
-        "/wiki/Associa%C3%A7%C3%A3o_Chapecoense_de_Futebol"
+        [
+          "AQUA@home"
+        ],
+        [
+          "/wiki/AQUA@home"
+        ]
       ],
       [
-        "Chapec\u00f3",
-        "/wiki/Chapec%C3%B3"
+        [
+          "2008-12-10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6 (2017)",
-        null
+        [
+          "D-Wave Systems",
+          "Canada"
+        ],
+        [
+          "/wiki/D-Wave_Systems",
+          "/wiki/Canada"
+        ]
       ],
       [
-        "7 (2019)",
-        null
+        [
+          "Quantum computing"
+        ],
+        [
+          "/wiki/Quantum_computing"
+        ]
+      ],
+      [
+        [
+          "Quantum Monte Carlo",
+          "superconducting",
+          "adiabatic",
+          "quantum computers"
+        ],
+        [
+          "/wiki/Quantum_Monte_Carlo",
+          "/wiki/Superconductor",
+          "/wiki/Adiabatic_theorem",
+          "/wiki/Quantum_computer"
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Am\u00e9rica",
-        "/wiki/Am%C3%A9rica_Futebol_Clube_(Joinville)"
+        [
+          "Background Pi"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Joinville",
-        "/wiki/Joinville"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "5 (1971)",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4 (1969)",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "pi"
+        ],
+        [
+          "/wiki/Pi"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Metropol",
-        "/wiki/Esporte_Clube_Metropol"
+        [
+          "Biochemical Library"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Crici\u00fama",
-        "/wiki/Crici%C3%BAma"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "5 (1969)",
-        null
+        [
+          "Vanderbilt University"
+        ],
+        [
+          "/wiki/Vanderbilt_University"
+        ]
       ],
       [
-        "1 (1965)",
-        null
+        [
+          "Molecular biology"
+        ],
+        [
+          "/wiki/Molecular_biology"
+        ]
+      ],
+      [
+        [
+          "Performed research using the Biochemical Algorithms Library into proteins and their interactions with small molecules for disease research."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Caxias",
-        "/wiki/Caxias_Futebol_Clube"
+        [
+          "Chess960@home"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Joinville",
-        "/wiki/Joinville"
+        [
+          "2006-03-20"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "3 (1955)",
-        null
+        [
+          "Private"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7 (2003)",
-        null
+        [
+          "Games and Puzzles"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "chess 960"
+        ],
+        [
+          "/wiki/Chess_960"
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Carlos Renaux",
-        "/wiki/Clube_Atl%C3%A9tico_Carlos_Renaux"
+        [
+          "Constellation"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Brusque",
-        "/wiki/Brusque_Futebol_Clube"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2 (1953)",
-        null
+        [
+          "University of Stuttgart",
+          "Germany"
+        ],
+        [
+          "/wiki/University_of_Stuttgart",
+          "/wiki/Germany"
+        ]
       ],
       [
-        "3 (1958)",
-        null
+        [
+          "Aerospace",
+          "Engineering"
+        ],
+        [
+          "/wiki/Aerospace",
+          "/wiki/Engineering"
+        ]
+      ],
+      [
+        [
+          "aerospace"
+        ],
+        [
+          "/wiki/Aerospace"
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ol\u00edmpico",
-        "/wiki/Gr%C3%AAmio_Esportivo_Ol%C3%ADmpico"
+        [
+          "Correlizer"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Blumenau",
-        "/wiki/Blumenau"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2 (1964)",
-        null
+        [
+          "European Union"
+        ],
+        [
+          "/wiki/European_Union"
+        ]
       ],
       [
-        "1 (1970)",
-        null
+        [
+          "Genetics"
+        ],
+        [
+          "/wiki/Genetics"
+        ]
+      ],
+      [
+        [
+          "The sequential organization of genomes, and its connection to their 3D architectural organization."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Herc\u00edlio Luz",
-        "/wiki/Herc%C3%ADlio_Luz_Futebol_Clube"
+        [
+          "DistrRTgen"
+        ],
+        [
+          "/wiki/DistrRTgen"
+        ]
       ],
       [
-        "Tubar\u00e3o",
-        "/wiki/Tubar%C3%A3o"
+        [
+          "2008-01-12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2 (1958)",
-        null
+        [
+          "Private"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "Cryptography"
+        ],
+        [
+          "/wiki/Cryptography"
+        ]
+      ],
+      [
+        [
+          "rainbow tables"
+        ],
+        [
+          "/wiki/Rainbow_table"
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Marc\u00edlio Dias",
-        "/wiki/Clube_N%C3%A1utico_Marc%C3%ADlio_Dias"
+        [
+          "DNA@home"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Itaja\u00ed",
-        "/wiki/Itaja%C3%AD"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1 (1963)",
-        null
+        [
+          "Rensselaer Polytechnic Institute"
+        ],
+        [
+          "/wiki/Rensselaer_Polytechnic_Institute"
+        ]
       ],
       [
-        "8 (2000)",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "DNA"
+        ],
+        [
+          "/wiki/DNA"
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Internacional",
-        "/wiki/Esporte_Clube_Internacional_de_Lages"
+        [
+          "DrugDiscovery@home"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lages",
-        "/wiki/Lages"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1 (1965)",
-        null
+        [
+          "Private"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2 (1974)",
-        null
+        [
+          "Drug design"
+        ],
+        [
+          "/wiki/Drug_design"
+        ]
+      ],
+      [
+        [
+          "in silico",
+          "chemical compounds",
+          "medicines",
+          "cancer",
+          "neurodegenerative diseases"
+        ],
+        [
+          "/wiki/In_silico",
+          "/wiki/Chemical_compounds",
+          "/wiki/Medicinal_chemistry",
+          "/wiki/Cancer",
+          "/wiki/Neurodegenerative_disease"
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ferrovi\u00e1rio",
-        "/wiki/HTTP_404"
+        [
+          "eOn"
+        ],
+        [
+          "/wiki/EOn"
+        ]
       ],
       [
-        "Tubar\u00e3o",
-        "/wiki/Tubar%C3%A3o"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1 (1970)",
-        null
+        [
+          "University of Texas at Austin"
+        ],
+        [
+          "/wiki/University_of_Texas_at_Austin"
+        ]
       ],
       [
-        "1 (1954)",
-        null
+        [
+          "Chemistry"
+        ],
+        [
+          "/wiki/Chemistry"
+        ]
+      ],
+      [
+        [
+          "Calculated the evolution of an atomic-scale system over time, such as a chemical reaction or diffusion."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Paula Ramos",
-        "/wiki/Paula_Ramos_Esporte_Clube"
+        [
+          "FreeHAL"
+        ],
+        [
+          "/wiki/FreeHAL"
+        ]
       ],
       [
-        "Florian\u00f3polis",
-        "/wiki/Florian%C3%B3polis"
+        [
+          "2006"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1 (1959)",
-        null
+        [
+          "Private"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1 (1948)",
-        null
+        [
+          "Artificial intelligence"
+        ],
+        [
+          "/wiki/Artificial_intelligence"
+        ]
+      ],
+      [
+        [
+          "Compute essential information for software which seeks to imitate human conversation."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Externato",
-        "/wiki/HTTP_404"
+        [
+          "Genome@home"
+        ],
+        [
+          "/wiki/Genome@home"
+        ]
       ],
       [
-        "Florian\u00f3polis",
-        "/wiki/Florian%C3%B3polis"
+        [
+          "2001-02-01"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1 (1925)",
-        null
+        [
+          "Stanford University"
+        ],
+        [
+          "/wiki/Stanford_University"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "Molecular biology"
+        ],
+        [
+          "/wiki/Molecular_biology"
+        ]
+      ],
+      [
+        [
+          "Designed new genes that can form working proteins in the cell that have not been found in nature."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lauro M\u00fcller",
-        "/wiki/Lauro_M%C3%BCller_Futebol_Clube"
+        [
+          "Golem@home"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Itaja\u00ed",
-        "/wiki/Itaja%C3%AD"
+        [
+          "2000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1 (1931)",
-        null
+        [
+          "Brandeis University"
+        ],
+        [
+          "/wiki/Brandeis_University"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "Robotics"
+        ],
+        [
+          "/wiki/Robotics"
+        ]
+      ],
+      [
+        [
+          "Used evolutionary computation to design robotic locomotion systems."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Catarinense",
-        "/wiki/HTTP_404"
+        [
+          "Graceful Tree Verification Project"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Florian\u00f3polis",
-        "/wiki/Florian%C3%B3polis"
+        [
+          "2008-11-22"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1 (1934)",
-        null
+        [
+          "Private"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "Mathematics"
+        ],
+        [
+          "/wiki/Mathematics"
+        ]
+      ],
+      [
+        [
+          "Used a computational approach to the Graceful Tree Conjecture, proving that every tree with at most 35 vertices is graceful"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "CIP",
-        "/wiki/HTTP_404"
+        [
+          "Ideologias@home"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Itaja\u00ed",
-        "/wiki/Itaja%C3%AD"
+        [
+          "2011-05-19"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1 (1938)",
-        null
+        [
+          "Complutense University of Madrid"
+        ],
+        [
+          "/wiki/Complutense_University_of_Madrid"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "Society"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Used social networking mathematical models to study the ideological evolution of a group of people over time."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ypiranga",
-        "/wiki/HTTP_404"
+        [
+          "Magnetism@home"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "S\u00e3o Francisco do Sul",
-        "/wiki/S%C3%A3o_Francisco_do_Sul"
+        [
+          "2008-06-09"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1 (1940)",
-        null
+        [
+          "Ukraine"
+        ],
+        [
+          "/wiki/Ukraine"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "Magnetism",
+          "nanotechnology"
+        ],
+        [
+          "/wiki/Magnetism",
+          "/wiki/Nanotechnology"
+        ]
+      ],
+      [
+        [
+          "magnetization"
+        ],
+        [
+          "/wiki/Magnetization"
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "(Work on these projects was either finished, or the project was discontinued).",
   "idx": 7350
 }

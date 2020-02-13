@@ -1,383 +1,1111 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Tri-state_area",
-  "title": "Tri-state area",
+  "url": "https://en.wikipedia.org/wiki/List_of_county_routes_in_Chenango_County,_New_York",
+  "title": "List of county routes in Chenango County, New York",
   "header": [
     [
-      "State 1",
-      null
+      [
+        "Route"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "State 2",
-      null
+      [
+        "Length(mi)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "State 3",
-      null
+      [
+        "Length(km)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Notes",
-      null
+      [
+        "From"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Via"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "To"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Alabama",
-        "/wiki/Alabama"
+        [
+          "CR\u00a01"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Florida",
-        "/wiki/Florida"
+        [
+          "1.79"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Georgia",
-        "/wiki/Georgia_(U.S._state)"
+        [
+          "2.88"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marker on riverbank is actually a few feet above and west of true tripoint at high-water line.",
-        null
+        [
+          "Broome County",
+          "CR\u00a0140"
+        ],
+        [
+          "/wiki/Broome_County,_New_York",
+          "/wiki/County_Route_140_(Broome_County,_New_York)"
+        ]
+      ],
+      [
+        [
+          "Greene"
+        ],
+        [
+          "/wiki/Greene_(town),_New_York"
+        ]
+      ],
+      [
+        [
+          "NY\u00a012"
+        ],
+        [
+          "/wiki/NY_12"
+        ]
       ]
     ],
     [
       [
-        "Alabama",
-        "/wiki/Alabama"
+        [
+          "CR\u00a02"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Georgia",
-        "/wiki/Georgia_(U.S._state)"
+        [
+          "15.97"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tennessee",
-        "/wiki/Tennessee"
+        [
+          "25.70"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marker on dry land at surface level and unmarked on lake in cavern directly below. Stolen in 2009 and returned two years later.",
-        null
+        [
+          "NY\u00a012",
+          "Greene"
+        ],
+        [
+          "/wiki/NY_12",
+          "/wiki/Greene_(town),_New_York"
+        ]
+      ],
+      [
+        [
+          "Genegantslet and Ridge roads"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cortland County",
+          "German",
+          "CR\u00a0164"
+        ],
+        [
+          "/wiki/Cortland_County,_New_York",
+          "/wiki/German,_New_York",
+          "/wiki/County_Route_164_(Cortland_County,_New_York)"
+        ]
       ]
     ],
     [
       [
-        "Arizona",
-        "/wiki/Arizona"
+        [
+          "CR\u00a03"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nevada",
-        "/wiki/Nevada"
+        [
+          "10.25"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Utah",
-        "/wiki/Utah"
+        [
+          "16.50"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marked with a red sandstone monument.",
-        null
+        [
+          "NY\u00a041",
+          "Smithville"
+        ],
+        [
+          "/wiki/NY_41",
+          "/wiki/Smithville,_New_York"
+        ]
+      ],
+      [
+        [
+          "East Smithville, Bottle Hill, and Tyner roads"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "NY\u00a012",
+          "Oxford"
+        ],
+        [
+          "/wiki/NY_12",
+          "/wiki/Oxford_(town),_New_York"
+        ]
       ]
     ],
     [
       [
-        "Arkansas",
-        "/wiki/Arkansas"
+        [
+          "CR\u00a03A"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Louisiana",
-        "/wiki/Louisiana"
+        [
+          "4.27"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mississippi",
-        "/wiki/Mississippi"
+        [
+          "6.87"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Unmarked on silt island in river connected to west bank by riprap.",
-        null
+        [
+          "NY\u00a012",
+          "Greene"
+        ],
+        [
+          "/wiki/NY_12",
+          "/wiki/Greene_(town),_New_York"
+        ]
+      ],
+      [
+        [
+          "Harbor Road"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Smithville"
+        ],
+        [
+          "/wiki/Smithville,_New_York"
+        ]
       ]
     ],
     [
       [
-        "Arkansas",
-        "/wiki/Arkansas"
+        [
+          "CR\u00a04"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Louisiana",
-        "/wiki/Louisiana"
+        [
+          "6.04"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Texas",
-        "/wiki/Texas"
+        [
+          "9.72"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ark-La-Tex",
-        "/wiki/Ark-La-Tex"
+        [
+          "NY\u00a012",
+          "Oxford"
+        ],
+        [
+          "/wiki/NY_12",
+          "/wiki/Oxford_(town),_New_York"
+        ]
+      ],
+      [
+        [
+          "Georgetown Road"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Preston"
+        ],
+        [
+          "/wiki/Preston,_New_York"
+        ]
       ]
     ],
     [
       [
-        "Arkansas",
-        "/wiki/Arkansas"
+        [
+          "CR\u00a05"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Missouri",
-        "/wiki/Missouri"
+        [
+          "5.34"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Oklahoma",
-        "/wiki/Oklahoma"
+        [
+          "8.59"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marked with a stone monument.",
-        null
+        [
+          "Cortland County",
+          "German",
+          "CR\u00a0168"
+        ],
+        [
+          "/wiki/Cortland_County,_New_York",
+          "/wiki/German,_New_York",
+          "/wiki/County_Route_168_(Cortland_County,_New_York)"
+        ]
+      ],
+      [
+        [
+          "Unnamed road"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "NY\u00a0220",
+          "McDonough"
+        ],
+        [
+          "/wiki/NY_220",
+          "/wiki/McDonough,_New_York"
+        ]
       ]
     ],
     [
       [
-        "Arkansas",
-        "/wiki/Arkansas"
+        [
+          "CR\u00a06"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Oklahoma",
-        "/wiki/Oklahoma"
+        [
+          "0.46"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Texas",
-        "/wiki/Texas"
+        [
+          "0.74"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Unmarked on seasonal silt island or in river bed, but Oklahoma\u2013Texas state line as revised in 2000 is defective in not extending from vegetation line on south bank to pre-established tripoint.",
-        null
+        [
+          "Cortland County",
+          "CR\u00a0165"
+        ],
+        [
+          "/wiki/Cortland_County,_New_York",
+          "/wiki/County_Route_165_(Cortland_County,_New_York)"
+        ]
+      ],
+      [
+        [
+          "German"
+        ],
+        [
+          "/wiki/German,_New_York"
+        ]
+      ],
+      [
+        [
+          "CR\u00a02"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "California",
-        "/wiki/California"
+        [
+          "CR\u00a07"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nevada",
-        "/wiki/Nevada"
+        [
+          "5.64"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Oregon",
-        "/wiki/Oregon"
+        [
+          "9.08"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "cairn",
-        "/wiki/Cairn"
+        [
+          "NY\u00a0220",
+          "McDonough"
+        ],
+        [
+          "/wiki/NY_220",
+          "/wiki/McDonough,_New_York"
+        ]
+      ],
+      [
+        [
+          "Moon Hill Road"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Pharsalia"
+        ],
+        [
+          "/wiki/Pharsalia,_New_York"
+        ]
       ]
     ],
     [
       [
-        "Colorado",
-        "/wiki/Colorado"
+        [
+          "CR\u00a07A"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kansas",
-        "/wiki/Kansas"
+        [
+          "0.08"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nebraska",
-        "/wiki/Nebraska"
+        [
+          "0.13"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marked with a brass disc.",
-        null
+        [
+          "CR\u00a07"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Pharsalia"
+        ],
+        [
+          "/wiki/Pharsalia,_New_York"
+        ]
+      ],
+      [
+        [
+          "CR\u00a010"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Colorado",
-        "/wiki/Colorado"
+        [
+          "CR\u00a08"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kansas",
-        "/wiki/Kansas"
+        [
+          "4.82"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Oklahoma",
-        "/wiki/Oklahoma"
+        [
+          "7.76"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "8 Mile Corner",
-        "/wiki/8_Mile_Corner"
+        [
+          "NY\u00a0220",
+          "McDonough"
+        ],
+        [
+          "/wiki/NY_220",
+          "/wiki/McDonough,_New_York"
+        ]
+      ],
+      [
+        [
+          "East Pharsalia Road"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Pharsalia"
+        ],
+        [
+          "/wiki/Pharsalia,_New_York"
+        ]
       ]
     ],
     [
       [
-        "Colorado",
-        "/wiki/Colorado"
+        [
+          "CR\u00a09"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nebraska",
-        "/wiki/Nebraska"
+        [
+          "8.28"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Wyoming",
-        "/wiki/Wyoming"
+        [
+          "13.33"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marked with a stone surrounded by a three-stone colored base.",
-        null
+        [
+          "NY\u00a079",
+          "Greene"
+        ],
+        [
+          "/wiki/NY_79",
+          "/wiki/Greene_(town),_New_York"
+        ]
+      ],
+      [
+        [
+          "Page Brook Road"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "NY\u00a041",
+          "NY\u00a0206",
+          "Coventry"
+        ],
+        [
+          "/wiki/NY_41",
+          "/wiki/NY_206",
+          "/wiki/Coventry,_New_York"
+        ]
       ]
     ],
     [
       [
-        "Colorado",
-        "/wiki/Colorado"
+        [
+          "CR\u00a010"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "New Mexico",
-        "/wiki/New_Mexico"
+        [
+          "9.16"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Oklahoma",
-        "/wiki/Oklahoma"
+        [
+          "14.74"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Preston Monument",
-        "/wiki/Preston_Monument"
+        [
+          "NY\u00a023",
+          "Pharsalia"
+        ],
+        [
+          "/wiki/NY_23",
+          "/wiki/Pharsalia,_New_York"
+        ]
+      ],
+      [
+        [
+          "Unnamed road"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Preston"
+        ],
+        [
+          "/wiki/Preston,_New_York"
+        ]
       ]
     ],
     [
       [
-        "Colorado",
-        "/wiki/Colorado"
+        [
+          "CR\u00a010A"
+        ],
+        [
+          "/wiki/County_Route_10A_(Chenango_County,_New_York)"
+        ]
       ],
       [
-        "Utah",
-        "/wiki/Utah"
+        [
+          "5.10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Wyoming",
-        "/wiki/Wyoming"
+        [
+          "8.21"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marked.",
-        null
+        [
+          "Preston"
+        ],
+        [
+          "/wiki/Preston,_New_York"
+        ]
+      ],
+      [
+        [
+          "Old Route\u00a0319"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Norwich city",
+          "Norwich"
+        ],
+        [
+          "/wiki/Norwich_(city),_New_York",
+          "/wiki/Norwich_(town),_New_York"
+        ]
       ]
     ],
     [
       [
-        "Connecticut",
-        "/wiki/Connecticut"
+        [
+          "CR\u00a011"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Massachusetts",
-        "/wiki/Massachusetts"
+        [
+          "1.02"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "New York",
-        "/wiki/New_York_(state)"
+        [
+          "1.64"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Brace Mountain,Mount Frissell",
-        "/wiki/Brace_Mountain /wiki/Mount_Frissell"
+        [
+          "Cortland County",
+          "CR\u00a0166B"
+        ],
+        [
+          "/wiki/Cortland_County,_New_York",
+          "/wiki/County_Route_166B_(Cortland_County,_New_York)"
+        ]
+      ],
+      [
+        [
+          "Pitcher"
+        ],
+        [
+          "/wiki/Pitcher,_New_York"
+        ]
+      ],
+      [
+        [
+          "NY\u00a026"
+        ],
+        [
+          "/wiki/NY_26"
+        ]
       ]
     ],
     [
       [
-        "Connecticut",
-        "/wiki/Connecticut"
+        [
+          "CR\u00a012"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Massachusetts",
-        "/wiki/Massachusetts"
+        [
+          "10.75"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rhode Island",
-        "/wiki/Rhode_Island"
+        [
+          "17.30"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Thompson, Connecticut",
-        "/wiki/Thompson,_Connecticut"
+        [
+          "NY\u00a026",
+          "Pitcher"
+        ],
+        [
+          "/wiki/NY_26",
+          "/wiki/Pitcher,_New_York"
+        ]
+      ],
+      [
+        [
+          "Unnamed road"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Madison County",
+          "Lincklaen",
+          "CR\u00a053"
+        ],
+        [
+          "/wiki/Madison_County,_New_York",
+          "/wiki/Lincklaen,_New_York",
+          "/wiki/County_Route_53_(Madison_County,_New_York)"
+        ]
       ]
     ],
     [
       [
-        "Delaware",
-        "/wiki/Delaware"
+        [
+          "CR\u00a012A"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Maryland",
-        "/wiki/Maryland"
+        [
+          "0.42"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pennsylvania",
-        "/wiki/Pennsylvania"
+        [
+          "0.68"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Delaware Wedge",
-        "/wiki/Wedge_(border)"
+        [
+          "Cortland County",
+          "CR\u00a0158"
+        ],
+        [
+          "/wiki/Cortland_County,_New_York",
+          "/wiki/County_Route_158_(Cortland_County,_New_York)"
+        ]
+      ],
+      [
+        [
+          "Pitcher"
+        ],
+        [
+          "/wiki/Pitcher,_New_York"
+        ]
+      ],
+      [
+        [
+          "CR\u00a012"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Georgia",
-        "/wiki/Georgia_(U.S._state)"
+        [
+          "CR\u00a012B"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "North Carolina",
-        "/wiki/North_Carolina"
+        [
+          "0.30"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tennessee",
-        "/wiki/Tennessee"
+        [
+          "0.48"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marked.",
-        null
+        [
+          "CR\u00a012"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Lincklaen"
+        ],
+        [
+          "/wiki/Lincklaen,_New_York"
+        ]
+      ],
+      [
+        [
+          "Lincklaen Center Road"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Idaho",
-        "/wiki/Idaho"
+        [
+          "CR\u00a012C"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Montana",
-        "/wiki/Montana"
+        [
+          "0.18"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Wyoming",
-        "/wiki/Wyoming"
+        [
+          "0.29"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Yellowstone National Park",
-        "/wiki/Yellowstone_National_Park"
+        [
+          "Cortland County",
+          "CR\u00a0152A"
+        ],
+        [
+          "/wiki/Cortland_County,_New_York",
+          "/wiki/County_Route_152A_(Cortland_County,_New_York)"
+        ]
+      ],
+      [
+        [
+          "Lincklaen"
+        ],
+        [
+          "/wiki/Lincklaen,_New_York"
+        ]
+      ],
+      [
+        [
+          "CR\u00a012"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Idaho",
-        "/wiki/Idaho"
+        [
+          "CR\u00a013"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nevada",
-        "/wiki/Nevada"
+        [
+          "6.24"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Oregon",
-        "/wiki/Oregon"
+        [
+          "10.04"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marked with a three-sided stone inscribed with N-I-O on the respective faces.",
-        null
+        [
+          "NY\u00a026",
+          "Otselic"
+        ],
+        [
+          "/wiki/NY_26",
+          "/wiki/Otselic,_New_York"
+        ]
+      ],
+      [
+        [
+          "Mariposa Road"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Madison County",
+          "Lincklaen",
+          "CR\u00a061"
+        ],
+        [
+          "/wiki/Madison_County,_New_York",
+          "/wiki/Lincklaen,_New_York",
+          "/wiki/County_Route_61_(Madison_County,_New_York)"
+        ]
       ]
     ],
     [
       [
-        "Idaho",
-        "/wiki/Idaho"
+        [
+          "CR\u00a013A"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nevada",
-        "/wiki/Nevada"
+        [
+          "0.37"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Utah",
-        "/wiki/Utah"
+        [
+          "0.60"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marked with a granite monument inscribed with the respective states' names.",
-        null
+        [
+          "CR\u00a013"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Otselic"
+        ],
+        [
+          "/wiki/Otselic,_New_York"
+        ]
+      ],
+      [
+        [
+          "Valley View Road"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

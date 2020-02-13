@@ -1,170 +1,314 @@
 {
-  "url": "https://en.wikipedia.org/wiki/BR_postcode_area",
-  "title": "BR postcode area",
+  "url": "https://en.wikipedia.org/wiki/Hiragana_and_katakana_place_names",
+  "title": "Hiragana and katakana place names",
   "header": [
     [
-      "Postcode district",
-      null
+      [
+        "City / Town"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Post town",
-      "/wiki/Post_town"
+      [
+        "Hiragana + Kanji"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Coverage",
-      null
+      [
+        "Full kanji"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Local authority area",
-      null
+      [
+        "Prefecture"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "BR1",
-        null
+        [
+          "Akiruno"
+        ],
+        [
+          "/wiki/Akiruno,_Tokyo"
+        ]
       ],
       [
-        "BROMLEY",
-        null
+        [
+          "\u3042\u304d\u308b\u91ce\u5e02"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bromley,Bickley,Downham,Sundridge",
-        "/wiki/Bromley /wiki/Bickley /wiki/Downham /wiki/Sundridge,_London"
+        [
+          "\u79cb\u7559\u91ce\u3001\u963f\u4f0e\u7559\u91ce"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bromley,Lewisham",
-        "/wiki/London_Borough_of_Bromley /wiki/London_Borough_of_Lewisham"
+        [
+          "Tokyo"
+        ],
+        [
+          "/wiki/Tokyo"
+        ]
       ]
     ],
     [
       [
-        "BR2",
-        null
+        [
+          "Ichikikushikino"
+        ],
+        [
+          "/wiki/Ichikikushikino,_Kagoshima"
+        ]
       ],
       [
-        "BROMLEY, KESTON",
-        null
+        [
+          "\u3044\u3061\u304d\u4e32\u6728\u91ce\u5e02"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hayes,Shortlands,Bromley Common,Keston,Leaves Green",
-        "/wiki/Hayes,_Bromley /wiki/Shortlands /wiki/Bromley_Common /wiki/Keston /wiki/Leaves_Green"
+        [
+          "\u5e02\u6765\u4e32\u6728\u91ce"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bromley",
-        null
+        [
+          "Kagoshima"
+        ],
+        [
+          "/wiki/Kagoshima_Prefecture"
+        ]
       ]
     ],
     [
       [
-        "BR3",
-        null
+        [
+          "Higashikagawa"
+        ],
+        [
+          "/wiki/Higashikagawa"
+        ]
       ],
       [
-        "BECKENHAM",
-        null
+        [
+          "\u6771\u304b\u304c\u308f\u5e02"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Beckenham,Elmers End,Eden Park,Park Langley",
-        "/wiki/Beckenham /wiki/Elmers_End /wiki/Eden_Park,_London /wiki/Park_Langley"
+        [
+          "\u6771\u9999\u5ddd"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Croydon",
-        "/wiki/London_Borough_of_Croydon"
+        [
+          "Kagawa"
+        ],
+        [
+          "/wiki/Kagawa_Prefecture"
+        ]
       ]
     ],
     [
       [
-        "BR4",
-        null
+        [
+          "Higashimiyoshi"
+        ],
+        [
+          "/wiki/Higashimiyoshi,_Tokushima"
+        ]
       ],
       [
-        "WEST WICKHAM",
-        null
+        [
+          "\u6771\u307f\u3088\u3057\u753a"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "West Wickham",
-        "/wiki/West_Wickham"
+        [
+          "\u6771\u4e09\u597d"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bromley",
-        null
+        [
+          "Tokushima"
+        ],
+        [
+          "/wiki/Tokushima_Prefecture"
+        ]
       ]
     ],
     [
       [
-        "BR5",
-        null
+        [
+          "Kinokawa"
+        ],
+        [
+          "/wiki/Kinokawa,_Wakayama"
+        ]
       ],
       [
-        "ORPINGTON",
-        null
+        [
+          "\u7d00\u306e\u5ddd\u5e02"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Petts Wood,St Mary Cray,St Paul's Cray,Ruxley",
-        "/wiki/Petts_Wood /wiki/St_Mary_Cray /wiki/St_Paul%27s_Cray /wiki/Ruxley"
+        [
+          "\u7d00\u4e4b\u5ddd"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bromley",
-        null
+        [
+          "Wakayama"
+        ],
+        [
+          "/wiki/Wakayama_Prefecture"
+        ]
       ]
     ],
     [
       [
-        "BR6",
-        null
+        [
+          "Minamiawaji"
+        ],
+        [
+          "/wiki/Minamiawaji,_Hyogo"
+        ]
       ],
       [
-        "ORPINGTON",
-        null
+        [
+          "\u5357\u3042\u308f\u3058\u5e02"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Orpington,Locksbottom,Farnborough,Green Street Green,Chelsfield,Downe,Pratt's Bottom,Well Hill",
-        "/wiki/Orpington /wiki/Locksbottom /wiki/Farnborough,_London /wiki/Green_Street_Green /wiki/Chelsfield /wiki/Downe /wiki/Pratt%27s_Bottom /wiki/Well_Hill"
+        [
+          "\u5357\u6de1\u8def"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sevenoaks",
-        "/wiki/Sevenoaks_District"
+        [
+          "Hy\u014dgo"
+        ],
+        [
+          "/wiki/Hy%C5%8Dgo_Prefecture"
+        ]
       ]
     ],
     [
       [
-        "BR7",
-        null
+        [
+          "Izunokuni"
+        ],
+        [
+          "/wiki/Izunokuni,_Shizuoka"
+        ]
       ],
       [
-        "CHISLEHURST",
-        null
+        [
+          "\u4f0a\u8c46\u306e\u56fd\u5e02"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Chislehurst,Elmstead",
-        "/wiki/Chislehurst /wiki/Elmstead,_London"
+        [
+          "\u4f0a\u8c46\u4e4b\u56fd"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Greenwich",
-        "/wiki/Royal_Borough_of_Greenwich"
+        [
+          "Shizuoka"
+        ],
+        [
+          "/wiki/Shizuoka_Prefecture"
+        ]
       ]
     ],
     [
       [
-        "BR8",
-        null
+        [
+          "Fujimino"
+        ],
+        [
+          "/wiki/Fujimino,_Saitama"
+        ]
       ],
       [
-        "SWANLEY",
-        null
+        [
+          "\u3075\u3058\u307f\u91ce\u5e02"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Swanley,Hextable,Crockenhill,Swanley Village,Hockenden",
-        "/wiki/Swanley /wiki/Hextable /wiki/Crockenhill /wiki/Swanley_Village /wiki/Hockenden"
+        [
+          "\u5bcc\u58eb\u898b\u91ce"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dartford",
-        "/wiki/Borough_of_Dartford"
+        [
+          "Saitama"
+        ],
+        [
+          "/wiki/Saitama_Prefecture"
+        ]
       ]
     ]
   ],
-  "context": "The approximate coverage of the postcode districts:",
+  "context": "",
   "idx": 7813
 }

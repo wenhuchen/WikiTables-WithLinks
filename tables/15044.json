@@ -1,187 +1,731 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_Live_episodes",
-  "title": "List of Live episodes",
+  "url": "https://en.wikipedia.org/wiki/List_of_rugby_union_competitions",
+  "title": "List of rugby union competitions",
   "header": [
     [
-      "Date",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Co-hosts",
-      null
+      [
+        "Participants"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Guests / segments",
-      null
+      [
+        "First played"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Last played"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Frequency"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Notes"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "August 3",
-        null
+        [
+          "Rugby World Cup"
+        ],
+        [
+          "/wiki/Rugby_World_Cup"
+        ]
       ],
       [
-        "Kelly Ripa & Michael Strahan",
-        null
+        [
+          "Top 12 teams from previous World Cup (the top 3 in each group) plus 8 nations from regional qualifying tournaments."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Meryl Streep,Michael B. Jordan",
-        "/wiki/Meryl_Streep /wiki/Michael_B._Jordan"
+        [
+          "1987"
+        ],
+        [
+          "/wiki/1987_Rugby_World_Cup"
+        ]
+      ],
+      [
+        [
+          "2019"
+        ],
+        [
+          "/wiki/2019_Rugby_World_Cup"
+        ]
+      ],
+      [
+        [
+          "Quadrennial"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "August 4",
-        null
+        [
+          "Women's Rugby World Cup"
+        ],
+        [
+          "/wiki/Women%27s_Rugby_World_Cup"
+        ]
       ],
       [
-        "Kelly Ripa & Michael Strahan",
-        null
+        [
+          "12 top national women's teams"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jason Segel,Kate Mara",
-        "/wiki/Jason_Segel /wiki/Kate_Mara"
+        [
+          "1991"
+        ],
+        [
+          "/wiki/1991_Women%27s_Rugby_World_Cup"
+        ]
+      ],
+      [
+        [
+          "2017"
+        ],
+        [
+          "/wiki/2017_Women%27s_Rugby_World_Cup"
+        ]
+      ],
+      [
+        [
+          "Quadrennial"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "August 5",
-        null
+        [
+          "Six Nations Championship"
+        ],
+        [
+          "/wiki/Six_Nations_Championship"
+        ]
       ],
       [
-        "Kelly Ripa & Michael Strahan",
-        null
+        [
+          "England",
+          "France",
+          "Ireland",
+          "Italy",
+          "Scotland",
+          "Wales"
+        ],
+        [
+          "/wiki/England_national_rugby_union_team",
+          "/wiki/France_national_rugby_union_team",
+          "/wiki/Ireland_national_rugby_union_team",
+          "/wiki/Italy_national_rugby_union_team",
+          "/wiki/Scotland_national_rugby_union_team",
+          "/wiki/Wales_national_rugby_union_team"
+        ]
       ],
       [
-        "Salma Hayek,Mamie Gummer",
-        "/wiki/Salma_Hayek /wiki/Mamie_Gummer"
+        [
+          "1883"
+        ],
+        [
+          "/wiki/1883_Home_Nations_Championship"
+        ]
+      ],
+      [
+        [
+          "2019"
+        ],
+        [
+          "/wiki/2019_Six_Nations_Championship"
+        ]
+      ],
+      [
+        [
+          "Annually"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2000"
+        ],
+        [
+          "/wiki/2000_Six_Nations_Championship"
+        ]
       ]
     ],
     [
       [
-        "August 6",
-        null
+        [
+          "Women's Six Nations Championship"
+        ],
+        [
+          "/wiki/Women%27s_Six_Nations_Championship"
+        ]
       ],
       [
-        "Kelly Ripa & Michael Strahan",
-        null
+        [
+          "England",
+          "France",
+          "Ireland",
+          "Italy",
+          "Scotland",
+          "Wales"
+        ],
+        [
+          "/wiki/England_women%27s_national_rugby_union_team",
+          "/wiki/France_women%27s_national_rugby_union_team",
+          "/wiki/Ireland_women%27s_national_rugby_union_team",
+          "/wiki/Italy_women%27s_national_rugby_union_team",
+          "/wiki/Scotland_women%27s_national_rugby_union_team",
+          "/wiki/Wales_women%27s_national_rugby_union_team"
+        ]
       ],
       [
-        "Miles Teller,Rick Springfield",
-        "/wiki/Miles_Teller /wiki/Rick_Springfield"
+        [
+          "1996"
+        ],
+        [
+          "/wiki/1996_Women%27s_Home_Nations_Championship"
+        ]
+      ],
+      [
+        [
+          "2019"
+        ],
+        [
+          "/wiki/2019_Women%27s_Six_Nations_Championship"
+        ]
+      ],
+      [
+        [
+          "Annually"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Originally the Home International Championship. Became the Five Nations in 1999 when France joined. Spain was added in 2000, but Ireland did not play all the other countries in 2000 or 2001, making the first true Women's Six Nations the 2002 competition. Spain were replaced by Italy effective in 2007 after the competition was taken over by the (men's) Six Nations committee."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "August 7",
-        null
+        [
+          "The Rugby Championship"
+        ],
+        [
+          "/wiki/The_Rugby_Championship"
+        ]
       ],
       [
-        "Kelly Ripa & Michael Strahan",
-        null
+        [
+          "Argentina",
+          "Australia",
+          "New Zealand",
+          "South Africa"
+        ],
+        [
+          "/wiki/Argentina_national_rugby_union_team",
+          "/wiki/Australia_national_rugby_union_team",
+          "/wiki/New_Zealand_national_rugby_union_team",
+          "/wiki/South_Africa_national_rugby_union_team"
+        ]
       ],
       [
-        "Alexander Skarsgard,Peter Facinelli",
-        "/wiki/Alexander_Skarsgard /wiki/Peter_Facinelli"
+        [
+          "1996"
+        ],
+        [
+          "/wiki/1996_Tri_Nations_Series"
+        ]
+      ],
+      [
+        [
+          "2019"
+        ],
+        [
+          "/wiki/2019_Rugby_Championship"
+        ]
+      ],
+      [
+        [
+          "Annually"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "From its inception through 2011, the competition involved only Australia, New Zealand and South Africa, and was known as the Tri Nations."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "August 10",
-        null
+        [
+          "Rugby Europe Women's  Championship"
+        ],
+        [
+          "/wiki/Rugby_Europe_Women%27s_Championship"
+        ]
       ],
       [
-        "Ciara",
-        "/wiki/Ciara"
+        [
+          "Up to 16 European national teams"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Henry Cavill",
-        "/wiki/Henry_Cavill"
+        [
+          "1988"
+        ],
+        [
+          "/wiki/1988_Women%27s_European_Cup"
+        ]
+      ],
+      [
+        [
+          "2019"
+        ],
+        [
+          "/wiki/2019_Rugby_Europe_Women%27s_Championship"
+        ]
+      ],
+      [
+        [
+          "Annually"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tournament for European women's national teams. Number of participants varies from year to year. The tournament is often divided into two \"pools\", dependent on playing strength. France and England, when they take part, normally enter \"A\" teams."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "August 11",
-        null
+        [
+          "Rugby Europe International Championships"
+        ],
+        [
+          "/wiki/Rugby_Europe_International_Championships"
+        ]
       ],
       [
-        "Lucy Liu",
-        "/wiki/Lucy_Liu"
+        [
+          "36 European national teams"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Armie Hammer",
-        "/wiki/Armie_Hammer"
+        [
+          "2000"
+        ],
+        [
+          "/wiki/2000_European_Nations_Cup_First_Division"
+        ]
+      ],
+      [
+        [
+          "2019"
+        ],
+        [
+          "/wiki/2019_Rugby_Europe_Championship"
+        ]
+      ],
+      [
+        [
+          "Annually"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Excludes European sides in the Six Nations Tournament. Currently played over a single season on a single round-robin basis with the competition split into five divisions, with promotion and relegation."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "August 12",
-        null
+        [
+          "World Rugby Pacific Nations Cup"
+        ],
+        [
+          "/wiki/World_Rugby_Pacific_Nations_Cup"
+        ]
       ],
       [
-        "Busy Philipps",
-        "/wiki/Busy_Philipps"
+        [
+          "Fiji",
+          "Samoa",
+          "Tonga"
+        ],
+        [
+          "/wiki/Fiji_national_rugby_union_team",
+          "/wiki/Samoa_national_rugby_union_team",
+          "/wiki/Tonga_national_rugby_union_team"
+        ]
       ],
       [
-        "Heidi Klum,Brad Keselowski,Terrariums",
-        "/wiki/Heidi_Klum /wiki/Brad_Keselowski /wiki/Terrariums"
+        [
+          "2006"
+        ],
+        [
+          "/wiki/2006_IRB_Pacific_5_Nations"
+        ]
+      ],
+      [
+        [
+          "2019"
+        ],
+        [
+          "/wiki/2019_World_Rugby_Pacific_Nations_Cup"
+        ]
+      ],
+      [
+        [
+          "Annually"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Pacific Tri-Nations",
+          "Australia A",
+          "Junior All Blacks",
+          "New Zealand M\u0101ori",
+          "Canada",
+          "USA"
+        ],
+        [
+          "/wiki/Pacific_Tri-Nations",
+          "/wiki/Australia_A_national_rugby_union_team",
+          "/wiki/Junior_All_Blacks",
+          "/wiki/M%C4%81ori_All_Blacks",
+          "/wiki/Canada_national_rugby_union_team",
+          "/wiki/United_States_national_rugby_union_team"
+        ]
       ]
     ],
     [
       [
-        "August 13",
-        null
+        [
+          "World Rugby Pacific Challenge"
+        ],
+        [
+          "/wiki/World_Rugby_Pacific_Challenge"
+        ]
       ],
       [
-        "Busy Philipps",
-        "/wiki/Busy_Philipps"
+        [
+          "Fiji Warriors",
+          "Junior Japan",
+          "Samoa A",
+          "Tonga A"
+        ],
+        [
+          "/wiki/Fiji_Warriors",
+          "/wiki/Junior_Japan",
+          "/wiki/Samoa_A_national_rugby_union_team",
+          "/wiki/Tonga_A_national_rugby_union_team"
+        ]
       ],
       [
-        "Connie Britton,Rupert Friend",
-        "/wiki/Connie_Britton /wiki/Rupert_Friend"
+        [
+          "2006"
+        ],
+        [
+          "/wiki/2006_Pacific_Rugby_Cup"
+        ]
+      ],
+      [
+        [
+          "2019"
+        ],
+        [
+          "/wiki/World_Rugby_Pacific_Challenge"
+        ]
+      ],
+      [
+        [
+          "Annually"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Pampas XV"
+        ],
+        [
+          "/wiki/Pampas_XV"
+        ]
       ]
     ],
     [
       [
-        "August 14",
-        null
+        [
+          "Nations Cup"
+        ],
+        [
+          "/wiki/World_Rugby_Nations_Cup"
+        ]
       ],
       [
-        "Sara Haines",
-        "/wiki/Sara_Haines"
+        [
+          "Argentina XV",
+          "Italy A",
+          "Namibia",
+          "Romania",
+          "Spain",
+          "Uruguay"
+        ],
+        [
+          "/wiki/Argentina_XV_national_rugby_union_team",
+          "/wiki/Italy_A_national_rugby_union_team",
+          "/wiki/Namibia_national_rugby_union_team",
+          "/wiki/Romania_national_rugby_union_team",
+          "/wiki/Spain_national_rugby_union_team",
+          "/wiki/Uruguay_national_rugby_union_team"
+        ]
       ],
       [
-        "Zachary Quinto",
-        "/wiki/Zachary_Quinto"
+        [
+          "2006"
+        ],
+        [
+          "/wiki/2006_IRB_Nations_Cup"
+        ]
+      ],
+      [
+        [
+          "2019"
+        ],
+        [
+          "/wiki/World_Rugby_Nations_Cup"
+        ]
+      ],
+      [
+        [
+          "Annually"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Portugal",
+          "Russia"
+        ],
+        [
+          "/wiki/Portugal_national_rugby_union_team",
+          "/wiki/Russia_national_rugby_union_team"
+        ]
       ]
     ],
     [
       [
-        "August 17",
-        null
+        [
+          "Americas Rugby Championship"
+        ],
+        [
+          "/wiki/Americas_Rugby_Championship"
+        ]
       ],
       [
-        "Jane Lynch",
-        "/wiki/Jane_Lynch"
+        [
+          "Argentina XV",
+          "Brazil",
+          "Canada",
+          "Chile",
+          "United States",
+          "Uruguay"
+        ],
+        [
+          "/wiki/Argentina_XV_national_rugby_union_team",
+          "/wiki/Brazil_national_rugby_union_team",
+          "/wiki/Canada_national_rugby_union_team",
+          "/wiki/Chile_national_rugby_union_team",
+          "/wiki/United_States_national_rugby_union_team",
+          "/wiki/Uruguay_national_rugby_union_team"
+        ]
       ],
       [
-        "Kristen Stewart,Oscar Isaac",
-        "/wiki/Kristen_Stewart /wiki/Oscar_Isaac"
+        [
+          "2009"
+        ],
+        [
+          "/wiki/2009_Americas_Rugby_Championship"
+        ]
+      ],
+      [
+        [
+          "2019"
+        ],
+        [
+          "/wiki/2019_Americas_Rugby_Championship"
+        ]
+      ],
+      [
+        [
+          "Annually"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Originally involved Canadian regional sides plus a USA developmental side and Argentina XV (then known as Argentina Jaguars). Later editions mostly featured national A sides, though Uruguay normally sent its senior national team. Following a hiatus in 2015 to accommodate that year's Rugby World Cup, the competition was relaunched in 2016 with its current lineup of teams, all senior national sides except for Argentina XV."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "August 18",
-        null
+        [
+          "Asia Rugby Championship"
+        ],
+        [
+          "/wiki/Asia_Rugby_Championship"
+        ]
       ],
       [
-        "Ana Gasteyer",
-        "/wiki/Ana_Gasteyer"
+        [
+          "Top three Asian sides"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Howie Mandel,Patricia Clarkson,R5",
-        "/wiki/Howie_Mandel /wiki/Patricia_Clarkson /wiki/R5_(band)"
+        [
+          "2008"
+        ],
+        [
+          "/wiki/2008_Asian_Five_Nations"
+        ]
+      ],
+      [
+        [
+          "2019"
+        ],
+        [
+          "/wiki/2019_Asia_Rugby_Championship"
+        ]
+      ],
+      [
+        [
+          "Annually"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Japan",
+          "Korea",
+          "Hong Kong",
+          "Kazakhstan",
+          "Arabian Gulf"
+        ],
+        [
+          "/wiki/Japan_national_rugby_union_team",
+          "/wiki/Korea_national_rugby_union_team",
+          "/wiki/Hong_Kong_national_rugby_union_team",
+          "/wiki/Kazakhstan_national_rugby_union_team",
+          "/wiki/Arabian_Gulf_rugby_union_team"
+        ]
       ]
     ]
   ],

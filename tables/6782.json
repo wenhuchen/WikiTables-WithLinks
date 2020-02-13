@@ -1,173 +1,593 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Sun_Belt_Conference",
-  "title": "Sun Belt Conference",
+  "url": "https://en.wikipedia.org/wiki/2002_MLS_SuperDraft",
+  "title": "2002 MLS SuperDraft",
   "header": [
     [
-      "Sport",
-      null
+      [
+        "Pick #"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Men's",
-      null
+      [
+        "MLS team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Women's",
-      null
+      [
+        "Player"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Position"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Affiliation"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Baseball",
-        "/wiki/College_baseball"
+        [
+          "13"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Los Angeles Galaxy"
+        ],
+        [
+          "/wiki/Los_Angeles_Galaxy"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Hemir Neibles"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "M"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Brooklyn Knights"
+        ],
+        [
+          "/wiki/Brooklyn_Knights"
+        ]
       ]
     ],
     [
       [
-        "Basketball",
-        "/wiki/College_basketball"
+        [
+          "14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "New England Revolution"
+        ],
+        [
+          "/wiki/New_England_Revolution"
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Shalrie Joseph"
+        ],
+        [
+          "/wiki/Shalrie_Joseph"
+        ]
+      ],
+      [
+        [
+          "M"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "St. John's University"
+        ],
+        [
+          "/wiki/Saint_John%27s_University,_New_York"
+        ]
       ]
     ],
     [
       [
-        "Cross Country",
-        "/wiki/Cross_country_running"
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Dallas Burn"
+        ],
+        [
+          "/wiki/Dallas_Burn"
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Jordan Stone"
+        ],
+        [
+          "/wiki/Jordan_Stone"
+        ]
+      ],
+      [
+        [
+          "M"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Project-40"
+        ],
+        [
+          "/wiki/Project-40"
+        ]
       ]
     ],
     [
       [
-        "Football",
-        "/wiki/College_football"
+        [
+          "16"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Colorado Rapids"
+        ],
+        [
+          "/wiki/Colorado_Rapids"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Danny Jackson"
+        ],
+        [
+          "/wiki/Danny_Jackson_(soccer)"
+        ]
+      ],
+      [
+        [
+          "D"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "University of North Carolina"
+        ],
+        [
+          "/wiki/University_of_North_Carolina_at_Chapel_Hill"
+        ]
       ]
     ],
     [
       [
-        "Golf",
-        "/wiki/Golf"
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Chicago Fire"
+        ],
+        [
+          "/wiki/Chicago_Fire_Soccer_Club"
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Craig Capano"
+        ],
+        [
+          "/wiki/Craig_Capano"
+        ]
+      ],
+      [
+        [
+          "M"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Project-40"
+        ],
+        [
+          "/wiki/Project-40"
+        ]
       ]
     ],
     [
       [
-        "Soccer",
-        "/wiki/College_soccer"
+        [
+          "18"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Dallas Burn"
+        ],
+        [
+          "/wiki/Dallas_Burn"
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Matt Behncke"
+        ],
+        [
+          "/wiki/Matt_Behncke"
+        ]
+      ],
+      [
+        [
+          "D"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Princeton University"
+        ],
+        [
+          "/wiki/Princeton_University"
+        ]
       ]
     ],
     [
       [
-        "Softball",
-        "/wiki/College_softball"
+        [
+          "19"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Colorado Rapids"
+        ],
+        [
+          "/wiki/Colorado_Rapids"
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Jeff Stewart"
+        ],
+        [
+          "/wiki/Jeff_Stewart_(soccer_player)"
+        ]
+      ],
+      [
+        [
+          "D"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Santa Clara University"
+        ],
+        [
+          "/wiki/Santa_Clara_University"
+        ]
       ]
     ],
     [
       [
-        "Tennis",
-        "/wiki/Tennis"
+        [
+          "20"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Columbus Crew"
+        ],
+        [
+          "/wiki/Columbus_Crew"
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Jeff Matteo"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "M"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "St. John's University"
+        ],
+        [
+          "/wiki/Saint_John%27s_University,_New_York"
+        ]
       ]
     ],
     [
       [
-        "Track & Field Indoor",
-        "/wiki/Track_and_field"
+        [
+          "21"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "New England Revolution"
+        ],
+        [
+          "/wiki/New_England_Revolution"
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Ian Fuller"
+        ],
+        [
+          "/wiki/Ian_Fuller"
+        ]
+      ],
+      [
+        [
+          "F"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Clemson University"
+        ],
+        [
+          "/wiki/Clemson_University"
+        ]
       ]
     ],
     [
       [
-        "Track & Field Outdoor",
-        "/wiki/Track_and_field"
+        [
+          "22"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Los Angeles Galaxy"
+        ],
+        [
+          "/wiki/Los_Angeles_Galaxy"
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Bryheem Hancock"
+        ],
+        [
+          "/wiki/Bryheem_Hancock"
+        ]
+      ],
+      [
+        [
+          "G"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "University of Connecticut"
+        ],
+        [
+          "/wiki/University_of_Connecticut"
+        ]
       ]
     ],
     [
       [
-        "Volleyball",
-        "/wiki/Volleyball"
+        [
+          "23"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Columbus Crew"
+        ],
+        [
+          "/wiki/Columbus_Crew"
+        ]
       ],
       [
-        "Y",
-        null
+        [
+          "Jon Busch"
+        ],
+        [
+          "/wiki/Jon_Busch"
+        ]
+      ],
+      [
+        [
+          "G"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Hershey Wildcats"
+        ],
+        [
+          "/wiki/Hershey_Wildcats"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "24"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "D.C. United"
+        ],
+        [
+          "/wiki/D.C._United"
+        ]
+      ],
+      [
+        [
+          "Mike McGinty"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "G"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Richmond Kickers"
+        ],
+        [
+          "/wiki/Richmond_Kickers"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "25"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Los Angeles Galaxy"
+        ],
+        [
+          "/wiki/Los_Angeles_Galaxy"
+        ]
+      ],
+      [
+        [
+          "Gavin Glinton"
+        ],
+        [
+          "/wiki/Gavin_Glinton"
+        ]
+      ],
+      [
+        [
+          "F"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Bradley University"
+        ],
+        [
+          "/wiki/Bradley_University"
+        ]
       ]
     ]
   ],

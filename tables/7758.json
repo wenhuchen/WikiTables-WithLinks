@@ -1,313 +1,583 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Thabazimbi_Local_Municipality",
-  "title": "Thabazimbi Local Municipality",
+  "url": "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Canada",
+  "title": "List of World Heritage Sites in Canada",
   "header": [
     [
-      "Place",
-      null
+      [
+        "Site"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Code",
-      null
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Area (km)",
-      null
+      [
+        "Criteria"
+      ],
+      [
+        "/wiki/World_Heritage_Site"
+      ]
     ],
     [
-      "Population",
-      null
+      [
+        "ha",
+        "acre"
+      ],
+      [
+        "/wiki/Hectare",
+        "/wiki/Acre"
+      ]
     ],
     [
-      "Most spoken language",
-      null
+      [
+        "Year of submission"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Amandelbult",
-        "/wiki/Amandelbult"
+        [
+          "Gwaii Haanas"
+        ],
+        [
+          "/wiki/Gwaii_Haanas_National_Park_Reserve_and_Haida_Heritage_Site"
+        ]
       ],
       [
-        "91401",
-        "/wiki/HTTP_404"
+        [
+          "British Columbia",
+          "52\u00b023\u203221\u2033N 131\u00b028\u203216\u2033W\ufeff / \ufeff52.38917\u00b0N 131.47111\u00b0W\ufeff / 52.38917; -131.47111\ufeff (Gwaii Haanas)"
+        ],
+        [
+          "/wiki/British_Columbia",
+          null
+        ]
       ],
       [
-        "47.73",
-        null
+        [
+          "Mixed: (iii), (v), (vi), (vii), (ix), (x)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2,076",
-        null
+        [
+          "147,000 (360,000)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tswana",
-        "/wiki/Tswana_language"
+        [
+          "2004"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ipeleng",
-        "/wiki/HTTP_404"
+        [
+          "Ivvavik",
+          "Vuntut",
+          "Herschel Island"
+        ],
+        [
+          "/wiki/Ivvavik_National_Park",
+          "/wiki/Vuntut_National_Park",
+          "/wiki/Herschel_Island"
+        ]
       ],
       [
-        "91402",
-        "/wiki/HTTP_404"
+        [
+          "Yukon",
+          "69\u00b031\u203211\u2033N 139\u00b031\u203230\u2033W\ufeff / \ufeff69.51972\u00b0N 139.52500\u00b0W\ufeff / 69.51972; -139.52500\ufeff (Ivvavik / Vuntut / Herschel Island (Qikiqtaruk))"
+        ],
+        [
+          "/wiki/Yukon",
+          null
+        ]
       ],
       [
-        "0.02",
-        null
+        [
+          "Mixed: (iv), (v), (vii), (viii), (x)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "940",
-        null
+        [
+          "1,550,000 (3,800,000)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tswana",
-        null
+        [
+          "2004"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Middeldrift",
-        "/wiki/Middeldrift,_Limpopo"
+        [
+          "Quttinirpaaq"
+        ],
+        [
+          "/wiki/Quttinirpaaq_National_Park"
+        ]
       ],
       [
-        "91403",
-        "/wiki/HTTP_404"
+        [
+          "Nunavut",
+          "82\u00b013\u2032N 72\u00b013\u2032W\ufeff / \ufeff82.217\u00b0N 72.217\u00b0W\ufeff / 82.217; -72.217\ufeff (Quttinirpaaq)"
+        ],
+        [
+          "/wiki/Nunavut",
+          null
+        ]
       ],
       [
-        "1.15",
-        null
+        [
+          "Mixed: (iii), (vii), (viii), (x)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2,138",
-        null
+        [
+          "3,777,500 (9,334,000)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Afrikaans",
-        "/wiki/Afrikaans"
+        [
+          "2004"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Mmebane",
-        "/wiki/HTTP_404"
+        [
+          "Tr\u2019ond\u00ebk-Klondike"
+        ],
+        [
+          "/wiki/Klondike_Gold_Rush"
+        ]
       ],
       [
-        "91404",
-        "/wiki/HTTP_404"
+        [
+          "Yukon",
+          "64\u00b0N 139\u00b0W\ufeff / \ufeff64\u00b0N 139\u00b0W\ufeff / 64; -139\ufeff (The Klondike)"
+        ],
+        [
+          "/wiki/Yukon",
+          null
+        ]
       ],
       [
-        "0.01",
-        null
+        [
+          "Cultural: (iv), (v)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "283",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Northern Sotho",
-        "/wiki/Northern_Sotho_language"
+        [
+          "2004"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Northam",
-        "/wiki/Northam,_South_Africa"
+        [
+          "Hecate Strait",
+          "Queen Charlotte Sound",
+          "Glass Sponge Reefs"
+        ],
+        [
+          "/wiki/Hecate_Strait",
+          "/wiki/Queen_Charlotte_Sound_(Canada)",
+          "/wiki/Sponge_reef"
+        ]
       ],
       [
-        "91405",
-        "/wiki/HTTP_404"
+        [
+          "British Columbia"
+        ],
+        [
+          "/wiki/British_Columbia"
+        ]
       ],
       [
-        "47.56",
-        null
+        [
+          "Natural: (viii), (ix), (x)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6,180",
-        null
+        [
+          "100,000 (250,000)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tswana",
-        null
+        [
+          "2018"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Regorogile",
-        "/wiki/HTTP_404"
+        [
+          "Stein Valley"
+        ],
+        [
+          "/wiki/Stein_Valley_Nlaka%27pamux_Heritage_Park"
+        ]
       ],
       [
-        "91406",
-        "/wiki/HTTP_404"
+        [
+          "British Columbia",
+          "50\u00b015\u203226\u2033N 122\u00b00\u203212\u2033W\ufeff / \ufeff50.25722\u00b0N 122.00333\u00b0W\ufeff / 50.25722; -122.00333\ufeff (Stein Valley)"
+        ],
+        [
+          "/wiki/British_Columbia",
+          null
+        ]
       ],
       [
-        "1.11",
-        null
+        [
+          "Cultural: (iii), (vi)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7,609",
-        null
+        [
+          "107,191 (264,870)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tswana",
-        null
+        [
+          "2018"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Rooiberg Tin Mine",
-        "/wiki/HTTP_404"
+        [
+          "Wanuskewin"
+        ],
+        [
+          "/wiki/Wanuskewin_Heritage_Park"
+        ]
       ],
       [
-        "91407",
-        "/wiki/HTTP_404"
+        [
+          "Saskatchewan",
+          "52\u00b013\u203239\u2033N 106\u00b035\u203247.54\u2033W\ufeff / \ufeff52.22750\u00b0N 106.5965389\u00b0W\ufeff / 52.22750; -106.5965389\ufeff (Wanuskewin)"
+        ],
+        [
+          "/wiki/Saskatchewan",
+          null
+        ]
       ],
       [
-        "4.32",
-        null
+        [
+          "Cultural: (iii)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "250",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Afrikaans",
-        null
+        [
+          "2018"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Rooikrans",
-        "/wiki/HTTP_404"
+        [
+          "Anticosti Island"
+        ],
+        [
+          "/wiki/Anticosti_Island"
+        ]
       ],
       [
-        "91408",
-        "/wiki/HTTP_404"
+        [
+          "Quebec",
+          "49\u00b051\u203242.05\u2033N 64\u00b031\u203220.01\u2033W\ufeff / \ufeff49.8616806\u00b0N 64.5222250\u00b0W\ufeff / 49.8616806; -64.5222250\ufeff (Anticosti Island)"
+        ],
+        [
+          "/wiki/Quebec",
+          null
+        ]
       ],
       [
-        "2.69",
-        null
+        [
+          "Natural: (viii)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "153",
-        null
+        [
+          "928,900 (2,295,000) (includes littoral area)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tswana",
-        null
+        [
+          "2018"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Smersha Block",
-        "/wiki/HTTP_404"
+        [
+          "Heart's Content Cable Station Provincial Historic Site"
+        ],
+        [
+          "/wiki/Heart%27s_Content_Cable_Station"
+        ]
       ],
       [
-        "91409",
-        "/wiki/HTTP_404"
+        [
+          "Newfoundland and Labrador",
+          "47\u00b052\u203221.1\u2033N 53\u00b022\u20327.1\u2033W\ufeff / \ufeff47.872528\u00b0N 53.368639\u00b0W\ufeff / 47.872528; -53.368639\ufeff (Heart's Content Cable Station)"
+        ],
+        [
+          "/wiki/Newfoundland_and_Labrador",
+          null
+        ]
       ],
       [
-        "1.33",
-        null
+        [
+          "Cultural: (ii), (iv)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "12,875",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Xhosa",
-        "/wiki/Xhosa_language"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Swartklip",
-        "/wiki/Swartklip"
+        [
+          "Qajartalik"
+        ],
+        [
+          "/wiki/Qajartalik"
+        ]
       ],
       [
-        "91410",
-        "/wiki/HTTP_404"
+        [
+          "Nunavut",
+          "61\u00b019\u203253.66\u2033N 71\u00b029\u203258.72\u2033W\ufeff / \ufeff61.3315722\u00b0N 71.4996444\u00b0W\ufeff / 61.3315722; -71.4996444\ufeff (Qajartalik)"
+        ],
+        [
+          "/wiki/Nunavut",
+          null
+        ]
       ],
       [
-        "14.18",
-        null
+        [
+          "Cultural: (iii)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2,912",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Afrikaans",
-        null
+        [
+          "2018"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Swartkop",
-        "/wiki/HTTP_404"
+        [
+          "Sirmilik National Park"
+        ],
+        [
+          "/wiki/Sirmilik_National_Park"
+        ]
       ],
       [
-        "91411",
-        "/wiki/HTTP_404"
+        [
+          "Nunavut",
+          "73\u00b051\u20327.69\u2033N 83\u00b04\u203250.128\u2033W\ufeff / \ufeff73.8521361\u00b0N 83.08059111\u00b0W\ufeff / 73.8521361; -83.08059111\ufeff (Sirmilik National Park and the proposed Tallurutiup Imanga National Marine Conservation Area)"
+        ],
+        [
+          "/wiki/Nunavut",
+          null
+        ]
       ],
       [
-        "0.56",
-        null
+        [
+          "Mixed: (v),(ix)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "103",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Afrikaans",
-        null
+        [
+          "2018"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Thabazimbi",
-        "/wiki/Thabazimbi"
+        [
+          "Yukon Ice Patches"
+        ],
+        [
+          "/wiki/Yukon_Ice_Patches"
+        ]
       ],
       [
-        "91413",
-        "/wiki/HTTP_404"
+        [
+          "Yukon",
+          "60\u00b016\u203249.6\u2033N 135\u00b041\u203236.6\u2033W\ufeff / \ufeff60.280444\u00b0N 135.693500\u00b0W\ufeff / 60.280444; -135.693500\ufeff (Yukon Ice Patches)"
+        ],
+        [
+          "/wiki/Yukon",
+          null
+        ]
       ],
       [
-        "10.76",
-        null
+        [
+          "Cultural: (iii), (v)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4,423",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Afrikaans",
-        null
-      ]
-    ],
-    [
-      [
-        "Remainder of the municipality",
-        null
-      ],
-      [
-        "91412",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "9,723.06",
-        null
-      ],
-      [
-        "23,968",
-        null
-      ],
-      [
-        "Tswana",
-        null
+        [
+          "2018"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

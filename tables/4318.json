@@ -1,162 +1,408 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2005_UCI_Asia_Tour",
-  "title": "2005 UCI Asia Tour",
+  "url": "https://en.wikipedia.org/wiki/2017_FIFA_Confederations_Cup",
+  "title": "2017 FIFA Confederations Cup",
   "header": [
     [
-      "Rank",
-      null
+      [
+        "Country"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Team",
-      null
+      [
+        "Confederation"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Points",
-      null
+      [
+        "Qualified as"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Qualified on"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Previous appearances in tournament"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1.",
-        null
+        [
+          "Russia"
+        ],
+        [
+          "/wiki/Russia_national_football_team"
+        ]
       ],
       [
-        "Giant Asia Racing Team",
-        "/wiki/RTS%E2%80%93Monton_Racing_Team"
+        [
+          "UEFA"
+        ],
+        [
+          "/wiki/UEFA"
+        ]
       ],
       [
-        "796.64",
-        null
+        [
+          "Hosts"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2 December 2010"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0 (debut)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2.",
-        null
+        [
+          "Germany"
+        ],
+        [
+          "/wiki/Germany_national_football_team"
+        ]
       ],
       [
-        "Cycling Team Capec",
-        "/wiki/Cycling_Team_Capec"
+        [
+          "UEFA"
+        ],
+        [
+          "/wiki/UEFA"
+        ]
       ],
       [
-        "439",
-        null
+        [
+          "2014 FIFA World Cup"
+        ],
+        [
+          "/wiki/2014_FIFA_World_Cup"
+        ]
+      ],
+      [
+        [
+          "13 July 2014"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1999",
+          "2005"
+        ],
+        [
+          "/wiki/1999_FIFA_Confederations_Cup",
+          "/wiki/2005_FIFA_Confederations_Cup"
+        ]
       ]
     ],
     [
       [
-        "3.",
-        null
+        [
+          "Australia"
+        ],
+        [
+          "/wiki/Australia_national_soccer_team"
+        ]
       ],
       [
-        "Barloworld",
-        "/wiki/Barloworld_(cycling_team)"
+        [
+          "AFC"
+        ],
+        [
+          "/wiki/Asian_Football_Confederation"
+        ]
       ],
       [
-        "429",
-        null
+        [
+          "2015 AFC Asian Cup"
+        ],
+        [
+          "/wiki/2015_AFC_Asian_Cup"
+        ]
+      ],
+      [
+        [
+          "31 January 2015"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1997",
+          "2001",
+          "2005"
+        ],
+        [
+          "/wiki/1997_FIFA_Confederations_Cup",
+          "/wiki/2001_FIFA_Confederations_Cup",
+          "/wiki/2005_FIFA_Confederations_Cup"
+        ]
       ]
     ],
     [
       [
-        "4.",
-        null
+        [
+          "Chile"
+        ],
+        [
+          "/wiki/Chile_national_football_team"
+        ]
       ],
       [
-        "Paykan",
-        "/wiki/HTTP_404"
+        [
+          "CONMEBOL"
+        ],
+        [
+          "/wiki/CONMEBOL"
+        ]
       ],
       [
-        "314.64",
-        null
+        [
+          "2015 Copa Am\u00e9rica"
+        ],
+        [
+          "/wiki/2015_Copa_Am%C3%A9rica"
+        ]
+      ],
+      [
+        [
+          "4 July 2015"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0 (debut)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "5.",
-        null
+        [
+          "Mexico"
+        ],
+        [
+          "/wiki/Mexico_national_football_team"
+        ]
       ],
       [
-        "Ceramica Panaria\u2013Navigare",
-        "/wiki/Bardiani%E2%80%93CSF%E2%80%93Faizan%C3%A8"
+        [
+          "CONCACAF"
+        ],
+        [
+          "/wiki/CONCACAF"
+        ]
       ],
       [
-        "271",
-        null
+        [
+          "2015 CONCACAF Cup"
+        ],
+        [
+          "/wiki/2015_CONCACAF_Cup"
+        ]
+      ],
+      [
+        [
+          "10 October 2015"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1995",
+          "1997",
+          "1999",
+          "2001",
+          "2005",
+          "2013"
+        ],
+        [
+          "/wiki/1995_King_Fahd_Cup",
+          "/wiki/1997_FIFA_Confederations_Cup",
+          "/wiki/1999_FIFA_Confederations_Cup",
+          "/wiki/2001_FIFA_Confederations_Cup",
+          "/wiki/2005_FIFA_Confederations_Cup",
+          "/wiki/2013_FIFA_Confederations_Cup"
+        ]
       ]
     ],
     [
       [
-        "6.",
-        null
+        [
+          "New Zealand"
+        ],
+        [
+          "/wiki/New_Zealand_national_football_team"
+        ]
       ],
       [
-        "Bridgestone Anchor",
-        "/wiki/Bridgestone_Anchor"
+        [
+          "OFC"
+        ],
+        [
+          "/wiki/Oceania_Football_Confederation"
+        ]
       ],
       [
-        "261",
-        null
+        [
+          "2016 OFC Nations Cup"
+        ],
+        [
+          "/wiki/2016_OFC_Nations_Cup"
+        ]
+      ],
+      [
+        [
+          "11 June 2016"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1999",
+          "2003",
+          "2009"
+        ],
+        [
+          "/wiki/1999_FIFA_Confederations_Cup",
+          "/wiki/2003_FIFA_Confederations_Cup",
+          "/wiki/2009_FIFA_Confederations_Cup"
+        ]
       ]
     ],
     [
       [
-        "7.",
-        null
+        [
+          "Portugal"
+        ],
+        [
+          "/wiki/Portugal_national_football_team"
+        ]
       ],
       [
-        "Marco Polo",
-        "/wiki/Marco_Polo_Cycling%E2%80%93Donckers_Koffie"
+        [
+          "UEFA"
+        ],
+        [
+          "/wiki/UEFA"
+        ]
       ],
       [
-        "237",
-        null
+        [
+          "UEFA Euro 2016"
+        ],
+        [
+          "/wiki/UEFA_Euro_2016"
+        ]
+      ],
+      [
+        [
+          "10 July 2016"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0 (debut)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8.",
-        null
+        [
+          "Cameroon"
+        ],
+        [
+          "/wiki/Cameroon_national_football_team"
+        ]
       ],
       [
-        "Team Nippo",
-        "/wiki/Team_Nippo"
+        [
+          "CAF"
+        ],
+        [
+          "/wiki/Confederation_of_African_Football"
+        ]
       ],
       [
-        "227",
-        null
-      ]
-    ],
-    [
-      [
-        "9.",
-        null
+        [
+          "2017 Africa Cup of Nations"
+        ],
+        [
+          "/wiki/2017_Africa_Cup_of_Nations"
+        ]
       ],
       [
-        "Naturino-Sapore di Mare",
-        "/wiki/Naturino-Sapore_di_Mare"
+        [
+          "5 February 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "209",
-        null
-      ]
-    ],
-    [
-      [
-        "10.",
-        null
-      ],
-      [
-        "Navigators Insurance",
-        "/wiki/Navigators_(cycling_team)"
-      ],
-      [
-        "176",
-        null
+        [
+          "2001",
+          "2003"
+        ],
+        [
+          "/wiki/2001_FIFA_Confederations_Cup",
+          "/wiki/2003_FIFA_Confederations_Cup"
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "The following teams qualified for the tournament.",
   "idx": 4318
 }

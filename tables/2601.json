@@ -1,299 +1,555 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_aircraft_of_World_War_II",
-  "title": "List of aircraft of World War II",
+  "url": "https://en.wikipedia.org/wiki/List_of_bus_transit_systems_in_the_United_States",
+  "title": "List of bus transit systems in the United States",
   "header": [
     [
-      "Name of aircraft",
-      null
+      [
+        "System"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Yearin service",
-      null
+      [
+        "Locale"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country of origin",
-      null
+      [
+        "Major city(s)"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Beriev MBR-2",
-        "/wiki/Beriev_MBR-2"
+        [
+          "Amarillo City Transit"
+        ],
+        [
+          "/wiki/Amarillo_City_Transit"
+        ]
       ],
       [
-        "1935",
-        null
+        [
+          "Amarillo"
+        ],
+        [
+          "/wiki/Amarillo,_Texas"
+        ]
       ],
       [
-        "USSR",
-        null
+        [
+          "Amarillo"
+        ],
+        [
+          "/wiki/Amarillo"
+        ]
       ]
     ],
     [
       [
-        "Blohm & Voss BV 138",
-        "/wiki/Blohm_%26_Voss_BV_138"
+        [
+          "Beaumont Municipal Transit System"
+        ],
+        [
+          "/wiki/Beaumont_Municipal_Transit_System"
+        ]
       ],
       [
-        "1940",
-        null
+        [
+          "Beaumont"
+        ],
+        [
+          "/wiki/Beaumont,_Texas"
+        ]
       ],
       [
-        "Germany",
-        null
+        [
+          "Beaumont"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Br\u00e9guet 521 Bizerte",
-        "/wiki/Br%C3%A9guet_521_Bizerte"
+        [
+          "Brownsville Urban System"
+        ],
+        [
+          "/wiki/Brownsville_Urban_System"
+        ]
       ],
       [
-        "1935",
-        null
+        [
+          "Brownsville"
+        ],
+        [
+          "/wiki/Brownsville,_Texas"
+        ]
       ],
       [
-        "France",
-        null
+        [
+          "Brownsville"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "CAMS 37",
-        "/wiki/CAMS_37"
+        [
+          "Capital Metro"
+        ],
+        [
+          "/wiki/Capital_Metropolitan_Transportation_Authority"
+        ]
       ],
       [
-        "1926",
-        null
+        [
+          "Austin"
+        ],
+        [
+          "/wiki/Austin,_Texas"
+        ]
       ],
       [
-        "France",
-        null
+        [
+          "Austin"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "CAMS 55",
-        "/wiki/CAMS_55"
+        [
+          "Citibus (Lubbock)"
+        ],
+        [
+          "/wiki/Citibus_(Lubbock)"
+        ]
       ],
       [
-        "1930",
-        null
+        [
+          "Lubbock"
+        ],
+        [
+          "/wiki/Lubbock,_Texas"
+        ]
       ],
       [
-        "France",
-        null
+        [
+          "Lubbock"
+        ],
+        [
+          "/wiki/Lubbock"
+        ]
       ]
     ],
     [
       [
-        "Canadian Vickers Vancouver",
-        "/wiki/Canadian_Vickers_Vancouver"
+        [
+          "Conroe Connection"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1930",
-        null
+        [
+          "Conroe"
+        ],
+        [
+          "/wiki/Conroe,_Texas"
+        ]
       ],
       [
-        "Canada",
-        null
+        [
+          "Conroe"
+        ],
+        [
+          "/wiki/Conroe,_Texas"
+        ]
       ]
     ],
     [
       [
-        "Canadian Vickers Vedette",
-        "/wiki/Canadian_Vickers_Vedette"
+        [
+          "Corpus Christi Regional Transportation Authority"
+        ],
+        [
+          "/wiki/Corpus_Christi_Regional_Transportation_Authority"
+        ]
       ],
       [
-        "1925",
-        null
+        [
+          "Nueces County"
+        ],
+        [
+          "/wiki/Nueces_County,_Texas"
+        ]
       ],
       [
-        "Canada",
-        null
+        [
+          "Corpus Christi"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "CANT Z.501",
-        "/wiki/CANT_Z.501"
+        [
+          "Dallas Area Rapid Transit"
+        ],
+        [
+          "/wiki/Dallas_Area_Rapid_Transit"
+        ]
       ],
       [
-        "1935",
-        null
+        [
+          "Dallas"
+        ],
+        [
+          "/wiki/Dallas"
+        ]
       ],
       [
-        "Italy",
-        null
+        [
+          "Dallas"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Chyetverikov MDR-6",
-        "/wiki/Chyetverikov_MDR-6"
+        [
+          "Denton County Transportation Authority"
+        ],
+        [
+          "/wiki/Denton_County_Transportation_Authority"
+        ]
       ],
       [
-        "1941",
-        null
+        [
+          "Denton County"
+        ],
+        [
+          "/wiki/Denton_County,_Texas"
+        ]
       ],
       [
-        "USSR",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Consolidated PBY/PBN/PBV/OA-10 Catalina/Canso",
-        "/wiki/Consolidated_PBY_Catalina"
+        [
+          "El Metro Transit"
+        ],
+        [
+          "/wiki/El_Metro_Transit"
+        ]
       ],
       [
-        "1935",
-        null
+        [
+          "Laredo"
+        ],
+        [
+          "/wiki/Laredo,_Texas"
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "Laredo"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Consolidated P2Y",
-        "/wiki/Consolidated_P2Y"
+        [
+          "Island Transit"
+        ],
+        [
+          "/wiki/Island_Transit_(Texas)"
+        ]
       ],
       [
-        "1929",
-        null
+        [
+          "Galveston"
+        ],
+        [
+          "/wiki/Galveston,_Texas"
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "Galveston"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Consolidated PB2Y Coronado",
-        "/wiki/Consolidated_PB2Y_Coronado"
+        [
+          "Longview Transit"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1937",
-        null
+        [
+          "Longview"
+        ],
+        [
+          "/wiki/Longview,_Texas"
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "Longview"
+        ],
+        [
+          "/wiki/Longview,_Texas"
+        ]
       ]
     ],
     [
       [
-        "Dornier Do 18",
-        "/wiki/Dornier_Do_18"
+        [
+          "McAllen Express Transit"
+        ],
+        [
+          "/wiki/McAllen_Express_Transit"
+        ]
       ],
       [
-        "1938",
-        null
+        [
+          "McAllen"
+        ],
+        [
+          "/wiki/McAllen,_Texas"
+        ]
       ],
       [
-        "Germany",
-        null
+        [
+          "McAllen"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Dornier Do 24",
-        "/wiki/Dornier_Do_24"
+        [
+          "METRO Bus"
+        ],
+        [
+          "/wiki/METRO_Bus_(Houston,_TX)"
+        ]
       ],
       [
-        "1937",
-        null
+        [
+          "Harris County"
+        ],
+        [
+          "/wiki/Harris_County,_Texas"
+        ]
       ],
       [
-        "Germany",
-        null
+        [
+          "Houston"
+        ],
+        [
+          "/wiki/Houston"
+        ]
       ]
     ],
     [
       [
-        "Dornier Do J",
-        "/wiki/Dornier_Do_J"
+        [
+          "Metro Arlington Xpress"
+        ],
+        [
+          "/wiki/Metro_Arlington_Xpress"
+        ]
       ],
       [
-        "1922",
-        null
+        [
+          "Arlington"
+        ],
+        [
+          "/wiki/Arlington,_Texas"
+        ]
       ],
       [
-        "Germany",
-        null
+        [
+          "Arlington"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Hall PH",
-        "/wiki/Hall_PH"
+        [
+          "Sun Metro"
+        ],
+        [
+          "/wiki/Sun_Metro_Mass_Transit_System"
+        ]
       ],
       [
-        "1931",
-        null
+        [
+          "El Paso"
+        ],
+        [
+          "/wiki/El_Paso,_Texas"
+        ]
       ],
       [
-        "US",
-        null
+        [
+          "El Paso"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Kawanishi H6K",
-        "/wiki/Kawanishi_H6K"
+        [
+          "T-Line"
+        ],
+        [
+          "/wiki/Texarkana_Urban_Transit_District"
+        ]
       ],
       [
-        "1938",
-        null
+        [
+          "Texarkana metropolitan area"
+        ],
+        [
+          "/wiki/Texarkana_metropolitan_area"
+        ]
       ],
       [
-        "Japan",
-        null
+        [
+          "Texarkana, Texas",
+          "Texarkana, Arkansas"
+        ],
+        [
+          "/wiki/Texarkana,_Texas",
+          "/wiki/Texarkana,_Arkansas"
+        ]
       ]
     ],
     [
       [
-        "Kawanishi H8K",
-        "/wiki/Kawanishi_H8K"
+        [
+          "The District"
+        ],
+        [
+          "/wiki/Brazos_Transit_District"
+        ]
       ],
       [
-        "1942",
-        null
+        [
+          "Bryan-College Station metropolitan area"
+        ],
+        [
+          "/wiki/Bryan-College_Station_metropolitan_area"
+        ]
       ],
       [
-        "Japan",
-        null
+        [
+          "Bryan, Texas",
+          "College Station, Texas"
+        ],
+        [
+          "/wiki/Bryan,_Texas",
+          "/wiki/College_Station,_Texas"
+        ]
       ]
     ],
     [
       [
-        "Lat\u00e9co\u00e8re 302",
-        "/wiki/Lat%C3%A9co%C3%A8re_300"
+        [
+          "Trinity Metro"
+        ],
+        [
+          "/wiki/Trinity_Metro"
+        ]
       ],
       [
-        "1932",
-        null
+        [
+          "Tarrant County"
+        ],
+        [
+          "/wiki/Tarrant_County"
+        ]
       ],
       [
-        "France",
-        null
+        [
+          "Fort Worth"
+        ],
+        [
+          "/wiki/Fort_Worth,_Texas"
+        ]
       ]
     ],
     [
       [
-        "Lat\u00e9co\u00e8re 521-523",
-        "/wiki/Lat%C3%A9co%C3%A8re_521"
+        [
+          "Tyler Transit"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1935",
-        null
+        [
+          "Tyler"
+        ],
+        [
+          "/wiki/Tyler,_Texas"
+        ]
       ],
       [
-        "France",
-        null
+        [
+          "Tyler"
+        ],
+        [
+          "/wiki/Tyler,_Texas"
+        ]
       ]
     ]
   ],

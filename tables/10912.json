@@ -1,386 +1,352 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Comparison_of_firewalls",
-  "title": "Comparison of firewalls",
+  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Calgary_area",
+  "title": "List of airports in the Calgary area",
   "header": [
     [
-      "Firewall",
-      null
+      [
+        "Airport name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "License",
-      "/wiki/Software_license"
+      [
+        "ICAO",
+        "TC",
+        "LID",
+        "IATA"
+      ],
+      [
+        "/wiki/International_Civil_Aviation_Organization_airport_code",
+        "/wiki/Transport_Canada",
+        "/wiki/Location_identifier",
+        "/wiki/International_Air_Transport_Association_airport_code"
+      ]
     ],
     [
-      "Cost",
-      null
-    ],
-    [
-      "OS",
-      "/wiki/Operating_system"
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Clavister",
-        "/wiki/Clavister"
+        [
+          "Calgary (Aerial Recon) Heliport"
+        ],
+        [
+          "/wiki/List_of_heliports_in_Canada"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CAR3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Included on all ClavisterNGFWs",
-        null
-      ],
-      [
-        "Proprietary operating system cOS Core",
-        null
+        [
+          "Calgary"
+        ],
+        [
+          "/wiki/Calgary"
+        ]
       ]
     ],
     [
       [
-        "Check Point",
-        "/wiki/Check_Point"
+        [
+          "Calgary (Alberta Children's Hospital) Heliport"
+        ],
+        [
+          "/wiki/Alberta_Children%27s_Hospital"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CAC6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Included on Check Pointsecurity gateways",
-        null
-      ],
-      [
-        "Check Point IPSO,Linux",
-        "/wiki/Check_Point_IPSO /wiki/Linux"
+        [
+          "Calgary"
+        ],
+        [
+          "/wiki/Calgary"
+        ]
       ]
     ],
     [
       [
-        "FortiGate",
-        "/wiki/Fortinet#FortiGate_Firewall_Platform"
+        [
+          "Calgary/Blue Con Heliport"
+        ],
+        [
+          "/wiki/List_of_heliports_in_Canada"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CBC6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Included on all Fortigatedevices",
-        null
-      ],
-      [
-        "Linux",
-        "/wiki/Linux"
+        [
+          "Calgary"
+        ],
+        [
+          "/wiki/Calgary"
+        ]
       ]
     ],
     [
       [
-        "Palo Alto Networks",
-        "/wiki/Palo_Alto_Networks"
+        [
+          "Calgary (Bow Crow) Heliport"
+        ],
+        [
+          "/wiki/List_of_heliports_in_Canada"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CEP2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Included on Palo AltoNetworks firewalls",
-        null
-      ],
-      [
-        "Proprietary operating system PANOS",
-        null
+        [
+          "Calgary"
+        ],
+        [
+          "/wiki/Calgary"
+        ]
       ]
     ],
     [
       [
-        "Sophos",
-        "/wiki/Sophos"
+        [
+          "Calgary (City/Bow River) Heliport"
+        ],
+        [
+          "/wiki/List_of_heliports_in_Canada"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CEL2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Included on Sophos UTM",
-        null
-      ],
-      [
-        "Linux",
-        "/wiki/Linux"
+        [
+          "Calgary"
+        ],
+        [
+          "/wiki/Calgary"
+        ]
       ]
     ],
     [
       [
-        "Cisco ASA Firepower",
-        "/wiki/Sourcefire"
+        [
+          "Calgary (Eastlake) Heliport"
+        ],
+        [
+          "/wiki/List_of_heliports_in_Canada"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CEL9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Included on all CISCOASA devices",
-        null
-      ],
-      [
-        "Proprietary operating system",
-        null
+        [
+          "Calgary"
+        ],
+        [
+          "/wiki/Calgary"
+        ]
       ]
     ],
     [
       [
-        "Cisco PIX",
-        "/wiki/Cisco_PIX"
+        [
+          "Calgary (Foothills Hospital) Heliport"
+        ],
+        [
+          "/wiki/Foothills_Medical_Centre"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CFP3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Included on all CISCOPIX devices",
-        null
-      ],
-      [
-        "Proprietary operating system",
-        null
+        [
+          "Calgary"
+        ],
+        [
+          "/wiki/Calgary"
+        ]
       ]
     ],
     [
       [
-        "Juniper",
-        "/wiki/Juniper_Networks"
+        [
+          "Calgary/K. Coffey Residence Heliport"
+        ],
+        [
+          "/wiki/List_of_heliports_in_Canada"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CKC4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Included on Netscreensecurity gateways",
-        null
-      ],
-      [
-        "ScreenOS",
-        "/wiki/ScreenOS"
+        [
+          "Calgary"
+        ],
+        [
+          "/wiki/Calgary"
+        ]
       ]
     ],
     [
       [
-        "Juniper",
-        "/wiki/Juniper_Networks"
+        [
+          "Calgary (Peter Lougheed Centre) Heliport"
+        ],
+        [
+          "/wiki/Peter_Lougheed_Centre"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CLC3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Included on SRXsecurity gateways",
-        null
-      ],
-      [
-        "Junos",
-        "/wiki/Junos"
+        [
+          "Calgary"
+        ],
+        [
+          "/wiki/Calgary"
+        ]
       ]
     ],
     [
       [
-        "Sonicwall",
-        "/wiki/Sonicwall"
+        [
+          "Calgary (Rockyview Hospital) Heliport"
+        ],
+        [
+          "/wiki/Rockyview_General_Hospital"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CEM2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Included on Dell appliance",
-        null
-      ],
-      [
-        "SonicOS,Linux",
-        "/wiki/HTTP_404 /wiki/Linux"
+        [
+          "Calgary"
+        ],
+        [
+          "/wiki/Calgary"
+        ]
       ]
     ],
     [
       [
-        "Barracuda",
-        "/wiki/Barracuda_Networks"
+        [
+          "Calgary/South Health Campus Hospital Heliport"
+        ],
+        [
+          "/wiki/List_of_heliports_in_Canada"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CSH3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Included Firewall Next Generation appliance",
-        null
-      ],
-      [
-        "Windows",
-        "/wiki/Windows"
+        [
+          "Seton, Calgary"
+        ],
+        [
+          "/wiki/Seton,_Calgary"
+        ]
       ]
     ],
     [
       [
-        "Cyberoam",
-        "/wiki/Cyberoam"
+        [
+          "De Winton (Highwood) Heliport"
+        ],
+        [
+          "/wiki/List_of_heliports_in_Canada"
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "CED6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Included Firewall Sophos appliance",
-        null
-      ],
-      [
-        "Windows",
-        "/wiki/Windows"
-      ]
-    ],
-    [
-      [
-        "D-Link",
-        "/wiki/D-Link"
-      ],
-      [
-        "Proprietary",
-        "/wiki/Proprietary_software"
-      ],
-      [
-        "Included Firewall DFL",
-        null
-      ],
-      [
-        "Windows",
-        "/wiki/Windows"
-      ]
-    ],
-    [
-      [
-        "Endian Firewall",
-        "/wiki/Endian_Firewall"
-      ],
-      [
-        "Proprietary",
-        "/wiki/Proprietary_software"
-      ],
-      [
-        "Free / Paid",
-        null
-      ],
-      [
-        "Linux",
-        "/wiki/Linux"
-      ]
-    ],
-    [
-      [
-        "Forcepoint",
-        "/wiki/Forcepoint"
-      ],
-      [
-        "Proprietary",
-        "/wiki/Proprietary_software"
-      ],
-      [
-        "Included on all Forcepoint NGFW devices",
-        null
-      ],
-      [
-        "Proprietary operating system",
-        null
-      ]
-    ],
-    [
-      [
-        "OPNsense",
-        "/wiki/OPNsense"
-      ],
-      [
-        "Simplified BSD / FreeBSD License",
-        "/wiki/Simplified_BSD_license"
-      ],
-      [
-        "Free / Paid",
-        null
-      ],
-      [
-        "FreeBSD",
-        "/wiki/FreeBSD"
-      ]
-    ],
-    [
-      [
-        "pfSense",
-        "/wiki/PfSense"
-      ],
-      [
-        "Apache 2.0",
-        "/wiki/Apache_2.0"
-      ],
-      [
-        "Free / Paid",
-        null
-      ],
-      [
-        "FreeBSD",
-        "/wiki/FreeBSD"
-      ]
-    ],
-    [
-      [
-        "Untangle",
-        "/wiki/Untangle"
-      ],
-      [
-        "GPL",
-        "/wiki/GPL"
-      ],
-      [
-        "Free / Paid",
-        null
-      ],
-      [
-        "Linux",
-        "/wiki/Linux"
-      ]
-    ],
-    [
-      [
-        "Zeroshell",
-        "/wiki/Zeroshell"
-      ],
-      [
-        "GPL",
-        "/wiki/GPL"
-      ],
-      [
-        "Free / Paid",
-        null
-      ],
-      [
-        "Linux,NanoBSD",
-        "/wiki/Linux /wiki/NanoBSD"
-      ]
-    ],
-    [
-      [
-        "SmoothWall",
-        "/wiki/SmoothWall"
-      ],
-      [
-        "GPL",
-        "/wiki/GPL"
-      ],
-      [
-        "Free / Paid",
-        null
-      ],
-      [
-        "Linux",
-        "/wiki/Linux"
+        [
+          "De Winton"
+        ],
+        [
+          "/wiki/De_Winton,_Alberta"
+        ]
       ]
     ]
   ],
-  "context": "The following table lists different firewall appliances.",
+  "context": "",
   "idx": 10912
 }

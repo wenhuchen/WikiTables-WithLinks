@@ -1,299 +1,1083 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Chris_Hemsworth",
-  "title": "Chris Hemsworth",
+  "url": "https://en.wikipedia.org/wiki/List_of_GE_locomotives",
+  "title": "List of GE locomotives",
   "header": [
     [
-      "Year",
-      null
+      [
+        "Model designation"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Title",
-      null
+      [
+        "Build year"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Role",
-      null
+      [
+        "Total produced"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "AAR wheel arrangement"
+      ],
+      [
+        "/wiki/AAR_wheel_arrangement"
+      ]
+    ],
+    [
+      [
+        "Supply Voltage"
+      ],
+      [
+        "/wiki/Voltage"
+      ]
+    ],
+    [
+      [
+        "Power output"
+      ],
+      [
+        "/wiki/Horsepower"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "2009",
-        null
+        [
+          "S-1"
+        ],
+        [
+          "/wiki/NYC_S-Motor"
+        ]
       ],
       [
-        "Star Trek",
-        "/wiki/Star_Trek_(film)"
+        [
+          "1904"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "George Kirk",
-        null
+        [
+          "New York Central Railroad"
+        ],
+        [
+          "/wiki/New_York_Central_Railroad"
+        ]
+      ],
+      [
+        [
+          "1-D-1",
+          "2-D-2"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement",
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "600 V DC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1,695\u00a0hp (1,264\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2009",
-        null
+        [
+          "S-2"
+        ],
+        [
+          "/wiki/NYC_S-Motor"
+        ]
       ],
       [
-        "A Perfect Getaway",
-        "/wiki/A_Perfect_Getaway"
+        [
+          "1906"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kale",
-        null
+        [
+          "New York Central Railroad"
+        ],
+        [
+          "/wiki/New_York_Central_Railroad"
+        ]
+      ],
+      [
+        [
+          "1-D-1",
+          "2-D-2"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement",
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "600 V DC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1,695\u00a0hp (1,264\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2010",
-        null
+        [
+          "S-3"
+        ],
+        [
+          "/wiki/NYC_S-Motor"
+        ]
       ],
       [
-        "Ca$h",
-        "/wiki/Cash_(2010_film)"
+        [
+          "1908\u20131909"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sam Phelan",
-        null
+        [
+          "New York Central Railroad"
+        ],
+        [
+          "/wiki/New_York_Central_Railroad"
+        ]
+      ],
+      [
+        [
+          "2-D-2"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "600 V DC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1,695\u00a0hp (1,264\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2011",
-        null
+        [
+          "GN boxcab"
+        ],
+        [
+          "/wiki/GN_boxcab_(3_phase)"
+        ]
       ],
       [
-        "Thor",
-        "/wiki/Thor_(film)"
+        [
+          "1909"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Thor",
-        "/wiki/Thor_(Marvel_Comics)"
+        [
+          "Great Northern Railway"
+        ],
+        [
+          "/wiki/Great_Northern_Railway_(U.S.)"
+        ]
+      ],
+      [
+        [
+          "B+B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "V",
+          "3 phase",
+          "AC"
+        ],
+        [
+          "/wiki/Volt",
+          "/wiki/3_phase",
+          "/wiki/Alternating_current"
+        ]
+      ],
+      [
+        [
+          "1,000\u00a0hp (750\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2012",
-        null
+        [
+          "NH 068"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "The Avengers",
-        "/wiki/The_Avengers_(2012_film)"
+        [
+          "1912"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Thor",
-        null
+        [
+          "New York, New Haven and Hartford Railroad"
+        ],
+        [
+          "/wiki/New_York,_New_Haven_and_Hartford_Railroad"
+        ]
+      ],
+      [
+        [
+          "2-B+B-2"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "V",
+          "AC",
+          "Hz"
+        ],
+        [
+          "/wiki/Volt",
+          "/wiki/Alternating_current",
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        [
+          "1,560\u00a0hp (1,160\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2012",
-        null
+        [
+          "T-1b"
+        ],
+        [
+          "/wiki/T-Motor"
+        ]
       ],
       [
-        "The Cabin in the Woods",
-        "/wiki/The_Cabin_in_the_Woods"
+        [
+          "1913"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Curt Vaughan",
-        null
+        [
+          "New York Central Railroad"
+        ],
+        [
+          "/wiki/New_York_Central_Railroad"
+        ]
+      ],
+      [
+        [
+          "B+B-B+B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "600 V DC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2,500\u00a0hp (1,900\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2012",
-        null
+        [
+          "T-2a"
+        ],
+        [
+          "/wiki/T-Motor"
+        ]
       ],
       [
-        "Snow White and the Huntsman",
-        "/wiki/Snow_White_and_the_Huntsman"
+        [
+          "1914"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Eric the Huntsman",
-        "/wiki/Huntsman_(Snow_White)"
+        [
+          "New York Central Railroad"
+        ],
+        [
+          "/wiki/New_York_Central_Railroad"
+        ]
+      ],
+      [
+        [
+          "B+B-B+B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "600 V DC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2,500\u00a0hp (1,900\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2012",
-        null
+        [
+          "CN Boxcab Electric"
+        ],
+        [
+          "/wiki/CN_Boxcab_Electric"
+        ]
       ],
       [
-        "Red Dawn",
-        "/wiki/Red_Dawn_(2012_film)"
+        [
+          "1914\u201316"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jed Eckert",
-        null
+        [
+          "Canadian Northern Railway",
+          "Canadian National Railway"
+        ],
+        [
+          "/wiki/Canadian_Northern_Railway",
+          "/wiki/Canadian_National_Railway"
+        ]
+      ],
+      [
+        [
+          "B+B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "2400 V DC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1,100\u00a0hp (820\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2013",
-        null
+        [
+          "MILW EF-1 / EP-1 (GE's self-proclaimed \"King of the Rails\")",
+          "[9]",
+          "[9]"
+        ],
+        [
+          "/wiki/Milwaukee_Road_class_EP-1,_EF-1,_EF-2,_EF-3,_and_EF-5",
+          null,
+          "/wiki/List_of_GE_locomotives"
+        ]
       ],
       [
-        "Star Trek Into Darkness",
-        "/wiki/Star_Trek_Into_Darkness"
+        [
+          "1915\u20131917"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "George Kirk (voice)",
-        null
+        [
+          "Milwaukee Road"
+        ],
+        [
+          "/wiki/Milwaukee_Road"
+        ]
+      ],
+      [
+        [
+          "2-B+B+B+B-2"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "3000 V DC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3,340\u00a0hp (2,490\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2013",
-        null
+        [
+          "MILW ES-1"
+        ],
+        [
+          "/wiki/Milwaukee_Road_class_ES-1"
+        ]
       ],
       [
-        "Rush",
-        "/wiki/Rush_(2013_film)"
+        [
+          "1915"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "James Hunt",
-        "/wiki/James_Hunt"
+        [
+          "Milwaukee Road"
+        ],
+        [
+          "/wiki/Milwaukee_Road"
+        ]
+      ],
+      [
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "1500 V DC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "316\u00a0hp (236\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2013",
-        null
+        [
+          "MILW ES-2"
+        ],
+        [
+          "/wiki/Milwaukee_Road_class_ES-2"
+        ]
       ],
       [
-        "Thor: The Dark World",
-        "/wiki/Thor:_The_Dark_World"
+        [
+          "1916, 1919"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Thor",
-        null
+        [
+          "Milwaukee Road"
+        ],
+        [
+          "/wiki/Milwaukee_Road"
+        ]
+      ],
+      [
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "3000 V DC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "475\u00a0hp (354\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2015",
-        null
+        [
+          "MILW EP-2"
+        ],
+        [
+          "/wiki/Milwaukee_Road_class_EP-2"
+        ]
       ],
       [
-        "Avengers: Age of Ultron",
-        "/wiki/Avengers:_Age_of_Ultron"
+        [
+          "1919"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Thor",
-        null
+        [
+          "Milwaukee Road"
+        ],
+        [
+          "/wiki/Milwaukee_Road"
+        ]
+      ],
+      [
+        [
+          "1B+D+D+B1"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "3000 V DC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3,180\u00a0hp (2,370\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2015",
-        null
+        [
+          "NRT S104/105"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Blackhat",
-        "/wiki/Blackhat_(film)"
+        [
+          "1920"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nicholas Hathaway",
-        null
+        [
+          "Northwestern Elevated Railroad"
+        ],
+        [
+          "/wiki/Northwestern_Elevated_Railroad"
+        ]
+      ],
+      [
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "600 V DC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "165 horsepower (123\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2015",
-        null
+        [
+          "Mexican\u00a0RailwayBoxcabs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Vacation",
-        "/wiki/Vacation_(2015_film)"
+        [
+          "1923"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stone Crandall",
-        null
+        [
+          "Mexican Railway"
+        ],
+        [
+          "/wiki/Mexican_Railway"
+        ]
+      ],
+      [
+        [
+          "B+B+B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "3000 V DC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2,520\u00a0hp (1,880\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2015",
-        null
+        [
+          "NYC R"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "In the Heart of the Sea",
-        "/wiki/In_the_Heart_of_the_Sea_(film)"
+        [
+          "1926"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Owen Chase",
-        "/wiki/Owen_Chase"
+        [
+          "New York Central Railroad"
+        ],
+        [
+          "/wiki/New_York_Central_Railroad"
+        ]
+      ],
+      [
+        [
+          "B-B+B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "600 V DC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3,320\u00a0hp (2,480\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2016",
-        null
+        [
+          "NYC Q"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "The Huntsman: Winter's War",
-        "/wiki/The_Huntsman:_Winter%27s_War"
+        [
+          "1926"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Eric the Huntsman",
-        null
+        [
+          "New York Central Railroad"
+        ],
+        [
+          "/wiki/New_York_Central_Railroad"
+        ]
+      ],
+      [
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "600 V DC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1,665\u00a0hp (1,242\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2016",
-        null
+        [
+          "T-3"
+        ],
+        [
+          "/wiki/T-Motor"
+        ]
       ],
       [
-        "Ghostbusters",
-        "/wiki/Ghostbusters_(2016_film)"
+        [
+          "1926"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kevin Beckman",
-        null
+        [
+          "New York Central Railroad"
+        ],
+        [
+          "/wiki/New_York_Central_Railroad"
+        ]
+      ],
+      [
+        [
+          "B+B-B+B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "600 V DC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2,500\u00a0hp (1,900\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2016",
-        null
+        [
+          "EF2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Doctor Strange",
-        "/wiki/Doctor_Strange_(2016_film)"
+        [
+          "1926"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Thor",
-        null
+        [
+          "New York, New Haven and Hartford Railroad"
+        ],
+        [
+          "/wiki/New_York,_New_Haven_and_Hartford_Railroad"
+        ]
+      ],
+      [
+        [
+          "1-B+B-1"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1,350\u00a0hp (1,010\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2017",
-        null
+        [
+          "EY3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Thor: Ragnarok",
-        "/wiki/Thor:_Ragnarok"
+        [
+          "1926"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Thor",
-        null
+        [
+          "New York, New Haven and Hartford Railroad"
+        ],
+        [
+          "/wiki/New_York,_New_Haven_and_Hartford_Railroad"
+        ]
+      ],
+      [
+        [
+          "B+B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "V",
+          "AC",
+          "Hz"
+        ],
+        [
+          "/wiki/Volt",
+          "/wiki/Alternating_current",
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        [
+          "500\u00a0hp (370\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2018",
-        null
+        [
+          "GN Y-1",
+          "PRR FF2"
+        ],
+        [
+          "/wiki/GN_Y-1",
+          "/wiki/PRR_FF2"
+        ]
       ],
       [
-        "12 Strong",
-        "/wiki/12_Strong"
+        [
+          "1927\u20131930"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Captain Mitch Nelson",
-        null
+        [
+          "Great Northern Railway"
+        ],
+        [
+          "/wiki/Great_Northern_Railway_(U.S.)"
+        ]
+      ],
+      [
+        [
+          "1-C+C-1"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "V",
+          "AC",
+          "Hz"
+        ],
+        [
+          "/wiki/Volt",
+          "/wiki/Alternating_current",
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        [
+          "3,000\u00a0hp (2,200\u00a0kW)"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

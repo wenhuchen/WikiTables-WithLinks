@@ -1,250 +1,816 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2002_MLS_SuperDraft",
-  "title": "2002 MLS SuperDraft",
+  "url": "https://en.wikipedia.org/wiki/Strictly_Come_Dancing_(series_7)",
+  "title": "Strictly Come Dancing (series 7)",
   "header": [
     [
-      "Pick #",
-      null
+      [
+        "Dance"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "MLS team",
-      null
+      [
+        "Best dancer"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Player",
-      null
+      [
+        "Best score"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Position",
-      null
+      [
+        "Worst dancer"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Affiliation",
-      null
+      [
+        "Worst score"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "40",
-        null
+        [
+          "American Smooth"
+        ],
+        [
+          "/wiki/American_Smooth"
+        ]
       ],
       [
-        "D.C. United",
-        "/wiki/D.C._United"
+        [
+          "Ali Bastian"
+        ],
+        [
+          "/wiki/Ali_Bastian"
+        ]
       ],
       [
-        "Dennis Ludwig",
-        null
+        [
+          "40"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "F",
-        null
+        [
+          "Laila Rouass"
+        ],
+        [
+          "/wiki/Laila_Rouass"
+        ]
       ],
       [
-        "Rutgers University",
-        "/wiki/Rutgers_University"
+        [
+          "27"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "41",
-        null
+        [
+          "Argentine Tango"
+        ],
+        [
+          "/wiki/Argentine_Tango"
+        ]
       ],
       [
-        "New England Revolution",
-        "/wiki/New_England_Revolution"
+        [
+          "Ricky Whittle"
+        ],
+        [
+          "/wiki/Ricky_Whittle"
+        ]
       ],
       [
-        "Derek Potteiger",
-        null
+        [
+          "39"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "M",
-        null
+        [
+          "Ali Bastian",
+          "Chris Hollins"
+        ],
+        [
+          "/wiki/Ali_Bastian",
+          "/wiki/Chris_Hollins"
+        ]
       ],
       [
-        "Penn State",
-        "/wiki/Penn_State"
+        [
+          "34"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "42",
-        null
+        [
+          "Cha Cha Cha"
+        ],
+        [
+          "/wiki/Cha-cha-cha_(dance)"
+        ]
       ],
       [
-        "D.C. United",
-        "/wiki/D.C._United"
+        [
+          "Ricky Whittle"
+        ],
+        [
+          "/wiki/Ricky_Whittle"
+        ]
       ],
       [
-        "Bobby Brennan",
-        "/wiki/Bobby_Brennan_(soccer)"
+        [
+          "38"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "D",
-        null
+        [
+          "Joe Calzaghe"
+        ],
+        [
+          "/wiki/Joe_Calzaghe"
+        ]
       ],
       [
-        "American University",
-        "/wiki/American_University"
+        [
+          "16"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "43",
-        null
+        [
+          "Charleston"
+        ],
+        [
+          "/wiki/Charleston_(dance)"
+        ]
       ],
       [
-        "Kansas City Wizards",
-        "/wiki/Kansas_City_Wizards"
+        [
+          "Chris Hollins"
+        ],
+        [
+          "/wiki/Chris_Hollins"
+        ]
       ],
       [
-        "Dominic DaPra",
-        null
+        [
+          "40"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "F",
-        null
+        [
+          "Laila Rouass"
+        ],
+        [
+          "/wiki/Laila_Rouass"
+        ]
       ],
       [
-        "University of Wisconsin\u2013Madison",
-        "/wiki/University_of_Wisconsin%E2%80%93Madison"
+        [
+          "31"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "44",
-        null
+        [
+          "Foxtrot"
+        ],
+        [
+          "/wiki/Foxtrot"
+        ]
       ],
       [
-        "Dallas Burn",
-        "/wiki/Dallas_Burn"
+        [
+          "Ricky Whittle"
+        ],
+        [
+          "/wiki/Ricky_Whittle"
+        ]
       ],
       [
-        "Adauto Neto",
-        "/wiki/Adauto_Neto"
+        [
+          "39"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "M",
-        null
+        [
+          "Joe Calzaghe",
+          "Jo Wood"
+        ],
+        [
+          "/wiki/Joe_Calzaghe",
+          "/wiki/Jo_Wood"
+        ]
       ],
       [
-        "University of Mobile",
-        "/wiki/University_of_Mobile"
+        [
+          "20"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "45",
-        null
+        [
+          "Group Viennese Waltz"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "New England Revolution",
-        "/wiki/New_England_Revolution"
+        [
+          "Ali Bastian"
+        ],
+        [
+          "/wiki/Ali_Bastian"
+        ]
       ],
       [
-        "Marshall Leonard",
-        "/wiki/Marshall_Leonard"
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "D",
-        null
+        [
+          "Natalie Cassidy",
+          "Chris Hollins"
+        ],
+        [
+          "/wiki/Natalie_Cassidy",
+          "/wiki/Chris_Hollins"
+        ]
       ],
       [
-        "University of Virginia",
-        "/wiki/University_of_Virginia"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "46",
-        null
+        [
+          "Jive"
+        ],
+        [
+          "/wiki/Jive_(dance)"
+        ]
       ],
       [
-        "Chicago Fire",
-        "/wiki/Chicago_Fire_Soccer_Club"
+        [
+          "Ricky Whittle"
+        ],
+        [
+          "/wiki/Ricky_Whittle"
+        ]
       ],
       [
-        "Mike Nugent",
-        "/wiki/Mike_Nugent_(soccer)"
+        [
+          "35"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "F",
-        null
+        [
+          "Craig Kelly"
+        ],
+        [
+          "/wiki/Craig_Kelly_(actor)"
+        ]
       ],
       [
-        "Princeton University",
-        "/wiki/Princeton_University"
+        [
+          "20"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "47",
-        null
+        [
+          "Lindy Hop"
+        ],
+        [
+          "/wiki/Lindy_Hop"
+        ]
       ],
       [
-        "Columbus Crew",
-        "/wiki/Columbus_Crew"
+        [
+          "Chris Hollins",
+          "Ricky Whittle"
+        ],
+        [
+          "/wiki/Chris_Hollins",
+          "/wiki/Ricky_Whittle"
+        ]
       ],
       [
-        "Chris Leitch",
-        "/wiki/Chris_Leitch"
+        [
+          "35"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "D",
-        null
+        [
+          "__"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "University of North Carolina",
-        "/wiki/University_of_North_Carolina_at_Chapel_Hill"
+        [
+          "__"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "48",
-        null
+        [
+          "Paso Doble"
+        ],
+        [
+          "/wiki/Paso_Doble"
+        ]
       ],
       [
-        "Los Angeles Galaxy",
-        "/wiki/Los_Angeles_Galaxy"
+        [
+          "Ricky Whittle"
+        ],
+        [
+          "/wiki/Ricky_Whittle"
+        ]
       ],
       [
-        "Noah Delgado",
-        "/wiki/Noah_Delgado"
+        [
+          "35"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "M",
-        null
+        [
+          "Joe Calzaghe"
+        ],
+        [
+          "/wiki/Joe_Calzaghe"
+        ]
       ],
       [
-        "Fresno State",
-        "/wiki/Fresno_State"
+        [
+          "19"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "49",
-        null
+        [
+          "Quickstep"
+        ],
+        [
+          "/wiki/Quickstep"
+        ]
       ],
       [
-        "San Jose Earthquakes",
-        "/wiki/San_Jose_Earthquakes"
+        [
+          "Ricky Whittle"
+        ],
+        [
+          "/wiki/Ricky_Whittle"
+        ]
       ],
       [
-        "Erik Ozimek",
-        null
+        [
+          "40"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "M",
-        null
+        [
+          "Rav Wilding"
+        ],
+        [
+          "/wiki/Rav_Wilding"
+        ]
       ],
       [
-        "Davidson College",
-        "/wiki/Davidson_College"
+        [
+          "20"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Rock 'n' Roll"
+        ],
+        [
+          "/wiki/Rock_and_Roll_(dance)"
+        ]
+      ],
+      [
+        [
+          "Ricky Whittle"
+        ],
+        [
+          "/wiki/Ricky_Whittle"
+        ]
+      ],
+      [
+        [
+          "31"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Natalie Cassidy"
+        ],
+        [
+          "/wiki/Natalie_Cassidy"
+        ]
+      ],
+      [
+        [
+          "26"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Rumba"
+        ],
+        [
+          "/wiki/Rhumba"
+        ]
+      ],
+      [
+        [
+          "Ricky Whittle"
+        ],
+        [
+          "/wiki/Ricky_Whittle"
+        ]
+      ],
+      [
+        [
+          "32"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Jo Wood"
+        ],
+        [
+          "/wiki/Jo_Wood"
+        ]
+      ],
+      [
+        [
+          "18"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Salsa"
+        ],
+        [
+          "/wiki/Salsa_(dance)"
+        ]
+      ],
+      [
+        [
+          "Ali Bastian",
+          "Ricky Whittle"
+        ],
+        [
+          "/wiki/Ali_Bastian",
+          "/wiki/Ricky_Whittle"
+        ]
+      ],
+      [
+        [
+          "32"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Laila Rouass"
+        ],
+        [
+          "/wiki/Laila_Rouass"
+        ]
+      ],
+      [
+        [
+          "21"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Samba"
+        ],
+        [
+          "/wiki/Samba_(ballroom_dance)"
+        ]
+      ],
+      [
+        [
+          "Ali Bastian"
+        ],
+        [
+          "/wiki/Ali_Bastian"
+        ]
+      ],
+      [
+        [
+          "35"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Jo Wood"
+        ],
+        [
+          "/wiki/Jo_Wood"
+        ]
+      ],
+      [
+        [
+          "14"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Showdance"
+        ],
+        [
+          "/wiki/Showdance"
+        ]
+      ],
+      [
+        [
+          "Ricky Whittle"
+        ],
+        [
+          "/wiki/Ricky_Whittle"
+        ]
+      ],
+      [
+        [
+          "40"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Chris Hollins"
+        ],
+        [
+          "/wiki/Chris_Hollins"
+        ]
+      ],
+      [
+        [
+          "37"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Tango"
+        ],
+        [
+          "/wiki/Tango_(dance)"
+        ]
+      ],
+      [
+        [
+          "Ricky Whittle"
+        ],
+        [
+          "/wiki/Ricky_Whittle"
+        ]
+      ],
+      [
+        [
+          "35"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Joe Calzaghe"
+        ],
+        [
+          "/wiki/Joe_Calzaghe"
+        ]
+      ],
+      [
+        [
+          "16"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Viennese Waltz"
+        ],
+        [
+          "/wiki/Viennese_Waltz"
+        ]
+      ],
+      [
+        [
+          "Ali Bastian"
+        ],
+        [
+          "/wiki/Ali_Bastian"
+        ]
+      ],
+      [
+        [
+          "40"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Jo Wood"
+        ],
+        [
+          "/wiki/Jo_Wood"
+        ]
+      ],
+      [
+        [
+          "23"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Waltz"
+        ],
+        [
+          "/wiki/Waltz"
+        ]
+      ],
+      [
+        [
+          "Ricky Whittle"
+        ],
+        [
+          "/wiki/Ricky_Whittle"
+        ]
+      ],
+      [
+        [
+          "38"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Richard Dunwoody"
+        ],
+        [
+          "/wiki/Richard_Dunwoody"
+        ]
+      ],
+      [
+        [
+          "19"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "The best and worst performances in each dance according to the judges' scores (out of 40) are as follows:",
   "idx": 7532
 }

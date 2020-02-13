@@ -1,274 +1,418 @@
 {
-  "url": "https://en.wikipedia.org/wiki/John_Briley",
-  "title": "John Briley",
+  "url": "https://en.wikipedia.org/wiki/Dialogue_system",
+  "title": "Dialogue system",
   "header": [
     [
-      "Title",
-      null
+      [
+        "Name & Links"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Year",
-      null
+      [
+        "System Type"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Notes",
-      null
+      [
+        "Description"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Affiliation[s]"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "The Populist",
-        null
+        [
+          "AIML"
+        ],
+        [
+          "/wiki/AIML"
+        ]
       ],
       [
-        "1999",
-        null
+        [
+          "Chatterbot"
+        ],
+        [
+          "/wiki/Chatterbot"
+        ]
       ],
       [
-        "Ernst Hanfstaengl",
-        "/wiki/Ernst_Hanfstaengl"
+        [
+          "XML dialect for creating natural language software agents"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Richard Wallace, Pandorabots, Inc."
+        ],
+        [
+          "/wiki/Richard_Wallace_(scientist)"
+        ]
       ]
     ],
     [
       [
-        "Molokai: The Story of Father Damien",
-        null
+        [
+          "ChatScript"
+        ],
+        [
+          "/wiki/ChatScript"
+        ]
       ],
       [
-        "1999",
-        null
+        [
+          "Chatterbot"
+        ],
+        [
+          "/wiki/Chatterbot"
+        ]
       ],
       [
-        "Father Damien,leper colony at Kalaupapa,associate producer,AFI Award",
-        "/wiki/Father_Damien /wiki/Kalaupapa_Leprosy_Settlement_and_National_Historical_Park /wiki/Associate_producer /wiki/Australian_Film_Institute_Award_for_Best_Screenplay"
+        [
+          "Language/Engine for creating natural language software agents"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Bruce Wilcox"
+        ],
+        [
+          "/wiki/Bruce_Wilcox"
+        ]
       ]
     ],
     [
       [
-        "Christopher Columbus: The Discovery",
-        "/wiki/Christopher_Columbus:_The_Discovery"
+        [
+          "CSLU Toolkit"
+        ],
+        [
+          "/wiki/CSLU_Toolkit"
+        ]
       ],
       [
-        "1992",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Christopher Columbus,Cary Bates,Mario Puzo,Golden Raspberry",
-        "/wiki/Christopher_Columbus /wiki/Cary_Bates /wiki/Mario_Puzo /wiki/Razzie_Award_for_Worst_Screenplay"
+        [
+          "a state-based speech interface prototyping environment"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "OGI School of Science and Engineering"
+        ],
+        [
+          "/wiki/OGI_School_of_Science_and_Engineering"
+        ]
       ]
     ],
     [
       [
-        "The Warriors of the Rainbow",
-        null
+        [
+          "NLUI Server"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1992",
-        null
+        [
+          "Domain-independent toolkit"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Greenpeace,Robert Hunter",
-        "/wiki/Greenpeace /wiki/Robert_Hunter_(journalist)"
+        [
+          "natural language user interface"
+        ],
+        [
+          "/wiki/Natural_language_user_interface"
+        ]
+      ],
+      [
+        [
+          "LinguaSys"
+        ],
+        [
+          "/wiki/LinguaSys"
+        ]
       ]
     ],
     [
       [
-        "Sandino",
-        null
+        [
+          "Olympus"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1990",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Augusto C\u00e9sar Sandino,Sandinistas",
-        "/wiki/Augusto_C%C3%A9sar_Sandino /wiki/Sandinista_National_Liberation_Front"
+        [
+          "complete framework for implementing spoken dialogue systems"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Carnegie Mellon University"
+        ],
+        [
+          "/wiki/Carnegie_Mellon_University"
+        ]
       ]
     ],
     [
       [
-        "Cry Freedom",
-        "/wiki/Cry_Freedom"
+        [
+          "Nextnova"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1987",
-        null
+        [
+          "Multimodal Platform"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Steve Biko,Biko,Donald Woods",
-        "/wiki/Steve_Biko /wiki/Biko_(book) /wiki/Donald_Woods"
+        [
+          "Platform for developing multimodal software applications.  Based on State Chart XML (SCXML)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ponvia Technology, Inc."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Tai-Pan",
-        "/wiki/Tai-Pan_(film)"
+        [
+          "VXML"
+        ],
+        [
+          "/wiki/VXML"
+        ]
       ],
       [
-        "1986",
-        null
+        [
+          "Spoken dialog"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stanley Mann,Tai-Pan,James Clavell",
-        "/wiki/Stanley_Mann /wiki/Tai-Pan_(novel) /wiki/James_Clavell"
+        [
+          "multimodal dialog markup language"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "AT&T",
+          "W3C"
+        ],
+        [
+          "/wiki/AT%26T",
+          "/wiki/World_Wide_Web_Consortium"
+        ]
       ]
     ],
     [
       [
-        "Marie",
-        "/wiki/Marie_(film)"
+        [
+          "SALT"
+        ],
+        [
+          "/wiki/Speech_Application_Language_Tags"
+        ]
       ],
       [
-        "1985",
-        null
+        [
+          "markup language"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marie Ragghianti,Peter Maas",
-        "/wiki/Marie_Ragghianti /wiki/Peter_Maas"
+        [
+          "multimodal dialog markup language"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Microsoft"
+        ],
+        [
+          "/wiki/Microsoft"
+        ]
       ]
     ],
     [
       [
-        "Enigma",
-        "/wiki/Enigma_(1982_film)"
+        [
+          "Quack.com"
+        ],
+        [
+          "/wiki/Quack.com"
+        ]
       ],
       [
-        "1982",
-        null
+        [
+          "Development Environment"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Michael Barak",
-        "/wiki/HTTP_404"
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "AOL"
+        ],
+        [
+          "/wiki/AOL"
+        ]
       ]
     ],
     [
       [
-        "Gandhi",
-        "/wiki/Gandhi_(film)"
+        [
+          "OpenDial"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1982",
-        null
+        [
+          "Domain-independent toolkit"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mohandas K. Gandhi,Oscar,Golden Globe,BAFTA",
-        "/wiki/Mohandas_Karamchand_Gandhi /wiki/Academy_Award_For_Best_Original_Screenplay /wiki/Golden_Globe_Award_for_Best_Screenplay /wiki/BAFTA_Award_for_Best_Screenplay"
+        [
+          "hybrid symbolic/statistical framework for spoken dialogue systems, implemented in Java"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "University of Oslo"
+        ],
+        [
+          "/wiki/University_of_Oslo"
+        ]
       ]
     ],
     [
       [
-        "Eagle's Wing",
-        "/wiki/Eagle%27s_Wing"
+        [
+          "NADIA"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1979",
-        null
+        [
+          "dialog engine and dialog modeling"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Michael Syson",
-        "/wiki/HTTP_404"
-      ]
-    ],
-    [
-      [
-        "The Medusa Touch",
-        "/wiki/The_Medusa_Touch_(film)"
+        [
+          "Creating natural dialogs / dialogue systems. Supports dialogue acts, mixed initiative, NLG. Implemented in Java."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1978",
-        null
-      ],
-      [
-        "The Medusa Touch,Peter Van Greenaway",
-        "/wiki/The_Medusa_Touch /wiki/Peter_Van_Greenaway"
-      ]
-    ],
-    [
-      [
-        "That Lucky Touch",
-        "/wiki/That_Lucky_Touch"
-      ],
-      [
-        "1975",
-        null
-      ],
-      [
-        "Monja Danischewsky,Moss Hart",
-        "/wiki/Monja_Danischewsky /wiki/Moss_Hart"
-      ]
-    ],
-    [
-      [
-        "Pope Joan",
-        "/wiki/Pope_Joan_(1972_film)"
-      ],
-      [
-        "1972",
-        null
-      ],
-      [
-        "Pope Joan,associate producer",
-        "/wiki/Pope_Joan /wiki/Associate_producer"
-      ]
-    ],
-    [
-      [
-        "Hammerhead",
-        "/wiki/Hammerhead_(film)"
-      ],
-      [
-        "1968",
-        null
-      ],
-      [
-        "James Mayo,William Bast,Herbert Baker",
-        "/wiki/Stephen_Coulter /wiki/William_Bast /wiki/Herbert_Baker_(screenwriter)"
-      ]
-    ],
-    [
-      [
-        "Children of the Damned",
-        "/wiki/Children_of_the_Damned"
-      ],
-      [
-        "1963",
-        null
-      ],
-      [
-        "Village of the Damned",
-        "/wiki/Village_of_the_Damned_(1960_film)"
-      ]
-    ],
-    [
-      [
-        "Postman's Knock",
-        "/wiki/Postman%27s_Knock_(film)"
-      ],
-      [
-        "1962",
-        null
-      ],
-      [
-        "Jack Trevor Story",
-        "/wiki/Jack_Trevor_Story"
-      ]
-    ],
-    [
-      [
-        "Invasion Quartet",
-        "/wiki/Invasion_Quartet"
-      ],
-      [
-        "1961",
-        null
-      ],
-      [
-        "Norman Collins,Jack Trevor Story",
-        "/wiki/Norman_Collins /wiki/Jack_Trevor_Story"
+        [
+          "Markus M. Berg"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "A survey of current frameworks, languages and technologies for defining dialogue systems.",
   "idx": 15100
 }

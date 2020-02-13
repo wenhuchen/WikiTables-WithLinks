@@ -1,379 +1,763 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Comparison_of_EDA_software",
-  "title": "Comparison of EDA software",
+  "url": "https://en.wikipedia.org/wiki/List_of_Arkansas_Civil_War_Confederate_units",
+  "title": "List of Arkansas Civil War Confederate units",
   "header": [
     [
-      "Name",
-      null
+      [
+        "Regiment"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Architecture",
-      null
+      [
+        "Muster Date"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "License",
-      null
+      [
+        "Commanders"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Autorouter",
-      "/wiki/Routing_(EDA)"
-    ],
-    [
-      "Comment",
-      null
+      [
+        "Alternate Designations"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Electric",
-        "/wiki/Electric_(software)"
+        [
+          "1st Arkansas Infantry Regiment"
+        ],
+        [
+          "/wiki/1st_Arkansas_Infantry_Regiment"
+        ]
       ],
       [
-        "*BSD,Java",
-        "/wiki/FreeBSD /wiki/Java_(programming_language)"
+        [
+          "May 6, 1861"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GPL",
-        null
+        [
+          "James F. Fagan"
+        ],
+        [
+          "/wiki/James_F._Fagan"
+        ]
       ],
       [
-        "Yes",
-        null
-      ],
-      [
-        "VLSI,PCB",
-        "/wiki/Very-large-scale_integration /wiki/Printed_circuit_board"
+        [
+          "1st Arkansas Consolidated Infantry"
+        ],
+        [
+          "/wiki/1st_Arkansas_Consolidated_Infantry"
+        ]
       ]
     ],
     [
       [
-        "FreePCB",
-        "/wiki/FreePCB"
+        [
+          "1st Arkansas 30 Day Volunteer Regiment"
+        ],
+        [
+          "/wiki/1st_Arkansas_30_Day_Volunteer_Regiment"
+        ]
       ],
       [
-        "w32",
-        "/wiki/Microsoft_Windows"
+        [
+          "November 23, 1861"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GPL",
-        null
+        [
+          "Colonel James Haywood McCaleb"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Yes",
-        null
-      ],
-      [
-        "printed circuit board,Microsoft Windows,metric,US customary units,Gerber format,FreeRouting,Specctra",
-        "/wiki/Printed_circuit_board /wiki/Microsoft_Windows /wiki/Metric_system /wiki/US_customary_units /wiki/Gerber_format /wiki/HTTP_404 /wiki/Specctra"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Fritzing",
-        "/wiki/Fritzing"
+        [
+          "1st Arkansas Consolidated Infantry"
+        ],
+        [
+          "/wiki/1st_Arkansas_Consolidated_Infantry"
+        ]
       ],
       [
-        "Windows,Mac,Linux",
-        "/wiki/Microsoft_Windows /wiki/Mac_OS_X /wiki/Linux"
+        [
+          "April 9, 1865"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GPL",
-        null
+        [
+          "Colonel Edward Alexander Howell"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Yes",
-        null
-      ],
-      [
-        "Arduino,Raspberry Pi",
-        "/wiki/Arduino /wiki/Raspberry_Pi"
+        [
+          "1st Arkansas Infantry",
+          "2nd Arkansas Infantry",
+          "5th Arkansas Infantry",
+          "6th",
+          "7th Arkansas Infantry",
+          "8th Arkansas Infantry",
+          "24th Arkansas Infantry",
+          "13th Arkansas Infantry",
+          "15th (Josey's) Arkansas Infantry",
+          "19th (Dawsons's) Arkansas Infantry",
+          "3rd Confederate Infantry"
+        ],
+        [
+          "/wiki/1st_Arkansas_Infantry",
+          "/wiki/2nd_Arkansas_Infantry",
+          "/wiki/5th_Arkansas_Infantry",
+          "/wiki/6th_Arkansas_Infantry",
+          "/wiki/7th_Arkansas_Infantry",
+          "/wiki/8th_Arkansas_Volunteer_Infantry",
+          "/wiki/24th_Arkansas_Infantry",
+          "/wiki/13th_Arkansas_Infantry",
+          "/wiki/15th_(Josey%27s)_Arkansas_Infantry",
+          "/wiki/19th_(Dawsons%27s)_Arkansas_Infantry",
+          "/wiki/3rd_Confederate_Infantry"
+        ]
       ]
     ],
     [
       [
-        "gEDA",
-        "/wiki/GEDA"
+        [
+          "1st Arkansas Consolidated Infantry (Trans-Mississippi)"
+        ],
+        [
+          "/wiki/1st_Arkansas_Consolidated_Infantry_Regiment_(Trans-Mississippi)"
+        ]
       ],
       [
-        "*BSD,Linux,Mac",
-        "/wiki/FreeBSD /wiki/Linux /wiki/Mac_OS_X"
+        [
+          "May 17, 1864"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GPL",
-        null
+        [
+          "Jordan E. Cravens"
+        ],
+        [
+          "/wiki/Jordan_E._Cravens"
+        ]
       ],
       [
-        "Yes",
-        null
-      ],
-      [
-        "schematic, simulation, PCB editor, gerber view",
-        null
+        [
+          "14th Arkansas Infantry Regiment (Powers')",
+          "15th (Northwest) Arkansas Infantry Regiment",
+          "16th Arkansas Infantry Regiment",
+          "21st Arkansas Infantry Regiment (Craven's)"
+        ],
+        [
+          "/wiki/14th_Arkansas_Infantry_Regiment_(Powers%27)",
+          "/wiki/15th_(Northwest)_Arkansas_Infantry_Regiment",
+          "/wiki/16th_Arkansas_Infantry_Regiment",
+          "/wiki/21st_Arkansas_Infantry_Regiment_(Craven%27s)"
+        ]
       ]
     ],
     [
       [
-        "Gnucap",
-        "/wiki/Gnucap"
+        [
+          "2nd Arkansas Infantry Regiment"
+        ],
+        [
+          "/wiki/2nd_Arkansas_Infantry_Regiment"
+        ]
       ],
       [
-        "any (C++98)",
-        null
+        [
+          "June 26, 1861"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GPL3",
-        "/wiki/GPL3"
+        [
+          "Thomas C. Hindman",
+          "Daniel C. Govan"
+        ],
+        [
+          "/wiki/Thomas_Carmichael_Hindman",
+          "/wiki/Daniel_C._Govan"
+        ]
       ],
       [
-        "No",
-        null
-      ],
-      [
-        "Mixed-signal circuit simulator",
-        null
+        [
+          "1st Arkansas Consolidated Infantry"
+        ],
+        [
+          "/wiki/1st_Arkansas_Consolidated_Infantry"
+        ]
       ]
     ],
     [
       [
-        "Icarus Verilog",
-        "/wiki/Icarus_Verilog"
+        [
+          "2nd Arkansas 30 Day Volunteer Regiment"
+        ],
+        [
+          "/wiki/2nd_Arkansas_30_Day_Volunteer_Regiment"
+        ]
       ],
       [
-        "*BSD,Linux,Mac",
-        "/wiki/FreeBSD /wiki/Linux /wiki/Mac_OS_X"
+        [
+          "November 18, 1861"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GPL",
-        null
+        [
+          "Major Allen"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "No",
-        null
-      ],
-      [
-        "Verilog",
-        "/wiki/Verilog"
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "KiCad",
-        "/wiki/KiCad"
+        [
+          "2nd Arkansas Consolidated Infantry"
+        ],
+        [
+          "/wiki/2nd_Arkansas_Consolidated_Infantry_Regiment"
+        ]
       ],
       [
-        "Linux,Mac,Windows",
-        "/wiki/Linux /wiki/Mac_OS_X /wiki/Microsoft_Windows"
+        [
+          "May 17, 1864"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GNU GPL",
-        "/wiki/GNU_General_Public_License"
+        [
+          "Colonel T.J. Reid"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Built-in, or FreeRouting",
-        null
-      ],
-      [
-        "Full package for schematic and board design, etc. Design rule checking. User-defined symbols and footprints. Gerber/ drill file creation. Graphic interface. Active user community.",
-        null
+        [
+          "12th Arkansas Infantry Regiment",
+          "18th Arkansas Infantry Regiment",
+          "23rd Arkansas Infantry Regiment",
+          "8th Arkansas Infantry Battalion",
+          "12th Arkansas Infantry Battalion"
+        ],
+        [
+          "/wiki/12th_Arkansas_Infantry_Regiment",
+          "/wiki/18th_Arkansas_Infantry_Regiment_(Carroll%27s)",
+          "/wiki/23rd_Arkansas_Infantry_Regiment",
+          "/wiki/8th_Arkansas_Infantry_Battalion",
+          "/wiki/12th_Arkansas_Infantry_Battalion"
+        ]
       ]
     ],
     [
       [
-        "KTechLab",
-        "/wiki/KTechLab"
+        [
+          "3rd Arkansas Infantry Regiment"
+        ],
+        [
+          "/wiki/3d_Arkansas_Infantry_Regiment_(Confederate_States)"
+        ]
       ],
       [
-        "Linux",
-        "/wiki/Linux"
+        [
+          "July 5, 1861"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GPL",
-        null
+        [
+          "Albert Rust",
+          "Van. H. Manning",
+          "acting"
+        ],
+        [
+          "/wiki/Albert_Rust",
+          "/wiki/Van._H._Manning",
+          "/wiki/Acting_(law)"
+        ]
       ],
       [
-        "No",
-        null
-      ],
-      [
-        "KTechLab is a schematic capture and simulator. It is specifically geared toward mixed signal simulation of analog components and small digital processors.",
-        null
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "LTspice",
-        "/wiki/LTspice"
+        [
+          "3rd Arkansas Consolidated Infantry"
+        ],
+        [
+          "/wiki/3rd_Arkansas_Consolidated_Infantry_Regiment"
+        ]
       ],
       [
-        "Windows,macOS",
-        "/wiki/Windows /wiki/MacOS"
+        [
+          "May 17, 1864"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "?",
-        null
+        [
+          "Colonel H. G. P. Williams"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "No",
-        null
-      ],
-      [
-        "Linear Technology,Analog Devices",
-        "/wiki/Linear_Technology /wiki/Analog_Devices"
+        [
+          "15th (Gee/Johnson) Arkansas Infantry Regiment",
+          "19th Arkansas Infantry Regiment, (Dockery's)",
+          "20th Arkansas Infantry Regiment"
+        ],
+        [
+          "/wiki/15th_(Gee/Johnson)_Arkansas_Infantry_Regiment",
+          "/wiki/19th_Arkansas_Infantry_Regiment,_(Dockery%27s)",
+          "/wiki/20th_Arkansas_Infantry_Regiment"
+        ]
       ]
     ],
     [
       [
-        "Magic",
-        "/wiki/Magic_(software)"
+        [
+          "4th Arkansas Infantry Regiment"
+        ],
+        [
+          "/wiki/4th_Arkansas_Infantry_Regiment"
+        ]
       ],
       [
-        "Linux",
-        null
+        [
+          "August 17, 1861"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BSD license",
-        null
+        [
+          "Evander McNair"
+        ],
+        [
+          "/wiki/Evander_McNair"
+        ]
       ],
       [
-        "No",
-        null
-      ],
-      [
-        "very-large-scale integration",
-        "/wiki/Very-large-scale_integration"
+        [
+          "1st Arkansas Mounted Rifles (Consolidated)"
+        ],
+        [
+          "/wiki/1st_Arkansas_Mounted_Rifles_(Consolidated)"
+        ]
       ]
     ],
     [
       [
-        "Ngspice",
-        "/wiki/Ngspice"
+        [
+          "5th Arkansas Infantry Regiment"
+        ],
+        [
+          "/wiki/5th_Arkansas_Infantry_Regiment"
+        ]
       ],
       [
-        "Linux,Solaris,Mac,NetBSD,FreeBSD,w32",
-        "/wiki/Linux /wiki/Solaris_(operating_system) /wiki/Mac_OS_X /wiki/NetBSD /wiki/FreeBSD /wiki/Microsoft_Windows"
+        [
+          "June 28, 1861 (State Service)\nJuly 27, 1861 (Confederate Service)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BSD",
-        null
+        [
+          "Colonel David C. Cross,\nColonel Lucius Featherston,\nColonel Peter V. Green,\nColonel John E. Murray"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "No",
-        null
-      ],
-      [
-        "SPICE",
-        "/wiki/SPICE"
+        [
+          "1st Arkansas Consolidated Infantry"
+        ],
+        [
+          "/wiki/1st_Arkansas_Consolidated_Infantry"
+        ]
       ]
     ],
     [
       [
-        "Oregano",
-        "/wiki/Oregano_(software)"
+        [
+          "6th Arkansas Infantry Regiment"
+        ],
+        [
+          "/wiki/6th_Arkansas_Infantry_Regiment"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "June 10, 1861 (State Service)\nJuly 26, 1861, (Confederate Service)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GPL",
-        null
+        [
+          "Alexander Travis Hawthorn"
+        ],
+        [
+          "/wiki/Alexander_Travis_Hawthorn"
+        ]
       ],
       [
-        "No",
-        null
-      ],
-      [
-        "Schematic capture + spice simulation",
-        null
+        [
+          "1st Arkansas Consolidated Infantry"
+        ],
+        [
+          "/wiki/1st_Arkansas_Consolidated_Infantry"
+        ]
       ]
     ],
     [
       [
-        "Quite Universal Circuit Simulator",
-        "/wiki/Quite_Universal_Circuit_Simulator"
+        [
+          "7th Arkansas Infantry Regiment"
+        ],
+        [
+          "/wiki/7th_Arkansas_Infantry_Regiment"
+        ]
       ],
       [
-        "Linux,Solaris,Mac,NetBSD,FreeBSD,w32",
-        "/wiki/Linux /wiki/Solaris_(operating_system) /wiki/Mac_OS_X /wiki/NetBSD /wiki/FreeBSD /wiki/Microsoft_Windows"
+        [
+          "June 16, 1861 (State Service)\nJuly 26, 1861 (Confederate Service)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GPL",
-        null
+        [
+          "Robert G. Shaver"
+        ],
+        [
+          "/wiki/Robert_G._Shaver"
+        ]
       ],
       [
-        "No",
-        null
-      ],
-      [
-        "Schematic capture",
-        "/wiki/Schematic_capture"
+        [
+          "1st Arkansas Consolidated Infantry"
+        ],
+        [
+          "/wiki/1st_Arkansas_Consolidated_Infantry"
+        ]
       ]
     ],
     [
       [
-        "pcb-rnd",
-        "/wiki/Pcb-rnd"
+        [
+          "8th Arkansas Infantry Regiment"
+        ],
+        [
+          "/wiki/8th_Arkansas_Infantry_Regiment"
+        ]
       ],
       [
-        "*BSD,Linux,Mac,w32",
-        "/wiki/FreeBSD /wiki/Linux /wiki/Mac_OS_X /wiki/Microsoft_Windows"
+        [
+          "July 13, 1861 (State Service)\nSeptember 10, 1861 (Confederate Service)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GPL",
-        null
+        [
+          "John H. Kelly"
+        ],
+        [
+          "/wiki/John_H._Kelly"
+        ]
       ],
       [
-        "Yes",
-        null
-      ],
-      [
-        "DRC",
-        "/wiki/Design_rule_checking"
+        [
+          "1st Arkansas Consolidated Infantry"
+        ],
+        [
+          "/wiki/1st_Arkansas_Consolidated_Infantry"
+        ]
       ]
     ],
     [
       [
-        "Verilator",
-        "/wiki/Verilator"
+        [
+          "9th Arkansas Infantry Regiment"
+        ],
+        [
+          "/wiki/9th_Arkansas_Infantry_Regiment"
+        ]
       ],
       [
-        "Posix",
-        null
+        [
+          "July 20, 1861"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GPL",
-        null
+        [
+          "Colonel John M. Bradley,\nColonel Isaac L. Dunlop"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "No",
-        null
-      ],
-      [
-        "SystemC,ModelSim",
-        "/wiki/SystemC /wiki/ModelSim"
+        [
+          "1st Arkansas Mounted Rifles (Consolidated)"
+        ],
+        [
+          "/wiki/1st_Arkansas_Mounted_Rifles_(Consolidated)"
+        ]
       ]
     ],
     [
       [
-        "XCircuit",
-        "/wiki/XCircuit"
+        [
+          "10th Arkansas Infantry Regiment"
+        ],
+        [
+          "/wiki/10th_Arkansas_Infantry_Regiment"
+        ]
       ],
       [
-        "Unix",
-        "/wiki/Unix"
+        [
+          "July 27, 1861"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GPL",
-        null
+        [
+          "Colonel T. D. Merrick\nColonel A. R. Witt"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "No",
-        null
+        [
+          "Witt's 10th Arkansas Cavalry"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "11th Arkansas Infantry Regiment"
+        ],
+        [
+          "/wiki/11th_Arkansas_Infantry_Regiment"
+        ]
       ],
       [
-        "Used to produce netlists and publish high-quality drawings.",
-        null
+        [
+          "July 28, 1861 first election\nAugust 8, 1861, second election"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Colonel Jabez M. Smith\nColonel John L. Logan\nColonel John Griffith"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "11th and 17th Consolidated Arkansas Infantry Regiment\n11th Arkansas Cavalry Regiment"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "11th and 17th Consolidated Arkansas Infantry Regiment"
+        ],
+        [
+          "/wiki/11th_and_17th_Consolidated_Arkansas_Infantry_Regiment"
+        ]
+      ],
+      [
+        [
+          "March 1863"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Colonel John L. Logan\nColonel John Griffith"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "11th / 17th Arkansas Mounted Infantry"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "12th Arkansas Infantry Regiment"
+        ],
+        [
+          "/wiki/12th_Arkansas_Infantry_Regiment"
+        ]
+      ],
+      [
+        [
+          "July 27, 1861"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Colonel Edward W. Gantt\nColonel T. J. Reid, Jr."
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2nd Arkansas Consolidated Infantry Regiment"
+        ],
+        [
+          "/wiki/2nd_Arkansas_Consolidated_Infantry_Regiment"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "13th Arkansas Infantry Regiment"
+        ],
+        [
+          "/wiki/13th_Arkansas_Infantry_Regiment"
+        ]
+      ],
+      [
+        [
+          "July 29, 1861"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "James C. Tappan"
+        ],
+        [
+          "/wiki/James_C._Tappan"
+        ]
+      ],
+      [
+        [
+          "1st Arkansas Consolidated Infantry"
+        ],
+        [
+          "/wiki/1st_Arkansas_Consolidated_Infantry"
+        ]
       ]
     ]
   ],

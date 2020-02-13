@@ -1,203 +1,425 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Ascope_Province",
-  "title": "Ascope Province",
+  "url": "https://en.wikipedia.org/wiki/Moel-y-Parc_transmitting_station",
+  "title": "Moel-y-Parc transmitting station",
   "header": [
     [
-      "N\u00ba.",
-      null
+      [
+        "Frequency"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "District",
-      null
+      [
+        "UHF"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "PopulationCens. 2007",
-      null
+      [
+        "kW"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Capital",
-      null
+      [
+        "Service"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Mayor",
-      null
+      [
+        "System"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1\u00b0",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Ascope",
-        "/wiki/Ascope_District"
+        [
+          "30"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "---",
-        null
+        [
+          "0.25"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ascope",
-        "/wiki/Ascope"
+        [
+          "Arqiva"
+        ],
+        [
+          "/wiki/Arqiva"
+        ]
       ],
       [
-        "---",
-        null
+        [
+          "DVB-T"
+        ],
+        [
+          "/wiki/DVB-T"
+        ]
       ]
     ],
     [
       [
-        "2\u00b0",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Casa Grande",
-        "/wiki/Casa_Grande_District"
+        [
+          "34"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "---",
-        null
+        [
+          "0.25"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Casa Grande",
-        "/wiki/Casa_Grande,_Peru"
+        [
+          "Arqiva (Mux D)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "---",
-        null
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "3\u00b0",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Chicama",
-        "/wiki/Chicama_District"
+        [
+          "42"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "---",
-        null
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Chicama",
-        "/wiki/Chicama,_Peru"
+        [
+          "S4C"
+        ],
+        [
+          "/wiki/S4C"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "PAL"
+        ],
+        [
+          "/wiki/PAL"
+        ]
       ]
     ],
     [
       [
-        "4\u00b0",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Chocope",
-        "/wiki/Chocope_District"
+        [
+          "45"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "---",
-        null
+        [
+          "20"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Chocope",
-        "/wiki/Chocope"
+        [
+          "BBC"
+        ],
+        [
+          "/wiki/BBC"
+        ]
       ],
       [
-        "---",
-        null
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "5\u00b0",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Magdalena de Cao",
-        "/wiki/Magdalena_de_Cao_District"
+        [
+          "49"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "---",
-        null
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Magdalena de Cao",
-        "/wiki/Magdalena_de_Cao"
+        [
+          "ITV1 Wales"
+        ],
+        [
+          "/wiki/ITV_Wales_%26_West"
+        ]
       ],
       [
-        "---",
-        null
+        [
+          "PAL System I"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "6\u00b0",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Santiago de Cao",
-        "/wiki/Santiago_de_Cao_District"
+        [
+          "52"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "---",
-        null
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Santiago de Cao",
-        "/wiki/Santiago_de_Cao"
+        [
+          "BBC One Wales"
+        ],
+        [
+          "/wiki/BBC_One_Wales"
+        ]
       ],
       [
-        "---",
-        null
+        [
+          "PAL System I"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7\u00b0",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Paij\u00e1n",
-        "/wiki/Paij%C3%A1n_District"
+        [
+          "58"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "---",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paij\u00e1n",
-        "/wiki/Paij%C3%A1n"
+        [
+          "Digital 3&4"
+        ],
+        [
+          "/wiki/Digital_3%264"
+        ]
       ],
       [
-        "---",
-        null
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8\u00b0",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "R\u00e1zuri",
-        "/wiki/R%C3%A1zuri_District"
+        [
+          "61"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "---",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Puerto Chicama",
-        "/wiki/Puerto_Chicama"
+        [
+          "SDN"
+        ],
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
       ],
       [
-        "---",
-        null
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        [
+          "64"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC (Mux B)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

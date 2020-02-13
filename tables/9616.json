@@ -1,247 +1,719 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Transportation_in_Canada",
-  "title": "Transportation in Canada",
+  "url": "https://en.wikipedia.org/wiki/List_of_Avianca_Brasil_destinations",
+  "title": "List of Avianca Brasil destinations",
   "header": [
     [
-      "Rank",
-      null
+      [
+        "Country"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Airport",
-      null
+      [
+        "City"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      null
+      [
+        "Airport"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Totalpassengers",
-      null
-    ],
-    [
-      "Annualchange",
-      null
+      [
+        "Notes"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Toronto Pearson International Airport",
-        "/wiki/Toronto_Pearson_International_Airport"
+        [
+          "Alta Floresta"
+        ],
+        [
+          "/wiki/Alta_Floresta"
+        ]
       ],
       [
-        "Toronto",
-        "/wiki/Toronto"
+        [
+          "Piloto Osvaldo Marques Dias Airport"
+        ],
+        [
+          "/wiki/Alta_Floresta_Airport"
+        ]
       ],
       [
-        "33,435,280",
-        null
-      ],
-      [
-        "4.9%",
-        null
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Vancouver International Airport",
-        "/wiki/Vancouver_International_Airport"
+        [
+          "Aracaju"
+        ],
+        [
+          "/wiki/Aracaju"
+        ]
       ],
       [
-        "Vancouver",
-        "/wiki/Vancouver"
+        [
+          "Santa Maria Airport"
+        ],
+        [
+          "/wiki/Santa_Maria_Airport_(Sergipe)"
+        ]
       ],
       [
-        "17,032,742",
-        null
-      ],
-      [
-        "3.7%",
-        null
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Montr\u00e9al-Pierre Elliott Trudeau International Airport",
-        "/wiki/Montr%C3%A9al-Pierre_Elliott_Trudeau_International_Airport"
+        [
+          "Bel\u00e9m"
+        ],
+        [
+          "/wiki/Bel%C3%A9m"
+        ]
       ],
       [
-        "Montreal",
-        "/wiki/Montreal"
+        [
+          "Val de Cans International Airport"
+        ],
+        [
+          "/wiki/Val_de_Cans_International_Airport"
+        ]
       ],
       [
-        "13,668,829",
-        null
-      ],
-      [
-        "6.1%",
-        null
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Calgary International Airport",
-        "/wiki/Calgary_International_Airport"
+        [
+          "Belo Horizonte"
+        ],
+        [
+          "/wiki/Belo_Horizonte"
+        ]
       ],
       [
-        "Calgary",
-        "/wiki/Calgary"
+        [
+          "Tancredo Neves International Airport"
+        ],
+        [
+          "/wiki/Tancredo_Neves_International_Airport"
+        ]
       ],
       [
-        "12,770,988",
-        null
-      ],
-      [
-        "3.7%",
-        null
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Edmonton International Airport",
-        "/wiki/Edmonton_International_Airport"
+        [
+          "Bras\u00edlia"
+        ],
+        [
+          "/wiki/Bras%C3%ADlia"
+        ]
       ],
       [
-        "Edmonton",
-        "/wiki/Edmonton"
+        [
+          "Pres. Juscelino Kubitschek International Airport"
+        ],
+        [
+          "/wiki/Bras%C3%ADlia_International_Airport"
+        ]
       ],
       [
-        "6,089,099",
-        null
-      ],
-      [
-        "0.0%",
-        null
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ottawa Macdonald-Cartier International Airport",
-        "/wiki/Ottawa_Macdonald-Cartier_International_Airport"
+        [
+          "Campo Grande"
+        ],
+        [
+          "/wiki/Campo_Grande"
+        ]
       ],
       [
-        "Ottawa",
-        "/wiki/Ottawa"
+        [
+          "Campo Grande International Airport"
+        ],
+        [
+          "/wiki/Campo_Grande_International_Airport"
+        ]
       ],
       [
-        "4,473,894",
-        null
-      ],
-      [
-        "5.7%",
-        null
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Halifax Stanfield International Airport",
-        "/wiki/Halifax_Stanfield_International_Airport"
+        [
+          "Chapec\u00f3"
+        ],
+        [
+          "/wiki/Chapec%C3%B3"
+        ]
       ],
       [
-        "Halifax",
-        "/wiki/Halifax_Regional_Municipality"
+        [
+          "Serafin Enoss Bertaso Airport"
+        ],
+        [
+          "/wiki/Chapec%C3%B3_Airport"
+        ]
       ],
       [
-        "3,508,153",
-        null
-      ],
-      [
-        "2.6%",
-        null
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Winnipeg James Armstrong Richardson International Airport",
-        "/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport"
+        [
+          "Cuiab\u00e1"
+        ],
+        [
+          "/wiki/Cuiab%C3%A1"
+        ]
       ],
       [
-        "Winnipeg",
-        "/wiki/Winnipeg"
+        [
+          "Marechal Rondon International Airport"
+        ],
+        [
+          "/wiki/Marechal_Rondon_International_Airport"
+        ]
       ],
       [
-        "3,369,974",
-        null
-      ],
-      [
-        "-0.3%",
-        null
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Victoria International Airport",
-        "/wiki/Victoria_International_Airport"
+        [
+          "Curitiba"
+        ],
+        [
+          "/wiki/Curitiba"
+        ]
       ],
       [
-        "Victoria",
-        "/wiki/Victoria,_British_Columbia"
+        [
+          "Afonso Pena International Airport"
+        ],
+        [
+          "/wiki/Afonso_Pena_International_Airport"
+        ]
       ],
       [
-        "1,514,713",
-        null
-      ],
-      [
-        "\u22121.2%",
-        null
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kelowna International Airport",
-        "/wiki/Kelowna_International_Airport"
+        [
+          "Florian\u00f3polis"
+        ],
+        [
+          "/wiki/Florian%C3%B3polis"
+        ]
       ],
       [
-        "Kelowna",
-        "/wiki/Kelowna"
+        [
+          "Herc\u00edlio Luz International Airport"
+        ],
+        [
+          "/wiki/Herc%C3%ADlio_Luz_International_Airport"
+        ]
       ],
       [
-        "1,391,725",
-        null
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1.8%",
-        null
+        [
+          "Fortaleza"
+        ],
+        [
+          "/wiki/Fortaleza"
+        ]
+      ],
+      [
+        [
+          "Pinto Martins International Airport"
+        ],
+        [
+          "/wiki/Pinto_Martins_%E2%80%93_Fortaleza_International_Airport"
+        ]
+      ],
+      [
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Foz do Igua\u00e7u"
+        ],
+        [
+          "/wiki/Foz_do_Igua%C3%A7u"
+        ]
+      ],
+      [
+        [
+          "Cataratas International Airport"
+        ],
+        [
+          "/wiki/Foz_do_Igua%C3%A7u_International_Airport"
+        ]
+      ],
+      [
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Goi\u00e2nia"
+        ],
+        [
+          "/wiki/Goi%C3%A2nia"
+        ]
+      ],
+      [
+        [
+          "Santa Genoveva Airport"
+        ],
+        [
+          "/wiki/Santa_Genoveva_Airport"
+        ]
+      ],
+      [
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ilh\u00e9us"
+        ],
+        [
+          "/wiki/Ilh%C3%A9us"
+        ]
+      ],
+      [
+        [
+          "Jorge Amado Airport"
+        ],
+        [
+          "/wiki/Ilh%C3%A9us_Jorge_Amado_Airport"
+        ]
+      ],
+      [
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ji-Paran\u00e1"
+        ],
+        [
+          "/wiki/Ji-Paran%C3%A1"
+        ]
+      ],
+      [
+        [
+          "Jos\u00e9 Coleto Airport"
+        ],
+        [
+          "/wiki/Ji-Paran%C3%A1_Airport"
+        ]
+      ],
+      [
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Jo\u00e3o Pessoa"
+        ],
+        [
+          "/wiki/Jo%C3%A3o_Pessoa,_Para%C3%ADba"
+        ]
+      ],
+      [
+        [
+          "Pres. Castro Pinto International Airport"
+        ],
+        [
+          "/wiki/Presidente_Castro_Pinto_International_Airport"
+        ]
+      ],
+      [
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Juazeiro do Norte"
+        ],
+        [
+          "/wiki/Juazeiro_do_Norte"
+        ]
+      ],
+      [
+        [
+          "Orlando Bezerra de Menezes Airport"
+        ],
+        [
+          "/wiki/Juazeiro_do_Norte_Airport"
+        ]
+      ],
+      [
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Macei\u00f3"
+        ],
+        [
+          "/wiki/Macei%C3%B3"
+        ]
+      ],
+      [
+        [
+          "Zumbi dos Palmares International Airport"
+        ],
+        [
+          "/wiki/Zumbi_dos_Palmares_International_Airport"
+        ]
+      ],
+      [
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Manaus"
+        ],
+        [
+          "/wiki/Manaus"
+        ]
+      ],
+      [
+        [
+          "Eduardo Gomes International Airport"
+        ],
+        [
+          "/wiki/Eduardo_Gomes_International_Airport"
+        ]
+      ],
+      [
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Brazil"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Natal"
+        ],
+        [
+          "/wiki/Natal,_Rio_Grande_do_Norte"
+        ]
+      ],
+      [
+        [
+          "Augusto Severo International Airport"
+        ],
+        [
+          "/wiki/Augusto_Severo_International_Airport"
+        ]
+      ],
+      [
+        [
+          "Terminated"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

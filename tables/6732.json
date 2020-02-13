@@ -1,467 +1,929 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Transistor_count",
-  "title": "Transistor count",
+  "url": "https://en.wikipedia.org/wiki/List_of_United_States_Air_Force_installations",
+  "title": "List of United States Air Force installations",
   "header": [
     [
-      "Computer",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Transistor count",
-      null
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Year",
-      null
+      [
+        "State"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Manufacturer",
-      null
+      [
+        "Unit Designation"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Notes",
-      null
+      [
+        "Notes/Mission"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Transistor Computer",
-        "/wiki/Manchester_computers#Transistor_Computer"
+        [
+          "Abston Air National Guard Station"
+        ],
+        [
+          "/wiki/Abston_Air_National_Guard_Station"
+        ]
       ],
       [
-        "92",
-        null
+        [
+          "Montgomery, Alabama"
+        ],
+        [
+          "/wiki/Montgomery,_Alabama"
+        ]
       ],
       [
-        "1953",
-        null
+        [
+          "AL ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "University of Manchester",
-        "/wiki/University_of_Manchester"
+        [
+          "226th Combat Communications Group"
+        ],
+        [
+          "/wiki/226th_Combat_Communications_Group"
+        ]
       ],
       [
-        "Point-contact transistors",
-        "/wiki/Point-contact_transistor"
+        [
+          "AFSPC gained cyber unit."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "TRADIC",
-        "/wiki/TRADIC"
+        [
+          "Atlantic City International Airport"
+        ],
+        [
+          "/wiki/Atlantic_City_International_Airport"
+        ]
       ],
       [
-        "700",
-        null
+        [
+          "Atlantic City, New Jersey"
+        ],
+        [
+          "/wiki/Atlantic_City,_New_Jersey"
+        ]
       ],
       [
-        "1954",
-        null
+        [
+          "NJ ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bell Labs",
-        "/wiki/Bell_Labs"
+        [
+          "177th Fighter Wing"
+        ],
+        [
+          "/wiki/177th_Fighter_Wing"
+        ]
       ],
       [
-        "Point-contact transistors",
-        null
+        [
+          "F-16 Fighting Falcon",
+          "First Air Force/AFNORTH",
+          "Operation Noble Eagle",
+          "NORAD"
+        ],
+        [
+          "/wiki/F-16_Fighting_Falcon",
+          "/wiki/First_Air_Force",
+          "/wiki/Operation_Noble_Eagle",
+          "/wiki/NORAD"
+        ]
       ]
     ],
     [
       [
-        "Transistor Computer",
-        "/wiki/Manchester_computers#Transistor_Computer"
+        [
+          "Bangor Air National Guard Base",
+          "Bangor International Airport"
+        ],
+        [
+          "/wiki/Bangor_Air_National_Guard_Base",
+          "/wiki/Bangor_International_Airport"
+        ]
       ],
       [
-        "250",
-        null
+        [
+          "Bangor, Maine"
+        ],
+        [
+          "/wiki/Bangor,_Maine"
+        ]
       ],
       [
-        "1955",
-        null
+        [
+          "ME ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "University of Manchester",
-        null
+        [
+          "101st Air Refueling Wing"
+        ],
+        [
+          "/wiki/101st_Air_Refueling_Wing"
+        ]
       ],
       [
-        "Discrete",
-        "/wiki/Discrete_transistor"
+        [
+          "KC-135 Stratotanker",
+          "Dow Air Force Base"
+        ],
+        [
+          "/wiki/KC-135_Stratotanker",
+          "/wiki/Dow_Air_Force_Base"
+        ]
       ]
     ],
     [
       [
-        "ETL",
-        "/wiki/Electrotechnical_Laboratory"
+        [
+          "Barnes Municipal Airport"
+        ],
+        [
+          "/wiki/Barnes_Municipal_Airport"
+        ]
       ],
       [
-        "130",
-        null
+        [
+          "Westfield, Massachusetts"
+        ],
+        [
+          "/wiki/Westfield,_Massachusetts"
+        ]
       ],
       [
-        "1956",
-        null
+        [
+          "MA ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Electrotechnical Laboratory",
-        "/wiki/Electrotechnical_Laboratory"
+        [
+          "104th Fighter Wing"
+        ],
+        [
+          "/wiki/104th_Fighter_Wing"
+        ]
       ],
       [
-        "Point-contact transistors",
-        null
+        [
+          "F-15 Eagle"
+        ],
+        [
+          "/wiki/F-15_Eagle"
+        ]
       ]
     ],
     [
       [
-        "Metrovick 950",
-        "/wiki/Metrovick_950"
+        [
+          "Beightler Armory"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "200",
-        null
+        [
+          "Columbus, Ohio"
+        ],
+        [
+          "/wiki/Columbus,_Ohio"
+        ]
       ],
       [
-        "1956",
-        null
+        [
+          "OH ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Metropolitan-Vickers",
-        "/wiki/Metropolitan-Vickers"
+        [
+          "Ohio Air National Guard"
+        ],
+        [
+          "/wiki/Ohio_Air_National_Guard"
+        ]
       ],
       [
-        "junction transistors",
-        "/wiki/Junction_transistor"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "NEC",
-        "/wiki/NEC"
+        [
+          "Berry Field Air National Guard Base",
+          "Nashville International Airport"
+        ],
+        [
+          "/wiki/Berry_Field_Air_National_Guard_Base",
+          "/wiki/Nashville_International_Airport"
+        ]
       ],
       [
-        "600",
-        null
+        [
+          "Nashville, Tennessee"
+        ],
+        [
+          "/wiki/Nashville,_Tennessee"
+        ]
       ],
       [
-        "1958",
-        null
+        [
+          "TN ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NEC",
-        "/wiki/NEC"
+        [
+          "118th Airlift Wing"
+        ],
+        [
+          "/wiki/118th_Airlift_Wing"
+        ]
       ],
       [
-        "Germanium",
-        "/wiki/Germanium"
+        [
+          "C-130 Hercules"
+        ],
+        [
+          "/wiki/C-130_Hercules"
+        ]
       ]
     ],
     [
       [
-        "Hitachi",
-        "/wiki/Hitachi"
+        [
+          "Birmingham Air National Guard Base",
+          "Birmingham-Shuttlesworth International Airport"
+        ],
+        [
+          "/wiki/Birmingham_Air_National_Guard_Base",
+          "/wiki/Birmingham-Shuttlesworth_International_Airport"
+        ]
       ],
       [
-        "1,000",
-        null
+        [
+          "Birmingham, Alabama"
+        ],
+        [
+          "/wiki/Birmingham,_Alabama"
+        ]
       ],
       [
-        "1958",
-        null
+        [
+          "AL ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hitachi",
-        "/wiki/Hitachi"
+        [
+          "117th Air Refueling Wing"
+        ],
+        [
+          "/wiki/117th_Air_Refueling_Wing"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "KC-135 Stratotanker"
+        ],
+        [
+          "/wiki/KC-135_Stratotanker"
+        ]
       ]
     ],
     [
       [
-        "IBM 7070",
-        "/wiki/IBM_7070"
+        [
+          "Bradley Air National Guard Base",
+          "Bradley International Airport"
+        ],
+        [
+          "/wiki/Bradley_Air_National_Guard_Base",
+          "/wiki/Bradley_International_Airport"
+        ]
       ],
       [
-        "30,000",
-        null
+        [
+          "Windsor Locks, Connecticut"
+        ],
+        [
+          "/wiki/Windsor_Locks,_Connecticut"
+        ]
       ],
       [
-        "1958",
-        null
+        [
+          "CT ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "IBM",
-        "/wiki/IBM"
+        [
+          "103d Airlift Wing"
+        ],
+        [
+          "/wiki/103d_Airlift_Wing"
+        ]
       ],
       [
-        "Alloy-junction",
-        "/wiki/Alloy-junction_transistor"
+        [
+          "C-21a Cougar"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Matsushita",
-        "/wiki/Matsushita"
+        [
+          "Burlington Air National Guard Base",
+          "Burlington International Airport"
+        ],
+        [
+          "/wiki/Burlington_Air_National_Guard_Base",
+          "/wiki/Burlington_International_Airport"
+        ]
       ],
       [
-        "400",
-        null
+        [
+          "Burlington, Vermont"
+        ],
+        [
+          "/wiki/Burlington,_Vermont"
+        ]
       ],
       [
-        "1959",
-        null
+        [
+          "VT ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matsushita",
-        "/wiki/Matsushita"
+        [
+          "158th Fighter Wing"
+        ],
+        [
+          "/wiki/158th_Fighter_Wing"
+        ]
       ],
       [
-        "Bipolar transistors",
-        "/wiki/Bipolar_transistors"
+        [
+          "F-16 Fighting Falcon",
+          "First Air Force/AFNORTH",
+          "Operation Noble Eagle",
+          "NORAD",
+          "Air Defense Command"
+        ],
+        [
+          "/wiki/F-16_Fighting_Falcon",
+          "/wiki/First_Air_Force",
+          "/wiki/Operation_Noble_Eagle",
+          "/wiki/NORAD",
+          "/wiki/Air_Defense_Command"
+        ]
       ]
     ],
     [
       [
-        "NEC NEAC-2203",
-        null
+        [
+          "Camp Mabry"
+        ],
+        [
+          "/wiki/Camp_Mabry"
+        ]
       ],
       [
-        "2,579",
-        null
+        [
+          "Austin, Texas"
+        ],
+        [
+          "/wiki/Austin,_Texas"
+        ]
       ],
       [
-        "1959",
-        null
+        [
+          "TX ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NEC",
-        null
+        [
+          "Texas Air National Guard"
+        ],
+        [
+          "/wiki/Texas_Air_National_Guard"
+        ]
       ],
       [
-        "",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Toshiba",
-        "/wiki/Toshiba"
+        [
+          "Abraham Lincoln Capital Airport"
+        ],
+        [
+          "/wiki/Abraham_Lincoln_Capital_Airport"
+        ]
       ],
       [
-        "5,000",
-        null
+        [
+          "Springfield, Illinois"
+        ],
+        [
+          "/wiki/Springfield,_Illinois"
+        ]
       ],
       [
-        "1959",
-        null
+        [
+          "IL ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Toshiba",
-        "/wiki/Toshiba"
+        [
+          "183d Fighter Wing"
+        ],
+        [
+          "/wiki/183d_Fighter_Wing"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "ACC gained unit, operates a Centralized Repair Facility. Repairs General Electric F110 Engines for the United States Air Force, Wing designation subject to change pending realignment from the 2005 BRAC."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "IBM 7090",
-        "/wiki/IBM_7090"
+        [
+          "Channel Islands Air National Guard Station"
+        ],
+        [
+          "/wiki/Channel_Islands_Air_National_Guard_Station"
+        ]
       ],
       [
-        "50,000",
-        null
+        [
+          "Oxnard, California"
+        ],
+        [
+          "/wiki/Oxnard,_California"
+        ]
       ],
       [
-        "1959",
-        null
+        [
+          "CA ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "IBM",
-        null
+        [
+          "146th Airlift Wing"
+        ],
+        [
+          "/wiki/146th_Airlift_Wing"
+        ]
       ],
       [
-        "Discrete germanium transistors",
-        null
+        [
+          "Naval Air Station Point Mugu",
+          "C-130 Hercules",
+          "California Air National Guard"
+        ],
+        [
+          "/wiki/Naval_Air_Station_Point_Mugu",
+          "/wiki/C-130_Hercules",
+          "/wiki/California_Air_National_Guard"
+        ]
       ]
     ],
     [
       [
-        "PDP-1",
-        "/wiki/PDP-1"
+        [
+          "Yeager Airport"
+        ],
+        [
+          "/wiki/Yeager_Airport"
+        ]
       ],
       [
-        "2,700",
-        null
+        [
+          "Charleston, West Virginia"
+        ],
+        [
+          "/wiki/Charleston,_West_Virginia"
+        ]
       ],
       [
-        "1959",
-        null
+        [
+          "WV ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Digital Equipment Corporation",
-        "/wiki/Digital_Equipment_Corporation"
+        [
+          "130th Airlift Wing"
+        ],
+        [
+          "/wiki/130th_Airlift_Wing"
+        ]
       ],
       [
-        "Discrete transistors",
-        "/wiki/Discrete_transistor"
+        [
+          "C-130 Hercules"
+        ],
+        [
+          "/wiki/C-130_Hercules"
+        ]
       ]
     ],
     [
       [
-        "Mitsubishi",
-        "/wiki/Mitsubishi"
+        [
+          "Charlotte Air National Guard Base",
+          "Charlotte Douglas International Airport"
+        ],
+        [
+          "/wiki/Charlotte_Air_National_Guard_Base",
+          "/wiki/Charlotte_Douglas_International_Airport"
+        ]
       ],
       [
-        "3,500",
-        null
+        [
+          "Charlotte, North Carolina"
+        ],
+        [
+          "/wiki/Charlotte,_North_Carolina"
+        ]
       ],
       [
-        "1960",
-        null
+        [
+          "NC ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mitsubishi",
-        "/wiki/Mitsubishi"
+        [
+          "145th Airlift Wing"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germanium transistors",
-        null
+        [
+          "C-130 Hercules"
+        ],
+        [
+          "/wiki/C-130_Hercules"
+        ]
       ]
     ],
     [
       [
-        "M18 FADAC",
-        "/wiki/M18_FADAC"
+        [
+          "Cheyenne Air National Guard Base",
+          "Cheyenne Regional Airport"
+        ],
+        [
+          null,
+          "/wiki/Cheyenne_Regional_Airport"
+        ]
       ],
       [
-        "1,600",
-        null
+        [
+          "Cheyenne, Wyoming"
+        ],
+        [
+          "/wiki/Cheyenne,_Wyoming"
+        ]
       ],
       [
-        "1960",
-        null
+        [
+          "WY ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Autonetics",
-        "/wiki/Autonetics"
+        [
+          "153d Airlift Wing"
+        ],
+        [
+          "/wiki/153d_Airlift_Wing"
+        ]
       ],
       [
-        "Discrete transistors",
-        null
+        [
+          "C-130 Hercules"
+        ],
+        [
+          "/wiki/C-130_Hercules"
+        ]
       ]
     ],
     [
       [
-        "D-17B",
-        "/wiki/D-17B"
+        [
+          "Clear Air Force Station"
+        ],
+        [
+          "/wiki/Clear_Air_Force_Station"
+        ]
       ],
       [
-        "1,521",
-        null
+        [
+          "Denali Borough, Alaska"
+        ],
+        [
+          "/wiki/Denali_Borough,_Alaska"
+        ]
       ],
       [
-        "1962",
-        null
+        [
+          "AK ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Autonetics",
-        null
+        [
+          "213th Space Warning Squadron"
+        ],
+        [
+          "/wiki/213th_Space_Warning_Squadron"
+        ]
       ],
       [
-        "Discrete transistors",
-        null
+        [
+          "Intercontinental ballistic missile",
+          "Submarine-launched ballistic missile",
+          "North American Aerospace Defense Command"
+        ],
+        [
+          "/wiki/Intercontinental_ballistic_missile",
+          "/wiki/Submarine-launched_ballistic_missile",
+          "/wiki/North_American_Aerospace_Defense_Command"
+        ]
       ]
     ],
     [
       [
-        "NEC NEAC-L2",
-        null
+        [
+          "Gulfport Combat Readiness Training Center"
+        ],
+        [
+          "/wiki/Gulfport_Combat_Readiness_Training_Center"
+        ]
       ],
       [
-        "16,000",
-        null
+        [
+          "Gulfport, Mississippi"
+        ],
+        [
+          "/wiki/Gulfport,_Mississippi"
+        ]
       ],
       [
-        "1964",
-        null
+        [
+          "MS ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NEC",
-        null
+        [
+          "255th Air Control Squadron"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ge transistors",
-        null
+        [
+          "Hosts regular deployments of Army and Air Force ANG units, and offers offshore airspace that is fully instrumented (ACMI) for recording air-to-air engagements."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "IBM System/360",
-        "/wiki/IBM_System/360"
+        [
+          "Montgomery Air National Guard Base",
+          "Dannelly Field"
+        ],
+        [
+          "/wiki/Montgomery_Air_National_Guard_Base",
+          "/wiki/Dannelly_Field"
+        ]
       ],
       [
-        "?",
-        null
+        [
+          "Montgomery, Alabama"
+        ],
+        [
+          "/wiki/Montgomery,_Alabama"
+        ]
       ],
       [
-        "1964",
-        null
+        [
+          "AL ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "IBM",
-        null
+        [
+          "187th Fighter Wing"
+        ],
+        [
+          "/wiki/187th_Fighter_Wing"
+        ]
       ],
       [
-        "Integrated circuits",
-        "/wiki/Integrated_circuit"
+        [
+          "F-16 Fighting Falcon"
+        ],
+        [
+          "/wiki/F-16_Fighting_Falcon"
+        ]
       ]
     ],
     [
       [
-        "PDP-8/I",
-        "/wiki/PDP-8"
+        [
+          "Mu\u00f1iz Air National Guard Base",
+          "Luis Mu\u00f1oz Mar\u00edn International Airport"
+        ],
+        [
+          "/wiki/Mu%C3%B1iz_Air_National_Guard_Base",
+          "/wiki/Luis_Mu%C3%B1oz_Mar%C3%ADn_International_Airport"
+        ]
       ],
       [
-        "1409",
-        null
+        [
+          "San Juan, Puerto Rico"
+        ],
+        [
+          "/wiki/San_Juan,_Puerto_Rico"
+        ]
       ],
       [
-        "1968",
-        null
+        [
+          "PR ANG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Digital Equipment Corporation",
-        "/wiki/Digital_Equipment_Corporation"
+        [
+          "156th Airlift Wing"
+        ],
+        [
+          "/wiki/156th_Airlift_Wing"
+        ]
       ],
       [
-        "TTL",
-        "/wiki/Transistor%E2%80%93transistor_logic"
+        [
+          "C-130 Hercules"
+        ],
+        [
+          "/wiki/C-130_Hercules"
+        ]
       ]
     ],
     [
       [
-        "Apollo Guidance Computer",
-        "/wiki/Apollo_Guidance_Computer"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "12,300",
-        null
+        [
+          "Denver, Colorado"
+        ],
+        [
+          "/wiki/Denver,_Colorado"
+        ]
       ],
       [
-        "1966",
-        null
+        [
+          "AFRC"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Raytheon,MIT Instrumentation Laboratory",
-        "/wiki/Raytheon /wiki/MIT_Instrumentation_Laboratory"
+        [
+          "Air Reserve Personnel Center"
+        ],
+        [
+          "/wiki/Air_Reserve_Personnel_Center"
+        ]
       ],
       [
-        "ICs",
-        "/wiki/Integrated_circuit"
+        [
+          "Buckley Air Force Base"
+        ],
+        [
+          "/wiki/Buckley_Air_Force_Base"
+        ]
       ]
     ]
   ],

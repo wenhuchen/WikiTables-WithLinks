@@ -1,185 +1,505 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Dover_transmitting_station",
-  "title": "Dover transmitting station",
+  "url": "https://en.wikipedia.org/wiki/List_of_schools_in_the_Australian_Capital_Territory",
+  "title": "List of schools in the Australian Capital Territory",
   "header": [
     [
-      "Frequency",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "UHF",
-      null
+      [
+        "Suburb"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "kW",
-      null
+      [
+        "District"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Operator",
-      null
+      [
+        "Category"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Opened"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Closed"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "MHz",
-        "/wiki/Hertz#SI_multiples"
+        [
+          "AME School"
+        ],
+        [
+          "/wiki/AME_School"
+        ]
       ],
       [
-        "39",
-        null
+        [
+          "Campbell"
+        ],
+        [
+          "/wiki/Campbell,_Australian_Capital_Territory"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "North Canberra"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Arqiva",
-        "/wiki/Arqiva"
+        [
+          "Independent"
+        ],
+        [
+          "/wiki/Independent_school"
+        ]
+      ],
+      [
+        [
+          "1972"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1976"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "MHz",
-        "/wiki/Hertz#SI_multiples"
+        [
+          "AME School, Weston"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "42",
-        null
+        [
+          "Weston"
+        ],
+        [
+          "/wiki/Weston,_Australian_Capital_Territory"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "Weston Creek"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Digital 3&4",
-        "/wiki/Digital_3%264"
+        [
+          "Independent"
+        ],
+        [
+          "/wiki/Independent_school"
+        ]
+      ],
+      [
+        [
+          "1977"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1996"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "MHz",
-        "/wiki/Hertz#SI_multiples"
+        [
+          "Our Lady of Mercy Primary School"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "45",
-        null
+        [
+          "Braddon"
+        ],
+        [
+          "/wiki/Braddon,_Australian_Capital_Territory"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "North Canberra"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC",
-        "/wiki/BBC"
+        [
+          "Catholic"
+        ],
+        [
+          "/wiki/Catholic_education_in_Australia"
+        ]
+      ],
+      [
+        [
+          "1935"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1973"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "MHz",
-        "/wiki/Hertz#SI_multiples"
+        [
+          "Padua Catholic High School"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "55",
-        null
+        [
+          "Wanniassa"
+        ],
+        [
+          "/wiki/Wanniassa,_Australian_Capital_Territory"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "Tuggeranong"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Arqiva (Mux D)",
-        null
+        [
+          "Catholic"
+        ],
+        [
+          "/wiki/Catholic_education_in_Australia"
+        ]
+      ],
+      [
+        [
+          "1978"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1997"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "MHz",
-        "/wiki/Hertz#SI_multiples"
+        [
+          "St Brigid's Primary School"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "58",
-        null
+        [
+          "Dickson"
+        ],
+        [
+          "/wiki/Dickson,_Australian_Capital_Territory"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "North Canberra"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC (Mux B)",
-        null
+        [
+          "Catholic"
+        ],
+        [
+          "/wiki/Catholic_education_in_Australia"
+        ]
+      ],
+      [
+        [
+          "1960"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1986"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "MHz",
-        "/wiki/Hertz#SI_multiples"
+        [
+          "St Christopher's School"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "60",
-        null
+        [
+          "Forrest"
+        ],
+        [
+          "/wiki/Forrest,_Australian_Capital_Territory"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "South Canberra"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "SDN",
-        "/wiki/S4C_Digital_Networks"
+        [
+          "Catholic"
+        ],
+        [
+          "/wiki/Catholic_education_in_Australia"
+        ]
+      ],
+      [
+        [
+          "1928"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1971"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "MHz",
-        "/wiki/Hertz#SI_multiples"
+        [
+          "St Michael's Primary School"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "61",
-        null
+        [
+          "Lyneham"
+        ],
+        [
+          "/wiki/Lyneham,_Australian_Capital_Territory"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "North Canberra"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Digital 3&4 (Mux 2)",
-        null
+        [
+          "Catholic"
+        ],
+        [
+          "/wiki/Catholic_education_in_Australia"
+        ]
+      ],
+      [
+        [
+          "1961"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1973"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "MHz",
-        "/wiki/Hertz#SI_multiples"
+        [
+          "St Peter Chanel's Primary School"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "62",
-        null
+        [
+          "Yarralumla"
+        ],
+        [
+          "/wiki/Yarralumla,_Australian_Capital_Territory"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "South Canberra"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Arqiva (Mux C)",
-        null
+        [
+          "Catholic"
+        ],
+        [
+          "/wiki/Catholic_education_in_Australia"
+        ]
+      ],
+      [
+        [
+          "1956"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1989"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "MHz",
-        "/wiki/Hertz#SI_multiples"
+        [
+          "St Peter's Catholic College"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "68",
-        null
+        [
+          "Isabella Plains"
+        ],
+        [
+          "/wiki/Isabella_Plains,_Australian_Capital_Territory"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Tuggeranong"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC (Mux 1)",
-        null
+        [
+          "Catholic"
+        ],
+        [
+          "/wiki/Catholic_education_in_Australia"
+        ]
+      ],
+      [
+        [
+          "1989"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1997"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

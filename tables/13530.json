@@ -1,338 +1,470 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Taniec_z_Gwiazdami_(season_7)",
-  "title": "Taniec z Gwiazdami (season 7)",
+  "url": "https://en.wikipedia.org/wiki/Fortune_Global_500",
+  "title": "Fortune Global 500",
   "header": [
     [
-      "Dance",
-      null
+      [
+        "Rank"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Best dancer",
-      null
+      [
+        "Company"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Best score",
-      null
+      [
+        "Country"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Worst dancer",
-      null
+      [
+        "Industry"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Worst score",
-      null
+      [
+        "Revenue in USD"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Cha-Cha-Cha",
-        "/wiki/Cha-cha-cha_(dance)"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Elisabeth Duda",
-        "/wiki/Elisabeth_Duda"
+        [
+          "Walmart"
+        ],
+        [
+          "/wiki/Walmart"
+        ]
       ],
       [
-        "39",
-        null
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ],
       [
-        "Mariusz Pudzianowski",
-        "/wiki/Mariusz_Pudzianowski"
+        [
+          "Retail"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "24",
-        null
+        [
+          "$486 billion"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Waltz",
-        "/wiki/Waltz"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Magdalena Walach,Tamara Arciuch",
-        "/wiki/Magdalena_Walach /wiki/Tamara_Arciuch"
+        [
+          "State Grid"
+        ],
+        [
+          "/wiki/State_Grid"
+        ]
       ],
       [
-        "40",
-        null
+        [
+          "China"
+        ],
+        [
+          "/wiki/China"
+        ]
       ],
       [
-        "\u0141ukasz Zagrobelny",
-        null
+        [
+          "Energy"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "28",
-        null
+        [
+          "$316 billion"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Quickstep",
-        "/wiki/Quickstep"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Magdalena Walach",
-        "/wiki/Magdalena_Walach"
+        [
+          "Sinopec Group"
+        ],
+        [
+          "/wiki/China_Petrochemical_Corporation"
+        ]
       ],
       [
-        "35",
-        null
+        [
+          "China"
+        ],
+        [
+          "/wiki/China"
+        ]
       ],
       [
-        "Elisabeth Duda",
-        "/wiki/Elisabeth_Duda"
+        [
+          "Petroleum"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "27",
-        null
+        [
+          "$268 billion"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Rumba",
-        "/wiki/Rhumba"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Wojciech \u0141ozowski",
-        null
+        [
+          "China National Petroleum"
+        ],
+        [
+          "/wiki/China_National_Petroleum"
+        ]
       ],
       [
-        "40",
-        null
+        [
+          "China"
+        ],
+        [
+          "/wiki/China"
+        ]
       ],
       [
-        "Mariusz Pudzianowski",
-        "/wiki/Mariusz_Pudzianowski"
+        [
+          "Petroleum"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "29",
-        null
+        [
+          "$263 billion"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Jive",
-        "/wiki/Jive_(dance)"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Magdalena Walach",
-        "/wiki/Magdalena_Walach"
+        [
+          "Toyota Motor"
+        ],
+        [
+          "/wiki/Toyota_Motor"
+        ]
       ],
       [
-        "40",
-        null
+        [
+          "Japan"
+        ],
+        [
+          "/wiki/Japan"
+        ]
       ],
       [
-        "\u0141ukasz Zagrobelny",
-        null
+        [
+          "Automobiles"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "20",
-        null
+        [
+          "$255 billion"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Tango",
-        "/wiki/Tango_(dance)"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tamara Arciuch,Magdalena Walach",
-        "/wiki/Tamara_Arciuch /wiki/Magdalena_Walach"
+        [
+          "Volkswagen"
+        ],
+        [
+          "/wiki/Volkswagen_Group"
+        ]
       ],
       [
-        "40",
-        null
+        [
+          "Germany"
+        ],
+        [
+          "/wiki/Germany"
+        ]
       ],
       [
-        "Ma\u0142gorzata Socha",
-        "/wiki/Ma%C5%82gorzata_Socha"
+        [
+          "Automobiles"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "21",
-        null
+        [
+          "$240 billion"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Foxtrot",
-        "/wiki/Foxtrot"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Magdalena Walach",
-        "/wiki/Magdalena_Walach"
+        [
+          "Royal Dutch Shell"
+        ],
+        [
+          "/wiki/Royal_Dutch_Shell"
+        ]
       ],
       [
-        "38",
-        null
+        [
+          "Netherlands"
+        ],
+        [
+          "/wiki/Netherlands"
+        ]
       ],
       [
-        "Tomasz Schimscheiner",
-        "/wiki/Tomasz_Schimscheiner"
+        [
+          "Petroleum"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "28",
-        null
+        [
+          "$240 billion"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Paso Doble",
-        "/wiki/Paso_Doble"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Elisabeth Duda",
-        "/wiki/Elisabeth_Duda"
+        [
+          "Berkshire Hathaway"
+        ],
+        [
+          "/wiki/Berkshire_Hathaway"
+        ]
       ],
       [
-        "38",
-        null
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ],
       [
-        "Marina \u0141uczenko",
-        null
+        [
+          "Products"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "22",
-        null
+        [
+          "$242 billion"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Samba",
-        "/wiki/Samba_(ballroom_dance)"
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Magdalena Walach",
-        "/wiki/Magdalena_Walach"
+        [
+          "Apple"
+        ],
+        [
+          "/wiki/Apple_Inc."
+        ]
       ],
       [
-        "35",
-        null
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ],
       [
-        "Mariusz Pudzianowski",
-        "/wiki/Mariusz_Pudzianowski"
+        [
+          "Technology"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "26",
-        null
+        [
+          "$216 billion"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Viennese Waltz",
-        "/wiki/Viennese_Waltz"
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Magdalena Walach",
-        "/wiki/Magdalena_Walach"
+        [
+          "Exxon Mobil"
+        ],
+        [
+          "/wiki/ExxonMobil"
+        ]
       ],
       [
-        "40",
-        null
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ],
       [
-        "Elisabeth Duda",
-        "/wiki/Elisabeth_Duda"
+        [
+          "Petroleum"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "27",
-        null
-      ]
-    ],
-    [
-      [
-        "American Smooth",
-        "/wiki/American_Smooth"
-      ],
-      [
-        "Tamara Arciuch,Magdalena Walach",
-        "/wiki/Tamara_Arciuch /wiki/Magdalena_Walach"
-      ],
-      [
-        "40",
-        null
-      ],
-      [
-        "\u0141ukasz Zagrobelny",
-        null
-      ],
-      [
-        "30",
-        null
-      ]
-    ],
-    [
-      [
-        "Salsa",
-        "/wiki/Salsa_(dance)"
-      ],
-      [
-        "Magdalena Walach",
-        "/wiki/Magdalena_Walach"
-      ],
-      [
-        "39",
-        null
-      ],
-      [
-        "\u0141ukasz Zagrobelny",
-        null
-      ],
-      [
-        "26",
-        null
-      ]
-    ],
-    [
-      [
-        "Argentine Tango",
-        "/wiki/Argentine_Tango"
-      ],
-      [
-        "Magdalena Walach,Mariusz Pudzianowski,Tamara Arciuch",
-        "/wiki/Magdalena_Walach /wiki/Mariusz_Pudzianowski /wiki/Tamara_Arciuch"
-      ],
-      [
-        "40",
-        null
-      ],
-      [
-        "-",
-        null
-      ],
-      [
-        "-",
-        null
-      ]
-    ],
-    [
-      [
-        "Freestyle",
-        null
-      ],
-      [
-        "Magdalena Walach",
-        "/wiki/Magdalena_Walach"
-      ],
-      [
-        "40",
-        null
-      ],
-      [
-        "Mariusz Pudzianowski",
-        "/wiki/Mariusz_Pudzianowski"
-      ],
-      [
-        "38",
-        null
+        [
+          "$205 billion"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "The best and worst performances in each dance according to the judges' marks are as follows:",
+  "context": "",
   "idx": 13530
 }

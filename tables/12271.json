@@ -1,203 +1,887 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2012_A_Lyga",
-  "title": "2012 A Lyga",
+  "url": "https://en.wikipedia.org/wiki/List_of_Canadian_Football_stadiums_by_capacity",
+  "title": "List of Canadian Football stadiums by capacity",
   "header": [
     [
-      "Club",
-      null
+      [
+        "Stadium"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      null
+      [
+        "FixedCapacity"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Stadium",
-      null
+      [
+        "City"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "2011 season",
-      "/wiki/2011_A_Lyga"
+      [
+        "Province"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Info"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Atlantas",
-        "/wiki/FK_Atlantas"
+        [
+          "Lamport Stadium"
+        ],
+        [
+          "/wiki/Lamport_Stadium"
+        ]
       ],
       [
-        "Klaip\u0117da",
-        "/wiki/Klaip%C4%97da"
+        [
+          "9,600"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\u017dalgiris Stadium (Klaip\u0117da)",
-        "/wiki/%C5%BDalgiris_Stadium_(Klaip%C4%97da)"
+        [
+          "Toronto"
+        ],
+        [
+          "/wiki/Toronto"
+        ]
       ],
       [
-        "11th",
-        null
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
+      ],
+      [
+        [
+          "Toronto Argonauts"
+        ],
+        [
+          "/wiki/Toronto_Argonauts"
+        ]
       ]
     ],
     [
       [
-        "Banga",
-        "/wiki/FK_Banga_Garg%C5%BEdai"
+        [
+          "Stade Claude Robillard"
+        ],
+        [
+          "/wiki/Complexe_sportif_Claude-Robillard"
+        ]
       ],
       [
-        "Garg\u017edai",
-        "/wiki/Garg%C5%BEdai"
+        [
+          "9,500"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Garg\u017edai Stadium",
-        "/wiki/Garg%C5%BEdai_Stadium"
+        [
+          "Montreal"
+        ],
+        [
+          "/wiki/Montreal"
+        ]
       ],
       [
-        "6th",
-        null
+        [
+          "Quebec"
+        ],
+        [
+          "/wiki/Quebec"
+        ]
+      ],
+      [
+        [
+          "local teams"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Dainava",
-        "/wiki/FK_Dainava_Alytus"
+        [
+          "Alumni Stadium"
+        ],
+        [
+          "/wiki/Alumni_Stadium_(Guelph)"
+        ]
       ],
       [
-        "Alytus",
-        "/wiki/Alytus"
+        [
+          "8,500"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Guelph"
+        ],
+        [
+          "/wiki/Guelph"
+        ]
       ],
       [
-        "8th",
-        null
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
+      ],
+      [
+        [
+          "Guelph Gryphons"
+        ],
+        [
+          "/wiki/Guelph_Gryphons_football"
+        ]
       ]
     ],
     [
       [
-        "Ekranas",
-        "/wiki/FK_Ekranas"
+        [
+          "Richardson Memorial Stadium"
+        ],
+        [
+          "/wiki/Richardson_Memorial_Stadium"
+        ]
       ],
       [
-        "Panev\u0117\u017eys",
-        "/wiki/Panev%C4%97%C5%BEys"
+        [
+          "8,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Auk\u0161taitija Stadium",
-        "/wiki/Auk%C5%A1taitija_Stadium"
+        [
+          "Kingston"
+        ],
+        [
+          "/wiki/Kingston,_Ontario"
+        ]
       ],
       [
-        "1st",
-        null
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
+      ],
+      [
+        [
+          "Queen's Gaels"
+        ],
+        [
+          "/wiki/Queen%27s_Gaels_football"
+        ]
       ]
     ],
     [
       [
-        "Kruoja",
-        "/wiki/FK_Kruoja_Pakruojis"
+        [
+          "TD Stadium"
+        ],
+        [
+          "/wiki/TD_Stadium"
+        ]
       ],
       [
-        "Pakruojis",
-        "/wiki/Pakruojis"
+        [
+          "8,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pakruojis Stadium",
-        "/wiki/Pakruojis_Stadium"
+        [
+          "London"
+        ],
+        [
+          "/wiki/London,_Ontario"
+        ]
       ],
       [
-        "5th",
-        null
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
+      ],
+      [
+        [
+          "Western Mustangs"
+        ],
+        [
+          "/wiki/Western_Mustangs_football"
+        ]
       ]
     ],
     [
       [
-        "REO",
-        "/wiki/FK_REO_Vilnius"
+        [
+          "Griffiths Stadium"
+        ],
+        [
+          "/wiki/Griffiths_Stadium"
+        ]
       ],
       [
-        "Vilnius",
-        "/wiki/Vilnius"
+        [
+          "6,171"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Saskatoon"
+        ],
+        [
+          "/wiki/Saskatoon"
+        ]
       ],
       [
-        "I Lyga",
-        "/wiki/I_Lyga"
+        [
+          "Saskatchewan"
+        ],
+        [
+          "/wiki/Saskatchewan"
+        ]
+      ],
+      [
+        [
+          "Saskatchewan Huskies"
+        ],
+        [
+          "/wiki/Saskatchewan_Huskies_football"
+        ]
       ]
     ],
     [
       [
-        "S\u016bduva",
-        "/wiki/FK_S%C5%ABduva_Marijampol%C4%97"
+        [
+          "University Stadium"
+        ],
+        [
+          "/wiki/University_Stadium_(Waterloo)"
+        ]
       ],
       [
-        "Marijampol\u0117",
-        "/wiki/Marijampol%C4%97"
+        [
+          "6,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "S\u016bduva Stadium",
-        "/wiki/S%C5%ABduva_stadium"
+        [
+          "Waterloo"
+        ],
+        [
+          "/wiki/Waterloo,_Ontario"
+        ]
       ],
       [
-        "3rd",
-        null
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
+      ],
+      [
+        [
+          "Wilfrid Laurier Golden Hawks"
+        ],
+        [
+          "/wiki/Wilfrid_Laurier_Golden_Hawks_football"
+        ]
       ]
     ],
     [
       [
-        "\u0160iauliai",
-        "/wiki/FK_%C5%A0iauliai"
+        [
+          "Ronald V. Joyce Stadium"
+        ],
+        [
+          "/wiki/Ronald_V._Joyce_Stadium"
+        ]
       ],
       [
-        "\u0160iauliai",
-        "/wiki/%C5%A0iauliai"
+        [
+          "5,700"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Savivaldyb\u0117 Stadium",
-        "/wiki/Savivaldyb%C4%97_Stadium"
+        [
+          "Hamilton"
+        ],
+        [
+          "/wiki/Hamilton,_Ontario"
+        ]
       ],
       [
-        "4th",
-        null
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
+      ],
+      [
+        [
+          "McMaster Marauders"
+        ],
+        [
+          "/wiki/McMaster_Marauders_football"
+        ]
       ]
     ],
     [
       [
-        "Tauras",
-        "/wiki/FK_Tauras_Taurag%C4%97"
+        [
+          "Apple Bowl"
+        ],
+        [
+          "/wiki/Apple_Bowl"
+        ]
       ],
       [
-        "Taurag\u0117",
-        "/wiki/Taurag%C4%97"
+        [
+          "5,700"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Vytauto Stadium",
-        "/wiki/HTTP_404"
+        [
+          "Kelowna"
+        ],
+        [
+          "/wiki/Kelowna"
+        ]
       ],
       [
-        "7th",
-        null
+        [
+          "British Columbia"
+        ],
+        [
+          "/wiki/British_Columbia"
+        ]
+      ],
+      [
+        [
+          "Okanagan Sun"
+        ],
+        [
+          "/wiki/Okanagan_Sun"
+        ]
       ]
     ],
     [
       [
-        "\u017dalgiris",
-        "/wiki/FK_%C5%BDalgiris_Vilnius"
+        [
+          "Warrior Field"
+        ],
+        [
+          "/wiki/Warrior_Field"
+        ]
       ],
       [
-        "Vilnius",
-        null
+        [
+          "5,400"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LFF Stadium",
-        "/wiki/LFF_Stadium"
+        [
+          "Waterloo"
+        ],
+        [
+          "/wiki/Waterloo,_Ontario"
+        ]
       ],
       [
-        "2nd",
-        null
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
+      ],
+      [
+        [
+          "Waterloo Warriors"
+        ],
+        [
+          "/wiki/Waterloo_Warriors_football"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Swangard Stadium"
+        ],
+        [
+          "/wiki/Swangard_Stadium"
+        ]
+      ],
+      [
+        [
+          "5,288"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Burnaby"
+        ],
+        [
+          "/wiki/Burnaby"
+        ]
+      ],
+      [
+        [
+          "British Columbia"
+        ],
+        [
+          "/wiki/British_Columbia"
+        ]
+      ],
+      [
+        [
+          "Vancouver Trojans"
+        ],
+        [
+          "/wiki/Vancouver_Trojans"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "CEPSUM Stadium"
+        ],
+        [
+          "/wiki/CEPSUM_Stadium"
+        ]
+      ],
+      [
+        [
+          "5,100"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Montreal"
+        ],
+        [
+          "/wiki/Montreal"
+        ]
+      ],
+      [
+        [
+          "Quebec"
+        ],
+        [
+          "/wiki/Quebec"
+        ]
+      ],
+      [
+        [
+          "Montreal Carabins"
+        ],
+        [
+          "/wiki/Montreal_Carabins_football"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Canada Games Stadium"
+        ],
+        [
+          "/wiki/Canada_Games_Stadium"
+        ]
+      ],
+      [
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Saint John"
+        ],
+        [
+          "/wiki/Saint_John,_New_Brunswick"
+        ]
+      ],
+      [
+        [
+          "New Brunswick"
+        ],
+        [
+          "/wiki/New_Brunswick"
+        ]
+      ],
+      [
+        [
+          "local teams"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "University Stadium"
+        ],
+        [
+          "/wiki/University_Stadium,_Winnipeg"
+        ]
+      ],
+      [
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Winnipeg"
+        ],
+        [
+          "/wiki/Winnipeg"
+        ]
+      ],
+      [
+        [
+          "Manitoba"
+        ],
+        [
+          "/wiki/Manitoba"
+        ]
+      ],
+      [
+        [
+          "Manitoba Bisons"
+        ],
+        [
+          "/wiki/Manitoba_Bisons_football"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Varsity Stadium"
+        ],
+        [
+          "/wiki/Varsity_Stadium"
+        ]
+      ],
+      [
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Toronto"
+        ],
+        [
+          "/wiki/Toronto"
+        ]
+      ],
+      [
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
+      ],
+      [
+        [
+          "Toronto Varsity Blues"
+        ],
+        [
+          "/wiki/Toronto_Varsity_Blues_football"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Centennial Stadium"
+        ],
+        [
+          "/wiki/Centennial_Stadium"
+        ]
+      ],
+      [
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victoria"
+        ],
+        [
+          "/wiki/Victoria,_British_Columbia"
+        ]
+      ],
+      [
+        [
+          "British Columbia"
+        ],
+        [
+          "/wiki/British_Columbia"
+        ]
+      ],
+      [
+        [
+          "local teams"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Percy Perry Stadium"
+        ],
+        [
+          "/wiki/Percy_Perry_Stadium"
+        ]
+      ],
+      [
+        [
+          "4,265"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Coquitlam"
+        ],
+        [
+          "/wiki/Coquitlam"
+        ]
+      ],
+      [
+        [
+          "British Columbia"
+        ],
+        [
+          "/wiki/British_Columbia"
+        ]
+      ],
+      [
+        [
+          "Tri-City Bulldogs"
+        ],
+        [
+          "/wiki/Tri-City_Bulldogs"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Royal Athletic Park"
+        ],
+        [
+          "/wiki/Royal_Athletic_Park"
+        ]
+      ],
+      [
+        [
+          "4,247"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Victoria"
+        ],
+        [
+          "/wiki/Victoria,_British_Columbia"
+        ]
+      ],
+      [
+        [
+          "British Columbia"
+        ],
+        [
+          "/wiki/British_Columbia"
+        ]
+      ],
+      [
+        [
+          "Victoria Rebels"
+        ],
+        [
+          "/wiki/Victoria_Rebels"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Huskies Stadium"
+        ],
+        [
+          "/wiki/Huskies_Stadium"
+        ]
+      ],
+      [
+        [
+          "4,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Halifax"
+        ],
+        [
+          "/wiki/Halifax_Urban_Area"
+        ]
+      ],
+      [
+        [
+          "Nova Scotia"
+        ],
+        [
+          "/wiki/Nova_Scotia"
+        ]
+      ],
+      [
+        [
+          "Saint Mary's Huskies"
+        ],
+        [
+          "/wiki/Saint_Mary%27s_Huskies_football"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Concordia Stadium"
+        ],
+        [
+          "/wiki/Concordia_Stadium"
+        ]
+      ],
+      [
+        [
+          "4,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Montreal"
+        ],
+        [
+          "/wiki/Montreal"
+        ]
+      ],
+      [
+        [
+          "Quebec"
+        ],
+        [
+          "/wiki/Quebec"
+        ]
+      ],
+      [
+        [
+          "Concordia Stingers"
+        ],
+        [
+          "/wiki/Concordia_Stingers"
+        ]
       ]
     ]
   ],

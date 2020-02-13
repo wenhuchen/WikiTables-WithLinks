@@ -1,243 +1,515 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_Live_episodes",
-  "title": "List of Live episodes",
+  "url": "https://en.wikipedia.org/wiki/Central_Africa",
+  "title": "Central Africa",
   "header": [
     [
-      "Date",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Co-hosts",
-      null
+      [
+        "Capital"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Guests / segments",
-      null
+      [
+        "Currency"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Official languages"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Area (km)"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Population (2018)"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "June 3",
-        null
+        [
+          "Angola"
+        ],
+        [
+          "/wiki/Angola"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "Luanda"
+        ],
+        [
+          "/wiki/Luanda"
+        ]
       ],
       [
-        "Adam Scott,Wango Tango,Scripps National Spelling Bee",
-        "/wiki/Adam_Scott_(actor) /wiki/Wango_Tango /wiki/Scripps_National_Spelling_Bee"
+        [
+          "Kwanza"
+        ],
+        [
+          "/wiki/Kwanza"
+        ]
+      ],
+      [
+        [
+          "Portuguese"
+        ],
+        [
+          "/wiki/Portuguese_language"
+        ]
+      ],
+      [
+        [
+          "1,246,700"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "30,809,787"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "June 4",
-        null
+        [
+          "Cameroon"
+        ],
+        [
+          "/wiki/Cameroon"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "Yaound\u00e9"
+        ],
+        [
+          "/wiki/Yaound%C3%A9"
+        ]
       ],
       [
-        "Damian Lewis,Dan White",
-        "/wiki/Damian_Lewis /wiki/Dan_White"
+        [
+          "Central African CFA franc"
+        ],
+        [
+          "/wiki/Central_African_CFA_franc"
+        ]
+      ],
+      [
+        [
+          "French",
+          "English"
+        ],
+        [
+          "/wiki/French_language",
+          "/wiki/English_language"
+        ]
+      ],
+      [
+        [
+          "475,442"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "25,216,267"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "June 5",
-        null
+        [
+          "Central African Republic"
+        ],
+        [
+          "/wiki/Central_African_Republic"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "Bangui"
+        ],
+        [
+          "/wiki/Bangui"
+        ]
       ],
       [
-        "Sienna Miller,Sanaa Lathan",
-        "/wiki/Sienna_Miller /wiki/Sanaa_Lathan"
+        [
+          "Central African CFA franc"
+        ],
+        [
+          "/wiki/Central_African_CFA_franc"
+        ]
+      ],
+      [
+        [
+          "Sango",
+          "French"
+        ],
+        [
+          "/wiki/Sango",
+          "/wiki/French_language"
+        ]
+      ],
+      [
+        [
+          "622,984"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "4,666,368"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "June 6",
-        null
+        [
+          "Chad"
+        ],
+        [
+          "/wiki/Chad"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "N'Djamena"
+        ],
+        [
+          "/wiki/N%27Djamena"
+        ]
       ],
       [
-        "Vanessa Williams,MJ Rodriguez",
-        "/wiki/Vanessa_Williams /wiki/MJ_Rodriguez"
+        [
+          "Central African CFA franc"
+        ],
+        [
+          "/wiki/Central_African_CFA_franc"
+        ]
+      ],
+      [
+        [
+          "French",
+          "Arabic"
+        ],
+        [
+          "/wiki/French_language",
+          "/wiki/Arabic_language"
+        ]
+      ],
+      [
+        [
+          "1,284,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "15,477,729"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "June 7",
-        null
+        [
+          "Democratic Republic of the Congo"
+        ],
+        [
+          "/wiki/Democratic_Republic_of_the_Congo"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "Kinshasa"
+        ],
+        [
+          "/wiki/Kinshasa"
+        ]
       ],
       [
-        "Kiefer Sutherland,Ellie Kemper",
-        "/wiki/Kiefer_Sutherland /wiki/Ellie_Kemper"
+        [
+          "Congolese franc"
+        ],
+        [
+          "/wiki/Congolese_franc"
+        ]
+      ],
+      [
+        [
+          "French"
+        ],
+        [
+          "/wiki/French_language"
+        ]
+      ],
+      [
+        [
+          "2,344,858"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "84,068,091"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "June 10",
-        null
+        [
+          "Republic of the Congo"
+        ],
+        [
+          "/wiki/Republic_of_the_Congo"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "Brazzaville"
+        ],
+        [
+          "/wiki/Brazzaville"
+        ]
       ],
       [
-        "Carla Gugino,Billy Porter,NOTD,Georgia Ku",
-        "/wiki/Carla_Gugino /wiki/Billy_Porter_(entertainer) /wiki/NOTD /wiki/Georgia_Ku"
+        [
+          "Central African CFA franc"
+        ],
+        [
+          "/wiki/Central_African_CFA_franc"
+        ]
+      ],
+      [
+        [
+          "French"
+        ],
+        [
+          "/wiki/French_language"
+        ]
+      ],
+      [
+        [
+          "342,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5,244,359"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "June 11",
-        null
+        [
+          "Equatorial Guinea"
+        ],
+        [
+          "/wiki/Equatorial_Guinea"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "Malabo"
+        ],
+        [
+          "/wiki/Malabo"
+        ]
       ],
       [
-        "Samuel L. Jackson,Juan Archuleta",
-        "/wiki/Samuel_L._Jackson /wiki/Juan_Archuleta"
+        [
+          "Central African CFA franc"
+        ],
+        [
+          "/wiki/Central_African_CFA_franc"
+        ]
+      ],
+      [
+        [
+          "Spanish",
+          "Portuguese",
+          "French"
+        ],
+        [
+          "/wiki/Spanish_language",
+          "/wiki/Portuguese_language",
+          "/wiki/French_language"
+        ]
+      ],
+      [
+        [
+          "28,051"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1,308,975"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "June 12",
-        null
+        [
+          "Gabon"
+        ],
+        [
+          "/wiki/Gabon"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "Libreville"
+        ],
+        [
+          "/wiki/Libreville"
+        ]
       ],
       [
-        "Selena Gomez,Tessa Thompson",
-        "/wiki/Selena_Gomez /wiki/Tessa_Thompson"
+        [
+          "Central African CFA franc"
+        ],
+        [
+          "/wiki/Central_African_CFA_franc"
+        ]
+      ],
+      [
+        [
+          "French"
+        ],
+        [
+          "/wiki/French_language"
+        ]
+      ],
+      [
+        [
+          "267,668"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2,119,275"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "June 13",
-        null
+        [
+          "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+        ],
+        [
+          "/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
+        ]
       ],
       [
-        "Ryan Seacrest,The Jonas Brothers",
-        "/wiki/Ryan_Seacrest /wiki/The_Jonas_Brothers"
+        [
+          "S\u00e3o Tom\u00e9"
+        ],
+        [
+          "/wiki/S%C3%A3o_Tom%C3%A9"
+        ]
       ],
       [
-        "Chris Hemsworth",
-        "/wiki/Chris_Hemsworth"
-      ]
-    ],
-    [
-      [
-        "June 14",
-        null
+        [
+          "S\u00e3o Tom\u00e9 and Pr\u00edncipe Dobra"
+        ],
+        [
+          "/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_Dobra"
+        ]
       ],
       [
-        "Ryan Seacrest,Robin Givens",
-        "/wiki/Ryan_Seacrest /wiki/Robin_Givens"
+        [
+          "Portuguese"
+        ],
+        [
+          "/wiki/Portuguese_language"
+        ]
       ],
       [
-        "Bill Pullman,Debi Mazar",
-        "/wiki/Bill_Pullman /wiki/Debi_Mazar"
-      ]
-    ],
-    [
-      [
-        "June 17",
-        null
+        [
+          "964"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kelly Ripa,Mark Consuelos",
-        "/wiki/Kelly_Ripa /wiki/Mark_Consuelos"
-      ],
-      [
-        "Naomi Watts,John Leguizamo",
-        "/wiki/Naomi_Watts /wiki/John_Leguizamo"
-      ]
-    ],
-    [
-      [
-        "June 18",
-        null
-      ],
-      [
-        "Kelly Ripa,Mark Consuelos",
-        "/wiki/Kelly_Ripa /wiki/Mark_Consuelos"
-      ],
-      [
-        "Shania Twain,Cat Deeley",
-        "/wiki/Shania_Twain /wiki/Cat_Deeley"
-      ]
-    ],
-    [
-      [
-        "June 19",
-        null
-      ],
-      [
-        "Kelly Ripa,Mark Consuelos",
-        "/wiki/Kelly_Ripa /wiki/Mark_Consuelos"
-      ],
-      [
-        "Keri Russell,Kim Raver,Jorge Cruise",
-        "/wiki/Keri_Russell /wiki/Kim_Raver /wiki/Jorge_Cruise"
-      ]
-    ],
-    [
-      [
-        "June 20",
-        null
-      ],
-      [
-        "Kelly Ripa,Mark Consuelos",
-        "/wiki/Kelly_Ripa /wiki/Mark_Consuelos"
-      ],
-      [
-        "Cobie Smulders,Audra McDonald,Gary Woodland",
-        "/wiki/Cobie_Smulders /wiki/Audra_McDonald /wiki/Gary_Woodland"
-      ]
-    ],
-    [
-      [
-        "June 21",
-        null
-      ],
-      [
-        "Kelly Ripa,Mark Consuelos",
-        "/wiki/Kelly_Ripa /wiki/Mark_Consuelos"
-      ],
-      [
-        "Tracy Morgan,Drew Barrymore,Red Bull BC One",
-        "/wiki/Tracy_Morgan /wiki/Drew_Barrymore /wiki/Red_Bull_BC_One"
-      ]
-    ],
-    [
-      [
-        "June 24",
-        null
-      ],
-      [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
-      ],
-      [
-        "Anthony Anderson,Timbaland,Melissa Etheridge",
-        "/wiki/Anthony_Anderson /wiki/Timbaland /wiki/Melissa_Etheridge"
+        [
+          "211,028"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

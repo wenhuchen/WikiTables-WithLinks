@@ -1,225 +1,413 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Sport_in_Israel",
-  "title": "Sport in Israel",
+  "url": "https://en.wikipedia.org/wiki/Greater_Los_Angeles",
+  "title": "Greater Los Angeles",
   "header": [
     [
-      "Medal",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Name",
-      null
+      [
+        "Sport"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Games",
-      null
+      [
+        "League"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Sport",
-      null
-    ],
-    [
-      "Event",
-      null
+      [
+        "Venue"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Silver",
-        null
+        [
+          "Los Angeles Chargers"
+        ],
+        [
+          "/wiki/Los_Angeles_Chargers"
+        ]
       ],
       [
-        "Yael Arad",
-        "/wiki/Yael_Arad"
+        [
+          "American football"
+        ],
+        [
+          "/wiki/American_football"
+        ]
       ],
       [
-        "1992 Barcelona",
-        "/wiki/1992_Summer_Olympics"
+        [
+          "National Football League"
+        ],
+        [
+          "/wiki/National_Football_League"
+        ]
       ],
       [
-        "Judo",
-        "/wiki/Judo_at_the_1992_Summer_Olympics"
-      ],
-      [
-        "Women's half middleweight",
-        "/wiki/Judo_at_the_1992_Summer_Olympics_%E2%80%93_Women%27s_61_kg"
+        [
+          "SoFi Stadium"
+        ],
+        [
+          "/wiki/SoFi_Stadium"
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "Los Angeles Rams"
+        ],
+        [
+          "/wiki/Los_Angeles_Rams"
+        ]
       ],
       [
-        "Oren Smadja",
-        "/wiki/Oren_Smadja"
+        [
+          "American football"
+        ],
+        [
+          "/wiki/American_football"
+        ]
       ],
       [
-        "1992 Barcelona",
-        "/wiki/1992_Summer_Olympics"
+        [
+          "National Football League"
+        ],
+        [
+          "/wiki/National_Football_League"
+        ]
       ],
       [
-        "Judo",
-        "/wiki/Judo_at_the_1992_Summer_Olympics"
-      ],
-      [
-        "Men's lightweight",
-        "/wiki/Judo_at_the_1992_Summer_Olympics_%E2%80%93_Men%27s_71_kg"
+        [
+          "SoFi Stadium"
+        ],
+        [
+          "/wiki/SoFi_Stadium"
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "Los Angeles Dodgers"
+        ],
+        [
+          "/wiki/Los_Angeles_Dodgers"
+        ]
       ],
       [
-        "Gal Fridman",
-        "/wiki/Gal_Fridman"
+        [
+          "Baseball"
+        ],
+        [
+          "/wiki/Baseball"
+        ]
       ],
       [
-        "1996 Atlanta",
-        "/wiki/1996_Summer_Olympics"
+        [
+          "Major League Baseball"
+        ],
+        [
+          "/wiki/Major_League_Baseball"
+        ]
       ],
       [
-        "Sailing",
-        "/wiki/Sailing_at_the_1996_Summer_Olympics"
-      ],
-      [
-        "Men's sailboard",
-        "/wiki/Sailing_at_the_1996_Summer_Olympics_%E2%80%93_Men%27s_Mistral_One_Design"
+        [
+          "Dodger Stadium"
+        ],
+        [
+          "/wiki/Dodger_Stadium"
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "Los Angeles Angels"
+        ],
+        [
+          "/wiki/Los_Angeles_Angels"
+        ]
       ],
       [
-        "Michael Kolganov",
-        "/wiki/Michael_Kolganov"
+        [
+          "Baseball"
+        ],
+        [
+          "/wiki/Baseball"
+        ]
       ],
       [
-        "2000 Sydney",
-        "/wiki/2000_Summer_Olympics"
+        [
+          "Major League Baseball"
+        ],
+        [
+          "/wiki/Major_League_Baseball"
+        ]
       ],
       [
-        "Canoeing",
-        "/wiki/Canoeing_at_the_2000_Summer_Olympics"
-      ],
-      [
-        "Men's K-1 500 metres",
-        "/wiki/Canoeing_at_the_2000_Summer_Olympics_%E2%80%93_Men%27s_K-1_500_metres"
+        [
+          "Angel Stadium"
+        ],
+        [
+          "/wiki/Angel_Stadium"
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "Los Angeles Lakers"
+        ],
+        [
+          "/wiki/Los_Angeles_Lakers"
+        ]
       ],
       [
-        "Ariel Zeevi",
-        "/wiki/Ariel_Zeevi"
+        [
+          "Basketball"
+        ],
+        [
+          "/wiki/Basketball"
+        ]
       ],
       [
-        "2004 Athens",
-        "/wiki/2004_Summer_Olympics"
+        [
+          "National Basketball Association"
+        ],
+        [
+          "/wiki/National_Basketball_Association"
+        ]
       ],
       [
-        "Judo",
-        "/wiki/Judo_at_the_2004_Summer_Olympics"
-      ],
-      [
-        "Men's half heavyweight",
-        "/wiki/Judo_at_the_2004_Summer_Olympics_%E2%80%93_Men%27s_100_kg"
+        [
+          "Staples Center"
+        ],
+        [
+          "/wiki/Staples_Center"
+        ]
       ]
     ],
     [
       [
-        "Gold",
-        null
+        [
+          "Los Angeles Clippers"
+        ],
+        [
+          "/wiki/Los_Angeles_Clippers"
+        ]
       ],
       [
-        "Gal Fridman",
-        "/wiki/Gal_Fridman"
+        [
+          "Basketball"
+        ],
+        [
+          "/wiki/Basketball"
+        ]
       ],
       [
-        "2004 Athens",
-        "/wiki/2004_Summer_Olympics"
+        [
+          "National Basketball Association"
+        ],
+        [
+          "/wiki/National_Basketball_Association"
+        ]
       ],
       [
-        "Sailing",
-        "/wiki/Sailing_at_the_2004_Summer_Olympics"
-      ],
-      [
-        "Men's sailboard",
-        "/wiki/Sailing_at_the_2004_Summer_Olympics_%E2%80%93_Men%27s_sailboard"
+        [
+          "Staples Center"
+        ],
+        [
+          "/wiki/Staples_Center"
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "Los Angeles Sparks"
+        ],
+        [
+          "/wiki/Los_Angeles_Sparks"
+        ]
       ],
       [
-        "Shahar Tzuberi",
-        "/wiki/Shahar_Tzuberi"
+        [
+          "Basketball"
+        ],
+        [
+          "/wiki/Basketball"
+        ]
       ],
       [
-        "2008 Beijing",
-        "/wiki/2008_Summer_Olympics"
+        [
+          "Women's National Basketball Association"
+        ],
+        [
+          "/wiki/Women%27s_National_Basketball_Association"
+        ]
       ],
       [
-        "Sailing",
-        "/wiki/Sailing_at_the_2008_Summer_Olympics"
-      ],
-      [
-        "Men's sailboard",
-        "/wiki/Sailing_at_the_2008_Summer_Olympics_%E2%80%93_Men%27s_sailboard"
+        [
+          "Staples Center"
+        ],
+        [
+          "/wiki/Staples_Center"
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "Los Angeles Kings"
+        ],
+        [
+          "/wiki/Los_Angeles_Kings"
+        ]
       ],
       [
-        "Yarden Gerbi",
-        "/wiki/Yarden_Gerbi"
+        [
+          "Ice hockey"
+        ],
+        [
+          "/wiki/Ice_hockey"
+        ]
       ],
       [
-        "2016 Rio de Janeiro",
-        "/wiki/2016_Summer_Olympics"
+        [
+          "National Hockey League"
+        ],
+        [
+          "/wiki/National_Hockey_League"
+        ]
       ],
       [
-        "Judo",
-        "/wiki/Judo_at_the_2016_Summer_Olympics"
-      ],
-      [
-        "Women's half middleweight",
-        "/wiki/Judo_at_the_2016_Summer_Olympics_%E2%80%93_Women%27s_63_kg"
+        [
+          "Staples Center"
+        ],
+        [
+          "/wiki/Staples_Center"
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "Anaheim Ducks"
+        ],
+        [
+          "/wiki/Anaheim_Ducks"
+        ]
       ],
       [
-        "Or Sasson",
-        "/wiki/Or_Sasson"
+        [
+          "Ice hockey"
+        ],
+        [
+          "/wiki/Ice_hockey"
+        ]
       ],
       [
-        "2016 Rio de Janeiro",
-        "/wiki/2016_Summer_Olympics"
+        [
+          "National Hockey League"
+        ],
+        [
+          "/wiki/National_Hockey_League"
+        ]
       ],
       [
-        "Judo",
-        "/wiki/Judo_at_the_2016_Summer_Olympics"
+        [
+          "Honda Center"
+        ],
+        [
+          "/wiki/Honda_Center"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "LA Galaxy"
+        ],
+        [
+          "/wiki/LA_Galaxy"
+        ]
       ],
       [
-        "Men's heavyweight",
-        "/wiki/Judo_at_the_2016_Summer_Olympics_%E2%80%93_Men%27s_%2B100_kg"
+        [
+          "Soccer"
+        ],
+        [
+          "/wiki/Soccer"
+        ]
+      ],
+      [
+        [
+          "Major League Soccer"
+        ],
+        [
+          "/wiki/Major_League_Soccer"
+        ]
+      ],
+      [
+        [
+          "Dignity Health Sports Park"
+        ],
+        [
+          "/wiki/Dignity_Health_Sports_Park"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Los Angeles FC"
+        ],
+        [
+          "/wiki/Los_Angeles_FC"
+        ]
+      ],
+      [
+        [
+          "Soccer"
+        ],
+        [
+          "/wiki/Soccer"
+        ]
+      ],
+      [
+        [
+          "Major League Soccer"
+        ],
+        [
+          "/wiki/Major_League_Soccer"
+        ]
+      ],
+      [
+        [
+          "Banc of California Stadium"
+        ],
+        [
+          "/wiki/Banc_of_California_Stadium"
+        ]
       ]
     ]
   ],

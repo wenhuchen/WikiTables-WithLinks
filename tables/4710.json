@@ -1,299 +1,555 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Lesotho",
-  "title": "List of airports in Lesotho",
+  "url": "https://en.wikipedia.org/wiki/Subdivisions_of_Libya",
+  "title": "Subdivisions of Libya",
   "header": [
     [
-      "LOCATION",
-      null
+      [
+        "year"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "ICAO",
-      "/wiki/ICAO_airport_code"
+      [
+        "number of divisions"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "AIRPORT\u00a0NAME",
-      null
+      [
+        "name of divisions"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Bobete",
-        "/wiki/Bobete"
+        [
+          "historically",
+          "Persians"
+        ],
+        [
+          "/wiki/Ancient_Libya",
+          "/wiki/Ancient_Persia"
+        ]
       ],
       [
-        "FXBB",
-        null
+        [
+          "Barqa",
+          "Satrapy"
+        ],
+        [
+          "/wiki/Barqa",
+          "/wiki/Satrapy"
+        ]
       ],
       [
-        "Bobete Airport",
-        "/wiki/Bobete_Airport"
+        [
+          "satrapy"
+        ],
+        [
+          "/wiki/Satrapy"
+        ]
       ]
     ],
     [
       [
-        "Katse",
-        "/wiki/Katse_Dam"
+        [
+          "historically",
+          "Greeks"
+        ],
+        [
+          "/wiki/Ancient_Libya",
+          "/wiki/Ancient_Greece"
+        ]
       ],
       [
-        "FXKA",
-        null
+        [
+          "Libya Satrapy"
+        ],
+        [
+          "/wiki/Libya_(satrapy)"
+        ]
       ],
       [
-        "Katse Airport",
-        "/wiki/Katse_Airport"
+        [
+          "satrapy"
+        ],
+        [
+          "/wiki/Satrapy"
+        ]
       ]
     ],
     [
       [
-        "Kuebunyane",
-        "/wiki/HTTP_404"
+        [
+          "historically",
+          "Roman Empire"
+        ],
+        [
+          "/wiki/Ancient_Libya",
+          "/wiki/Roman_Empire"
+        ]
       ],
       [
-        "FXKY",
-        null
+        [
+          "Roman Libya",
+          "Creta et Cyrenaica"
+        ],
+        [
+          "/wiki/Roman_Libya",
+          "/wiki/Creta_et_Cyrenaica"
+        ]
       ],
       [
-        "Kuebunyane Airport",
-        "/wiki/Kuebunyane_Airport"
+        [
+          "province"
+        ],
+        [
+          "/wiki/Province"
+        ]
       ]
     ],
     [
       [
-        "Lebakeng",
-        "/wiki/HTTP_404"
+        [
+          "historically",
+          "Ottoman Empire",
+          "Ottoman Tripolitania"
+        ],
+        [
+          "/wiki/Ancient_Libya",
+          "/wiki/Ottoman_Empire",
+          "/wiki/Ottoman_Tripolitania"
+        ]
       ],
       [
-        "FXLK",
-        null
+        [
+          "Ottoman Tripolitania"
+        ],
+        [
+          "/wiki/Ottoman_Tripolitania"
+        ]
       ],
       [
-        "Lebakeng Airport",
-        "/wiki/Lebakeng_Airport"
+        [
+          "vilayet"
+        ],
+        [
+          "/wiki/Vilayet"
+        ]
       ]
     ],
     [
       [
-        "Leribe",
-        "/wiki/Hlotse"
+        [
+          "Italian North Africa"
+        ],
+        [
+          "/wiki/Italian_North_Africa"
+        ]
       ],
       [
-        "FXLR",
-        null
+        [
+          "Italian Libya"
+        ],
+        [
+          "/wiki/Italian_Libya"
+        ]
       ],
       [
-        "Leribe Airport",
-        "/wiki/Leribe_Airport"
+        [
+          "governorate",
+          "province"
+        ],
+        [
+          "/wiki/Governorate",
+          "/wiki/Province"
+        ]
       ]
     ],
     [
       [
-        "Lesobeng",
-        "/wiki/Lesobeng"
+        [
+          "Italian North Africa"
+        ],
+        [
+          "/wiki/Italian_North_Africa"
+        ]
       ],
       [
-        "FXLS",
-        null
+        [
+          "Italian Cyrenaica",
+          "Italian Tripolitania",
+          "Fezzan"
+        ],
+        [
+          "/wiki/Italian_Cyrenaica",
+          "/wiki/Italian_Tripolitania",
+          "/wiki/Fezzan"
+        ]
       ],
       [
-        "Lesobeng Airport",
-        "/wiki/Lesobeng_Airport"
+        [
+          "governorate",
+          "province"
+        ],
+        [
+          "/wiki/Governorate",
+          "/wiki/Province"
+        ]
       ]
     ],
     [
       [
-        "Letlapeng",
-        "/wiki/HTTP_404"
+        [
+          "Italian Libya"
+        ],
+        [
+          "/wiki/Italian_Libya"
+        ]
       ],
       [
-        "FXKB",
-        null
+        [
+          "Cyrenaica",
+          "Fezzan",
+          "Tripolitania"
+        ],
+        [
+          "/wiki/Cyrenaica",
+          "/wiki/Fezzan",
+          "/wiki/Tripolitania"
+        ]
       ],
       [
-        "Kolberg Airport",
-        "/wiki/Kolberg_Airport"
+        [
+          "province"
+        ],
+        [
+          "/wiki/Province"
+        ]
       ]
     ],
     [
       [
-        "Letseng diamond mine",
-        "/wiki/Letseng_diamond_mine"
+        [
+          "Provinces",
+          "Fourth Shore",
+          "Italian Colonial Empire"
+        ],
+        [
+          "/wiki/Provinces_of_Libya",
+          "/wiki/Fourth_Shore",
+          "/wiki/Italian_Colonial_Empire"
+        ]
       ],
       [
-        "FXKB",
-        null
+        [
+          "Tripoli",
+          "Bengazi",
+          "Derna",
+          "Misurata",
+          "Southern Military Territory"
+        ],
+        [
+          "/wiki/Tripoli_Province",
+          "/wiki/Bengazi_Province",
+          null,
+          null,
+          "/wiki/Military_Territory_of_the_South_(Italian_Libya)"
+        ]
       ],
       [
-        "Letseng Airport",
-        "/wiki/Letseng_Airport"
+        [
+          "province"
+        ],
+        [
+          "/wiki/Province"
+        ]
       ]
     ],
     [
       [
-        "Mafeteng",
-        "/wiki/Mafeteng"
+        [
+          "World War II",
+          "from 1943 to 1951"
+        ],
+        [
+          "/wiki/World_War_II",
+          "/wiki/Italian_Libya"
+        ]
       ],
       [
-        "FXMF",
-        null
+        [
+          "Cyrenaica",
+          "Tripolitania",
+          "British",
+          "Fezzan-Ghadames",
+          "French"
+        ],
+        [
+          "/wiki/Cyrenaica",
+          "/wiki/Tripolitania",
+          "/wiki/United_Kingdom",
+          "/wiki/Fezzan-Ghadames",
+          "/wiki/France"
+        ]
       ],
       [
-        "Mafeteng Airport",
-        "/wiki/Mafeteng_Airport"
+        [
+          "province"
+        ],
+        [
+          "/wiki/Province"
+        ]
       ]
     ],
     [
       [
-        "Malefiloane",
-        "/wiki/HTTP_404"
+        [
+          "Kingdom of Libya"
+        ],
+        [
+          "/wiki/Kingdom_of_Libya"
+        ]
       ],
       [
-        "FXML",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Malefiloane Airstrip",
-        "/wiki/Malefiloane_Airstrip"
+        [
+          "muhafazah",
+          "governorate"
+        ],
+        [
+          "/wiki/Muhafazah",
+          "/wiki/Governorates_of_Libya"
+        ]
       ]
     ],
     [
       [
-        "Matekane",
-        "/wiki/HTTP_404"
+        [
+          "Kingdom of Libya",
+          "Libyan Jamahiriya",
+          "1969 coup d'\u00e9tat"
+        ],
+        [
+          "/wiki/Kingdom_of_Libya",
+          "/wiki/History_of_modern_Libya",
+          "/wiki/Muammar_al-Gaddafi"
+        ]
       ],
       [
-        "FXME*",
-        null
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matekane Air Strip",
-        "/wiki/Matekane_Air_Strip"
+        [
+          "muhafazah",
+          "governorate"
+        ],
+        [
+          "/wiki/Muhafazah",
+          "/wiki/Governorates_of_Libya"
+        ]
       ]
     ],
     [
       [
-        "Mantsonyane",
-        "/wiki/Mantsonyane"
+        [
+          "after 1983"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FXMN",
-        null
+        [
+          "46"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mantsonyane Airport",
-        "/wiki/Mantsonyane_Airport"
+        [
+          "baladiyah"
+        ],
+        [
+          "/wiki/Baladiyat_of_Libya"
+        ]
       ]
     ],
     [
       [
-        "Matabeng",
-        "/wiki/HTTP_404"
+        [
+          "after 1987-1988"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FXMT",
-        null
+        [
+          "25"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matabeng Store Airstrip",
-        "/wiki/Matabeng_Store_Airstrip"
+        [
+          "baladiyah"
+        ],
+        [
+          "/wiki/Baladiyat_of_Libya"
+        ]
       ]
     ],
     [
       [
-        "Matsaile",
-        "/wiki/HTTP_404"
+        [
+          "after 1995"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FXMA",
-        null
+        [
+          "13"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Matsaile Airport",
-        "/wiki/Matsaile_Airport"
+        [
+          "shabiyah"
+        ],
+        [
+          "/wiki/Shabiyah"
+        ]
       ]
     ],
     [
       [
-        "Mohale's Hoek",
-        "/wiki/Mohale%27s_Hoek"
+        [
+          "after 1998"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FXMH",
-        null
+        [
+          "26"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mohale's Hoek Airport",
-        "/wiki/Mohale%27s_Hoek_Airport"
+        [
+          "shabiyah"
+        ],
+        [
+          "/wiki/Shabiyah"
+        ]
       ]
     ],
     [
       [
-        "Mohlanapeng",
-        "/wiki/Mohlanapeng"
+        [
+          "after 2001"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FXMP",
-        null
+        [
+          "32"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mohlanapeng Airport",
-        "/wiki/Mohlanapeng_Airport"
+        [
+          "shabiyah"
+        ],
+        [
+          "/wiki/Shabiyah"
+        ]
       ]
     ],
     [
       [
-        "Mokhotlong",
-        "/wiki/Mokhotlong"
+        [
+          "after 2007"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FXMK",
-        null
+        [
+          "22"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mokhotlong Airport",
-        "/wiki/Mokhotlong_Airport"
+        [
+          "shabiyah"
+        ],
+        [
+          "/wiki/Shabiyah"
+        ]
       ]
     ],
     [
       [
-        "Maseru",
-        "/wiki/Maseru"
+        [
+          "after 2013"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FXMM",
-        null
+        [
+          "99 to 108"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Moshoeshoe I International Airport",
-        "/wiki/Moshoeshoe_I_International_Airport"
-      ]
-    ],
-    [
-      [
-        "Maseru",
-        "/wiki/Maseru"
-      ],
-      [
-        "FXMU",
-        null
-      ],
-      [
-        "Mejametalana Airport",
-        "/wiki/Mejametalana_Airport"
-      ]
-    ],
-    [
-      [
-        "Nkaus",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "FXNK",
-        null
-      ],
-      [
-        "Nkaus Airport",
-        "/wiki/Nkaus_Airport"
+        [
+          "baladiyah"
+        ],
+        [
+          "/wiki/Baladiyat_of_Libya"
+        ]
       ]
     ]
   ],

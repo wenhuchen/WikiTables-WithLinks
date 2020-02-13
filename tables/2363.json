@@ -1,203 +1,573 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Modern_Library_100_Best_Novels",
-  "title": "Modern Library 100 Best Novels",
+  "url": "https://en.wikipedia.org/wiki/Super_League_XV",
+  "title": "Super League XV",
   "header": [
     [
-      "#",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Year",
-      null
+      [
+        "Stadium"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Title",
-      null
+      [
+        "Capacity"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Author",
-      null
+      [
+        "City/Area"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "Bradford Bulls",
+          "2010 season"
+        ],
+        [
+          "/wiki/Bradford_Bulls",
+          "/wiki/2010_Bradford_Bulls_season"
+        ]
       ],
       [
-        "1957",
-        null
+        [
+          "Grattan Stadium, Odsal"
+        ],
+        [
+          "/wiki/Odsal_Stadium"
+        ]
       ],
       [
-        "Atlas Shrugged",
-        "/wiki/Atlas_Shrugged"
+        [
+          "27,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ayn Rand",
-        "/wiki/Ayn_Rand"
+        [
+          "Bradford",
+          "West Yorkshire"
+        ],
+        [
+          "/wiki/Bradford",
+          "/wiki/West_Yorkshire"
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "Castleford Tigers",
+          "2010 season"
+        ],
+        [
+          "/wiki/Castleford_Tigers",
+          null
+        ]
       ],
       [
-        "1943",
-        null
+        [
+          "The Jungle"
+        ],
+        [
+          "/wiki/The_Jungle_(Wheldon_Road)"
+        ]
       ],
       [
-        "The Fountainhead",
-        "/wiki/The_Fountainhead"
+        [
+          "11,750"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ayn Rand",
-        "/wiki/Ayn_Rand"
+        [
+          "Castleford",
+          "West Yorkshire"
+        ],
+        [
+          "/wiki/Castleford",
+          "/wiki/West_Yorkshire"
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "Catalans Dragons",
+          "2010 season"
+        ],
+        [
+          "/wiki/Catalans_Dragons",
+          "/wiki/2010_Catalans_Dragons_season"
+        ]
       ],
       [
-        "1982",
-        null
+        [
+          "Stade Gilbert Brutus"
+        ],
+        [
+          "/wiki/Stade_Gilbert_Brutus"
+        ]
       ],
       [
-        "Battlefield Earth",
-        "/wiki/Battlefield_Earth_(novel)"
+        [
+          "10,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "L. Ron Hubbard",
-        "/wiki/L._Ron_Hubbard"
+        [
+          "Perpignan",
+          "Pyr\u00e9n\u00e9es-Orientales",
+          "France"
+        ],
+        [
+          "/wiki/Perpignan",
+          "/wiki/Pyr%C3%A9n%C3%A9es-Orientales",
+          "/wiki/France"
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "Crusaders",
+          "2010 season"
+        ],
+        [
+          "/wiki/Crusaders_Rugby_League",
+          "/wiki/2010_Crusaders_Rugby_League_season"
+        ]
       ],
       [
-        "1954\u201355",
-        null
+        [
+          "The Racecourse Ground"
+        ],
+        [
+          "/wiki/The_Racecourse_Ground"
+        ]
       ],
       [
-        "The Lord of the Rings",
-        "/wiki/The_Lord_of_the_Rings"
+        [
+          "15,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "J. R. R. Tolkien",
-        "/wiki/J._R._R._Tolkien"
+        [
+          "Wrexham",
+          "Clwyd",
+          "Wales"
+        ],
+        [
+          "/wiki/Wrexham",
+          "/wiki/Clwyd",
+          "/wiki/Wales"
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Harlequins",
+          "2010 season"
+        ],
+        [
+          "/wiki/London_Broncos",
+          "/wiki/2010_Harlequins_Rugby_League_season"
+        ]
       ],
       [
-        "1960",
-        null
+        [
+          "Twickenham Stoop"
+        ],
+        [
+          "/wiki/Twickenham_Stoop"
+        ]
       ],
       [
-        "To Kill a Mockingbird",
-        "/wiki/To_Kill_a_Mockingbird"
+        [
+          "12,700"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Harper Lee",
-        "/wiki/Harper_Lee"
+        [
+          "Twickenham",
+          "London"
+        ],
+        [
+          "/wiki/Twickenham",
+          "/wiki/London"
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "Huddersfield Giants",
+          "2010 season"
+        ],
+        [
+          "/wiki/Huddersfield_Giants",
+          "/wiki/2010_Huddersfield_Giants_season"
+        ]
       ],
       [
-        "1949",
-        null
+        [
+          "Galpharm Stadium"
+        ],
+        [
+          "/wiki/Galpharm_Stadium"
+        ]
       ],
       [
-        "Nineteen Eighty-Four",
-        "/wiki/Nineteen_Eighty-Four"
+        [
+          "24,544"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "George Orwell",
-        "/wiki/George_Orwell"
+        [
+          "Huddersfield",
+          "West Yorkshire"
+        ],
+        [
+          "/wiki/Huddersfield",
+          "/wiki/West_Yorkshire"
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "Hull F.C.",
+          "2010 season"
+        ],
+        [
+          "/wiki/Hull_F.C.",
+          null
+        ]
       ],
       [
-        "1938",
-        null
+        [
+          "Kingston Communications Stadium"
+        ],
+        [
+          "/wiki/KC_Stadium"
+        ]
       ],
       [
-        "Anthem",
-        "/wiki/Anthem_(novella)"
+        [
+          "25,404"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ayn Rand",
-        "/wiki/Ayn_Rand"
+        [
+          "Kingston upon Hull",
+          "East Riding of Yorkshire"
+        ],
+        [
+          "/wiki/Kingston_upon_Hull",
+          "/wiki/East_Riding_of_Yorkshire"
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "Hull Kingston Rovers",
+          "2010 season"
+        ],
+        [
+          "/wiki/Hull_Kingston_Rovers",
+          "/wiki/2010_Hull_Kingston_Rovers_season"
+        ]
       ],
       [
-        "1936",
-        null
+        [
+          "\"New\" Craven Park"
+        ],
+        [
+          "/wiki/Craven_Park,_Hull"
+        ]
       ],
       [
-        "We the Living",
-        "/wiki/We_the_Living"
+        [
+          "9,471"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ayn Rand",
-        "/wiki/Ayn_Rand"
+        [
+          "Kingston upon Hull",
+          "East Riding of Yorkshire"
+        ],
+        [
+          "/wiki/Kingston_upon_Hull",
+          "/wiki/East_Riding_of_Yorkshire"
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "Leeds Rhinos",
+          "2010 season"
+        ],
+        [
+          "/wiki/Leeds_Rhinos",
+          "/wiki/2010_Leeds_Rhinos_season"
+        ]
       ],
       [
-        "1985",
-        null
+        [
+          "Headingley Carnegie Stadium"
+        ],
+        [
+          "/wiki/Headingley_Carnegie_Rugby_Stadium"
+        ]
       ],
       [
-        "Mission Earth",
-        "/wiki/Mission_Earth_(novel)"
+        [
+          "22,250"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "L. Ron Hubbard",
-        "/wiki/L._Ron_Hubbard"
+        [
+          "Leeds",
+          "West Yorkshire"
+        ],
+        [
+          "/wiki/Leeds",
+          "/wiki/West_Yorkshire"
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "Salford City Reds",
+          "2010 season"
+        ],
+        [
+          "/wiki/Salford_Red_Devils",
+          null
+        ]
       ],
       [
-        "1940",
-        null
+        [
+          "The Willows"
+        ],
+        [
+          "/wiki/The_Willows,_Salford"
+        ]
       ],
       [
-        "Fear",
-        "/wiki/Fear_(Hubbard_novella)"
+        [
+          "11,363"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "L. Ron Hubbard",
-        "/wiki/L._Ron_Hubbard"
+        [
+          "Salford",
+          "Greater Manchester"
+        ],
+        [
+          "/wiki/City_of_Salford",
+          "/wiki/Greater_Manchester"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "St Helens R.F.C.",
+          "2010 season"
+        ],
+        [
+          "/wiki/St_Helens_R.F.C.",
+          "/wiki/2010_St_Helens_RLFC_season"
+        ]
+      ],
+      [
+        [
+          "The GPW Recruitment Stadium"
+        ],
+        [
+          "/wiki/Knowsley_Road"
+        ]
+      ],
+      [
+        [
+          "17,500"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "St Helens, Merseyside"
+        ],
+        [
+          "/wiki/St_Helens,_Merseyside"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Wakefield Trinity Wildcats",
+          "2010 season"
+        ],
+        [
+          "/wiki/Wakefield_Trinity",
+          "/wiki/2010_Wakefield_Trinity_Wildcats_season"
+        ]
+      ],
+      [
+        [
+          "Belle Vue"
+        ],
+        [
+          "/wiki/Belle_Vue_(Wakefield)"
+        ]
+      ],
+      [
+        [
+          "12,600"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Wakefield",
+          "West Yorkshire"
+        ],
+        [
+          "/wiki/Wakefield",
+          "/wiki/West_Yorkshire"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Warrington Wolves",
+          "2010 season"
+        ],
+        [
+          "/wiki/Warrington_Wolves",
+          "/wiki/2010_Warrington_Wolves_season"
+        ]
+      ],
+      [
+        [
+          "Halliwell Jones Stadium"
+        ],
+        [
+          "/wiki/Halliwell_Jones_Stadium"
+        ]
+      ],
+      [
+        [
+          "14,206"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Warrington",
+          "Cheshire"
+        ],
+        [
+          "/wiki/Warrington",
+          "/wiki/Cheshire"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Wigan Warriors",
+          "2010 season"
+        ],
+        [
+          "/wiki/Wigan_Warriors",
+          "/wiki/2010_Wigan_Warriors_season"
+        ]
+      ],
+      [
+        [
+          "DW Stadium"
+        ],
+        [
+          "/wiki/DW_Stadium"
+        ]
+      ],
+      [
+        [
+          "25,138"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Wigan",
+          "Greater Manchester"
+        ],
+        [
+          "/wiki/Wigan",
+          "/wiki/Greater_Manchester"
+        ]
       ]
     ]
   ],

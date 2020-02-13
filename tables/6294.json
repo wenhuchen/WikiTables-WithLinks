@@ -1,299 +1,425 @@
 {
-  "url": "https://en.wikipedia.org/wiki/TICAD_Delegations",
-  "title": "TICAD Delegations",
+  "url": "https://en.wikipedia.org/wiki/Oxford_transmitting_station",
+  "title": "Oxford transmitting station",
   "header": [
     [
-      "Flag",
-      null
+      [
+        "Frequency"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Nation",
-      null
+      [
+        "UHF"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Office",
-      null
+      [
+        "kW"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Operator"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "System"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Algeria",
-        "/wiki/Algeria"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Algeria",
-        "/wiki/Algeria"
+        [
+          "29"
+        ],
+        [
+          null
+        ]
       ],
       [
-        ".",
-        null
+        [
+          "10"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Local"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Angola",
-        "/wiki/Angola"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Angola",
-        "/wiki/Angola"
+        [
+          "31"
+        ],
+        [
+          null
+        ]
       ],
       [
-        ".",
-        null
+        [
+          "16.4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Com7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "DVB-T2"
+        ],
+        [
+          "/wiki/DVB-T2"
+        ]
       ]
     ],
     [
       [
-        "Botswana",
-        "/wiki/Botswana"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Botswana",
-        "/wiki/Botswana"
+        [
+          "37"
+        ],
+        [
+          null
+        ]
       ],
       [
-        ".",
-        null
+        [
+          "17.1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Com8"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "DVB-T2"
+        ],
+        [
+          "/wiki/DVB-T2"
+        ]
       ]
     ],
     [
       [
-        "Burundi",
-        "/wiki/Burundi"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Burundi",
-        "/wiki/Burundi"
+        [
+          "50"
+        ],
+        [
+          null
+        ]
       ],
       [
-        ".",
-        null
+        [
+          "50"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "SDN"
+        ],
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Cameroon",
-        "/wiki/Cameroon"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Cameroon",
-        "/wiki/Cameroon"
+        [
+          "53+"
+        ],
+        [
+          null
+        ]
       ],
       [
-        ".",
-        null
+        [
+          "100"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC"
+        ],
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          "/wiki/DVB-T"
+        ]
       ]
     ],
     [
       [
-        "C\u00f4te d'Ivoire",
-        "/wiki/Ivory_Coast"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "C\u00f4te d'Ivoire",
-        "/wiki/C%C3%B4te_d%27Ivoire"
+        [
+          "55"
+        ],
+        [
+          null
+        ]
       ],
       [
-        ".",
-        null
+        [
+          "50"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Arqiva"
+        ],
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Central African Republic",
-        "/wiki/Central_African_Republic"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Central African Republic",
-        "/wiki/Central_African_Republic"
+        [
+          "57"
+        ],
+        [
+          null
+        ]
       ],
       [
-        ".",
-        null
+        [
+          "100"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "BBC B"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "DVB-T2"
+        ],
+        [
+          "/wiki/DVB-T2"
+        ]
       ]
     ],
     [
       [
-        "Mauritania",
-        "/wiki/Mauritania"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Mauritania",
-        "/wiki/Mauritania"
+        [
+          "59-"
+        ],
+        [
+          null
+        ]
       ],
       [
-        ".",
-        null
+        [
+          "50"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Arqiva A"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Eritrea",
-        "/wiki/Eritrea"
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Eritrea",
-        "/wiki/Eritrea"
+        [
+          "60-"
+        ],
+        [
+          null
+        ]
       ],
       [
-        ".",
-        null
-      ]
-    ],
-    [
-      [
-        "Sudan",
-        "/wiki/Sudan"
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sudan",
-        "/wiki/Sudan"
+        [
+          "Digital 3&4"
+        ],
+        [
+          "/wiki/Digital_3%264"
+        ]
       ],
       [
-        ".",
-        null
-      ]
-    ],
-    [
-      [
-        "Benin",
-        "/wiki/Benin"
-      ],
-      [
-        "Benin",
-        "/wiki/Benin"
-      ],
-      [
-        ".",
-        null
-      ]
-    ],
-    [
-      [
-        "Burkina Faso",
-        "/wiki/Burkina_Faso"
-      ],
-      [
-        "Burkina Faso",
-        "/wiki/Burkina_Faso"
-      ],
-      [
-        ".",
-        null
-      ]
-    ],
-    [
-      [
-        "Mozambique",
-        "/wiki/Mozambique"
-      ],
-      [
-        "Mozambique",
-        "/wiki/Mozambique"
-      ],
-      [
-        ".",
-        null
-      ]
-    ],
-    [
-      [
-        "Rwanda",
-        "/wiki/Rwanda"
-      ],
-      [
-        "Rwanda",
-        "/wiki/Rwanda"
-      ],
-      [
-        ".",
-        null
-      ]
-    ],
-    [
-      [
-        "Kenya",
-        "/wiki/Kenya"
-      ],
-      [
-        "Kenya",
-        "/wiki/Kenya"
-      ],
-      [
-        ".",
-        null
-      ]
-    ],
-    [
-      [
-        "Tanzania",
-        "/wiki/Tanzania"
-      ],
-      [
-        "Tanzania",
-        "/wiki/Tanzania"
-      ],
-      [
-        ".",
-        null
-      ]
-    ],
-    [
-      [
-        "African Union",
-        "/wiki/African_Union"
-      ],
-      [
-        "African Union",
-        "/wiki/African_Union"
-      ],
-      [
-        "President",
-        null
-      ]
-    ],
-    [
-      [
-        "Sierra Leone",
-        "/wiki/Sierra_Leone"
-      ],
-      [
-        "Sierra Leone",
-        "/wiki/Sierra_Leone"
-      ],
-      [
-        ".",
-        null
-      ]
-    ],
-    [
-      [
-        "Ghana",
-        "/wiki/Ghana"
-      ],
-      [
-        "Ghana",
-        "/wiki/Ghana"
-      ],
-      [
-        "President",
-        null
-      ]
-    ],
-    [
-      [
-        "Zambia",
-        "/wiki/Zambia"
-      ],
-      [
-        "Zambia",
-        "/wiki/Zambia"
-      ],
-      [
-        ".",
-        null
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

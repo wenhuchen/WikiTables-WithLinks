@@ -1,383 +1,1063 @@
 {
-  "url": "https://en.wikipedia.org/wiki/South_Korea_at_the_2008_Asian_Beach_Games",
-  "title": "South Korea at the 2008 Asian Beach Games",
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions",
+  "title": "Comparison of Linux distributions",
   "header": [
     [
-      "Medal",
-      null
+      [
+        "Distribution"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Name",
-      null
+      [
+        "Linux kernel"
+      ],
+      [
+        "/wiki/Linux_kernel"
+      ]
     ],
     [
-      "Sport",
-      null
+      [
+        "file system"
+      ],
+      [
+        "/wiki/File_system"
+      ]
     ],
     [
-      "Event",
-      null
+      [
+        "init system"
+      ],
+      [
+        "/wiki/Init"
+      ]
+    ],
+    [
+      [
+        "desktop environment",
+        "window manager"
+      ],
+      [
+        "/wiki/Desktop_environment",
+        "/wiki/Window_manager"
+      ]
+    ],
+    [
+      [
+        "Reproducible builds"
+      ],
+      [
+        "/wiki/Reproducible_builds"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Gold",
-        null
+        [
+          "Alpine Linux"
+        ],
+        [
+          "/wiki/Alpine_Linux"
+        ]
       ],
       [
-        "Lee Yun-seok",
-        "/wiki/Lee_Yun-seok"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Beach wrestling",
-        "/wiki/Beach_wrestling_at_the_2008_Asian_Beach_Games"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's -75\u00a0kg",
-        null
+        [
+          "openrc"
+        ],
+        [
+          "/wiki/OpenRC"
+        ]
+      ],
+      [
+        [
+          "none"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Gold",
-        null
+        [
+          "ALT Linux"
+        ],
+        [
+          "/wiki/ALT_Linux"
+        ]
       ],
       [
-        "Lee Jin-ho",
-        "/wiki/HTTP_404"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bodybuilding",
-        "/wiki/Bodybuilding_at_the_2008_Asian_Beach_Games"
+        [
+          "ext3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's 85\u00a0kg",
-        null
+        [
+          "systemd"
+        ],
+        [
+          "/wiki/Systemd"
+        ]
+      ],
+      [
+        [
+          "Xfce"
+        ],
+        [
+          "/wiki/Xfce"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Gold",
-        null
+        [
+          "Arch Linux"
+        ],
+        [
+          "/wiki/Arch_Linux"
+        ]
       ],
       [
-        "Men's Team",
-        null
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paragliding",
-        "/wiki/Paragliding_at_the_2008_Asian_Beach_Games"
+        [
+          "none"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's Team accuracy",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "none"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Gold",
-        null
+        [
+          "BLAG"
+        ],
+        [
+          "/wiki/BLAG_Linux_and_GNU"
+        ]
       ],
       [
-        "Lee Tae-hoon",
-        "/wiki/Lee_Tae-hoon_(sailor)"
+        [
+          "Linux-libre"
+        ],
+        [
+          "/wiki/Linux-libre"
+        ]
       ],
       [
-        "Sailing",
-        "/wiki/Sailing_at_the_2008_Asian_Beach_Games"
+        [
+          "ext3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's RSX",
-        null
+        [
+          "sysvinit"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GNOME"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Silver",
-        null
+        [
+          "Bodhi Linux"
+        ],
+        [
+          "/wiki/Bodhi_Linux"
+        ]
       ],
       [
-        "Noh Je-hyoun",
-        "/wiki/HTTP_404"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Beach wrestling",
-        "/wiki/Beach_wrestling_at_the_2008_Asian_Beach_Games"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's -85\u00a0kg",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Enlightenment"
+        ],
+        [
+          "/wiki/Enlightenment_(window_manager)"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Silver",
-        null
+        [
+          "Canaima"
+        ],
+        [
+          "/wiki/Canaima_(operating_system)"
+        ]
       ],
       [
-        "Koo Tae-hyun",
-        "/wiki/HTTP_404"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Beach wrestling",
-        "/wiki/Beach_wrestling_at_the_2008_Asian_Beach_Games"
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's +85\u00a0kg",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cinnamon",
+          "MATE"
+        ],
+        [
+          "/wiki/Cinnamon_(software)",
+          "/wiki/MATE_(software)"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Silver",
-        null
+        [
+          "CentOS"
+        ],
+        [
+          "/wiki/CentOS"
+        ]
       ],
       [
-        "Kim Myung-sub",
-        "/wiki/HTTP_404"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bodybuilding",
-        "/wiki/Bodybuilding_at_the_2008_Asian_Beach_Games"
+        [
+          "xfs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's 75\u00a0kg",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GNOME"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Silver",
-        null
+        [
+          "Chakra"
+        ],
+        [
+          "/wiki/Chakra_(operating_system)"
+        ]
       ],
       [
-        "Ha Chi-kyong",
-        "/wiki/HTTP_404"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paragliding",
-        "/wiki/Paragliding_at_the_2008_Asian_Beach_Games"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's Accuracy",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "KDE Plasma Workspaces"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Silver",
-        null
+        [
+          "ClearOS"
+        ],
+        [
+          "/wiki/ClearOS"
+        ]
       ],
       [
-        "Ha Chi-kyong",
-        "/wiki/HTTP_404"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paragliding",
-        "/wiki/Paragliding_at_the_2008_Asian_Beach_Games"
+        [
+          "ext3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's Distance",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "none (Web based)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Silver",
-        null
+        [
+          "CoreOS"
+        ],
+        [
+          "/wiki/CoreOS"
+        ]
       ],
       [
-        "Men's Team",
-        null
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paragliding",
-        "/wiki/Paragliding_at_the_2008_Asian_Beach_Games"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's Team distance",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "None"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Silver",
-        null
+        [
+          "CrunchBang Linux"
+        ],
+        [
+          "/wiki/CrunchBang_Linux"
+        ]
       ],
       [
-        "Park Koung-young",
-        "/wiki/HTTP_404"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paragliding",
-        "/wiki/Paragliding_at_the_2008_Asian_Beach_Games"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Women's Distance",
-        null
+        [
+          "sysvinit"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Openbox"
+        ],
+        [
+          "/wiki/Openbox"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "Damn Small Linux"
+        ],
+        [
+          "/wiki/Damn_Small_Linux"
+        ]
       ],
       [
-        "Women's Team",
-        null
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Beach kabaddi",
-        "/wiki/Beach_kabaddi_at_the_2008_Asian_Beach_Games"
+        [
+          "ext3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Women's Beach kabaddi",
-        null
+        [
+          "sysvinit"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "JWM"
+        ],
+        [
+          "/wiki/JWM"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "Debian"
+        ],
+        [
+          "/wiki/Debian"
+        ]
       ],
       [
-        "Men's Team",
-        null
+        [
+          "Linux-libre"
+        ],
+        [
+          "/wiki/Linux-libre"
+        ]
       ],
       [
-        "Beach sepaktakraw",
-        "/wiki/Beach_sepaktakraw_at_the_2008_Asian_Beach_Games"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's Beach sepaktakraw",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "KDE",
+          "Xfce",
+          "LXDE"
+        ],
+        [
+          "/wiki/KDE",
+          "/wiki/Xfce",
+          "/wiki/LXDE"
+        ]
+      ],
+      [
+        [
+          "In progress"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "Devuan"
+        ],
+        [
+          "/wiki/Devuan"
+        ]
       ],
       [
-        "Women's Team",
-        null
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Beach sepaktakraw",
-        "/wiki/Beach_sepaktakraw_at_the_2008_Asian_Beach_Games"
+        [
+          "ext4"
+        ],
+        [
+          "/wiki/Ext4"
+        ]
       ],
       [
-        "Women's Beach sepaktakraw",
-        null
+        [
+          "sysvinit"
+        ],
+        [
+          "/wiki/Sysvinit"
+        ]
+      ],
+      [
+        [
+          "Xfce"
+        ],
+        [
+          "/wiki/Xfce"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "Dragora GNU/Linux-Libre"
+        ],
+        [
+          "/wiki/Dragora_GNU/Linux-Libre"
+        ]
       ],
       [
-        "Lee Seung-chul",
-        "/wiki/Lee_Seung-chul_(wrestler)"
+        [
+          "Linux-libre"
+        ],
+        [
+          "/wiki/Linux-libre"
+        ]
       ],
       [
-        "Beach wrestling",
-        "/wiki/Beach_wrestling_at_the_2008_Asian_Beach_Games"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's -65\u00a0kg",
-        null
+        [
+          "runit"
+        ],
+        [
+          "/wiki/Runit"
+        ]
+      ],
+      [
+        [
+          "Xfce"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "dyne:bolic"
+        ],
+        [
+          "/wiki/Dyne:bolic"
+        ]
       ],
       [
-        "Kim Jin-sik",
-        "/wiki/HTTP_404"
+        [
+          "Linux-libre"
+        ],
+        [
+          "/wiki/Linux-libre"
+        ]
       ],
       [
-        "Bodybuilding",
-        "/wiki/Bodybuilding_at_the_2008_Asian_Beach_Games"
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's 65\u00a0kg",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GNOME"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "Fedora"
+        ],
+        [
+          "/wiki/Fedora_(operating_system)"
+        ]
       ],
       [
-        "Kim Chong-won",
-        "/wiki/HTTP_404"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bodybuilding",
-        "/wiki/Bodybuilding_at_the_2008_Asian_Beach_Games"
+        [
+          "ext4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's 80\u00a0kg",
-        null
+        [
+          "systemd"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Sugar on a Stick"
+        ],
+        [
+          "/wiki/Sugar_(software)"
+        ]
+      ],
+      [
+        [
+          "In progress"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "Funtoo"
+        ],
+        [
+          "/wiki/Funtoo_Linux"
+        ]
       ],
       [
-        "Kim Jin-oh",
-        "/wiki/HTTP_404"
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paragliding",
-        "/wiki/Paragliding_at_the_2008_Asian_Beach_Games"
+        [
+          "none"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's Accuracy",
-        null
+        [
+          "openrc"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "None"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "Gentoo"
+        ],
+        [
+          "/wiki/Gentoo_Linux"
+        ]
       ],
       [
-        "Women's Team",
-        null
+        [
+          "Binary blobs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paragliding",
-        "/wiki/Paragliding_at_the_2008_Asian_Beach_Games"
+        [
+          "none"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Women's Team accuracy",
-        null
+        [
+          "openrc"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Awesome"
+        ],
+        [
+          "/wiki/Awesome_(window_manager)"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bronze",
-        null
+        [
+          "gNewSense"
+        ],
+        [
+          "/wiki/GNewSense"
+        ]
       ],
       [
-        "Women's Team",
-        null
+        [
+          "Debian Linux kernel, and (unlike Debian) blobs cannot be installed"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paragliding",
-        "/wiki/Paragliding_at_the_2008_Asian_Beach_Games"
+        [
+          "ext3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Women's Team distance",
-        null
+        [
+          "sysvinit"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GNOME"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

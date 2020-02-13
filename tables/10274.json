@@ -1,467 +1,887 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_least_carbon_efficient_power_stations",
-  "title": "List of least carbon efficient power stations",
+  "url": "https://en.wikipedia.org/wiki/List_of_stadiums_in_Canada",
+  "title": "List of stadiums in Canada",
   "header": [
     [
-      "CO2 intensity (kg/kWh)",
-      null
+      [
+        "Stadium"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Power Station, Location",
-      null
+      [
+        "Capacity"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country",
-      null
+      [
+        "City"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Fuel",
-      null
+      [
+        "Province"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "CO2",
-      "/wiki/Carbon_dioxide"
+      [
+        "Home Team(s)"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1.350",
-        null
+        [
+          "Rogers Centre"
+        ],
+        [
+          "/wiki/Rogers_Centre"
+        ]
       ],
       [
-        "Agios Dimitrios Power Station,Agios Dimitrios, Kozani",
-        "/wiki/Agios_Dimitrios_Power_Station /wiki/Agios_Dimitrios,_Kozani"
+        [
+          "49,539"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Greece",
-        "/wiki/Greece"
+        [
+          "Toronto"
+        ],
+        [
+          "/wiki/Toronto"
+        ]
       ],
       [
-        "Lignite",
-        "/wiki/Lignite"
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
       ],
       [
-        "12.4",
-        null
+        [
+          "Toronto Blue Jays"
+        ],
+        [
+          "/wiki/Toronto_Blue_Jays"
+        ]
       ]
     ],
     [
       [
-        "1.250",
-        null
+        [
+          "Olympic Stadium"
+        ],
+        [
+          "/wiki/Olympic_Stadium_(Montreal)"
+        ]
       ],
       [
-        "Kardia Power Station,Kardia Kozanis",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "45,757"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Greece",
-        "/wiki/Greece"
+        [
+          "Montreal"
+        ],
+        [
+          "/wiki/Montreal"
+        ]
       ],
       [
-        "Lignite",
-        "/wiki/Lignite"
+        [
+          "Quebec"
+        ],
+        [
+          "/wiki/Quebec"
+        ]
       ],
       [
-        "8.8",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1.200",
-        null
+        [
+          "Raymond Chabot Grant Thornton Park"
+        ],
+        [
+          "/wiki/Raymond_Chabot_Grant_Thornton_Park"
+        ]
       ],
       [
-        "Niederaussem Power Station,Niederaussem",
-        "/wiki/Niederaussem_Power_Station /wiki/Niederaussem"
+        [
+          "10,332"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        "/wiki/Germany"
+        [
+          "Ottawa"
+        ],
+        [
+          "/wiki/Ottawa"
+        ]
       ],
       [
-        "Lignite",
-        "/wiki/Lignite"
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
       ],
       [
-        "27.4",
-        null
+        [
+          "Ottawa Champions"
+        ],
+        [
+          "/wiki/Ottawa_Champions"
+        ]
       ]
     ],
     [
       [
-        "1.200",
-        null
+        [
+          "RE/MAX Field"
+        ],
+        [
+          "/wiki/RE/MAX_Field"
+        ]
       ],
       [
-        "J\u00e4nschwalde Power Station,J\u00e4nschwalde",
-        "/wiki/J%C3%A4nschwalde_Power_Station /wiki/J%C3%A4nschwalde"
+        [
+          "9,200"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        "/wiki/Germany"
+        [
+          "Edmonton"
+        ],
+        [
+          "/wiki/Edmonton"
+        ]
       ],
       [
-        "Lignite",
-        "/wiki/Lignite"
+        [
+          "Alberta"
+        ],
+        [
+          "/wiki/Alberta"
+        ]
       ],
       [
-        "23.7",
-        null
+        [
+          "Edmonton Prospects"
+        ],
+        [
+          "/wiki/Edmonton_Prospects"
+        ]
       ]
     ],
     [
       [
-        "1.187",
-        null
+        [
+          "Shaw Park"
+        ],
+        [
+          "/wiki/Shaw_Park"
+        ]
       ],
       [
-        "Frimmersdorf Power Station,Grevenbroich",
-        "/wiki/Frimmersdorf_Power_Station /wiki/Grevenbroich"
+        [
+          "7,481"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        "/wiki/Germany"
+        [
+          "Winnipeg"
+        ],
+        [
+          "/wiki/Winnipeg"
+        ]
       ],
       [
-        "Lignite",
-        "/wiki/Lignite"
+        [
+          "Manitoba"
+        ],
+        [
+          "/wiki/Manitoba"
+        ]
       ],
       [
-        "19.3",
-        null
+        [
+          "Winnipeg Goldeyes"
+        ],
+        [
+          "/wiki/Winnipeg_Goldeyes"
+        ]
       ]
     ],
     [
       [
-        "1.180",
-        null
+        [
+          "Nat Bailey Stadium"
+        ],
+        [
+          "/wiki/Nat_Bailey_Stadium"
+        ]
       ],
       [
-        "Weisweiler Power Station,Eschweiler",
-        "/wiki/HTTP_404 /wiki/Eschweiler"
+        [
+          "6,500"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        "/wiki/Germany"
+        [
+          "Vancouver"
+        ],
+        [
+          "/wiki/Vancouver"
+        ]
       ],
       [
-        "Lignite",
-        "/wiki/Lignite"
+        [
+          "British Columbia"
+        ],
+        [
+          "/wiki/British_Columbia"
+        ]
       ],
       [
-        "18.8",
-        null
+        [
+          "Vancouver Canadians"
+        ],
+        [
+          "/wiki/Vancouver_Canadians"
+        ]
       ]
     ],
     [
       [
-        "1.150",
-        null
+        [
+          "Foothills Stadium"
+        ],
+        [
+          "/wiki/Foothills_Stadium"
+        ]
       ],
       [
-        "Neurath Power Station,Grevenbroich",
-        "/wiki/Neurath_Power_Station /wiki/Grevenbroich"
+        [
+          "6,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        "/wiki/Germany"
+        [
+          "Calgary"
+        ],
+        [
+          "/wiki/Calgary"
+        ]
       ],
       [
-        "Lignite",
-        "/wiki/Lignite"
+        [
+          "Alberta"
+        ],
+        [
+          "/wiki/Alberta"
+        ]
       ],
       [
-        "17.9",
-        null
+        [
+          "Calgary Dinos"
+        ],
+        [
+          "/wiki/Calgary_Dinos"
+        ]
       ]
     ],
     [
       [
-        "1.150",
-        null
+        [
+          "Labatt Park"
+        ],
+        [
+          "/wiki/Labatt_Park"
+        ]
       ],
       [
-        "Tur\u00f3w Power Station,Bogatynia",
-        "/wiki/HTTP_404 /wiki/Bogatynia"
+        [
+          "5,200"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Poland",
-        "/wiki/Poland"
+        [
+          "London"
+        ],
+        [
+          "/wiki/London,_Ontario"
+        ]
       ],
       [
-        "Lignite",
-        "/wiki/Lignite"
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
       ],
       [
-        "13.0",
-        null
+        [
+          "London Majors"
+        ],
+        [
+          "/wiki/London_Majors"
+        ]
       ]
     ],
     [
       [
-        "1.150",
-        null
+        [
+          "Monarch Park Stadium"
+        ],
+        [
+          "/wiki/Monarch_Park_Stadium"
+        ]
       ],
       [
-        "As Pontes Power Station,Ferrol",
-        "/wiki/HTTP_404 /wiki/Ferrol,_Spain"
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Spain",
-        "/wiki/Spain"
+        [
+          "Toronto"
+        ],
+        [
+          "/wiki/Toronto"
+        ]
       ],
       [
-        "Lignite",
-        "/wiki/Lignite"
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
       ],
       [
-        "9.1",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1.100",
-        null
+        [
+          "St. Patrick's Park"
+        ],
+        [
+          "/wiki/St._Patrick%27s_Park"
+        ]
       ],
       [
-        "Boxberg Power Station,Boxberg, Saxony",
-        "/wiki/Boxberg_Power_Station /wiki/Boxberg,_Saxony"
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        "/wiki/Germany"
+        [
+          "St. Johns"
+        ],
+        [
+          "/wiki/St._John%27s,_Newfoundland_and_Labrador"
+        ]
       ],
       [
-        "Lignite",
-        "/wiki/Lignite"
+        [
+          "Newfoundland and Labrador"
+        ],
+        [
+          "/wiki/Newfoundland_and_Labrador"
+        ]
       ],
       [
-        "15.5",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1.090",
-        null
+        [
+          "Parc Victoria"
+        ],
+        [
+          "/wiki/Stade_Municipal_(Quebec_City)"
+        ]
       ],
       [
-        "Be\u0142chat\u00f3w Power Station,Be\u0142chat\u00f3w",
-        "/wiki/Be%C5%82chat%C3%B3w_Power_Station /wiki/Be%C5%82chat%C3%B3w"
+        [
+          "4,500"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Poland",
-        "/wiki/Poland"
+        [
+          "Quebec City"
+        ],
+        [
+          "/wiki/Quebec_City"
+        ]
       ],
       [
-        "Lignite",
-        "/wiki/Lignite"
+        [
+          "Quebec"
+        ],
+        [
+          "/wiki/Quebec"
+        ]
       ],
       [
-        "30.1",
-        null
+        [
+          "Capitales de Qu\u00e9bec"
+        ],
+        [
+          "/wiki/Capitales_de_Qu%C3%A9bec"
+        ]
       ]
     ],
     [
       [
-        "1.070",
-        null
+        [
+          "Royal Athletic Park"
+        ],
+        [
+          "/wiki/Royal_Athletic_Park"
+        ]
       ],
       [
-        "Prun\u00e9\u0159ov Power Station,Prun\u00e9\u0159ov",
-        "/wiki/Prun%C3%A9%C5%99ov_Power_Station /wiki/HTTP_404"
+        [
+          "4,247"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Czech Republic",
-        "/wiki/Czech_Republic"
+        [
+          "Victoria"
+        ],
+        [
+          "/wiki/Victoria,_British_Columbia"
+        ]
       ],
       [
-        "Lignite",
-        "/wiki/Lignite"
+        [
+          "British Columbia"
+        ],
+        [
+          "/wiki/British_Columbia"
+        ]
       ],
       [
-        "8.9",
-        null
+        [
+          "Victoria HarbourCats"
+        ],
+        [
+          "/wiki/Victoria_HarbourCats"
+        ]
       ]
     ],
     [
       [
-        "1.050",
-        null
+        [
+          "Stade Fernand-B\u00e9dard"
+        ],
+        [
+          "/wiki/Stade_Fernand-B%C3%A9dard"
+        ]
       ],
       [
-        "Sines Power Station,Sines",
-        "/wiki/HTTP_404 /wiki/Sines"
+        [
+          "4,500"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Portugal",
-        "/wiki/Portugal"
+        [
+          "Trois-Rivi\u00e8res"
+        ],
+        [
+          "/wiki/Trois-Rivi%C3%A8res"
+        ]
       ],
       [
-        "Hard Coal",
-        "/wiki/Hard_Coal"
+        [
+          "Quebec"
+        ],
+        [
+          "/wiki/Quebec"
+        ]
       ],
       [
-        "8.7",
-        null
+        [
+          "Trois-Rivi\u00e8res Aigles"
+        ],
+        [
+          "/wiki/Trois-Rivi%C3%A8res_Aigles_(Can-Am)"
+        ]
       ]
     ],
     [
       [
-        "1.000",
-        null
+        [
+          "Kiwanis Park"
+        ],
+        [
+          "/wiki/Kiwanis_Park"
+        ]
       ],
       [
-        "Schwarze Pumpe power station,Spremberg",
-        "/wiki/Schwarze_Pumpe_power_station /wiki/Spremberg"
+        [
+          "3,500"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        "/wiki/Germany"
+        [
+          "Moncton"
+        ],
+        [
+          "/wiki/Moncton,_New_Brunswick"
+        ]
       ],
       [
-        "Lignite",
-        "/wiki/Lignite"
+        [
+          "New Brunswick"
+        ],
+        [
+          "/wiki/New_Brunswick"
+        ]
       ],
       [
-        "12.2",
-        null
+        [
+          "Moncton Fisher Cats"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "0.970",
-        null
+        [
+          "Andrews Field"
+        ],
+        [
+          "/wiki/Andrews_Field_(baseball)"
+        ]
       ],
       [
-        "Longannet power station,Longannet",
-        "/wiki/Longannet_power_station /wiki/Longannet"
+        [
+          "3,326"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United Kingdom",
-        "/wiki/United_Kingdom"
+        [
+          "Brandon"
+        ],
+        [
+          "/wiki/Brandon,_Manitoba"
+        ]
       ],
       [
-        "Hard Coal",
-        "/wiki/Hard_Coal"
+        [
+          "Manitoba"
+        ],
+        [
+          "/wiki/Manitoba"
+        ]
       ],
       [
-        "10.1",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "0.950",
-        null
+        [
+          "Port Arthur Stadium"
+        ],
+        [
+          "/wiki/Port_Arthur_Stadium"
+        ]
       ],
       [
-        "Lippendorf Power Station,Lippendorf",
-        "/wiki/Lippendorf_Power_Station /wiki/Lippendorf"
+        [
+          "3,031"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        "/wiki/Germany"
+        [
+          "Thunder Bay"
+        ],
+        [
+          "/wiki/Thunder_Bay"
+        ]
       ],
       [
-        "Lignite",
-        "/wiki/Lignite"
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
       ],
       [
-        "12.4",
-        null
+        [
+          "Thunder Bay Border Cats"
+        ],
+        [
+          "/wiki/Thunder_Bay_Border_Cats"
+        ]
       ]
     ],
     [
       [
-        "0.940",
-        null
+        [
+          "Athletic Park"
+        ],
+        [
+          "/wiki/Athletic_Park_(Medicine_Hat)"
+        ]
       ],
       [
-        "Cottam power stations,Cottam",
-        "/wiki/Cottam_power_stations /wiki/Cottam,_Nottinghamshire"
+        [
+          "3,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United Kingdom",
-        "/wiki/United_Kingdom"
+        [
+          "Medicine Hat"
+        ],
+        [
+          "/wiki/Medicine_Hat"
+        ]
       ],
       [
-        "Hard Coal",
-        "/wiki/Hard_Coal"
+        [
+          "Alberta"
+        ],
+        [
+          "/wiki/Alberta"
+        ]
       ],
       [
-        "10.0",
-        null
+        [
+          "Medicine Hat Mavericks"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "0.930",
-        null
+        [
+          "Spitz Stadium"
+        ],
+        [
+          "/wiki/Spitz_Stadium"
+        ]
       ],
       [
-        "Rybnik Power Station,Rybnik",
-        "/wiki/Rybnik_Power_Station /wiki/Rybnik"
+        [
+          "3,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Poland",
-        "/wiki/Poland"
+        [
+          "Lethbridge"
+        ],
+        [
+          "/wiki/Lethbridge"
+        ]
       ],
       [
-        "Hard Coal",
-        "/wiki/Hard_Coal"
+        [
+          "Alberta"
+        ],
+        [
+          "/wiki/Alberta"
+        ]
       ],
       [
-        "8.6",
-        null
+        [
+          "Lethbridge Bulls"
+        ],
+        [
+          "/wiki/Lethbridge_Bulls"
+        ]
       ]
     ],
     [
       [
-        "0.915",
-        null
+        [
+          "Bernie Arbour Memorial Stadium"
+        ],
+        [
+          "/wiki/Bernie_Arbour_Memorial_Stadium"
+        ]
       ],
       [
-        "Kozienice Power Station,Kozienice",
-        "/wiki/Kozienice_Power_Station /wiki/Kozienice"
+        [
+          "3,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Poland",
-        "/wiki/Poland"
+        [
+          "Hamilton"
+        ],
+        [
+          "/wiki/Hamilton,_Ontario"
+        ]
       ],
       [
-        "Hard Coal",
-        "/wiki/Hard_Coal"
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
       ],
       [
-        "10.8",
-        null
+        [
+          "Hamilton Cardinals"
+        ],
+        [
+          "/wiki/Hamilton_Cardinals"
+        ]
       ]
     ],
     [
       [
-        "0.900",
-        null
+        [
+          "Welland Stadium"
+        ],
+        [
+          "/wiki/Welland_Stadium"
+        ]
       ],
       [
-        "Scholven Power Station,Scholven",
-        "/wiki/Scholven_Power_Station /wiki/HTTP_404"
+        [
+          "2,500"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        "/wiki/Germany"
+        [
+          "Welland"
+        ],
+        [
+          "/wiki/Welland"
+        ]
       ],
       [
-        "Hard Coal",
-        "/wiki/Hard_Coal"
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
       ],
       [
-        "10.7",
-        null
+        [
+          "Welland Jackfish"
+        ],
+        [
+          "/wiki/Welland_Jackfish"
+        ]
       ]
     ]
   ],

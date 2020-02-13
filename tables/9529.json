@@ -1,383 +1,655 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_Baja_California_cities",
-  "title": "List of Baja California cities",
+  "url": "https://en.wikipedia.org/wiki/List_of_Minor_League_Baseball_leagues_and_teams",
+  "title": "List of Minor League Baseball leagues and teams",
   "header": [
     [
-      "Rank",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "City",
-      null
+      [
+        "Division"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Municipality",
-      null
+      [
+        "City"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Population",
-      null
+      [
+        "State/Province"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Stadium"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Stadium capacity"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "Chicago Dogs"
+        ],
+        [
+          "/wiki/Chicago_Dogs"
+        ]
       ],
       [
-        "Tijuana",
-        "/wiki/Tijuana"
+        [
+          "North"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tijuana",
-        "/wiki/Tijuana_Municipality"
+        [
+          "Rosemont"
+        ],
+        [
+          "/wiki/Rosemont,_Illinois"
+        ]
       ],
       [
-        "1,650,351",
-        null
+        [
+          "Illinois"
+        ],
+        [
+          "/wiki/Illinois"
+        ]
+      ],
+      [
+        [
+          "Impact Field"
+        ],
+        [
+          "/wiki/Impact_Field"
+        ]
+      ],
+      [
+        [
+          "6,300"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "Cleburne Railroaders"
+        ],
+        [
+          "/wiki/Cleburne_Railroaders"
+        ]
       ],
       [
-        "Mexicali",
-        "/wiki/Mexicali"
+        [
+          "South"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mexicali",
-        "/wiki/Mexicali_Municipality"
+        [
+          "Cleburne"
+        ],
+        [
+          "/wiki/Cleburne,_Texas"
+        ]
       ],
       [
-        "996,826",
-        null
+        [
+          "Texas"
+        ],
+        [
+          "/wiki/Texas"
+        ]
+      ],
+      [
+        [
+          "The Depot at Cleburne Station"
+        ],
+        [
+          "/wiki/The_Depot_at_Cleburne_Station"
+        ]
+      ],
+      [
+        [
+          "2,500"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "Fargo-Moorhead RedHawks"
+        ],
+        [
+          "/wiki/Fargo-Moorhead_RedHawks"
+        ]
       ],
       [
-        "Ensenada",
-        "/wiki/Ensenada,_Baja_California"
+        [
+          "North"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ensenada",
-        "/wiki/Ensenada_Municipality"
+        [
+          "Fargo"
+        ],
+        [
+          "/wiki/Fargo,_North_Dakota"
+        ]
       ],
       [
-        "689,075",
-        null
+        [
+          "North Dakota"
+        ],
+        [
+          "/wiki/North_Dakota"
+        ]
+      ],
+      [
+        [
+          "Newman Outdoor Field"
+        ],
+        [
+          "/wiki/Newman_Outdoor_Field"
+        ]
+      ],
+      [
+        [
+          "4,513"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "Gary SouthShore RailCats"
+        ],
+        [
+          "/wiki/Gary_SouthShore_RailCats"
+        ]
       ],
       [
-        "Rosarito",
-        "/wiki/Rosarito_(Baja_California)"
+        [
+          "North"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Playas de Rosarito",
-        "/wiki/Playas_de_Rosarito_Municipality"
+        [
+          "Gary"
+        ],
+        [
+          "/wiki/Gary,_Indiana"
+        ]
       ],
       [
-        "65,278",
-        null
+        [
+          "Indiana"
+        ],
+        [
+          "/wiki/Indiana"
+        ]
+      ],
+      [
+        [
+          "U.S. Steel Yard"
+        ],
+        [
+          "/wiki/U.S._Steel_Yard"
+        ]
+      ],
+      [
+        [
+          "6,139"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Kansas City T-Bones"
+        ],
+        [
+          "/wiki/Kansas_City_T-Bones"
+        ]
       ],
       [
-        "Tecate",
-        "/wiki/Tecate"
+        [
+          "South"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tecate",
-        "/wiki/Tecate_Municipality"
+        [
+          "Kansas City"
+        ],
+        [
+          "/wiki/Kansas_City,_Kansas"
+        ]
       ],
       [
-        "64,764",
-        null
+        [
+          "Kansas"
+        ],
+        [
+          "/wiki/Kansas"
+        ]
+      ],
+      [
+        [
+          "T-Bones Stadium"
+        ],
+        [
+          "/wiki/T-Bones_Stadium"
+        ]
+      ],
+      [
+        [
+          "6,537"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "Lincoln Saltdogs"
+        ],
+        [
+          "/wiki/Lincoln_Saltdogs"
+        ]
       ],
       [
-        "Santa Isabel",
-        "/wiki/Santa_Isabel,_Baja_California"
+        [
+          "South"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mexicali",
-        "/wiki/Mexicali_Municipality"
+        [
+          "Lincoln"
+        ],
+        [
+          "/wiki/Lincoln,_Nebraska"
+        ]
       ],
       [
-        "29,311",
-        null
+        [
+          "Nebraska"
+        ],
+        [
+          "/wiki/Nebraska"
+        ]
+      ],
+      [
+        [
+          "Haymarket Park"
+        ],
+        [
+          "/wiki/Haymarket_Park"
+        ]
+      ],
+      [
+        [
+          "8,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "Milwaukee Milkmen"
+        ],
+        [
+          "/wiki/Milwaukee_Milkmen"
+        ]
       ],
       [
-        "La Joya",
-        "/wiki/La_Joya,_Baja_California"
+        [
+          "North"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tijuana",
-        "/wiki/Tijuana_Municipality"
+        [
+          "Franklin"
+        ],
+        [
+          "/wiki/Franklin,_Milwaukee_County,_Wisconsin"
+        ]
       ],
       [
-        "26,860",
-        null
+        [
+          "Wisconsin"
+        ],
+        [
+          "/wiki/Wisconsin"
+        ]
+      ],
+      [
+        [
+          "Routine Field"
+        ],
+        [
+          "/wiki/Routine_Field"
+        ]
+      ],
+      [
+        [
+          "4,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "Sioux City Explorers"
+        ],
+        [
+          "/wiki/Sioux_City_Explorers"
+        ]
       ],
       [
-        "Ciudad Guadalupe Victoria",
-        "/wiki/Guadalupe_Victoria,_Baja_California"
+        [
+          "South"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mexicali",
-        "/wiki/Mexicali_Municipality"
+        [
+          "Sioux City"
+        ],
+        [
+          "/wiki/Sioux_City,_Iowa"
+        ]
       ],
       [
-        "17,119",
-        null
+        [
+          "Iowa"
+        ],
+        [
+          "/wiki/Iowa"
+        ]
+      ],
+      [
+        [
+          "Lewis and Clark Park"
+        ],
+        [
+          "/wiki/Lewis_and_Clark_Park"
+        ]
+      ],
+      [
+        [
+          "3,631"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "Sioux Falls Canaries"
+        ],
+        [
+          "/wiki/Sioux_Falls_Canaries"
+        ]
       ],
       [
-        "San Felipe",
-        "/wiki/San_Felipe,_Baja_California"
+        [
+          "North"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mexicali",
-        "/wiki/Mexicali_Municipality"
+        [
+          "Sioux Falls"
+        ],
+        [
+          "/wiki/Sioux_Falls,_South_Dakota"
+        ]
       ],
       [
-        "16,702",
-        null
+        [
+          "South Dakota"
+        ],
+        [
+          "/wiki/South_Dakota"
+        ]
+      ],
+      [
+        [
+          "Sioux Falls Stadium"
+        ],
+        [
+          "/wiki/Sioux_Falls_Stadium"
+        ]
+      ],
+      [
+        [
+          "4,500"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "St. Paul Saints"
+        ],
+        [
+          "/wiki/St._Paul_Saints"
+        ]
       ],
       [
-        "Chapultepec",
-        "/wiki/HTTP_404"
+        [
+          "North"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ensenada",
-        "/wiki/Ensenada_Municipality"
+        [
+          "Saint Paul"
+        ],
+        [
+          "/wiki/Saint_Paul,_Minnesota"
+        ]
       ],
       [
-        "7,055",
-        null
+        [
+          "Minnesota"
+        ],
+        [
+          "/wiki/Minnesota"
+        ]
+      ],
+      [
+        [
+          "CHS Field"
+        ],
+        [
+          "/wiki/CHS_Field"
+        ]
+      ],
+      [
+        [
+          "7,210"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "12",
-        null
+        [
+          "Texas AirHogs"
+        ],
+        [
+          "/wiki/Texas_AirHogs"
+        ]
       ],
       [
-        "Puebla",
-        "/wiki/Puebla,_Baja_California"
+        [
+          "South"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mexicali",
-        "/wiki/Mexicali_Municipality"
+        [
+          "Grand Prairie"
+        ],
+        [
+          "/wiki/Grand_Prairie,_Texas"
+        ]
       ],
       [
-        "7,014",
-        null
+        [
+          "Texas"
+        ],
+        [
+          "/wiki/Texas"
+        ]
+      ],
+      [
+        [
+          "AirHogs Stadium"
+        ],
+        [
+          "/wiki/AirHogs_Stadium"
+        ]
+      ],
+      [
+        [
+          "5,445"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "12",
-        null
+        [
+          "Winnipeg Goldeyes"
+        ],
+        [
+          "/wiki/Winnipeg_Goldeyes"
+        ]
       ],
       [
-        "Lomas de Santa Anita",
-        "/wiki/Lomas_de_Santa_Anita,_Baja_California"
+        [
+          "North"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tecate",
-        "/wiki/Tecate_Municipality"
+        [
+          "Winnipeg"
+        ],
+        [
+          "/wiki/Winnipeg"
+        ]
       ],
       [
-        "6,877",
-        null
-      ]
-    ],
-    [
-      [
-        "13",
-        null
+        [
+          "Manitoba"
+        ],
+        [
+          "/wiki/Manitoba"
+        ]
       ],
       [
-        "Ciudad Morelos",
-        "/wiki/HTTP_404"
+        [
+          "Shaw Park"
+        ],
+        [
+          "/wiki/Shaw_Park"
+        ]
       ],
       [
-        "Mexicali",
-        "/wiki/Mexicali_Municipality"
-      ],
-      [
-        "6,814",
-        null
-      ]
-    ],
-    [
-      [
-        "14",
-        null
-      ],
-      [
-        "Nueva Colonia Ejido Hindu",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Tecate",
-        "/wiki/Tecate_Municipality"
-      ],
-      [
-        "6,406",
-        null
-      ]
-    ],
-    [
-      [
-        "15",
-        null
-      ],
-      [
-        "Alberto Oviedo Mota",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Mexicali",
-        "/wiki/Mexicali_Municipality"
-      ],
-      [
-        "5,835",
-        null
-      ]
-    ],
-    [
-      [
-        "16",
-        null
-      ],
-      [
-        "Coahuila City",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Mexicali",
-        "/wiki/Mexicali_Municipality"
-      ],
-      [
-        "5,333",
-        null
-      ]
-    ],
-    [
-      [
-        "17",
-        null
-      ],
-      [
-        "Delta",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Mexicali",
-        "/wiki/Mexicali_Municipality"
-      ],
-      [
-        "5,278",
-        null
-      ]
-    ],
-    [
-      [
-        "18",
-        null
-      ],
-      [
-        "Ejido Hermosillo",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Mexicali",
-        "/wiki/Mexicali_Municipality"
-      ],
-      [
-        "5,082",
-        null
-      ]
-    ],
-    [
-      [
-        "19",
-        null
-      ],
-      [
-        "Progreso",
-        "/wiki/Progreso,_Baja_California"
-      ],
-      [
-        "Mexicali",
-        "/wiki/Mexicali_Municipality"
-      ],
-      [
-        "5,071",
-        null
-      ]
-    ],
-    [
-      [
-        "20",
-        null
-      ],
-      [
-        "San Quintin",
-        "/wiki/San_Quintin,_Baja_California"
-      ],
-      [
-        "Ensenada",
-        "/wiki/Ensenada_Municipality"
-      ],
-      [
-        "5,021",
-        null
+        [
+          "7,561"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

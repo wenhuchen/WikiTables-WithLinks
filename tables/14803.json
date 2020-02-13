@@ -1,369 +1,669 @@
 {
-  "url": "https://en.wikipedia.org/wiki/1989_United_States_Grand_Prix",
-  "title": "1989 United States Grand Prix",
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
   "header": [
     [
-      "Pos",
-      null
+      [
+        "Emulator"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "No",
-      null
+      [
+        "Latest version"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Driver",
-      null
+      [
+        "Released"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Constructor",
-      null
+      [
+        "Guest emulation capabilities"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Time",
-      null
+      [
+        "Host Operating System"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Gap",
-      null
+      [
+        "License"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "STEEm"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "3.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Martin Brundle",
-        "/wiki/Martin_Brundle"
+        [
+          "October 22, 2004"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Brabham,Judd",
-        "/wiki/Brabham /wiki/Judd_(engine)"
+        [
+          "Atari ST"
+        ],
+        [
+          "/wiki/Atari_ST"
+        ]
       ],
       [
-        "1:32.293",
-        null
+        [
+          "Windows, Linux"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\u2014",
-        null
+        [
+          "Open Source"
+        ],
+        [
+          "/wiki/Open-source_software"
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "SainT"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "21",
-        null
+        [
+          "2.40"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Alex Caffi",
-        "/wiki/Alex_Caffi"
+        [
+          "December 12, 2015"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dallara,Ford",
-        "/wiki/Dallara /wiki/Ford_Motor_Company"
+        [
+          "Atari ST"
+        ],
+        [
+          "/wiki/Atari_ST"
+        ]
       ],
       [
-        "1:32.992",
-        null
+        [
+          "Windows"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "+0.699",
-        null
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "Gemulator"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "36",
-        null
+        [
+          "9.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stefan Johansson",
-        "/wiki/Stefan_Johansson"
+        [
+          "November 30, 2008"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Onyx,Ford",
-        "/wiki/Onyx_(racing_team) /wiki/Ford_Motor_Company"
+        [
+          "Atari ST"
+        ],
+        [
+          "/wiki/Atari_ST"
+        ]
       ],
       [
-        "1:33.768",
-        null
+        [
+          "Windows"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "+1.475",
-        null
+        [
+          "Commercial (free)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "Hatari"
+        ],
+        [
+          "/wiki/Hatari_(emulator)"
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "2.1.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stefano Modena",
-        "/wiki/Stefano_Modena"
+        [
+          "February 7, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Brabham,Judd",
-        "/wiki/Brabham /wiki/Judd_(engine)"
+        [
+          "Atari ST",
+          "Atari TT",
+          "Atari Falcon"
+        ],
+        [
+          "/wiki/Atari_ST",
+          "/wiki/Atari_TT",
+          "/wiki/Atari_Falcon"
+        ]
       ],
       [
-        "1:33.924",
-        null
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
       ],
       [
-        "+1.631",
-        null
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "PacifiST"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "18",
-        null
+        [
+          "0.49b"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Piercarlo Ghinzani",
-        "/wiki/Piercarlo_Ghinzani"
+        [
+          "October 18, 2001"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Osella,Ford",
-        "/wiki/Osella /wiki/Ford_Motor_Company"
+        [
+          "Atari ST"
+        ],
+        [
+          "/wiki/Atari_ST"
+        ]
       ],
       [
-        "1:34.281",
-        null
+        [
+          "DOS, Windows"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "+1.988",
-        null
+        [
+          "Giftware"
+        ],
+        [
+          "/wiki/Giftware"
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "STonX"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "32",
-        null
+        [
+          "0.6.7.6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pierre-Henri Raphanel",
-        "/wiki/Pierre-Henri_Raphanel"
+        [
+          "August 15, 2004"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Coloni,Ford",
-        "/wiki/Enzo_Coloni_Racing_Car_Systems /wiki/Ford_Motor_Company"
+        [
+          "Atari ST"
+        ],
+        [
+          "/wiki/Atari_ST"
+        ]
       ],
       [
-        "1.35.110",
-        null
+        [
+          "Unix, DOS, Windows"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "+2.817",
-        null
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "WinSTon"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "33",
-        null
+        [
+          "0.1r2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Gregor Foitek",
-        "/wiki/Gregor_Foitek"
+        [
+          "August 16, 1998"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Euro Brun,Judd",
-        "/wiki/Euro_Brun /wiki/Judd_(engine)"
+        [
+          "Atari ST"
+        ],
+        [
+          "/wiki/Atari_ST"
+        ]
       ],
       [
-        "1:35.805",
-        null
+        [
+          "Windows"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "+3.512",
-        null
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "ARAnyM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "17",
-        null
+        [
+          "1.0.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nicola Larini",
-        "/wiki/Nicola_Larini"
+        [
+          "October 17, 2014"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Osella,Ford",
-        "/wiki/Osella /wiki/Ford_Motor_Company"
+        [
+          "Atari ST",
+          "Atari TT",
+          "Atari Falcon"
+        ],
+        [
+          "/wiki/Atari_ST",
+          "/wiki/Atari_TT",
+          "/wiki/Atari_Falcon"
+        ]
       ],
       [
-        "1:36.470",
-        null
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
       ],
       [
-        "+4.177",
-        null
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "MAME",
+          "MESS"
+        ],
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
       ],
       [
-        "41",
-        null
+        [
+          "0.196"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Joachim Winkelhock",
-        "/wiki/Joachim_Winkelhock"
+        [
+          "March 28, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "AGS,Ford",
-        "/wiki/Automobiles_Gonfaronnaises_Sportives /wiki/Ford_Motor_Company"
+        [
+          "Various computers, consoles, and arcade systems"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:36.498",
-        null
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
       ],
       [
-        "+4.205",
-        null
+        [
+          "New BSD",
+          "GPLv2"
+        ],
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "EstyJs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "39",
-        null
+        [
+          "n/a"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Volker Weidler",
-        "/wiki/Volker_Weidler"
+        [
+          "2013"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rial,Ford",
-        "/wiki/Rial_Racing /wiki/Ford_Motor_Company"
+        [
+          "Atari ST"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:36.583",
-        null
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
       ],
       [
-        "+4.290",
-        null
+        [
+          "Open Source"
+        ],
+        [
+          "/wiki/Open-source_software"
+        ]
       ]
     ],
     [
       [
-        "11",
-        null
+        [
+          "PCE/atarist"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "34",
-        null
+        [
+          "20180323-184b521a"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bernd Schneider",
-        "/wiki/Bernd_Schneider_(racecar_driver)"
+        [
+          "December 18, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Zakspeed,Yamaha",
-        "/wiki/Zakspeed /wiki/Yamaha_Motor_Corporation"
+        [
+          "Atari ST",
+          "Mega ST"
+        ],
+        [
+          "/wiki/Atari_ST",
+          "/wiki/Atari_ST"
+        ]
       ],
       [
-        "1:36.610",
-        null
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
       ],
       [
-        "+4.317",
-        null
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "12",
-        null
+        [
+          "STEEm SSE (Steven Seagal Edition)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "35",
-        null
+        [
+          "3.9.4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Aguri Suzuki",
-        "/wiki/Aguri_Suzuki"
+        [
+          "January 13, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Zakspeed,Yamaha",
-        "/wiki/Zakspeed /wiki/Yamaha_Motor_Corporation"
+        [
+          "Atari ST"
+        ],
+        [
+          "/wiki/Atari_ST"
+        ]
       ],
       [
-        "1:37.776",
-        null
+        [
+          "Windows, Linux"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "+5.483",
-        null
-      ]
-    ],
-    [
-      [
-        "13",
-        null
-      ],
-      [
-        "37",
-        null
-      ],
-      [
-        "Bertrand Gachot",
-        "/wiki/Bertrand_Gachot"
-      ],
-      [
-        "Onyx,Ford",
-        "/wiki/Onyx_(racing_team) /wiki/Ford_Motor_Company"
-      ],
-      [
-        "1:45.530",
-        null
-      ],
-      [
-        "+13.237",
-        null
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ]
   ],

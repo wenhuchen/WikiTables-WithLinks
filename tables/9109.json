@@ -1,173 +1,409 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_MLS_Cup_finals",
-  "title": "List of MLS Cup finals",
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_distributed_file_systems",
+  "title": "Comparison of distributed file systems",
   "header": [
     [
-      "Stadium",
-      null
+      [
+        "Client"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Hosts",
-      null
+      [
+        "Written in"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Years",
-      null
+      [
+        "License"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Access API"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "StubHub Center",
-        "/wiki/StubHub_Center"
+        [
+          "BeeGFS"
+        ],
+        [
+          "/wiki/BeeGFS"
+        ]
       ],
       [
-        "6",
-        null
+        [
+          "C / C++"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2003, 2004, 2008, 2011, 2012, 2014",
-        null
+        [
+          "FRAUNHOFER FS (FhGFS) EULA,\nGPLv2 client"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "POSIX"
+        ],
+        [
+          "/wiki/Posix"
+        ]
       ]
     ],
     [
       [
-        "Robert F. Kennedy Memorial Stadium",
-        "/wiki/Robert_F._Kennedy_Memorial_Stadium"
+        [
+          "ObjectiveFS"
+        ],
+        [
+          "/wiki/ObjectiveFS"
+        ]
       ],
       [
-        "3",
-        null
+        [
+          "C"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1997, 2000, 2007",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "POSIX",
+          "FUSE"
+        ],
+        [
+          "/wiki/Posix",
+          "/wiki/Filesystem_in_Userspace"
+        ]
       ]
     ],
     [
       [
-        "BMO Field",
-        "/wiki/BMO_Field"
+        [
+          "Spectrum Scale (GPFS)"
+        ],
+        [
+          "/wiki/GPFS"
+        ]
       ],
       [
-        "3",
-        null
+        [
+          "C, C++"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2010, 2016, 2017",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "POSIX",
+          "SMB"
+        ],
+        [
+          "/wiki/POSIX",
+          "/wiki/Server_Message_Block"
+        ]
       ]
     ],
     [
       [
-        "Foxboro Stadium",
-        "/wiki/Foxboro_Stadium"
+        [
+          "MapR-FS"
+        ],
+        [
+          "/wiki/MapR_FS"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "C, C++"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1996, 1999",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "POSIX",
+          "NFS",
+          "FUSE",
+          "S3"
+        ],
+        [
+          "/wiki/Posix",
+          "/wiki/Network_File_System",
+          "/wiki/Filesystem_in_Userspace",
+          "/wiki/Amazon_S3"
+        ]
       ]
     ],
     [
       [
-        "MAPFRE Stadium",
-        "/wiki/MAPFRE_Stadium"
+        [
+          "PanFS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "C, C++"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2001, 2015",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "DirectFlow",
+          "POSIX",
+          "NFS",
+          "SMB/CIFS",
+          "HTTP",
+          "CLI"
+        ],
+        [
+          "/wiki/Panasas",
+          "/wiki/POSIX",
+          "/wiki/Network_File_System",
+          "/wiki/Server_Message_Block",
+          "/wiki/Hypertext_Transfer_Protocol",
+          "/wiki/Command-line_interface"
+        ]
       ]
     ],
     [
       [
-        "Pizza Hut Park",
-        "/wiki/Pizza_Hut_Park"
+        [
+          "Infinit"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "C++"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2005, 2006",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "FUSE",
+          "Installable File System",
+          "NFS",
+          "SMB",
+          "POSIX",
+          "CLI",
+          "SDK"
+        ],
+        [
+          "/wiki/Filesystem_in_Userspace",
+          "/wiki/Installable_File_System",
+          "/wiki/Network_File_System",
+          "/wiki/Server_Message_Block",
+          "/wiki/Posix",
+          "/wiki/Command-line_interface",
+          "/wiki/Software_Development_Kit"
+        ]
       ]
     ],
     [
       [
-        "CenturyLink Field",
-        "/wiki/CenturyLink_Field"
+        [
+          "Isilon OneFS"
+        ],
+        [
+          "/wiki/OneFS_distributed_file_system"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "C/C++"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2009, 2019",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "POSIX",
+          "NFS",
+          "SMB/CIFS",
+          "HDFS",
+          "HTTP",
+          "FTP",
+          "CLI"
+        ],
+        [
+          "/wiki/Posix",
+          "/wiki/Network_File_System",
+          "/wiki/SMB/CIFS",
+          "/wiki/HDFS",
+          "/wiki/HTTP",
+          "/wiki/FTP",
+          "/wiki/Command-line_interface"
+        ]
       ]
     ],
     [
       [
-        "Rose Bowl",
-        "/wiki/Rose_Bowl_(stadium)"
+        [
+          "Scality"
+        ],
+        [
+          "/wiki/Scality"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "C"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1998",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "FUSE",
+          "NFS file system",
+          "REST",
+          "AWS S3"
+        ],
+        [
+          "/wiki/Filesystem_in_Userspace",
+          "/wiki/NFS_file_system",
+          "/wiki/Representational_state_transfer",
+          "/wiki/AWS_S3"
+        ]
       ]
     ],
     [
       [
-        "Gillette Stadium",
-        "/wiki/Gillette_Stadium"
+        [
+          "Quobyte"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Java, C++"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2002",
-        null
-      ]
-    ],
-    [
-      [
-        "Sporting Park",
-        "/wiki/Children%27s_Mercy_Park"
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "1",
-        null
-      ],
-      [
-        "2013",
-        null
-      ]
-    ],
-    [
-      [
-        "Mercedes-Benz Stadium",
-        "/wiki/Mercedes-Benz_Stadium"
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "2018",
-        null
+        [
+          "POSIX",
+          "FUSE",
+          "NFS",
+          "SMB/CIFS",
+          "HDFS",
+          "AWS S3",
+          "Tensorflow Plugin",
+          "CLI"
+        ],
+        [
+          "/wiki/Posix",
+          "/wiki/Filesystem_in_Userspace",
+          "/wiki/Network_File_System",
+          "/wiki/SMB/CIFS",
+          "/wiki/HDFS",
+          "/wiki/AWS_S3",
+          "/wiki/Tensorflow",
+          "/wiki/Command-line_interface"
+        ]
       ]
     ]
   ],

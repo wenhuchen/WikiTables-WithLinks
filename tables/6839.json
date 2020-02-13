@@ -1,383 +1,467 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Magyar_Kupa",
-  "title": "Magyar Kupa",
+  "url": "https://en.wikipedia.org/wiki/Blaenplwyf_transmitting_station",
+  "title": "Blaenplwyf transmitting station",
   "header": [
     [
-      "Matches played",
-      null
+      [
+        "Frequency"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "City",
-      null
+      [
+        "UHF"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Stadium",
-      null
+      [
+        "kW"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Last match played",
-      null
+      [
+        "Service"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "System"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "28",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Budapest",
-        "/wiki/Budapest"
+        [
+          "21"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "N\u00e9pstadion,Pusk\u00e1s Ferenc Stadion",
-        "/wiki/N%C3%A9pstadion /wiki/Pusk%C3%A1s_Ferenc_Stadion_(1953)"
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2013\u201314",
-        "/wiki/2013%E2%80%9314_Magyar_Kupa"
+        [
+          "S4C"
+        ],
+        [
+          "/wiki/S4C"
+        ]
+      ],
+      [
+        [
+          "PAL System I"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "18",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Budapest",
-        "/wiki/Budapest"
+        [
+          "22+"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\u00dcll\u0151i \u00fat,Groupama Ar\u00e9na",
-        "/wiki/%C3%9Cll%C5%91i_%C3%BAti_stadion /wiki/Groupama_Ar%C3%A9na"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2017\u201318",
-        "/wiki/2017%E2%80%9318_Magyar_Kupa"
+        [
+          "Digital 3&4"
+        ],
+        [
+          "/wiki/Digital_3%264"
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "14",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Budapest",
-        "/wiki/Budapest"
+        [
+          "24"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hung\u00e1ria k\u00f6r\u00fat,Hidegkuti N\u00e1ndor Stadion",
-        "/wiki/Hung%C3%A1ria_k%C3%B6r%C3%BAti_stadion /wiki/Hidegkuti_N%C3%A1ndor_Stadion_(1947)"
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1996\u201397",
-        "/wiki/1996%E2%80%9397_Magyar_Kupa"
+        [
+          "ITV1 Wales"
+        ],
+        [
+          "/wiki/ITV_Wales_%26_West"
+        ]
+      ],
+      [
+        [
+          "PAL System I"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Budapest",
-        "/wiki/Budapest"
+        [
+          "25+"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bozsik Stadion",
-        "/wiki/Bozsik_Stadion"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2012\u201313",
-        "/wiki/2012%E2%80%9313_Magyar_Kupa"
+        [
+          "SDN"
+        ],
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Budapest",
-        "/wiki/Budapest"
+        [
+          "27"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Millen\u00e1ris Sporttelep",
-        "/wiki/Millen%C3%A1ris_Sporttelep"
+        [
+          "40"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1933\u201334",
-        "/wiki/1933%E2%80%9334_Magyar_Kupa"
+        [
+          "BBC"
+        ],
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Budapest",
-        "/wiki/Budapest"
+        [
+          "29+"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Megyeri \u00fat,Szusza Ferenc Stadion",
-        "/wiki/Megyeri_%C3%BAti_Stadium /wiki/Szusza_Ferenc_Stadion"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2006\u201307",
-        "/wiki/2006%E2%80%9307_Magyar_Kupa"
+        [
+          "Arqiva"
+        ],
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Gy\u0151r",
-        "/wiki/Gy%C5%91r"
+        [
+          "31"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stadion ETO,ETO Park",
-        "/wiki/Stadion_ETO /wiki/ETO_Park"
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2008\u201309",
-        "/wiki/2008%E2%80%9309_Magyar_Kupa"
+        [
+          "BBC One Wales"
+        ],
+        [
+          "/wiki/BBC_One_Wales"
+        ]
+      ],
+      [
+        [
+          "PAL System I"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Budapest",
-        "/wiki/Budapest"
+        [
+          "32+"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sz\u0151nyi \u00fati Stadion",
-        "/wiki/Sz%C5%91nyi_%C3%BAti_Stadion"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1996\u201397",
-        "/wiki/1996%E2%80%9397_Magyar_Kupa"
+        [
+          "BBC (Mux B)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "Sz\u00e9kesfeh\u00e9rv\u00e1r",
-        "/wiki/Sz%C3%A9kesfeh%C3%A9rv%C3%A1r"
+        [
+          "33+"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "S\u00f3st\u00f3i Stadion",
-        "/wiki/S%C3%B3st%C3%B3i_Stadion_(1967)"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2004\u201305",
-        "/wiki/2004%E2%80%9305_Magyar_Kupa"
+        [
+          "Arqiva (Mux D)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "DVB-T"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "MHz"
+        ],
+        [
+          "/wiki/Hertz"
+        ]
       ],
       [
-        "V\u00e1c",
-        "/wiki/V%C3%A1c"
+        [
+          "56"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stadion V\u00e1rosi",
-        "/wiki/Stadion_V%C3%A1rosi_V%C3%A1c"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1998\u201399",
-        "/wiki/1998%E2%80%9399_Magyar_Kupa"
-      ]
-    ],
-    [
-      [
-        "1",
-        null
+        [
+          "Channel 5"
+        ],
+        [
+          "/wiki/Channel_5_(UK)"
+        ]
       ],
       [
-        "B\u00e9k\u00e9scsaba",
-        "/wiki/B%C3%A9k%C3%A9scsaba"
-      ],
-      [
-        "K\u00f3rh\u00e1z utca",
-        "/wiki/Stadion_K%C3%B3rh%C3%A1z_utcai"
-      ],
-      [
-        "1991\u201392",
-        "/wiki/1991%E2%80%9392_Magyar_Kupa"
-      ]
-    ],
-    [
-      [
-        "1",
-        null
-      ],
-      [
-        "Budapest",
-        "/wiki/Budapest"
-      ],
-      [
-        "\u00c9p\u00edt\u0151k stadion",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "1951\u201352",
-        "/wiki/1951%E2%80%9352_Magyar_Kupa"
-      ]
-    ],
-    [
-      [
-        "1",
-        null
-      ],
-      [
-        "Budapest",
-        "/wiki/Budapest"
-      ],
-      [
-        "Post\u00e1s p\u00e1lya",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "1925\u201326",
-        "/wiki/1925%E2%80%9326_Magyar_Kupa"
-      ]
-    ],
-    [
-      [
-        "1",
-        null
-      ],
-      [
-        "Budapest",
-        "/wiki/Budapest"
-      ],
-      [
-        "Illovszky Rudolf Stadion",
-        "/wiki/Illovszky_Rudolf_Stadion_(1960)"
-      ],
-      [
-        "1997\u201398",
-        "/wiki/1997%E2%80%9398_Magyar_Kupa"
-      ]
-    ],
-    [
-      [
-        "1",
-        null
-      ],
-      [
-        "Debrecen",
-        "/wiki/Debrecen"
-      ],
-      [
-        "Ol\u00e1h G\u00e1bor utcai Stadion",
-        "/wiki/Ol%C3%A1h_G%C3%A1bor_utcai_Stadion"
-      ],
-      [
-        "2007\u201308",
-        "/wiki/2007%E2%80%9308_Magyar_Kupa"
-      ]
-    ],
-    [
-      [
-        "1",
-        null
-      ],
-      [
-        "Miskolc",
-        "/wiki/Miskolc"
-      ],
-      [
-        "Di\u00f3sgy\u0151ri Stadion",
-        "/wiki/Di%C3%B3sgy%C5%91ri_Stadion_(1939)"
-      ],
-      [
-        "1990\u201391",
-        "/wiki/1990%E2%80%9391_Magyar_Kupa"
-      ]
-    ],
-    [
-      [
-        "1",
-        null
-      ],
-      [
-        "Szeksz\u00e1rd",
-        "/wiki/Szeksz%C3%A1rd"
-      ],
-      [
-        "Szeksz\u00e1rdi stadion",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "1981\u201382",
-        "/wiki/1981%E2%80%9382_Magyar_Kupa"
-      ]
-    ],
-    [
-      [
-        "1",
-        null
-      ],
-      [
-        "Szeged",
-        "/wiki/Szeged"
-      ],
-      [
-        "Szegedi stadion",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "1980\u201381",
-        "/wiki/1980%E2%80%9381_Magyar_Kupa"
-      ]
-    ],
-    [
-      [
-        "1",
-        null
-      ],
-      [
-        "Szolnok",
-        "/wiki/Szolnok"
-      ],
-      [
-        "Tiszaligeti Stadion",
-        "/wiki/Tiszaligeti_Stadion"
-      ],
-      [
-        "1987\u201388",
-        "/wiki/1987%E2%80%9388_Magyar_Kupa"
-      ]
-    ],
-    [
-      [
-        "1",
-        null
-      ],
-      [
-        "Szombathely",
-        "/wiki/Szombathely"
-      ],
-      [
-        "Rohonci \u00fati Stadion",
-        "/wiki/Rohonci_%C3%BAti_Stadion"
-      ],
-      [
-        "1992\u201393",
-        "/wiki/1992%E2%80%9393_Magyar_Kupa"
+        [
+          "PAL System I"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

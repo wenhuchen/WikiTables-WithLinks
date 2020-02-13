@@ -1,467 +1,291 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Tor_Air",
-  "title": "Tor Air",
+  "url": "https://en.wikipedia.org/wiki/2005_UCI_Asia_Tour",
+  "title": "2005 UCI Asia Tour",
   "header": [
     [
-      "City",
-      null
+      [
+        "Rank"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country",
-      null
+      [
+        "Nation"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "IATA",
-      null
-    ],
-    [
-      "ICAO",
-      null
-    ],
-    [
-      "Airport",
-      null
+      [
+        "Points"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Baghdad",
-        "/wiki/Baghdad"
+        [
+          "1."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Iraq",
-        "/wiki/Iraq"
+        [
+          "Kazakhstan"
+        ],
+        [
+          "/wiki/Kazakhstan"
+        ]
       ],
       [
-        "BGW",
-        null
-      ],
-      [
-        "ORBI",
-        null
-      ],
-      [
-        "Baghdad International Airport",
-        "/wiki/Baghdad_International_Airport"
+        [
+          "1005.28"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Burgas",
-        "/wiki/Burgas"
+        [
+          "2."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bulgaria",
-        "/wiki/Bulgaria"
+        [
+          "Iran"
+        ],
+        [
+          "/wiki/Iran"
+        ]
       ],
       [
-        "BOJ",
-        null
-      ],
-      [
-        "LBBG",
-        null
-      ],
-      [
-        "Burgas Airport",
-        "/wiki/Burgas_Airport"
+        [
+          "874.96"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Chania",
-        "/wiki/Chania"
+        [
+          "3."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Greece",
-        "/wiki/Greece"
+        [
+          "Japan"
+        ],
+        [
+          "/wiki/Japan"
+        ]
       ],
       [
-        "CHQ",
-        null
-      ],
-      [
-        "LGSA",
-        null
-      ],
-      [
-        "Chania International Airport",
-        "/wiki/Chania_International_Airport"
+        [
+          "744"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Cologne,Bonn",
-        "/wiki/Cologne /wiki/Bonn"
+        [
+          "4."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        "/wiki/Germany"
+        [
+          "Uzbekistan"
+        ],
+        [
+          "/wiki/Uzbekistan"
+        ]
       ],
       [
-        "CGN",
-        null
-      ],
-      [
-        "EDDK",
-        null
-      ],
-      [
-        "Cologne Bonn Airport",
-        "/wiki/Cologne_Bonn_Airport"
+        [
+          "618"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Corfu",
-        "/wiki/Corfu"
+        [
+          "5."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Greece",
-        "/wiki/Greece"
+        [
+          "South Korea"
+        ],
+        [
+          "/wiki/South_Korea"
+        ]
       ],
       [
-        "CFU",
-        null
-      ],
-      [
-        "LGKR",
-        null
-      ],
-      [
-        "Corfu International Airport",
-        "/wiki/Corfu_International_Airport"
+        [
+          "143"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Dubrovnik",
-        "/wiki/Dubrovnik"
+        [
+          "6."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Croatia",
-        "/wiki/Croatia"
+        [
+          "Mongolia"
+        ],
+        [
+          "/wiki/Mongolia"
+        ]
       ],
       [
-        "DBV",
-        null
-      ],
-      [
-        "LDDU",
-        null
-      ],
-      [
-        "Dubrovnik Airport",
-        "/wiki/Dubrovnik_Airport"
+        [
+          "127"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Erbil",
-        "/wiki/Erbil"
+        [
+          "7."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Iraq",
-        "/wiki/Iraq"
+        [
+          "Hong Kong"
+        ],
+        [
+          "/wiki/Hong_Kong"
+        ]
       ],
       [
-        "EBL",
-        null
-      ],
-      [
-        "ORER",
-        null
-      ],
-      [
-        "Erbil International Airport",
-        "/wiki/Erbil_International_Airport"
+        [
+          "79"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Faro",
-        "/wiki/Faro,_Portugal"
+        [
+          "8."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Portugal",
-        "/wiki/Portugal"
+        [
+          "Indonesia"
+        ],
+        [
+          "/wiki/Indonesia"
+        ]
       ],
       [
-        "FAO",
-        null
-      ],
-      [
-        "LPFR",
-        null
-      ],
-      [
-        "Faro Airport",
-        "/wiki/Faro_Airport"
+        [
+          "55"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Friedrichshafen",
-        "/wiki/Friedrichshafen"
+        [
+          "9."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Germany",
-        "/wiki/Germany"
+        [
+          "Syria"
+        ],
+        [
+          "/wiki/Syria"
+        ]
       ],
       [
-        "FDH",
-        null
-      ],
-      [
-        "EDNY",
-        null
-      ],
-      [
-        "Friedrichshafen Airport",
-        "/wiki/Friedrichshafen_Airport"
+        [
+          "43"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Gothenburg",
-        "/wiki/Gothenburg"
+        [
+          "10."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sweden",
-        "/wiki/Sweden"
+        [
+          "China"
+        ],
+        [
+          "/wiki/China"
+        ]
       ],
       [
-        "GSE",
-        null
-      ],
-      [
-        "ESGP",
-        null
-      ],
-      [
-        "Gothenburg City Airport",
-        "/wiki/Gothenburg_City_Airport"
-      ]
-    ],
-    [
-      [
-        "Gothenburg",
-        "/wiki/Gothenburg"
-      ],
-      [
-        "Sweden",
-        "/wiki/Sweden"
-      ],
-      [
-        "GOT",
-        null
-      ],
-      [
-        "ESGG",
-        null
-      ],
-      [
-        "G\u00f6teborg Landvetter Airport",
-        "/wiki/G%C3%B6teborg_Landvetter_Airport"
-      ]
-    ],
-    [
-      [
-        "Heraklion",
-        "/wiki/Heraklion"
-      ],
-      [
-        "Greece",
-        "/wiki/Greece"
-      ],
-      [
-        "HER",
-        null
-      ],
-      [
-        "LGIR",
-        null
-      ],
-      [
-        "Heraklion International Airport",
-        "/wiki/Heraklion_International_Airport"
-      ]
-    ],
-    [
-      [
-        "Kalamata",
-        "/wiki/Kalamata"
-      ],
-      [
-        "Greece",
-        "/wiki/Greece"
-      ],
-      [
-        "KLX",
-        null
-      ],
-      [
-        "LGKL",
-        null
-      ],
-      [
-        "Kalamata International Airport",
-        "/wiki/Kalamata_International_Airport"
-      ]
-    ],
-    [
-      [
-        "Kefalonia",
-        "/wiki/Kefalonia"
-      ],
-      [
-        "Greece",
-        "/wiki/Greece"
-      ],
-      [
-        "EFL",
-        null
-      ],
-      [
-        "LGKF",
-        null
-      ],
-      [
-        "Kefalonia Island International Airport",
-        "/wiki/Kefalonia_Island_International_Airport"
-      ]
-    ],
-    [
-      [
-        "Kos",
-        "/wiki/Kos"
-      ],
-      [
-        "Greece",
-        "/wiki/Greece"
-      ],
-      [
-        "KGS",
-        null
-      ],
-      [
-        "LGKO",
-        null
-      ],
-      [
-        "Kos Island International Airport",
-        "/wiki/Kos_Island_International_Airport"
-      ]
-    ],
-    [
-      [
-        "Larnaca",
-        "/wiki/Larnaca"
-      ],
-      [
-        "Cyprus",
-        "/wiki/Cyprus"
-      ],
-      [
-        "LCA",
-        null
-      ],
-      [
-        "LCLK",
-        null
-      ],
-      [
-        "Larnaca International Airport",
-        "/wiki/Larnaca_International_Airport"
-      ]
-    ],
-    [
-      [
-        "Lemnos",
-        "/wiki/Lemnos"
-      ],
-      [
-        "Greece",
-        "/wiki/Greece"
-      ],
-      [
-        "LXS",
-        null
-      ],
-      [
-        "LGLM",
-        null
-      ],
-      [
-        "Lemnos International Airport",
-        "/wiki/Lemnos_International_Airport"
-      ]
-    ],
-    [
-      [
-        "London",
-        "/wiki/London"
-      ],
-      [
-        "United Kingdom",
-        "/wiki/United_Kingdom"
-      ],
-      [
-        "LGW",
-        null
-      ],
-      [
-        "EGKK",
-        null
-      ],
-      [
-        "Gatwick Airport",
-        "/wiki/Gatwick_Airport"
-      ]
-    ],
-    [
-      [
-        "Malm\u00f6",
-        "/wiki/Malm%C3%B6"
-      ],
-      [
-        "Sweden",
-        "/wiki/Sweden"
-      ],
-      [
-        "MMX",
-        null
-      ],
-      [
-        "ESMS",
-        null
-      ],
-      [
-        "Malm\u00f6 Airport",
-        "/wiki/Malm%C3%B6_Airport"
-      ]
-    ],
-    [
-      [
-        "Manchester",
-        "/wiki/Manchester"
-      ],
-      [
-        "United Kingdom",
-        "/wiki/United_Kingdom"
-      ],
-      [
-        "MAN",
-        null
-      ],
-      [
-        "EGCC",
-        null
-      ],
-      [
-        "Manchester Airport",
-        "/wiki/Manchester_Airport"
+        [
+          "41"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

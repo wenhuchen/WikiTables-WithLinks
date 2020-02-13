@@ -1,206 +1,382 @@
 {
-  "url": "https://en.wikipedia.org/wiki/1975_in_film",
-  "title": "1975 in film",
+  "url": "https://en.wikipedia.org/wiki/1988_in_film",
+  "title": "1988 in film",
   "header": [
     [
-      "Rank",
-      null
+      [
+        "Rank"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Title",
-      null
+      [
+        "Title"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Studio",
-      null
+      [
+        "Distributor"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Domestic gross",
-      null
+      [
+        "Domestic gross"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "1."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jaws",
-        "/wiki/Jaws_(film)"
+        [
+          "Rain Man"
+        ],
+        [
+          "/wiki/Rain_Man"
+        ]
       ],
       [
-        "Universal",
-        "/wiki/Universal_Pictures"
+        [
+          "MGM"
+        ],
+        [
+          "/wiki/Metro-Goldwyn-Mayer"
+        ]
       ],
       [
-        "$190,000,000",
-        null
+        [
+          "$172,825,435"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "2."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "The Rocky Horror Picture Show",
-        "/wiki/The_Rocky_Horror_Picture_Show"
+        [
+          "Who Framed Roger Rabbit"
+        ],
+        [
+          "/wiki/Who_Framed_Roger_Rabbit"
+        ]
       ],
       [
-        "20th Century Fox",
-        "/wiki/20th_Century_Fox"
+        [
+          "Disney"
+        ],
+        [
+          "/wiki/Walt_Disney_Studios_Motion_Pictures"
+        ]
       ],
       [
-        "$112,892,319",
-        null
+        [
+          "$156,452,370"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "3."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "One Flew Over the Cuckoo's Nest",
-        "/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film)"
+        [
+          "Coming to America"
+        ],
+        [
+          "/wiki/Coming_to_America"
+        ]
       ],
       [
-        "United Artists",
-        "/wiki/United_Artists"
+        [
+          "Paramount"
+        ],
+        [
+          "/wiki/Paramount_Pictures"
+        ]
       ],
       [
-        "$108,981,275",
-        null
+        [
+          "$128,152,301"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "4."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dog Day Afternoon",
-        "/wiki/Dog_Day_Afternoon"
+        [
+          "Big"
+        ],
+        [
+          "/wiki/Big_(film)"
+        ]
       ],
       [
-        "Warner Bros.",
-        "/wiki/Warner_Bros."
+        [
+          "20th Century Fox"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "$50,000,000",
-        null
+        [
+          "$114,968,774"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "5."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Shampoo",
-        "/wiki/Shampoo_(film)"
+        [
+          "Twins"
+        ],
+        [
+          "/wiki/Twins_(1988_film)"
+        ]
       ],
       [
-        "Columbia",
-        "/wiki/Columbia_Pictures"
+        [
+          "Universal"
+        ],
+        [
+          "/wiki/Universal_Pictures"
+        ]
       ],
       [
-        "$49,407,734",
-        null
+        [
+          "$111,938,388"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "6."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "The Return of the Pink Panther",
-        "/wiki/The_Return_of_the_Pink_Panther"
+        [
+          "Crocodile Dundee II"
+        ],
+        [
+          "/wiki/Crocodile_Dundee_II"
+        ]
       ],
       [
-        "MGM",
-        null
+        [
+          "Paramount"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "$41,833,347",
-        null
+        [
+          "$109,306,210"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "7."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Funny Lady",
-        "/wiki/Funny_Lady"
+        [
+          "Die Hard"
+        ],
+        [
+          "/wiki/Die_Hard"
+        ]
       ],
       [
-        "Columbia",
-        null
+        [
+          "20th Century Fox"
+        ],
+        [
+          "/wiki/20th_Century_Fox"
+        ]
       ],
       [
-        "$39,000,000",
-        null
+        [
+          "$83,008,852"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "8."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "The Apple Dumpling Gang",
-        "/wiki/The_Apple_Dumpling_Gang_(film)"
+        [
+          "The Naked Gun: From the Files of Police Squad!"
+        ],
+        [
+          "/wiki/The_Naked_Gun:_From_the_Files_of_Police_Squad!"
+        ]
       ],
       [
-        "Disney",
-        null
+        [
+          "Paramount"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "$36,853,000",
-        null
+        [
+          "$78,756,177"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "9."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Aloha, Bobby and Rose",
-        "/wiki/Aloha,_Bobby_and_Rose"
+        [
+          "Cocktail"
+        ],
+        [
+          "/wiki/Cocktail_(1988_film)"
+        ]
       ],
       [
-        "Columbia",
-        null
+        [
+          "Disney"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "$35,000,000",
-        null
+        [
+          "$78,222,753"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "10."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "The Other Side of the Mountain",
-        "/wiki/The_Other_Side_of_the_Mountain"
+        [
+          "Beetlejuice"
+        ],
+        [
+          "/wiki/Beetlejuice"
+        ]
       ],
       [
-        "Universal",
-        null
+        [
+          "Warner Bros."
+        ],
+        [
+          "/wiki/Warner_Bros."
+        ]
       ],
       [
-        "$34,673,100",
-        null
+        [
+          "$73,707,461"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "The top ten 1975 released films by box office gross in North America are as follows:",
+  "context": "The top ten films released in 1988 by domestic gross are as follows:",
   "idx": 2668
 }

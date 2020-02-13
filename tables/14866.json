@@ -1,347 +1,515 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Comparison_of_web_frameworks",
-  "title": "Comparison of web frameworks",
+  "url": "https://en.wikipedia.org/wiki/List_of_WestJet_destinations",
+  "title": "List of WestJet destinations",
   "header": [
     [
-      "Project",
-      null
+      [
+        "Country"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Current stable version",
-      null
+      [
+        "Province / State"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Release date",
-      null
+      [
+        "City"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "License",
-      "/wiki/Software_license"
+      [
+        "Airport"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Bottle",
-        "/wiki/Bottle_(web_framework)"
+        [
+          "Bahamas"
+        ],
+        [
+          "/wiki/Bahamas"
+        ]
       ],
       [
-        "0.12.18",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2019-12-01",
-        null
+        [
+          "Freeport"
+        ],
+        [
+          "/wiki/Freeport,_Bahamas"
+        ]
       ],
       [
-        "MIT",
-        "/wiki/MIT_License"
+        [
+          "Grand Bahama International Airport"
+        ],
+        [
+          "/wiki/Grand_Bahama_International_Airport"
+        ]
       ]
     ],
     [
       [
-        "BlueBream",
-        "/wiki/BlueBream"
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ],
       [
-        "1.0",
-        null
+        [
+          "Manitoba"
+        ],
+        [
+          "/wiki/Manitoba"
+        ]
       ],
       [
-        "2011-01-18",
-        null
+        [
+          "Thompson"
+        ],
+        [
+          "/wiki/Thompson,_Manitoba"
+        ]
       ],
       [
-        "ZPL",
-        "/wiki/Zope_Public_License"
+        [
+          "Thompson Airport"
+        ],
+        [
+          "/wiki/Thompson_Airport"
+        ]
       ]
     ],
     [
       [
-        "CherryPy",
-        "/wiki/CherryPy"
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ],
       [
-        "18.5.0",
-        null
+        [
+          "New Brunswick"
+        ],
+        [
+          "/wiki/New_Brunswick"
+        ]
       ],
       [
-        "2019-09-04",
-        null
+        [
+          "Saint John"
+        ],
+        [
+          "/wiki/Saint_John,_New_Brunswick"
+        ]
       ],
       [
-        "BSD",
-        "/wiki/BSD_licenses"
+        [
+          "Saint John Airport"
+        ],
+        [
+          "/wiki/Saint_John_Airport"
+        ]
       ]
     ],
     [
       [
-        "CubicWeb",
-        "/wiki/CubicWeb"
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ],
       [
-        "3.26.4",
-        null
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
       ],
       [
-        "[\u00b1]",
-        "/wiki/HTTP_404"
+        [
+          "Sault Ste. Marie"
+        ],
+        [
+          "/wiki/Sault_Ste._Marie,_Ontario"
+        ]
       ],
       [
-        "LGPL",
-        "/wiki/GNU_Lesser_General_Public_License"
+        [
+          "Sault Ste. Marie Airport"
+        ],
+        [
+          "/wiki/Sault_Ste._Marie_Airport"
+        ]
       ]
     ],
     [
       [
-        "Django",
-        "/wiki/Django_(web_framework)"
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ],
       [
-        "3.0.3",
-        null
+        [
+          "Ontario"
+        ],
+        [
+          "/wiki/Ontario"
+        ]
       ],
       [
-        "2020-02-03",
-        null
+        [
+          "Sudbury"
+        ],
+        [
+          "/wiki/Greater_Sudbury"
+        ]
       ],
       [
-        "BSD",
-        null
+        [
+          "Sudbury Airport"
+        ],
+        [
+          "/wiki/Sudbury_Airport"
+        ]
       ]
     ],
     [
       [
-        "Flask",
-        "/wiki/Flask_(web_framework)"
+        [
+          "Dominican Republic"
+        ],
+        [
+          "/wiki/Dominican_Republic"
+        ]
       ],
       [
-        "1.1.1",
-        null
+        [
+          "La Romana"
+        ],
+        [
+          "/wiki/La_Romana_Province"
+        ]
       ],
       [
-        "2019-07-08",
-        null
+        [
+          "La Romana"
+        ],
+        [
+          "/wiki/La_Romana,_La_Romana"
+        ]
       ],
       [
-        "BSD",
-        null
+        [
+          "La Romana International Airport"
+        ],
+        [
+          "/wiki/La_Romana_International_Airport"
+        ]
       ]
     ],
     [
       [
-        "Google App Engine",
-        "/wiki/Google_App_Engine"
+        [
+          "Mexico"
+        ],
+        [
+          "/wiki/Mexico"
+        ]
       ],
       [
-        "1.9.63",
-        null
+        [
+          "Mexico City"
+        ],
+        [
+          "/wiki/Mexico_City"
+        ]
       ],
       [
-        "2018-02-27",
-        null
+        [
+          "Mexico City"
+        ],
+        [
+          "/wiki/Mexico_City"
+        ]
       ],
       [
-        "LGPL, Proprietary",
-        null
+        [
+          "Mexico City International Airport"
+        ],
+        [
+          "/wiki/Mexico_City_International_Airport"
+        ]
       ]
     ],
     [
       [
-        "Grok",
-        "/wiki/Grok_(web_framework)"
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ],
       [
-        "2.8",
-        null
+        [
+          "Florida"
+        ],
+        [
+          "/wiki/Florida"
+        ]
       ],
       [
-        "2013-02-14",
-        null
+        [
+          "Sarasota"
+        ],
+        [
+          "/wiki/Sarasota"
+        ]
       ],
       [
-        "ZPL",
-        null
+        [
+          "Sarasota-Bradenton International Airport"
+        ],
+        [
+          "/wiki/Sarasota-Bradenton_International_Airport"
+        ]
       ]
     ],
     [
       [
-        "Nagare",
-        "/wiki/Nagare_(web_framework)"
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ],
       [
-        "0.4.1",
-        null
+        [
+          "Florida"
+        ],
+        [
+          "/wiki/Florida"
+        ]
       ],
       [
-        "2012-01-18",
-        null
+        [
+          "West Palm Beach"
+        ],
+        [
+          "/wiki/West_Palm_Beach"
+        ]
       ],
       [
-        "BSD",
-        null
+        [
+          "Palm Beach International Airport"
+        ],
+        [
+          "/wiki/Palm_Beach_International_Airport"
+        ]
       ]
     ],
     [
       [
-        "Pyjs",
-        "/wiki/Pyjs"
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ],
       [
-        "0.8.1a",
-        null
+        [
+          "Illinois"
+        ],
+        [
+          "/wiki/Illinois"
+        ]
       ],
       [
-        "2012-05-06",
-        null
+        [
+          "Chicago"
+        ],
+        [
+          "/wiki/Chicago"
+        ]
       ],
       [
-        "Apache",
-        "/wiki/Apache_License"
+        [
+          "O'Hare International Airport"
+        ],
+        [
+          "/wiki/O%27Hare_International_Airport"
+        ]
       ]
     ],
     [
       [
-        "Pylons",
-        "/wiki/Pylons_Framework"
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ],
       [
-        "1.0.2",
-        null
+        [
+          "Louisiana"
+        ],
+        [
+          "/wiki/Louisiana"
+        ]
       ],
       [
-        "2015-07-21",
-        null
+        [
+          "New Orleans"
+        ],
+        [
+          "/wiki/New_Orleans"
+        ]
       ],
       [
-        "BSD",
-        null
+        [
+          "Louis Armstrong New Orleans International Airport"
+        ],
+        [
+          "/wiki/Louis_Armstrong_New_Orleans_International_Airport"
+        ]
       ]
     ],
     [
       [
-        "Pyramid",
-        "/wiki/Pyramid_(web_framework)"
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ],
       [
-        "1.10.4",
-        null
+        [
+          "New Jersey"
+        ],
+        [
+          "/wiki/New_Jersey"
+        ]
       ],
       [
-        "2019-04-15",
-        null
+        [
+          "Atlantic City"
+        ],
+        [
+          "/wiki/Atlantic_City"
+        ]
       ],
       [
-        "BSD",
-        null
+        [
+          "Atlantic City International Airport"
+        ],
+        [
+          "/wiki/Atlantic_City_International_Airport"
+        ]
       ]
     ],
     [
       [
-        "TACTIC",
-        "/wiki/TACTIC_(web_framework)"
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ],
       [
-        "4.5.0.v01",
-        null
+        [
+          "New Jersey"
+        ],
+        [
+          "/wiki/New_Jersey"
+        ]
       ],
       [
-        "2016-07-14",
-        null
+        [
+          "Newark"
+        ],
+        [
+          "/wiki/Newark,_New_Jersey"
+        ]
       ],
       [
-        "EPL",
-        null
+        [
+          "Newark Liberty International Airport"
+        ],
+        [
+          "/wiki/Newark_Liberty_International_Airport"
+        ]
       ]
     ],
     [
       [
-        "Tornado",
-        "/wiki/Tornado_(web_server)"
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ],
       [
-        "6.0.3",
-        null
+        [
+          "Texas"
+        ],
+        [
+          "/wiki/Texas"
+        ]
       ],
       [
-        "2019-06-22",
-        null
+        [
+          "Dallas"
+        ],
+        [
+          "/wiki/Dallas"
+        ]
       ],
       [
-        "Apache",
-        null
-      ]
-    ],
-    [
-      [
-        "TurboGears",
-        "/wiki/TurboGears"
-      ],
-      [
-        "2.4.1",
-        null
-      ],
-      [
-        "2019-09-03",
-        null
-      ],
-      [
-        "MIT, LGPL",
-        null
-      ]
-    ],
-    [
-      [
-        "web2py",
-        "/wiki/Web2py"
-      ],
-      [
-        "2.18.5",
-        null
-      ],
-      [
-        "2019-04-08",
-        null
-      ],
-      [
-        "LGPL3",
-        "/wiki/GNU_Lesser_General_Public_License"
-      ]
-    ],
-    [
-      [
-        "Webware",
-        "/wiki/Webware_for_Python"
-      ],
-      [
-        "1.1.1",
-        null
-      ],
-      [
-        "2013-01-18",
-        null
-      ],
-      [
-        "Python",
-        "/wiki/Python_License"
-      ]
-    ],
-    [
-      [
-        "Zope 2",
-        "/wiki/Zope_2"
-      ],
-      [
-        "2.13.29",
-        null
-      ],
-      [
-        "2019-02-09",
-        null
-      ],
-      [
-        "ZPL",
-        null
+        [
+          "Dallas/Fort Worth International Airport"
+        ],
+        [
+          "/wiki/Dallas/Fort_Worth_International_Airport"
+        ]
       ]
     ]
   ],

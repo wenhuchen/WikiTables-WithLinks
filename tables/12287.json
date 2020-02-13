@@ -1,203 +1,309 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Slovak_1._Liga",
-  "title": "Slovak 1. Liga",
+  "url": "https://en.wikipedia.org/wiki/Eastern_Bloc_politics",
+  "title": "Eastern Bloc politics",
   "header": [
     [
-      "Team Name",
-      null
+      [
+        "Party"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "City",
-      null
+      [
+        "Country"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Venue",
-      null
-    ],
-    [
-      "Capacity",
-      null
+      [
+        "Notes"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Bratislava Capitals",
-        "/wiki/Bratislava_Capitals"
+        [
+          "Communist Party of the Soviet Union"
+        ],
+        [
+          "/wiki/Communist_Party_of_the_Soviet_Union"
+        ]
       ],
       [
-        "Bratislava",
-        "/wiki/Bratislava"
+        [
+          "Soviet Union"
+        ],
+        [
+          "/wiki/Soviet_Union"
+        ]
       ],
       [
-        "Vladim\u00edr Dzurilla Arena",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "3,500",
-        null
+        [
+          "Russian Revolution",
+          "General Secretaries",
+          "Joseph Stalin",
+          "Nikita Khrushchev",
+          "Leonid Brezhnev"
+        ],
+        [
+          "/wiki/October_Revolution",
+          "/wiki/General_Secretary",
+          "/wiki/Joseph_Stalin",
+          "/wiki/Nikita_Khrushchev",
+          "/wiki/Leonid_Brezhnev"
+        ]
       ]
     ],
     [
       [
-        "HC Topo\u013e\u010dany",
-        "/wiki/HC_Topo%C4%BE%C4%8Dany"
+        [
+          "Socialist Unity Party of Germany"
+        ],
+        [
+          "/wiki/Socialist_Unity_Party_of_Germany"
+        ]
       ],
       [
-        "Topo\u013e\u010dany",
-        "/wiki/Topo%C4%BE%C4%8Dany"
+        [
+          "German Democratic Republic (East Germany)"
+        ],
+        [
+          "/wiki/East_Germany"
+        ]
       ],
       [
-        "Topvar Ar\u00e9na",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "3,400",
-        null
+        [
+          "General Secretaries",
+          "Walter Ulbricht",
+          "Erich Honecker"
+        ],
+        [
+          "/wiki/General_Secretary",
+          "/wiki/Walter_Ulbricht",
+          "/wiki/Erich_Honecker"
+        ]
       ]
     ],
     [
       [
-        "HK Martin",
-        "/wiki/HK_Martin"
+        [
+          "Party of Labour of Albania"
+        ],
+        [
+          "/wiki/Party_of_Labour_of_Albania"
+        ]
       ],
       [
-        "Martin",
-        "/wiki/Martin,_Slovakia"
+        [
+          "People's Socialist Republic of Albania"
+        ],
+        [
+          "/wiki/People%27s_Socialist_Republic_of_Albania"
+        ]
       ],
       [
-        "Martin Ice Stadium",
-        "/wiki/Martin_Ice_Stadium"
-      ],
-      [
-        "4,200",
-        null
+        [
+          "Enver Hoxha",
+          "First Secretary"
+        ],
+        [
+          "/wiki/Enver_Hoxha",
+          "/wiki/General_Secretary"
+        ]
       ]
     ],
     [
       [
-        "HK Skalica",
-        "/wiki/HK_36_Skalica"
+        [
+          "Romanian Communist Party"
+        ],
+        [
+          "/wiki/Romanian_Communist_Party"
+        ]
       ],
       [
-        "Skalica",
-        "/wiki/Skalica"
+        [
+          "People's Republic of Romania"
+        ],
+        [
+          "/wiki/Socialist_Republic_of_Romania"
+        ]
       ],
       [
-        "Skalica Ice Stadium",
-        "/wiki/Skalica_Ice_Stadium"
-      ],
-      [
-        "4,100",
-        null
+        [
+          "General Secretaries",
+          "Gheorghe Gheorghiu-Dej",
+          "Nicolae Ceau\u015fescu"
+        ],
+        [
+          "/wiki/General_Secretary",
+          "/wiki/Gheorghe_Gheorghiu-Dej",
+          "/wiki/Nicolae_Ceau%C5%9Fescu"
+        ]
       ]
     ],
     [
       [
-        "MsHK \u017dilina",
-        "/wiki/MsHK_%C5%BDilina"
+        [
+          "Hungarian Working People's Party"
+        ],
+        [
+          "/wiki/Hungarian_Working_People%27s_Party"
+        ]
       ],
       [
-        "\u017dilina",
-        "/wiki/%C5%BDilina"
+        [
+          "Hungarian People's Republic"
+        ],
+        [
+          "/wiki/Hungarian_People%27s_Republic"
+        ]
       ],
       [
-        "Garmin Arena",
-        "/wiki/Garmin_Arena"
-      ],
-      [
-        "6,200",
-        null
+        [
+          "Hungarian Revolution of 1956",
+          "General Secretaries",
+          "M\u00e1ty\u00e1s R\u00e1kosi",
+          "J\u00e1nos K\u00e1d\u00e1r"
+        ],
+        [
+          "/wiki/Hungarian_Revolution_of_1956",
+          "/wiki/General_Secretary",
+          "/wiki/M%C3%A1ty%C3%A1s_R%C3%A1kosi",
+          "/wiki/J%C3%A1nos_K%C3%A1d%C3%A1r"
+        ]
       ]
     ],
     [
       [
-        "HK 95 Panthers Pova\u017esk\u00e1 Bystrica",
-        "/wiki/HK_95_Panthers_Pova%C5%BEsk%C3%A1_Bystrica"
+        [
+          "Polish United Workers' Party"
+        ],
+        [
+          "/wiki/Polish_United_Workers%27_Party"
+        ]
       ],
       [
-        "Pova\u017esk\u00e1 Bystrica",
-        "/wiki/Pova%C5%BEsk%C3%A1_Bystrica"
+        [
+          "Polish People's Republic"
+        ],
+        [
+          "/wiki/Polish_People%27s_Republic"
+        ]
       ],
       [
-        "Pova\u017esk\u00e1 Bystrica Ice Stadium",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "2,400",
-        null
+        [
+          "General Secretaries",
+          "Boles\u0142aw Bierut",
+          "W\u0142adys\u0142aw Gomu\u0142ka",
+          "Edward Gierek",
+          "Wojciech Jaruzelski"
+        ],
+        [
+          "/wiki/General_Secretary",
+          "/wiki/Boles%C5%82aw_Bierut",
+          "/wiki/W%C5%82adys%C5%82aw_Gomu%C5%82ka",
+          "/wiki/Edward_Gierek",
+          "/wiki/Wojciech_Jaruzelski"
+        ]
       ]
     ],
     [
       [
-        "HK Spi\u0161sk\u00e1 Nov\u00e1 Ves",
-        "/wiki/HK_Spi%C5%A1sk%C3%A1_Nov%C3%A1_Ves"
+        [
+          "Communist Party of Czechoslovakia"
+        ],
+        [
+          "/wiki/Communist_Party_of_Czechoslovakia"
+        ]
       ],
       [
-        "Spi\u0161sk\u00e1 Nov\u00e1 Ves",
-        "/wiki/Spi%C5%A1sk%C3%A1_Nov%C3%A1_Ves"
+        [
+          "Czechoslovak Socialist Republic"
+        ],
+        [
+          "/wiki/Czechoslovak_Socialist_Republic"
+        ]
       ],
       [
-        "Spi\u0161 Ar\u00e9na",
-        "/wiki/Spi%C5%A1_Ar%C3%A9na"
-      ],
-      [
-        "5,458",
-        null
+        [
+          "Klement Gottwald",
+          "First Secretaries",
+          "Anton\u00edn Novotny",
+          "Gust\u00e1v Hus\u00e1k"
+        ],
+        [
+          "/wiki/Klement_Gottwald",
+          "/wiki/General_Secretary",
+          "/wiki/Anton%C3%ADn_Novotny",
+          "/wiki/Gust%C3%A1v_Hus%C3%A1k"
+        ]
       ]
     ],
     [
       [
-        "HK Dubnica",
-        "/wiki/HK_Dubnica"
+        [
+          "Bulgarian Communist Party"
+        ],
+        [
+          "/wiki/Bulgarian_Communist_Party"
+        ]
       ],
       [
-        "Dubnica nad V\u00e1hom",
-        "/wiki/Dubnica_nad_V%C3%A1hom"
+        [
+          "People's Republic of Bulgaria"
+        ],
+        [
+          "/wiki/People%27s_Republic_of_Bulgaria"
+        ]
       ],
       [
-        "Dubnica Ice Stadium",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "3,000",
-        null
+        [
+          "First Secretaries",
+          "Vulko Chervenkov",
+          "Todor Zhivkov"
+        ],
+        [
+          "/wiki/General_Secretary",
+          "/wiki/Vulko_Chervenkov",
+          "/wiki/Todor_Zhivkov"
+        ]
       ]
     ],
     [
       [
-        "HK Trnava",
-        "/wiki/HK_Trnava"
+        [
+          "League of Communists of Yugoslavia"
+        ],
+        [
+          "/wiki/League_of_Communists_of_Yugoslavia"
+        ]
       ],
       [
-        "Trnava",
-        "/wiki/Trnava"
+        [
+          "Socialist Federal Republic of Yugoslavia"
+        ],
+        [
+          "/wiki/Socialist_Federal_Republic_of_Yugoslavia"
+        ]
       ],
       [
-        "Trnava Ice Stadium",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "3,800",
-        null
-      ]
-    ],
-    [
-      [
-        "HK Levice",
-        "/wiki/HK_Levice"
-      ],
-      [
-        "Levice",
-        "/wiki/Levice"
-      ],
-      [
-        "Levice Ice Stadium",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "2,400",
-        null
+        [
+          "General Secretaries",
+          "Josip Broz Tito"
+        ],
+        [
+          "/wiki/General_Secretary",
+          "/wiki/Josip_Broz_Tito"
+        ]
       ]
     ]
   ],

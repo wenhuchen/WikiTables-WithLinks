@@ -1,299 +1,551 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Pacific_Northwest",
-  "title": "Pacific Northwest",
+  "url": "https://en.wikipedia.org/wiki/Cedar_Fair",
+  "title": "Cedar Fair",
   "header": [
     [
-      "City",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "State/Province",
-      null
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Population",
-      null
+      [
+        "Year Opened"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Year Acquired"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Notes"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Seattle",
-        "/wiki/Seattle"
+        [
+          "California's Great America"
+        ],
+        [
+          "/wiki/California%27s_Great_America"
+        ]
       ],
       [
-        "Washington",
-        null
+        [
+          "Santa Clara, California"
+        ],
+        [
+          "/wiki/Santa_Clara,_California"
+        ]
       ],
       [
-        "704,000",
-        null
+        [
+          "1976"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2006"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Paramount Parks deal"
+        ],
+        [
+          "/wiki/Paramount_Parks"
+        ]
       ]
     ],
     [
       [
-        "Portland",
-        "/wiki/Portland,_Oregon"
+        [
+          "Canada's Wonderland"
+        ],
+        [
+          "/wiki/Canada%27s_Wonderland"
+        ]
       ],
       [
-        "Oregon",
-        null
+        [
+          "Vaughan, Ontario"
+        ],
+        [
+          "/wiki/Vaughan"
+        ]
       ],
       [
-        "658,347",
-        null
+        [
+          "1981"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2006"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cedar Fair's most visited seasonal park, acquired in Paramount Parks deal."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Vancouver",
-        "/wiki/Vancouver"
+        [
+          "Carowinds"
+        ],
+        [
+          "/wiki/Carowinds"
+        ]
       ],
       [
-        "British Columbia",
-        null
+        [
+          "Charlotte, North Carolina"
+        ],
+        [
+          "/wiki/Charlotte,_North_Carolina"
+        ]
       ],
       [
-        "631,486",
-        null
+        [
+          "1973"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2006"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Fort Mill, South Carolina"
+        ],
+        [
+          "/wiki/Fort_Mill,_South_Carolina"
+        ]
       ]
     ],
     [
       [
-        "Surrey",
-        "/wiki/Surrey,_British_Columbia"
+        [
+          "Cedar Point"
+        ],
+        [
+          "/wiki/Cedar_Point"
+        ]
       ],
       [
-        "British Columbia",
-        null
+        [
+          "Sandusky, Ohio"
+        ],
+        [
+          "/wiki/Sandusky,_Ohio"
+        ]
       ],
       [
-        "517,887",
-        null
+        [
+          "1870"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Founding Franchise"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cedar Fair's flagship park and the oldest park in the chain. Cedar Fair's corporate headquarters are at this park."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Boise",
-        "/wiki/Boise,_Idaho"
+        [
+          "Dorney Park & Wildwater Kingdom"
+        ],
+        [
+          "/wiki/Dorney_Park_%26_Wildwater_Kingdom"
+        ]
       ],
       [
-        "Idaho",
-        null
+        [
+          "Allentown, Pennsylvania"
+        ],
+        [
+          "/wiki/Allentown,_Pennsylvania"
+        ]
       ],
       [
-        "226,570",
-        null
+        [
+          "1884"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1992"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "First park acquired under the Cedar Fair name, acquired from Harris Weinstein. Purchase price $48M"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Burnaby",
-        "/wiki/Burnaby"
+        [
+          "Gilroy Gardens"
+        ],
+        [
+          "/wiki/Gilroy_Gardens"
+        ]
       ],
       [
-        "British Columbia",
-        null
+        [
+          "Gilroy, California"
+        ],
+        [
+          "/wiki/Gilroy,_California"
+        ]
       ],
       [
-        "223,218",
-        null
+        [
+          "2001"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2006"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Currently in a management contract with Cedar Fair, acquired in Paramount Parks deal."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Spokane",
-        "/wiki/Spokane,_Washington"
+        [
+          "Kings Dominion"
+        ],
+        [
+          "/wiki/Kings_Dominion"
+        ]
       ],
       [
-        "Washington",
-        null
+        [
+          "Doswell, Virginia"
+        ],
+        [
+          "/wiki/Doswell,_Virginia"
+        ]
       ],
       [
-        "210,721",
-        null
+        [
+          "1975"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2006"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Acquired in Paramount Parks deal."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Tacoma",
-        "/wiki/Tacoma,_Washington"
+        [
+          "Kings Island"
+        ],
+        [
+          "/wiki/Kings_Island"
+        ]
       ],
       [
-        "Washington",
-        null
+        [
+          "Mason, Ohio"
+        ],
+        [
+          "/wiki/Mason,_Ohio"
+        ]
       ],
       [
-        "198,397",
-        null
+        [
+          "1972"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2006"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Acquired in Paramount Parks deal."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Richmond",
-        "/wiki/Richmond,_British_Columbia"
+        [
+          "Knott's Berry Farm"
+        ],
+        [
+          "/wiki/Knott%27s_Berry_Farm"
+        ]
       ],
       [
-        "British Columbia",
-        null
+        [
+          "Buena Park, California"
+        ],
+        [
+          "/wiki/Buena_Park,_California"
+        ]
       ],
       [
-        "190,473",
-        null
+        [
+          "1920"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1997"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cedar Fair's only park open year-round. Most visited Cedar Fair park, acquired from Knott Family. Purchase price $300M"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Vancouver",
-        "/wiki/Vancouver,_Washington"
+        [
+          "Michigan's Adventure"
+        ],
+        [
+          "/wiki/Michigan%27s_Adventure"
+        ]
       ],
       [
-        "Washington",
-        null
+        [
+          "Muskegon, Michigan"
+        ],
+        [
+          "/wiki/Muskegon,_Michigan"
+        ]
       ],
       [
-        "175,673",
-        null
+        [
+          "1956"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2001"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Acquired from the Jourden family. Purchase price $28M"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Salem",
-        "/wiki/Salem,_Oregon"
+        [
+          "Valleyfair"
+        ],
+        [
+          "/wiki/Valleyfair"
+        ]
       ],
       [
-        "Oregon",
-        null
+        [
+          "Shakopee, Minnesota"
+        ],
+        [
+          "/wiki/Shakopee,_Minnesota"
+        ]
       ],
       [
-        "169,798",
-        null
+        [
+          "1976"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1978"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Acquired by Cedar Point. Valleyfair and Cedar Point then formed Cedar Fair in 1987."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Eugene",
-        "/wiki/Eugene,_Oregon"
+        [
+          "Worlds of Fun"
+        ],
+        [
+          "/wiki/Worlds_of_Fun"
+        ]
       ],
       [
-        "Oregon",
-        null
+        [
+          "Kansas City, Missouri"
+        ],
+        [
+          "/wiki/Kansas_City,_Missouri"
+        ]
       ],
       [
-        "168,916",
-        null
-      ]
-    ],
-    [
-      [
-        "Bellevue",
-        "/wiki/Bellevue,_Washington"
+        [
+          "1973"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Washington",
-        null
+        [
+          "1995"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "136,420",
-        null
-      ]
-    ],
-    [
-      [
-        "Abbotsford",
-        "/wiki/Abbotsford,_British_Columbia"
-      ],
-      [
-        "British Columbia",
-        null
-      ],
-      [
-        "133,497",
-        null
-      ]
-    ],
-    [
-      [
-        "Coquitlam",
-        "/wiki/Coquitlam"
-      ],
-      [
-        "British Columbia",
-        null
-      ],
-      [
-        "126,456",
-        null
-      ]
-    ],
-    [
-      [
-        "Kent",
-        "/wiki/Kent,_Washington"
-      ],
-      [
-        "Washington",
-        null
-      ],
-      [
-        "125,560",
-        null
-      ]
-    ],
-    [
-      [
-        "Kelowna",
-        "/wiki/Kelowna"
-      ],
-      [
-        "British Columbia",
-        null
-      ],
-      [
-        "127,380",
-        null
-      ]
-    ],
-    [
-      [
-        "Gresham",
-        "/wiki/Gresham,_Oregon"
-      ],
-      [
-        "Oregon",
-        null
-      ],
-      [
-        "111,063",
-        null
-      ]
-    ],
-    [
-      [
-        "Saanich",
-        "/wiki/Saanich,_British_Columbia"
-      ],
-      [
-        "British Columbia",
-        null
-      ],
-      [
-        "109,752",
-        null
-      ]
-    ],
-    [
-      [
-        "Hillsboro",
-        "/wiki/Hillsboro,_Oregon"
-      ],
-      [
-        "Oregon",
-        null
-      ],
-      [
-        "106,894",
-        null
+        [
+          "Acquired from Hunt-Midwest. Purchase price 40M"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

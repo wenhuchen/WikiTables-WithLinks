@@ -1,187 +1,551 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_Long_Island_Rail_Road_stations",
-  "title": "List of Long Island Rail Road stations",
+  "url": "https://en.wikipedia.org/wiki/Amusement_Today",
+  "title": "Amusement Today",
   "header": [
     [
-      "Line",
-      null
+      [
+        "Category"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Stations",
-      null
+      [
+        "2014 Recipient"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Termini",
-      null
+      [
+        "Location/Park"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "City Terminal Zone",
-        "/wiki/City_Terminal_Zone"
+        [
+          "Best New Ride (Amusement Park)"
+        ],
+        [
+          "/wiki/Golden_Ticket_Award_for_Best_New_Ride"
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "Flying Turns"
+        ],
+        [
+          "/wiki/Flying_Turns_(Knoebels)"
+        ]
       ],
       [
-        "Penn Station,Hunterspoint Avenue,Long Island City,Atlantic Terminal,Grand Central Terminal,Jamaica",
-        "/wiki/Pennsylvania_Station_(New_York_City) /wiki/Hunterspoint_Avenue_station_(LIRR) /wiki/Long_Island_City_station /wiki/Atlantic_Terminal /wiki/Grand_Central_Terminal /wiki/Jamaica_station"
+        [
+          "Knoebels Amusement Resort"
+        ],
+        [
+          "/wiki/Knoebels_Amusement_Resort"
+        ]
       ]
     ],
     [
       [
-        "Port Washington Branch",
-        "/wiki/Port_Washington_Branch"
+        [
+          "Best New Ride (Water Park)"
+        ],
+        [
+          "/wiki/Golden_Ticket_Award_for_Best_New_Ride"
+        ]
       ],
       [
-        "13",
-        null
+        [
+          "Verr\u00fcckt"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Woodside,Port Washington",
-        "/wiki/Woodside_station_(LIRR) /wiki/Port_Washington_station"
+        [
+          "Schlitterbahn Kansas City"
+        ],
+        [
+          "/wiki/Schlitterbahn"
+        ]
       ]
     ],
     [
       [
-        "Hempstead Branch",
-        "/wiki/Hempstead_Branch"
+        [
+          "Best Park"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "9",
-        null
+        [
+          "Europa-Park"
+        ],
+        [
+          "/wiki/Europa-Park"
+        ]
       ],
       [
-        "Hollis,Hempstead",
-        "/wiki/Hollis_station /wiki/Rosa_Parks_Hempstead_Transit_Center"
+        [
+          "Rust, Germany"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Oyster Bay Branch",
-        "/wiki/Oyster_Bay_Branch"
+        [
+          "Best Waterpark"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "Schlitterbahn New Braunfels"
+        ],
+        [
+          "/wiki/Schlitterbahn"
+        ]
       ],
       [
-        "East Williston,Oyster Bay",
-        "/wiki/East_Williston_station /wiki/Oyster_Bay_station"
+        [
+          "New Braunfels, Texas"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Port Jefferson Branch",
-        "/wiki/Port_Jefferson_Branch"
+        [
+          "Best Children's Park"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "16",
-        null
+        [
+          "Idlewild and Soak Zone"
+        ],
+        [
+          "/wiki/Idlewild_and_Soak_Zone"
+        ]
       ],
       [
-        "New Hyde Park,Huntington,Port Jefferson",
-        "/wiki/New_Hyde_Park_station /wiki/Huntington_station_(LIRR) /wiki/Port_Jefferson_station_(LIRR)"
+        [
+          "Ligonier, Pennsylvania"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ronkonkoma Branch",
-        "/wiki/Ronkonkoma_Branch"
+        [
+          "Best Marine Life Park"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "14",
-        null
+        [
+          "SeaWorld Orlando"
+        ],
+        [
+          "/wiki/SeaWorld_Orlando"
+        ]
       ],
       [
-        "Bethpage,Ronkonkoma,Greenport",
-        "/wiki/Bethpage_station /wiki/Ronkonkoma_station /wiki/Greenport_station"
+        [
+          "Orlando, Florida"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Belmont Park Branch",
-        "/wiki/Belmont_Park_Branch"
+        [
+          "Best Seaside Park"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Santa Cruz Beach Boardwalk"
+        ],
+        [
+          "/wiki/Santa_Cruz_Beach_Boardwalk"
+        ]
       ],
       [
-        "Belmont Park",
-        "/wiki/Belmont_Park_station"
+        [
+          "Santa Cruz, California"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Far Rockaway Branch",
-        "/wiki/Far_Rockaway_Branch"
+        [
+          "Best Kids\u2019 Area"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "11",
-        null
+        [
+          "Kings Island"
+        ],
+        [
+          "/wiki/Kings_Island"
+        ]
       ],
       [
-        "Locust Manor,Far Rockaway",
-        "/wiki/Locust_Manor_station /wiki/Far_Rockaway_station_(LIRR)"
+        [
+          "Mason, Ohio"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "West Hempstead Branch",
-        "/wiki/West_Hempstead_Branch"
+        [
+          "Cleanest Park"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6",
-        null
+        [
+          "Holiday World & Splashin' Safari"
+        ],
+        [
+          "/wiki/Holiday_World_%26_Splashin%27_Safari"
+        ]
       ],
       [
-        "St. Albans,West Hempstead",
-        "/wiki/St._Albans_station_(LIRR) /wiki/West_Hempstead_station"
+        [
+          "Santa Claus, Indiana"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Long Beach Branch",
-        "/wiki/Long_Beach_Branch"
+        [
+          "Friendliest Park"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6",
-        null
+        [
+          "Dollywood"
+        ],
+        [
+          "/wiki/Dollywood"
+        ]
       ],
       [
-        "Lynbrook,Long Beach",
-        "/wiki/Lynbrook_station /wiki/Long_Beach_station_(LIRR)"
+        [
+          "Pigeon Forge, Tennessee"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Babylon Branch",
-        "/wiki/Babylon_Branch"
+        [
+          "Best Shows"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13",
-        null
+        [
+          "Dollywood"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rockville Centre,Babylon",
-        "/wiki/Rockville_Centre_station /wiki/Babylon_station"
+        [
+          "Pigeon Forge, Tennessee"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Montauk Branch",
-        "/wiki/Montauk_Branch"
+        [
+          "Best Outdoor Show Production"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "16",
-        null
+        [
+          "IllumiNations: Reflections of Earth"
+        ],
+        [
+          "/wiki/IllumiNations:_Reflections_of_Earth"
+        ]
       ],
       [
-        "Bay Shore,Montauk",
-        "/wiki/Bay_Shore_station /wiki/Montauk_station"
+        [
+          "Epcot"
+        ],
+        [
+          "/wiki/Epcot"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Best Landscaping"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Busch Gardens Williamsburg"
+        ],
+        [
+          "/wiki/Busch_Gardens_Williamsburg"
+        ]
+      ],
+      [
+        [
+          "Williamsburg, Virginia"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Best Food"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Dollywood"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Pigeon Forge, Tennessee"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Best Carousel"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Knoebels Amusement Resort"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Elysburg, Pennsylvania"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Best Water Ride (Park)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Dudley Do-Right's Ripsaw Falls"
+        ],
+        [
+          "/wiki/Dudley_Do-Right%27s_Ripsaw_Falls"
+        ]
+      ],
+      [
+        [
+          "Universal's Islands of Adventure"
+        ],
+        [
+          "/wiki/Islands_of_Adventure"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Best Water Park Ride"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Wildebeest"
+        ],
+        [
+          "/wiki/Wildebeest_(ride)"
+        ]
+      ],
+      [
+        [
+          "Holiday World & Splashin' Safari"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Best Dark Ride"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Harry Potter and the Forbidden Journey"
+        ],
+        [
+          "/wiki/Harry_Potter_and_the_Forbidden_Journey"
+        ]
+      ],
+      [
+        [
+          "Universal's Islands of Adventure"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Best Indoor Water Park"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Schlitterbahn Galveston Island"
+        ],
+        [
+          "/wiki/Schlitterbahn"
+        ]
+      ],
+      [
+        [
+          "Galveston, Texas"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Best Indoor Roller Coaster"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Revenge of the Mummy"
+        ],
+        [
+          "/wiki/Revenge_of_the_Mummy"
+        ]
+      ],
+      [
+        [
+          "Universal Studios Florida"
+        ],
+        [
+          "/wiki/Universal_Studios_Florida"
+        ]
       ]
     ]
   ],

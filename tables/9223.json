@@ -1,221 +1,477 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Brazil_at_the_1978_FIFA_World_Cup",
-  "title": "Brazil at the 1978 FIFA World Cup",
+  "url": "https://en.wikipedia.org/wiki/Western_Europe",
+  "title": "Western Europe",
   "header": [
     [
-      "No.",
-      null
+      [
+        "Rank"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Pos.",
-      null
+      [
+        "Country or territory"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Name",
-      null
+      [
+        "Population (most recent estimates)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "MS",
-      null
+      [
+        "Languages"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Capital"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GK",
-        "/wiki/Goalkeeper_(association_football)"
+        [
+          "United Kingdom"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Le\u00e3o",
-        "/wiki/%C3%89merson_Le%C3%A3o"
+        [
+          "66,040,229"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "English"
+        ],
+        [
+          "/wiki/English_language"
+        ]
+      ],
+      [
+        [
+          "London"
+        ],
+        [
+          "/wiki/London"
+        ]
       ]
     ],
     [
       [
-        "16",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "RB",
-        "/wiki/Right_back"
+        [
+          "France (metropolitan)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Neto",
-        "/wiki/Jos%C3%A9_Rodrigues_Neto"
+        [
+          "65,058,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "French"
+        ],
+        [
+          "/wiki/French_language"
+        ]
+      ],
+      [
+        [
+          "Paris"
+        ],
+        [
+          "/wiki/Paris"
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CB",
-        "/wiki/Centre_back"
+        [
+          "Spain"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Oscar",
-        "/wiki/Jos%C3%A9_Oscar_Bernardi"
+        [
+          "46,700,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "Spanish"
+        ],
+        [
+          "/wiki/Spanish_language"
+        ]
+      ],
+      [
+        [
+          "Madrid"
+        ],
+        [
+          "/wiki/Madrid"
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CB",
-        "/wiki/Centre_back"
+        [
+          "Netherlands"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Amaral",
-        "/wiki/Jo%C3%A3o_Justino_Amaral_dos_Santos"
+        [
+          "17,249,632"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "Dutch",
+          "Frisian"
+        ],
+        [
+          "/wiki/Dutch_language",
+          "/wiki/West_Frisian_language"
+        ]
+      ],
+      [
+        [
+          "Amsterdam"
+        ],
+        [
+          "/wiki/Amsterdam"
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LB",
-        "/wiki/Left_back"
+        [
+          "Belgium"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Toninho",
-        "/wiki/Ant%C3%B4nio_Dias_dos_Santos"
+        [
+          "11,420,163"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6",
-        null
+        [
+          "Dutch",
+          "French"
+        ],
+        [
+          "/wiki/Dutch_language",
+          "/wiki/French_language"
+        ]
+      ],
+      [
+        [
+          "Brussels"
+        ],
+        [
+          "/wiki/City_of_Brussels"
+        ]
       ]
     ],
     [
       [
-        "19",
-        null
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "RM",
-        "/wiki/Right_midfielder"
+        [
+          "Portugal"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mendon\u00e7a",
-        "/wiki/Jorge_Mendon%C3%A7a_(footballer,_born_1954)"
+        [
+          "10,291,027"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "Portuguese"
+        ],
+        [
+          "/wiki/Portuguese_language"
+        ]
+      ],
+      [
+        [
+          "Lisbon"
+        ],
+        [
+          "/wiki/Lisbon"
+        ]
       ]
     ],
     [
       [
-        "17",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CM",
-        "/wiki/Centre_midfielder"
+        [
+          "Ireland"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Batista",
-        "/wiki/Jo%C3%A3o_Batista_da_Silva"
+        [
+          "4,857,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "Irish",
+          "English"
+        ],
+        [
+          "/wiki/Irish_language",
+          "/wiki/English_language"
+        ]
+      ],
+      [
+        [
+          "Dublin"
+        ],
+        [
+          "/wiki/Dublin"
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CM",
-        "/wiki/Centre_midfielder"
+        [
+          "Luxembourg"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cerezo",
-        "/wiki/Toninho_Cerezo"
+        [
+          "602,005"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "French",
+          "Luxembourgish",
+          "German"
+        ],
+        [
+          "/wiki/French_language",
+          "/wiki/Luxembourgish",
+          "/wiki/German_language"
+        ]
+      ],
+      [
+        [
+          "Luxembourg City"
+        ],
+        [
+          "/wiki/Luxembourg_City"
+        ]
       ]
     ],
     [
       [
-        "11",
-        null
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LM",
-        "/wiki/Left_midfielder"
+        [
+          "Andorra"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dirceu",
-        "/wiki/Dirceu"
+        [
+          "78,264"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6",
-        null
+        [
+          "Catalan"
+        ],
+        [
+          "/wiki/Catalan_language"
+        ]
+      ],
+      [
+        [
+          "Andorra la Vella"
+        ],
+        [
+          "/wiki/Andorra_la_Vella"
+        ]
       ]
     ],
     [
       [
-        "18",
-        null
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CF",
-        "/wiki/Centre_forward"
+        [
+          "Monaco"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Gil",
-        "/wiki/Gilberto_Alves"
+        [
+          "38,300"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6",
-        null
-      ]
-    ],
-    [
-      [
-        "20",
-        null
+        [
+          "French"
+        ],
+        [
+          "/wiki/French_language"
+        ]
       ],
       [
-        "CF",
-        "/wiki/Centre_forward"
-      ],
-      [
-        "Dinamite",
-        "/wiki/Roberto_Dinamite"
-      ],
-      [
-        "5",
-        null
+        [
+          "Monaco"
+        ],
+        [
+          "/wiki/Monaco"
+        ]
       ]
     ]
   ],

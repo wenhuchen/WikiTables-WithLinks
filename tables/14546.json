@@ -1,470 +1,1180 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_sports_venues_in_Australia",
-  "title": "List of sports venues in Australia",
+  "url": "https://en.wikipedia.org/wiki/List_of_New_York_City_Subway_lines",
+  "title": "List of New York City Subway lines",
   "header": [
     [
-      "Stadium",
-      null
+      [
+        "Division"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "City",
-      null
+      [
+        "Line"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "State",
-      null
+      [
+        "Borough(s)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Capacity",
-      null
+      [
+        "Service(s)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Tenants",
-      null
+      [
+        "Opened"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Structure"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Qudos Bank Arena",
-        "/wiki/Qudos_Bank_Arena"
+        [
+          "B",
+          "IND"
+        ],
+        [
+          "/wiki/B_Division_(New_York_City_Subway)",
+          "/wiki/Independent_Subway_System"
+        ]
       ],
       [
-        "Sydney",
-        "/wiki/Sydney"
+        [
+          "Second Avenue Line"
+        ],
+        [
+          "/wiki/Second_Avenue_Subway"
+        ]
       ],
       [
-        "New South Wales",
-        "/wiki/New_South_Wales"
+        [
+          "Manhattan"
+        ],
+        [
+          "/wiki/Manhattan"
+        ]
       ],
       [
-        "21,032",
-        null
+        [
+          "M",
+          "N",
+          "Q",
+          "R"
+        ],
+        [
+          "/wiki/M_(New_York_City_Subway_service)",
+          "/wiki/N_(New_York_City_Subway_service)",
+          "/wiki/Q_(New_York_City_Subway_service)",
+          "/wiki/R_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Basketball,Sydney Kings,Netball,New South Wales Swifts",
-        "/wiki/Basketball /wiki/Sydney_Kings /wiki/Netball /wiki/New_South_Wales_Swifts"
+        [
+          "January 1, 2017"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Rod Laver Arena",
-        "/wiki/Rod_Laver_Arena"
+        [
+          "B",
+          "BMT"
+        ],
+        [
+          "/wiki/B_Division_(New_York_City_Subway)",
+          "/wiki/Brooklyn%E2%80%93Manhattan_Transit_Corporation"
+        ]
       ],
       [
-        "Melbourne",
-        "/wiki/Melbourne"
+        [
+          "Fourth Avenue Line"
+        ],
+        [
+          "/wiki/BMT_Fourth_Avenue_Line"
+        ]
       ],
       [
-        "Victoria",
-        "/wiki/Victoria_(Australia)"
+        [
+          "Brooklyn"
+        ],
+        [
+          "/wiki/Brooklyn"
+        ]
       ],
       [
-        "16,200",
-        null
+        [
+          "D",
+          "N",
+          "R",
+          "W"
+        ],
+        [
+          "/wiki/D_(New_York_City_Subway_service)",
+          "/wiki/N_(New_York_City_Subway_service)",
+          "/wiki/R_(New_York_City_Subway_service)",
+          "/wiki/W_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Tennis,Australian Open",
-        "/wiki/Tennis /wiki/Australian_Open"
+        [
+          "June 22, 1915"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Perth Arena",
-        "/wiki/Perth_Arena"
+        [
+          "B",
+          "IND"
+        ],
+        [
+          "/wiki/B_Division_(New_York_City_Subway)",
+          "/wiki/Independent_Subway_System"
+        ]
       ],
       [
-        "Perth",
-        "/wiki/Perth"
+        [
+          "Sixth Avenue Line"
+        ],
+        [
+          "/wiki/IND_Sixth_Avenue_Line"
+        ]
       ],
       [
-        "Western Australia",
-        "/wiki/Western_Australia"
+        [
+          "Manhattan",
+          "Brooklyn"
+        ],
+        [
+          "/wiki/Manhattan",
+          "/wiki/Brooklyn"
+        ]
       ],
       [
-        "14,846",
-        null
+        [
+          "B",
+          "D",
+          "F",
+          "<F>",
+          "M"
+        ],
+        [
+          "/wiki/B_(New_York_City_Subway_service)",
+          "/wiki/D_(New_York_City_Subway_service)",
+          "/wiki/F_(New_York_City_Subway_service)",
+          "/wiki/Fd_(New_York_City_Subway_service)",
+          "/wiki/M_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Basketball,Perth Wildcats,Netball,West Coast Fever,Tennis,Hopman Cup",
-        "/wiki/Basketball /wiki/Perth_Wildcats /wiki/Netball /wiki/West_Coast_Fever /wiki/Tennis /wiki/Hopman_Cup"
+        [
+          "January 1936"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Brisbane Entertainment Centre",
-        "/wiki/Brisbane_Entertainment_Centre"
+        [
+          "B",
+          "IND"
+        ],
+        [
+          "/wiki/B_Division_(New_York_City_Subway)",
+          "/wiki/Independent_Subway_System"
+        ]
       ],
       [
-        "Brisbane",
-        "/wiki/Brisbane"
+        [
+          "Eighth Avenue Line"
+        ],
+        [
+          "/wiki/IND_Eighth_Avenue_Line"
+        ]
       ],
       [
-        "Queensland",
-        "/wiki/Queensland"
+        [
+          "Manhattan",
+          "Brooklyn"
+        ],
+        [
+          "/wiki/Manhattan",
+          "/wiki/Brooklyn"
+        ]
       ],
       [
-        "14,500",
-        null
+        [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        [
+          "/wiki/A_(New_York_City_Subway_service)",
+          "/wiki/B_(New_York_City_Subway_service)",
+          "/wiki/C_(New_York_City_Subway_service)",
+          "/wiki/D_(New_York_City_Subway_service)",
+          "/wiki/E_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Basketball,Brisbane Bullets",
-        "/wiki/Basketball /wiki/Brisbane_Bullets"
+        [
+          "September 10, 1932"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Adelaide Entertainment Centre",
-        "/wiki/Adelaide_Entertainment_Centre"
+        [
+          "A",
+          "IRT"
+        ],
+        [
+          "/wiki/A_Division_(New_York_City_Subway)",
+          "/wiki/Interborough_Rapid_Transit_Company"
+        ]
       ],
       [
-        "Adelaide",
-        "/wiki/Adelaide"
+        [
+          "42nd Street Shuttle"
+        ],
+        [
+          "/wiki/42nd_Street_Shuttle"
+        ]
       ],
       [
-        "South Australia",
-        "/wiki/South_Australia"
+        [
+          "Manhattan"
+        ],
+        [
+          "/wiki/Manhattan"
+        ]
       ],
       [
-        "12,000",
-        null
+        [
+          "S"
+        ],
+        [
+          "/wiki/42nd_Street_Shuttle"
+        ]
       ],
       [
-        "Netball,Australia Netball Diamonds",
-        "/wiki/Netball /wiki/Australia_national_netball_team"
+        [
+          "October 27, 1904"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Hisense Arena",
-        "/wiki/Melbourne_Park_Multi-Purpose_Venue"
+        [
+          "B",
+          "BMT"
+        ],
+        [
+          "/wiki/B_Division_(New_York_City_Subway)",
+          "/wiki/Brooklyn%E2%80%93Manhattan_Transit_Corporation"
+        ]
       ],
       [
-        "Melbourne",
-        "/wiki/Melbourne"
+        [
+          "63rd Street Line"
+        ],
+        [
+          "/wiki/BMT_63rd_Street_Line"
+        ]
       ],
       [
-        "Victoria",
-        "/wiki/Victoria_(Australia)"
+        [
+          "Manhattan"
+        ],
+        [
+          "/wiki/Manhattan"
+        ]
       ],
       [
-        "10,500",
-        null
+        [
+          "N",
+          "Q",
+          "R"
+        ],
+        [
+          "/wiki/N_(New_York_City_Subway_service)",
+          "/wiki/Q_(New_York_City_Subway_service)",
+          "/wiki/R_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Basketball,Melbourne United,Netball,Melbourne Vixens,Tennis,Australian Open",
-        "/wiki/Basketball /wiki/Melbourne_United /wiki/Netball /wiki/Melbourne_Vixens /wiki/Tennis /wiki/Australian_Open"
+        [
+          "October 29, 1989"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Titanium Security Arena",
-        "/wiki/Titanium_Security_Arena"
+        [
+          "B",
+          "IND"
+        ],
+        [
+          "/wiki/B_Division_(New_York_City_Subway)",
+          "/wiki/Independent_Subway_System"
+        ]
       ],
       [
-        "Adelaide",
-        "/wiki/Adelaide"
+        [
+          "63rd Street Line"
+        ],
+        [
+          "/wiki/IND_63rd_Street_Line"
+        ]
       ],
       [
-        "South Australia",
-        "/wiki/South_Australia"
+        [
+          "Manhattan",
+          "Queens"
+        ],
+        [
+          "/wiki/Manhattan",
+          "/wiki/Queens"
+        ]
       ],
       [
-        "8,000",
-        null
+        [
+          "F",
+          "<F>"
+        ],
+        [
+          "/wiki/F_(New_York_City_Subway_service)",
+          "/wiki/Fd_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Basketball,Adelaide 36ers,Basketball,Adelaide Lightning,Netball,Adelaide Thunderbirds",
-        "/wiki/Basketball /wiki/Adelaide_36ers /wiki/Basketball /wiki/Adelaide_Lightning /wiki/Netball /wiki/Adelaide_Thunderbirds"
+        [
+          "October 29, 1989"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Margaret Court Arena",
-        "/wiki/Margaret_Court_Arena"
+        [
+          "B",
+          "BMT"
+        ],
+        [
+          "/wiki/B_Division_(New_York_City_Subway)",
+          "/wiki/Brooklyn%E2%80%93Manhattan_Transit_Corporation"
+        ]
       ],
       [
-        "Melbourne",
-        "/wiki/Melbourne"
+        [
+          "Archer Avenue Line"
+        ],
+        [
+          "/wiki/BMT_Archer_Avenue_Line"
+        ]
       ],
       [
-        "Victoria",
-        "/wiki/Victoria_(Australia)"
+        [
+          "Queens"
+        ],
+        [
+          "/wiki/Queens"
+        ]
       ],
       [
-        "7,500",
-        null
+        [
+          "J",
+          "Z"
+        ],
+        [
+          "/wiki/J_(New_York_City_Subway_service)",
+          "/wiki/Z_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Netball,Melbourne Vixens,Tennis,Australian Open",
-        "/wiki/Netball /wiki/Melbourne_Vixens /wiki/Tennis /wiki/Australian_Open"
+        [
+          "December 11, 1988"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Pat Rafter Arena",
-        "/wiki/Pat_Rafter_Arena"
+        [
+          "B",
+          "IND"
+        ],
+        [
+          "/wiki/B_Division_(New_York_City_Subway)",
+          "/wiki/Independent_Subway_System"
+        ]
       ],
       [
-        "Brisbane",
-        "/wiki/Brisbane"
+        [
+          "Archer Avenue Line"
+        ],
+        [
+          "/wiki/IND_Archer_Avenue_Line"
+        ]
       ],
       [
-        "Queensland",
-        "/wiki/Queensland"
+        [
+          "Queens"
+        ],
+        [
+          "/wiki/Queens"
+        ]
       ],
       [
-        "7,000",
-        null
+        [
+          "E"
+        ],
+        [
+          "/wiki/E_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Tennis,Brisbane International",
-        "/wiki/Tennis /wiki/Brisbane_International"
+        [
+          "December 11, 1988"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Icehouse",
-        "/wiki/Icehouse_(arena)"
+        [
+          "B",
+          "BMT"
+        ],
+        [
+          "/wiki/B_Division_(New_York_City_Subway)",
+          "/wiki/Brooklyn%E2%80%93Manhattan_Transit_Corporation"
+        ]
       ],
       [
-        "Melbourne",
-        "/wiki/Melbourne"
+        [
+          "Astoria Line"
+        ],
+        [
+          "/wiki/BMT_Astoria_Line"
+        ]
       ],
       [
-        "Victoria",
-        "/wiki/Victoria_(Australia)"
+        [
+          "Queens"
+        ],
+        [
+          "/wiki/Queens"
+        ]
       ],
       [
-        "6,500",
-        null
+        [
+          "N",
+          "W"
+        ],
+        [
+          "/wiki/N_(New_York_City_Subway_service)",
+          "/wiki/W_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Ice Hockey,Melbourne Ice,Ice Hockey,Melbourne Mustangs",
-        "/wiki/Ice_Hockey /wiki/Melbourne_Ice /wiki/Ice_Hockey /wiki/Melbourne_Mustangs"
+        [
+          "April 21, 1917"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "elevated"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "WIN Entertainment Centre",
-        "/wiki/WIN_Entertainment_Centre"
+        [
+          "B",
+          "BMT"
+        ],
+        [
+          "/wiki/B_Division_(New_York_City_Subway)",
+          "/wiki/Brooklyn%E2%80%93Manhattan_Transit_Corporation"
+        ]
       ],
       [
-        "Wollongong",
-        "/wiki/Wollongong"
+        [
+          "Brighton Line"
+        ],
+        [
+          "/wiki/BMT_Brighton_Line"
+        ]
       ],
       [
-        "New South Wales",
-        "/wiki/New_South_Wales"
+        [
+          "Brooklyn"
+        ],
+        [
+          "/wiki/Brooklyn"
+        ]
       ],
       [
-        "6,000",
-        null
+        [
+          "B",
+          "Q"
+        ],
+        [
+          "/wiki/B_(New_York_City_Subway_service)",
+          "/wiki/Q_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Basketball,Illawarra Hawks",
-        "/wiki/Basketball /wiki/Illawarra_Hawks"
+        [
+          "July 2, 1878"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground, open cut, embankment, elevated"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Gold Coast Convention and Exhibition Centre",
-        "/wiki/Gold_Coast_Convention_and_Exhibition_Centre"
+        [
+          "B",
+          "BMT"
+        ],
+        [
+          "/wiki/B_Division_(New_York_City_Subway)",
+          "/wiki/Brooklyn%E2%80%93Manhattan_Transit_Corporation"
+        ]
       ],
       [
-        "Gold Coast",
-        "/wiki/Gold_Coast,_Queensland"
+        [
+          "Broadway Line"
+        ],
+        [
+          "/wiki/BMT_Broadway_Line"
+        ]
       ],
       [
-        "Queensland",
-        "/wiki/Queensland"
+        [
+          "Manhattan"
+        ],
+        [
+          "/wiki/Manhattan"
+        ]
       ],
       [
-        "6,000",
-        null
+        [
+          "N",
+          "Q",
+          "R",
+          "W"
+        ],
+        [
+          "/wiki/N_(New_York_City_Subway_service)",
+          "/wiki/Q_(New_York_City_Subway_service)",
+          "/wiki/R_(New_York_City_Subway_service)",
+          "/wiki/W_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Netball,Queensland Firebirds",
-        "/wiki/Netball /wiki/Queensland_Firebirds"
+        [
+          "September 4, 1917"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Cairns Convention Centre",
-        "/wiki/Cairns_Convention_Centre"
+        [
+          "A",
+          "IRT"
+        ],
+        [
+          "/wiki/A_Division_(New_York_City_Subway)",
+          "/wiki/Interborough_Rapid_Transit_Company"
+        ]
       ],
       [
-        "Cairns",
-        "/wiki/Cairns"
+        [
+          "Broadway\u2013Seventh Avenue Line"
+        ],
+        [
+          "/wiki/IRT_Broadway%E2%80%93Seventh_Avenue_Line"
+        ]
       ],
       [
-        "Queensland",
-        "/wiki/Queensland"
+        [
+          "Bronx",
+          "Manhattan",
+          "Brooklyn"
+        ],
+        [
+          "/wiki/The_Bronx",
+          "/wiki/Manhattan",
+          "/wiki/Brooklyn"
+        ]
       ],
       [
-        "5,300",
-        null
+        [
+          "1",
+          "2",
+          "3"
+        ],
+        [
+          "/wiki/1_(New_York_City_Subway_service)",
+          "/wiki/2_(New_York_City_Subway_service)",
+          "/wiki/3_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Basketball,Cairns Taipans",
-        "/wiki/Basketball /wiki/Cairns_Taipans"
+        [
+          "October 27, 1904"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "elevated, embankment, underground"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "AIS Arena",
-        "/wiki/AIS_Arena"
+        [
+          "B",
+          "BMT"
+        ],
+        [
+          "/wiki/B_Division_(New_York_City_Subway)",
+          "/wiki/Brooklyn%E2%80%93Manhattan_Transit_Corporation"
+        ]
       ],
       [
-        "Canberra",
-        "/wiki/Canberra"
+        [
+          "Canarsie Line"
+        ],
+        [
+          "/wiki/BMT_Canarsie_Line"
+        ]
       ],
       [
-        "Australian Capital Territory",
-        "/wiki/Australian_Capital_Territory"
+        [
+          "Manhattan",
+          "Brooklyn"
+        ],
+        [
+          "/wiki/Manhattan",
+          "/wiki/Brooklyn"
+        ]
       ],
       [
-        "5,200",
-        null
+        [
+          "L"
+        ],
+        [
+          "/wiki/L_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Basketball,Canberra Capitals",
-        "/wiki/Basketball /wiki/University_of_Canberra_Capitals"
+        [
+          "October 21, 1865"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground, elevated, at-grade"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "State Sports Centre",
-        "/wiki/State_Sports_Centre"
+        [
+          "B",
+          "IND"
+        ],
+        [
+          "/wiki/B_Division_(New_York_City_Subway)",
+          "/wiki/Independent_Subway_System"
+        ]
       ],
       [
-        "Sydney",
-        "/wiki/Sydney"
+        [
+          "Concourse Line"
+        ],
+        [
+          "/wiki/IND_Concourse_Line"
+        ]
       ],
       [
-        "New South Wales",
-        "/wiki/New_South_Wales"
+        [
+          "Bronx",
+          "Manhattan"
+        ],
+        [
+          "/wiki/The_Bronx",
+          "/wiki/Manhattan"
+        ]
       ],
       [
-        "5,006",
-        null
+        [
+          "B",
+          "D"
+        ],
+        [
+          "/wiki/B_(New_York_City_Subway_service)",
+          "/wiki/D_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Netball,New South Wales Swifts",
-        "/wiki/Netball /wiki/New_South_Wales_Swifts"
+        [
+          "July 1, 1933"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "HBF Stadium",
-        "/wiki/HBF_Stadium"
+        [
+          "B",
+          "IND"
+        ],
+        [
+          "/wiki/B_Division_(New_York_City_Subway)",
+          "/wiki/Independent_Subway_System"
+        ]
       ],
       [
-        "Perth",
-        "/wiki/Perth"
+        [
+          "Crosstown Line"
+        ],
+        [
+          "/wiki/IND_Crosstown_Line"
+        ]
       ],
       [
-        "Western Australia",
-        "/wiki/Western_Australia"
+        [
+          "Brooklyn",
+          "Queens"
+        ],
+        [
+          "/wiki/Brooklyn",
+          "/wiki/Queens"
+        ]
       ],
       [
-        "4,500",
-        null
+        [
+          "G"
+        ],
+        [
+          "/wiki/G_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Netball,West Coast Fever",
-        "/wiki/Netball /wiki/West_Coast_Fever"
+        [
+          "August 19, 1933"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Brisbane Convention & Exhibition Centre",
-        "/wiki/Brisbane_Convention_%26_Exhibition_Centre"
+        [
+          "B",
+          "IND"
+        ],
+        [
+          "/wiki/B_Division_(New_York_City_Subway)",
+          "/wiki/Independent_Subway_System"
+        ]
       ],
       [
-        "Brisbane",
-        "/wiki/Brisbane"
+        [
+          "Culver Line"
+        ],
+        [
+          "/wiki/IND_Culver_Line"
+        ]
       ],
       [
-        "Queensland",
-        "/wiki/Queensland"
+        [
+          "Brooklyn"
+        ],
+        [
+          "/wiki/Brooklyn"
+        ]
       ],
       [
-        "4,000",
-        null
+        [
+          "F",
+          "<F>",
+          "G"
+        ],
+        [
+          "/wiki/F_(New_York_City_Subway_service)",
+          "/wiki/Fd_(New_York_City_Subway_service)",
+          "/wiki/G_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Basketball,Brisbane Bullets,Netball,Queensland Firebirds",
-        "/wiki/Basketball /wiki/Brisbane_Bullets /wiki/Netball /wiki/Queensland_Firebirds"
+        [
+          "March 16, 1919"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground, elevated"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "State Netball and Hockey Centre",
-        "/wiki/State_Netball_and_Hockey_Centre"
+        [
+          "A",
+          "IRT"
+        ],
+        [
+          "/wiki/A_Division_(New_York_City_Subway)",
+          "/wiki/Interborough_Rapid_Transit_Company"
+        ]
       ],
       [
-        "Melbourne",
-        "/wiki/Melbourne"
+        [
+          "Dyre Avenue Line"
+        ],
+        [
+          "/wiki/IRT_Dyre_Avenue_Line"
+        ]
       ],
       [
-        "Victoria",
-        "/wiki/Victoria_(Australia)"
+        [
+          "Bronx"
+        ],
+        [
+          "/wiki/The_Bronx"
+        ]
       ],
       [
-        "3,500",
-        null
+        [
+          "5"
+        ],
+        [
+          "/wiki/5_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Basketball,Melbourne United",
-        "/wiki/Basketball /wiki/Melbourne_United"
+        [
+          "May 15, 1941"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "elevated, embankment, open-cut, underground"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Priceline Stadium",
-        "/wiki/Priceline_Stadium"
+        [
+          "A",
+          "IRT"
+        ],
+        [
+          "/wiki/A_Division_(New_York_City_Subway)",
+          "/wiki/Interborough_Rapid_Transit_Company"
+        ]
       ],
       [
-        "Adelaide",
-        "/wiki/Adelaide"
+        [
+          "Eastern Parkway Line"
+        ],
+        [
+          "/wiki/IRT_Eastern_Parkway_Line"
+        ]
       ],
       [
-        "South Australia",
-        "/wiki/South_Australia"
+        [
+          "Brooklyn"
+        ],
+        [
+          "/wiki/Brooklyn"
+        ]
       ],
       [
-        "3,200",
-        null
+        [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        [
+          "/wiki/2_(New_York_City_Subway_service)",
+          "/wiki/3_(New_York_City_Subway_service)",
+          "/wiki/4_(New_York_City_Subway_service)",
+          "/wiki/5_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Netball,Adelaide Thunderbirds",
-        "/wiki/Netball /wiki/Adelaide_Thunderbirds"
+        [
+          "January 9, 1908"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "State Basketball Centre",
-        "/wiki/State_Basketball_Centre"
+        [
+          "A",
+          "IRT"
+        ],
+        [
+          "/wiki/A_Division_(New_York_City_Subway)",
+          "/wiki/Interborough_Rapid_Transit_Company"
+        ]
       ],
       [
-        "Melbourne",
-        "/wiki/Melbourne"
+        [
+          "Flushing Line"
+        ],
+        [
+          "/wiki/IRT_Flushing_Line"
+        ]
       ],
       [
-        "Victoria",
-        "/wiki/Victoria_(Australia)"
+        [
+          "Manhattan",
+          "Queens"
+        ],
+        [
+          "/wiki/Manhattan",
+          "/wiki/Queens"
+        ]
       ],
       [
-        "3,200",
-        null
+        [
+          "7",
+          "<7>"
+        ],
+        [
+          "/wiki/7_(New_York_City_Subway_service)",
+          "/wiki/7d_(New_York_City_Subway_service)"
+        ]
       ],
       [
-        "Basketball,Melbourne Boomers",
-        "/wiki/Basketball /wiki/Melbourne_Boomers"
+        [
+          "June 22, 1915"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "underground, elevated"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "In the list below, lines with colors next to them indicate trunk lines, which determine the colors that are used for services' route bullets and diamonds, as well as shuttle service lines. The opening date refers to the opening of the first section of track for the line. In the \"division\" column, the current division is followed by the original division in parentheses.",
   "idx": 14546
 }

@@ -1,243 +1,721 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Ranked_lists_of_Chilean_regions",
-  "title": "Ranked lists of Chilean regions",
+  "url": "https://en.wikipedia.org/wiki/List_of_Lego_themes",
+  "title": "List of Lego themes",
   "header": [
     [
-      "Region",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Gini coefficient(per capita income)",
-      null
+      [
+        "Subject"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Gini coefficient(equivalised income)",
-      null
+      [
+        "Licensed"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Produced"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Arica and Parinacota",
-        "/wiki/Arica_and_Parinacota_Region"
+        [
+          "Lego Architecture"
+        ],
+        [
+          "/wiki/Lego_Architecture"
+        ]
       ],
       [
-        "0.385",
-        null
+        [
+          "Buildings"
+        ],
+        [
+          "/wiki/Buildings"
+        ]
       ],
       [
-        "0.350",
-        null
+        [
+          "Various"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2008\u2013present"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Tarapac\u00e1",
-        "/wiki/Tarapac%C3%A1_Region"
+        [
+          "Lego Boost"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.415",
-        null
+        [
+          "Robotics"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.392",
-        null
+        [
+          "Lego"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2017\u2013present"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Antofagasta",
-        "/wiki/Antofagasta_Region"
+        [
+          "Lego BrickHeadz"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.417",
-        null
+        [
+          "Buildable characters"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.382",
-        null
+        [
+          "Various"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2016\u2013present"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Atacama",
-        "/wiki/Atacama_Region"
+        [
+          "Lego City"
+        ],
+        [
+          "/wiki/Lego_City"
+        ]
       ],
       [
-        "0.388",
-        null
+        [
+          "City life"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.349",
-        null
+        [
+          "Lego"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1972\u2013present"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Coquimbo",
-        "/wiki/Coquimbo_Region"
+        [
+          "Lego Classic"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.390",
-        null
+        [
+          "Assorted Bricks"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.369",
-        null
+        [
+          "Lego"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2015\u2013present"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Valpara\u00edso",
-        "/wiki/Valpara%C3%ADso_Region"
+        [
+          "Lego Creator"
+        ],
+        [
+          "/wiki/Lego_Creator"
+        ]
       ],
       [
-        "0.435",
-        null
+        [
+          "Models using few specialized bricks"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.410",
-        null
+        [
+          "Lego"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2003\u2013present"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Santiago",
-        "/wiki/Santiago_Metropolitan_Region"
+        [
+          "Lego Disney Princess"
+        ],
+        [
+          "/wiki/Lego_Disney_Princess"
+        ]
       ],
       [
-        "0.489",
-        null
+        [
+          "Disney Princess"
+        ],
+        [
+          "/wiki/Disney_Princess"
+        ]
       ],
       [
-        "0.456",
-        null
+        [
+          "Disney"
+        ],
+        [
+          "/wiki/Disney"
+        ]
+      ],
+      [
+        [
+          "2012\u2013present"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "O'Higgins",
-        "/wiki/O%27Higgins_Region"
+        [
+          "Lego DOTS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.397",
-        null
+        [
+          "Arts and Crafts"
+        ],
+        [
+          "/wiki/Handicraft"
+        ]
       ],
       [
-        "0.372",
-        null
+        [
+          "Lego"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2020\u2013"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Maule",
-        "/wiki/Maule_Region"
+        [
+          "Lego Duplo"
+        ],
+        [
+          "/wiki/Lego_Duplo"
+        ]
       ],
       [
-        "0.403",
-        null
+        [
+          "Duplo"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.377",
-        null
+        [
+          "Lego, Various"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1969\u2013present"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Biob\u00edo",
-        "/wiki/Biob%C3%ADo_Region"
+        [
+          "Lego Friends"
+        ],
+        [
+          "/wiki/Lego_Friends"
+        ]
       ],
       [
-        "0.400",
-        null
+        [
+          "Friends"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.375",
-        null
+        [
+          "Lego"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2012\u2013present"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Araucan\u00eda",
-        "/wiki/Araucan%C3%ADa_Region"
+        [
+          "Lego Hidden Side"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.432",
-        null
+        [
+          "Mystery solving with interactive augmented reality"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.414",
-        null
+        [
+          "Lego"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2019\u2013present"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Los R\u00edos",
-        "/wiki/Los_R%C3%ADos_Region"
+        [
+          "Lego Ideas"
+        ],
+        [
+          "/wiki/Lego_Ideas"
+        ]
       ],
       [
-        "0.427",
-        null
+        [
+          "Community Supported Builds"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.403",
-        null
+        [
+          "Various"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2008\u2013present"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Los Lagos",
-        "/wiki/Los_Lagos_Region"
+        [
+          "Lego Juniors"
+        ],
+        [
+          "/wiki/Lego_Juniors"
+        ]
       ],
       [
-        "0.423",
-        null
+        [
+          "Easy to build"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.399",
-        null
+        [
+          "Lego, Various"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2014\u2013present"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ais\u00e9n",
-        "/wiki/Ais%C3%A9n_Region"
+        [
+          "Lego Jurassic World"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.428",
-        null
+        [
+          "Jurassic Park"
+        ],
+        [
+          "/wiki/Jurassic_Park"
+        ]
       ],
       [
-        "0.392",
-        null
+        [
+          "Universal Studios"
+        ],
+        [
+          "/wiki/Universal_Studios"
+        ]
+      ],
+      [
+        [
+          "2015, 2018\u2013present"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Magallanes",
-        "/wiki/Magallanes_Region"
+        [
+          "Lego Mindstorms"
+        ],
+        [
+          "/wiki/Lego_Mindstorms"
+        ]
       ],
       [
-        "0.400",
-        null
+        [
+          "Mindstorms"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.371",
-        null
+        [
+          "Lego"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1998\u2013present"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Chile",
-        "/wiki/Chile"
+        [
+          "Lego Minecraft"
+        ],
+        [
+          "/wiki/Lego_Minecraft"
+        ]
       ],
       [
-        "0.465",
-        null
+        [
+          "Minecraft"
+        ],
+        [
+          "/wiki/Minecraft"
+        ]
       ],
       [
-        "0.436",
-        null
+        [
+          "Mojang"
+        ],
+        [
+          "/wiki/Mojang"
+        ]
+      ],
+      [
+        [
+          "2012\u2013present"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Lego Minifigures"
+        ],
+        [
+          "/wiki/Lego_Minifigures_(theme)"
+        ]
+      ],
+      [
+        [
+          "Collectible",
+          "minifigures"
+        ],
+        [
+          "/wiki/Collectible",
+          "/wiki/Minifigure"
+        ]
+      ],
+      [
+        [
+          "Lego"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2010\u2013present"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Lego Minions"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Minions: The Rise of Gru"
+        ],
+        [
+          "/wiki/Minions:_The_Rise_of_Gru"
+        ]
+      ],
+      [
+        [
+          "Illumination"
+        ],
+        [
+          "/wiki/Illumination_(company)"
+        ]
+      ],
+      [
+        [
+          "2020\u2013"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Lego Ninjago"
+        ],
+        [
+          "/wiki/Lego_Ninjago"
+        ]
+      ],
+      [
+        [
+          "Ninjago"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Lego"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2011\u2013present"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Lego Overwatch"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Overwatch"
+        ],
+        [
+          "/wiki/Overwatch_(video_game)"
+        ]
+      ],
+      [
+        [
+          "Blizzard Entertainment"
+        ],
+        [
+          "/wiki/Blizzard_Entertainment"
+        ]
+      ],
+      [
+        [
+          "2019\u2013present"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

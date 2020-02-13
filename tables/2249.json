@@ -1,383 +1,275 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_Canadian_writers",
-  "title": "List of Canadian writers",
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio",
+  "title": "Comparison of free software for audio",
   "header": [
     [
-      "Name",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Born",
-      null
+      [
+        "Linux"
+      ],
+      [
+        "/wiki/Linux"
+      ]
     ],
     [
-      "Genre",
-      null
-    ],
-    [
-      "Notable works",
-      null
+      [
+        "Note"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Todd Babiak",
-        "/wiki/Todd_Babiak"
+        [
+          "Advanced Linux Sound Architecture"
+        ],
+        [
+          "/wiki/Advanced_Linux_Sound_Architecture"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "novelist",
-        null
-      ],
-      [
-        "The Garneau Block",
-        null
+        [
+          "sound card",
+          "Linux kernel"
+        ],
+        [
+          "/wiki/Sound_card",
+          "/wiki/Linux_kernel"
+        ]
       ]
     ],
     [
       [
-        "Ken Babstock",
-        "/wiki/Ken_Babstock"
+        [
+          "aRts"
+        ],
+        [
+          "/wiki/ARts"
+        ]
       ],
       [
-        "1970",
-        null
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "poet",
-        null
-      ],
-      [
-        "Mean, Airstream Land Yacht",
-        null
+        [
+          "sound server"
+        ],
+        [
+          "/wiki/Sound_server"
+        ]
       ]
     ],
     [
       [
-        "Mette Bach",
-        "/wiki/Mette_Bach"
+        [
+          "DSSI"
+        ],
+        [
+          "/wiki/Disposable_Soft_Synth_Interface"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "novelist, screenwriter",
-        null
-      ],
-      [
-        "",
-        null
+        [
+          "software synthesizers"
+        ],
+        [
+          "/wiki/Software_synthesizer"
+        ]
       ]
     ],
     [
       [
-        "Elizabeth Bachinsky",
-        "/wiki/Elizabeth_Bachinsky"
+        [
+          "GStreamer"
+        ],
+        [
+          "/wiki/GStreamer"
+        ]
       ],
       [
-        "1976",
-        null
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "poet",
-        null
-      ],
-      [
-        "",
-        null
+        [
+          "a graph-based multimedia framework"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bruce Bagemihl",
-        "/wiki/Bruce_Bagemihl"
+        [
+          "JACK Audio Connection Kit"
+        ],
+        [
+          "/wiki/JACK_Audio_Connection_Kit"
+        ]
       ],
       [
-        "1962",
-        null
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "science",
-        null
-      ],
-      [
-        "Biological Exuberance: Animal Homosexuality and Natural Diversity",
-        null
+        [
+          "sound server",
+          "timebase"
+        ],
+        [
+          "/wiki/Sound_server",
+          "/wiki/Timebase"
+        ]
       ]
     ],
     [
       [
-        "Pierre Baillargeon",
-        "/wiki/Pierre_Baillargeon"
+        [
+          "Linux Audio Developers Simple Plugin API"
+        ],
+        [
+          "/wiki/LADSPA"
+        ]
       ],
       [
-        "1916",
-        null
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "novelist",
-        null
-      ],
-      [
-        "Le scandale est n\u00e9cessaire",
-        null
+        [
+          "digital signal processing"
+        ],
+        [
+          "/wiki/Digital_signal_processor"
+        ]
       ]
     ],
     [
       [
-        "Martha Baillie",
-        "/wiki/Martha_Baillie"
+        [
+          "Open Sound System"
+        ],
+        [
+          "/wiki/Open_Sound_System"
+        ]
       ],
       [
-        "1960",
-        null
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "novelist",
-        null
-      ],
-      [
-        "The Incident Report",
-        null
+        [
+          "sound card",
+          "Unix",
+          "operating systems"
+        ],
+        [
+          "/wiki/Sound_card",
+          "/wiki/Unix",
+          "/wiki/Operating_systems"
+        ]
       ]
     ],
     [
       [
-        "Jacqueline Baker",
-        "/wiki/Jacqueline_Baker"
+        [
+          "PulseAudio"
+        ],
+        [
+          "/wiki/PulseAudio"
+        ]
       ],
       [
-        "1967",
-        null
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "novelist, short stories",
-        null
-      ],
-      [
-        "A Hard Witching, The Horseman's Graves, The Broken Hours",
-        null
+        [
+          "sound server"
+        ],
+        [
+          "/wiki/Sound_server"
+        ]
       ]
     ],
     [
       [
-        "R. Scott Bakker",
-        "/wiki/R._Scott_Bakker"
+        [
+          "sndio"
+        ],
+        [
+          "/wiki/Sndio"
+        ]
       ],
       [
-        "1967",
-        null
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "fantasy",
-        null
-      ],
-      [
-        "Prince of Nothing",
-        "/wiki/Prince_of_Nothing"
-      ]
-    ],
-    [
-      [
-        "Sharon Bala",
-        "/wiki/Sharon_Bala"
-      ],
-      [
-        "1979",
-        null
-      ],
-      [
-        "novelist, short stories",
-        null
-      ],
-      [
-        "The Boat People",
-        null
-      ]
-    ],
-    [
-      [
-        "Shauna Singh Baldwin",
-        "/wiki/Shauna_Singh_Baldwin"
-      ],
-      [
-        "1962",
-        null
-      ],
-      [
-        "novelist",
-        null
-      ],
-      [
-        "What the Body Remembers, The Tiger Claw",
-        null
-      ]
-    ],
-    [
-      [
-        "Winifred Bambrick",
-        "/wiki/Winifred_Bambrick"
-      ],
-      [
-        "1892",
-        null
-      ],
-      [
-        "novelist",
-        null
-      ],
-      [
-        "Continental Revue",
-        null
-      ]
-    ],
-    [
-      [
-        "Catherine Banks",
-        "/wiki/Catherine_Banks"
-      ],
-      [
-        "c.1960",
-        null
-      ],
-      [
-        "playwright",
-        null
-      ],
-      [
-        "Bone Cage",
-        null
-      ]
-    ],
-    [
-      [
-        "Himani Bannerji",
-        "/wiki/Himani_Bannerji"
-      ],
-      [
-        "1942",
-        null
-      ],
-      [
-        "poet, academic",
-        null
-      ],
-      [
-        "Dark Side of the Nation: Essays on Multiculturalism, Nationalism and Racism",
-        null
-      ]
-    ],
-    [
-      [
-        "Kaushalya Bannerji",
-        "/wiki/Kaushalya_Bannerji"
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "poet",
-        null
-      ],
-      [
-        "",
-        null
-      ]
-    ],
-    [
-      [
-        "Gary Bannerman",
-        "/wiki/Gary_Bannerman"
-      ],
-      [
-        "1947",
-        null
-      ],
-      [
-        "non-fiction",
-        null
-      ],
-      [
-        "Squandering Billions",
-        null
-      ]
-    ],
-    [
-      [
-        "Nick Bantock",
-        "/wiki/Nick_Bantock"
-      ],
-      [
-        "1949",
-        null
-      ],
-      [
-        "novelist",
-        null
-      ],
-      [
-        "Griffin and Sabine",
-        "/wiki/Griffin_and_Sabine"
-      ]
-    ],
-    [
-      [
-        "Marius Barbeau",
-        "/wiki/Marius_Barbeau"
-      ],
-      [
-        "1883",
-        null
-      ],
-      [
-        "academic, folklorist",
-        null
-      ],
-      [
-        "",
-        null
-      ]
-    ],
-    [
-      [
-        "Raymond Barbeau",
-        "/wiki/Raymond_Barbeau"
-      ],
-      [
-        "1930",
-        null
-      ],
-      [
-        "essayist, literary critic",
-        null
-      ],
-      [
-        "",
-        null
-      ]
-    ],
-    [
-      [
-        "Victor Barbeau",
-        "/wiki/Victor_Barbeau"
-      ],
-      [
-        "1896",
-        null
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "",
-        null
+        [
+          "sound",
+          "MIDI"
+        ],
+        [
+          "/wiki/Sound_server",
+          "/wiki/MIDI"
+        ]
       ]
     ]
   ],

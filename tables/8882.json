@@ -1,176 +1,450 @@
 {
-  "url": "https://en.wikipedia.org/wiki/NCAA_Division_I_Women's_Soccer_Championship",
-  "title": "NCAA Division I Women's Soccer Championship",
+  "url": "https://en.wikipedia.org/wiki/Belarusian_Men's_Handball_Championship",
+  "title": "Belarusian Men's Handball Championship",
   "header": [
     [
-      "Team",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Number",
-      null
+      [
+        "City"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Years won",
-      null
+      [
+        "Arena"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Address"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "North Carolina",
-        "/wiki/North_Carolina_Tar_Heels_women%27s_soccer"
+        [
+          "Meshkov Brest"
+        ],
+        [
+          "/wiki/HC_Meshkov_Brest"
+        ]
       ],
       [
-        "21",
-        "/wiki/North_Carolina_Tar_Heels#NCAA_team_championships"
+        [
+          "Brest"
+        ],
+        [
+          "/wiki/Brest,_Belarus"
+        ]
       ],
       [
-        "1982, 1983, 1984, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1996, 1997, 1999, 2000, 2003, 2006, 2008, 2009, 2012",
-        null
+        [
+          "Universal Sports Complex \"Victoria\""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Brest, Leningradskaya str., 4"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Stanford",
-        "/wiki/Stanford_Cardinal_women%27s_soccer"
+        [
+          "SKA Minsk"
+        ],
+        [
+          "/wiki/SKA_Minsk"
+        ]
       ],
       [
-        "3",
-        null
+        [
+          "Minsk"
+        ],
+        [
+          "/wiki/Minsk"
+        ]
       ],
       [
-        "2011, 2017, 2019",
-        null
+        [
+          "Sports Palace \"Uruchje\""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Minsk, Independence av., 196"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Notre Dame",
-        "/wiki/Notre_Dame_Fighting_Irish_women%27s_soccer"
+        [
+          "GK Gomel"
+        ],
+        [
+          "/wiki/HC_Gomel"
+        ]
       ],
       [
-        "3",
-        "/wiki/Notre_Dame_Fighting_Irish#NCAA_team_championships"
+        [
+          "Gomel"
+        ],
+        [
+          "/wiki/Gomel"
+        ]
       ],
       [
-        "1995, 2004, 2010",
-        null
+        [
+          "GRCOR for game's types of sports"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Gomel, Irininskaya st., 16-2"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Florida State",
-        "/wiki/Florida_State_Seminoles_women%27s_soccer"
+        [
+          "Kronon Grodno"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2",
-        "/wiki/Florida_State_Seminoles#NCAA_team_championships"
+        [
+          "Grodno"
+        ],
+        [
+          "/wiki/Grodno"
+        ]
       ],
       [
-        "2014, 2018",
-        null
+        [
+          "Sports Complex \"Victoria\""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Grodno, Gagarina str., 18/1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "USC",
-        "/wiki/USC_Trojans_women%27s_soccer"
+        [
+          "Masheka Mogilev"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2",
-        "/wiki/USC_Trojans#NCAA_team_championships"
+        [
+          "Mogilev"
+        ],
+        [
+          "/wiki/Mogilev"
+        ]
       ],
       [
-        "2007, 2016",
-        null
+        [
+          "SC \"Olympian\""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Mogilev, 30 years of Victory str., 1a"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Portland",
-        "/wiki/Portland_Pilots_women%27s_soccer"
+        [
+          "BSUFC-SKA"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2",
-        "/wiki/Portland_Pilots#NCAA_team_championships"
+        [
+          "Minsk"
+        ],
+        [
+          "/wiki/Minsk"
+        ]
       ],
       [
-        "2002, 2005",
-        null
+        [
+          "RCOR"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Minsk, Filimonova str., 55/2"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Penn State",
-        "/wiki/Penn_State_Nittany_Lions_women%27s_soccer"
+        [
+          "Meshkov Brest 2"
+        ],
+        [
+          "/wiki/HC_Meshkov_Brest"
+        ]
       ],
       [
-        "1",
-        "/wiki/Penn_State_Nittany_Lions#NCAA_team_championships"
+        [
+          "Brest"
+        ],
+        [
+          "/wiki/Brest,_Belarus"
+        ]
       ],
       [
-        "2015",
-        null
+        [
+          "Universal Sports Complex \"Victoria\""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Brest, Leningradskaya str., 4"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "UCLA",
-        "/wiki/UCLA_Bruins_women%27s_soccer"
+        [
+          "RCOR"
+        ],
+        [
+          "/wiki/RCOR"
+        ]
       ],
       [
-        "1",
-        "/wiki/UCLA_Bruins#NCAA_team_championships"
+        [
+          "Minsk"
+        ],
+        [
+          "/wiki/Minsk"
+        ]
       ],
       [
-        "2013",
-        null
+        [
+          "RCOR"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Minsk, Filimonova str., 55/2"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Santa Clara",
-        "/wiki/Santa_Clara_Broncos_women%27s_soccer"
+        [
+          "Belarus-2002"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        "/wiki/Santa_Clara_Broncos#NCAA_team_championships"
+        [
+          "Minsk"
+        ],
+        [
+          "/wiki/Minsk"
+        ]
       ],
       [
-        "2001",
-        null
+        [
+          "Sports Palace \"Uruchje\""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Minsk, Independence av., 196"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Florida",
-        "/wiki/Florida_Gators_women%27s_soccer"
+        [
+          "Kronon Grodno 2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        "/wiki/Florida_Gators#NCAA_team_championships"
+        [
+          "Grodno"
+        ],
+        [
+          "/wiki/Grodno"
+        ]
       ],
       [
-        "1998",
-        null
+        [
+          "Sports Complex \"Victoria\""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Grodno, Gagarina str., 18/1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "George Mason",
-        "/wiki/George_Mason_Patriots_women%27s_soccer"
+        [
+          "Masheka Mogilev 2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        "/wiki/George_Mason_Patriots#NCAA_team_championships"
+        [
+          "Mogilev"
+        ],
+        [
+          "/wiki/Mogilev"
+        ]
       ],
       [
-        "1985",
-        null
+        [
+          "SC \"Olympian\""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Mogilev, 30 years of Victory str., 1a"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Vityaz Minsk"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Minsk"
+        ],
+        [
+          "/wiki/Minsk"
+        ]
+      ],
+      [
+        [
+          "RCOR"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Minsk, Filimonova str., 55/2"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "The following 12 clubs compete in the championship during the 2019\u201320 season.",
   "idx": 8882
 }

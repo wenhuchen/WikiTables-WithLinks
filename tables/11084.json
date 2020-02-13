@@ -1,269 +1,841 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2013_Fort_Lauderdale_Strikers_season",
-  "title": "2013 Fort Lauderdale Strikers season",
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_version-control_software",
+  "title": "Comparison of version-control software",
   "header": [
     [
-      "No.",
-      null
+      [
+        "Software"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Pos.",
-      null
+      [
+        "Web interfaces"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Name",
-      null
+      [
+        "GUIs"
+      ],
+      [
+        "/wiki/Graphical_user_interface"
+      ]
     ],
     [
-      "MS",
-      null
-    ],
-    [
-      "Notes",
-      null
+      [
+        "IDEs"
+      ],
+      [
+        "/wiki/Integrated_development_environment"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "24",
-        null
+        [
+          "AccuRev SCM"
+        ],
+        [
+          "/wiki/AccuRev_SCM"
+        ]
       ],
       [
-        "GK",
-        "/wiki/Goalkeeper_(association_football)"
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Glaeser",
-        "/wiki/Matt_Glaeser"
+        [
+          "Windows (incl. Explorer integration)",
+          "Linux",
+          "Unix",
+          "OS X",
+          "BeOS"
+        ],
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/Linux",
+          "/wiki/Unix",
+          "/wiki/OS_X",
+          "/wiki/BeOS"
+        ]
       ],
       [
-        "7",
-        null
-      ],
-      [
-        "Attinella,Laurendi",
-        "/wiki/Jeff_Attinella /wiki/Cody_Laurendi"
+        [
+          "IntelliJ IDEA",
+          "Eclipse",
+          "Visual Studio"
+        ],
+        [
+          "/wiki/IntelliJ_IDEA",
+          "/wiki/Eclipse_(software)",
+          "/wiki/Microsoft_Visual_Studio"
+        ]
       ]
     ],
     [
       [
-        "18",
-        null
+        [
+          "Azure DevOps"
+        ],
+        [
+          "/wiki/Team_Foundation_Server"
+        ]
       ],
       [
-        "RB",
-        "/wiki/Right_back"
+        [
+          "included (Sharepoint Server used for web services)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Guillaume",
-        "/wiki/Stephane_Guillaume"
+        [
+          "Windows included; OS X, Unix available"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6",
-        null
-      ],
-      [
-        "",
-        null
+        [
+          "Visual Studio. Java client for Eclipse IDE and IntelliJ IDEA (standard in Ultimate Edition)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "44",
-        null
+        [
+          "GNU Bazaar"
+        ],
+        [
+          "/wiki/GNU_Bazaar"
+        ]
       ],
       [
-        "CB",
-        "/wiki/Centre_back"
+        [
+          "can use a plain webserver"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Thomas",
-        "/wiki/Shavar_Thomas"
+        [
+          "GTK+",
+          "Qt",
+          "Qt",
+          "TortoiseBzr"
+        ],
+        [
+          "/wiki/GTK%2B",
+          "/wiki/Qt_(toolkit)",
+          "/wiki/Qt_(toolkit)",
+          "/wiki/TortoiseBzr"
+        ]
       ],
       [
-        "10",
-        null
-      ],
-      [
-        "Justin Chavez,Stefan Antonijevic",
-        "/wiki/Justin_Chavez /wiki/Stefan_Antonijevic"
+        [
+          "Komodo IDE,",
+          "WingIDE"
+        ],
+        [
+          "/wiki/ActiveState_Komodo",
+          "/wiki/Wing_IDE"
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "BitKeeper"
+        ],
+        [
+          "/wiki/BitKeeper"
+        ]
       ],
       [
-        "CB",
-        "/wiki/Centre_back"
+        [
+          "included"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "St\u00e5hl",
-        "/wiki/Toni_St%C3%A5hl"
+        [
+          "included (bkd)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "10",
-        null
-      ],
-      [
-        "Gordon",
-        "/wiki/Scott_Gordon_(soccer)"
+        [
+          "Unknown"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "12",
-        null
+        [
+          "CA Software Change Manager"
+        ],
+        [
+          "/wiki/CA_Software_Change_Manager"
+        ]
       ],
       [
-        "LB",
-        "/wiki/Left_back"
+        [
+          "included"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Guerrero",
-        "/wiki/Ivan_Guerrero"
+        [
+          "Eclipse-based GUI"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "8",
-        null
-      ],
-      [
-        "Daniel Arcila",
-        "/wiki/Daniel_Arcila"
+        [
+          "Eclipse"
+        ],
+        [
+          "/wiki/Eclipse_(software)"
+        ]
       ]
     ],
     [
       [
-        "23",
-        null
+        [
+          "ClearCase"
+        ],
+        [
+          "/wiki/Rational_ClearCase"
+        ]
       ],
       [
-        "DM",
-        "/wiki/Defensive_midfielder"
+        [
+          "included, Clearcase Web Interface"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Gonzalez",
-        "/wiki/Manny_Gonzalez_(soccer)"
+        [
+          "Unix-like",
+          "TSO",
+          "z/OS"
+        ],
+        [
+          "/wiki/Unix-like",
+          "/wiki/Time_Sharing_Option",
+          "/wiki/Z/OS"
+        ]
       ],
       [
-        "8",
-        null
-      ],
-      [
-        "",
-        null
+        [
+          "Emacs",
+          "KDevelop"
+        ],
+        [
+          "/wiki/Emacs",
+          "/wiki/KDevelop"
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "Code Co-op"
+        ],
+        [
+          "/wiki/Code_Co-op"
+        ]
       ],
       [
-        "DM",
-        "/wiki/Defensive_midfielder"
+        [
+          "Not necessary since entire project is replicated locally"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pecka",
-        "/wiki/Pecka_(footballer)"
+        [
+          "Windows"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "9",
-        null
-      ],
-      [
-        "Rubens",
-        "/wiki/Rubens_Pinheiro"
+        [
+          "Unknown"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "CVS"
+        ],
+        [
+          "/wiki/Concurrent_Versions_System"
+        ]
       ],
       [
-        "RW",
-        "/wiki/Right_winger_(football)"
+        [
+          "ViewVC"
+        ],
+        [
+          "/wiki/ViewVC"
+        ]
       ],
       [
-        "Restrepo",
-        "/wiki/Walter_Restrepo"
+        [
+          "TortoiseCVS",
+          "Tcl",
+          "Tk",
+          "WinCVS",
+          "GTK"
+        ],
+        [
+          "/wiki/TortoiseCVS",
+          "/wiki/Tcl",
+          "/wiki/Tk_(computing)",
+          "/wiki/WinCVS",
+          "/wiki/GTK%2B"
+        ]
       ],
       [
-        "6",
-        null
-      ],
-      [
-        "Hosman Ramos",
-        "/wiki/Hosman_Ramos"
+        [
+          "Eclipse",
+          "Emacs",
+          "Komodo IDE",
+          "BBEdit",
+          "WingIDE"
+        ],
+        [
+          "/wiki/Eclipse_(software)",
+          "/wiki/Emacs",
+          "/wiki/ActiveState_Komodo",
+          "/wiki/BBEdit",
+          "/wiki/Wing_IDE"
+        ]
       ]
     ],
     [
       [
-        "14",
-        null
+        [
+          "CVSNT"
+        ],
+        [
+          "/wiki/CVSNT"
+        ]
       ],
       [
-        "AM",
-        "/wiki/Attacking_midfielder"
+        [
+          "ViewVC"
+        ],
+        [
+          "/wiki/ViewVC"
+        ]
       ],
       [
-        "Salazar",
-        "/wiki/Carlos_Eduardo_Salazar"
+        [
+          "OS/400",
+          "GTK"
+        ],
+        [
+          "/wiki/OS/400",
+          "/wiki/GTK%2B"
+        ]
       ],
       [
-        "8",
-        null
-      ],
-      [
-        "Mark Anderson",
-        "/wiki/Mark_Anderson_(footballer,_born_1989)"
+        [
+          "All those that support CVS, plus commercial plugins for SCCI, Bugzilla, Build"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "darcs"
+        ],
+        [
+          "/wiki/Darcs"
+        ]
       ],
       [
-        "LW",
-        "/wiki/Left_winger_(football)"
+        [
+          "Trac"
+        ],
+        [
+          "/wiki/Trac"
+        ]
       ],
       [
-        "Johnson",
-        "/wiki/Jemal_Johnson"
+        [
+          "TortoiseDarcs"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "8",
-        null
-      ],
-      [
-        "Foley,Gonzalo De Mujica",
-        "/wiki/David_Foley /wiki/Gonzalo_De_Mujica"
+        [
+          "Eclipse",
+          "Emacs"
+        ],
+        [
+          "/wiki/Eclipse_(software)",
+          "/wiki/Emacs"
+        ]
       ]
     ],
     [
       [
-        "21",
-        null
+        [
+          "Dimensions CM"
+        ],
+        [
+          "/wiki/Dimensions_CM"
+        ]
       ],
       [
-        "CF",
-        "/wiki/Centre_forward"
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "King",
-        "/wiki/Darnell_King"
+        [
+          "Windows (incl. explorer integration)"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "Eclipse",
+          "Visual Studio",
+          "IntelliJ IDEA",
+          "XCode",
+          "Powerbuilder"
+        ],
+        [
+          "/wiki/Eclipse_(software)",
+          "/wiki/Microsoft_Visual_Studio",
+          "/wiki/IntelliJ_IDEA",
+          "/wiki/XCode",
+          "/wiki/Powerbuilder"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Fossil"
+        ],
+        [
+          "/wiki/Fossil_(software)"
+        ]
       ],
       [
-        "Dimitrov",
-        "/wiki/Stefan_Dimitrov_(footballer)"
+        [
+          "Embedded webserver included (ui/server mode), ability to run multiple repositories via CGI mode"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "fuel-scm"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Unknown"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Git"
+        ],
+        [
+          "/wiki/Git_(software)"
+        ]
+      ],
+      [
+        [
+          "GitLab",
+          "GitHub",
+          "gitorious",
+          "Trac",
+          "Kallithea",
+          "Bitbucket",
+          "Springloops",
+          "Gitea"
+        ],
+        [
+          "/wiki/GitLab",
+          "/wiki/GitHub",
+          "/wiki/Gitorious",
+          "/wiki/Trac",
+          "/wiki/Kallithea_(software)",
+          "/wiki/Bitbucket",
+          "/wiki/Springloops",
+          "/wiki/Gitea"
+        ]
+      ],
+      [
+        [
+          "Tcl",
+          "Tk",
+          "TortoiseGit",
+          "GitKraken"
+        ],
+        [
+          "/wiki/Tcl",
+          "/wiki/Tk_(computing)",
+          "/wiki/TortoiseGit",
+          "/wiki/GitKraken"
+        ]
+      ],
+      [
+        [
+          "Atom",
+          "Helix TeamHub",
+          "KDevelop",
+          "Emacs",
+          "Komodo IDE",
+          "Anjuta",
+          "XCode",
+          "WingIDE",
+          "PyCharm"
+        ],
+        [
+          "/wiki/Atom_(text_editor)",
+          "/wiki/Perforce_Software",
+          "/wiki/KDevelop",
+          "/wiki/Emacs",
+          "/wiki/ActiveState_Komodo",
+          "/wiki/Anjuta",
+          "/wiki/XCode",
+          "/wiki/Wing_IDE",
+          "/wiki/PyCharm"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "GNU arch"
+        ],
+        [
+          "/wiki/GNU_arch"
+        ]
+      ],
+      [
+        [
+          "ArchZoom"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GTK2"
+        ],
+        [
+          "/wiki/GTK%2B"
+        ]
+      ],
+      [
+        [
+          "Emacs"
+        ],
+        [
+          "/wiki/Emacs"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "IC Manage"
+        ],
+        [
+          "/wiki/IC_Manage"
+        ]
+      ],
+      [
+        [
+          "included"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Windows, Linux, Unix, OS X"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Emacs, Cadence Design Framework, Synopsys Custom Designer"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "MKS Integrity"
+        ],
+        [
+          "/wiki/MKS_Integrity"
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Windows, Linux, Unix, Solaris, AIX,"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Eclipse, Microsoft Visual Studio, Perforce and others. Also provides support for the industry standard Source Code Control (SCC) interface"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Mercurial"
+        ],
+        [
+          "/wiki/Mercurial"
+        ]
+      ],
+      [
+        [
+          "Bitbucket",
+          "Trac",
+          "Kallithea"
+        ],
+        [
+          "/wiki/Bitbucket",
+          "/wiki/Trac",
+          "/wiki/Kallithea_(software)"
+        ]
+      ],
+      [
+        [
+          "Hgk (Tcl/Tk), (h)gct (Qt), TortoiseHg (Windows Explorer, Nautilus), MacHg,\nMacMercurial, Murky, SourceTree (Windows/OS X), TortoiseHg, SmartGit/Hg"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Emacs",
+          "Komodo IDE",
+          "Eric Python IDE",
+          "WingIDE"
+        ],
+        [
+          "/wiki/Emacs",
+          "/wiki/ActiveState_Komodo",
+          "/wiki/Eric_Python_IDE",
+          "/wiki/Wing_IDE"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Monotone"
+        ],
+        [
+          "/wiki/Monotone_(software)"
+        ]
+      ],
+      [
+        [
+          "ViewMTN, TracMonotone,"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GTK+",
+          "Qt",
+          "GTK+",
+          "Perl"
+        ],
+        [
+          "/wiki/GTK%2B",
+          "/wiki/Qt_toolkit",
+          "/wiki/GTK%2B",
+          "/wiki/Perl"
+        ]
+      ],
+      [
+        [
+          "Unknown"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Perforce Helix Core"
+        ],
+        [
+          "/wiki/Perforce_Software"
+        ]
+      ],
+      [
+        [
+          "included, P4Web, P4FTP"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Windows, Linux, Mac OS X"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Eclipse",
+          "Visual Studio",
+          "Matlab",
+          "Unity",
+          "Unreal",
+          "Amazon Lumberyard",
+          "Autodesk Maya",
+          "3ds max",
+          "Adobe PS"
+        ],
+        [
+          "/wiki/Eclipse_(video_game)",
+          "/wiki/Visual_Studio",
+          "/wiki/Matlab",
+          "/wiki/Unity_(game_engine)",
+          "/wiki/Unreal_engine",
+          "/wiki/Amazon_Lumberyard",
+          "/wiki/Autodesk_Maya",
+          "/wiki/3ds_max",
+          "/wiki/Adobe_PS"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Rational Team Concert"
+        ],
+        [
+          "/wiki/IBM_Rational_Team_Concert"
+        ]
+      ],
+      [
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Eclipse-based GUI"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Eclipse integration; MS Visual Studio integration(Limited)"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

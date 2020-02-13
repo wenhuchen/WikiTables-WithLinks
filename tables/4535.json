@@ -1,293 +1,905 @@
 {
-  "url": "https://en.wikipedia.org/wiki/WAV",
-  "title": "WAV",
+  "url": "https://en.wikipedia.org/wiki/2008_Coupe_Internationale_de_Nice",
+  "title": "2008 Coupe Internationale de Nice",
   "header": [
     [
-      "Format",
-      null
+      [
+        "Rank"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "kbit/s",
-      "/wiki/Data_rate_units#Kilobit_per_second"
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "KiB",
-      "/wiki/Kibibyte"
+      [
+        "Nation"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Sample",
-      null
+      [
+        "Total points"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "SP"
+      ],
+      [
+        "/wiki/Short_program_(figure_skating)"
+      ]
+    ],
+    [
+      [
+        "FS"
+      ],
+      [
+        "/wiki/Free_skating"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "11,025\u00a0Hz 16\u00a0bit PCM",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "176.4",
-        null
+        [
+          "Yannick Ponsero"
+        ],
+        [
+          "/wiki/Yannick_Ponsero"
+        ]
       ],
       [
-        "1292",
-        null
+        [
+          "France"
+        ],
+        [
+          "/wiki/France"
+        ]
       ],
       [
-        "11k16bitpcm.wav",
-        "/wiki/HTTP_404"
+        [
+          "222.34"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "08,000\u00a0Hz 16\u00a0bit PCM",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "128",
-        null
+        [
+          "Alban Pr\u00e9aubert"
+        ],
+        [
+          "/wiki/Alban_Pr%C3%A9aubert"
+        ]
       ],
       [
-        "0938",
-        null
+        [
+          "France"
+        ],
+        [
+          "/wiki/France"
+        ]
       ],
       [
-        "8k16bitpcm.wav",
-        "/wiki/HTTP_404"
+        [
+          "190.71"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "11,025\u00a0Hz 8\u00a0bit PCM",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "088.2",
-        null
+        [
+          "Igor Macypura"
+        ],
+        [
+          "/wiki/Igor_Macypura"
+        ]
       ],
       [
-        "0646",
-        null
+        [
+          "Slovakia"
+        ],
+        [
+          "/wiki/Slovakia"
+        ]
       ],
       [
-        "11k8bitpcm.wav",
-        "/wiki/HTTP_404"
+        [
+          "187.71"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "\u00b5-Law",
-        "/wiki/%CE%9C-Law"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "088.2",
-        null
+        [
+          "Konstantin Menshov"
+        ],
+        [
+          "/wiki/Konstantin_Menshov"
+        ]
       ],
       [
-        "0646",
-        null
+        [
+          "Russia"
+        ],
+        [
+          "/wiki/Russia"
+        ]
       ],
       [
-        "11kulaw.wav",
-        "/wiki/HTTP_404"
+        [
+          "185.58"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "08,000\u00a0Hz 8\u00a0bit PCM",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "064",
-        null
+        [
+          "Peter Liebers"
+        ],
+        [
+          "/wiki/Peter_Liebers"
+        ]
       ],
       [
-        "0469",
-        null
+        [
+          "Germany"
+        ],
+        [
+          "/wiki/Germany"
+        ]
       ],
       [
-        "8k8bitpcm.wav",
-        "/wiki/HTTP_404"
+        [
+          "180.86"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "08,000\u00a0Hz \u00b5-Law",
-        null
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "064",
-        null
+        [
+          "Aleksandr Kazakov"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0469",
-        null
+        [
+          "Belarus"
+        ],
+        [
+          "/wiki/Belarus"
+        ]
       ],
       [
-        "8kulaw.wav",
-        "/wiki/HTTP_404"
+        [
+          "161.22"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "10"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "ADPCM",
-        "/wiki/ADPCM"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "044.1",
-        null
+        [
+          "Jonathan Cassar"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0323",
-        null
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ],
       [
-        "11kadpcm.wav",
-        "/wiki/HTTP_404"
+        [
+          "160.77"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "9"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "08,000\u00a0Hz 4\u00a0bit ADPCM",
-        null
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "032",
-        null
+        [
+          "Yoann Deslot"
+        ],
+        [
+          "/wiki/Yoann_Deslot"
+        ]
       ],
       [
-        "0234",
-        null
+        [
+          "France"
+        ],
+        [
+          "/wiki/France"
+        ]
       ],
       [
-        "8kadpcm.wav",
-        "/wiki/HTTP_404"
+        [
+          "156.84"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "11,025\u00a0Hz GSM 06.10",
-        null
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "018",
-        null
+        [
+          "Jamal Othman"
+        ],
+        [
+          "/wiki/Jamal_Othman"
+        ]
       ],
       [
-        "0132",
-        null
+        [
+          "Switzerland"
+        ],
+        [
+          "/wiki/Switzerland"
+        ]
       ],
       [
-        "11kgsm.wav",
-        "/wiki/HTTP_404"
+        [
+          "153.99"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "11"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "08,000\u00a0Hz MP3 16\u00a0kbit/s",
-        null
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "016",
-        null
+        [
+          "Clemens Brummer"
+        ],
+        [
+          "/wiki/Clemens_Brummer"
+        ]
       ],
       [
-        "0117",
-        null
+        [
+          "Germany"
+        ],
+        [
+          "/wiki/Germany"
+        ]
       ],
       [
-        "8kmp316.wav",
-        "/wiki/HTTP_404"
+        [
+          "147.31"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "6"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "08,000\u00a0Hz GSM 06.10",
-        null
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "013",
-        null
+        [
+          "Michael Solonoski"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0103",
-        null
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ],
       [
-        "8kgsm.wav",
-        "/wiki/HTTP_404"
+        [
+          "142.55"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "8"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lernout & Hauspie",
-        "/wiki/Lernout_%26_Hauspie"
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "012",
-        null
+        [
+          "Paolo Bacchini"
+        ],
+        [
+          "/wiki/Paolo_Bacchini"
+        ]
       ],
       [
-        "0088",
-        null
+        [
+          "Italy"
+        ],
+        [
+          "/wiki/Italy"
+        ]
       ],
       [
-        "8ksbc12.wav",
-        "/wiki/HTTP_404"
+        [
+          "134.73"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "13"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "DSP Group,Truespeech",
-        "/wiki/DSP_Group /wiki/Truespeech"
+        [
+          "13"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "009",
-        null
+        [
+          "Justus Strid"
+        ],
+        [
+          "/wiki/Justus_Strid"
+        ]
       ],
       [
-        "0066",
-        null
+        [
+          "Denmark"
+        ],
+        [
+          "/wiki/Denmark"
+        ]
       ],
       [
-        "8ktruespeech.wav",
-        "/wiki/HTTP_404"
+        [
+          "131.75"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "12"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "13"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "08,000\u00a0Hz MP3 8\u00a0kbit/s",
-        null
+        [
+          "14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "008",
-        null
+        [
+          "Thomas Paulson"
+        ],
+        [
+          "/wiki/Thomas_Paulson"
+        ]
       ],
       [
-        "0060",
-        null
+        [
+          "United Kingdom"
+        ],
+        [
+          "/wiki/United_Kingdom"
+        ]
       ],
       [
-        "8kmp38.wav",
-        "/wiki/HTTP_404"
+        [
+          "120.71"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "14"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "14"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "CELP",
-        "/wiki/CELP"
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "004.8",
-        null
+        [
+          "Robert McNamara"
+        ],
+        [
+          "/wiki/Robert_McNamara_(figure_skater)"
+        ]
       ],
       [
-        "0035",
-        null
+        [
+          "Australia"
+        ],
+        [
+          "/wiki/Australia"
+        ]
       ],
       [
-        "8kcelp.wav",
-        "/wiki/HTTP_404"
+        [
+          "96.66"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "15"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "16"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "16"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Jesper Kristiansen"
+        ],
+        [
+          "/wiki/Jesper_Kristiansen"
+        ]
+      ],
+      [
+        [
+          "Denmark"
+        ],
+        [
+          "/wiki/Denmark"
+        ]
+      ],
+      [
+        [
+          "93.36"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "16"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "15"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "WD"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ostojic Damjan"
+        ],
+        [
+          "/wiki/Ostojic_Damjan"
+        ]
+      ],
+      [
+        [
+          "Bosnia and Herzegovina"
+        ],
+        [
+          "/wiki/Bosnia_and_Herzegovina"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

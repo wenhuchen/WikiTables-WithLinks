@@ -1,272 +1,694 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_the_Philippines",
-  "title": "List of tallest buildings in the Philippines",
+  "url": "https://en.wikipedia.org/wiki/Tuple_space",
+  "title": "Tuple space",
   "header": [
     [
-      "Name",
-      null
+      [
+        "Project"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      null
+      [
+        "Supported Languages"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Years as tallest",
-      null
+      [
+        "License used"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Height",
-      null
-    ],
-    [
-      "Floors",
-      null
+      [
+        "Notable features"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Manila Hotel",
-        "/wiki/Manila_Hotel"
+        [
+          "Apache River"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "City of Manila,Metro Manila",
-        "/wiki/City_of_Manila /wiki/Metro_Manila"
+        [
+          "Java"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1912\u20141967",
-        null
+        [
+          "Apache License"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
       ],
       [
-        "",
-        null
-      ],
-      [
-        "18",
-        null
+        [
+          "Jini",
+          "Sun",
+          "Apache",
+          "See page"
+        ],
+        [
+          "/wiki/Jini",
+          "/wiki/Sun_Microsystems",
+          "/wiki/Apache_Software_Foundation",
+          "/wiki/Apache_River"
+        ]
       ]
     ],
     [
       [
-        "Ramon Magsaysay Center",
-        "/wiki/Ramon_Magsaysay_Center"
+        [
+          "The Blitz Project"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "City of Manila,Metro Manila",
-        "/wiki/City_of_Manila /wiki/Metro_Manila"
+        [
+          "Java"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1967\u20141968",
-        null
+        [
+          "BSD License"
+        ],
+        [
+          "/wiki/BSD_License"
+        ]
       ],
       [
-        "70\u00a0m(230\u00a0ft)",
-        null
-      ],
-      [
-        "18",
-        null
+        [
+          "Single site server."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Manila Pavilion Hotel",
-        null
+        [
+          "The Fly Object Space"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "City of Manila,Metro Manila",
-        "/wiki/City_of_Manila /wiki/Metro_Manila"
+        [
+          "Java, Ruby, Scala"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1968\u20141989",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "90\u00a0m(300\u00a0ft)",
-        null
-      ],
-      [
-        "22",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Pacific Star Building",
-        "/wiki/Pacific_Star_Building"
+        [
+          "GigaSpaces"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Makati,Metro Manila",
-        "/wiki/Makati /wiki/Metro_Manila"
+        [
+          "Java, .Net, C++"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1989\u20141991",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "112.5\u00a0m(369\u00a0ft)",
-        null
-      ],
-      [
-        "29",
-        null
+        [
+          "Clustered, fault-tolerant."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "The Peak Tower",
-        null
+        [
+          "Heterocera"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Makati,Metro Manila",
-        "/wiki/Makati /wiki/Metro_Manila"
+        [
+          "Ruby"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1991\u20141992",
-        null
+        [
+          "BSD License"
+        ],
+        [
+          "/wiki/BSD_License"
+        ]
       ],
       [
-        "138\u00a0m(453\u00a0ft)",
-        null
-      ],
-      [
-        "38",
-        null
+        [
+          "Web server based."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Pacific Plaza Condominium",
-        null
+        [
+          "jRESP"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Makati,Metro Manila",
-        "/wiki/Makati /wiki/Metro_Manila"
+        [
+          "Java"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1992\u20141994",
-        null
+        [
+          "EPL"
+        ],
+        [
+          "/wiki/Eclipse_Public_License"
+        ]
       ],
       [
-        "150\u00a0m(490\u00a0ft)",
-        null
-      ],
-      [
-        "44",
-        null
+        [
+          "Supports spaces of various kinds (including tuple spaces), distributed tuple spaces, mobility, access control and various forms of multicast."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Rufino Pacific Tower",
-        "/wiki/Rufino_Pacific_Tower"
+        [
+          "LighTS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Makati,Metro Manila",
-        "/wiki/Makati /wiki/Metro_Manila"
+        [
+          "Java"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1994\u20141997",
-        null
+        [
+          "LGPL"
+        ],
+        [
+          "/wiki/LGPL"
+        ]
       ],
       [
-        "162\u00a0m(531\u00a0ft)",
-        null
-      ],
-      [
-        "41",
-        null
+        [
+          "lightweight"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Robinsons Equitable Tower",
-        "/wiki/Robinsons_Equitable_Tower"
+        [
+          "Linda in a Mobile Environment (LIME)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pasig,Metro Manila",
-        "/wiki/Pasig /wiki/Metro_Manila"
+        [
+          "Java"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1997\u20141998",
-        null
+        [
+          "LGPL"
+        ],
+        [
+          "/wiki/LGPL"
+        ]
       ],
       [
-        "175\u00a0m(574\u00a0ft)",
-        null
-      ],
-      [
-        "45",
-        null
+        [
+          "Suited for pure mobile environments, no server (light house) to host tuple spaces required"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Petron Megaplaza",
-        "/wiki/Petron_Megaplaza"
+        [
+          "LinuxTuples"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Makati,Metro Manila",
-        "/wiki/Makati /wiki/Metro_Manila"
+        [
+          "Rust"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1998\u20142000",
-        null
+        [
+          "BSD License"
+        ],
+        [
+          "/wiki/BSD_License"
+        ]
       ],
       [
-        "210\u00a0m(690\u00a0ft)",
-        null
-      ],
-      [
-        "45",
-        null
+        [
+          "Clustered."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "PBCom Tower",
-        "/wiki/PBCom_Tower"
+        [
+          "MozartSpaces"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Makati,Metro Manila",
-        "/wiki/Makati /wiki/Metro_Manila"
+        [
+          "Java"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2000\u20142017",
-        null
+        [
+          "AGPL"
+        ],
+        [
+          "/wiki/Affero_General_Public_License"
+        ]
       ],
       [
-        "259\u00a0m(850\u00a0ft)",
-        null
-      ],
-      [
-        "52",
-        null
+        [
+          "Provides many features and extensibility options."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Grand Hyatt Manila",
-        "/wiki/Grand_Hyatt_Manila"
+        [
+          "polyester"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Taguig,Metro Manila",
-        "/wiki/Taguig /wiki/Metro_Manila"
+        [
+          "Java"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2017\u2014present",
-        null
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GPL"
+        ]
       ],
       [
-        "318\u00a0m(1,043\u00a0ft)",
-        null
+        [
+          "lightweight, extension of LighTS"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "pSpaces"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "66",
-        null
+        [
+          "Java, C#, Go, Swift, JavaScript"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MIT License"
+        ],
+        [
+          "/wiki/MIT_License"
+        ]
+      ],
+      [
+        [
+          "Multiple languages supported."
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "PyLinda"
+        ],
+        [
+          "/wiki/PyLinda"
+        ]
+      ],
+      [
+        [
+          "Python"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GPL"
+        ]
+      ],
+      [
+        [
+          "See page"
+        ],
+        [
+          "/wiki/PyLinda"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Rinda"
+        ],
+        [
+          "/wiki/Rinda_(Ruby_programming_language)"
+        ]
+      ],
+      [
+        [
+          "Ruby"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ruby License"
+        ],
+        [
+          "/wiki/Ruby_License"
+        ]
+      ],
+      [
+        [
+          "See page"
+        ],
+        [
+          "/wiki/Rinda_(Ruby_programming_language)"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "simple spaces"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Java"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GPL"
+        ]
+      ],
+      [
+        [
+          "lightweight"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "SemiSpace"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Java"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Apache License"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "TIBCO ActiveSpaces"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Java, .Net, C/C++"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        [
+          "Clustered, fault-tolerant."
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Tuple Spaces"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Java"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "LGPL"
+        ],
+        [
+          "/wiki/LGPL"
+        ]
+      ],
+      [
+        [
+          "In-process and remote options"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Fabrix"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "TypeScript"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MIT License"
+        ],
+        [
+          "/wiki/MIT_License"
+        ]
+      ],
+      [
+        [
+          "Suited for Node.js environments and provides many extensibility options"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "This lists buildings that once held the title of tallest building in the Philippines. Other buildings such as churches with tall spires may be taller but are not listed because there are no data available for these buildings.",
+  "context": "",
   "idx": 14417
 }

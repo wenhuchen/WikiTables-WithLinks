@@ -1,170 +1,382 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Cornwall_League_1",
-  "title": "Cornwall League 1",
+  "url": "https://en.wikipedia.org/wiki/2013_French_Road_Cycling_Cup",
+  "title": "2013 French Road Cycling Cup",
   "header": [
     [
-      "Team",
-      null
+      [
+        "Pos."
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Ground",
-      null
+      [
+        "Rider"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Town/Village",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Previous season",
-      null
+      [
+        "Points"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Bodmin",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Clifden Park",
-        null
+        [
+          "Bryan Coquard"
+        ],
+        [
+          "/wiki/Bryan_Coquard"
+        ]
       ],
       [
-        "Bodmin",
-        "/wiki/Bodmin"
+        [
+          "Team Europcar"
+        ],
+        [
+          "/wiki/Total_Direct_%C3%89nergie_(cycling_team)"
+        ]
       ],
       [
-        "Runners up (lost playoff)",
-        null
+        [
+          "149"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Camborne School of Mines",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Memorial Park, Kernick Road",
-        null
+        [
+          "Yannick Martinez"
+        ],
+        [
+          "/wiki/Yannick_Martinez"
+        ]
       ],
       [
-        "Penryn",
-        "/wiki/Penryn,_Cornwall"
+        [
+          "La Pomme Marseille"
+        ],
+        [
+          "/wiki/Nippo%E2%80%93Delko%E2%80%93One_Provence"
+        ]
       ],
       [
-        "6th",
-        null
+        [
+          "111"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Helston",
-        "/wiki/Helston_RFC"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "King George V Playing Field",
-        null
+        [
+          "Arnaud D\u00e9mare"
+        ],
+        [
+          "/wiki/Arnaud_D%C3%A9mare"
+        ]
       ],
       [
-        "Helston",
-        "/wiki/Helston"
+        [
+          "FDJ.fr"
+        ],
+        [
+          "/wiki/Groupama%E2%80%93FDJ"
+        ]
       ],
       [
-        "Cornwall 2",
-        "/wiki/Cornwall_League_2"
+        [
+          "100"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Illogan Park",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Paynters Lane Playing Field",
-        null
+        [
+          "Nacer Bouhanni"
+        ],
+        [
+          "/wiki/Nacer_Bouhanni"
+        ]
       ],
       [
-        "Illogan",
-        "/wiki/Illogan"
+        [
+          "FDJ.fr"
+        ],
+        [
+          "/wiki/Groupama%E2%80%93FDJ"
+        ]
       ],
       [
-        "7th",
-        null
+        [
+          "75"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lankelly-Fowey RFC",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lankelly Farm",
-        null
+        [
+          "Jos\u00e9 Gon\u00e7alves"
+        ],
+        [
+          "/wiki/Jos%C3%A9_Gon%C3%A7alves_(cyclist)"
+        ]
       ],
       [
-        "Fowey",
-        "/wiki/Fowey"
+        [
+          "La Pomme Marseille"
+        ],
+        [
+          "/wiki/Nippo%E2%80%93Delko%E2%80%93One_Provence"
+        ]
       ],
       [
-        "Cornwall 2",
-        "/wiki/Cornwall_League_2"
+        [
+          "50"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Newquay Hornets",
-        null
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Newquay Sports Ground",
-        null
+        [
+          "Armindo Fonseca"
+        ],
+        [
+          "/wiki/Armindo_Fonseca"
+        ]
       ],
       [
-        "Newquay",
-        "/wiki/Newquay"
+        [
+          "Bretagne\u2013S\u00e9ch\u00e9 Environnement"
+        ],
+        [
+          "/wiki/Ark%C3%A9a%E2%80%93Samsic"
+        ]
       ],
       [
-        "3rd",
-        null
+        [
+          "49"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Roseland",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Philleigh Rugby Field",
-        null
+        [
+          "Johan Le Bon"
+        ],
+        [
+          "/wiki/Johan_Le_Bon"
+        ]
       ],
       [
-        "Philleigh",
-        "/wiki/Philleigh"
+        [
+          "FDJ.fr"
+        ],
+        [
+          "/wiki/Groupama%E2%80%93FDJ"
+        ]
       ],
       [
-        "5th",
-        null
+        [
+          "35"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Veor",
-        "/wiki/Veor_RFC"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Memorial Ground",
-        null
+        [
+          "Vegard Stake Laengen"
+        ],
+        [
+          "/wiki/Vegard_Stake_Laengen"
+        ]
       ],
       [
-        "Camborne",
-        "/wiki/Camborne"
+        [
+          "Bretagne\u2013S\u00e9ch\u00e9 Environnement"
+        ],
+        [
+          "/wiki/Ark%C3%A9a%E2%80%93Samsic"
+        ]
       ],
       [
-        "4th",
-        null
+        [
+          "28"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "9"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Thomas Damuseau"
+        ],
+        [
+          "/wiki/Thomas_Damuseau"
+        ]
+      ],
+      [
+        [
+          "Argos\u2013Shimano"
+        ],
+        [
+          "/wiki/Team_Sunweb_(men%27s_team)"
+        ]
+      ],
+      [
+        [
+          "25"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "10"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Arthur Vichot"
+        ],
+        [
+          "/wiki/Arthur_Vichot"
+        ]
+      ],
+      [
+        [
+          "FDJ.fr"
+        ],
+        [
+          "/wiki/Groupama%E2%80%93FDJ"
+        ]
+      ],
+      [
+        [
+          "25"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "In order to be eligible for the classification, riders had to be younger than 25 and either had to be French or competed for a French-licensed team.",
   "idx": 2738
 }

@@ -1,187 +1,719 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_New_York_University_alumni",
-  "title": "List of New York University alumni",
+  "url": "https://en.wikipedia.org/wiki/Semi-Automatic_Ground_Environment",
+  "title": "Semi-Automatic Ground Environment",
   "header": [
     [
-      "Name",
-      null
+      [
+        "Sector"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Relation to NYU",
-      null
+      [
+        "DC # and site"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Notability",
-      null
+      [
+        "AFB, etc."
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "ST"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Lamar Alexander",
-        "/wiki/Lamar_Alexander"
+        [
+          "New York"
+        ],
+        [
+          "/wiki/New_York_Air_Defense_Sector"
+        ]
       ],
       [
-        "Law",
-        "/wiki/New_York_University_School_of_Law"
+        [
+          "40\u00b001\u203251\u2033N 074\u00b034\u203232\u2033W\ufeff / \ufeff40.03083\u00b0N 74.57556\u00b0W\ufeff / 40.03083; -74.57556\ufeff (SAGE DC-01 (NY sector))"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United States Senate",
-        "/wiki/United_States_Senate"
+        [
+          "McGuire"
+        ],
+        [
+          "/wiki/McGuire_Air_Force_Base"
+        ]
+      ],
+      [
+        [
+          "NJ"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Rudy Boschwitz",
-        "/wiki/Rudy_Boschwitz"
+        [
+          "Boston"
+        ],
+        [
+          "/wiki/Boston_Air_Defense_Sector"
+        ]
       ],
       [
-        "Stern,Law",
-        "/wiki/New_York_University_Stern_School_of_Business /wiki/New_York_University_School_of_Law"
+        [
+          "41\u00b030\u203201\u2033N 074\u00b006\u203222\u2033W\ufeff / \ufeff41.50028\u00b0N 74.10611\u00b0W\ufeff / 41.50028; -74.10611\ufeff (SAGE DC-02 (Boston sector))"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United States Senate",
-        "/wiki/United_States_Senate"
+        [
+          "Stewart"
+        ],
+        [
+          "/wiki/Stewart_Air_Force_Base"
+        ]
+      ],
+      [
+        [
+          "NY"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Edward Irving Edwards",
-        "/wiki/Edward_Irving_Edwards"
+        [
+          "Syracuse"
+        ],
+        [
+          "/wiki/Syracuse_Air_Defense_Sector"
+        ]
       ],
       [
-        "Law",
-        "/wiki/New_York_University_School_of_Law"
+        [
+          "43\u00b007\u203219\u2033N 076\u00b006\u203201\u2033W\ufeff / \ufeff43.12194\u00b0N 76.10028\u00b0W\ufeff / 43.12194; -76.10028\ufeff (SAGE DC-02 (Syracuse sector))"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United States Senate,Governor of New Jersey",
-        "/wiki/United_States_Senate /wiki/Governor_of_New_Jersey"
+        [
+          "Hancock Field"
+        ],
+        [
+          "/wiki/Hancock_Field_Air_National_Guard_Base"
+        ]
+      ],
+      [
+        [
+          "NY"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Henry Drury Hatfield",
-        "/wiki/Henry_Drury_Hatfield"
+        [
+          "Washington"
+        ],
+        [
+          "/wiki/Washington_Air_Defense_Sector"
+        ]
       ],
       [
-        "Med",
-        "/wiki/New_York_University_School_of_Medicine"
+        [
+          "37\u00b015\u203209\u2033N 077\u00b019\u203221\u2033W\ufeff / \ufeff37.25250\u00b0N 77.32250\u00b0W\ufeff / 37.25250; -77.32250\ufeff (SAGE DC-04 (Washington sector))"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United States Senate,Governor of West Virginia",
-        "/wiki/United_States_Senate /wiki/Governor_of_West_Virginia"
+        [
+          "Fort Lee AFS"
+        ],
+        [
+          "/wiki/Fort_Lee_Air_Force_Station"
+        ]
+      ],
+      [
+        [
+          "VA"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Jacob Javits",
-        "/wiki/Jacob_Javits"
+        [
+          "Bangor"
+        ],
+        [
+          "/wiki/Bangor_Air_Defense_Sector"
+        ]
       ],
       [
-        "CAS,Law",
-        "/wiki/New_York_University_College_of_Arts_and_Science /wiki/New_York_University_School_of_Law"
+        [
+          "43\u00b056\u203242\u2033N 069\u00b057\u203246\u2033W\ufeff / \ufeff43.94500\u00b0N 69.96278\u00b0W\ufeff / 43.94500; -69.96278\ufeff (SAGE DC-05 (Bangor sector))"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United States Senate",
-        "/wiki/United_States_Senate"
+        [
+          "Topsham AFS"
+        ],
+        [
+          "/wiki/Topsham_Air_Force_Station"
+        ]
+      ],
+      [
+        [
+          "ME"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "James Edward Murray",
-        "/wiki/James_Edward_Murray"
+        [
+          "Detroit"
+        ],
+        [
+          "/wiki/Detroit_Air_Defense_Sector"
+        ]
       ],
       [
-        "Law",
-        "/wiki/New_York_University_School_of_Law"
+        [
+          "42\u00b019\u203218\u2033N 085\u00b016\u203200\u2033W\ufeff / \ufeff42.32167\u00b0N 85.26667\u00b0W\ufeff / 42.32167; -85.26667\ufeff (SAGE DC-06 (Detroit sector))"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United States Senate",
-        "/wiki/United_States_Senate"
+        [
+          "Fort Custer"
+        ],
+        [
+          "/wiki/Custer_Air_Force_Station"
+        ]
+      ],
+      [
+        [
+          "MI"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Tasker Lowndes Oddie",
-        "/wiki/Tasker_Lowndes_Oddie"
+        [
+          "Chicago"
+        ],
+        [
+          "/wiki/Chicago_Air_Defense_Sector"
+        ]
       ],
       [
-        "Law",
-        "/wiki/New_York_University_School_of_Law"
+        [
+          "43\u00b007\u203236\u2033N 089\u00b020\u203206\u2033W\ufeff / \ufeff43.12667\u00b0N 89.33500\u00b0W\ufeff / 43.12667; -89.33500\ufeff (SAGE DC-07 (Chicago sector))"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United States Senate",
-        "/wiki/United_States_Senate"
+        [
+          "Truax Field"
+        ],
+        [
+          "/wiki/Truax_Field_Air_National_Guard_Base"
+        ]
+      ],
+      [
+        [
+          "WI"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "James Aloysius O'Gorman",
-        "/wiki/James_Aloysius_O%27Gorman"
+        [
+          "Kansas City"
+        ],
+        [
+          "/wiki/Kansas_City_Air_Defense_Sector"
+        ]
       ],
       [
-        "Law",
-        "/wiki/New_York_University_School_of_Law"
+        [
+          "38\u00b050\u203247\u2033N 094\u00b032\u203250\u2033W\ufeff / \ufeff38.84639\u00b0N 94.54722\u00b0W\ufeff / 38.84639; -94.54722\ufeff (SAGE DC-08 (KC sector))"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United States Senate",
-        "/wiki/United_States_Senate"
+        [
+          "Richards-Gebaur"
+        ],
+        [
+          "/wiki/Richards-Gebaur_Air_Force_Base"
+        ]
+      ],
+      [
+        [
+          "MO"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Bob Packwood",
-        "/wiki/Bob_Packwood"
+        [
+          "Montgomery"
+        ],
+        [
+          "/wiki/Montgomery_Air_Defense_Sector"
+        ]
       ],
       [
-        "Law",
-        "/wiki/New_York_University_School_of_Law"
+        [
+          "32\u00b024\u203213\u2033N 086\u00b014\u203228\u2033W\ufeff / \ufeff32.40361\u00b0N 86.24111\u00b0W\ufeff / 32.40361; -86.24111\ufeff (SAGE DC-09 (Montgomery sector))"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United States Senate",
-        "/wiki/United_States_Senate"
+        [
+          "Gunter"
+        ],
+        [
+          "/wiki/Gunter_Air_Force_Base"
+        ]
+      ],
+      [
+        [
+          "AL"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Abraham Alexander Ribicoff",
-        "/wiki/Abraham_Alexander_Ribicoff"
+        [
+          "Duluth"
+        ],
+        [
+          "/wiki/Duluth_Air_Defense_Sector"
+        ]
       ],
       [
-        "B.A., 1929",
-        null
+        [
+          "46\u00b050\u203210\u2033N 092\u00b012\u203226\u2033W\ufeff / \ufeff46.83611\u00b0N 92.20722\u00b0W\ufeff / 46.83611; -92.20722\ufeff (Sage DCC-10 (Duluth sector))"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United States Senate",
-        "/wiki/United_States_Senate"
+        [
+          "Duluth AFB"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "MN"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Elihu Root",
-        "/wiki/Elihu_Root"
+        [
+          "Grand Forks"
+        ],
+        [
+          "/wiki/Grand_Forks_Air_Defense_Sector"
+        ]
       ],
       [
-        "Law",
-        "/wiki/New_York_University_School_of_Law"
+        [
+          "47\u00b056\u203247\u2033N 097\u00b022\u203255\u2033W\ufeff / \ufeff47.94639\u00b0N 97.38194\u00b0W\ufeff / 47.94639; -97.38194\ufeff (SAGE DC-11 (Grand Forks sector))"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United States Senate",
-        "/wiki/United_States_Senate"
+        [
+          "Grand Forks"
+        ],
+        [
+          "/wiki/Grand_Forks_Air_Force_Base"
+        ]
+      ],
+      [
+        [
+          "ND"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Arthur Walsh",
-        "/wiki/Arthur_Walsh_(Senator)"
+        [
+          "Seattle"
+        ],
+        [
+          "/wiki/Seattle_Air_Defense_Sector"
+        ]
       ],
       [
-        "Stern",
-        "/wiki/New_York_University_Stern_School_of_Business"
+        [
+          "47\u00b007\u203218\u2033N 122\u00b030\u203214\u2033W\ufeff / \ufeff47.12167\u00b0N 122.50389\u00b0W\ufeff / 47.12167; -122.50389\ufeff (SAGE DC-12 (Seattle sector))"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United States Senate",
-        "/wiki/United_States_Senate"
+        [
+          "McChord"
+        ],
+        [
+          "/wiki/McChord_Air_Force_Base"
+        ]
+      ],
+      [
+        [
+          "WA"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Portland"
+        ],
+        [
+          "/wiki/Portland_Air_Defense_Sector"
+        ]
+      ],
+      [
+        [
+          "44\u00b040\u203215\u2033N 123\u00b012\u203258\u2033W\ufeff / \ufeff44.67083\u00b0N 123.21611\u00b0W\ufeff / 44.67083; -123.21611\ufeff (SAGE DC-13 (Portland sector))"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Adair AFS"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "OR"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Sault Ste Marie"
+        ],
+        [
+          "/wiki/Sault_Sainte_Marie_Air_Defense_Sector"
+        ]
+      ],
+      [
+        [
+          "46\u00b020\u203247\u2033N 087\u00b023\u203200\u2033W\ufeff / \ufeff46.34639\u00b0N 87.38333\u00b0W\ufeff / 46.34639; -87.38333\ufeff (SAGE DC-14 (Sault Ste Marie sector))"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "K. I. Sawyer"
+        ],
+        [
+          "/wiki/K._I._Sawyer_Air_Force_Base"
+        ]
+      ],
+      [
+        [
+          "MI"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Spokane"
+        ],
+        [
+          "/wiki/Spokane_Air_Defense_Sector"
+        ]
+      ],
+      [
+        [
+          "47\u00b010\u203253\u2033N 119\u00b019\u203216\u2033W\ufeff / \ufeff47.18139\u00b0N 119.32111\u00b0W\ufeff / 47.18139; -119.32111\ufeff (SAGE DC-15 (Spokane sector))"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Larson"
+        ],
+        [
+          "/wiki/Larson_Air_Force_Base"
+        ]
+      ],
+      [
+        [
+          "WA"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Los Angeles"
+        ],
+        [
+          "/wiki/Los_Angeles_Air_Defense_Sector"
+        ]
+      ],
+      [
+        [
+          "34\u00b006\u203219\u2033N 117\u00b013\u203205\u2033W\ufeff / \ufeff34.10528\u00b0N 117.21806\u00b0W\ufeff / 34.10528; -117.21806\ufeff (SAGE DC-16 (LA sector))"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Norton"
+        ],
+        [
+          "/wiki/Norton_Air_Force_Base"
+        ]
+      ],
+      [
+        [
+          "CA"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Reno"
+        ],
+        [
+          "/wiki/Reno_Air_Defense_Sector"
+        ]
+      ],
+      [
+        [
+          "39\u00b039\u203204\u2033N 119\u00b053\u203200\u2033W\ufeff / \ufeff39.65111\u00b0N 119.88333\u00b0W\ufeff / 39.65111; -119.88333\ufeff (SAGE DC-17 (Reno sector))"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Stead"
+        ],
+        [
+          "/wiki/Stead_Air_Force_Base"
+        ]
+      ],
+      [
+        [
+          "NV"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "San Francisco"
+        ],
+        [
+          "/wiki/San_Francisco_Air_Defense_Sector"
+        ]
+      ],
+      [
+        [
+          "39\u00b006\u203235\u2033N 121\u00b023\u203249\u2033W\ufeff / \ufeff39.10972\u00b0N 121.39694\u00b0W\ufeff / 39.10972; -121.39694\ufeff (SAGE DC-18 (San Francisco sector))"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Beale"
+        ],
+        [
+          "/wiki/Beale_Air_Force_Base"
+        ]
+      ],
+      [
+        [
+          "CA"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Minot"
+        ],
+        [
+          "/wiki/Minot_Air_Defense_Sector"
+        ]
+      ],
+      [
+        [
+          "DC-19 (not completed)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Minot"
+        ],
+        [
+          "/wiki/Minot_Air_Force_Base"
+        ]
+      ],
+      [
+        [
+          "ND"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Great Falls"
+        ],
+        [
+          "/wiki/Great_Falls_Air_Defense_Sector"
+        ]
+      ],
+      [
+        [
+          "47\u00b030\u203259\u2033N 111\u00b010\u203255\u2033W\ufeff / \ufeff47.51639\u00b0N 111.18194\u00b0W\ufeff / 47.51639; -111.18194\ufeff (SAGE DC-20 (Great Falls sector))"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Malmstrom"
+        ],
+        [
+          "/wiki/Malmstrom_Air_Force_Base"
+        ]
+      ],
+      [
+        [
+          "MT"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

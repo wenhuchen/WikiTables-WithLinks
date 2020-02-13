@@ -1,246 +1,600 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Ranked_lists_of_Chilean_regions",
-  "title": "Ranked lists of Chilean regions",
+  "url": "https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_season_14)",
+  "title": "Dancing with the Stars (American season 14)",
   "header": [
     [
-      "Region",
-      null
+      [
+        "Dance"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Gini coefficient(per capita income)",
-      null
+      [
+        "Highest scored dancer(s)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Gini coefficient(equivalised income)",
-      null
+      [
+        "Highest score"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Lowest scored dancer(s)"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Lowest score"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Arica and Parinacota",
-        "/wiki/Arica_and_Parinacota_Region"
+        [
+          "Cha-cha-cha"
+        ],
+        [
+          "/wiki/Cha-cha-cha_(dance)"
+        ]
       ],
       [
-        "0.424",
-        null
+        [
+          "William Levy",
+          "Donald Driver"
+        ],
+        [
+          "/wiki/William_Levy_(actor)",
+          "/wiki/Donald_Driver"
+        ]
       ],
       [
-        "0.399",
-        null
+        [
+          "30"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melissa Gilbert"
+        ],
+        [
+          "/wiki/Melissa_Gilbert"
+        ]
+      ],
+      [
+        [
+          "20"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Tarapac\u00e1",
-        "/wiki/Tarapac%C3%A1_Region"
+        [
+          "Foxtrot"
+        ],
+        [
+          "/wiki/Foxtrot"
+        ]
       ],
       [
-        "0.448",
-        null
+        [
+          "William Levy"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.429",
-        null
+        [
+          "30"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Martina Navratilova",
+          "Gavin DeGraw"
+        ],
+        [
+          "/wiki/Martina_Navratilova",
+          "/wiki/Gavin_DeGraw"
+        ]
+      ],
+      [
+        [
+          "20"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Antofagasta",
-        "/wiki/Antofagasta_Region"
+        [
+          "Quickstep"
+        ],
+        [
+          "/wiki/Quickstep"
+        ]
       ],
       [
-        "0.457",
-        null
+        [
+          "Katherine Jenkins"
+        ],
+        [
+          "/wiki/Katherine_Jenkins"
+        ]
       ],
       [
-        "0.429",
-        null
+        [
+          "29"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Gladys Knight"
+        ],
+        [
+          "/wiki/Gladys_Knight"
+        ]
+      ],
+      [
+        [
+          "19"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Atacama",
-        "/wiki/Atacama_Region"
+        [
+          "Jive"
+        ],
+        [
+          "/wiki/Jive_(dance)"
+        ]
       ],
       [
-        "0.421",
-        null
+        [
+          "Katherine Jenkins"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.393",
-        null
+        [
+          "30"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Martina Navratilova"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Coquimbo",
-        "/wiki/Coquimbo_Region"
+        [
+          "Samba"
+        ],
+        [
+          "/wiki/Samba_(ballroom_dance)"
+        ]
       ],
       [
-        "0.416",
-        null
+        [
+          "William Levy"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.400",
-        null
+        [
+          "30"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Gavin DeGraw"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "19"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Valpara\u00edso",
-        "/wiki/Valpara%C3%ADso_Region"
+        [
+          "Rumba"
+        ],
+        [
+          "/wiki/Rhumba"
+        ]
       ],
       [
-        "0.457",
-        null
+        [
+          "Maria Menounos"
+        ],
+        [
+          "/wiki/Maria_Menounos"
+        ]
       ],
       [
-        "0.436",
-        null
+        [
+          "27"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Gladys Knight"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "21"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Santiago",
-        "/wiki/Santiago_Metropolitan_Region"
+        [
+          "Waltz"
+        ],
+        [
+          "/wiki/Waltz"
+        ]
       ],
       [
-        "0.514",
-        null
+        [
+          "Katherine Jenkins"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.486",
-        null
+        [
+          "29"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Donald Driver"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "28"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "O'Higgins",
-        "/wiki/O%27Higgins_Region"
+        [
+          "Salsa"
+        ],
+        [
+          "/wiki/Salsa_(dance)"
+        ]
       ],
       [
-        "0.413",
-        null
+        [
+          "William Levy"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.393",
-        null
+        [
+          "30"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melissa Gilbert"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "21"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Maule",
-        "/wiki/Maule_Region"
+        [
+          "Tango"
+        ],
+        [
+          "/wiki/Tango_(dance)"
+        ]
       ],
       [
-        "0.422",
-        null
+        [
+          "William Levy"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.402",
-        null
+        [
+          "28"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Gladys Knight"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "20"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Biob\u00edo",
-        "/wiki/Biob%C3%ADo_Region"
+        [
+          "Paso Doble"
+        ],
+        [
+          "/wiki/Paso_Doble"
+        ]
       ],
       [
-        "0.425",
-        null
+        [
+          "Katherine JenkinsMaria Menounos"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.406",
-        null
+        [
+          "30"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melissa Gilbert"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "22"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Araucan\u00eda",
-        "/wiki/Araucan%C3%ADa_Region"
+        [
+          "Viennese Waltz"
+        ],
+        [
+          "/wiki/Viennese_Waltz"
+        ]
       ],
       [
-        "0.457",
-        null
+        [
+          "Maria Menounos"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.445",
-        null
+        [
+          "28"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Jaleel White"
+        ],
+        [
+          "/wiki/Jaleel_White"
+        ]
+      ],
+      [
+        [
+          "24"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Los R\u00edos",
-        "/wiki/Los_R%C3%ADos_Region"
+        [
+          "Argentine Tango"
+        ],
+        [
+          "/wiki/Argentine_Tango"
+        ]
       ],
       [
-        "0.455",
-        null
+        [
+          "Maria Menounos"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.440",
-        null
+        [
+          "30"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Melissa Gilbert"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "21"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Los Lagos",
-        "/wiki/Los_Lagos_Region"
+        [
+          "Freestyle"
+        ],
+        [
+          "/wiki/Street_dance"
+        ]
       ],
       [
-        "0.454",
-        null
+        [
+          "Katherine JenkinsDonald Driver"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.437",
-        null
-      ]
-    ],
-    [
-      [
-        "Ais\u00e9n",
-        "/wiki/Ais%C3%A9n_Region"
+        [
+          "30"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.466",
-        null
+        [
+          "William Levy"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0.437",
-        null
-      ]
-    ],
-    [
-      [
-        "Magallanes",
-        "/wiki/Magallanes_Region"
-      ],
-      [
-        "0.441",
-        null
-      ],
-      [
-        "0.422",
-        null
-      ]
-    ],
-    [
-      [
-        "Chile",
-        "/wiki/Chile"
-      ],
-      [
-        "0.488",
-        null
-      ],
-      [
-        "0.465",
-        null
+        [
+          "29"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "The best and worst performances in each dance according to the judges' 30-point scale are as follows:",
   "idx": 2544
 }

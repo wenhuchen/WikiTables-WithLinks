@@ -1,299 +1,519 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Group_GT3",
-  "title": "Group GT3",
+  "url": "https://en.wikipedia.org/wiki/List_of_mammals_of_Alabama",
+  "title": "List of mammals of Alabama",
   "header": [
     [
-      "Homologation",
-      null
+      [
+        "Scientific name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Manufacturer",
-      null
+      [
+        "Common name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Model",
-      null
+      [
+        "Family"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Conservationconcern"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "GT3-001",
-        null
+        [
+          "Canis latrans"
+        ],
+        [
+          "/wiki/Coyote"
+        ]
       ],
       [
-        "Maserati",
-        "/wiki/Maserati"
+        [
+          "coyote"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Coupe Grand Sportif Light",
-        "/wiki/Maserati_Coup%C3%A9#Trofeo"
+        [
+          "Canidae"
+        ],
+        [
+          "/wiki/Canidae"
+        ]
+      ],
+      [
+        [
+          "Lowest"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "GT3-002",
-        null
+        [
+          "Canis lupus"
+        ],
+        [
+          "/wiki/Wolf"
+        ]
       ],
       [
-        "Dodge",
-        "/wiki/Dodge"
+        [
+          "wolf"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Viper Competition Coupe",
-        "/wiki/Dodge_Viper"
+        [
+          "Canidae"
+        ],
+        [
+          "/wiki/Canidae"
+        ]
+      ],
+      [
+        [
+          "Extirpated",
+          "Great Lakes region",
+          "northwestern United States"
+        ],
+        [
+          "/wiki/Local_extinction",
+          "/wiki/Great_Lakes_region",
+          "/wiki/Northwestern_United_States"
+        ]
       ]
     ],
     [
       [
-        "GT3-003",
-        null
+        [
+          "Canis rufus"
+        ],
+        [
+          "/wiki/Red_wolf"
+        ]
       ],
       [
-        "Aston Martin",
-        "/wiki/Aston_Martin"
+        [
+          "red wolf"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "DBRS9",
-        "/wiki/Aston_Martin_DBRS9"
+        [
+          "Canidae"
+        ],
+        [
+          "/wiki/Canidae"
+        ]
+      ],
+      [
+        [
+          "Extirpated"
+        ],
+        [
+          "/wiki/Local_extinction"
+        ]
       ]
     ],
     [
       [
-        "GT3-004",
-        null
+        [
+          "Vulpes vulpes fulvus"
+        ],
+        [
+          "/wiki/American_red_fox"
+        ]
       ],
       [
-        "Lamborghini",
-        "/wiki/Lamborghini"
+        [
+          "red fox"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Gallardo LP520 GT3",
-        "/wiki/Lamborghini_Gallardo"
+        [
+          "Canidae"
+        ],
+        [
+          "/wiki/Canidae"
+        ]
+      ],
+      [
+        [
+          "Lowest"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "GT3-005",
-        null
+        [
+          "Urocyon cinereoargenteus"
+        ],
+        [
+          "/wiki/Gray_fox"
+        ]
       ],
       [
-        "Corvette",
-        "/wiki/Chevrolet_Corvette"
+        [
+          "gray fox"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Z06.R GT3",
-        "/wiki/Callaway_Cars#C15_(FIA_Corvette_GT3)"
+        [
+          "Canidae"
+        ],
+        [
+          "/wiki/Canidae"
+        ]
+      ],
+      [
+        [
+          "Lowest"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "GT3-006",
-        null
+        [
+          "Ursus americanus"
+        ],
+        [
+          "/wiki/American_black_bear"
+        ]
       ],
       [
-        "Ascari",
-        "/wiki/Ascari_Cars"
+        [
+          "American black bear"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "KZ1 GT3",
-        "/wiki/Ascari_KZ1"
+        [
+          "Ursidae"
+        ],
+        [
+          "/wiki/Ursidae"
+        ]
+      ],
+      [
+        [
+          "Mobile-Tensaw River Delta"
+        ],
+        [
+          "/wiki/Mobile-Tensaw_River_Delta"
+        ]
       ]
     ],
     [
       [
-        "GT3-007",
-        null
+        [
+          "Procyon lotor"
+        ],
+        [
+          "/wiki/Raccoon"
+        ]
       ],
       [
-        "Porsche",
-        "/wiki/Porsche"
+        [
+          "raccoon"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "911 GT3 Cup",
-        "/wiki/Porsche_911_GT3"
+        [
+          "Procyonidae"
+        ],
+        [
+          "/wiki/Procyonidae"
+        ]
+      ],
+      [
+        [
+          "Lowest"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "GT3-008",
-        null
+        [
+          "Mustela frenata"
+        ],
+        [
+          "/wiki/Long-tailed_weasel"
+        ]
       ],
       [
-        "Venturi",
-        "/wiki/Venturi_Automobiles"
+        [
+          "long-tailed weasel"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GT3 Heritage",
-        "/wiki/Venturi_Atlantique"
+        [
+          "Mustelidae"
+        ],
+        [
+          "/wiki/Mustelidae"
+        ]
+      ],
+      [
+        [
+          "High"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "GT3-009",
-        null
+        [
+          "Neovison vison"
+        ],
+        [
+          "/wiki/American_mink"
+        ]
       ],
       [
-        "Ferrari",
-        "/wiki/Ferrari"
+        [
+          "American mink"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "F430 GT3",
-        "/wiki/Ferrari_F430"
+        [
+          "Mustelidae"
+        ],
+        [
+          "/wiki/Mustelidae"
+        ]
+      ],
+      [
+        [
+          "Low"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "GT3-010",
-        null
+        [
+          "Lontra canadensis"
+        ],
+        [
+          "/wiki/North_American_river_otter"
+        ]
       ],
       [
-        "Ford Racing",
-        "/wiki/Ford_Racing"
+        [
+          "North American river otternorthern river otter"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mustang FR500C GT",
-        "/wiki/Ford_Mustang_FR500"
+        [
+          "Mustelidae"
+        ],
+        [
+          "/wiki/Mustelidae"
+        ]
+      ],
+      [
+        [
+          "Low"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "GT3-011",
-        null
+        [
+          "Mephitis mephitis"
+        ],
+        [
+          "/wiki/Striped_skunk"
+        ]
       ],
       [
-        "Ford",
-        "/wiki/Ford_Motor_Company"
+        [
+          "striped skunkpolecat"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "GT GT3",
-        "/wiki/Ford_GT"
+        [
+          "Mephitidae"
+        ],
+        [
+          "/wiki/Mephitidae"
+        ]
+      ],
+      [
+        [
+          "Low"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "GT3-012",
-        null
+        [
+          "Spilogale putorius"
+        ],
+        [
+          "/wiki/Eastern_spotted_skunk"
+        ]
       ],
       [
-        "Jaguar",
-        "/wiki/Jaguar_Cars"
+        [
+          "eastern spotted skunkpolecat"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "XKR GT3",
-        "/wiki/Jaguar_XK"
+        [
+          "Mephitidae"
+        ],
+        [
+          "/wiki/Mephitidae"
+        ]
+      ],
+      [
+        [
+          "High"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "GT3-013",
-        null
+        [
+          "Puma concolor"
+        ],
+        [
+          "/wiki/North_American_cougar"
+        ]
       ],
       [
-        "Morgan",
-        "/wiki/Morgan_Motor_Company"
+        [
+          "cougarmountain lionpantherpuma"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Aero 8 GT3",
-        "/wiki/Morgan_Aero_8"
+        [
+          "Felidae"
+        ],
+        [
+          "/wiki/Felidae"
+        ]
+      ],
+      [
+        [
+          "western Canada"
+        ],
+        [
+          "/wiki/Western_Canada"
+        ]
       ]
     ],
     [
       [
-        "GT3-014",
-        null
+        [
+          "Lynx rufus"
+        ],
+        [
+          "/wiki/Bobcat"
+        ]
       ],
       [
-        "Lotus",
-        "/wiki/Lotus_Cars"
+        [
+          "bobcat"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Exige GT3",
-        "/wiki/Lotus_Exige"
-      ]
-    ],
-    [
-      [
-        "GT3-015",
-        null
+        [
+          "Felidae"
+        ],
+        [
+          "/wiki/Felidae"
+        ]
       ],
       [
-        "Porsche",
-        "/wiki/Porsche"
-      ],
-      [
-        "911 GT3 Cup S",
-        "/wiki/Porsche_997_GT3"
-      ]
-    ],
-    [
-      [
-        "GT3-016",
-        null
-      ],
-      [
-        "Ford",
-        "/wiki/Ford_Motor_Company"
-      ],
-      [
-        "GT GT3",
-        "/wiki/Ford_GT"
-      ]
-    ],
-    [
-      [
-        "GT3-017",
-        null
-      ],
-      [
-        "Audi",
-        "/wiki/Audi"
-      ],
-      [
-        "R8 LMS",
-        "/wiki/Audi_R8_(road_car)"
-      ]
-    ],
-    [
-      [
-        "GT3-018",
-        null
-      ],
-      [
-        "BMW Alpina",
-        "/wiki/Alpina"
-      ],
-      [
-        "B6 GT3",
-        "/wiki/BMW_6_Series_(E63)"
-      ]
-    ],
-    [
-      [
-        "GT3-019",
-        null
-      ],
-      [
-        "Ferrari",
-        "/wiki/Ferrari"
-      ],
-      [
-        "430 Scuderia GT3",
-        "/wiki/Ferrari_430_Scuderia"
-      ]
-    ],
-    [
-      [
-        "GT3-020",
-        null
-      ],
-      [
-        "Dodge",
-        "/wiki/Dodge"
-      ],
-      [
-        "Viper Competition Coupe Series 2",
-        "/wiki/Dodge_Viper"
+        [
+          "Lowest"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

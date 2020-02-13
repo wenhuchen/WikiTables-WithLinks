@@ -1,383 +1,1093 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Bill_Nighy",
-  "title": "Bill Nighy",
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
   "header": [
     [
-      "Date",
-      null
+      [
+        "Emulator"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Title",
-      null
+      [
+        "Latest version"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Role",
-      null
+      [
+        "Released"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Station",
-      null
+      [
+        "Guest emulation capabilities"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Host Operating System"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "License"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1981",
-        null
+        [
+          "86Box"
+        ],
+        [
+          "/wiki/PCem"
+        ]
       ],
       [
-        "The Lord of the Rings",
-        "/wiki/The_Lord_of_the_Rings_(1981_radio_series)"
+        [
+          "1.07"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sam Gamgee",
-        "/wiki/Sam_Gamgee"
+        [
+          "February 21, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4",
-        "/wiki/BBC_Radio_4"
+        [
+          "x86 PC"
+        ],
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "Microsoft Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "GPLv2"
+        ],
+        [
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "1983",
-        null
+        [
+          "Aeon"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Yes, Minister",
-        "/wiki/Yes,_Minister"
+        [
+          "0.64"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Frank Weisel",
-        null
+        [
+          "June 30, 2011"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4",
-        "/wiki/BBC_Radio_4"
+        [
+          "MS-DOS"
+        ],
+        [
+          "/wiki/MS-DOS"
+        ]
+      ],
+      [
+        [
+          ".NET Framework",
+          "4.0"
+        ],
+        [
+          "/wiki/.NET_Framework",
+          "/wiki/.NET_Framework_version_history"
+        ]
+      ],
+      [
+        [
+          "MS-PL"
+        ],
+        [
+          "/wiki/Microsoft_Public_License"
+        ]
       ]
     ],
     [
       [
-        "1993",
-        null
+        [
+          "Bochs"
+        ],
+        [
+          "/wiki/Bochs"
+        ]
       ],
       [
-        "Arcadia",
-        "/wiki/Arcadia_(play)"
+        [
+          "2.6.9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bernard Nightingale",
-        null
+        [
+          "April 9, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 3",
-        "/wiki/BBC_Radio_3"
+        [
+          "x86 PC",
+          "x86-64 PC"
+        ],
+        [
+          "/wiki/IBM_PC_compatible",
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "LGPL"
+        ],
+        [
+          "/wiki/GNU_Lesser_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "1994",
-        null
+        [
+          "Dioscuri"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ancient Enemies",
-        null
+        [
+          "0.7.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Unknown",
-        null
+        [
+          "January 19, 2011"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4",
-        "/wiki/BBC_Radio_4"
+        [
+          "x86 PC"
+        ],
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "JVM"
+        ],
+        [
+          "/wiki/Java_virtual_machine"
+        ]
+      ],
+      [
+        [
+          "GPLv2"
+        ],
+        [
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "1999",
-        null
+        [
+          "DOSBox"
+        ],
+        [
+          "/wiki/DOSBox"
+        ]
       ],
       [
-        "So Much Blood",
-        "/wiki/Gaynor_Macfarlane#So_Much_Blood"
+        [
+          "0.74"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Charles Paris",
-        "/wiki/Simon_Brett#Charles_Paris"
+        [
+          "May 12, 2010"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4,Saturday Play",
-        "/wiki/BBC_Radio_4 /wiki/Saturday_Play"
+        [
+          "DOS",
+          "x86 PC"
+        ],
+        [
+          "/wiki/DOS",
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "GPLv2"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "2002",
-        null
+        [
+          "jDosbox"
+        ],
+        [
+          "/wiki/DOSBox"
+        ]
       ],
       [
-        "Blue/Orange",
-        "/wiki/Blue/Orange"
+        [
+          "0.74.28"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Unknown",
-        null
+        [
+          "February 27, 2013"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4",
-        "/wiki/BBC_Radio_4"
+        [
+          "DOS",
+          "x86 PC"
+        ],
+        [
+          "/wiki/DOS",
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "JVM"
+        ],
+        [
+          "/wiki/Java_virtual_machine"
+        ]
+      ],
+      [
+        [
+          "GPLv2"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "2003",
-        null
+        [
+          "JsDOSBox"
+        ],
+        [
+          "/wiki/DOSBox"
+        ]
       ],
       [
-        "Baldi",
-        "/wiki/Baldi_(radio)"
+        [
+          "3.3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "O'Connor",
-        null
+        [
+          "January 10, 2016"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4,Afternoon Play",
-        "/wiki/BBC_Radio_4 /wiki/Afternoon_Play"
+        [
+          "DOS",
+          "x86 PC"
+        ],
+        [
+          "/wiki/DOS",
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "Web browser",
+          "JavaScript"
+        ],
+        [
+          "/wiki/Web_browser",
+          "/wiki/JavaScript"
+        ]
+      ],
+      [
+        [
+          "GPLv2"
+        ],
+        [
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "2003",
-        null
+        [
+          "NaClBox"
+        ],
+        [
+          "/wiki/DOSBox"
+        ]
       ],
       [
-        "Turtle Diary",
-        "/wiki/Gaynor_Macfarlane#Turtle_Diary"
+        [
+          "CVS (follows DOSBox)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "William",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4,Saturday Play",
-        "/wiki/BBC_Radio_4 /wiki/Saturday_Play"
+        [
+          "DOS",
+          "x86 PC"
+        ],
+        [
+          "/wiki/DOS",
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "Google Native Client"
+        ],
+        [
+          "/wiki/Google_Native_Client"
+        ]
+      ],
+      [
+        [
+          "GPLv2"
+        ],
+        [
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "2004",
-        null
+        [
+          "JPC"
+        ],
+        [
+          "/wiki/JPC_(emulator)"
+        ]
       ],
       [
-        "A Series of Murders",
-        null
+        [
+          "3.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Charles Paris",
-        "/wiki/Simon_Brett#Charles_Paris"
+        [
+          "May 24, 2010"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4,Saturday Play",
-        "/wiki/BBC_Radio_4 /wiki/Saturday_Play"
+        [
+          "x86 PC"
+        ],
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "JVM"
+        ],
+        [
+          "/wiki/Java_virtual_machine"
+        ]
+      ],
+      [
+        [
+          "GPLv2"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "2004",
-        null
+        [
+          "MAME",
+          "MESS"
+        ],
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
       ],
       [
-        "All Fingers and Thumbs",
-        null
+        [
+          "0.196"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tom",
-        null
+        [
+          "March 28, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4,Afternoon Play",
-        "/wiki/BBC_Radio_4 /wiki/Afternoon_Play"
+        [
+          "Various computers, consoles, and arcade systems"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "New BSD",
+          "GPLv2"
+        ],
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "2006",
-        null
+        [
+          "Microsoft Virtual PC"
+        ],
+        [
+          "/wiki/Microsoft_Virtual_PC"
+        ]
       ],
       [
-        "A Charles Paris Mystery: Sicken and So Die",
-        null
+        [
+          "7.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Charles Paris",
-        "/wiki/Simon_Brett#Charles_Paris"
+        [
+          "September 10, 2004"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4",
-        "/wiki/BBC_Radio_4"
+        [
+          "x86 PC"
+        ],
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "Mac OS",
+          "Mac OS X"
+        ],
+        [
+          "/wiki/Mac_OS",
+          "/wiki/Mac_OS_X"
+        ]
+      ],
+      [
+        [
+          "Commercial"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2007",
-        null
+        [
+          "Parallels"
+        ],
+        [
+          "/wiki/Parallels_Desktop"
+        ]
       ],
       [
-        "A Charles Paris Mystery: Murder Unprompted",
-        null
+        [
+          "13.3.0-43321"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Charles Paris",
-        "/wiki/Simon_Brett#Charles_Paris"
+        [
+          "March 16, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4",
-        "/wiki/BBC_Radio_4"
+        [
+          "x86 PC",
+          "virtualizer"
+        ],
+        [
+          "/wiki/IBM_PC_compatible",
+          "/wiki/Platform_virtualization"
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "Commercial"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2008",
-        null
+        [
+          "PCem"
+        ],
+        [
+          "/wiki/PCem"
+        ]
       ],
       [
-        "I Wish to Apologise for My Part in the Apocalypse",
-        null
+        [
+          "v14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Keith",
-        null
+        [
+          "April 20, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4,Afternoon Play",
-        "/wiki/BBC_Radio_4 /wiki/Afternoon_Play"
+        [
+          "x86 PC"
+        ],
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "Windows",
+          "Linux"
+        ],
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/Linux"
+        ]
+      ],
+      [
+        [
+          "GPLv2"
+        ],
+        [
+          "/wiki/GPLv2"
+        ]
       ]
     ],
     [
       [
-        "2008",
-        null
+        [
+          "PocketDOS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "A Charles Paris Mystery: Dead Side of the Mic",
-        null
+        [
+          "1.12.3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Charles Paris",
-        "/wiki/Simon_Brett#Charles_Paris"
+        [
+          "August 8, 2009"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4",
-        "/wiki/BBC_Radio_4"
+        [
+          "x86 PC"
+        ],
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "Windows",
+          "Windows CE",
+          "Pocket PC"
+        ],
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/Windows_CE",
+          "/wiki/Pocket_PC"
+        ]
+      ],
+      [
+        [
+          "Commercial"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2009",
-        null
+        [
+          "Q"
+        ],
+        [
+          "/wiki/Q_(emulator)"
+        ]
       ],
       [
-        "Educating Rita",
-        "/wiki/Kirsty_Williams_(drama)#Educating_Rita"
+        [
+          "0.9.1d118"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Frank",
-        null
+        [
+          "February 16, 2010"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4,Saturday Play",
-        "/wiki/BBC_Radio_4 /wiki/Saturday_Play"
+        [
+          "x86 PC"
+        ],
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "OS X"
+        ],
+        [
+          "/wiki/OS_X"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "2010",
-        null
+        [
+          "QEMU"
+        ],
+        [
+          "/wiki/QEMU"
+        ]
       ],
       [
-        "Private Lives",
-        "/wiki/Private_Lives"
+        [
+          "2.11.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Elyot",
-        null
+        [
+          "December 13, 2017"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4,Saturday Play",
-        "/wiki/BBC_Radio_4 /wiki/Saturday_Play"
+        [
+          "x86 PC"
+        ],
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "2010",
-        null
+        [
+          "SimNow"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "A Charles Paris Mystery: Cast in Order of Disappearance",
-        null
+        [
+          "4.6.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Charles Paris",
-        "/wiki/Simon_Brett#Charles_Paris"
+        [
+          "April 6, 2010"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4",
-        "/wiki/BBC_Radio_4"
+        [
+          "AMD K8",
+          "Athlon 64",
+          "Opteron"
+        ],
+        [
+          "/wiki/AMD_K8",
+          "/wiki/Athlon_64",
+          "/wiki/Opteron"
+        ]
+      ],
+      [
+        [
+          "Windows 64-bit",
+          "Linux 64-bit"
+        ],
+        [
+          "/wiki/X86-64",
+          "/wiki/X86-64"
+        ]
+      ],
+      [
+        [
+          "Freeware",
+          "Proprietary"
+        ],
+        [
+          "/wiki/Freeware",
+          "/wiki/Proprietary_software"
+        ]
       ]
     ],
     [
       [
-        "2010",
-        null
+        [
+          "SPC/AT Emulator"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "A Charles Paris Mystery: Murder in the Title",
-        null
+        [
+          "0.97"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Charles Paris",
-        "/wiki/Simon_Brett#Charles_Paris"
+        [
+          "March 10, 2014"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4",
-        "/wiki/BBC_Radio_4"
+        [
+          "x86 PC"
+        ],
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "Freeware"
+        ],
+        [
+          "/wiki/Freeware"
+        ]
       ]
     ],
     [
       [
-        "2011",
-        null
+        [
+          "VirtualBox"
+        ],
+        [
+          "/wiki/VirtualBox"
+        ]
       ],
       [
-        "The Bat Man",
-        null
+        [
+          "5.2.8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Christopher",
-        null
+        [
+          "February 27, 2018"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 4,Afternoon Play",
-        "/wiki/BBC_Radio_4 /wiki/Afternoon_Play"
+        [
+          "x86 PC",
+          "virtualizer"
+        ],
+        [
+          "/wiki/IBM_PC_compatible",
+          "/wiki/Platform_virtualization"
+        ]
+      ],
+      [
+        [
+          "Cross-platform"
+        ],
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        [
+          "GPL"
+        ],
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
       ]
     ],
     [
       [
-        "2013",
-        null
+        [
+          "VMachine"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Darkside",
-        "/wiki/Darkside_(radio_play)"
+        [
+          "0.1.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "The Witch Finder / Doctor Antrobus",
-        null
+        [
+          "October 10, 2010"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "BBC Radio 2",
-        "/wiki/BBC_Radio_2"
+        [
+          "x86 PC"
+        ],
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        [
+          "Windows"
+        ],
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        [
+          "Custom"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

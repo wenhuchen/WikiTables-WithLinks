@@ -1,291 +1,677 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2001_MLS_SuperDraft",
-  "title": "2001 MLS SuperDraft",
+  "url": "https://en.wikipedia.org/wiki/1977_Major_League_Baseball_draft",
+  "title": "1977 Major League Baseball draft",
   "header": [
     [
-      "Pick #",
-      null
+      [
+        "Round"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "MLS team",
-      null
+      [
+        "Pick"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Player",
-      null
+      [
+        "Player"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Position",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Affiliation",
-      null
+      [
+        "Position"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "25",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dallas Burn",
-        "/wiki/Dallas_Burn"
+        [
+          "29"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Josue Mayard",
-        "/wiki/Josue_Mayard"
+        [
+          "Kevin Bass"
+        ],
+        [
+          "/wiki/Kevin_Bass"
+        ]
       ],
       [
-        "M",
-        null
+        [
+          "Milwaukee Brewers"
+        ],
+        [
+          "/wiki/Milwaukee_Brewers"
+        ]
       ],
       [
-        "Montreal Impact,A-League",
-        "/wiki/Montreal_Impact /wiki/USL_First_Division"
+        [
+          "OF"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "26",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "MetroStars",
-        "/wiki/MetroStars"
+        [
+          "38"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kerwyn Jemmott",
-        "/wiki/HTTP_404"
+        [
+          "Terry Francona"
+        ],
+        [
+          "/wiki/Terry_Francona"
+        ]
       ],
       [
-        "M",
-        null
+        [
+          "Chicago Cubs"
+        ],
+        [
+          "/wiki/Chicago_Cubs"
+        ]
       ],
       [
-        "Joe Public F.C.",
-        "/wiki/Joe_Public_F.C."
+        [
+          "1B"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "27",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Columbus Crew",
-        "/wiki/Columbus_Crew"
+        [
+          "42"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Edson Buddle",
-        "/wiki/Edson_Buddle"
+        [
+          "Mookie Wilson"
+        ],
+        [
+          "/wiki/Mookie_Wilson"
+        ]
       ],
       [
-        "F",
-        null
+        [
+          "New York Mets"
+        ],
+        [
+          "/wiki/New_York_Mets"
+        ]
       ],
       [
-        "Long Island Rough Riders,A-League",
-        "/wiki/Long_Island_Rough_Riders /wiki/USL_First_Division"
+        [
+          "OF"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "28",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "D.C. United",
-        "/wiki/D.C._United"
+        [
+          "54"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Craig Ziadie",
-        "/wiki/Craig_Ziadie"
+        [
+          "Scott Sanderson"
+        ],
+        [
+          "/wiki/Scott_Sanderson_(baseball)"
+        ]
       ],
       [
-        "D",
-        null
+        [
+          "Montreal Expos"
+        ],
+        [
+          "/wiki/Montreal_Expos"
+        ]
       ],
       [
-        "University of Richmond",
-        "/wiki/University_of_Richmond"
+        [
+          "RHP"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "29",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Chicago Fire",
-        "/wiki/Chicago_Fire_S.C."
+        [
+          "84"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jim Curtin",
-        "/wiki/Jim_Curtin"
+        [
+          "Jim Gott"
+        ],
+        [
+          "/wiki/Jim_Gott"
+        ]
       ],
       [
-        "D",
-        null
+        [
+          "St. Louis Cardinals"
+        ],
+        [
+          "/wiki/St._Louis_Cardinals"
+        ]
       ],
       [
-        "Villanova University",
-        "/wiki/Villanova_University"
+        [
+          "RHP"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "30",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Columbus Crew",
-        "/wiki/Columbus_Crew"
+        [
+          "85"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kevin Adams",
-        "/wiki/Kevin_Adams"
+        [
+          "Brian Harper"
+        ],
+        [
+          "/wiki/Brian_Harper"
+        ]
       ],
       [
-        "D",
-        null
+        [
+          "California Angels"
+        ],
+        [
+          "/wiki/California_Angels"
+        ]
       ],
       [
-        "Joe Public F.C.",
-        "/wiki/Joe_Public_F.C."
+        [
+          "C"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "31",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "San Jose Earthquakes",
-        "/wiki/San_Jose_Earthquakes"
+        [
+          "86"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Craig Waibel",
-        "/wiki/Craig_Waibel"
+        [
+          "Ozzie Smith"
+        ],
+        [
+          "/wiki/Ozzie_Smith"
+        ]
       ],
       [
-        "D",
-        null
+        [
+          "San Diego Padres"
+        ],
+        [
+          "/wiki/San_Diego_Padres"
+        ]
       ],
       [
-        "Seattle Sounders,A-League",
-        "/wiki/Seattle_Sounders_(1994%E2%80%932008) /wiki/USL_First_Division"
+        [
+          "SS"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "32",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Colorado Rapids",
-        "/wiki/Colorado_Rapids"
+        [
+          "106"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ryan Lee",
-        "/wiki/HTTP_404"
+        [
+          "Tim Raines"
+        ],
+        [
+          "/wiki/Tim_Raines"
+        ]
       ],
       [
-        "D",
-        null
+        [
+          "Montreal Expos"
+        ],
+        [
+          "/wiki/Montreal_Expos"
+        ]
       ],
       [
-        "UCLA",
-        "/wiki/UCLA"
+        [
+          "OF"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "33",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Chicago Fire",
-        "/wiki/Chicago_Fire_S.C."
+        [
+          "124"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Henry Ring",
-        "/wiki/Henry_Ring"
+        [
+          "Mickey Hatcher"
+        ],
+        [
+          "/wiki/Mickey_Hatcher"
+        ]
       ],
       [
-        "GK",
-        null
+        [
+          "Los Angeles Dodgers"
+        ],
+        [
+          "/wiki/Los_Angeles_Dodgers"
+        ]
       ],
       [
-        "University of South Carolina",
-        "/wiki/University_of_South_Carolina"
+        [
+          "OF"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "34",
-        null
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tampa Bay Mutiny",
-        "/wiki/Tampa_Bay_Mutiny"
+        [
+          "233"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Alberto Mu\u00f1oz",
-        "/wiki/Alberto_Mu%C3%B1oz"
+        [
+          "Jesse Barfield"
+        ],
+        [
+          "/wiki/Jesse_Barfield"
+        ]
       ],
       [
-        "M",
-        null
+        [
+          "Toronto Blue Jays"
+        ],
+        [
+          "/wiki/Toronto_Blue_Jays"
+        ]
       ],
       [
-        "Miami Breakers,PDL",
-        "/wiki/Miami_Breakers /wiki/USL_Premier_Development_League"
+        [
+          "OF"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "35",
-        null
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kansas City Wizards",
-        "/wiki/Kansas_City_Wizards"
+        [
+          "270"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ben Stafford",
-        "/wiki/Ben_Stafford"
+        [
+          "Chili Davis"
+        ],
+        [
+          "/wiki/Chili_Davis"
+        ]
       ],
       [
-        "F",
-        null
+        [
+          "San Francisco Giants"
+        ],
+        [
+          "/wiki/San_Francisco_Giants"
+        ]
       ],
       [
-        "Wake Forest University",
-        "/wiki/Wake_Forest_University"
+        [
+          "OF"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "36",
-        null
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Colorado Rapids",
-        "/wiki/Colorado_Rapids"
+        [
+          "389"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Eric Lukin",
-        "/wiki/HTTP_404"
+        [
+          "Danny Ainge"
+        ],
+        [
+          "/wiki/Danny_Ainge"
+        ]
       ],
       [
-        "F",
-        null
+        [
+          "Toronto Blue Jays"
+        ],
+        [
+          "/wiki/Toronto_Blue_Jays"
+        ]
       ],
       [
-        "University of Illinois at Chicago",
-        "/wiki/University_of_Illinois_at_Chicago"
+        [
+          "INF"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "16"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "416"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tony Phillips"
+        ],
+        [
+          "/wiki/Tony_Phillips"
+        ]
+      ],
+      [
+        [
+          "Seattle Mariners"
+        ],
+        [
+          "/wiki/Seattle_Mariners"
+        ]
+      ],
+      [
+        [
+          "INF/OF"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "17"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "429"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Gary Redus"
+        ],
+        [
+          "/wiki/Gary_Redus"
+        ]
+      ],
+      [
+        [
+          "Boston Red Sox"
+        ],
+        [
+          "/wiki/Boston_Red_Sox"
+        ]
+      ],
+      [
+        [
+          "OF"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "36"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "762"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tom Niedenfuer"
+        ],
+        [
+          "/wiki/Tom_Niedenfuer"
+        ]
+      ],
+      [
+        [
+          "Los Angeles Dodgers"
+        ],
+        [
+          "/wiki/Los_Angeles_Dodgers"
+        ]
+      ],
+      [
+        [
+          "RHP"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

@@ -1,239 +1,467 @@
 {
-  "url": "https://en.wikipedia.org/wiki/NHL_Winter_Classic",
-  "title": "NHL Winter Classic",
+  "url": "https://en.wikipedia.org/wiki/2012_European_Trophy",
+  "title": "2012 European Trophy",
   "header": [
     [
-      "Year",
-      null
+      [
+        "Player"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Rating",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Viewers",
-      null
+      [
+        "GP"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Network",
-      null
+      [
+        "Pts"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "POS"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "2008",
-        "/wiki/2008_NHL_Winter_Classic"
+        [
+          "Matt Foy"
+        ],
+        [
+          "/wiki/Matt_Foy"
+        ]
       ],
       [
-        "2.2",
-        null
+        [
+          "Eisb\u00e4ren Berlin"
+        ],
+        [
+          "/wiki/Eisb%C3%A4ren_Berlin"
+        ]
       ],
       [
-        "3.75 million",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NBC",
-        "/wiki/NHL_on_NBC"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "F"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2009",
-        "/wiki/2009_NHL_Winter_Classic"
+        [
+          "Cam Abbott"
+        ],
+        [
+          "/wiki/Cam_Abbott"
+        ]
       ],
       [
-        "2.5",
-        null
+        [
+          "Lule\u00e5 HF"
+        ],
+        [
+          "/wiki/Lule%C3%A5_HF"
+        ]
       ],
       [
-        "4.40 million",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NBC",
-        "/wiki/NHL_on_NBC"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "F"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2010",
-        "/wiki/2010_NHL_Winter_Classic"
+        [
+          "Jack Connolly"
+        ],
+        [
+          "/wiki/Jack_Connolly_(ice_hockey_b._1989)"
+        ]
       ],
       [
-        "2.1",
-        null
+        [
+          "F\u00e4rjestad BK"
+        ],
+        [
+          "/wiki/F%C3%A4rjestad_BK"
+        ]
       ],
       [
-        "3.68 million",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NBC",
-        "/wiki/NHL_on_NBC"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "F"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2011",
-        "/wiki/2011_NHL_Winter_Classic"
+        [
+          "Chris Connolly"
+        ],
+        [
+          "/wiki/Chris_Connolly_(ice_hockey)"
+        ]
       ],
       [
-        "2.3",
-        null
+        [
+          "Tappara"
+        ],
+        [
+          "/wiki/Tappara"
+        ]
       ],
       [
-        "4.50 million",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NBC",
-        "/wiki/NHL_on_NBC"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "F"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2012",
-        "/wiki/2012_NHL_Winter_Classic"
+        [
+          "Chet Pickard"
+        ],
+        [
+          "/wiki/Chet_Pickard"
+        ]
       ],
       [
-        "2.1",
-        null
+        [
+          "Djurg\u00e5rdens IF"
+        ],
+        [
+          "/wiki/Djurg%C3%A5rdens_IF_Hockey"
+        ]
       ],
       [
-        "3.73 million",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NBC",
-        "/wiki/NHL_on_NBC"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "G"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2014",
-        "/wiki/2014_NHL_Winter_Classic"
+        [
+          "Rhett Rakhshani"
+        ],
+        [
+          "/wiki/Rhett_Rakhshani"
+        ]
       ],
       [
-        "2.5",
-        null
+        [
+          "HV71"
+        ],
+        [
+          "/wiki/HV71"
+        ]
       ],
       [
-        "4.40 million",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NBC",
-        "/wiki/NHL_on_NBC"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "F"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2015",
-        "/wiki/2015_NHL_Winter_Classic"
+        [
+          "Ryan Glenn"
+        ],
+        [
+          "/wiki/Ryan_Glenn"
+        ]
       ],
       [
-        "1.9",
-        null
+        [
+          "Red Bull Salzburg"
+        ],
+        [
+          "/wiki/EC_Red_Bull_Salzburg"
+        ]
       ],
       [
-        "3.47 million",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NBC",
-        "/wiki/NHL_on_NBC"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "D"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2016",
-        "/wiki/2016_NHL_Winter_Classic"
+        [
+          "Jason Lepine"
+        ],
+        [
+          "/wiki/Jason_Lepine"
+        ]
       ],
       [
-        "1.6",
-        null
+        [
+          "JYP"
+        ],
+        [
+          "/wiki/JYP_Jyv%C3%A4skyl%C3%A4"
+        ]
       ],
       [
-        "2.78 million",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NBC",
-        "/wiki/NHL_on_NBC"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "D"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2017",
-        "/wiki/2017_NHL_Winter_Classic"
+        [
+          "Byron Ritchie"
+        ],
+        [
+          "/wiki/Byron_Ritchie"
+        ]
       ],
       [
-        "1.5",
-        null
+        [
+          "SC Bern"
+        ],
+        [
+          "/wiki/SC_Bern"
+        ]
       ],
       [
-        "2.56 million",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NBC",
-        "/wiki/NHL_on_NBC"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "F"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2018",
-        "/wiki/2018_NHL_Winter_Classic"
+        [
+          "Ari Vallin"
+        ],
+        [
+          "/wiki/Ari_Vallin"
+        ]
       ],
       [
-        "1.4",
-        null
+        [
+          "Sparta Praha"
+        ],
+        [
+          "/wiki/HC_Sparta_Praha"
+        ]
       ],
       [
-        "2.48 million",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "NBC",
-        "/wiki/NHL_on_NBC"
-      ]
-    ],
-    [
-      [
-        "2019",
-        "/wiki/2019_NHL_Winter_Classic"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1.9",
-        null
-      ],
-      [
-        "2.97 million",
-        null
-      ],
-      [
-        "NBC",
-        "/wiki/NHL_on_NBC"
-      ]
-    ],
-    [
-      [
-        "2020",
-        "/wiki/2020_NHL_Winter_Classic"
-      ],
-      [
-        "1.1",
-        null
-      ],
-      [
-        "1.96 million",
-        null
-      ],
-      [
-        "NBC",
-        "/wiki/NHL_on_NBC"
+        [
+          "D"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

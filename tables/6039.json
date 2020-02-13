@@ -1,299 +1,1157 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_hospitals_in_Georgia_(U.S._state)",
-  "title": "List of hospitals in Georgia (U.S. state)",
+  "url": "https://en.wikipedia.org/wiki/Autobahns_of_Austria",
+  "title": "Autobahns of Austria",
   "header": [
     [
-      "Hospital name",
-      null
+      [
+        "Number"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "City",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "County",
-      null
+      [
+        "Route"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Length (km)"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Length (mi)"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Status"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Anchor Hospital",
-        null
+        [
+          "A1"
+        ],
+        [
+          "/wiki/West_Autobahn"
+        ]
       ],
       [
-        "College Park",
-        "/wiki/College_Park,_Georgia"
+        [
+          "West Autobahn"
+        ],
+        [
+          "/wiki/West_Autobahn"
+        ]
       ],
       [
-        "Clayton",
-        "/wiki/Clayton_County,_Georgia"
+        [
+          "Vienna",
+          "Auhof",
+          "Sankt P\u00f6lten",
+          "Linz",
+          "Salzburg",
+          "Walserberg",
+          "Bundesautobahn 8"
+        ],
+        [
+          "/wiki/Vienna",
+          "/wiki/Penzing_(Vienna)",
+          "/wiki/Sankt_P%C3%B6lten",
+          "/wiki/Linz",
+          "/wiki/Salzburg",
+          "/wiki/Wals-Siezenheim",
+          "/wiki/Bundesautobahn_8"
+        ]
+      ],
+      [
+        [
+          "292"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "181"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Open"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Coastal Behavioral Health",
-        null
+        [
+          "A2"
+        ],
+        [
+          "/wiki/S%C3%BCd_Autobahn"
+        ]
       ],
       [
-        "Savannah",
-        "/wiki/Savannah,_Georgia"
+        [
+          "S\u00fcd Autobahn"
+        ],
+        [
+          "/wiki/S%C3%BCd_Autobahn"
+        ]
       ],
       [
-        "Chatham",
-        "/wiki/Chatham_County,_Georgia"
+        [
+          "Inzersdorf",
+          "Wiener Neustadt",
+          "Graz",
+          "Klagenfurt",
+          "Th\u00f6rl-Maglern",
+          "Autostrada 23"
+        ],
+        [
+          "/wiki/Inzersdorf_(Vienna)",
+          "/wiki/Wiener_Neustadt",
+          "/wiki/Graz",
+          "/wiki/Klagenfurt",
+          "/wiki/Arnoldstein",
+          "/wiki/Autostrade_of_Italy"
+        ]
+      ],
+      [
+        [
+          "377"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "234"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Open"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Coastal Harbor Treatment Center",
-        null
+        [
+          "A3"
+        ],
+        [
+          "/wiki/S%C3%BCdost_Autobahn"
+        ]
       ],
       [
-        "Savannah",
-        "/wiki/Savannah,_Georgia"
+        [
+          "S\u00fcdost Autobahn"
+        ],
+        [
+          "/wiki/S%C3%BCdost_Autobahn"
+        ]
       ],
       [
-        "Chatham",
-        "/wiki/Chatham_County,_Georgia"
+        [
+          "Guntramsdorf",
+          "Eisenstadt"
+        ],
+        [
+          "/wiki/Guntramsdorf",
+          "/wiki/Eisenstadt"
+        ]
+      ],
+      [
+        [
+          "38"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "24"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Klingenbach",
+          "M85 motorway"
+        ],
+        [
+          "/wiki/Klingenbach",
+          "/wiki/M85_expressway_(Hungary)"
+        ]
       ]
     ],
     [
       [
-        "Coliseum Center for Behavioral Health",
-        null
+        [
+          "A4"
+        ],
+        [
+          "/wiki/Ostautobahn"
+        ]
       ],
       [
-        "Macon",
-        "/wiki/Macon,_Georgia"
+        [
+          "Ost Autobahn"
+        ],
+        [
+          "/wiki/Ost_Autobahn"
+        ]
       ],
       [
-        "Bibb",
-        "/wiki/Bibb_County,_Georgia"
+        [
+          "Erdberg",
+          "Schwechat",
+          "Nickelsdorf",
+          "M1 motorway"
+        ],
+        [
+          "/wiki/Landstra%C3%9Fe",
+          "/wiki/Schwechat",
+          "/wiki/Nickelsdorf",
+          "/wiki/M1_motorway_(Hungary)"
+        ]
+      ],
+      [
+        [
+          "66"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "41"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Open"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Crescent Pines Hospital",
-        null
+        [
+          "A5"
+        ],
+        [
+          "/wiki/Nordautobahn"
+        ]
       ],
       [
-        "Stockbridge",
-        "/wiki/Stockbridge,_Georgia"
+        [
+          "Nord Autobahn"
+        ],
+        [
+          "/wiki/Nord_Autobahn"
+        ]
       ],
       [
-        "Henry",
-        "/wiki/Henry_County,_Georgia"
+        [
+          "Eibesbrunn",
+          "Wolkersdorf",
+          "Poysdorf"
+        ],
+        [
+          "/wiki/Grossebersdorf",
+          "/wiki/Wolkersdorf_im_Weinviertel",
+          "/wiki/Poysdorf"
+        ]
+      ],
+      [
+        [
+          "24"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "15"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Drasenhofen",
+          "R52 expressway"
+        ],
+        [
+          "/wiki/Drasenhofen",
+          "/wiki/R52_expressway_(Czech_Republic)"
+        ]
       ]
     ],
     [
       [
-        "Hillside Hospital",
-        null
+        [
+          "A6"
+        ],
+        [
+          "/wiki/Nordost_Autobahn"
+        ]
       ],
       [
-        "Atlanta",
-        "/wiki/Atlanta"
+        [
+          "Nordost Autobahn"
+        ],
+        [
+          "/wiki/Nordost_Autobahn"
+        ]
       ],
       [
-        "Fulton",
-        "/wiki/Fulton_County,_Georgia"
+        [
+          "Bruckneudorf",
+          "Kittsee",
+          "D4 motorway"
+        ],
+        [
+          "/wiki/Bruckneudorf",
+          "/wiki/Kittsee",
+          "/wiki/D4_motorway_(Slovakia)"
+        ]
+      ],
+      [
+        [
+          "22"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "14"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Open"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Laurel Heights Hospital",
-        null
+        [
+          "A7"
+        ],
+        [
+          "/wiki/M%C3%BChlkreis_Autobahn"
+        ]
       ],
       [
-        "Atlanta",
-        "/wiki/Atlanta"
+        [
+          "M\u00fchlkreis Autobahn"
+        ],
+        [
+          "/wiki/M%C3%BChlkreis_Autobahn"
+        ]
       ],
       [
-        "Fulton",
-        "/wiki/Fulton_County,_Georgia"
+        [
+          "Linz",
+          "Unterweitersdorf",
+          "M\u00fchlviertler Schnellstra\u00dfe",
+          "D3 motorway"
+        ],
+        [
+          "/wiki/Linz",
+          "/wiki/Unterweitersdorf",
+          "/wiki/M%C3%BChlviertler_Schnellstra%C3%9Fe",
+          "/wiki/D3_motorway_(Czech_Republic)"
+        ]
+      ],
+      [
+        [
+          "29"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "18"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Open"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lighthouse Care Center of Augusta",
-        null
+        [
+          "A8"
+        ],
+        [
+          "/wiki/Innkreis_Autobahn"
+        ]
       ],
       [
-        "Augusta",
-        "/wiki/Augusta,_Georgia"
+        [
+          "Innkreis Autobahn"
+        ],
+        [
+          "/wiki/Innkreis_Autobahn"
+        ]
       ],
       [
-        "Richmond",
-        "/wiki/Richmond_County,_Georgia"
+        [
+          "Voralpenkreuz",
+          "Wels",
+          "Suben",
+          "Bundesautobahn 3"
+        ],
+        [
+          "/wiki/Sattledt",
+          "/wiki/Wels",
+          "/wiki/Suben",
+          "/wiki/Bundesautobahn_3"
+        ]
+      ],
+      [
+        [
+          "76"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "47"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Open"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Macon Behavioral Health System",
-        null
+        [
+          "A9"
+        ],
+        [
+          "/wiki/Pyhrnautobahn"
+        ]
       ],
       [
-        "Macon",
-        "/wiki/Macon,_Georgia"
+        [
+          "Pyhrn Autobahn"
+        ],
+        [
+          "/wiki/Pyhrn_Autobahn"
+        ]
       ],
       [
-        "Bibb",
-        "/wiki/Bibb_County,_Georgia"
+        [
+          "Voralpenkreuz",
+          "Graz",
+          "Spielfeld",
+          "A1 motorway"
+        ],
+        [
+          "/wiki/Sattledt",
+          "/wiki/Graz",
+          "/wiki/Spielfeld",
+          "/wiki/A1_motorway_(Slovenia)"
+        ]
+      ],
+      [
+        [
+          "230"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "140"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Open; some two-way tunnels"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Peachford Hospital",
-        null
+        [
+          "A10"
+        ],
+        [
+          "/wiki/Tauern_Autobahn"
+        ]
       ],
       [
-        "Atlanta",
-        "/wiki/Atlanta"
+        [
+          "Tauern Autobahn"
+        ],
+        [
+          "/wiki/Tauern_Autobahn"
+        ]
       ],
       [
-        "Dekalb",
-        "/wiki/Dekalb_County,_Georgia"
+        [
+          "Salzburg",
+          "Villach"
+        ],
+        [
+          "/wiki/Salzburg",
+          "/wiki/Villach"
+        ]
+      ],
+      [
+        [
+          "193"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "120"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Open"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ridgeview Institute",
-        null
+        [
+          "A11"
+        ],
+        [
+          "/wiki/Karawanken_Autobahn"
+        ]
       ],
       [
-        "Smyrna",
-        "/wiki/Smyrna,_Georgia"
+        [
+          "Karawanken Autobahn"
+        ],
+        [
+          "/wiki/Karawanken_Autobahn"
+        ]
       ],
       [
-        "Cobb",
-        "/wiki/Cobb_County,_Georgia"
+        [
+          "Villach",
+          "Karawanken Tunnel",
+          "A2 motorway"
+        ],
+        [
+          "/wiki/Villach",
+          "/wiki/Karawanken_Tunnel_(motorway)",
+          "/wiki/A2_motorway_(Slovenia)"
+        ]
+      ],
+      [
+        [
+          "21"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "13"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Open; one two-way tunnel"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "RiverWoods Behavioral Health System",
-        null
+        [
+          "A12"
+        ],
+        [
+          "/wiki/Inn_Valley_Autobahn"
+        ]
       ],
       [
-        "Riverdale",
-        "/wiki/Riverdale,_Georgia"
+        [
+          "Inn Valley Autobahn"
+        ],
+        [
+          "/wiki/Inn_Valley_Autobahn"
+        ]
       ],
       [
-        "Clayton",
-        "/wiki/Clayton_County,_Georgia"
+        [
+          "Kufstein",
+          "Bundesautobahn 93",
+          "Innsbruck",
+          "Zams"
+        ],
+        [
+          "/wiki/Kufstein",
+          "/wiki/Bundesautobahn_93",
+          "/wiki/Innsbruck",
+          "/wiki/Zams"
+        ]
+      ],
+      [
+        [
+          "153"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "95"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Open"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Saint Simons By-The-Sea",
-        null
+        [
+          "A13"
+        ],
+        [
+          "/wiki/Brenner_Autobahn"
+        ]
       ],
       [
-        "Saint Simons Island",
-        "/wiki/Saint_Simons_Island,_Georgia"
+        [
+          "Brenner Autobahn"
+        ],
+        [
+          "/wiki/Brenner_Autobahn"
+        ]
       ],
       [
-        "Glynn",
-        "/wiki/Glynn_County,_Georgia"
+        [
+          "Innsbruck",
+          "Brenner Pass",
+          "Autostrada 22"
+        ],
+        [
+          "/wiki/Innsbruck",
+          "/wiki/Brenner_Pass",
+          "/wiki/Autostrade_of_Italy"
+        ]
+      ],
+      [
+        [
+          "35"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "22"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Open"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "SummitRidge Hospital",
-        null
+        [
+          "A14"
+        ],
+        [
+          "/wiki/Walgau_Autobahn"
+        ]
       ],
       [
-        "Lawrenceville",
-        "/wiki/Lawrenceville,_Georgia"
+        [
+          "Rheintal/Walgau Autobahn"
+        ],
+        [
+          "/wiki/Rheintal/Walgau_Autobahn"
+        ]
       ],
       [
-        "Gwinnett",
-        "/wiki/Gwinnett_County,_Georgia"
+        [
+          "H\u00f6rbranz",
+          "Bundesautobahn 96",
+          "Bregenz",
+          "Feldkirch",
+          "Bludenz",
+          "Montafon"
+        ],
+        [
+          "/wiki/H%C3%B6rbranz",
+          "/wiki/Bundesautobahn_96",
+          "/wiki/Bregenz",
+          "/wiki/Feldkirch,_Vorarlberg",
+          "/wiki/Bludenz",
+          "/wiki/Montafon"
+        ]
+      ],
+      [
+        [
+          "61"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "38"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Open"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Talbott Recovery Atlanta",
-        null
+        [
+          "A21"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "College Park",
-        "/wiki/College_Park,_Georgia"
+        [
+          "Wiener Au\u00dfenring Autobahn"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Clayton",
-        "/wiki/Clayton_County,_Georgia"
+        [
+          "Steinh\u00e4usl",
+          "Alland",
+          "V\u00f6sendorf"
+        ],
+        [
+          "/wiki/Altlengbach",
+          "/wiki/Alland",
+          "/wiki/V%C3%B6sendorf"
+        ]
+      ],
+      [
+        [
+          "38"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "24"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Open"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Talbott Recovery Columbus",
-        null
+        [
+          "A22"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Columbus",
-        "/wiki/Columbus,_Georgia"
+        [
+          "Donauufer Autobahn"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Muscogee",
-        "/wiki/Muscogee_County,_Georgia"
+        [
+          "Kaiserm\u00fchlen",
+          "Korneuburg",
+          "Stockerau"
+        ],
+        [
+          "/wiki/Donaustadt",
+          "/wiki/Korneuburg",
+          "/wiki/Stockerau"
+        ]
+      ],
+      [
+        [
+          "34"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "21"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Kaiserebersdorf"
+        ],
+        [
+          "/wiki/Simmering_(Vienna)"
+        ]
       ]
     ],
     [
       [
-        "Talbott Recovery Dunwoody",
-        null
+        [
+          "A23"
+        ],
+        [
+          "/wiki/S%C3%BCdosttangente"
+        ]
       ],
       [
-        "Dunwoody",
-        "/wiki/Dunwoody,_Georgia"
+        [
+          "Autobahn S\u00fcdosttangente Wien"
+        ],
+        [
+          "/wiki/Autobahn_S%C3%BCdosttangente_Wien"
+        ]
       ],
       [
-        "DeKalb",
-        "/wiki/DeKalb_County,_Georgia"
+        [
+          "Altmannsdorf",
+          "Hirschstetten"
+        ],
+        [
+          "/wiki/Meidling",
+          "/wiki/Donaustadt"
+        ]
+      ],
+      [
+        [
+          "18"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "11"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Raasdorf"
+        ],
+        [
+          "/wiki/Raasdorf"
+        ]
       ]
     ],
     [
       [
-        "Willingway Hospital",
-        "/wiki/Willingway_Hospital"
+        [
+          "A24"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Statesboro",
-        "/wiki/Statesboro,_Georgia"
+        [
+          "VerbindungsspangeRothneusiedl"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bulloch",
-        "/wiki/Bulloch_County,_Georgia"
+        [
+          "Hanssonkurve",
+          "Rothneusiedl"
+        ],
+        [
+          "/wiki/Autobahn_S%C3%BCdosttangente_Wien",
+          "/wiki/Favoriten"
+        ]
+      ],
+      [
+        [
+          "0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Plans rejected"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Willowbrooke at Tanner",
-        null
+        [
+          "A25"
+        ],
+        [
+          "/wiki/Welser_Autobahn"
+        ]
       ],
       [
-        "Villa Rica",
-        "/wiki/Villa_Rica,_Georgia"
+        [
+          "Welser Autobahn"
+        ],
+        [
+          "/wiki/Welser_Autobahn"
+        ]
       ],
       [
-        "Carroll",
-        "/wiki/Carroll_County,_Georgia"
+        [
+          "Haid",
+          "Wels"
+        ],
+        [
+          "/wiki/Ansfelden",
+          "/wiki/Wels"
+        ]
+      ],
+      [
+        [
+          "20"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "12"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Open"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Youth Villages Inner Harbour Campus",
-        null
+        [
+          "A26"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Douglasville",
-        "/wiki/Douglasville,_Georgia"
+        [
+          "Linzer Autobahn"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Douglas",
-        "/wiki/Douglas_County,_Georgia"
+        [
+          "Hummelhof",
+          "Urfahr"
+        ],
+        [
+          "/wiki/Linz",
+          "/wiki/Linz"
+        ]
+      ],
+      [
+        [
+          "0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Planned"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

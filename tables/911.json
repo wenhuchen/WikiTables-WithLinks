@@ -1,551 +1,467 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_NHL_playoff_series",
-  "title": "List of NHL playoff series",
+  "url": "https://en.wikipedia.org/wiki/WHA_General_Player_Draft",
+  "title": "WHA General Player Draft",
   "header": [
     [
-      "Opponent",
-      null
+      [
+        "Player"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "S",
-      null
+      [
+        "Position"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Occurrences",
-      null
+      [
+        "Nationality"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "GP",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Rec",
-      null
-    ],
-    [
-      "%",
-      null
+      [
+        "League"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "St. Louis Blues",
-        "/wiki/St._Louis_Blues"
+        [
+          "Steve Carlyle"
+        ],
+        [
+          "/wiki/Steve_Carlyle"
+        ]
       ],
       [
-        "14",
-        null
+        [
+          "D"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1968,1970,1971,1972,1984,1985,1986,1989,1991,1994,1999,2001,2016,2019",
-        "/wiki/1968_Stanley_Cup_playoffs /wiki/1970_Stanley_Cup_playoffs /wiki/1971_Stanley_Cup_playoffs /wiki/1972_Stanley_Cup_playoffs /wiki/1984_Stanley_Cup_playoffs /wiki/1985_Stanley_Cup_playoffs /wiki/1986_Stanley_Cup_playoffs /wiki/1989_Stanley_Cup_playoffs /wiki/1991_Stanley_Cup_playoffs /wiki/1994_Stanley_Cup_playoffs /wiki/1999_Stanley_Cup_playoffs /wiki/2001_Stanley_Cup_playoffs /wiki/2016_Stanley_Cup_playoffs /wiki/2019_Stanley_Cup_playoffs"
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ],
       [
-        "80",
-        null
+        [
+          "University of Alberta Golden Bears"
+        ],
+        [
+          "/wiki/Alberta_Golden_Bears"
+        ]
       ],
       [
-        "6\u20138",
-        null
-      ],
-      [
-        ".429",
-        null
+        [
+          "CIAU"
+        ],
+        [
+          "/wiki/Canadian_Interuniversity_Sport"
+        ]
       ]
     ],
     [
       [
-        "Edmonton Oilers",
-        "/wiki/Edmonton_Oilers"
+        [
+          "Ron Homenuke"
+        ],
+        [
+          "/wiki/Ron_Homenuke"
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "F"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1984,1991,1997,1998,1999,2000,2001,2003",
-        "/wiki/1984_Stanley_Cup_playoffs /wiki/1991_Stanley_Cup_playoffs /wiki/1997_Stanley_Cup_playoffs /wiki/1998_Stanley_Cup_playoffs /wiki/1999_Stanley_Cup_playoffs /wiki/2000_Stanley_Cup_playoffs /wiki/2001_Stanley_Cup_playoffs /wiki/2003_Stanley_Cup_playoffs"
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ],
       [
-        "42",
-        null
+        [
+          "Calgary Centennials"
+        ],
+        [
+          "/wiki/Calgary_Centennials"
+        ]
       ],
       [
-        "6\u20132",
-        null
-      ],
-      [
-        ".750",
-        null
+        [
+          "WCHL"
+        ],
+        [
+          "/wiki/Western_Hockey_League"
+        ]
       ]
     ],
     [
       [
-        "Chicago Blackhawks",
-        "/wiki/Chicago_Blackhawks"
+        [
+          "Ross Lonsberry"
+        ],
+        [
+          "/wiki/Ross_Lonsberry"
+        ]
       ],
       [
-        "6",
-        null
+        [
+          "LW"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1982,1983,1984,1985,1990,1991",
-        "/wiki/1982_Stanley_Cup_playoffs /wiki/1983_Stanley_Cup_playoffs /wiki/1984_Stanley_Cup_playoffs /wiki/1985_Stanley_Cup_playoffs /wiki/1990_Stanley_Cup_playoffs /wiki/1991_Stanley_Cup_playoffs"
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ],
       [
-        "33",
-        null
+        [
+          "Philadelphia Flyers"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2\u20134",
-        null
-      ],
-      [
-        ".333",
-        null
+        [
+          "NHL"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Colorado Avalanche",
-        "/wiki/Colorado_Avalanche"
+        [
+          "Jim McMasters"
+        ],
+        [
+          "/wiki/Jim_McMasters"
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "F"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1999,2000,2004,2006",
-        "/wiki/1999_Stanley_Cup_playoffs /wiki/2000_Stanley_Cup_playoffs /wiki/2004_Stanley_Cup_playoffs /wiki/2006_Stanley_Cup_playoffs"
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ],
       [
-        "24",
-        null
+        [
+          "Calgary Centennials"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2\u20132",
-        null
-      ],
-      [
-        ".500",
-        null
+        [
+          "WCHL"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Detroit Red Wings",
-        "/wiki/Detroit_Red_Wings"
+        [
+          "Morris Mott"
+        ],
+        [
+          "/wiki/Morris_Mott"
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "RW"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1992,1995,1998,2008",
-        "/wiki/1992_Stanley_Cup_playoffs /wiki/1995_Stanley_Cup_playoffs /wiki/1998_Stanley_Cup_playoffs /wiki/2008_Stanley_Cup_playoffs"
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ],
       [
-        "24",
-        null
+        [
+          "Queen's University Golden Gaels"
+        ],
+        [
+          "/wiki/Queen%27s_Golden_Gaels"
+        ]
       ],
       [
-        "0\u20134",
-        null
-      ],
-      [
-        ".000",
-        null
+        [
+          "CIAU"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "San Jose Sharks",
-        "/wiki/San_Jose_Sharks"
+        [
+          "Gerry Pinder"
+        ],
+        [
+          "/wiki/Gerry_Pinder"
+        ]
       ],
       [
-        "3",
-        null
+        [
+          "RW"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1998,2000,2008",
-        "/wiki/1998_Stanley_Cup_playoffs /wiki/2000_Stanley_Cup_playoffs /wiki/2008_Stanley_Cup_playoffs"
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ],
       [
-        "17",
-        null
+        [
+          "California Golden Seals"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "3\u20130",
-        null
-      ],
-      [
-        "1.000",
-        null
+        [
+          "NHL"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Buffalo Sabres",
-        "/wiki/Buffalo_Sabres"
+        [
+          "Larry Romanchych"
+        ],
+        [
+          "/wiki/Larry_Romanchych"
+        ]
       ],
       [
-        "3",
-        null
+        [
+          "C"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1977,1981,1999",
-        "/wiki/1977_Stanley_Cup_playoffs /wiki/1981_Stanley_Cup_playoffs /wiki/1999_Stanley_Cup_playoffs"
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ],
       [
-        "13",
-        null
+        [
+          "Dallas Black Hawks"
+        ],
+        [
+          "/wiki/Dallas_Black_Hawks"
+        ]
       ],
       [
-        "2\u20131",
-        null
-      ],
-      [
-        ".667",
-        null
+        [
+          "CHL"
+        ],
+        [
+          "/wiki/Central_Professional_Hockey_League"
+        ]
       ]
     ],
     [
       [
-        "Anaheim Ducks",
-        "/wiki/Anaheim_Ducks"
+        [
+          "Gregg Sheppard"
+        ],
+        [
+          "/wiki/Gregg_Sheppard"
+        ]
       ],
       [
-        "3",
-        null
+        [
+          "C"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2003,2008,2014",
-        "/wiki/2003_Stanley_Cup_playoffs /wiki/2008_Stanley_Cup_playoffs /wiki/2014_Stanley_Cup_playoffs"
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ],
       [
-        "18",
-        null
+        [
+          "Oklahoma City Blazers"
+        ],
+        [
+          "/wiki/Oklahoma_City_Blazers_(1965%E2%80%9377)"
+        ]
       ],
       [
-        "1\u20132",
-        null
-      ],
-      [
-        ".333",
-        null
+        [
+          "CHL"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Toronto Maple Leafs",
-        "/wiki/Toronto_Maple_Leafs"
+        [
+          "Brian Walker"
+        ],
+        [
+          "/wiki/Brian_Walker_(ice_hockey)"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "C"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1980,1983",
-        "/wiki/1980_Stanley_Cup_playoffs /wiki/1983_Stanley_Cup_playoffs"
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "Calgary Centennials"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2\u20130",
-        null
-      ],
-      [
-        "1.000",
-        null
+        [
+          "WCHL"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Montreal Canadiens",
-        "/wiki/Montreal_Canadiens"
+        [
+          "Jimmy Watson"
+        ],
+        [
+          "/wiki/Jimmy_Watson_(ice_hockey)"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "D"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1971,1980",
-        "/wiki/1971_Stanley_Cup_playoffs /wiki/1980_Stanley_Cup_playoffs"
+        [
+          "Canada"
+        ],
+        [
+          "/wiki/Canada"
+        ]
       ],
       [
-        "13",
-        null
+        [
+          "Calgary Centennials"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1\u20131",
-        null
-      ],
-      [
-        ".500",
-        null
-      ]
-    ],
-    [
-      [
-        "Philadelphia Flyers",
-        "/wiki/Philadelphia_Flyers"
-      ],
-      [
-        "2",
-        null
-      ],
-      [
-        "1973,1980",
-        "/wiki/1973_Stanley_Cup_playoffs /wiki/1980_Stanley_Cup_playoffs"
-      ],
-      [
-        "11",
-        null
-      ],
-      [
-        "0\u20132",
-        null
-      ],
-      [
-        ".000",
-        null
-      ]
-    ],
-    [
-      [
-        "Vancouver Canucks",
-        "/wiki/Vancouver_Canucks"
-      ],
-      [
-        "2",
-        null
-      ],
-      [
-        "1994,2007",
-        "/wiki/1994_Stanley_Cup_playoffs /wiki/2007_Stanley_Cup_playoffs"
-      ],
-      [
-        "12",
-        null
-      ],
-      [
-        "0\u20132",
-        null
-      ],
-      [
-        ".000",
-        null
-      ]
-    ],
-    [
-      [
-        "Boston Bruins",
-        "/wiki/Boston_Bruins"
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "1981",
-        "/wiki/1981_Stanley_Cup_playoffs"
-      ],
-      [
-        "3",
-        null
-      ],
-      [
-        "1\u20130",
-        null
-      ],
-      [
-        "1.000",
-        null
-      ]
-    ],
-    [
-      [
-        "Calgary Flames",
-        "/wiki/Calgary_Flames"
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "1981",
-        "/wiki/1981_Stanley_Cup_playoffs"
-      ],
-      [
-        "6",
-        null
-      ],
-      [
-        "1\u20130",
-        null
-      ],
-      [
-        "1.000",
-        null
-      ]
-    ],
-    [
-      [
-        "Los Angeles Kings",
-        "/wiki/Los_Angeles_Kings"
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "1968",
-        "/wiki/1968_Stanley_Cup_playoffs"
-      ],
-      [
-        "7",
-        null
-      ],
-      [
-        "1\u20130",
-        null
-      ],
-      [
-        "1.000",
-        null
-      ]
-    ],
-    [
-      [
-        "Minnesota Wild",
-        "/wiki/Minnesota_Wild"
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "2016",
-        "/wiki/2016_Stanley_Cup_playoffs"
-      ],
-      [
-        "6",
-        null
-      ],
-      [
-        "1\u20130",
-        null
-      ],
-      [
-        "1.000",
-        null
-      ]
-    ],
-    [
-      [
-        "Nashville Predators",
-        "/wiki/Nashville_Predators"
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "2019",
-        "/wiki/2019_Stanley_Cup_playoffs"
-      ],
-      [
-        "6",
-        null
-      ],
-      [
-        "1\u20130",
-        null
-      ],
-      [
-        "1.000",
-        null
-      ]
-    ],
-    [
-      [
-        "New Jersey Devils",
-        "/wiki/New_Jersey_Devils"
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "2000",
-        "/wiki/2000_Stanley_Cup_playoffs"
-      ],
-      [
-        "6",
-        null
-      ],
-      [
-        "0\u20131",
-        null
-      ],
-      [
-        ".000",
-        null
-      ]
-    ],
-    [
-      [
-        "New York Islanders",
-        "/wiki/New_York_Islanders"
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "1981",
-        "/wiki/1981_Stanley_Cup_playoffs"
-      ],
-      [
-        "5",
-        null
-      ],
-      [
-        "0\u20131",
-        null
-      ],
-      [
-        ".000",
-        null
-      ]
-    ],
-    [
-      [
-        "Pittsburgh Penguins",
-        "/wiki/Pittsburgh_Penguins"
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "1991",
-        "/wiki/1991_Stanley_Cup_playoffs"
-      ],
-      [
-        "6",
-        null
-      ],
-      [
-        "0\u20131",
-        null
-      ],
-      [
-        ".000",
-        null
+        [
+          "WCHL"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

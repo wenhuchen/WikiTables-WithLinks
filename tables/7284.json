@@ -1,386 +1,1140 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_magazines_by_circulation",
-  "title": "List of magazines by circulation",
+  "url": "https://en.wikipedia.org/wiki/List_of_ice_hockey_arenas_by_capacity",
+  "title": "List of ice hockey arenas by capacity",
   "header": [
     [
-      "Rank",
-      null
+      [
+        "Rank"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Name",
-      null
+      [
+        "Arena"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Circulation",
-      null
+      [
+        "Capacity"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Publisher",
-      null
+      [
+        "City"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Country"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Home Team(s) (League, Dates)"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cosmopolitan",
-        "/wiki/Cosmopolitan_(magazine)"
+        [
+          "Thunderdome"
+        ],
+        [
+          "/wiki/Tropicana_Field"
+        ]
       ],
       [
-        "980.000",
-        null
+        [
+          "28,183"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Independent Media Sanoma Magazines",
-        "/wiki/Sanoma"
+        [
+          "St. Petersburg"
+        ],
+        [
+          "/wiki/St._Petersburg,_Florida"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Tampa Bay Lightning",
+          "NHL"
+        ],
+        [
+          "/wiki/Tampa_Bay_Lightning",
+          "/wiki/National_Hockey_League"
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Glamour",
-        "/wiki/Glamour_(magazine)"
+        [
+          "Greensboro Coliseum Complex"
+        ],
+        [
+          "/wiki/Greensboro_Coliseum_Complex"
+        ]
       ],
       [
-        "730.000",
-        null
+        [
+          "21,273"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cond\u00e9 Nast Publications",
-        "/wiki/Cond%C3%A9_Nast_Publications"
+        [
+          "Greensboro"
+        ],
+        [
+          "/wiki/Greensboro,_North_Carolina"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Carolina Hurricanes",
+          "NHL",
+          "Carolina Monarchs",
+          "AHL",
+          "Greensboro Monarchs",
+          "ECHL"
+        ],
+        [
+          "/wiki/Carolina_Hurricanes",
+          "/wiki/National_Hockey_League",
+          "/wiki/Carolina_Monarchs",
+          "/wiki/American_Hockey_League",
+          "/wiki/Greensboro_Monarchs",
+          "/wiki/ECHL"
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Maxim",
-        "/wiki/Maxim_(magazine)"
+        [
+          "The Palace"
+        ],
+        [
+          "/wiki/The_Palace_of_Auburn_Hills"
+        ]
       ],
       [
-        "390.000",
-        null
+        [
+          "20,804"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hearst Shkulev Media",
-        "/wiki/Hearst_Shkulev_Media"
+        [
+          "Auburn Hills"
+        ],
+        [
+          "/wiki/Auburn_Hills,_Michigan"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Detroit Vipers",
+          "IHL"
+        ],
+        [
+          "/wiki/Detroit_Vipers",
+          "/wiki/International_Hockey_League_(1945%E2%80%932001)"
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Psychologies",
-        "/wiki/Psychologies"
+        [
+          "Joe Louis Arena"
+        ],
+        [
+          "/wiki/Joe_Louis_Arena"
+        ]
       ],
       [
-        "360.000",
-        null
+        [
+          "20,027"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hearst Shkulev Media",
-        "/wiki/Hearst_Shkulev_Media"
+        [
+          "Detroit"
+        ],
+        [
+          "/wiki/Detroit"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Detroit Red Wings",
+          "NHL"
+        ],
+        [
+          "/wiki/Detroit_Red_Wings",
+          "/wiki/National_Hockey_League"
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hello",
-        "/wiki/Hello_(magazine)"
+        [
+          "V\u00e9lodrome d'hiver"
+        ],
+        [
+          "/wiki/V%C3%A9lodrome_d%27hiver"
+        ]
       ],
       [
-        "350.000",
-        null
+        [
+          "20,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Paris"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "France"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Club des Patineurs",
+          "Championnat de France",
+          "Racing Club",
+          "Championnat de France",
+          "Stade Fran\u00e7ais",
+          "Championnat de France",
+          "Fran\u00e7ais Volants",
+          "Championnat de France"
+        ],
+        [
+          "/wiki/Club_des_Patineurs_de_Paris",
+          "/wiki/Ligue_Magnus",
+          "/wiki/Racing_Club_de_France_(ice_hockey)",
+          "/wiki/Ligue_Magnus",
+          "/wiki/Stade_Fran%C3%A7ais_(ice_hockey)",
+          "/wiki/Ligue_Magnus",
+          null,
+          "/wiki/Ligue_Magnus"
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Good Housekeeping",
-        "/wiki/Good_Housekeeping"
+        [
+          "Izod Center"
+        ],
+        [
+          "/wiki/Meadowlands_Arena"
+        ]
       ],
       [
-        "230.000",
-        null
+        [
+          "19,040"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Independent Media Sanoma Magazines",
-        "/wiki/Sanoma"
+        [
+          "East Rutherford"
+        ],
+        [
+          "/wiki/East_Rutherford,_New_Jersey"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "New Jersey Devils",
+          "NHL"
+        ],
+        [
+          "/wiki/New_Jersey_Devils",
+          "/wiki/National_Hockey_League"
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "National Geographic",
-        "/wiki/National_Geographic_Magazine"
+        [
+          "Richfield Coliseum"
+        ],
+        [
+          "/wiki/Richfield_Coliseum"
+        ]
       ],
       [
-        "230.000",
-        null
+        [
+          "18,544"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Independent Media Sanoma Magazines",
-        "/wiki/Sanoma"
+        [
+          "Richfield, Ohio"
+        ],
+        [
+          "/wiki/Richfield,_Ohio"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Cleveland Crusaders",
+          "WHA",
+          "Cleveland Barons"
+        ],
+        [
+          "/wiki/Cleveland_Crusaders",
+          "/wiki/World_Hockey_Association",
+          "/wiki/Cleveland_Barons_(NHL)"
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Elle",
-        "/wiki/Elle_(magazine)"
+        [
+          "Capital Centre"
+        ],
+        [
+          "/wiki/Capital_Centre"
+        ]
       ],
       [
-        "220.000",
-        null
+        [
+          "18,130"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hearst Shkulev Media",
-        "/wiki/Hearst_Shkulev_Media"
+        [
+          "Landover"
+        ],
+        [
+          "/wiki/Landover,_Maryland"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Washington Capitals",
+          "NHL"
+        ],
+        [
+          "/wiki/Washington_Capitals",
+          "/wiki/National_Hockey_League"
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Xakep",
-        "/wiki/HTTP_404"
+        [
+          "Chesapeake Energy Arena"
+        ],
+        [
+          "/wiki/Chesapeake_Energy_Arena"
+        ]
       ],
       [
-        "220.000",
-        null
+        [
+          "18,036"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Oklahoma City"
+        ],
+        [
+          "/wiki/Oklahoma_City"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Oklahoma City Blazers",
+          "CHL"
+        ],
+        [
+          "/wiki/Oklahoma_City_Blazers_(1992%E2%80%932009)",
+          "/wiki/Central_Hockey_League"
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cosmopolitan Shopping",
-        null
+        [
+          "BMO Harris Bradley Center"
+        ],
+        [
+          "/wiki/Bradley_Center"
+        ]
       ],
       [
-        "200.000",
-        null
+        [
+          "17,845"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Independent Media Sanoma Magazines",
-        "/wiki/Sanoma"
+        [
+          "Milwaukee"
+        ],
+        [
+          "/wiki/Milwaukee"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Milwaukee Admirals",
+          "AHL"
+        ],
+        [
+          "/wiki/Milwaukee_Admirals",
+          "/wiki/American_Hockey_League"
+        ]
       ]
     ],
     [
       [
-        "11",
-        null
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Igromania",
-        "/wiki/Igromania"
+        [
+          "Toyota Center"
+        ],
+        [
+          "/wiki/Toyota_Center"
+        ]
       ],
       [
-        "180.000",
-        null
+        [
+          "17,800"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tehnomir",
-        null
+        [
+          "Houston"
+        ],
+        [
+          "/wiki/Houston"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Houston Aeros",
+          "AHL"
+        ],
+        [
+          "/wiki/Houston_Aeros_(1994%E2%80%932013)",
+          "/wiki/American_Hockey_League"
+        ]
       ]
     ],
     [
       [
-        "12",
-        null
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Men's Health",
-        "/wiki/Men%27s_Health_(magazine)"
+        [
+          "Kemper Arena"
+        ],
+        [
+          "/wiki/Kemper_Arena"
+        ]
       ],
       [
-        "160.000",
-        null
+        [
+          "17,647"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Independent Media Sanoma Magazines",
-        "/wiki/Sanoma"
+        [
+          "Kansas City"
+        ],
+        [
+          "/wiki/Kansas_City,_Missouri"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Kansas City Scouts",
+          "NHL",
+          "Kansas City Blues",
+          "CHL",
+          "Kansas City Blades",
+          "IHL",
+          "Kansas City Outlaws",
+          "UHL"
+        ],
+        [
+          "/wiki/Kansas_City_Scouts",
+          "/wiki/National_Hockey_League",
+          "/wiki/Kansas_City_Blues_(ice_hockey)",
+          "/wiki/Central_Hockey_League",
+          "/wiki/Kansas_City_Blades",
+          "/wiki/International_Hockey_League_(1945%E2%80%932001)",
+          "/wiki/Kansas_City_Outlaws",
+          "/wiki/United_Hockey_League"
+        ]
       ]
     ],
     [
       [
-        "13",
-        null
+        [
+          "13"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Playboy",
-        "/wiki/Playboy"
+        [
+          "Philips Arena"
+        ],
+        [
+          "/wiki/State_Farm_Arena_(Atlanta)"
+        ]
       ],
       [
-        "160.000",
-        null
+        [
+          "17,624"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Burda",
-        "/wiki/Hubert_Burda_Media"
+        [
+          "Atlanta"
+        ],
+        [
+          "/wiki/Atlanta"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Atlanta Thrashers",
+          "NHL"
+        ],
+        [
+          "/wiki/Atlanta_Thrashers",
+          "/wiki/National_Hockey_League"
+        ]
       ]
     ],
     [
       [
-        "14",
-        null
+        [
+          "14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Vogue",
-        "/wiki/Vogue_(magazine)"
+        [
+          "Manchester Arena"
+        ],
+        [
+          "/wiki/Manchester_Arena"
+        ]
       ],
       [
-        "150.000",
-        null
+        [
+          "17,500"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cond\u00e9 Nast Publications",
-        "/wiki/Cond%C3%A9_Nast_Publications"
+        [
+          "Manchester"
+        ],
+        [
+          "/wiki/Manchester"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Manchester Storm"
+        ],
+        [
+          "/wiki/Manchester_Storm_(1995%E2%80%932002)"
+        ]
       ]
     ],
     [
       [
-        "15",
-        null
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "L'Officiel",
-        "/wiki/L%27Officiel"
+        [
+          "Wachovia Spectrum"
+        ],
+        [
+          "/wiki/Spectrum_(arena)"
+        ]
       ],
       [
-        "150.000",
-        null
+        [
+          "17,380"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Philadelphia"
+        ],
+        [
+          "/wiki/Philadelphia"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Philadelphia Flyers",
+          "NHL",
+          "Philadelphia Phantoms",
+          "AHL"
+        ],
+        [
+          "/wiki/Philadelphia_Flyers",
+          "/wiki/National_Hockey_League",
+          "/wiki/Philadelphia_Phantoms",
+          "/wiki/American_Hockey_League"
+        ]
       ]
     ],
     [
       [
-        "16",
-        null
+        [
+          "16"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Elle Girl",
-        "/wiki/Elle_Girl"
+        [
+          "Chicago Stadium"
+        ],
+        [
+          "/wiki/Chicago_Stadium"
+        ]
       ],
       [
-        "140.000",
-        null
+        [
+          "17,317"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hearst Shkulev Media",
-        "/wiki/Hearst_Shkulev_Media"
+        [
+          "Chicago"
+        ],
+        [
+          "/wiki/Chicago"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Chicago Blackhawks",
+          "NHL"
+        ],
+        [
+          "/wiki/Chicago_Blackhawks",
+          "/wiki/National_Hockey_League"
+        ]
       ]
     ],
     [
       [
-        "17",
-        null
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "XXL",
-        "/wiki/XXL_(magazine)"
+        [
+          "St. Louis Arena"
+        ],
+        [
+          "/wiki/St._Louis_Arena"
+        ]
       ],
       [
-        "140.000",
-        null
+        [
+          "17,188"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "IDR",
-        "/wiki/Rodionov_Publishing_House"
+        [
+          "St. Louis"
+        ],
+        [
+          "/wiki/St._Louis"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "St. Louis Eagles",
+          "NHL",
+          "St. Louis Blues"
+        ],
+        [
+          "/wiki/St._Louis_Eagles",
+          "/wiki/National_Hockey_League",
+          "/wiki/St._Louis_Blues"
+        ]
       ]
     ],
     [
       [
-        "18",
-        null
+        [
+          "18"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Esquire",
-        "/wiki/Esquire_(magazine)"
+        [
+          "Reunion Arena"
+        ],
+        [
+          "/wiki/Reunion_Arena"
+        ]
       ],
       [
-        "125.000",
-        null
+        [
+          "17,001"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Independent Media Sanoma Magazines",
-        "/wiki/Sanoma"
+        [
+          "Dallas"
+        ],
+        [
+          "/wiki/Dallas"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Dallas Stars",
+          "NHL"
+        ],
+        [
+          "/wiki/Dallas_Stars",
+          "/wiki/National_Hockey_League"
+        ]
       ]
     ],
     [
       [
-        "19",
-        null
+        [
+          "19"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Marie Claire",
-        "/wiki/Marie_Claire"
+        [
+          "Verizon Arena"
+        ],
+        [
+          "/wiki/Verizon_Arena"
+        ]
       ],
       [
-        "125.000",
-        null
+        [
+          "17,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hearst Shkulev Media",
-        "/wiki/Hearst_Shkulev_Media"
+        [
+          "North Little Rock"
+        ],
+        [
+          "/wiki/North_Little_Rock,_Arkansas"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Arkansas RiverBlades",
+          "ECHL"
+        ],
+        [
+          "/wiki/Arkansas_RiverBlades",
+          "/wiki/East_Coast_Hockey_League"
+        ]
       ]
     ],
     [
       [
-        "20",
-        null
+        [
+          "20"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Harper's Bazaar",
-        "/wiki/Harper%27s_Bazaar"
+        [
+          "Civic Arena"
+        ],
+        [
+          "/wiki/Civic_Arena_(Pittsburgh)"
+        ]
       ],
       [
-        "120.000",
-        null
+        [
+          "16,958"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Independent Media Sanoma Magazines",
-        "/wiki/Sanoma"
+        [
+          "Pittsburgh"
+        ],
+        [
+          "/wiki/Pittsburgh"
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Pittsburgh Hornets",
+          "AHL",
+          "Pittsburgh Penguins",
+          "NHL"
+        ],
+        [
+          "/wiki/Pittsburgh_Hornets",
+          "/wiki/American_Hockey_League",
+          "/wiki/Pittsburgh_Penguins",
+          "/wiki/National_Hockey_League"
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "In this table, \"defunct\" refers to its status as an ice hockey venue. Many of the venues listed here remain in use for other sports.",
   "idx": 7284
 }

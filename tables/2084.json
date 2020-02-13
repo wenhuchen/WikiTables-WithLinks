@@ -1,467 +1,509 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Swiss_Market_Index",
-  "title": "Swiss Market Index",
+  "url": "https://en.wikipedia.org/wiki/1972_International_Cross_Country_Championships",
+  "title": "1972 International Cross Country Championships",
   "header": [
     [
-      "Company",
-      null
+      [
+        "Rank"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "ICB",
-      "/wiki/Industry_Classification_Benchmark"
+      [
+        "Country"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Canton",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Ticker symbol",
-      null
-    ],
-    [
-      "Weight (%)",
-      null
+      [
+        "Points"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "ABB",
-        "/wiki/ABB_Group"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "electronic and electrical equipment",
-        null
+        [
+          "England"
+        ],
+        [
+          "/wiki/England"
+        ]
       ],
       [
-        "Zurich",
-        "/wiki/Canton_of_Zurich"
+        [
+          "Trevor Wright",
+          "Tony Simmons",
+          "Colin Robinson",
+          "Grenville Tuck",
+          "Keith Angus"
+        ],
+        [
+          null,
+          "/wiki/Tony_Simmons_(athlete)",
+          null,
+          null,
+          "/wiki/Keith_Angus"
+        ]
       ],
       [
-        "ABBN",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "3.61",
-        null
+        [
+          "84"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Adecco",
-        "/wiki/Adecco"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "business training and employment agencies",
-        null
+        [
+          "Morocco"
+        ],
+        [
+          "/wiki/Morocco"
+        ]
       ],
       [
-        "Zurich",
-        "/wiki/Canton_of_Zurich"
+        [
+          "Haddou Jaddour",
+          "Mohamed Ben Abdelsalem",
+          "Moumoh Haddou"
+        ],
+        [
+          null,
+          null,
+          null
+        ]
       ],
       [
-        "ADEN",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "0.95",
-        null
+        [
+          "94"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Alcon",
-        "/wiki/Alcon"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "healthcare",
-        null
+        [
+          "Belgium"
+        ],
+        [
+          "/wiki/Belgium"
+        ]
       ],
       [
-        "Fribourg",
-        "/wiki/Canton_of_Fribourg"
+        [
+          "Gaston Roelants",
+          "Eric de Beck",
+          "Karel Lismont"
+        ],
+        [
+          "/wiki/Gaston_Roelants",
+          "/wiki/Eric_de_Beck",
+          "/wiki/Karel_Lismont"
+        ]
       ],
       [
-        "ALC",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "3.09",
-        null
+        [
+          "140"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Credit Suisse",
-        "/wiki/Credit_Suisse"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "banks",
-        null
+        [
+          "Scotland"
+        ],
+        [
+          "/wiki/Scotland"
+        ]
       ],
       [
-        "Zurich",
-        "/wiki/Canton_of_Zurich"
+        [
+          "Ian Stewart",
+          "Jim Alder",
+          "Lachie Stewart",
+          "Alistair Blamire",
+          "Andrew McKean",
+          "Dick Wedlock"
+        ],
+        [
+          "/wiki/Ian_Stewart_(athlete)",
+          "/wiki/Jim_Alder",
+          "/wiki/Lachie_Stewart",
+          null,
+          null,
+          null
+        ]
       ],
       [
-        "CSGN",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "2.95",
-        null
+        [
+          "203"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Geberit",
-        "/wiki/Geberit"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "building materials and fixtures",
-        null
+        [
+          "Spain"
+        ],
+        [
+          "/wiki/Spain"
+        ]
       ],
       [
-        "St. Gallen",
-        "/wiki/Canton_of_St._Gallen"
+        [
+          "Mariano Haro",
+          "Juan Hidalgo",
+          "Jos\u00e9 Maiz",
+          "Santiago de la Parte"
+        ],
+        [
+          "/wiki/Mariano_Haro",
+          null,
+          null,
+          "/wiki/Santiago_de_la_Parte"
+        ]
       ],
       [
-        "GEBN",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "1.77",
-        null
+        [
+          "207"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Givaudan",
-        "/wiki/Givaudan"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "specialty chemicals",
-        null
+        [
+          "France"
+        ],
+        [
+          "/wiki/France"
+        ]
       ],
       [
-        "Geneva",
-        "/wiki/Canton_of_Geneva"
+        [
+          "Lucien Rault",
+          "Jean-Yves Le Flohic",
+          "Noel Tijou",
+          "Ren\u00e9 Jourdan"
+        ],
+        [
+          "/wiki/Lucien_Rault",
+          null,
+          "/wiki/Noel_Tijou",
+          null
+        ]
       ],
       [
-        "GIVN",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "2.25",
-        null
+        [
+          "220"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "LafargeHolcim",
-        "/wiki/LafargeHolcim"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "building materials and fixtures",
-        null
+        [
+          "Finland"
+        ],
+        [
+          "/wiki/Finland"
+        ]
       ],
       [
-        "St. Gallen",
-        "/wiki/Canton_of_St._Gallen"
+        [
+          "Tapio Kantanen",
+          "Pekka P\u00e4iv\u00e4rinta"
+        ],
+        [
+          "/wiki/Tapio_Kantanen",
+          "/wiki/Pekka_P%C3%A4iv%C3%A4rinta"
+        ]
       ],
       [
-        "LHN",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "2.44",
-        null
+        [
+          "233"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Lonza",
-        "/wiki/Lonza_Group"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "pharmaceuticals and biotechnology",
-        null
+        [
+          "Ireland"
+        ],
+        [
+          "/wiki/Republic_of_Ireland"
+        ]
       ],
       [
-        "Basel",
-        "/wiki/Canton_of_Basel-Stadt"
+        [
+          "Neil Cusack",
+          "Tom O'Riordan",
+          "Paddy Coyle"
+        ],
+        [
+          "/wiki/Neil_Cusack",
+          "/wiki/Tom_O%27Riordan",
+          null
+        ]
       ],
       [
-        "LONN",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "2.81",
-        null
+        [
+          "273"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Nestl\u00e9",
-        "/wiki/Nestl%C3%A9"
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "food products",
-        null
+        [
+          "Wales"
+        ],
+        [
+          "/wiki/Wales"
+        ]
       ],
       [
-        "Vaud",
-        "/wiki/Vaud"
+        [
+          "Malcolm Thomas",
+          "Tony Ashton",
+          "Bernie Plain",
+          "Dennis Fowles",
+          "John Jones"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
       ],
       [
-        "NESN",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "19.17",
-        null
+        [
+          "313"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Novartis",
-        "/wiki/Novartis"
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "pharmaceuticals",
-        null
+        [
+          "Switzerland"
+        ],
+        [
+          "/wiki/Switzerland"
+        ]
       ],
       [
-        "Basel",
-        "/wiki/Canton_of_Basel-Stadt"
+        [
+          "Albrecht Moser"
+        ],
+        [
+          "/wiki/Albrecht_Moser"
+        ]
       ],
       [
-        "NOVN",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "18.01",
-        null
+        [
+          "320"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Richemont",
-        "/wiki/Richemont"
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "clothing and accessories",
-        null
+        [
+          "Italy"
+        ],
+        [
+          "/wiki/Italy"
+        ]
       ],
       [
-        "Geneva",
-        "/wiki/Canton_of_Geneva"
+        [
+          "Gabriele Barbaro",
+          "Renato Martini",
+          "Franco Veronese"
+        ],
+        [
+          "/wiki/Gabriele_Barbaro",
+          "/wiki/Renato_Martini",
+          "/wiki/Franco_Veronese"
+        ]
       ],
       [
-        "CFR",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "4.42",
-        null
+        [
+          "329"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Roche",
-        "/wiki/Hoffmann%E2%80%93La_Roche"
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "pharmaceuticals",
-        null
+        [
+          "Northern Ireland"
+        ],
+        [
+          "/wiki/Northern_Ireland"
+        ]
       ],
       [
-        "Basel",
-        "/wiki/Canton_of_Basel-Stadt"
+        [
+          "Ian Morrison",
+          "Jim McGuinness",
+          "Roy Kernoghan",
+          "John McLaughlin"
+        ],
+        [
+          null,
+          null,
+          null,
+          null
+        ]
       ],
       [
-        "ROG",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "17.87",
-        null
-      ]
-    ],
-    [
-      [
-        "SGS",
-        "/wiki/Soci%C3%A9t%C3%A9_G%C3%A9n%C3%A9rale_de_Surveillance"
-      ],
-      [
-        "business support services",
-        null
-      ],
-      [
-        "Geneva",
-        "/wiki/Canton_of_Geneva"
-      ],
-      [
-        "SGSN",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "1.36",
-        null
-      ]
-    ],
-    [
-      [
-        "Sika",
-        "/wiki/Sika_AG"
-      ],
-      [
-        "specialty chemicals",
-        null
-      ],
-      [
-        "Zug",
-        "/wiki/Canton_of_Zug"
-      ],
-      [
-        "SIKA",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "1.92",
-        null
-      ]
-    ],
-    [
-      [
-        "Swatch",
-        "/wiki/The_Swatch_Group"
-      ],
-      [
-        "clothing and accessories",
-        null
-      ],
-      [
-        "Bern",
-        "/wiki/Canton_of_Bern"
-      ],
-      [
-        "UHR",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "0.92",
-        null
-      ]
-    ],
-    [
-      [
-        "Swiss Life",
-        "/wiki/Swiss_Life"
-      ],
-      [
-        "life insurance",
-        null
-      ],
-      [
-        "Zurich",
-        "/wiki/Canton_of_Zurich"
-      ],
-      [
-        "SLHN",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "1.74",
-        null
-      ]
-    ],
-    [
-      [
-        "Swiss Re",
-        "/wiki/Swiss_Re"
-      ],
-      [
-        "reinsurance",
-        null
-      ],
-      [
-        "Zurich",
-        "/wiki/Canton_of_Zurich"
-      ],
-      [
-        "SREN",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "3.24",
-        null
-      ]
-    ],
-    [
-      [
-        "Swisscom",
-        "/wiki/Swisscom"
-      ],
-      [
-        "fixed line telecommunications",
-        null
-      ],
-      [
-        "Bern",
-        "/wiki/Canton_of_Bern"
-      ],
-      [
-        "SCMN",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "1.34",
-        null
-      ]
-    ],
-    [
-      [
-        "UBS",
-        "/wiki/UBS_AG"
-      ],
-      [
-        "banks",
-        null
-      ],
-      [
-        "Zurich",
-        "/wiki/Canton_of_Zurich"
-      ],
-      [
-        "UBSG",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "4.41",
-        null
-      ]
-    ],
-    [
-      [
-        "Zurich Insurance",
-        "/wiki/Zurich_Insurance_Group"
-      ],
-      [
-        "full line insurance",
-        null
-      ],
-      [
-        "Zurich",
-        "/wiki/Canton_of_Zurich"
-      ],
-      [
-        "ZURN",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "5.76",
-        null
+        [
+          "565"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

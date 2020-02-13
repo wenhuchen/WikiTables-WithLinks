@@ -1,206 +1,510 @@
 {
-  "url": "https://en.wikipedia.org/wiki/1971_International_Cross_Country_Championships",
-  "title": "1971 International Cross Country Championships",
+  "url": "https://en.wikipedia.org/wiki/American_Athletic_Conference",
+  "title": "American Athletic Conference",
   "header": [
     [
-      "Rank",
-      null
+      [
+        "Year"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Team",
-      null
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Points",
-      null
+      [
+        "Opposing Conference"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "2020\u201325"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "England",
-        "/wiki/England"
+        [
+          "Cotton",
+          "Peach",
+          "Fiesta",
+          "Playoff"
+        ],
+        [
+          "/wiki/Cotton_Bowl_Classic",
+          "/wiki/Peach_Bowl",
+          "/wiki/Fiesta_Bowl",
+          "/wiki/College_Football_Playoff"
+        ]
       ],
       [
-        "Joyce Smith,Rita Ridley,Sheila Carey",
-        "/wiki/Joyce_Smith /wiki/Rita_Ridley /wiki/Sheila_Carey"
+        [
+          "Dallas",
+          "Atlanta",
+          "Glendale"
+        ],
+        [
+          "/wiki/Dallas",
+          "/wiki/Atlanta",
+          "/wiki/Glendale,_Arizona"
+        ]
       ],
       [
-        "29",
-        null
+        [
+          "CFP At-Large"
+        ],
+        [
+          "/wiki/College_Football_Playoff"
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "2020-25"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "New Zealand",
-        "/wiki/New_Zealand"
+        [
+          "Fenway Bowl"
+        ],
+        [
+          "/wiki/Fenway_Bowl"
+        ]
       ],
       [
-        "Valerie Robinson,Irene Miller,Heather Thomson",
-        "/wiki/HTTP_404 /wiki/Irene_Miller /wiki/Heather_Thomson_(athlete)"
+        [
+          "Boston, Massachusetts"
+        ],
+        [
+          "/wiki/Boston,_Massachusetts"
+        ]
       ],
       [
-        "42",
-        null
+        [
+          "ACC"
+        ],
+        [
+          "/wiki/Atlantic_Coast_Conference"
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "2020\u201325"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "United States",
-        "/wiki/United_States"
+        [
+          "Military Bowl"
+        ],
+        [
+          "/wiki/Military_Bowl"
+        ]
       ],
       [
-        "Doris Brown,Beth Bonner",
-        "/wiki/Doris_Brown /wiki/Beth_Bonner"
+        [
+          "Annapolis, Maryland"
+        ],
+        [
+          "/wiki/Annapolis,_Maryland"
+        ]
       ],
       [
-        "51",
-        null
+        [
+          "ACC"
+        ],
+        [
+          "/wiki/Atlantic_Coast_Conference"
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "2020/22/24"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Netherlands",
-        "/wiki/Netherlands"
+        [
+          "Hawai\u02bbi Bowl"
+        ],
+        [
+          "/wiki/Hawaii_Bowl"
+        ]
       ],
       [
-        "Berny Lenferink,Annie van den Kerkhof,Joke van de Stelt",
-        "/wiki/Berny_Lenferink /wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "Honolulu, Hawaii"
+        ],
+        [
+          "/wiki/Honolulu"
+        ]
       ],
       [
-        "71",
-        null
+        [
+          "MWC",
+          "BYU"
+        ],
+        [
+          "/wiki/Mountain_West_Conference",
+          "/wiki/BYU_Cougars_football"
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "2021/23/25"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Wales",
-        "/wiki/Wales"
+        [
+          "Armed Forces Bowl"
+        ],
+        [
+          "/wiki/Armed_Forces_Bowl"
+        ]
       ],
       [
-        "Thelwyn Bateman,Jean Lochhead,Bronwen Cardy,Gloria Dourass",
-        "/wiki/HTTP_404 /wiki/HTTP_404 /wiki/Bronwen_Cardy-Wise /wiki/HTTP_404"
+        [
+          "Fort Worth, Texas"
+        ],
+        [
+          "/wiki/Fort_Worth,_Texas"
+        ]
       ],
       [
-        "90",
-        null
+        [
+          "Big 12",
+          "Army"
+        ],
+        [
+          "/wiki/Big_12_Conference",
+          "/wiki/Army_Black_Knights_football"
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "2020\u201325"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Italy",
-        "/wiki/Italy"
+        [
+          "Cure Bowl"
+        ],
+        [
+          "/wiki/Cure_Bowl"
+        ]
       ],
       [
-        "Waltraud Egger,Margherita Gargano,Giuseppina Torello",
-        "/wiki/HTTP_404 /wiki/Margherita_Gargano /wiki/HTTP_404"
+        [
+          "Orlando, Florida"
+        ],
+        [
+          "/wiki/Orlando,_Florida"
+        ]
       ],
       [
-        "98",
-        null
+        [
+          "Sun Belt"
+        ],
+        [
+          "/wiki/Sun_Belt_Conference"
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "2020\u201325"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ireland",
-        "/wiki/Republic_of_Ireland"
+        [
+          "Boca Raton Bowl"
+        ],
+        [
+          "/wiki/Boca_Raton_Bowl"
+        ]
       ],
       [
-        "Deirdre Foreman,Mary Lynch",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "Boca Raton, Florida"
+        ],
+        [
+          "/wiki/Boca_Raton,_Florida"
+        ]
       ],
       [
-        "111",
-        null
+        [
+          "MAC",
+          "C-USA"
+        ],
+        [
+          "/wiki/Mid-American_Conference",
+          "/wiki/Conference_USA"
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "2020\u201325"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Scotland",
-        "/wiki/Scotland"
+        [
+          "Frisco Bowl"
+        ],
+        [
+          "/wiki/Frisco_Bowl"
+        ]
       ],
       [
-        "Christine Haskett,Ann Barrass",
-        "/wiki/Christine_Haskett /wiki/HTTP_404"
+        [
+          "Frisco, Texas"
+        ],
+        [
+          "/wiki/Frisco,_Texas"
+        ]
       ],
       [
-        "124",
-        null
+        [
+          "C-USA",
+          "MAC",
+          "Sun Belt",
+          "BYU"
+        ],
+        [
+          "/wiki/Conference_USA",
+          "/wiki/Mid-American_Conference",
+          "/wiki/Sun_Belt_Conference",
+          "/wiki/BYU_Cougars_football"
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "2020\u201325"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Spain",
-        "/wiki/Spain"
+        [
+          "Birmingham Bowl"
+        ],
+        [
+          "/wiki/Birmingham_Bowl"
+        ]
       ],
       [
-        "Belen Azpeitia,Pilar San Martin,Begona Zu\u00f1iga",
-        "/wiki/HTTP_404 /wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "Birmingham, Alabama"
+        ],
+        [
+          "/wiki/Birmingham,_Alabama"
+        ]
       ],
       [
-        "156",
-        null
+        [
+          "SEC"
+        ],
+        [
+          "/wiki/Southeastern_Conference"
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "2020\u201325"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Belgium",
-        "/wiki/Belgium"
+        [
+          "Gasparilla Bowl"
+        ],
+        [
+          "/wiki/Gasparilla_Bowl"
+        ]
       ],
       [
-        "Li\u00e8ve van den Broeck,Josee van Santberghe",
-        "/wiki/HTTP_404 /wiki/Josee_van_Santberghe"
+        [
+          "Tampa, Florida"
+        ],
+        [
+          "/wiki/Tampa,_Florida"
+        ]
       ],
       [
-        "190",
-        null
+        [
+          "SEC"
+        ],
+        [
+          "/wiki/Southeastern_Conference"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2020\u201325"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "First Responder Bowl"
+        ],
+        [
+          "/wiki/First_Responder_Bowl"
+        ]
+      ],
+      [
+        [
+          "Dallas, Texas"
+        ],
+        [
+          "/wiki/Dallas,_Texas"
+        ]
+      ],
+      [
+        [
+          "TBD"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2020\u201325"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Myrtle Beach Bowl"
+        ],
+        [
+          "/wiki/Myrtle_Beach_Bowl"
+        ]
+      ],
+      [
+        [
+          "Conway, South Carolina"
+        ],
+        [
+          "/wiki/Conway,_South_Carolina"
+        ]
+      ],
+      [
+        [
+          "C-USA",
+          "MAC",
+          "Sun Belt"
+        ],
+        [
+          "/wiki/Conference_USA",
+          "/wiki/Mid-American_Conference",
+          "/wiki/Sun_Belt_Conference"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2020\u201325"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "New Mexico Bowl"
+        ],
+        [
+          "/wiki/New_Mexico_Bowl"
+        ]
+      ],
+      [
+        [
+          "Albuquerque, New Mexico"
+        ],
+        [
+          "/wiki/Albuquerque,_New_Mexico"
+        ]
+      ],
+      [
+        [
+          "TBD"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "Although the pick order usually corresponds to the conference standings, the bowls are not required to make their choices strictly according to the won-lost records; many factors influence bowl selections, especially the likely turnout of the team's fans. Picks are made after any applicable College Football Playoff selections. If a team is selected for the one of the access bowls or playoff, the bowl with the No. 2 pick will have the first pick of the remaining teams in the conference.",
   "idx": 3905
 }

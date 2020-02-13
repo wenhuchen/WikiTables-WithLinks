@@ -1,299 +1,963 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Damallsvenskan",
-  "title": "Damallsvenskan",
+  "url": "https://en.wikipedia.org/wiki/List_of_UEFA_Super_Cup_matches",
+  "title": "List of UEFA Super Cup matches",
   "header": [
     [
-      "Year",
-      null
+      [
+        "Club"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Goals",
-      null
+      [
+        "Winners"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Player",
-      null
+      [
+        "Runners-up"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Years won"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Years runners-up"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1982",
-        "/wiki/1982_in_Swedish_football"
+        [
+          "Barcelona"
+        ],
+        [
+          "/wiki/FC_Barcelona"
+        ]
       ],
       [
-        "30",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pia Sundhage,\u00d6sters IF",
-        "/wiki/Pia_Sundhage /wiki/%C3%96sters_IF"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1992",
+          "1997",
+          "2009",
+          "2011",
+          "2015"
+        ],
+        [
+          "/wiki/1992_European_Super_Cup",
+          "/wiki/1997_UEFA_Super_Cup",
+          "/wiki/2009_UEFA_Super_Cup",
+          "/wiki/2011_UEFA_Super_Cup",
+          "/wiki/2015_UEFA_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "1979",
+          "1982",
+          "1989",
+          "2006"
+        ],
+        [
+          "/wiki/1979_European_Super_Cup",
+          "/wiki/1982_European_Super_Cup",
+          "/wiki/1989_European_Super_Cup",
+          "/wiki/2006_UEFA_Super_Cup"
+        ]
       ]
     ],
     [
       [
-        "1983",
-        "/wiki/1983_in_Swedish_football"
+        [
+          "Milan"
+        ],
+        [
+          "/wiki/A.C._Milan"
+        ]
       ],
       [
-        "35",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pia Sundhage,\u00d6sters IF",
-        "/wiki/Pia_Sundhage /wiki/%C3%96sters_IF"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1989",
+          "1990",
+          "1994",
+          "2003",
+          "2007"
+        ],
+        [
+          "/wiki/1989_European_Super_Cup",
+          "/wiki/1990_European_Super_Cup",
+          "/wiki/1994_European_Super_Cup",
+          "/wiki/2003_UEFA_Super_Cup",
+          "/wiki/2007_UEFA_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "1973",
+          "1993"
+        ],
+        [
+          "/wiki/1973_European_Super_Cup",
+          "/wiki/1993_European_Super_Cup"
+        ]
       ]
     ],
     [
       [
-        "1984",
-        "/wiki/1984_in_Swedish_football"
+        [
+          "Real Madrid"
+        ],
+        [
+          "/wiki/Real_Madrid_C.F."
+        ]
       ],
       [
-        "35",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lena Videkull,Trollh\u00e4ttans IF",
-        "/wiki/Lena_Videkull /wiki/Trollh%C3%A4ttans_IF"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2002",
+          "2014",
+          "2016",
+          "2017"
+        ],
+        [
+          "/wiki/2002_UEFA_Super_Cup",
+          "/wiki/2014_UEFA_Super_Cup",
+          "/wiki/2016_UEFA_Super_Cup",
+          "/wiki/2017_UEFA_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "1998",
+          "2000",
+          "2018"
+        ],
+        [
+          "/wiki/1998_UEFA_Super_Cup",
+          "/wiki/2000_UEFA_Super_Cup",
+          "/wiki/2018_UEFA_Super_Cup"
+        ]
       ]
     ],
     [
       [
-        "1985",
-        "/wiki/1985_in_Swedish_football"
+        [
+          "Liverpool"
+        ],
+        [
+          "/wiki/Liverpool_F.C."
+        ]
       ],
       [
-        "19",
-        null
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hammarby IF",
-        "/wiki/Hammarby_IF_DFF"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1977",
+          "2001",
+          "2005",
+          "2019"
+        ],
+        [
+          "/wiki/1977_European_Super_Cup",
+          "/wiki/2001_UEFA_Super_Cup",
+          "/wiki/2005_UEFA_Super_Cup",
+          "/wiki/2019_UEFA_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "1978",
+          "1984"
+        ],
+        [
+          "/wiki/1978_European_Super_Cup",
+          "/wiki/1984_European_Super_Cup"
+        ]
       ]
     ],
     [
       [
-        "1986",
-        "/wiki/1986_in_Swedish_football"
+        [
+          "Atl\u00e9tico Madrid"
+        ],
+        [
+          "/wiki/Atl%C3%A9tico_Madrid"
+        ]
       ],
       [
-        "22",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Gunilla Ax\u00e9n,Gideonsbergs IF",
-        "/wiki/Gunilla_Ax%C3%A9n /wiki/Gideonsbergs_IF"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2010",
+          "2012",
+          "2018"
+        ],
+        [
+          "/wiki/2010_UEFA_Super_Cup",
+          "/wiki/2012_UEFA_Super_Cup",
+          "/wiki/2018_UEFA_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "\u2014"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1987",
-        "/wiki/1987_in_Swedish_football"
+        [
+          "Ajax"
+        ],
+        [
+          "/wiki/AFC_Ajax"
+        ]
       ],
       [
-        "28",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dalhem IF",
-        "/wiki/Dalhem_IF"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1973",
+          "1995"
+        ],
+        [
+          "/wiki/1973_European_Super_Cup",
+          "/wiki/1995_UEFA_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "1987"
+        ],
+        [
+          "/wiki/1987_European_Super_Cup"
+        ]
       ]
     ],
     [
       [
-        "1988",
-        "/wiki/1988_in_Swedish_football"
+        [
+          "Anderlecht"
+        ],
+        [
+          "/wiki/R.S.C._Anderlecht"
+        ]
       ],
       [
-        "24",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lena Videkull,\u00d6xab\u00e4ck/Mark IF",
-        "/wiki/Lena_Videkull /wiki/%C3%96xab%C3%A4cks_IF"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1976",
+          "1978"
+        ],
+        [
+          "/wiki/1976_European_Super_Cup",
+          "/wiki/1978_European_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "\u2014"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1989",
-        "/wiki/1989_in_Swedish_football"
+        [
+          "Valencia"
+        ],
+        [
+          "/wiki/Valencia_CF"
+        ]
       ],
       [
-        "25",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jitex BK",
-        "/wiki/Jitex_BK"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1980",
+          "2004"
+        ],
+        [
+          "/wiki/1980_European_Super_Cup",
+          "/wiki/2004_UEFA_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "\u2014"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1990",
-        "/wiki/1990_in_Swedish_football"
+        [
+          "Juventus"
+        ],
+        [
+          "/wiki/Juventus_F.C."
+        ]
       ],
       [
-        "21",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lena Videkull,Malm\u00f6 FF",
-        "/wiki/Lena_Videkull /wiki/FC_Roseng%C3%A5rd"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1984",
+          "1996"
+        ],
+        [
+          "/wiki/1984_European_Super_Cup",
+          "/wiki/1996_UEFA_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "\u2014"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1991",
-        "/wiki/1991_in_Swedish_football"
+        [
+          "Sevilla"
+        ],
+        [
+          "/wiki/Sevilla_FC"
+        ]
       ],
       [
-        "28",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lena Videkull,Malm\u00f6 FF",
-        "/wiki/Lena_Videkull /wiki/FC_Roseng%C3%A5rd"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2006"
+        ],
+        [
+          "/wiki/2006_UEFA_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "2007",
+          "2014",
+          "2015",
+          "2016"
+        ],
+        [
+          "/wiki/2007_UEFA_Super_Cup",
+          "/wiki/2014_UEFA_Super_Cup",
+          "/wiki/2015_UEFA_Super_Cup",
+          "/wiki/2016_UEFA_Super_Cup"
+        ]
       ]
     ],
     [
       [
-        "1992",
-        "/wiki/1992_in_Swedish_football"
+        [
+          "Porto"
+        ],
+        [
+          "/wiki/FC_Porto"
+        ]
       ],
       [
-        "26",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Anneli Andel\u00e9n,\u00d6xab\u00e4ck/Mark IF",
-        "/wiki/Anneli_Andel%C3%A9n /wiki/%C3%96xab%C3%A4cks_IF"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1987"
+        ],
+        [
+          "/wiki/1987_European_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "2003",
+          "2004",
+          "2011"
+        ],
+        [
+          "/wiki/2003_UEFA_Super_Cup",
+          "/wiki/2004_UEFA_Super_Cup",
+          "/wiki/2011_UEFA_Super_Cup"
+        ]
       ]
     ],
     [
       [
-        "1993",
-        "/wiki/1993_in_Swedish_football"
+        [
+          "Manchester United"
+        ],
+        [
+          "/wiki/Manchester_United_F.C."
+        ]
       ],
       [
-        "29",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Anneli Andel\u00e9n,\u00d6xab\u00e4ck/Mark IF",
-        "/wiki/Anneli_Andel%C3%A9n /wiki/%C3%96xab%C3%A4cks_IF"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1991"
+        ],
+        [
+          "/wiki/1991_European_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "1999",
+          "2008",
+          "2017"
+        ],
+        [
+          "/wiki/1999_UEFA_Super_Cup",
+          "/wiki/2008_UEFA_Super_Cup",
+          "/wiki/2017_UEFA_Super_Cup"
+        ]
       ]
     ],
     [
       [
-        "1994",
-        "/wiki/1994_in_Swedish_football"
+        [
+          "Chelsea"
+        ],
+        [
+          "/wiki/Chelsea_F.C."
+        ]
       ],
       [
-        "33",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Anneli Andel\u00e9n,\u00d6xab\u00e4ck/Mark IF",
-        "/wiki/Anneli_Andel%C3%A9n /wiki/%C3%96xab%C3%A4cks_IF"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1998"
+        ],
+        [
+          "/wiki/1998_UEFA_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "2012",
+          "2013",
+          "2019"
+        ],
+        [
+          "/wiki/2012_UEFA_Super_Cup",
+          "/wiki/2013_UEFA_Super_Cup",
+          "/wiki/2019_UEFA_Super_Cup"
+        ]
       ]
     ],
     [
       [
-        "1995",
-        "/wiki/1995_in_Swedish_football"
+        [
+          "Bayern Munich"
+        ],
+        [
+          "/wiki/FC_Bayern_Munich"
+        ]
       ],
       [
-        "27",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "B\u00e4linge IF",
-        "/wiki/B%C3%A4linge_IF"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2013"
+        ],
+        [
+          "/wiki/2013_UEFA_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "1975",
+          "1976",
+          "2001"
+        ],
+        [
+          "/wiki/1975_European_Super_Cup",
+          "/wiki/1976_European_Super_Cup",
+          "/wiki/2001_UEFA_Super_Cup"
+        ]
       ]
     ],
     [
       [
-        "1996",
-        "/wiki/1996_in_Swedish_football"
+        [
+          "Dynamo Kyiv"
+        ],
+        [
+          "/wiki/FC_Dynamo_Kyiv"
+        ]
       ],
       [
-        "23",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lena Videkull,Malm\u00f6 FF",
-        "/wiki/Lena_Videkull /wiki/FC_Roseng%C3%A5rd"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1975"
+        ],
+        [
+          "/wiki/1975_European_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "1986"
+        ],
+        [
+          "/wiki/1986_European_Super_Cup"
+        ]
       ]
     ],
     [
       [
-        "1997",
-        "/wiki/1997_in_Swedish_football"
+        [
+          "Nottingham Forest"
+        ],
+        [
+          "/wiki/Nottingham_Forest_F.C."
+        ]
       ],
       [
-        "22",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "B\u00e4linge IF,Lena Videkull,Malm\u00f6 FF",
-        "/wiki/B%C3%A4linge_IF /wiki/Lena_Videkull /wiki/FC_Roseng%C3%A5rd"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1979"
+        ],
+        [
+          "/wiki/1979_European_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "1980"
+        ],
+        [
+          "/wiki/1980_European_Super_Cup"
+        ]
       ]
     ],
     [
       [
-        "1998",
-        "/wiki/1998_in_Swedish_football"
+        [
+          "Aston Villa"
+        ],
+        [
+          "/wiki/Aston_Villa_F.C."
+        ]
       ],
       [
-        "32",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Victoria Svensson,\u00c4lvsj\u00f6 AIK",
-        "/wiki/Victoria_Svensson /wiki/%C3%84lvsj%C3%B6_AIK"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1982"
+        ],
+        [
+          "/wiki/1982_European_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "\u2014"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1999",
-        "/wiki/1999_in_Swedish_football"
+        [
+          "Aberdeen"
+        ],
+        [
+          "/wiki/Aberdeen_F.C."
+        ]
       ],
       [
-        "29",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Malm\u00f6 FF",
-        "/wiki/FC_Roseng%C3%A5rd"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1983"
+        ],
+        [
+          "/wiki/1983_European_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "\u2014"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2000",
-        "/wiki/2000_in_Swedish_football"
+        [
+          "Steaua Bucure\u0219ti"
+        ],
+        [
+          "/wiki/FC_Steaua_Bucure%C8%99ti"
+        ]
       ],
       [
-        "25",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Malm\u00f6 FF",
-        "/wiki/FC_Roseng%C3%A5rd"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1986"
+        ],
+        [
+          "/wiki/1986_European_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "\u2014"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2001",
-        "/wiki/2001_in_Swedish_football"
+        [
+          "Mechelen"
+        ],
+        [
+          "/wiki/KV_Mechelen"
+        ]
       ],
       [
-        "34",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Victoria Svensson,\u00c4lvsj\u00f6 AIK",
-        "/wiki/Victoria_Svensson /wiki/%C3%84lvsj%C3%B6_AIK"
+        [
+          "0"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1988"
+        ],
+        [
+          "/wiki/1988_European_Super_Cup"
+        ]
+      ],
+      [
+        [
+          "\u2014"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

@@ -1,278 +1,594 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2012_Kazakhstan_Premier_League",
-  "title": "2012 Kazakhstan Premier League",
+  "url": "https://en.wikipedia.org/wiki/List_of_Major_League_Baseball_franchise_postseason_droughts",
+  "title": "List of Major League Baseball franchise postseason droughts",
   "header": [
     [
-      "Team",
-      null
+      [
+        "Region"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      null
+      [
+        "Drought (seasons)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Venue",
-      null
-    ],
-    [
-      "Capacity",
-      null
+      [
+        "Last pennant"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Aktobe",
-        "/wiki/FC_Aktobe"
+        [
+          "Seattle"
+        ],
+        [
+          "/wiki/Seattle_metropolitan_area"
+        ]
       ],
       [
-        "Aktobe",
-        "/wiki/Aktobe"
+        [
+          "44* \u2020"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Aktobe Central Stadium",
-        "/wiki/Aktobe_Central_Stadium"
-      ],
-      [
-        "13,500",
-        null
+        [
+          "None"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Akzhayik",
-        "/wiki/FC_Akzhayik"
+        [
+          "Pittsburgh"
+        ],
+        [
+          "/wiki/Greater_Pittsburgh"
+        ]
       ],
       [
-        "Oral",
-        "/wiki/Oral,_Kazakhstan"
+        [
+          "40"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Petr Atoyan Stadium",
-        "/wiki/Petr_Atoyan_Stadium"
-      ],
-      [
-        "8,320",
-        null
+        [
+          "Pittsburgh Pirates",
+          "1979"
+        ],
+        [
+          "/wiki/Pittsburgh_Pirates",
+          "/wiki/1979_World_Series"
+        ]
       ]
     ],
     [
       [
-        "Astana",
-        "/wiki/FC_Astana"
+        [
+          "Milwaukee"
+        ],
+        [
+          "/wiki/Milwaukee_metropolitan_area"
+        ]
       ],
       [
-        "Astana",
-        "/wiki/Astana"
+        [
+          "37"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Astana Arena",
-        "/wiki/Astana_Arena"
-      ],
-      [
-        "30,000",
-        null
+        [
+          "Milwaukee Brewers",
+          "1982",
+          "A.L."
+        ],
+        [
+          "/wiki/Milwaukee_Brewers",
+          "/wiki/1982_World_Series",
+          "/wiki/American_League"
+        ]
       ]
     ],
     [
       [
-        "Atyrau",
-        "/wiki/FC_Atyrau"
+        [
+          "Baltimore"
+        ],
+        [
+          "/wiki/Baltimore_metropolitan_area"
+        ]
       ],
       [
-        "Atyrau",
-        "/wiki/Atyrau"
+        [
+          "36"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Munayshy Stadium",
-        "/wiki/Munayshy_Stadium"
-      ],
-      [
-        "9,000",
-        null
+        [
+          "Baltimore Orioles",
+          "1983"
+        ],
+        [
+          "/wiki/Baltimore_Orioles",
+          "/wiki/1983_World_Series"
+        ]
       ]
     ],
     [
       [
-        "Irtysh",
-        "/wiki/FC_Irtysh_Pavlodar"
+        [
+          "Cincinnati"
+        ],
+        [
+          "/wiki/Cincinnati_metropolitan_area"
+        ]
       ],
       [
-        "Pavlodar",
-        "/wiki/Pavlodar"
+        [
+          "29"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pavlodar Central Stadium",
-        "/wiki/Pavlodar_Central_Stadium"
-      ],
-      [
-        "15,000",
-        null
+        [
+          "Cincinnati Reds",
+          "1990"
+        ],
+        [
+          "/wiki/Cincinnati_Reds",
+          "/wiki/1990_World_Series"
+        ]
       ]
     ],
     [
       [
-        "Kairat",
-        "/wiki/FC_Kairat"
+        [
+          "Minneapolis\u2013Saint Paul"
+        ],
+        [
+          "/wiki/Minneapolis%E2%80%93Saint_Paul"
+        ]
       ],
       [
-        "Almaty",
-        "/wiki/Almaty"
+        [
+          "28"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Almaty Central Stadium",
-        "/wiki/Almaty_Central_Stadium"
-      ],
-      [
-        "25,057",
-        null
+        [
+          "Minnesota Twins",
+          "1991"
+        ],
+        [
+          "/wiki/Minnesota_Twins",
+          "/wiki/1991_World_Series"
+        ]
       ]
     ],
     [
       [
-        "Kaisar",
-        "/wiki/FC_Kaisar"
+        [
+          "Toronto"
+        ],
+        [
+          "/wiki/Greater_Toronto_Area"
+        ]
       ],
       [
-        "Kyzylorda",
-        "/wiki/Kyzylorda"
+        [
+          "26"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Gany Muratbayev Stadium",
-        "/wiki/Gany_Muratbayev_Stadium"
-      ],
-      [
-        "07,300",
-        null
+        [
+          "Toronto Blue Jays",
+          "1993"
+        ],
+        [
+          "/wiki/Toronto_Blue_Jays",
+          "/wiki/1993_World_Series"
+        ]
       ]
     ],
     [
       [
-        "Okzhetpes",
-        "/wiki/FC_Okzhetpes"
+        [
+          "San Diego"
+        ],
+        [
+          "/wiki/San_Diego_County,_California"
+        ]
       ],
       [
-        "Kokshetau",
-        "/wiki/Kokshetau"
+        [
+          "21"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Okzhetpes Stadium",
-        "/wiki/Okzhetpes_Stadium"
-      ],
-      [
-        "10,000",
-        null
+        [
+          "San Diego Padres",
+          "1998"
+        ],
+        [
+          "/wiki/San_Diego_Padres",
+          "/wiki/1998_World_Series"
+        ]
       ]
     ],
     [
       [
-        "Ordabasy",
-        "/wiki/FC_Ordabasy"
+        [
+          "Atlanta"
+        ],
+        [
+          "/wiki/Atlanta_metropolitan_area"
+        ]
       ],
       [
-        "Shymkent",
-        "/wiki/Shymkent"
+        [
+          "20"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "K. Munaitpasov Stadium, Shymkent",
-        "/wiki/Kazhimukan_Munaitpasov_Stadium_(Shymkent)"
-      ],
-      [
-        "37,000",
-        null
+        [
+          "Atlanta Braves",
+          "1999"
+        ],
+        [
+          "/wiki/Atlanta_Braves",
+          "/wiki/1999_World_Series"
+        ]
       ]
     ],
     [
       [
-        "Shakhter",
-        "/wiki/FC_Shakhter_Karagandy"
+        [
+          "Phoenix"
+        ],
+        [
+          "/wiki/Phoenix_metropolitan_area"
+        ]
       ],
       [
-        "Karagandy",
-        "/wiki/Karagandy"
+        [
+          "18"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Shakhtyor Stadium",
-        "/wiki/Shakhtyor_Stadium_(Karagandy)"
-      ],
-      [
-        "19,000",
-        null
+        [
+          "Arizona Diamondbacks",
+          "2001"
+        ],
+        [
+          "/wiki/Arizona_Diamondbacks",
+          "/wiki/2001_World_Series"
+        ]
       ]
     ],
     [
       [
-        "Sunkar",
-        "/wiki/FC_Sunkar"
+        [
+          "Miami-Ft. Lauderdale"
+        ],
+        [
+          "/wiki/Miami_metropolitan_area"
+        ]
       ],
       [
-        "Kaskelen",
-        "/wiki/Kaskelen"
+        [
+          "16"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tauelsizdik 10 zhyldygy",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "02,500",
-        null
+        [
+          "Florida Marlins",
+          "2003"
+        ],
+        [
+          "/wiki/Miami_Marlins",
+          "/wiki/2003_World_Series"
+        ]
       ]
     ],
     [
       [
-        "Taraz",
-        "/wiki/FC_Taraz"
+        [
+          "Denver"
+        ],
+        [
+          "/wiki/Denver%E2%80%93Aurora_combined_statistical_area"
+        ]
       ],
       [
-        "Taraz",
-        "/wiki/Taraz"
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Taraz Central Stadium",
-        "/wiki/Taraz_Central_Stadium"
-      ],
-      [
-        "12,525",
-        null
+        [
+          "Colorado Rockies",
+          "2007"
+        ],
+        [
+          "/wiki/Colorado_Rockies",
+          "/wiki/2007_World_Series"
+        ]
       ]
     ],
     [
       [
-        "Tobol",
-        "/wiki/FC_Tobol"
+        [
+          "Tampa-St. Petersburg"
+        ],
+        [
+          "/wiki/Tampa_Bay_Area"
+        ]
       ],
       [
-        "Kostanay",
-        "/wiki/Kostanay"
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kostanay Central Stadium",
-        "/wiki/Kostanay_Central_Stadium"
-      ],
-      [
-        "08,323",
-        null
+        [
+          "Tampa Bay Rays",
+          "2008"
+        ],
+        [
+          "/wiki/Tampa_Bay_Rays",
+          "/wiki/2008_World_Series"
+        ]
       ]
     ],
     [
       [
-        "Zhetysu",
-        "/wiki/FC_Zhetysu"
+        [
+          "Philadelphia"
+        ],
+        [
+          "/wiki/Delaware_Valley"
+        ]
       ],
       [
-        "Taldykorgan",
-        "/wiki/Taldykorgan"
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Zhetysu Stadium",
-        "/wiki/Zhetysu_Stadium"
+        [
+          "Philadelphia Phillies",
+          "2009"
+        ],
+        [
+          "/wiki/Philadelphia_Phillies",
+          "/wiki/2009_World_Series"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Dallas-Ft. Worth"
+        ],
+        [
+          "/wiki/Dallas%E2%80%93Fort_Worth_metroplex"
+        ]
       ],
       [
-        "04,000",
-        null
+        [
+          "8"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Texas Rangers",
+          "2011"
+        ],
+        [
+          "/wiki/Texas_Rangers_(baseball)",
+          "/wiki/2011_World_Series"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Detroit"
+        ],
+        [
+          "/wiki/Metro_Detroit"
+        ]
+      ],
+      [
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Detroit Tigers",
+          "2012"
+        ],
+        [
+          "/wiki/Detroit_Tigers",
+          "/wiki/2012_World_Series"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "St. Louis"
+        ],
+        [
+          "/wiki/Greater_St._Louis"
+        ]
+      ],
+      [
+        [
+          "6"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "St. Louis Cardinals",
+          "2013"
+        ],
+        [
+          "/wiki/St._Louis_Cardinals",
+          "/wiki/2013_World_Series"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "San Francisco Bay Area"
+        ],
+        [
+          "/wiki/San_Francisco_Bay_Area"
+        ]
+      ],
+      [
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "San Francisco Giants",
+          "2014"
+        ],
+        [
+          "/wiki/San_Francisco_Giants",
+          "/wiki/2014_World_Series"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Kansas City"
+        ],
+        [
+          "/wiki/Kansas_City_metropolitan_area"
+        ]
+      ],
+      [
+        [
+          "4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Kansas City Royals",
+          "2015"
+        ],
+        [
+          "/wiki/Kansas_City_Royals",
+          "/wiki/2015_World_Series"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "New York City"
+        ],
+        [
+          "/wiki/New_York_metropolitan_area"
+        ]
+      ],
+      [
+        [
+          "4"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "New York Mets",
+          "2015"
+        ],
+        [
+          "/wiki/New_York_Mets",
+          "/wiki/2015_World_Series"
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "This list only includes cities/regions with current Major League Baseball franchises.\nYears during which a city/region did not field a Major League Baseball team are not counted.",
   "idx": 12349
 }

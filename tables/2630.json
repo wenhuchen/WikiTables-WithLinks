@@ -1,299 +1,553 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Media_in_Vancouver",
-  "title": "Media in Vancouver",
+  "url": "https://en.wikipedia.org/wiki/List_of_power_stations_in_California",
+  "title": "List of power stations in California",
   "header": [
     [
-      "Newspaper",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Language",
-      null
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Publication frequency",
-      null
+      [
+        "MW"
+      ],
+      [
+        "/wiki/Megawatt"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "24H",
-        "/wiki/24H_(newspaper)"
+        [
+          "Shasta Dam"
+        ],
+        [
+          "/wiki/Shasta_Dam"
+        ]
       ],
       [
-        "English",
-        null
+        [
+          "Redding"
+        ],
+        [
+          "/wiki/Redding,_California"
+        ]
       ],
       [
-        "Ceased publication 2017",
-        null
+        [
+          "676"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "The Indo-Canadian Voice",
-        "/wiki/HTTP_404"
+        [
+          "Oroville Dam"
+        ],
+        [
+          "/wiki/Oroville_Dam"
+        ]
       ],
       [
-        "English",
-        null
+        [
+          "Oroville"
+        ],
+        [
+          "/wiki/Oroville,_California"
+        ]
       ],
       [
-        "Weekly, free, English",
-        null
+        [
+          "645"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "The Awaaz Newspaper",
-        "/wiki/HTTP_404"
+        [
+          "New Bullards Bar Dam"
+        ],
+        [
+          "/wiki/New_Bullards_Bar_Dam"
+        ]
       ],
       [
-        "English",
-        null
+        [
+          "Dobbins"
+        ],
+        [
+          "/wiki/Dobbins,_California"
+        ]
       ],
       [
-        "Weekly, free, Punjabi",
-        null
+        [
+          "315"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Asian Pacific Post",
-        "/wiki/Asian_Pacific_Post"
+        [
+          "New Melones Dam"
+        ],
+        [
+          "/wiki/New_Melones_Dam"
+        ]
       ],
       [
-        "English",
-        null
+        [
+          "Jamestown"
+        ],
+        [
+          "/wiki/Jamestown,_California"
+        ]
       ],
       [
-        "Weekly, free, Chinese",
-        null
+        [
+          "300"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "The Canadian Immigrant",
-        "/wiki/Canadian_Immigrant_(magazine)"
+        [
+          "White Rock Powerplant"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "English",
-        null
+        [
+          "Sacramento"
+        ],
+        [
+          "/wiki/Sacramento,_California"
+        ]
       ],
       [
-        "Monthly, free",
-        null
+        [
+          "224"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Discorder",
-        "/wiki/Discorder"
+        [
+          "New Don Pedro Dam"
+        ],
+        [
+          "/wiki/New_Don_Pedro_Dam"
+        ]
       ],
       [
-        "English",
-        null
+        [
+          "La Grange"
+        ],
+        [
+          "/wiki/La_Grange,_California"
+        ]
       ],
       [
-        "Monthly, free",
-        null
+        [
+          "203"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Filipino Post",
-        "/wiki/The_Filipino_Post"
+        [
+          "Eastwood Powerhouse"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "English",
-        null
+        [
+          "Fresno County"
+        ],
+        [
+          "/wiki/Fresno_County"
+        ]
       ],
       [
-        "Weekly, free, Filipino",
-        null
+        [
+          "199.8"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "The Georgia Straight",
-        "/wiki/The_Georgia_Straight"
+        [
+          "Folsom Dam"
+        ],
+        [
+          "/wiki/Folsom_Dam"
+        ]
       ],
       [
-        "English",
-        null
+        [
+          "Folsom"
+        ],
+        [
+          "/wiki/Folsom,_California"
+        ]
       ],
       [
-        "Weekly, free",
-        null
+        [
+          "199"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Good News Weekly",
-        "/wiki/HTTP_404"
+        [
+          "Mammoth Pool Dam"
+        ],
+        [
+          "/wiki/Mammoth_Pool_Dam"
+        ]
       ],
       [
-        "English",
-        null
+        [
+          "Sierra National Forest"
+        ],
+        [
+          "/wiki/Sierra_National_Forest"
+        ]
       ],
       [
-        "Weekly, free",
-        null
+        [
+          "190"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "La Source / The Source",
-        "/wiki/HTTP_404"
+        [
+          "Spring Creek Powerplant"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "French and English",
-        null
+        [
+          "Keswick"
+        ],
+        [
+          "/wiki/Keswick,_California"
+        ]
       ],
       [
-        "Bi-weekly, free, bilingual",
-        null
+        [
+          "180"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "L'Express du Pacifique",
-        "/wiki/HTTP_404"
+        [
+          "Big Creek No. 3 Powerplant"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "French",
-        null
+        [
+          "Fresno County"
+        ],
+        [
+          "/wiki/Fresno_County"
+        ]
       ],
       [
-        "Bi-weekly",
-        null
+        [
+          "174.45"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ming Pao",
-        "/wiki/Ming_Pao"
+        [
+          "Holm Powerhouse"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Chinese",
-        null
+        [
+          "Cherry Lake"
+        ],
+        [
+          "/wiki/Cherry_Lake"
+        ]
       ],
       [
-        "Daily",
-        null
+        [
+          "169"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Metro",
-        "/wiki/Metro_International"
+        [
+          "Pine Flat Dam"
+        ],
+        [
+          "/wiki/Pine_Flat_Dam"
+        ]
       ],
       [
-        "English",
-        null
+        [
+          "Piedra"
+        ],
+        [
+          "/wiki/Piedra,_California"
+        ]
       ],
       [
-        "Daily (free)",
-        null
+        [
+          "165"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "The Peak",
-        "/wiki/The_Peak_(newspaper)"
+        [
+          "Judge Francis Carr Powerhouse"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "English",
-        null
+        [
+          "Whiskeytown"
+        ],
+        [
+          "/wiki/Whiskeytown,_California"
+        ]
       ],
       [
-        "Simon Fraser University",
-        "/wiki/Simon_Fraser_University"
+        [
+          "154"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "The Province",
-        "/wiki/The_Province"
+        [
+          "Camino Powerplant"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "English",
-        null
+        [
+          "Sacramento"
+        ],
+        [
+          "/wiki/Sacramento,_California"
+        ]
       ],
       [
-        "Daily, except Saturday",
-        null
+        [
+          "150"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "The Republic",
-        "/wiki/The_Republic_(newspaper)"
+        [
+          "Jaybird Powerplant"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "English",
-        null
+        [
+          "Sacramento"
+        ],
+        [
+          "/wiki/Sacramento,_California"
+        ]
       ],
       [
-        "Bi-weekly, free",
-        null
+        [
+          "144"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Sing Tao",
-        "/wiki/Sing_Tao_Daily_(Canada)"
+        [
+          "Poe Dam"
+        ],
+        [
+          "/wiki/Poe_Dam"
+        ]
       ],
       [
-        "Chinese",
-        null
+        [
+          "Plumas County"
+        ],
+        [
+          "/wiki/Plumas_County"
+        ]
       ],
       [
-        "Daily",
-        null
+        [
+          "143"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "South Asian Post",
-        "/wiki/South_Asian_Post"
+        [
+          "Trinity Dam"
+        ],
+        [
+          "/wiki/Trinity_Dam"
+        ]
       ],
       [
-        "English",
-        null
+        [
+          "Weaverville"
+        ],
+        [
+          "/wiki/Weaverville,_California"
+        ]
       ],
       [
-        "Weekly, free, Indo-Canadian / Pakistani",
-        null
+        [
+          "140"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "The Epoch Times",
-        "/wiki/The_Epoch_Times"
+        [
+          "Belden Powerhouse"
+        ],
+        [
+          "/wiki/Upper_North_Fork_Feather_River_Project"
+        ]
       ],
       [
-        "Chinese",
-        null
+        [
+          "Plumas County"
+        ],
+        [
+          "/wiki/Plumas_County"
+        ]
       ],
       [
-        "Daily, free",
-        null
+        [
+          "125"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "The Ubyssey",
-        "/wiki/The_Ubyssey"
+        [
+          "O'Shaughnessy Dam",
+          "Kirkwood Powerhouse"
+        ],
+        [
+          "/wiki/O%27Shaughnessy_Dam_(California)",
+          null
+        ]
       ],
       [
-        "English",
-        null
+        [
+          "Yosemite National Park"
+        ],
+        [
+          "/wiki/Yosemite_National_Park"
+        ]
       ],
       [
-        "University of British Columbia",
-        "/wiki/University_of_British_Columbia"
+        [
+          "124"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

@@ -1,551 +1,1055 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2000_San_Marino_Grand_Prix",
-  "title": "2000 San Marino Grand Prix",
+  "url": "https://en.wikipedia.org/wiki/2013_UCI_Europe_Tour",
+  "title": "2013 UCI Europe Tour",
   "header": [
     [
-      "Pos",
-      null
+      [
+        "Date"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "No",
-      null
+      [
+        "Race Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Driver",
-      null
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Constructor",
-      null
+      [
+        "UCI Rating"
+      ],
+      [
+        "/wiki/UCI_race_classifications"
+      ]
     ],
     [
-      "Time",
-      null
+      [
+        "Winner"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Gap",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "27 January"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Grand Prix Cycliste la Marseillaise"
+        ],
+        [
+          "/wiki/Grand_Prix_d%27Ouverture_La_Marseillaise"
+        ]
       ],
       [
-        "Mika H\u00e4kkinen",
-        "/wiki/Mika_H%C3%A4kkinen"
+        [
+          "France"
+        ],
+        [
+          "/wiki/France"
+        ]
       ],
       [
-        "McLaren,Mercedes",
-        "/wiki/McLaren /wiki/Mercedes-Benz_HighPerformanceEngines"
+        [
+          "1.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:24.714",
-        null
+        [
+          "Justin Jules"
+        ],
+        [
+          "/wiki/Justin_Jules"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "La Pomme Marseille"
+        ],
+        [
+          "/wiki/Nippo%E2%80%93Delko%E2%80%93One_Provence"
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "30 Jan\u20133 Feb"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "3",
-        null
+        [
+          "\u00c9toile de Bess\u00e8ges"
+        ],
+        [
+          "/wiki/%C3%89toile_de_Bess%C3%A8ges"
+        ]
       ],
       [
-        "Michael Schumacher",
-        "/wiki/Michael_Schumacher"
+        [
+          "France"
+        ],
+        [
+          "/wiki/France"
+        ]
       ],
       [
-        "Ferrari",
-        "/wiki/Scuderia_Ferrari"
+        [
+          "2.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:24.805",
-        null
+        [
+          "Jonathan Hivert"
+        ],
+        [
+          "/wiki/Jonathan_Hivert"
+        ]
       ],
       [
-        "+0.091",
-        null
+        [
+          "Sojasun"
+        ],
+        [
+          "/wiki/Sojasun_(cycling_team)"
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "3 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "Trofeo Palma"
+        ],
+        [
+          "/wiki/Vuelta_a_Mallorca"
+        ]
       ],
       [
-        "David Coulthard",
-        "/wiki/David_Coulthard"
+        [
+          "Spain"
+        ],
+        [
+          "/wiki/Spain"
+        ]
       ],
       [
-        "McLaren,Mercedes",
-        "/wiki/McLaren /wiki/Mercedes-Benz_HighPerformanceEngines"
+        [
+          "1.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:25.014",
-        null
+        [
+          "Kenny Dehaes"
+        ],
+        [
+          "/wiki/Kenny_Dehaes"
+        ]
       ],
       [
-        "+0.300",
-        null
+        [
+          "Lotto\u2013Belisol"
+        ],
+        [
+          "/wiki/Lotto%E2%80%93Soudal"
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "4 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "Trofeo Campos\u2013Santany\u00ed\u2013Ses Salines"
+        ],
+        [
+          "/wiki/Vuelta_a_Mallorca"
+        ]
       ],
       [
-        "Rubens Barrichello",
-        "/wiki/Rubens_Barrichello"
+        [
+          "Spain"
+        ],
+        [
+          "/wiki/Spain"
+        ]
       ],
       [
-        "Ferrari",
-        "/wiki/Scuderia_Ferrari"
+        [
+          "1.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:25.242",
-        null
+        [
+          "Leigh Howard"
+        ],
+        [
+          "/wiki/Leigh_Howard"
+        ]
       ],
       [
-        "+0.528",
-        null
+        [
+          "Orica\u2013GreenEDGE"
+        ],
+        [
+          "/wiki/Mitchelton%E2%80%93Scott_(men%27s_team)"
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "5 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "9",
-        null
+        [
+          "Trofeo Serra de Tramuntana"
+        ],
+        [
+          "/wiki/Vuelta_a_Mallorca"
+        ]
       ],
       [
-        "Ralf Schumacher",
-        "/wiki/Ralf_Schumacher"
+        [
+          "Spain"
+        ],
+        [
+          "/wiki/Spain"
+        ]
       ],
       [
-        "Williams,BMW",
-        "/wiki/Williams_Grand_Prix_Engineering /wiki/BMW_in_Formula_One"
+        [
+          "1.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:25.871",
-        null
+        [
+          "Alejandro Valverde"
+        ],
+        [
+          "/wiki/Alejandro_Valverde"
+        ]
       ],
       [
-        "+1.157",
-        null
+        [
+          "Movistar Team"
+        ],
+        [
+          "/wiki/Movistar_Team_(men%27s_team)"
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "6 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "5",
-        null
+        [
+          "Trofeo Platja de Muro"
+        ],
+        [
+          "/wiki/Vuelta_a_Mallorca"
+        ]
       ],
       [
-        "Heinz-Harald Frentzen",
-        "/wiki/Heinz-Harald_Frentzen"
+        [
+          "Spain"
+        ],
+        [
+          "/wiki/Spain"
+        ]
       ],
       [
-        "Jordan,Mugen-Honda",
-        "/wiki/Jordan_Grand_Prix /wiki/Mugen-Honda"
+        [
+          "1.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:25.892",
-        null
+        [
+          "Leigh Howard"
+        ],
+        [
+          "/wiki/Leigh_Howard"
+        ]
       ],
       [
-        "+1.178",
-        null
+        [
+          "Orica\u2013GreenEDGE"
+        ],
+        [
+          "/wiki/Mitchelton%E2%80%93Scott_(men%27s_team)"
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "6\u201310 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "Tour M\u00e9diterran\u00e9en"
+        ],
+        [
+          "/wiki/Tour_M%C3%A9diterran%C3%A9en"
+        ]
       ],
       [
-        "Eddie Irvine",
-        "/wiki/Eddie_Irvine"
+        [
+          "France"
+        ],
+        [
+          "/wiki/France"
+        ]
       ],
       [
-        "Jaguar,Cosworth",
-        "/wiki/Jaguar_Racing /wiki/Cosworth"
+        [
+          "2.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:25.929",
-        null
+        [
+          "Thomas L\u00f6fkvist"
+        ],
+        [
+          "/wiki/Thomas_L%C3%B6fkvist"
+        ]
       ],
       [
-        "+1.215",
-        null
+        [
+          "IAM Cycling"
+        ],
+        [
+          "/wiki/IAM_Cycling"
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "14\u201317 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6",
-        null
+        [
+          "Volta ao Algarve"
+        ],
+        [
+          "/wiki/2013_Volta_ao_Algarve"
+        ]
       ],
       [
-        "Jarno Trulli",
-        "/wiki/Jarno_Trulli"
+        [
+          "Portugal"
+        ],
+        [
+          "/wiki/Portugal"
+        ]
       ],
       [
-        "Jordan,Mugen-Honda",
-        "/wiki/Jordan_Grand_Prix /wiki/Mugen-Honda"
+        [
+          "2.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:26.002",
-        null
+        [
+          "Tony Martin"
+        ],
+        [
+          "/wiki/Tony_Martin_(cyclist)"
+        ]
       ],
       [
-        "+1.288",
-        null
+        [
+          "Omega Pharma\u2013Quick-Step"
+        ],
+        [
+          "/wiki/Deceuninck%E2%80%93Quick-Step"
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "16 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "22",
-        null
+        [
+          "Trofeo Laigueglia"
+        ],
+        [
+          "/wiki/Trofeo_Laigueglia"
+        ]
       ],
       [
-        "Jacques Villeneuve",
-        "/wiki/Jacques_Villeneuve"
+        [
+          "Italy"
+        ],
+        [
+          "/wiki/Italy"
+        ]
       ],
       [
-        "BAR,Honda",
-        "/wiki/British_American_Racing /wiki/Honda_Racing_F1"
+        [
+          "1.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:26.124",
-        null
+        [
+          "Filippo Pozzato"
+        ],
+        [
+          "/wiki/Filippo_Pozzato"
+        ]
       ],
       [
-        "+1.410",
-        null
+        [
+          "Lampre\u2013Merida"
+        ],
+        [
+          "/wiki/UAE_Team_Emirates"
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "16\u201317 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "16",
-        null
+        [
+          "Tour du Haut Var"
+        ],
+        [
+          "/wiki/Tour_du_Haut_Var"
+        ]
       ],
       [
-        "Pedro Diniz",
-        "/wiki/Pedro_Diniz"
+        [
+          "France"
+        ],
+        [
+          "/wiki/France"
+        ]
       ],
       [
-        "Sauber,Petronas",
-        "/wiki/Sauber /wiki/Sauber_Petronas_Engineering"
+        [
+          "2.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:26.238",
-        null
+        [
+          "Arthur Vichot"
+        ],
+        [
+          "/wiki/Arthur_Vichot"
+        ]
       ],
       [
-        "+1.524",
-        null
+        [
+          "FDJ"
+        ],
+        [
+          "/wiki/Groupama%E2%80%93FDJ"
+        ]
       ]
     ],
     [
       [
-        "11",
-        null
+        [
+          "17\u201320 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "12",
-        null
+        [
+          "Vuelta a Andaluc\u00eda"
+        ],
+        [
+          "/wiki/Vuelta_a_Andaluc%C3%ADa"
+        ]
       ],
       [
-        "Alexander Wurz",
-        "/wiki/Alexander_Wurz"
+        [
+          "Spain"
+        ],
+        [
+          "/wiki/Spain"
+        ]
       ],
       [
-        "Benetton,Playlife",
-        "/wiki/Benetton_Formula /wiki/Playlife"
+        [
+          "2.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:26.281",
-        null
+        [
+          "Alejandro Valverde"
+        ],
+        [
+          "/wiki/Alejandro_Valverde"
+        ]
       ],
       [
-        "+1.567",
-        null
+        [
+          "Movistar Team"
+        ],
+        [
+          "/wiki/Movistar_Team_(men%27s_team)"
+        ]
       ]
     ],
     [
       [
-        "12",
-        null
+        [
+          "23 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "17",
-        null
+        [
+          "Vuelta a Murcia"
+        ],
+        [
+          "/wiki/Vuelta_a_Murcia"
+        ]
       ],
       [
-        "Mika Salo",
-        "/wiki/Mika_Salo"
+        [
+          "Spain"
+        ],
+        [
+          "/wiki/Spain"
+        ]
       ],
       [
-        "Sauber,Petronas",
-        "/wiki/Sauber /wiki/Sauber_Petronas_Engineering"
+        [
+          "1.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:26.336",
-        null
+        [
+          "Daniel Navarro"
+        ],
+        [
+          "/wiki/Daniel_Navarro"
+        ]
       ],
       [
-        "+1.622",
-        null
+        [
+          "Cofidis"
+        ],
+        [
+          "/wiki/Cofidis_(cycling_team)"
+        ]
       ]
     ],
     [
       [
-        "13",
-        null
+        [
+          "23 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "18",
-        null
+        [
+          "Beverbeek Classic"
+        ],
+        [
+          "/wiki/Beverbeek_Classic"
+        ]
       ],
       [
-        "Pedro de la Rosa",
-        "/wiki/Pedro_de_la_Rosa"
+        [
+          "Belgium"
+        ],
+        [
+          "/wiki/Belgium"
+        ]
       ],
       [
-        "Arrows,Supertec",
-        "/wiki/Arrows_Grand_Prix_International /wiki/Supertec"
+        [
+          "1.2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:26.349",
-        null
+        [
+          "Nick van der Lijke"
+        ],
+        [
+          "/wiki/Nick_van_der_Lijke"
+        ]
       ],
       [
-        "+1.635",
-        null
+        [
+          "Rabobank Development Team"
+        ],
+        [
+          "/wiki/Rabobank_Development_Team"
+        ]
       ]
     ],
     [
       [
-        "14",
-        null
+        [
+          "23 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "23",
-        null
+        [
+          "Omloop Het Nieuwsblad"
+        ],
+        [
+          "/wiki/Omloop_Het_Nieuwsblad"
+        ]
       ],
       [
-        "Ricardo Zonta",
-        "/wiki/Ricardo_Zonta"
+        [
+          "Belgium"
+        ],
+        [
+          "/wiki/Belgium"
+        ]
       ],
       [
-        "BAR,Honda",
-        "/wiki/British_American_Racing /wiki/Honda_Racing_F1"
+        [
+          "1.HC"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:26.814",
-        null
+        [
+          "Luca Paolini"
+        ],
+        [
+          "/wiki/Luca_Paolini"
+        ]
       ],
       [
-        "+2.100",
-        null
+        [
+          "Team Katusha"
+        ],
+        [
+          "/wiki/Katusha%E2%80%93Alpecin"
+        ]
       ]
     ],
     [
       [
-        "15",
-        null
+        [
+          "24 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "14",
-        null
+        [
+          "Les Boucles du Sud Ard\u00e8che"
+        ],
+        [
+          "/wiki/Les_Boucles_du_Sud_Ard%C3%A8che"
+        ]
       ],
       [
-        "Jean Alesi",
-        "/wiki/Jean_Alesi"
+        [
+          "France"
+        ],
+        [
+          "/wiki/France"
+        ]
       ],
       [
-        "Prost,Peugeot",
-        "/wiki/Prost_Grand_Prix /wiki/Peugeot"
+        [
+          "1.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:26.824",
-        null
+        [
+          "Mathieu Drujon"
+        ],
+        [
+          "/wiki/Mathieu_Drujon"
+        ]
       ],
       [
-        "+2.110",
-        null
+        [
+          "BigMat\u2013Auber 93"
+        ],
+        [
+          "/wiki/St._Michel%E2%80%93Auber93"
+        ]
       ]
     ],
     [
       [
-        "16",
-        null
+        [
+          "24 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "19",
-        null
+        [
+          "Cl\u00e1sica de Almer\u00eda"
+        ],
+        [
+          "/wiki/Cl%C3%A1sica_de_Almer%C3%ADa"
+        ]
       ],
       [
-        "Jos Verstappen",
-        "/wiki/Jos_Verstappen"
+        [
+          "Spain"
+        ],
+        [
+          "/wiki/Spain"
+        ]
       ],
       [
-        "Arrows,Supertec",
-        "/wiki/Arrows_Grand_Prix_International /wiki/Supertec"
+        [
+          "1.HC"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:26.845",
-        null
+        [
+          "Mark Renshaw"
+        ],
+        [
+          "/wiki/Mark_Renshaw"
+        ]
       ],
       [
-        "+2.131",
-        null
+        [
+          "Blanco Pro Cycling"
+        ],
+        [
+          "/wiki/Team_Jumbo%E2%80%93Visma"
+        ]
       ]
     ],
     [
       [
-        "17",
-        null
+        [
+          "27 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "Le Samyn"
+        ],
+        [
+          "/wiki/Le_Samyn"
+        ]
       ],
       [
-        "Johnny Herbert",
-        "/wiki/Johnny_Herbert"
+        [
+          "Belgium"
+        ],
+        [
+          "/wiki/Belgium"
+        ]
       ],
       [
-        "Jaguar,Cosworth",
-        "/wiki/Jaguar_Racing /wiki/Cosworth"
+        [
+          "1.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:27.051",
-        null
+        [
+          "Alexey Tsatevich"
+        ],
+        [
+          "/wiki/Alexey_Tsatevich"
+        ]
       ],
       [
-        "+2.337",
-        null
+        [
+          "Team Katusha"
+        ],
+        [
+          "/wiki/Katusha%E2%80%93Alpecin"
+        ]
       ]
     ],
     [
       [
-        "18",
-        null
+        [
+          "28 February"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "Gran Premio Citt\u00e0 di Camaiore"
+        ],
+        [
+          "/wiki/Gran_Premio_Citt%C3%A0_di_Camaiore"
+        ]
       ],
       [
-        "Jenson Button",
-        "/wiki/Jenson_Button"
+        [
+          "Italy"
+        ],
+        [
+          "/wiki/Italy"
+        ]
       ],
       [
-        "Williams,BMW",
-        "/wiki/Williams_Grand_Prix_Engineering /wiki/BMW_in_Formula_One"
+        [
+          "1.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:27.135",
-        null
+        [
+          "Peter Sagan"
+        ],
+        [
+          "/wiki/Peter_Sagan"
+        ]
       ],
       [
-        "+2.421",
-        null
+        [
+          "Cannondale"
+        ],
+        [
+          "/wiki/Liquigas"
+        ]
       ]
     ],
     [
       [
-        "19",
-        null
+        [
+          "1\u20133 March"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "11",
-        null
+        [
+          "Driedaagse van West-Vlaanderen"
+        ],
+        [
+          "/wiki/Driedaagse_van_West-Vlaanderen"
+        ]
       ],
       [
-        "Giancarlo Fisichella",
-        "/wiki/Giancarlo_Fisichella"
+        [
+          "Belgium"
+        ],
+        [
+          "/wiki/Belgium"
+        ]
       ],
       [
-        "Benetton,Playlife",
-        "/wiki/Benetton_Formula /wiki/Playlife"
+        [
+          "2.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:27.253",
-        null
+        [
+          "Kristof Vandewalle"
+        ],
+        [
+          "/wiki/Kristof_Vandewalle"
+        ]
       ],
       [
-        "+2.539",
-        null
+        [
+          "Omega Pharma\u2013Quick-Step"
+        ],
+        [
+          "/wiki/Deceuninck%E2%80%93Quick-Step"
+        ]
       ]
     ],
     [
       [
-        "20",
-        null
+        [
+          "2 March"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "21",
-        null
+        [
+          "Strade Bianche"
+        ],
+        [
+          "/wiki/2013_Strade_Bianche"
+        ]
       ],
       [
-        "Gast\u00f3n Mazzacane",
-        "/wiki/Gast%C3%B3n_Mazzacane"
+        [
+          "Italy"
+        ],
+        [
+          "/wiki/Italy"
+        ]
       ],
       [
-        "Minardi,Fondmetal",
-        "/wiki/Minardi /wiki/Fondmetal"
+        [
+          "1.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1:28.161",
-        null
+        [
+          "Moreno Moser"
+        ],
+        [
+          "/wiki/Moreno_Moser"
+        ]
       ],
       [
-        "+3.447",
-        null
+        [
+          "Cannondale"
+        ],
+        [
+          "/wiki/Liquigas"
+        ]
       ]
     ]
   ],

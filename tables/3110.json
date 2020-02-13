@@ -1,185 +1,887 @@
 {
-  "url": "https://en.wikipedia.org/wiki/The_Real_World:_Portland",
-  "title": "The Real World: Portland",
+  "url": "https://en.wikipedia.org/wiki/Club_for_Growth",
+  "title": "Club for Growth",
   "header": [
     [
-      "Cast Member",
-      null
+      [
+        "Candidate"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Age",
-      null
+      [
+        "Race"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Hometown",
-      null
+      [
+        "Primary"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Biography",
-      null
+      [
+        "General"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Outcome"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Anastasia Miller",
-        null
+        [
+          "Paul Broun"
+        ],
+        [
+          "/wiki/Paul_Broun"
+        ]
       ],
       [
-        "22",
-        null
+        [
+          "Georgia's 10th congressional district"
+        ],
+        [
+          "/wiki/Georgia%27s_10th_congressional_district"
+        ]
       ],
       [
-        "Detroit,Michigan",
-        "/wiki/Detroit /wiki/Michigan"
+        [
+          "71%"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Barbie doll,wanderlust,Sesame Street,Big Bird,nerd,The Lord of the Rings,Harry Potter,Redford High School,Detroit",
-        "/wiki/Barbie_doll /wiki/Wanderlust /wiki/Sesame_Street /wiki/Big_Bird /wiki/Nerd /wiki/The_Lord_of_the_Rings /wiki/Harry_Potter /wiki/Redford_High_School /wiki/Detroit"
+        [
+          "61%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Win"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Averey Tressler",
-        null
+        [
+          "Charlie Ross"
+        ],
+        [
+          "/wiki/Charlie_Ross_(state_senator)"
+        ]
       ],
       [
-        "21",
-        null
+        [
+          "Mississippi's 3rd congressional district"
+        ],
+        [
+          "/wiki/Mississippi%27s_3rd_congressional_district"
+        ]
       ],
       [
-        "Tempe, Arizona",
-        "/wiki/Tempe,_Arizona"
+        [
+          "43%"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tecumseh, Michigan,Mexican,Native American,Hooters",
-        "/wiki/Tecumseh,_Michigan /wiki/Mexican_people /wiki/Indigenous_peoples_of_the_Americas /wiki/Hooters"
+        [
+          "-"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Loss"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Daisy",
-        null
+        [
+          "Matt Shaner"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Pennsylvania's 5th congressional district"
+        ],
+        [
+          "/wiki/Pennsylvania%27s_5th_congressional_district"
+        ]
       ],
       [
-        "Tempe, Arizona",
-        "/wiki/Tempe,_Arizona"
+        [
+          "17%"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Daisy is Averey's pet dog. Adopted at 5 months from a dog shelter, Daisy is a Chihuahua and Jack Russell mix breed.",
-        null
+        [
+          "-"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Loss"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Jessica McCain",
-        null
+        [
+          "Harri Anne Smith"
+        ],
+        [
+          "/wiki/Harri_Anne_Smith"
+        ]
       ],
       [
-        "21",
-        null
+        [
+          "Alabama's 2nd congressional district"
+        ],
+        [
+          "/wiki/Alabama%27s_2nd_congressional_district"
+        ]
       ],
       [
-        "Fayetteville, North Carolina",
-        "/wiki/Fayetteville,_North_Carolina"
+        [
+          "46%"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "black sheep,Irish,Zeta Tau Alpha,University of North Carolina at Pembroke,Playboy Playmate,dirtbikes,motocross,skydiving",
-        "/wiki/Black_sheep /wiki/Irish_people /wiki/Zeta_Tau_Alpha /wiki/University_of_North_Carolina_at_Pembroke /wiki/Playboy_Playmate /wiki/Dirtbike /wiki/Motocross /wiki/Skydiving"
+        [
+          "-"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Loss"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Johnny Reilly",
-        null
+        [
+          "Bob Onder"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "21",
-        null
+        [
+          "Missouri's 9th congressional district"
+        ],
+        [
+          "/wiki/Missouri%27s_9th_congressional_district"
+        ]
       ],
       [
-        "West Bridgewater, Massachusetts",
-        "/wiki/West_Bridgewater,_Massachusetts"
+        [
+          "29%"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Coyle and Cassidy High School,Taunton, Massachusetts,physical therapist,one-night stands",
-        "/wiki/Coyle_and_Cassidy_High_School /wiki/Taunton,_Massachusetts /wiki/Physical_therapist /wiki/One-night_stand"
+        [
+          "-"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Loss"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Joi Niemeyer",
-        null
+        [
+          "Sean Parnell"
+        ],
+        [
+          "/wiki/Sean_Parnell"
+        ]
       ],
       [
-        "22",
-        null
+        [
+          "Alaska's at-large congressional district"
+        ],
+        [
+          "/wiki/Alaska%27s_at-large_congressional_district"
+        ]
       ],
       [
-        "Seattle, Washington",
-        "/wiki/Seattle,_Washington"
+        [
+          "45%"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Korean,Kingston High School,Playboy,University of Washington",
-        "/wiki/Korean_people /wiki/Kingston_High_School_(Washington) /wiki/Playboy /wiki/University_of_Washington"
+        [
+          "-"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Loss"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Jordan Wiseley",
-        null
+        [
+          "Steve Scalise"
+        ],
+        [
+          "/wiki/Steve_Scalise"
+        ]
       ],
       [
-        "22",
-        null
+        [
+          "Louisiana's 1st congressional district"
+        ],
+        [
+          "/wiki/Louisiana%27s_1st_congressional_district"
+        ]
       ],
       [
-        "Mustang, Oklahoma",
-        "/wiki/Mustang,_Oklahoma"
+        [
+          "58%"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "cheerleading,Oklahoma State University,wakeboarding,corporal punishment,tough love,scapegoated,University of Central Oklahoma",
-        "/wiki/Cheerleading /wiki/Oklahoma_State_University%E2%80%93Stillwater /wiki/Wakeboarding /wiki/Corporal_punishment /wiki/Tough_love /wiki/Scapegoated /wiki/University_of_Central_Oklahoma"
+        [
+          "75%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Win"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Marlon Williams",
-        null
+        [
+          "Woody Jenkins"
+        ],
+        [
+          "/wiki/Woody_Jenkins"
+        ]
       ],
       [
-        "24",
-        null
+        [
+          "Louisiana's 6th congressional district"
+        ],
+        [
+          "/wiki/Louisiana%27s_6th_congressional_district"
+        ]
       ],
       [
-        "Lubbock, Texas",
-        "/wiki/Lubbock,_Texas"
+        [
+          "61%"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "military brat,linebacker,Texas Tech University,All-Big 12 conference,Canadian Football League,2010 NFL Draft,Austin,bisexuality,industrial engineering,rap musician",
-        "/wiki/Military_brat /wiki/Linebacker /wiki/Texas_Tech_Red_Raiders_football /wiki/All-Big_12_conference /wiki/Canadian_Football_League /wiki/2010_NFL_Draft /wiki/Austin,_Texas /wiki/Bisexual /wiki/Industrial_engineering /wiki/Rap_musician"
+        [
+          "46%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Loss"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Nia Moore",
-        null
+        [
+          "John Shadegg"
+        ],
+        [
+          "/wiki/John_Shadegg"
+        ]
       ],
       [
-        "23",
-        null
+        [
+          "Arizona's 4th congressional district"
+        ],
+        [
+          "/wiki/Arizona%27s_4th_congressional_district"
+        ]
       ],
       [
-        "Powder Springs, Georgia",
-        "/wiki/Powder_Springs,_Georgia"
+        [
+          "Unopposed"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Magna Cum Laude,Howard University,alternative,rock,country music,J. Cole,cocktail waitress,Atlanta,date rape,golddigger",
-        "/wiki/Magna_Cum_Laude /wiki/Howard_University /wiki/Alternative_music /wiki/Rock_music /wiki/Country_music /wiki/J._Cole /wiki/Cocktail_waitress /wiki/Atlanta,_Georgia /wiki/Date_rape /wiki/HTTP_404"
+        [
+          "54%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Win"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Scott Garrett"
+        ],
+        [
+          "/wiki/Scott_Garrett"
+        ]
+      ],
+      [
+        [
+          "New Jersey's 5th congressional district"
+        ],
+        [
+          "/wiki/New_Jersey%27s_5th_congressional_district"
+        ]
+      ],
+      [
+        [
+          "Unopposed"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "56%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Win"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Doug Lamborn"
+        ],
+        [
+          "/wiki/Doug_Lamborn"
+        ]
+      ],
+      [
+        [
+          "Colorado's 5th congressional district"
+        ],
+        [
+          "/wiki/Colorado%27s_5th_congressional_district"
+        ]
+      ],
+      [
+        [
+          "45%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "60%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Win"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Michele Bachmann"
+        ],
+        [
+          "/wiki/Michele_Bachmann"
+        ]
+      ],
+      [
+        [
+          "Minnesota's 6th congressional district"
+        ],
+        [
+          "/wiki/Minnesota%27s_6th_congressional_district"
+        ]
+      ],
+      [
+        [
+          "85%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "46%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Win"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Pete Olson"
+        ],
+        [
+          "/wiki/Pete_Olson"
+        ]
+      ],
+      [
+        [
+          "Texas's 22nd congressional district"
+        ],
+        [
+          "/wiki/Texas%27s_22nd_congressional_district"
+        ]
+      ],
+      [
+        [
+          "69%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "53%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Win"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Mike Coffman"
+        ],
+        [
+          "/wiki/Mike_Coffman"
+        ]
+      ],
+      [
+        [
+          "Colorado's 6th congressional district"
+        ],
+        [
+          "/wiki/Colorado%27s_6th_congressional_district"
+        ]
+      ],
+      [
+        [
+          "40%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "61%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Win"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Tom McClintock"
+        ],
+        [
+          "/wiki/Tom_McClintock"
+        ]
+      ],
+      [
+        [
+          "California's 4th congressional district"
+        ],
+        [
+          "/wiki/California%27s_4th_congressional_district"
+        ]
+      ],
+      [
+        [
+          "53%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "50%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Win"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Saxby Chambliss"
+        ],
+        [
+          "/wiki/Saxby_Chambliss"
+        ]
+      ],
+      [
+        [
+          "United States Senate election in Georgia, 2008"
+        ],
+        [
+          "/wiki/United_States_Senate_election_in_Georgia,_2008"
+        ]
+      ],
+      [
+        [
+          "Unopposed"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "58%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Win"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "John E. Sununu"
+        ],
+        [
+          "/wiki/John_E._Sununu"
+        ]
+      ],
+      [
+        [
+          "United States Senate election in New Hampshire, 2008"
+        ],
+        [
+          "/wiki/United_States_Senate_election_in_New_Hampshire,_2008"
+        ]
+      ],
+      [
+        [
+          "89%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "43%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Loss"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Bob Schaffer"
+        ],
+        [
+          "/wiki/Bob_Schaffer"
+        ]
+      ],
+      [
+        [
+          "United States Senate election in Colorado, 2008"
+        ],
+        [
+          "/wiki/United_States_Senate_election_in_Colorado,_2008"
+        ]
+      ],
+      [
+        [
+          "Unopposed"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "43%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Loss"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Steve Pearce"
+        ],
+        [
+          "/wiki/Steve_Pearce_(politician)"
+        ]
+      ],
+      [
+        [
+          "United States Senate election in New Mexico, 2008"
+        ],
+        [
+          "/wiki/United_States_Senate_election_in_New_Mexico,_2008"
+        ]
+      ],
+      [
+        [
+          "51%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "39%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Loss"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Andrew P. Harris"
+        ],
+        [
+          "/wiki/Andrew_P._Harris"
+        ]
+      ],
+      [
+        [
+          "Maryland's 1st congressional district"
+        ],
+        [
+          "/wiki/Maryland%27s_1st_congressional_district"
+        ]
+      ],
+      [
+        [
+          "43%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "48%"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Loss"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

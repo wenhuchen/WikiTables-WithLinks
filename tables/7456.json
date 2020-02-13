@@ -1,347 +1,559 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Group_(periodic_table)",
-  "title": "Group (periodic table)",
+  "url": "https://en.wikipedia.org/wiki/The_World's_Billionaires",
+  "title": "The World's Billionaires",
   "header": [
     [
-      "NewIUPACname",
-      null
+      [
+        "No."
+      ],
+      [
+        null
+      ]
     ],
     [
-      "OldIUPAC.mw-parser-output .nobold{font-weight:normal}(Europe)",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "CAS",
-      "/wiki/Chemical_Abstract_Service"
+      [
+        "Net worth",
+        "USD"
+      ],
+      [
+        "/wiki/Net_worth",
+        "/wiki/United_States_dollar"
+      ]
     ],
     [
-      "Nameby element",
-      null
+      [
+        "Age"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Nationality"
+      ],
+      [
+        "/wiki/Citizenship"
+      ]
+    ],
+    [
+      [
+        "Source(s) of wealth"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Group 1",
-        "/wiki/HTTP_404"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "IA",
-        null
+        [
+          "Bill Gates"
+        ],
+        [
+          "/wiki/Bill_Gates"
+        ]
       ],
       [
-        "IA",
-        null
+        [
+          "$52.8\u00a0billion"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "lithium",
-        "/wiki/Lithium"
+        [
+          "46"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        [
+          "Microsoft"
+        ],
+        [
+          "/wiki/Microsoft"
+        ]
       ]
     ],
     [
       [
-        "Group 2",
-        "/wiki/Group_2_element"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "IIA",
-        null
+        [
+          "Warren Buffett"
+        ],
+        [
+          "/wiki/Warren_Buffett"
+        ]
       ],
       [
-        "IIA",
-        null
+        [
+          "$35.0\u00a0billion"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "beryllium",
-        "/wiki/Beryllium"
+        [
+          "71"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        [
+          "Berkshire Hathaway"
+        ],
+        [
+          "/wiki/Berkshire_Hathaway"
+        ]
       ]
     ],
     [
       [
-        "Group 3",
-        "/wiki/Group_3_element"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "IIIA",
-        null
+        [
+          "Karl",
+          "Theo Albrecht"
+        ],
+        [
+          "/wiki/Karl_Albrecht",
+          "/wiki/Theo_Albrecht"
+        ]
       ],
       [
-        "IIIB",
-        null
+        [
+          "$26.8\u00a0billion"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "scandium",
-        "/wiki/Scandium"
+        [
+          "82"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Germany"
+        ],
+        [
+          "/wiki/Germany"
+        ]
+      ],
+      [
+        [
+          "Aldi S\u00fcd"
+        ],
+        [
+          "/wiki/Aldi"
+        ]
       ]
     ],
     [
       [
-        "Group 4",
-        "/wiki/Group_4_element"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "IVA",
-        null
+        [
+          "Paul Allen"
+        ],
+        [
+          "/wiki/Paul_Allen"
+        ]
       ],
       [
-        "IVB",
-        null
+        [
+          "$25.2\u00a0billion"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "titanium",
-        "/wiki/Titanium"
+        [
+          "49"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        [
+          "Microsoft"
+        ],
+        [
+          "/wiki/Microsoft"
+        ]
       ]
     ],
     [
       [
-        "Group 5",
-        "/wiki/Group_5_element"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VA",
-        null
+        [
+          "Larry Ellison"
+        ],
+        [
+          "/wiki/Larry_Ellison"
+        ]
       ],
       [
-        "VB",
-        null
+        [
+          "$23.5\u00a0billion"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "vanadium",
-        "/wiki/Vanadium"
+        [
+          "57"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        [
+          "Oracle Corporation"
+        ],
+        [
+          "/wiki/Oracle_Corporation"
+        ]
       ]
     ],
     [
       [
-        "Group 6",
-        "/wiki/Group_6_element"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VIA",
-        null
+        [
+          "Jim Walton"
+        ],
+        [
+          "/wiki/Jim_Walton"
+        ]
       ],
       [
-        "VIB",
-        null
+        [
+          "$20.8\u00a0billion"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "chromium",
-        "/wiki/Chromium"
+        [
+          "54"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        [
+          "Wal-Mart"
+        ],
+        [
+          "/wiki/Wal-Mart"
+        ]
       ]
     ],
     [
       [
-        "Group 7",
-        "/wiki/Group_7_element"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VIIA",
-        null
+        [
+          "John Walton"
+        ],
+        [
+          "/wiki/John_T._Walton"
+        ]
       ],
       [
-        "VIIB",
-        null
+        [
+          "$20.7\u00a0billion"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "manganese",
-        "/wiki/Manganese"
+        [
+          "56"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        [
+          "Wal-Mart"
+        ],
+        [
+          "/wiki/Wal-Mart"
+        ]
       ]
     ],
     [
       [
-        "Group 8",
-        "/wiki/Group_8_element"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VIII",
-        null
+        [
+          "Alice Walton"
+        ],
+        [
+          "/wiki/Alice_Walton"
+        ]
       ],
       [
-        "VIIIB",
-        null
+        [
+          "$20.5\u00a0billion"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "iron",
-        "/wiki/Iron"
+        [
+          "53"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        [
+          "Wal-Mart"
+        ],
+        [
+          "/wiki/Wal-Mart"
+        ]
       ]
     ],
     [
       [
-        "Group 9",
-        "/wiki/Group_9_element"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VIII",
-        null
+        [
+          "S. Robson Walton"
+        ],
+        [
+          "/wiki/S._Robson_Walton"
+        ]
       ],
       [
-        "VIIIB",
-        null
+        [
+          "$20.5\u00a0billion"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "cobalt",
-        "/wiki/Cobalt"
+        [
+          "58"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        [
+          "Wal-Mart"
+        ],
+        [
+          "/wiki/Wal-Mart"
+        ]
       ]
     ],
     [
       [
-        "Group 10",
-        "/wiki/Group_10_element"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VIII",
-        null
+        [
+          "Helen Walton"
+        ],
+        [
+          "/wiki/Helen_Walton"
+        ]
       ],
       [
-        "VIIIB",
-        null
+        [
+          "$20.5\u00a0billion"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "nickel",
-        "/wiki/Nickel"
-      ]
-    ],
-    [
-      [
-        "Group 11",
-        "/wiki/Group_11_element"
+        [
+          "82"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "IB",
-        null
+        [
+          "United States"
+        ],
+        [
+          "/wiki/United_States"
+        ]
       ],
       [
-        "IB",
-        null
-      ],
-      [
-        "copper",
-        "/wiki/Copper"
-      ]
-    ],
-    [
-      [
-        "Group 12",
-        "/wiki/Group_12_element"
-      ],
-      [
-        "IIB",
-        null
-      ],
-      [
-        "IIB",
-        null
-      ],
-      [
-        "zinc",
-        "/wiki/Zinc"
-      ]
-    ],
-    [
-      [
-        "Group 13",
-        "/wiki/Group_13_element"
-      ],
-      [
-        "IIIB",
-        null
-      ],
-      [
-        "IIIA",
-        null
-      ],
-      [
-        "boron",
-        "/wiki/Boron"
-      ]
-    ],
-    [
-      [
-        "Group 14",
-        "/wiki/Group_14_element"
-      ],
-      [
-        "IVB",
-        null
-      ],
-      [
-        "IVA",
-        null
-      ],
-      [
-        "carbon",
-        "/wiki/Carbon"
-      ]
-    ],
-    [
-      [
-        "Group 15",
-        "/wiki/Group_15_element"
-      ],
-      [
-        "VB",
-        null
-      ],
-      [
-        "VA",
-        null
-      ],
-      [
-        "nitrogen",
-        "/wiki/Nitrogen"
-      ]
-    ],
-    [
-      [
-        "Group 16",
-        "/wiki/Group_16_element"
-      ],
-      [
-        "VIB",
-        null
-      ],
-      [
-        "VIA",
-        null
-      ],
-      [
-        "oxygen",
-        "/wiki/Oxygen"
-      ]
-    ],
-    [
-      [
-        "Group 17",
-        "/wiki/Group_17_element"
-      ],
-      [
-        "VIIB",
-        null
-      ],
-      [
-        "VIIA",
-        null
-      ],
-      [
-        "fluorine",
-        "/wiki/Fluorine"
-      ]
-    ],
-    [
-      [
-        "Group 18",
-        "/wiki/Group_18_element"
-      ],
-      [
-        "0",
-        null
-      ],
-      [
-        "VIIIA",
-        null
-      ],
-      [
-        "helium,neon",
-        "/wiki/Helium /wiki/Neon"
+        [
+          "Wal-Mart"
+        ],
+        [
+          "/wiki/Wal-Mart"
+        ]
       ]
     ]
   ],

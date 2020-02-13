@@ -1,185 +1,419 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Comparison_of_distributed_file_systems",
-  "title": "Comparison of distributed file systems",
+  "url": "https://en.wikipedia.org/wiki/Reinhard_Febel",
+  "title": "Reinhard Febel",
   "header": [
     [
-      "Client",
-      null
+      [
+        "Premiere"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Written in",
-      null
+      [
+        "Title"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "License",
-      null
+      [
+        "Description"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Access API",
-      null
+      [
+        "Libretto and source"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "BeeGFS",
-        "/wiki/BeeGFS"
+        [
+          "Bayerische Staatsoper"
+        ],
+        [
+          "/wiki/Bayerische_Staatsoper"
+        ]
       ],
       [
-        "C / C++",
-        null
+        [
+          "Euridice"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FRAUNHOFER FS (FhGFS) EULA,\nGPLv2 client",
-        null
+        [
+          "Chamber opera, 80'"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "POSIX",
-        "/wiki/Posix#POSIX.1"
+        [
+          "Helmut Danninger",
+          "Ottavio Rinuccini",
+          "Jacopo Peri"
+        ],
+        [
+          null,
+          "/wiki/Ottavio_Rinuccini",
+          "/wiki/Jacopo_Peri"
+        ]
       ]
     ],
     [
       [
-        "ObjectiveFS",
-        "/wiki/ObjectiveFS"
+        [
+          "Opernhaus Kiel"
+        ],
+        [
+          "/wiki/Opernhaus_Kiel"
+        ]
       ],
       [
-        "C",
-        null
+        [
+          "Nacht mit G\u00e4sten"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "Music-theatre"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "POSIX,FUSE",
-        "/wiki/Posix#POSIX.1 /wiki/Filesystem_in_Userspace"
+        [
+          "Peter Weiss"
+        ],
+        [
+          "/wiki/Peter_Weiss"
+        ]
       ]
     ],
     [
       [
-        "Spectrum Scale (GPFS)",
-        "/wiki/GPFS"
+        [
+          "Opernhaus Dortmund"
+        ],
+        [
+          "/wiki/Opernhaus_Dortmund"
+        ]
       ],
       [
-        "C, C++",
-        null
+        [
+          "Sekunden und Jahre des Caspar Hauser"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "Opera in three acts and nine scenes"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "POSIX,SMB",
-        "/wiki/POSIX /wiki/Server_Message_Block"
+        [
+          "Lukas Hemleb"
+        ],
+        [
+          "/wiki/Lukas_Hemleb"
+        ]
       ]
     ],
     [
       [
-        "MapR-FS",
-        "/wiki/MapR_FS"
+        [
+          "Staatstheater Darmstadt"
+        ],
+        [
+          "/wiki/Staatstheater_Darmstadt"
+        ]
       ],
       [
-        "C, C++",
-        null
+        [
+          "Morels Erfindung"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "Opera in one act"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "POSIX,NFS,FUSE,S3",
-        "/wiki/Posix#POSIX.1 /wiki/Network_File_System /wiki/Filesystem_in_Userspace /wiki/Amazon_S3"
+        [
+          "La invenci\u00f3n de Morel",
+          "Adolfo Bioy Casares"
+        ],
+        [
+          "/wiki/The_Invention_of_Morel",
+          "/wiki/Adolfo_Bioy_Casares"
+        ]
       ]
     ],
     [
       [
-        "PanFS",
-        "/wiki/HTTP_404"
+        [
+          "Theater Hagen"
+        ],
+        [
+          "/wiki/Theater_Hagen"
+        ]
       ],
       [
-        "C, C++",
-        null
+        [
+          "Beauty"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "Music-theatre"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "DirectFlow,POSIX,NFS,SMB/CIFS,HTTP,CLI",
-        "/wiki/Panasas#DirectFlow /wiki/POSIX /wiki/Network_File_System /wiki/Server_Message_Block /wiki/Hypertext_Transfer_Protocol /wiki/Command-line_interface"
+        [
+          "Lukas Hemleb, after a newspaper article"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Infinit",
-        "/wiki/HTTP_404"
+        [
+          "WDR"
+        ],
+        [
+          "/wiki/Westdeutscher_Rundfunk"
+        ]
       ],
       [
-        "C++",
-        null
+        [
+          "Desert Inn"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "Radio play"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "FUSE,Installable File System,NFS,SMB,POSIX,CLI,SDK",
-        "/wiki/Filesystem_in_Userspace /wiki/Installable_File_System /wiki/Network_File_System /wiki/Server_Message_Block /wiki/Posix#POSIX.1 /wiki/Command-line_interface /wiki/Software_Development_Kit"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Isilon OneFS",
-        "/wiki/OneFS_distributed_file_system"
+        [
+          "Oper Bonn"
+        ],
+        [
+          "/wiki/Oper_Bonn"
+        ]
       ],
       [
-        "C/C++",
-        null
+        [
+          "Besuchszeit"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "Music-theatre for three actors and music, 60'"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "POSIX,NFS,SMB/CIFS,HDFS,HTTP,FTP,CLI",
-        "/wiki/Posix#POSIX.1 /wiki/Network_File_System /wiki/SMB/CIFS /wiki/HDFS /wiki/HTTP /wiki/FTP /wiki/Command-line_interface"
+        [
+          "the composer"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Scality",
-        "/wiki/Scality"
+        [
+          "Philharmonie Berlin"
+        ],
+        [
+          "/wiki/Philharmonie_Berlin"
+        ]
       ],
       [
-        "C",
-        null
+        [
+          "Wolkenstein"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "Oswald von Wolkenstein"
+        ],
+        [
+          "/wiki/Oswald_von_Wolkenstein"
+        ]
       ],
       [
-        "FUSE,NFS file system,REST,AWS S3",
-        "/wiki/Filesystem_in_Userspace /wiki/NFS_file_system /wiki/Representational_state_transfer /wiki/AWS_S3"
+        [
+          "additional texts by the composer"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Quobyte",
-        "/wiki/HTTP_404"
+        [
+          "1 Aug 2005, Toihaus Salzburg / TRT Taschenopern-Festival"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Java, C++",
-        null
+        [
+          "Frida"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Proprietary",
-        "/wiki/Proprietary_software"
+        [
+          "Frida Kahlo"
+        ],
+        [
+          "/wiki/Frida_Kahlo"
+        ]
       ],
       [
-        "POSIX,FUSE,NFS,SMB/CIFS,HDFS,AWS S3,Tensorflow Plugin,CLI",
-        "/wiki/Posix#POSIX.1 /wiki/Filesystem_in_Userspace /wiki/Network_File_System /wiki/SMB/CIFS /wiki/HDFS /wiki/AWS_S3 /wiki/Tensorflow /wiki/Command-line_interface"
+        [
+          "the composer"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "1 Aug 2007, Toihaus Salzburg / TRT Taschenopern-Festival"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Gespensterhaus"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Edward Hopper"
+        ],
+        [
+          "/wiki/Edward_Hopper"
+        ]
+      ],
+      [
+        [
+          "the composer"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Opernhaus Kiel"
+        ],
+        [
+          "/wiki/Opernhaus_Kiel"
+        ]
+      ],
+      [
+        [
+          "Raum 17"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Diego Velasquez"
+        ],
+        [
+          "/wiki/Diego_Velasquez"
+        ]
+      ],
+      [
+        [
+          "the composer"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

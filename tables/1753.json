@@ -1,299 +1,493 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_Massachusetts_Institute_of_Technology_faculty",
-  "title": "List of Massachusetts Institute of Technology faculty",
+  "url": "https://en.wikipedia.org/wiki/List_of_University_of_Texas_at_Austin_faculty",
+  "title": "List of University of Texas at Austin faculty",
   "header": [
     [
-      "Name",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Department",
-      null
+      [
+        "Department"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Description",
-      null
+      [
+        "Service"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Notability"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Alumnus"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Hal Abelson",
-        "/wiki/Hal_Abelson"
+        [
+          "Willis  Adcock"
+        ],
+        [
+          "/wiki/Willis_Adcock"
+        ]
       ],
       [
-        "Electrical Engineering and Computer Science",
-        null
+        [
+          "Electrical Engineering"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "1986-1993"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "IEEE",
+          "US National Academy of Engineering"
+        ],
+        [
+          "/wiki/IEEE",
+          "/wiki/US_National_Academy_of_Engineering"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Leo Beranek",
-        "/wiki/Leo_Beranek"
+        [
+          "Alan  Bovik"
+        ],
+        [
+          "/wiki/Alan_Bovik"
+        ]
       ],
       [
-        "Electrical Engineering and Computer Science",
-        null
+        [
+          "Electrical Engineering"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bolt, Beranek and Newman",
-        "/wiki/Bolt,_Beranek_and_Newman"
+        [
+          "1984\u2013present"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Primetime Emmy Award",
+          "RPS Progress Medal",
+          "IEEE Fourier Award",
+          "Edwin H. Land Medal"
+        ],
+        [
+          "/wiki/Primetime_Emmy_Award",
+          "/wiki/Progress_Medal_(RPS)",
+          "/wiki/IEEE_Fourier_Award_for_Signal_Processing",
+          "/wiki/Edwin_H._Land_Medal"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Adam J. Berinsky",
-        "/wiki/Adam_J._Berinsky"
+        [
+          "Edith  Clarke"
+        ],
+        [
+          "/wiki/Edith_Clarke"
+        ]
       ],
       [
-        "Political Science",
-        null
+        [
+          "Electrical Engineering"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "professor and author",
-        null
+        [
+          "1947-1957"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "IEEE"
+        ],
+        [
+          "/wiki/IEEE"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Richard P. Binzel",
-        "/wiki/Richard_P._Binzel"
+        [
+          "Donglei  Fan"
+        ],
+        [
+          "/wiki/Donglei_Fan"
+        ]
       ],
       [
-        "Earth, Atmospheric, and Planetary Science",
-        null
+        [
+          "Mechanical Engineering"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Torino Scale",
-        "/wiki/Torino_Scale"
+        [
+          "2010\u2013present"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "nanomotors"
+        ],
+        [
+          "/wiki/Nanomotors"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Brice Brenneman",
-        "/wiki/HTTP_404"
+        [
+          "John B.  Goodenough"
+        ],
+        [
+          "/wiki/John_B._Goodenough"
+        ]
       ],
       [
-        "Electrical Engineering and Computer Science",
-        null
+        [
+          "Mechanical Engineering and Electrical Engineering"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bolt, Beranek and Newman",
-        "/wiki/Bolt,_Beranek_and_Newman"
+        [
+          "1986\u2013present"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "US National Academy of Engineering",
+          "Japan Prize",
+          "National Medal of Science",
+          "Nobel Prize in Chemistry"
+        ],
+        [
+          "/wiki/US_National_Academy_of_Engineering",
+          "/wiki/Japan_Prize",
+          "/wiki/National_Medal_of_Science",
+          "/wiki/Nobel_Prize_in_Chemistry"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Rodney Brooks",
-        "/wiki/Rodney_Brooks"
+        [
+          "Moriba K.  Jah"
+        ],
+        [
+          "/wiki/Moriba_K._Jah"
+        ]
       ],
       [
-        "Electrical Engineering and Computer Science",
-        null
+        [
+          "Aerospace Engineering and Engineering Mechanics"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "behavioral roboticist",
-        null
+        [
+          "2017\u2013present"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Robert S. Strauss Center for International Security and Law",
+          "International Academy of Astronautics"
+        ],
+        [
+          "/wiki/Robert_S._Strauss_Center_for_International_Security_and_Law",
+          "/wiki/International_Academy_of_Astronautics"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Richard Bolt",
-        "/wiki/Richard_Bolt"
+        [
+          "Robert M.  Metcalfe"
+        ],
+        [
+          "/wiki/Robert_M._Metcalfe"
+        ]
       ],
       [
-        "Electrical Engineering and Computer Science",
-        null
+        [
+          "Electrical Engineering"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "2011\u2013present"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "IEEE Alexander Graham Bell Medal",
+          "National Medal of Technology",
+          "US National Academy of Engineering"
+        ],
+        [
+          "/wiki/IEEE_Alexander_Graham_Bell_Medal",
+          "/wiki/National_Medal_of_Technology",
+          "/wiki/US_National_Academy_of_Engineering"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "George Boolos",
-        "/wiki/George_Boolos"
+        [
+          "Yale  Patt"
+        ],
+        [
+          "/wiki/Yale_Patt"
+        ]
       ],
       [
-        "Mathematician",
-        null
+        [
+          "Electrical Engineering"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "mathematical logician",
-        "/wiki/Mathematical_logic"
+        [
+          "1999\u2013present"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "WOS module",
+          "logic gate",
+          "IEEE",
+          "US National Academy of Engineering"
+        ],
+        [
+          null,
+          "/wiki/Logic_gate",
+          "/wiki/IEEE",
+          "/wiki/US_National_Academy_of_Engineering"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Amar G. Bose",
-        "/wiki/Amar_G._Bose"
+        [
+          "Nicholas A.  Peppas"
+        ],
+        [
+          "/wiki/Nicholas_A._Peppas"
+        ]
       ],
       [
-        "Electrical Engineering and Computer Science",
-        null
+        [
+          "Chemical Engineering"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bose Corporation",
-        "/wiki/Bose_Corporation"
+        [
+          "?-present"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "US National Academy of Engineering"
+        ],
+        [
+          "/wiki/US_National_Academy_of_Engineering"
+        ]
+      ],
+      [
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "James D. Bruce",
-        "/wiki/HTTP_404"
+        [
+          "Michael  Webber"
+        ],
+        [
+          "/wiki/Michael_Webber"
+        ]
       ],
       [
-        "Electrical Engineering and Computer Science",
-        null
+        [
+          "Mechanical Engineering"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Vice President for Information Systems, Professor of Electrical Engineering",
-        null
-      ]
-    ],
-    [
-      [
-        "Iain Cheeseman",
-        "/wiki/Iain_Cheeseman"
+        [
+          "2006\u2013present"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Biology",
-        null
+        [
+          "Deputy Director of the university's Energy Institute; host of PBS's Energy at the Movies"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Assistant Professor of Biology",
-        null
-      ]
-    ],
-    [
-      [
-        "Noam Chomsky",
-        "/wiki/Noam_Chomsky"
-      ],
-      [
-        "Linguistics",
-        null
-      ],
-      [
-        "Institute Professor and professor emeritus; notable linguist, philosopher and political activist",
-        null
-      ]
-    ],
-    [
-      [
-        "B.D. Colen",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "journalist, photographer, shared 1984 Pulitzer Prize for General Local Reporting",
-        null
-      ]
-    ],
-    [
-      [
-        "John Ernest Cook",
-        "/wiki/John_Cook_(musician)"
-      ],
-      [
-        "Institute Organist",
-        null
-      ],
-      [
-        "composer and organist",
-        null
-      ]
-    ],
-    [
-      [
-        "David D. Clark",
-        "/wiki/David_D._Clark"
-      ],
-      [
-        "Electrical Engineering and Computer Science",
-        null
-      ],
-      [
-        "",
-        null
-      ]
-    ],
-    [
-      [
-        "Brison D. Gooch",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "History (1950s)",
-        null
-      ],
-      [
-        "Napoleon III,Revolutions of 1848,Crimean War",
-        "/wiki/Napoleon_III /wiki/Revolutions_of_1848 /wiki/Crimean_War"
-      ]
-    ],
-    [
-      [
-        "J.P. Den Hartog",
-        "/wiki/J.P._Den_Hartog"
-      ],
-      [
-        "Mechanical Engineering",
-        null
-      ],
-      [
-        "Timoshenko Medal",
-        "/wiki/Timoshenko_Medal"
-      ]
-    ],
-    [
-      [
-        "John J. Donovan",
-        "/wiki/John_J._Donovan"
-      ],
-      [
-        "Electrical Engineering, Computer Science, and Management",
-        null
-      ],
-      [
-        "Cambridge Technology Partners",
-        "/wiki/Cambridge_Technology_Partners"
-      ]
-    ],
-    [
-      [
-        "John W. Dower",
-        "/wiki/John_W._Dower"
-      ],
-      [
-        "History",
-        null
-      ],
-      [
-        "Pulitzer Prize",
-        "/wiki/Pulitzer_Prize"
-      ]
-    ],
-    [
-      [
-        "James L. Elliot",
-        "/wiki/James_L._Elliot"
-      ],
-      [
-        "Earth, Atmospheric, and Planetary Sciences",
-        null
-      ],
-      [
-        "planetary occultations",
-        null
+        [
+          "Yes"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

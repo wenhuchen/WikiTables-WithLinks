@@ -1,383 +1,723 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_nature_reserves_in_Lower_Saxony",
-  "title": "List of nature reserves in Lower Saxony",
+  "url": "https://en.wikipedia.org/wiki/List_of_sports_venues_in_North_Carolina",
+  "title": "List of sports venues in North Carolina",
   "header": [
     [
-      "NSG No.",
-      null
+      [
+        "Venue"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Name of the nature reserve",
-      null
+      [
+        "City/Town"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Rural / Urban District",
-      null
+      [
+        "Tenant/Use"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Area (ha)",
-      null
+      [
+        "Capacity"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "BR 001",
-        null
+        [
+          "Greensboro Coliseum"
+        ],
+        [
+          "/wiki/Greensboro_Coliseum_Complex"
+        ]
       ],
       [
-        "Riddagshausen",
-        "/wiki/Riddagshausen_Abbey"
+        [
+          "Greensboro"
+        ],
+        [
+          "/wiki/Greensboro,_North_Carolina"
+        ]
       ],
       [
-        "City of Brunswick",
-        "/wiki/Braunschweig"
+        [
+          "UNCG Spartans"
+        ],
+        [
+          "/wiki/UNC_Greensboro_Spartans_men%27s_basketball"
+        ]
       ],
       [
-        "526",
-        null
+        [
+          "23,500"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BR 006",
-        null
+        [
+          "Dean Smith Center"
+        ],
+        [
+          "/wiki/Dean_Smith_Center"
+        ]
       ],
       [
-        "Upper Harz",
-        "/wiki/Upper_Harz"
+        [
+          "Chapel Hill"
+        ],
+        [
+          "/wiki/Chapel_Hill,_North_Carolina"
+        ]
       ],
       [
-        "Goslar district",
-        "/wiki/Goslar_district"
+        [
+          "North Carolina Tar Heels, Men's"
+        ],
+        [
+          "/wiki/North_Carolina_Tar_Heels_men%27s_basketball"
+        ]
       ],
       [
-        "513",
-        null
+        [
+          "21,750"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BR 017",
-        null
+        [
+          "Spectrum Center"
+        ],
+        [
+          "/wiki/Spectrum_Center_(arena)"
+        ]
       ],
       [
-        "Dr\u00f6mling",
-        "/wiki/Dr%C3%B6mling"
+        [
+          "Charlotte"
+        ],
+        [
+          "/wiki/Charlotte,_North_Carolina"
+        ]
       ],
       [
-        "Helmstedt district",
-        "/wiki/Helmstedt_district"
+        [
+          "Charlotte Hornets"
+        ],
+        [
+          "/wiki/Charlotte_Hornets"
+        ]
       ],
       [
-        "94.7",
-        null
+        [
+          "20,200"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BR 023",
-        null
+        [
+          "PNC Arena"
+        ],
+        [
+          "/wiki/PNC_Arena"
+        ]
       ],
       [
-        "Bullenkuhle",
-        "/wiki/Bullenkuhle"
+        [
+          "Raleigh"
+        ],
+        [
+          "/wiki/Raleigh,_North_Carolina"
+        ]
       ],
       [
-        "Gifhorn district",
-        "/wiki/Gifhorn_district"
+        [
+          "Carolina Hurricanes",
+          "NC State Wolfpack, Men's"
+        ],
+        [
+          "/wiki/Carolina_Hurricanes",
+          "/wiki/NC_State_Wolfpack_men%27s_basketball"
+        ]
       ],
       [
-        "2.3",
-        null
+        [
+          "19,722"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BR 038",
-        null
+        [
+          "LJVM Coliseum"
+        ],
+        [
+          "/wiki/Lawrence_Joel_Veterans_Memorial_Coliseum"
+        ]
       ],
       [
-        "Seeburger See",
-        "/wiki/Seeburger_See"
+        [
+          "Winston-Salem"
+        ],
+        [
+          "/wiki/Winston-Salem,_North_Carolina"
+        ]
       ],
       [
-        "G\u00f6ttingen district",
-        "/wiki/G%C3%B6ttingen_district"
+        [
+          "Wake Forest Demon Deacons"
+        ],
+        [
+          "/wiki/Wake_Forest_Demon_Deacons"
+        ]
       ],
       [
-        "122.1",
-        null
+        [
+          "14,665"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BR 043",
-        null
+        [
+          "Cameron Indoor Stadium"
+        ],
+        [
+          "/wiki/Cameron_Indoor_Stadium"
+        ]
       ],
       [
-        "Oker Valley",
-        "/wiki/Oker_Valley"
+        [
+          "Durham"
+        ],
+        [
+          "/wiki/Durham,_North_Carolina"
+        ]
       ],
       [
-        "Goslar district,Wolfenb\u00fcttel district",
-        "/wiki/Goslar_district /wiki/Wolfenb%C3%BCttel_district"
+        [
+          "Duke Blue Devils"
+        ],
+        [
+          "/wiki/Duke_Blue_Devils"
+        ]
       ],
       [
-        "246",
-        null
+        [
+          "9,314"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BR 051",
-        null
+        [
+          "Halton Arena"
+        ],
+        [
+          "/wiki/Halton_Arena"
+        ]
       ],
       [
-        "Gro\u00dfes Moor (near Gifhorn)",
-        "/wiki/Gro%C3%9Fes_Moor_(near_Gifhorn)"
+        [
+          "Charlotte"
+        ],
+        [
+          "/wiki/Charlotte,_North_Carolina"
+        ]
       ],
       [
-        "Gifhorn district",
-        "/wiki/Gifhorn_district"
+        [
+          "Charlotte 49ers"
+        ],
+        [
+          "/wiki/Charlotte_49ers"
+        ]
       ],
       [
-        "2720",
-        null
+        [
+          "9,105"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BR 054",
-        null
+        [
+          "Bojangles' Coliseum"
+        ],
+        [
+          "/wiki/Bojangles%27_Coliseum"
+        ]
       ],
       [
-        "Weper",
-        "/wiki/Weper"
+        [
+          "Charlotte"
+        ],
+        [
+          "/wiki/Charlotte,_North_Carolina"
+        ]
       ],
       [
-        "Northeim district",
-        "/wiki/Northeim_district"
+        [
+          "Charlotte Checkers"
+        ],
+        [
+          "/wiki/Charlotte_Checkers_(2010%E2%80%93)"
+        ]
       ],
       [
-        "200",
-        null
+        [
+          "8,600"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BR 072",
-        null
+        [
+          "Crown Coliseum"
+        ],
+        [
+          "/wiki/Cumberland_County_Crown_Coliseum"
+        ]
       ],
       [
-        "Lammer Holz",
-        "/wiki/HTTP_404"
+        [
+          "Fayetteville"
+        ],
+        [
+          "/wiki/Fayetteville,_North_Carolina"
+        ]
       ],
       [
-        "City of Brunswick",
-        "/wiki/Braunschweig"
+        [
+          "Fayetteville Marksmen",
+          "Fayetteville Force"
+        ],
+        [
+          "/wiki/Fayetteville_Marksmen",
+          "/wiki/Fayetteville_Force"
+        ]
       ],
       [
-        "25",
-        null
+        [
+          "8,500"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BR 075",
-        null
+        [
+          "Holmes Center"
+        ],
+        [
+          "/wiki/George_M._Holmes_Convocation_Center"
+        ]
       ],
       [
-        "Barnbruch",
-        "/wiki/Barnbruch"
+        [
+          "Boone"
+        ],
+        [
+          "/wiki/Boone,_North_Carolina"
+        ]
       ],
       [
-        "City of Wolfsburg,Gifhorn district",
-        "/wiki/Wolfsburg /wiki/Gifhorn_district"
+        [
+          "Appalachian State Mountaineers"
+        ],
+        [
+          "/wiki/Appalachian_State_Mountaineers"
+        ]
       ],
       [
-        "1200",
-        null
+        [
+          "8,325"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BR 078",
-        null
+        [
+          "Minges Coliseum"
+        ],
+        [
+          "/wiki/Minges_Coliseum"
+        ]
       ],
       [
-        "Steinberg",
-        "/wiki/Steinberg"
+        [
+          "Greenville"
+        ],
+        [
+          "/wiki/Greenville,_North_Carolina"
+        ]
       ],
       [
-        "Osterode district",
-        "/wiki/Osterode_am_Harz_district"
+        [
+          "East Carolina Pirates"
+        ],
+        [
+          "/wiki/East_Carolina_Pirates"
+        ]
       ],
       [
-        "12",
-        null
+        [
+          "8,500"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BR 080",
-        null
+        [
+          "Carmichael Arena"
+        ],
+        [
+          "/wiki/Carmichael_Arena"
+        ]
       ],
       [
-        "Staufenberg",
-        "/wiki/Staufenberg,_Lower_Saxony"
+        [
+          "Chapel Hill"
+        ],
+        [
+          "/wiki/Chapel_Hill,_North_Carolina"
+        ]
       ],
       [
-        "Osterode district",
-        "/wiki/Osterode_am_Harz_district"
+        [
+          "North Carolina Tar Heels, Women's"
+        ],
+        [
+          "/wiki/North_Carolina_Tar_Heels"
+        ]
       ],
       [
-        "157.9",
-        null
+        [
+          "8,010"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BR 118",
-        null
+        [
+          "Ramsey Center"
+        ],
+        [
+          "/wiki/Ramsey_Center"
+        ]
       ],
       [
-        "Braunschweiger Okeraue",
-        "/wiki/HTTP_404"
+        [
+          "Cullowhee"
+        ],
+        [
+          "/wiki/Cullowhee,_North_Carolina"
+        ]
       ],
       [
-        "City of Brunswick",
-        "/wiki/Braunschweig"
+        [
+          "Western Carolina Catamounts"
+        ],
+        [
+          "/wiki/Western_Carolina_University"
+        ]
       ],
       [
-        "320",
-        null
+        [
+          "7,826"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BR 124",
-        null
+        [
+          "U.S. Cellular Center"
+        ],
+        [
+          "/wiki/U.S._Cellular_Center_(Asheville,_North_Carolina)"
+        ]
       ],
       [
-        "Oderaue",
-        "/wiki/Oderaue"
+        [
+          "Asheville"
+        ],
+        [
+          "/wiki/Asheville,_North_Carolina"
+        ]
       ],
       [
-        "Osterode,Northeim",
-        "/wiki/Osterode_district /wiki/Northeim_district"
+        [
+          "General"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "510",
-        null
+        [
+          "7,654"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "BR 140",
-        null
+        [
+          "Dorton Arena"
+        ],
+        [
+          "/wiki/Dorton_Arena"
+        ]
       ],
       [
-        "Wurmberg",
-        "/wiki/Wurmberg_(Harz)"
+        [
+          "Raleigh"
+        ],
+        [
+          "/wiki/Raleigh,_North_Carolina"
+        ]
       ],
       [
-        "Goslar district",
-        "/wiki/Goslar_district"
+        [
+          "Carolina Rollergirls"
+        ],
+        [
+          "/wiki/Carolina_Rollergirls"
+        ]
       ],
       [
-        "183",
-        null
+        [
+          "7,610"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "HA 024",
-        null
+        [
+          "John M. Belk Arena"
+        ],
+        [
+          "/wiki/John_M._Belk_Arena"
+        ]
       ],
       [
-        "D\u00fcmmer",
-        "/wiki/D%C3%BCmmer"
+        [
+          "Davidson"
+        ],
+        [
+          "/wiki/Davidson,_North_Carolina"
+        ]
       ],
       [
-        "Diepholz district,Vechta district,Osnabr\u00fcck district",
-        "/wiki/Diepholz_district /wiki/Vechta_district /wiki/Osnabr%C3%BCck_district"
+        [
+          "Davidson Wildcats"
+        ],
+        [
+          "/wiki/Davidson_Wildcats"
+        ]
       ],
       [
-        "745",
-        null
+        [
+          "6,000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "HA 214",
-        null
+        [
+          "Corbett Sports Center"
+        ],
+        [
+          "/wiki/Corbett_Sports_Center"
+        ]
       ],
       [
-        "Ith",
-        "/wiki/Ith"
+        [
+          "Greensboro"
+        ],
+        [
+          "/wiki/Greensboro,_North_Carolina"
+        ]
       ],
       [
-        "Hameln-Pyrmont district,Holzminden district",
-        "/wiki/Hameln-Pyrmont_district /wiki/Holzminden_district"
+        [
+          "NC A&T Aggies"
+        ],
+        [
+          "/wiki/North_Carolina_A%26T_Aggies"
+        ]
       ],
       [
-        "2715",
-        null
+        [
+          "5,700"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "HA 215",
-        null
+        [
+          "Reynolds Coliseum"
+        ],
+        [
+          "/wiki/Reynolds_Coliseum"
+        ]
       ],
       [
-        "M\u00fchlenberg",
-        "/wiki/Rinteln"
+        [
+          "Raleigh"
+        ],
+        [
+          "/wiki/Raleigh,_North_Carolina"
+        ]
       ],
       [
-        "Schaumburg district",
-        "/wiki/Schaumburg_district"
+        [
+          "NC State Wolfpack, Women's"
+        ],
+        [
+          "/wiki/NC_State_Wolfpack"
+        ]
       ],
       [
-        "4,7",
-        null
+        [
+          "5,500"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "L\u00dc 002",
-        null
+        [
+          "Schar Center"
+        ],
+        [
+          "/wiki/Schar_Center"
+        ]
       ],
       [
-        "L\u00fcneburg Heath",
-        "/wiki/L%C3%BCneburg_Heath_Nature_Reserve"
+        [
+          "Elon"
+        ],
+        [
+          "/wiki/Elon,_North_Carolina"
+        ]
       ],
       [
-        "Harburg district,Soltau-Fallingbostel district",
-        "/wiki/Harburg_district /wiki/Soltau-Fallingbostel_district"
+        [
+          "Elon Phoenix"
+        ],
+        [
+          "/wiki/Elon_Phoenix"
+        ]
       ],
       [
-        "23436.9",
-        null
+        [
+          "5,100"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "L\u00dc 009",
-        null
+        [
+          "Cabarrus Arena"
+        ],
+        [
+          "/wiki/Cabarrus_Arena_%26_Events_Center"
+        ]
       ],
       [
-        "Kalkberg",
-        "/wiki/L%C3%BCneburg_Kalkberg"
+        [
+          "Concord"
+        ],
+        [
+          "/wiki/Concord,_North_Carolina"
+        ]
       ],
       [
-        "L\u00fcneburg district",
-        "/wiki/L%C3%BCneburg_district"
+        [
+          "General"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "7.6",
-        null
+        [
+          "5,000"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

@@ -1,269 +1,1095 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Boston_Bruins",
-  "title": "Boston Bruins",
+  "url": "https://en.wikipedia.org/wiki/Colonial_Athletic_Association",
+  "title": "Colonial Athletic Association",
   "header": [
     [
-      "No.",
-      null
+      [
+        "Year"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Player",
-      null
+      [
+        "CAA Champions"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Position",
-      null
+      [
+        "Score"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Career",
-      null
+      [
+        "Runner-Up"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "No. retirement",
-      null
+      [
+        "Tournament MVP"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Venue"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "2",
-        null
+        [
+          "1984"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Eddie Shore",
-        "/wiki/Eddie_Shore"
+        [
+          "East Carolina"
+        ],
+        [
+          "/wiki/East_Carolina_Pirates_women%27s_basketball"
+        ]
       ],
       [
-        "D",
-        "/wiki/Defenceman"
+        [
+          "54\u201339"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1926\u20131940",
-        null
+        [
+          "Richmond"
+        ],
+        [
+          "/wiki/Richmond_Spiders"
+        ]
       ],
       [
-        "January 1, 1947",
-        null
+        [
+          "N/A"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Minges Coliseum",
+          "Greenville, North Carolina"
+        ],
+        [
+          "/wiki/Williams_Arena_at_Minges_Coliseum",
+          "/wiki/Greenville,_North_Carolina"
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "1985"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Lionel Hitchman",
-        "/wiki/Lionel_Hitchman"
+        [
+          "East Carolina"
+        ],
+        [
+          "/wiki/East_Carolina_Pirates_women%27s_basketball"
+        ]
       ],
       [
-        "D",
-        "/wiki/Defenceman"
+        [
+          "65\u201359"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1925\u20131934",
-        null
+        [
+          "James Madison"
+        ],
+        [
+          "/wiki/James_Madison_Dukes"
+        ]
       ],
       [
-        "February 22, 1934",
-        null
+        [
+          "N/A"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "William & Mary Hall",
+          "Williamsburg, Virginia"
+        ],
+        [
+          "/wiki/William_%26_Mary_Hall",
+          "/wiki/Williamsburg,_Virginia"
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "1986"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bobby Orr",
-        "/wiki/Bobby_Orr"
+        [
+          "James Madison"
+        ],
+        [
+          "/wiki/James_Madison_Dukes"
+        ]
       ],
       [
-        "D",
-        "/wiki/Defenceman"
+        [
+          "66\u201362"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1966\u20131976",
-        null
+        [
+          "East Carolina"
+        ],
+        [
+          "/wiki/East_Carolina_Pirates_women%27s_basketball"
+        ]
       ],
       [
-        "January 9, 1979",
-        null
+        [
+          "Lisa Squirewell, ECU"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Trask Coliseum",
+          "Wilmington, North Carolina"
+        ],
+        [
+          "/wiki/Trask_Coliseum",
+          "/wiki/Wilmington,_North_Carolina"
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "1987"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Aubrey \"Dit\" Clapper",
-        "/wiki/Dit_Clapper"
+        [
+          "James Madison"
+        ],
+        [
+          "/wiki/James_Madison_Dukes"
+        ]
       ],
       [
-        "RW,D",
-        "/wiki/Winger_(ice_hockey) /wiki/Defenceman"
+        [
+          "74\u201362"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1927\u20131947",
-        null
+        [
+          "American"
+        ],
+        [
+          "/wiki/American_Eagles"
+        ]
       ],
       [
-        "February 12, 1947",
-        null
+        [
+          "Sydney Beasley, JMU"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "JMU Convocation Center",
+          "Harrisonburg, Virginia"
+        ],
+        [
+          "/wiki/James_Madison_University_Convocation_Center",
+          "/wiki/Harrisonburg,_Virginia"
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "1988"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Phil Esposito",
-        "/wiki/Phil_Esposito"
+        [
+          "James Madison"
+        ],
+        [
+          "/wiki/James_Madison_Dukes"
+        ]
       ],
       [
-        "C",
-        "/wiki/Center_(ice_hockey)"
+        [
+          "87\u201372"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1967\u20131975",
-        null
+        [
+          "George Mason"
+        ],
+        [
+          "/wiki/George_Mason_Patriots_women%27s_basketball"
+        ]
       ],
       [
-        "December 3, 1987",
-        null
+        [
+          "Sydney Beasley, JMU"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Bender Arena",
+          "Washington, D.C."
+        ],
+        [
+          "/wiki/Bender_Arena",
+          "/wiki/Washington,_D.C."
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "1989"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cam Neely",
-        "/wiki/Cam_Neely"
+        [
+          "James Madison"
+        ],
+        [
+          "/wiki/James_Madison_Dukes"
+        ]
       ],
       [
-        "RW",
-        "/wiki/Winger_(ice_hockey)"
+        [
+          "55\u201345"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1986\u20131996",
-        null
+        [
+          "Richmond"
+        ],
+        [
+          "/wiki/Richmond_Spiders"
+        ]
       ],
       [
-        "January 12, 2004",
-        null
+        [
+          "Carolin Dehn-Duhr, JMU"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "William & Mary Hall",
+          "Williamsburg, Virginia"
+        ],
+        [
+          "/wiki/William_%26_Mary_Hall",
+          "/wiki/Williamsburg,_Virginia"
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "1990"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Johnny Bucyk",
-        "/wiki/Johnny_Bucyk"
+        [
+          "Richmond"
+        ],
+        [
+          "/wiki/Richmond_Spiders"
+        ]
       ],
       [
-        "LW",
-        "/wiki/Winger_(ice_hockey)"
+        [
+          "47\u201346"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1957\u20131978",
-        null
+        [
+          "James Madison"
+        ],
+        [
+          "/wiki/James_Madison_Dukes"
+        ]
       ],
       [
-        "March 13, 1980",
-        null
+        [
+          "Pam Bryant, UR"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Robins Center",
+          "Richmond, Virginia"
+        ],
+        [
+          "/wiki/Robins_Center",
+          "/wiki/Richmond,_Virginia"
+        ]
       ]
     ],
     [
       [
-        "15",
-        null
+        [
+          "1991"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Milt Schmidt",
-        "/wiki/Milt_Schmidt"
+        [
+          "Richmond"
+        ],
+        [
+          "/wiki/Richmond_Spiders"
+        ]
       ],
       [
-        "C",
-        "/wiki/Center_(ice_hockey)"
+        [
+          "88\u201370"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1936\u20131955",
-        null
+        [
+          "East Carolina"
+        ],
+        [
+          "/wiki/East_Carolina_Pirates_women%27s_basketball"
+        ]
       ],
       [
-        "October 6, 2010",
-        null
+        [
+          "Ginny Norton, UR"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "JMU Convocation Center",
+          "Harrisonburg, Virginia"
+        ],
+        [
+          "/wiki/James_Madison_University_Convocation_Center",
+          "/wiki/Harrisonburg,_Virginia"
+        ]
       ]
     ],
     [
       [
-        "16",
-        null
+        [
+          "1992"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rick Middleton",
-        "/wiki/Rick_Middleton"
+        [
+          "Old Dominion"
+        ],
+        [
+          "/wiki/Old_Dominion_Lady_Monarchs_basketball"
+        ]
       ],
       [
-        "RW",
-        "/wiki/Winger_(ice_hockey)"
+        [
+          "80\u201375"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1976\u20131988",
-        null
+        [
+          "East Carolina"
+        ],
+        [
+          "/wiki/East_Carolina_Pirates_women%27s_basketball"
+        ]
       ],
       [
-        "November 29, 2018",
-        null
+        [
+          "Pam Huntley, ODU"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "ODU Field House",
+          "Norfolk, Virginia"
+        ],
+        [
+          "/wiki/Old_Dominion_University_Fieldhouse",
+          "/wiki/Norfolk,_Virginia"
+        ]
       ]
     ],
     [
       [
-        "24",
-        null
+        [
+          "1993"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Terry O'Reilly",
-        "/wiki/Terry_O%27Reilly"
+        [
+          "Old Dominion"
+        ],
+        [
+          "/wiki/Old_Dominion_Lady_Monarchs_basketball"
+        ]
       ],
       [
-        "RW",
-        "/wiki/Winger_(ice_hockey)"
+        [
+          "65\u201351"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1972\u20131985",
-        null
+        [
+          "William & Mary"
+        ],
+        [
+          "/wiki/William_%26_Mary_Tribe_women%27s_basketball"
+        ]
       ],
       [
-        "October 24, 2002",
-        null
+        [
+          "Pam Huntley, ODU"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "ODU Field House",
+          "Norfolk, Virginia"
+        ],
+        [
+          "/wiki/Old_Dominion_University_Fieldhouse",
+          "/wiki/Norfolk,_Virginia"
+        ]
       ]
     ],
     [
       [
-        "77",
-        null
+        [
+          "1994"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ray Bourque",
-        "/wiki/Ray_Bourque"
+        [
+          "Old Dominion"
+        ],
+        [
+          "/wiki/Old_Dominion_Lady_Monarchs_basketball"
+        ]
       ],
       [
-        "D",
-        "/wiki/Defenceman"
+        [
+          "78\u201361"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1979\u20132000",
-        null
+        [
+          "George Mason"
+        ],
+        [
+          "/wiki/George_Mason_Patriots_women%27s_basketball"
+        ]
       ],
       [
-        "October 4, 2001",
-        null
+        [
+          "Celeste Hill, ODU"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "JMU Convocation Center",
+          "Harrisonburg, Virginia"
+        ],
+        [
+          "/wiki/James_Madison_University_Convocation_Center",
+          "/wiki/Harrisonburg,_Virginia"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "1995"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Old Dominion"
+        ],
+        [
+          "/wiki/Old_Dominion_Lady_Monarchs_basketball"
+        ]
+      ],
+      [
+        [
+          "63\u201344"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "James Madison"
+        ],
+        [
+          "/wiki/James_Madison_Dukes"
+        ]
+      ],
+      [
+        [
+          "Ticha Penicheiro"
+        ],
+        [
+          "/wiki/Ticha_Penicheiro"
+        ]
+      ],
+      [
+        [
+          "ODU Field House",
+          "Norfolk, Virginia"
+        ],
+        [
+          "/wiki/Old_Dominion_University_Fieldhouse",
+          "/wiki/Norfolk,_Virginia"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "1996"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Old Dominion"
+        ],
+        [
+          "/wiki/Old_Dominion_Lady_Monarchs_basketball"
+        ]
+      ],
+      [
+        [
+          "84\u201358"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "James Madison"
+        ],
+        [
+          "/wiki/James_Madison_Dukes"
+        ]
+      ],
+      [
+        [
+          "Clarisse Machanguana"
+        ],
+        [
+          "/wiki/Clarisse_Machanguana"
+        ]
+      ],
+      [
+        [
+          "ODU Field House",
+          "Norfolk, Virginia"
+        ],
+        [
+          "/wiki/Old_Dominion_University_Fieldhouse",
+          "/wiki/Norfolk,_Virginia"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "1997"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Old Dominion"
+        ],
+        [
+          "/wiki/Old_Dominion_Lady_Monarchs_basketball"
+        ]
+      ],
+      [
+        [
+          "83\u201346"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "East Carolina"
+        ],
+        [
+          "/wiki/East_Carolina_Pirates_women%27s_basketball"
+        ]
+      ],
+      [
+        [
+          "Clarisse Machanguana"
+        ],
+        [
+          "/wiki/Clarisse_Machanguana"
+        ]
+      ],
+      [
+        [
+          "Richmond Coliseum",
+          "Richmond, Virginia"
+        ],
+        [
+          "/wiki/Richmond_Coliseum",
+          "/wiki/Richmond,_Virginia"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "1998"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Old Dominion"
+        ],
+        [
+          "/wiki/Old_Dominion_Lady_Monarchs_basketball"
+        ]
+      ],
+      [
+        [
+          "82\u201349"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "American"
+        ],
+        [
+          "/wiki/American_Eagles"
+        ]
+      ],
+      [
+        [
+          "Ticha Penicheiro"
+        ],
+        [
+          "/wiki/Ticha_Penicheiro"
+        ]
+      ],
+      [
+        [
+          "Richmond Coliseum",
+          "Richmond, Virginia"
+        ],
+        [
+          "/wiki/Richmond_Coliseum",
+          "/wiki/Richmond,_Virginia"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "1999"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Old Dominion"
+        ],
+        [
+          "/wiki/Old_Dominion_Lady_Monarchs_basketball"
+        ]
+      ],
+      [
+        [
+          "73\u201367"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "East Carolina"
+        ],
+        [
+          "/wiki/East_Carolina_Pirates_women%27s_basketball"
+        ]
+      ],
+      [
+        [
+          "Natalie Diaz, ODU"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Robins Center",
+          "Richmond, Virginia"
+        ],
+        [
+          "/wiki/Robins_Center",
+          "/wiki/Richmond,_Virginia"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Old Dominion"
+        ],
+        [
+          "/wiki/Old_Dominion_Lady_Monarchs_basketball"
+        ]
+      ],
+      [
+        [
+          "92\u201349"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "UNC Wilmington"
+        ],
+        [
+          "/wiki/UNC_Wilmington_Seahawks_women%27s_basketball"
+        ]
+      ],
+      [
+        [
+          "Natalie Diaz, ODU"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "ALLTEL Pavilion",
+          "Richmond, Virginia"
+        ],
+        [
+          "/wiki/Stuart_C._Siegel_Center",
+          "/wiki/Richmond,_Virginia"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2001"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Old Dominion"
+        ],
+        [
+          "/wiki/Old_Dominion_Lady_Monarchs_basketball"
+        ]
+      ],
+      [
+        [
+          "66\u201362"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "James Madison"
+        ],
+        [
+          "/wiki/James_Madison_Dukes"
+        ]
+      ],
+      [
+        [
+          "Monique Coker, ODU"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "ODU Field House",
+          "Norfolk, Virginia"
+        ],
+        [
+          "/wiki/Old_Dominion_University_Fieldhouse",
+          "/wiki/Norfolk,_Virginia"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2002"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Old Dominion"
+        ],
+        [
+          "/wiki/Old_Dominion_Lady_Monarchs_basketball"
+        ]
+      ],
+      [
+        [
+          "76\u201348"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "UNC Wilmington"
+        ],
+        [
+          "/wiki/UNC_Wilmington_Seahawks_women%27s_basketball"
+        ]
+      ],
+      [
+        [
+          "Okeisha Howard, ODU"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "ODU Field House",
+          "Norfolk, Virginia"
+        ],
+        [
+          "/wiki/Old_Dominion_University_Fieldhouse",
+          "/wiki/Norfolk,_Virginia"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "2003"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Old Dominion"
+        ],
+        [
+          "/wiki/Old_Dominion_Lady_Monarchs_basketball"
+        ]
+      ],
+      [
+        [
+          "66\u201358"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Delaware"
+        ],
+        [
+          "/wiki/Delaware_Fightin%27_Blue_Hens"
+        ]
+      ],
+      [
+        [
+          "Shareese Grant, ODU"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ted Constant Convocation Center",
+          "Norfolk, Virginia"
+        ],
+        [
+          "/wiki/Ted_Constant_Convocation_Center",
+          "/wiki/Norfolk,_Virginia"
+        ]
       ]
     ]
   ],

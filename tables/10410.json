@@ -1,299 +1,747 @@
 {
-  "url": "https://en.wikipedia.org/wiki/1995_in_Australian_television",
-  "title": "1995 in Australian television",
+  "url": "https://en.wikipedia.org/wiki/List_of_stadiums_in_New_Zealand",
+  "title": "List of stadiums in New Zealand",
   "header": [
     [
-      "Program",
-      null
+      [
+        "#"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Network",
-      null
+      [
+        "Stadium"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Debut date",
-      null
+      [
+        "Capacity"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "City"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Home team/s"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Better Homes and Gardens",
-        "/wiki/Better_Homes_and_Gardens_(TV_series)"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Seven Network",
-        "/wiki/Seven_Network"
+        [
+          "Eden Park"
+        ],
+        [
+          "/wiki/Eden_Park"
+        ]
       ],
       [
-        "24 January",
-        null
+        [
+          "50,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Auckland"
+        ],
+        [
+          "/wiki/Auckland"
+        ]
+      ],
+      [
+        [
+          "Auckland Rugby Football Union",
+          "Blues"
+        ],
+        [
+          "/wiki/Auckland_Rugby_Football_Union",
+          "/wiki/Blues_(Super_rugby_franchise)"
+        ]
       ]
     ],
     [
       [
-        "Today Tonight",
-        "/wiki/Today_Tonight"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Seven Network",
-        "/wiki/Seven_Network"
+        [
+          "Sky Stadium"
+        ],
+        [
+          "/wiki/Sky_Stadium"
+        ]
       ],
       [
-        "30 January",
-        null
+        [
+          "34,500"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Wellington"
+        ],
+        [
+          "/wiki/Wellington"
+        ]
+      ],
+      [
+        [
+          "Hurricanes",
+          "Wellington Rugby Football Union",
+          "Wellington Phoenix FC"
+        ],
+        [
+          "/wiki/Hurricanes_(Super_rugby_franchise)",
+          "/wiki/Wellington_Rugby_Football_Union",
+          "/wiki/Wellington_Phoenix_FC"
+        ]
       ]
     ],
     [
       [
-        "Wildlife with Olivia Newton-John",
-        "/wiki/HTTP_404"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nine Network",
-        "/wiki/Nine_Network"
+        [
+          "FMG Stadium Waikato"
+        ],
+        [
+          "/wiki/FMG_Stadium_Waikato"
+        ]
       ],
       [
-        "2 February",
-        null
+        [
+          "25,800"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Hamilton"
+        ],
+        [
+          "/wiki/Hamilton,_New_Zealand"
+        ]
+      ],
+      [
+        [
+          "Waikato Rugby Union",
+          "Chiefs",
+          "Waikato FC"
+        ],
+        [
+          "/wiki/Waikato_Rugby_Union",
+          "/wiki/Chiefs_(Super_rugby_franchise)",
+          "/wiki/Waikato_FC"
+        ]
       ]
     ],
     [
       [
-        "Fire",
-        "/wiki/Fire_(TV_series)"
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Seven Network",
-        "/wiki/Seven_Network"
+        [
+          "Forsyth Barr Stadium"
+        ],
+        [
+          "/wiki/Forsyth_Barr_Stadium_at_University_Plaza"
+        ]
       ],
       [
-        "14 February",
-        null
+        [
+          "30,748"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Dunedin"
+        ],
+        [
+          "/wiki/Dunedin"
+        ]
+      ],
+      [
+        [
+          "Highlanders",
+          "Otago United"
+        ],
+        [
+          "/wiki/Highlanders_(rugby_union)",
+          "/wiki/Otago_United"
+        ]
       ]
     ],
     [
       [
-        "Sky Trackers",
-        "/wiki/Sky_Trackers"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Seven Network",
-        "/wiki/Seven_Network"
+        [
+          "Yarrow Stadium"
+        ],
+        [
+          "/wiki/Yarrow_Stadium"
+        ]
       ],
       [
-        "19 March",
-        null
+        [
+          "25,500"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "New Plymouth"
+        ],
+        [
+          "/wiki/New_Plymouth"
+        ]
+      ],
+      [
+        [
+          "Taranaki Rugby Football Union",
+          "Team Taranaki",
+          "Hurricanes",
+          "Chiefs"
+        ],
+        [
+          "/wiki/Taranaki_Rugby_Football_Union",
+          "/wiki/Team_Taranaki",
+          "/wiki/Hurricanes_(Super_rugby_franchise)",
+          "/wiki/Chiefs_(Super_rugby_franchise)"
+        ]
       ]
     ],
     [
       [
-        "Club Buggery",
-        "/wiki/Club_Buggery"
+        [
+          "4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ABC TV",
-        "/wiki/ABC1"
+        [
+          "Mt Smart Stadium"
+        ],
+        [
+          "/wiki/Mt_Smart_Stadium"
+        ]
       ],
       [
-        "21 April",
-        null
+        [
+          "30,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Auckland"
+        ],
+        [
+          "/wiki/Auckland"
+        ]
+      ],
+      [
+        [
+          "New Zealand Warriors"
+        ],
+        [
+          "/wiki/New_Zealand_Warriors"
+        ]
       ]
     ],
     [
       [
-        "Funky Squad",
-        "/wiki/Funky_Squad"
+        [
+          "12"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ABC TV",
-        "/wiki/ABC1"
+        [
+          "Toll Stadium"
+        ],
+        [
+          "/wiki/Toll_Stadium"
+        ]
       ],
       [
-        "24 April",
-        null
+        [
+          "18,500"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Whangarei"
+        ],
+        [
+          "/wiki/Whangarei"
+        ]
+      ],
+      [
+        [
+          "Northland Rugby Union"
+        ],
+        [
+          "/wiki/Northland_Rugby_Union"
+        ]
       ]
     ],
     [
       [
-        "Gladiators",
-        "/wiki/Gladiators_(1995_Australian_TV_series)"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Seven Network",
-        "/wiki/Seven_Network"
+        [
+          "Rotorua International Stadium"
+        ],
+        [
+          "/wiki/Rotorua_International_Stadium"
+        ]
       ],
       [
-        "29 April",
-        null
+        [
+          "26,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Rotorua"
+        ],
+        [
+          "/wiki/Rotorua"
+        ]
+      ],
+      [
+        [
+          "Bay of Plenty Rugby Union"
+        ],
+        [
+          "/wiki/Bay_of_Plenty_Rugby_Union"
+        ]
       ]
     ],
     [
       [
-        "Echo Point",
-        "/wiki/Echo_Point_(TV_series)"
+        [
+          "8"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Network Ten",
-        "/wiki/Network_Ten"
+        [
+          "QBE Stadium"
+        ],
+        [
+          "/wiki/QBE_Stadium"
+        ]
       ],
       [
-        "1 June",
-        null
+        [
+          "25,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Albany"
+        ],
+        [
+          "/wiki/Albany,_New_Zealand"
+        ]
+      ],
+      [
+        [
+          "North Harbour Rugby Union",
+          "Blues"
+        ],
+        [
+          "/wiki/North_Harbour_Rugby_Union",
+          "/wiki/Blues_(Super_rugby_franchise)"
+        ]
       ]
     ],
     [
       [
-        "Correlli",
-        "/wiki/Correlli"
+        [
+          "14"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ABC TV",
-        "/wiki/ABC1"
+        [
+          "Rugby Park Stadium"
+        ],
+        [
+          "/wiki/Rugby_Park_Stadium"
+        ]
       ],
       [
-        "1 July",
-        null
+        [
+          "18,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Invercargill"
+        ],
+        [
+          "/wiki/Invercargill"
+        ]
+      ],
+      [
+        [
+          "Southland Rugby"
+        ],
+        [
+          "/wiki/Southland_Rugby"
+        ]
       ]
     ],
     [
       [
-        "Glad Rags",
-        "/wiki/Glad_Rags_(TV_series)"
+        [
+          "10"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nine Network",
-        "/wiki/Nine_Network"
+        [
+          "Owen Delany Park"
+        ],
+        [
+          "/wiki/Owen_Delany_Park"
+        ]
       ],
       [
-        "3 July",
-        null
+        [
+          "20,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Taupo"
+        ],
+        [
+          "/wiki/Taupo"
+        ]
+      ],
+      [
+        [
+          "King Country Rugby Union",
+          "Northern Districts Knights"
+        ],
+        [
+          "/wiki/King_Country_Rugby_Football_Union",
+          "/wiki/Northern_Districts_Knights"
+        ]
       ]
     ],
     [
       [
-        "Insight",
-        "/wiki/Insight_(Australian_TV_program)"
+        [
+          "16"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "SBS TV",
-        "/wiki/SBS_Television"
+        [
+          "CET Arena"
+        ],
+        [
+          "/wiki/Arena_Manawatu"
+        ]
       ],
       [
-        "6 July",
-        null
+        [
+          "15,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Palmerston North"
+        ],
+        [
+          "/wiki/Palmerston_North"
+        ]
+      ],
+      [
+        [
+          "Manawatu Turbos",
+          "Hurricanes"
+        ],
+        [
+          "/wiki/Manawatu_Turbos",
+          "/wiki/Hurricanes_(Super_rugby_franchise)"
+        ]
       ]
     ],
     [
       [
-        "Cheez TV",
-        "/wiki/Cheez_TV"
+        [
+          "11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Network Ten",
-        "/wiki/Network_Ten"
+        [
+          "ASB Baypark Stadium"
+        ],
+        [
+          "/wiki/Baypark_Stadium"
+        ]
       ],
       [
-        "10 July",
-        null
+        [
+          "19,800"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Mount Maunganui"
+        ],
+        [
+          "/wiki/Mount_Maunganui"
+        ]
+      ],
+      [
+        [
+          "Bay of Plenty Rugby Union"
+        ],
+        [
+          "/wiki/Bay_of_Plenty_Rugby_Union"
+        ]
       ]
     ],
     [
       [
-        "Weddings",
-        "/wiki/HTTP_404"
+        [
+          "9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nine Network",
-        "/wiki/Nine_Network"
+        [
+          "McLean Park"
+        ],
+        [
+          "/wiki/McLean_Park"
+        ]
       ],
       [
-        "19 July",
-        null
+        [
+          "23,700"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Napier"
+        ],
+        [
+          "/wiki/Napier,_New_Zealand"
+        ]
+      ],
+      [
+        [
+          "Hawke's Bay Rugby Union",
+          "Central Districts Stags"
+        ],
+        [
+          "/wiki/Hawke%27s_Bay_Rugby_Union",
+          "/wiki/Central_Districts_Stags"
+        ]
       ]
     ],
     [
       [
-        "Blue Murder",
-        "/wiki/Blue_Murder_(miniseries)"
+        [
+          "13"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "ABC TV",
-        "/wiki/ABC1"
+        [
+          "Trafalgar Park"
+        ],
+        [
+          "/wiki/Trafalgar_Park,_Nelson"
+        ]
       ],
       [
-        "14 September",
-        null
+        [
+          "18,000"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Nelson"
+        ],
+        [
+          "/wiki/Nelson,_New_Zealand"
+        ]
+      ],
+      [
+        [
+          "Tasman Rugby Union"
+        ],
+        [
+          "/wiki/Tasman_Rugby_Union"
+        ]
       ]
     ],
     [
       [
-        "Spellbinder",
-        "/wiki/Spellbinder_(TV_series)"
+        [
+          "15"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nine Network",
-        "/wiki/Nine_Network"
+        [
+          "AMI Stadium"
+        ],
+        [
+          "/wiki/Rugby_League_Park"
+        ]
       ],
       [
-        "25 September",
-        null
-      ]
-    ],
-    [
-      [
-        "RPA",
-        "/wiki/RPA_(TV_series)"
+        [
+          "17,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Nine Network",
-        "/wiki/Nine_Network"
+        [
+          "Christchurch"
+        ],
+        [
+          "/wiki/Christchurch"
+        ]
       ],
       [
-        "28 September",
-        null
-      ]
-    ],
-    [
-      [
-        "Lizzie's Library",
-        "/wiki/Lizzie%27s_Library"
-      ],
-      [
-        "ABC TV",
-        "/wiki/ABC_Television"
-      ],
-      [
-        "6 November",
-        null
-      ]
-    ],
-    [
-      [
-        "Face to Face",
-        "/wiki/Face_to_Face_(Australian_TV_series)"
-      ],
-      [
-        "Seven Network",
-        "/wiki/Seven_Network"
-      ],
-      [
-        "19 November",
-        null
-      ]
-    ],
-    [
-      [
-        "Yamba's Playtime",
-        "/wiki/Yamba%27s_Playtime"
-      ],
-      [
-        "Imparja Television",
-        "/wiki/Imparja_Television"
-      ],
-      [
-        "1995",
-        null
+        [
+          "Crusaders",
+          "Canterbury Rugby Football Union"
+        ],
+        [
+          "/wiki/Crusaders_(rugby)",
+          "/wiki/Canterbury_Rugby_Football_Union"
+        ]
       ]
     ]
   ],

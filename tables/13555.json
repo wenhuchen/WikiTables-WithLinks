@@ -1,383 +1,725 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Mr._Basketball_of_Michigan",
-  "title": "Mr. Basketball of Michigan",
+  "url": "https://en.wikipedia.org/wiki/Timeline_of_programming_languages",
+  "title": "Timeline of programming languages",
   "header": [
     [
-      "Year",
-      null
+      [
+        "Year"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Winner",
-      null
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "High school",
-      null
+      [
+        "Chief developer, company"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "University",
-      null
+      [
+        "Predecessor(s)"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1980",
-        null
+        [
+          "1960"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tim McCormick",
-        "/wiki/Tim_McCormick"
+        [
+          "ALGOL 60"
+        ],
+        [
+          "/wiki/ALGOL_60"
+        ]
       ],
       [
-        "Clarkston",
-        "/wiki/Clarkston_High_School_(Michigan)"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Michigan",
-        "/wiki/Michigan_Wolverines_men%27s_basketball"
+        [
+          "ALGOL 58"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1979",
-        null
+        [
+          "1960"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jay Smith",
-        "/wiki/Jay_Smith_(basketball)"
+        [
+          "COBOL 61"
+        ],
+        [
+          "/wiki/COBOL"
+        ]
       ],
       [
-        "Mio AuSable High School",
-        null
+        [
+          "CODASYL"
+        ],
+        [
+          "/wiki/CODASYL"
+        ]
       ],
       [
-        "Bowling Green,Saginaw Valley State",
-        "/wiki/Bowling_Green_Falcons_men%27s_basketball /wiki/Saginaw_Valley_State_Cardinals"
+        [
+          "FLOW-MATIC, COMTRAN"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1978",
-        null
+        [
+          "1961"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Trent Tucker",
-        "/wiki/Trent_Tucker"
+        [
+          "COMIT"
+        ],
+        [
+          "/wiki/COMIT"
+        ]
       ],
       [
-        "Flint Northwestern",
-        "/wiki/Flint_Northwestern_High_School"
+        [
+          "Victor Yngve"
+        ],
+        [
+          "/wiki/Victor_Yngve"
+        ]
       ],
       [
-        "Minnesota",
-        "/wiki/Minnesota_Golden_Gophers_men%27s_basketball"
+        [
+          "none (unique language)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1977",
-        null
+        [
+          "1962"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Earvin \"Magic\" Johnson",
-        "/wiki/Earvin_Johnson"
+        [
+          "FORTRAN IV"
+        ],
+        [
+          "/wiki/Fortran"
+        ]
       ],
       [
-        "Lansing Everett",
-        "/wiki/Everett_High_School_(Michigan)"
+        [
+          "IBM"
+        ],
+        [
+          "/wiki/IBM"
+        ]
       ],
       [
-        "Michigan State",
-        "/wiki/Michigan_State_Spartans_men%27s_basketball"
+        [
+          "FORTRAN II"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1976",
-        null
+        [
+          "1962"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stuart House",
-        "/wiki/HTTP_404"
+        [
+          "APL"
+        ],
+        [
+          "/wiki/APL_(programming_language)"
+        ]
       ],
       [
-        "Detroit Denby",
-        null
+        [
+          "Kenneth E. Iverson"
+        ],
+        [
+          "/wiki/Kenneth_E._Iverson"
+        ]
       ],
       [
-        "Washington State",
-        "/wiki/Washington_State_Cougars_men%27s_basketball"
+        [
+          "none (unique language)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1975",
-        null
+        [
+          "1962"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bruce Flowers",
-        "/wiki/Bruce_Flowers"
+        [
+          "Simula"
+        ],
+        [
+          "/wiki/Simula"
+        ]
       ],
       [
-        "Berkley",
-        "/wiki/Berkley_High_School"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Notre Dame",
-        "/wiki/Notre_Dame_Fighting_Irish_men%27s_basketball"
+        [
+          "ALGOL 60"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1974",
-        null
+        [
+          "1962"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tony Smith",
-        null
+        [
+          "SNOBOL"
+        ],
+        [
+          "/wiki/SNOBOL"
+        ]
       ],
       [
-        "Saginaw",
-        "/wiki/Saginaw_High_School"
+        [
+          "Ralph Griswold"
+        ],
+        [
+          "/wiki/Ralph_Griswold"
+        ]
       ],
       [
-        "Nevada-Las Vegas",
-        "/wiki/UNLV_Runnin%27_Rebels_men%27s_basketball"
+        [
+          "FORTRAN II, COMIT"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1973",
-        null
+        [
+          "1963"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tom LaGarde",
-        "/wiki/Tom_LaGarde"
+        [
+          "CPL"
+        ],
+        [
+          "/wiki/Combined_Programming_Language"
+        ]
       ],
       [
-        "Detroit Catholic Central",
-        "/wiki/Detroit_Catholic_Central_High_School"
+        [
+          "Christopher Strachey"
+        ],
+        [
+          "/wiki/Christopher_Strachey"
+        ]
       ],
       [
-        "North Carolina",
-        "/wiki/North_Carolina_Tar_Heels_men%27s_basketball"
+        [
+          "ALGOL 60"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1972",
-        null
+        [
+          "1963"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Larry Fogle",
-        "/wiki/Larry_Fogle"
+        [
+          "SNOBOL"
+        ],
+        [
+          "/wiki/SNOBOL"
+        ]
       ],
       [
-        "Detroit Cooley",
-        "/wiki/Cooley_High_School"
+        [
+          "Griswold"
+        ],
+        [
+          "/wiki/Ralph_Griswold"
+        ]
       ],
       [
-        "Canisius",
-        "/wiki/Canisius_Golden_Griffins_men%27s_basketball"
+        [
+          "SNOBOL"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1971",
-        null
+        [
+          "1963"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Michael \"Campy\" Russell",
-        "/wiki/Campy_Russell"
+        [
+          "ALGOL 68"
+        ],
+        [
+          "/wiki/ALGOL_68"
+        ]
       ],
       [
-        "Pontiac Central",
-        "/wiki/Pontiac_Central_High_School"
+        [
+          "Adriaan van Wijngaarden"
+        ],
+        [
+          "/wiki/Adriaan_van_Wijngaarden"
+        ]
       ],
       [
-        "Michigan",
-        "/wiki/Michigan_Wolverines_men%27s_basketball"
+        [
+          "ALGOL 60"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1970",
-        null
+        [
+          "1963"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rick Drewitz",
-        null
+        [
+          "JOSS I"
+        ],
+        [
+          "/wiki/JOSS"
+        ]
       ],
       [
-        "Garden City West",
-        "/wiki/Garden_City_High_School_(Michigan)"
+        [
+          "RAND"
+        ],
+        [
+          "/wiki/RAND_Corporation"
+        ]
       ],
       [
-        "Kentucky",
-        "/wiki/Kentucky_Wildcats_men%27s_basketball"
+        [
+          "ALGOL 58"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1969",
-        null
+        [
+          "1964"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ernie Johnson",
-        null
+        [
+          "MIMIC"
+        ],
+        [
+          "/wiki/MIMIC"
+        ]
       ],
       [
-        "Grand Rapids Ottawa Hills",
-        "/wiki/Ottawa_Hills_High_School_(Michigan)"
+        [
+          "H. E. Petersen, et al."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Michigan",
-        "/wiki/Michigan_Wolverines_men%27s_basketball"
+        [
+          "MIDAS"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1968",
-        null
+        [
+          "1964"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ralph Simpson",
-        "/wiki/Ralph_Simpson"
+        [
+          "COWSEL"
+        ],
+        [
+          "/wiki/COWSEL"
+        ]
       ],
       [
-        "Detroit Pershing",
-        "/wiki/Pershing_High_School"
+        [
+          "Rod Burstall",
+          "Robin Popplestone"
+        ],
+        [
+          "/wiki/Rod_Burstall",
+          "/wiki/Robin_Popplestone"
+        ]
       ],
       [
-        "Michigan State",
-        "/wiki/Michigan_State_Spartans_men%27s_basketball"
+        [
+          "CPL, LISP"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1967",
-        null
+        [
+          "1964"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Spencer Haywood",
-        "/wiki/Spencer_Haywood"
+        [
+          "PL/I"
+        ],
+        [
+          "/wiki/PL/I"
+        ]
       ],
       [
-        "Detroit Pershing",
-        "/wiki/Pershing_High_School"
+        [
+          "IBM"
+        ],
+        [
+          "/wiki/IBM"
+        ]
       ],
       [
-        "University of Detroit",
-        "/wiki/University_of_Detroit_Mercy"
+        [
+          "ALGOL 60, COBOL, FORTRAN"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1966",
-        null
+        [
+          "1964"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rudy Tomjanovich",
-        "/wiki/Rudy_Tomjanovich"
+        [
+          "BASIC"
+        ],
+        [
+          "/wiki/BASIC"
+        ]
       ],
       [
-        "Hamtramck",
-        "/wiki/Hamtramck_High_School"
+        [
+          "John George Kemeny",
+          "Thomas Eugene Kurtz",
+          "Dartmouth College"
+        ],
+        [
+          "/wiki/John_George_Kemeny",
+          "/wiki/Thomas_Eugene_Kurtz",
+          "/wiki/Dartmouth_College"
+        ]
       ],
       [
-        "Michigan",
-        "/wiki/Michigan_Wolverines_men%27s_basketball"
+        [
+          "FORTRAN II, JOSS"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1965",
-        null
+        [
+          "1964"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "L. C. Bowen",
-        null
+        [
+          "IBM RPG"
+        ],
+        [
+          "/wiki/IBM_RPG"
+        ]
       ],
       [
-        "Benton Harbor",
-        "/wiki/Benton_Harbor_High_School"
+        [
+          "IBM"
+        ],
+        [
+          "/wiki/IBM"
+        ]
       ],
       [
-        "Bradley",
-        "/wiki/Bradley_Braves_men%27s_basketball"
+        [
+          "FARGO"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1964",
-        null
+        [
+          "1964"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Willie Betts",
-        null
+        [
+          "Mark-IV"
+        ],
+        [
+          "/wiki/MARK_IV_(software)"
+        ]
       ],
       [
-        "River Rouge",
-        "/wiki/River_Rouge_High_School"
+        [
+          "Informatics"
+        ],
+        [
+          "/wiki/Sterling_Software"
+        ]
       ],
       [
-        "Bradley",
-        "/wiki/Bradley_Braves_men%27s_basketball"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1963",
-        null
+        [
+          "1964"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Craig Dill",
-        "/wiki/Craig_Dill"
+        [
+          "Speakeasy-2"
+        ],
+        [
+          "/wiki/Speakeasy_(computational_environment)"
+        ]
       ],
       [
-        "Saginaw Arthur Hill",
-        "/wiki/Arthur_Hill_High_School"
+        [
+          "Argonne National Laboratory"
+        ],
+        [
+          "/wiki/Argonne_National_Laboratory"
+        ]
       ],
       [
-        "Michigan",
-        "/wiki/Michigan_Wolverines_men%27s_basketball"
+        [
+          "Speakeasy"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1962",
-        null
+        [
+          "1964"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Ernie Thompson",
-        null
+        [
+          "TRAC"
+        ],
+        [
+          "/wiki/TRAC_(programming_language)"
+        ]
       ],
       [
-        "Saginaw",
-        "/wiki/Saginaw_High_School"
+        [
+          "Calvin Mooers"
+        ],
+        [
+          "/wiki/Calvin_Mooers"
+        ]
       ],
       [
-        "Bradley",
-        "/wiki/Bradley_Braves_men%27s_basketball"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1961",
-        null
+        [
+          "1964"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Reggie Harding",
-        "/wiki/Reggie_Harding"
+        [
+          "P\u2032\u2032"
+        ],
+        [
+          "/wiki/P%E2%80%B2%E2%80%B2"
+        ]
       ],
       [
-        "Detroit Eastern",
-        "/wiki/Martin_Luther_King_High_School_(Detroit)"
+        [
+          "Corrado B\u00f6hm"
+        ],
+        [
+          "/wiki/Corrado_B%C3%B6hm"
+        ]
       ],
       [
-        "None",
-        null
+        [
+          "none (unique language)"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

@@ -1,554 +1,926 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2002_San_Marino_Grand_Prix",
-  "title": "2002 San Marino Grand Prix",
+  "url": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+  "title": "Dow Jones Industrial Average",
   "header": [
     [
-      "Pos",
-      null
+      [
+        "Company"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "No",
-      null
+      [
+        "Exchange"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Driver",
-      null
+      [
+        "Symbol"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Constructor",
-      null
+      [
+        "Industry"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Lap",
-      null
-    ],
-    [
-      "Gap",
-      null
+      [
+        "Date Added"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "3M"
+        ],
+        [
+          "/wiki/3M"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "Michael Schumacher",
-        "/wiki/Michael_Schumacher"
+        [
+          "NYSE",
+          "MMM"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "Ferrari",
-        "/wiki/Scuderia_Ferrari"
+        [
+          "Conglomerate"
+        ],
+        [
+          "/wiki/Conglomerate_(company)"
+        ]
       ],
       [
-        "1:21.091",
-        null
-      ],
-      [
-        "\u2014",
-        null
+        [
+          "1976-08-09"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "American Express"
+        ],
+        [
+          "/wiki/American_Express"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "Rubens Barrichello",
-        "/wiki/Rubens_Barrichello"
+        [
+          "NYSE",
+          "AXP"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "Ferrari",
-        "/wiki/Scuderia_Ferrari"
+        [
+          "Financial services"
+        ],
+        [
+          "/wiki/Financial_services"
+        ]
       ],
       [
-        "1:21.155",
-        null
-      ],
-      [
-        "+0.064",
-        null
+        [
+          "1982-08-30"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "Apple Inc."
+        ],
+        [
+          "/wiki/Apple_Inc."
+        ]
       ],
       [
-        "5",
-        null
+        [
+          "NASDAQ"
+        ],
+        [
+          "/wiki/NASDAQ"
+        ]
       ],
       [
-        "Ralf Schumacher",
-        "/wiki/Ralf_Schumacher"
+        [
+          "AAPL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Williams,BMW",
-        "/wiki/Williams_Grand_Prix_Engineering /wiki/BMW_in_Formula_One"
+        [
+          "Information technology"
+        ],
+        [
+          "/wiki/Information_technology"
+        ]
       ],
       [
-        "1:21.476",
-        null
-      ],
-      [
-        "+0.385",
-        null
+        [
+          "2015-03-19"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "Boeing"
+        ],
+        [
+          "/wiki/Boeing"
+        ]
       ],
       [
-        "6",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "Juan Pablo Montoya",
-        "/wiki/Juan_Pablo_Montoya"
+        [
+          "NYSE",
+          "BA"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "Williams,BMW",
-        "/wiki/Williams_Grand_Prix_Engineering /wiki/BMW_in_Formula_One"
+        [
+          "Aerospace manufacturer",
+          "Arms industry"
+        ],
+        [
+          "/wiki/Aerospace_manufacturer",
+          "/wiki/Arms_industry"
+        ]
       ],
       [
-        "1:21.605",
-        null
-      ],
-      [
-        "+0.514",
-        null
+        [
+          "1987-03-12"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Caterpillar Inc."
+        ],
+        [
+          "/wiki/Caterpillar_Inc."
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "Kimi R\u00e4ikk\u00f6nen",
-        "/wiki/Kimi_R%C3%A4ikk%C3%B6nen"
+        [
+          "NYSE",
+          "CAT"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "McLaren,Mercedes",
-        "/wiki/McLaren /wiki/Mercedes_AMG_High_Performance_Powertrains"
+        [
+          "Construction",
+          "Mining"
+        ],
+        [
+          "/wiki/Heavy_equipment_(construction)",
+          "/wiki/Mining"
+        ]
       ],
       [
-        "1:22.104",
-        null
-      ],
-      [
-        "+1.013",
-        null
+        [
+          "1991-05-06"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "Chevron Corporation"
+        ],
+        [
+          "/wiki/Chevron_Corporation"
+        ]
       ],
       [
-        "3",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "David Coulthard",
-        "/wiki/David_Coulthard"
+        [
+          "NYSE",
+          "CVX"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "McLaren,Mercedes",
-        "/wiki/McLaren /wiki/Mercedes_AMG_High_Performance_Powertrains"
+        [
+          "Petroleum industry"
+        ],
+        [
+          "/wiki/Petroleum_industry"
+        ]
       ],
       [
-        "1:22.490",
-        null
-      ],
-      [
-        "+1.399",
-        null
+        [
+          "2008-02-19"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "Cisco Systems"
+        ],
+        [
+          "/wiki/Cisco_Systems"
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "NASDAQ"
+        ],
+        [
+          "/wiki/NASDAQ"
+        ]
       ],
       [
-        "Nick Heidfeld",
-        "/wiki/Nick_Heidfeld"
+        [
+          "CSCO"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sauber,Petronas",
-        "/wiki/Sauber /wiki/Sauber_Petronas_Engineering"
+        [
+          "Information technology"
+        ],
+        [
+          "/wiki/Information_technology"
+        ]
       ],
       [
-        "1:22.767",
-        null
-      ],
-      [
-        "+1.676",
-        null
+        [
+          "2009-06-08"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "The Coca-Cola Company"
+        ],
+        [
+          "/wiki/The_Coca-Cola_Company"
+        ]
       ],
       [
-        "14",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "Jarno Trulli",
-        "/wiki/Jarno_Trulli"
+        [
+          "NYSE",
+          "KO"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "Renault",
-        "/wiki/Renault_in_Formula_One"
+        [
+          "Food industry"
+        ],
+        [
+          "/wiki/Food_industry"
+        ]
       ],
       [
-        "1:22.833",
-        null
-      ],
-      [
-        "+1.742",
-        null
+        [
+          "1987-03-12"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "Dow Inc."
+        ],
+        [
+          "/wiki/Dow_Inc."
+        ]
       ],
       [
-        "15",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "Jenson Button",
-        "/wiki/Jenson_Button"
+        [
+          "NYSE",
+          "DOW"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "Renault",
-        "/wiki/Renault_in_Formula_One"
+        [
+          "Chemical industry"
+        ],
+        [
+          "/wiki/Chemical_industry"
+        ]
       ],
       [
-        "1:22.857",
-        null
-      ],
-      [
-        "+1.766",
-        null
+        [
+          "2019-04-02"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "ExxonMobil"
+        ],
+        [
+          "/wiki/ExxonMobil"
+        ]
       ],
       [
-        "11",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "Jacques Villeneuve",
-        "/wiki/Jacques_Villeneuve"
+        [
+          "NYSE",
+          "XOM"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "BAR,Honda",
-        "/wiki/British_American_Racing /wiki/Honda_in_Formula_One"
+        [
+          "Petroleum industry"
+        ],
+        [
+          "/wiki/Petroleum_industry"
+        ]
       ],
       [
-        "1:23.116",
-        null
-      ],
-      [
-        "+2.025",
-        null
+        [
+          "1928-10-01"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "11",
-        null
+        [
+          "Goldman Sachs"
+        ],
+        [
+          "/wiki/Goldman_Sachs"
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "Felipe Massa",
-        "/wiki/Felipe_Massa"
+        [
+          "NYSE",
+          "GS"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "Sauber,Petronas",
-        "/wiki/Sauber /wiki/Sauber_Petronas_Engineering"
+        [
+          "Financial services"
+        ],
+        [
+          "/wiki/Financial_services"
+        ]
       ],
       [
-        "1:23.681",
-        null
-      ],
-      [
-        "+2.590",
-        null
+        [
+          "2013-09-20"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "12",
-        null
+        [
+          "The Home Depot"
+        ],
+        [
+          "/wiki/The_Home_Depot"
+        ]
       ],
       [
-        "12",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "Olivier Panis",
-        "/wiki/Olivier_Panis"
+        [
+          "NYSE",
+          "HD"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "BAR,Honda",
-        "/wiki/British_American_Racing /wiki/Honda_in_Formula_One"
+        [
+          "Retailing"
+        ],
+        [
+          "/wiki/Retailing"
+        ]
       ],
       [
-        "1:23.821",
-        null
-      ],
-      [
-        "+2.730",
-        null
+        [
+          "1999-11-01"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "13",
-        null
+        [
+          "IBM"
+        ],
+        [
+          "/wiki/IBM"
+        ]
       ],
       [
-        "20",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "Heinz-Harald Frentzen",
-        "/wiki/Heinz-Harald_Frentzen"
+        [
+          "NYSE",
+          "IBM"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "Arrows,Cosworth",
-        "/wiki/Arrows_Grand_Prix_International /wiki/Cosworth"
+        [
+          "Information technology"
+        ],
+        [
+          "/wiki/Information_technology"
+        ]
       ],
       [
-        "1:23.862",
-        null
-      ],
-      [
-        "+2.771",
-        null
+        [
+          "1979-06-29"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "14",
-        null
+        [
+          "Intel"
+        ],
+        [
+          "/wiki/Intel"
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "NASDAQ"
+        ],
+        [
+          "/wiki/NASDAQ"
+        ]
       ],
       [
-        "Takuma Sato",
-        "/wiki/Takuma_Sato"
+        [
+          "INTC"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jordan,Honda",
-        "/wiki/Jordan_Grand_Prix /wiki/Honda_in_Formula_One"
+        [
+          "Information technology"
+        ],
+        [
+          "/wiki/Information_technology"
+        ]
       ],
       [
-        "1:24.050",
-        null
-      ],
-      [
-        "+2.959",
-        null
+        [
+          "1999-11-01"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "15",
-        null
+        [
+          "Johnson & Johnson"
+        ],
+        [
+          "/wiki/Johnson_%26_Johnson"
+        ]
       ],
       [
-        "9",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "Giancarlo Fisichella",
-        "/wiki/Giancarlo_Fisichella"
+        [
+          "NYSE",
+          "JNJ"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "Jordan,Honda",
-        "/wiki/Jordan_Grand_Prix /wiki/Honda_in_Formula_One"
+        [
+          "Pharmaceutical industry"
+        ],
+        [
+          "/wiki/Pharmaceutical_industry"
+        ]
       ],
       [
-        "1:24.253",
-        null
-      ],
-      [
-        "+3.162",
-        null
+        [
+          "1997-03-17"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "16",
-        null
+        [
+          "JPMorgan Chase"
+        ],
+        [
+          "/wiki/JPMorgan_Chase"
+        ]
       ],
       [
-        "24",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "Mika Salo",
-        "/wiki/Mika_Salo"
+        [
+          "NYSE",
+          "JPM"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "Toyota",
-        "/wiki/Toyota_Racing_(Formula_One_team)"
+        [
+          "Financial services"
+        ],
+        [
+          "/wiki/Financial_services"
+        ]
       ],
       [
-        "1:24.328",
-        null
-      ],
-      [
-        "+3.237",
-        null
+        [
+          "1991-05-06"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "17",
-        null
+        [
+          "McDonald's"
+        ],
+        [
+          "/wiki/McDonald%27s"
+        ]
       ],
       [
-        "25",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "Allan McNish",
-        "/wiki/Allan_McNish"
+        [
+          "NYSE",
+          "MCD"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "Toyota",
-        "/wiki/Toyota_Racing_(Formula_One_team)"
+        [
+          "Food industry"
+        ],
+        [
+          "/wiki/Food_industry"
+        ]
       ],
       [
-        "1:24.331",
-        null
-      ],
-      [
-        "+3.240",
-        null
+        [
+          "1985-10-30"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "18",
-        null
+        [
+          "Merck & Co."
+        ],
+        [
+          "/wiki/Merck_%26_Co."
+        ]
       ],
       [
-        "16",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "Eddie Irvine",
-        "/wiki/Eddie_Irvine"
+        [
+          "NYSE",
+          "MRK"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "Jaguar,Cosworth",
-        "/wiki/Jaguar_Racing /wiki/Cosworth"
+        [
+          "Pharmaceutical industry"
+        ],
+        [
+          "/wiki/Pharmaceutical_industry"
+        ]
       ],
       [
-        "1:24.579",
-        null
-      ],
-      [
-        "+3.488",
-        null
+        [
+          "1979-06-29"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "19",
-        null
+        [
+          "Microsoft"
+        ],
+        [
+          "/wiki/Microsoft"
+        ]
       ],
       [
-        "23",
-        null
+        [
+          "NASDAQ"
+        ],
+        [
+          "/wiki/NASDAQ"
+        ]
       ],
       [
-        "Mark Webber",
-        "/wiki/Mark_Webber"
+        [
+          "MSFT"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Minardi,Asiatech",
-        "/wiki/Minardi /wiki/Asiatech"
+        [
+          "Information technology"
+        ],
+        [
+          "/wiki/Information_technology"
+        ]
       ],
       [
-        "1:24.790",
-        null
-      ],
-      [
-        "+3.699",
-        null
+        [
+          "1999-11-01"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "20",
-        null
+        [
+          "Nike"
+        ],
+        [
+          "/wiki/Nike,_Inc."
+        ]
       ],
       [
-        "21",
-        null
+        [
+          "NYSE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange"
+        ]
       ],
       [
-        "Enrique Bernoldi",
-        "/wiki/Enrique_Bernoldi"
+        [
+          "NYSE",
+          "NKE"
+        ],
+        [
+          "/wiki/New_York_Stock_Exchange",
+          null
+        ]
       ],
       [
-        "Arrows,Cosworth",
-        "/wiki/Arrows_Grand_Prix_International /wiki/Cosworth"
+        [
+          "Apparel"
+        ],
+        [
+          "/wiki/Apparel"
+        ]
       ],
       [
-        "1:24.808",
-        null
-      ],
-      [
-        "+3.717",
-        null
+        [
+          "2013-09-20"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "Since April 2, 2019, the Dow Jones Industrial Average has consisted of the following companies:",
   "idx": 12094
 }

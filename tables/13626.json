@@ -1,395 +1,759 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Taqramiut_Nipingat",
-  "title": "Taqramiut Nipingat",
+  "url": "https://en.wikipedia.org/wiki/Trafford_Metropolitan_Borough_Council_elections",
+  "title": "Trafford Metropolitan Borough Council elections",
   "header": [
     [
-      "City of license",
-      "/wiki/City_of_license"
+      [
+        "Code"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Identifier",
-      null
+      [
+        "Ward name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Frequency",
-      "/wiki/Frequency"
+      [
+        "Localities covered (approximate)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Power",
-      "/wiki/Nominal_power"
-    ],
-    [
-      "Class",
-      "/wiki/List_of_North_American_broadcast_station_classes"
-    ],
-    [
-      "RECNet",
-      null
+      [
+        "Population"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Akulivik",
-        "/wiki/Akulivik"
+        [
+          "00BUFY"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VF2445",
-        null
+        [
+          "Altrincham"
+        ],
+        [
+          "/wiki/Altrincham_(ward)"
+        ]
       ],
       [
-        "94.1",
-        null
+        [
+          "Altrincham"
+        ],
+        [
+          "/wiki/Altrincham"
+        ]
       ],
       [
-        "watts",
-        "/wiki/Watt"
-      ],
-      [
-        "LP",
-        null
-      ],
-      [
-        "Query",
-        "/wiki/HTTP_404"
+        [
+          "11,873"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Aupaluk",
-        "/wiki/Aupaluk"
+        [
+          "00BUFZ"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VF2434",
-        null
+        [
+          "Ashton upon Mersey"
+        ],
+        [
+          "/wiki/Ashton_upon_Mersey_(ward)"
+        ]
       ],
       [
-        "94.1",
-        null
+        [
+          "Sale"
+        ],
+        [
+          "/wiki/Sale,_Greater_Manchester"
+        ]
       ],
       [
-        "19 watts",
-        null
-      ],
-      [
-        "LP",
-        null
-      ],
-      [
-        "Query",
-        "/wiki/HTTP_404"
+        [
+          "9,726"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Inukjuak",
-        "/wiki/Inukjuak"
+        [
+          "00BUGA"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VF2441",
-        null
+        [
+          "Bowdon"
+        ],
+        [
+          "/wiki/Bowdon_(ward)"
+        ]
       ],
       [
-        "94.1",
-        null
+        [
+          "Altrincham",
+          "Bowdon",
+          "Dunham Massey",
+          "Dunham Town",
+          "Warburton"
+        ],
+        [
+          "/wiki/Altrincham",
+          "/wiki/Bowdon,_Greater_Manchester",
+          "/wiki/Dunham_Massey",
+          "/wiki/Dunham_Town",
+          "/wiki/Warburton,_Greater_Manchester"
+        ]
       ],
       [
-        "6 watts",
-        null
-      ],
-      [
-        "LP",
-        null
-      ],
-      [
-        "Query",
-        "/wiki/HTTP_404"
+        [
+          "9,284"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Ivujivik",
-        "/wiki/Ivujivik"
+        [
+          "00BUGB"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VF2447",
-        null
+        [
+          "Broadheath"
+        ],
+        [
+          "/wiki/Broadheath_(ward)"
+        ]
       ],
       [
-        "94.1",
-        null
+        [
+          "Broadheath",
+          "Sale",
+          "Timperley"
+        ],
+        [
+          "/wiki/Broadheath,_Greater_Manchester",
+          "/wiki/Sale,_Greater_Manchester",
+          "/wiki/Timperley"
+        ]
       ],
       [
-        "19 watts",
-        null
-      ],
-      [
-        "LP",
-        null
-      ],
-      [
-        "Query",
-        "/wiki/HTTP_404"
+        [
+          "13,069"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Kangiqsualujjuaq",
-        "/wiki/Kangiqsualujjuaq"
+        [
+          "00BUGC"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VF2443",
-        null
+        [
+          "Brooklands"
+        ],
+        [
+          "/wiki/Brooklands,_(Trafford_ward)"
+        ]
       ],
       [
-        "94.1",
-        null
+        [
+          "Brooklands",
+          "Sale"
+        ],
+        [
+          "/wiki/Brooklands,_Sale",
+          "/wiki/Sale,_Greater_Manchester"
+        ]
       ],
       [
-        "19 watts",
-        null
-      ],
-      [
-        "LP",
-        null
-      ],
-      [
-        "Query",
-        "/wiki/HTTP_404"
+        [
+          "10,572"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Kangiqsujuaq",
-        "/wiki/Kangiqsujuaq"
+        [
+          "00BUGD"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VF2436",
-        null
+        [
+          "Bucklow-St. Martins"
+        ],
+        [
+          "/wiki/Bucklow-St._Martins"
+        ]
       ],
       [
-        "94.1",
-        null
+        [
+          "Carrington",
+          "Partington",
+          "Sale"
+        ],
+        [
+          "/wiki/Carrington,_Greater_Manchester",
+          "/wiki/Partington,_Greater_Manchester",
+          "/wiki/Sale,_Greater_Manchester"
+        ]
       ],
       [
-        "19 watts",
-        null
-      ],
-      [
-        "LP",
-        null
-      ],
-      [
-        "Query",
-        "/wiki/HTTP_404"
+        [
+          "10,540"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Kangirsuk",
-        "/wiki/Kangirsuk"
+        [
+          "00BUGE"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VF2437",
-        null
+        [
+          "Clifford"
+        ],
+        [
+          "/wiki/Clifford_(ward)"
+        ]
       ],
       [
-        "94.1",
-        null
+        [
+          "Old Trafford"
+        ],
+        [
+          "/wiki/Old_Trafford_(district)"
+        ]
       ],
       [
-        "19 watts",
-        null
-      ],
-      [
-        "LP",
-        null
-      ],
-      [
-        "Query",
-        "/wiki/HTTP_404"
+        [
+          "12,003"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Kuujjuaq",
-        "/wiki/Kuujjuaq"
+        [
+          "00BUGF"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VF2439",
-        null
+        [
+          "Davyhulme East"
+        ],
+        [
+          "/wiki/Davyhulme_East"
+        ]
       ],
       [
-        "94.1",
-        null
+        [
+          "Davyhulme",
+          "Dumplington",
+          "Urmston"
+        ],
+        [
+          "/wiki/Davyhulme",
+          "/wiki/Dumplington",
+          "/wiki/Urmston"
+        ]
       ],
       [
-        "21 watts",
-        null
-      ],
-      [
-        "LP",
-        null
-      ],
-      [
-        "Query",
-        "/wiki/HTTP_404"
+        [
+          "9,680"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Kuujjuarapik",
-        "/wiki/Kuujjuarapik"
+        [
+          "00BUGG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VF2438",
-        null
+        [
+          "Davyhulme West"
+        ],
+        [
+          "/wiki/Davyhulme_West"
+        ]
       ],
       [
-        "94.1",
-        null
+        [
+          "Davyhulme",
+          "Flixton"
+        ],
+        [
+          "/wiki/Davyhulme",
+          "/wiki/Flixton,_Greater_Manchester"
+        ]
       ],
       [
-        "19 watts",
-        null
-      ],
-      [
-        "LP",
-        null
-      ],
-      [
-        "Query",
-        "/wiki/HTTP_404"
+        [
+          "10,006"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Puvirnituq",
-        "/wiki/Puvirnituq"
+        [
+          "00BUGH"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VF2442",
-        null
+        [
+          "Flixton"
+        ],
+        [
+          "/wiki/Flixton_(ward)"
+        ]
       ],
       [
-        "94.1",
-        null
+        [
+          "Flixton"
+        ],
+        [
+          "/wiki/Flixton,_Greater_Manchester"
+        ]
       ],
       [
-        "19 watts",
-        null
-      ],
-      [
-        "LP",
-        null
-      ],
-      [
-        "Query",
-        "/wiki/HTTP_404"
+        [
+          "10,828"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Quaqtaq",
-        "/wiki/Quaqtaq"
+        [
+          "00BUGJ"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VF2435",
-        null
+        [
+          "Gorse Hill"
+        ],
+        [
+          "/wiki/Gorse_Hill_(ward)"
+        ]
       ],
       [
-        "94.1",
-        null
+        [
+          "Stretford",
+          "Trafford Park"
+        ],
+        [
+          "/wiki/Stretford",
+          "/wiki/Trafford_Park"
+        ]
       ],
       [
-        "19 watts",
-        null
-      ],
-      [
-        "LP",
-        null
-      ],
-      [
-        "Query",
-        "/wiki/HTTP_404"
+        [
+          "12,171"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Salluit",
-        "/wiki/Salluit"
+        [
+          "00BUGK"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VF2446",
-        null
+        [
+          "Hale Barns"
+        ],
+        [
+          "/wiki/Hale_Barns_(ward)"
+        ]
       ],
       [
-        "94.1",
-        null
+        [
+          "Hale",
+          "Hale Barns",
+          "Timperley"
+        ],
+        [
+          "/wiki/Hale,_Greater_Manchester",
+          "/wiki/Hale_Barns",
+          "/wiki/Timperley"
+        ]
       ],
       [
-        "19 watts",
-        null
-      ],
-      [
-        "LP",
-        null
-      ],
-      [
-        "Query",
-        "/wiki/HTTP_404"
+        [
+          "9,812"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Tasiujaq",
-        "/wiki/Tasiujaq"
+        [
+          "00BUGL"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VF2444",
-        null
+        [
+          "Hale Central"
+        ],
+        [
+          "/wiki/Hale_Central"
+        ]
       ],
       [
-        "94.1",
-        null
+        [
+          "Altrincham",
+          "Hale"
+        ],
+        [
+          "/wiki/Altrincham",
+          "/wiki/Hale,_Greater_Manchester"
+        ]
       ],
       [
-        "23 watts",
-        null
-      ],
-      [
-        "LP",
-        null
-      ],
-      [
-        "Query",
-        "/wiki/HTTP_404"
+        [
+          "10,543"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Umiujaq",
-        "/wiki/Umiujaq"
+        [
+          "00BUGM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "VF2440",
-        null
+        [
+          "Longford"
+        ],
+        [
+          "/wiki/Longford_(ward)"
+        ]
       ],
       [
-        "94.1",
-        null
+        [
+          "Firswood",
+          "Old Trafford",
+          "Stretford"
+        ],
+        [
+          "/wiki/Firswood",
+          "/wiki/Old_Trafford_(district)",
+          "/wiki/Stretford"
+        ]
       ],
       [
-        "25 watts",
-        null
+        [
+          "12,163"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "00BUGN"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "LP",
-        null
+        [
+          "Priory"
+        ],
+        [
+          "/wiki/Priory_(ward)"
+        ]
       ],
       [
-        "Query",
-        "/wiki/HTTP_404"
+        [
+          "Sale"
+        ],
+        [
+          "/wiki/Sale,_Greater_Manchester"
+        ]
+      ],
+      [
+        [
+          "10,917"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "00BUGP"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Sale Moor"
+        ],
+        [
+          "/wiki/Sale_Moor_(ward)"
+        ]
+      ],
+      [
+        [
+          "Sale"
+        ],
+        [
+          "/wiki/Sale,_Greater_Manchester"
+        ]
+      ],
+      [
+        [
+          "10,508"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "00BUGQ"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "St. Mary's"
+        ],
+        [
+          "/wiki/St_Mary%27s_(Trafford_ward)"
+        ]
+      ],
+      [
+        [
+          "Sale"
+        ],
+        [
+          "/wiki/Sale,_Greater_Manchester"
+        ]
+      ],
+      [
+        [
+          "11,795"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "00BUGR"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Stretford"
+        ],
+        [
+          "/wiki/Stretford_(ward)"
+        ]
+      ],
+      [
+        [
+          "Stretford"
+        ],
+        [
+          "/wiki/Stretford"
+        ]
+      ],
+      [
+        [
+          "11,318"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "00BUGS"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Timperley"
+        ],
+        [
+          "/wiki/Timperley_(ward)"
+        ]
+      ],
+      [
+        [
+          "Brooklands",
+          "Timperley"
+        ],
+        [
+          "/wiki/Brooklands,_Manchester",
+          "/wiki/Timperley"
+        ]
+      ],
+      [
+        [
+          "11,201"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "00BUGT"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Urmston"
+        ],
+        [
+          "/wiki/Urmston_(ward)"
+        ]
+      ],
+      [
+        [
+          "Flixton",
+          "Urmston"
+        ],
+        [
+          "/wiki/Flixton,_Greater_Manchester",
+          "/wiki/Urmston"
+        ]
+      ],
+      [
+        [
+          "11,271"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

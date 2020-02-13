@@ -1,272 +1,758 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Norway",
-  "title": "Norway",
+  "url": "https://en.wikipedia.org/wiki/List_of_GM-EMD_locomotives",
+  "title": "List of GM-EMD locomotives",
   "header": [
     [
-      "Number",
-      null
+      [
+        "Model designation"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "County (fylke)",
-      null
+      [
+        "Build year"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Administrative centre",
-      null
+      [
+        "Total produced"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Most populous municipality",
-      null
+      [
+        "AAR wheel arrangement"
+      ],
+      [
+        "/wiki/AAR_wheel_arrangement"
+      ]
     ],
     [
-      "Geographical region",
-      null
+      [
+        "Prime mover"
+      ],
+      [
+        "/wiki/Prime_mover_(locomotive)"
+      ]
+    ],
+    [
+      [
+        "Power output"
+      ],
+      [
+        "/wiki/Horsepower"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "03",
-        null
+        [
+          "TA"
+        ],
+        [
+          "/wiki/EMC_TA"
+        ]
       ],
       [
-        "Oslo",
-        "/wiki/Oslo"
+        [
+          "1937"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "City of Oslo",
-        "/wiki/Oslo"
+        [
+          "6"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Oslo",
-        "/wiki/Oslo"
+        [
+          "B-B"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
       ],
       [
-        "Eastern Norway",
-        "/wiki/Eastern_Norway"
+        [
+          "Winton 201-A"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "hp",
+          "kW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
       ]
     ],
     [
       [
-        "11",
-        null
+        [
+          "EA"
+        ],
+        [
+          "/wiki/EMC_EA/EB"
+        ]
       ],
       [
-        "Rogaland",
-        "/wiki/Rogaland"
+        [
+          "1937\u20131938"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stavanger",
-        "/wiki/Stavanger"
+        [
+          "A units",
+          "B units"
+        ],
+        [
+          "/wiki/A_unit",
+          "/wiki/B_unit"
+        ]
       ],
       [
-        "Stavanger",
-        "/wiki/Stavanger"
+        [
+          "A1A-A1A"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
       ],
       [
-        "Western Norway",
-        "/wiki/Western_Norway"
+        [
+          "DualWinton 201-A"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "hp",
+          "kW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
       ]
     ],
     [
       [
-        "15",
-        null
+        [
+          "E1"
+        ],
+        [
+          "/wiki/EMC_E1"
+        ]
       ],
       [
-        "M\u00f8re og Romsdal",
-        "/wiki/M%C3%B8re_og_Romsdal"
+        [
+          "1937\u20131938"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Molde",
-        "/wiki/Molde"
+        [
+          "A units",
+          "B units"
+        ],
+        [
+          "/wiki/A_unit",
+          "/wiki/B_unit"
+        ]
       ],
       [
-        "\u00c5lesund",
-        "/wiki/%C3%85lesund"
+        [
+          "A1A-A1A"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
       ],
       [
-        "Western Norway",
-        "/wiki/Western_Norway"
+        [
+          "DualWinton 201-A"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "hp",
+          "kW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
       ]
     ],
     [
       [
-        "18",
-        null
+        [
+          "E2"
+        ],
+        [
+          "/wiki/EMC_E2"
+        ]
       ],
       [
-        "Nordland",
-        "/wiki/Nordland"
+        [
+          "1937"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bod\u00f8",
-        "/wiki/Bod%C3%B8"
+        [
+          "2 ABB sets"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bod\u00f8",
-        "/wiki/Bod%C3%B8"
+        [
+          "A1A-A1A"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
       ],
       [
-        "Northern Norway",
-        "/wiki/Northern_Norway"
+        [
+          "DualWinton 201-A"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "hp",
+          "kW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
       ]
     ],
     [
       [
-        "30",
-        null
+        [
+          "E3"
+        ],
+        [
+          "/wiki/EMC_E3"
+        ]
       ],
       [
-        "Viken",
-        "/wiki/Viken_(county)"
+        [
+          "1938\u20131940"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Oslo,Drammen,Sarpsborg,Moss",
-        "/wiki/Oslo /wiki/Drammen /wiki/Sarpsborg /wiki/Moss"
+        [
+          "A units",
+          "B units"
+        ],
+        [
+          "/wiki/A_unit",
+          "/wiki/B_unit"
+        ]
       ],
       [
-        "B\u00e6rum",
-        "/wiki/B%C3%A6rum"
+        [
+          "A1A-A1A"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
       ],
       [
-        "Eastern Norway",
-        "/wiki/Eastern_Norway"
+        [
+          "EMD 567"
+        ],
+        [
+          "/wiki/EMD_567"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "kW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
       ]
     ],
     [
       [
-        "34",
-        null
+        [
+          "E4"
+        ],
+        [
+          "/wiki/EMC_E4"
+        ]
       ],
       [
-        "Innlandet",
-        "/wiki/Innlandet"
+        [
+          "1938\u20131939"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hamar,Lillehammer",
-        "/wiki/Hamar /wiki/Lillehammer"
+        [
+          "A units",
+          "B units"
+        ],
+        [
+          "/wiki/A_unit",
+          "/wiki/B_unit"
+        ]
       ],
       [
-        "Ringsaker",
-        "/wiki/Ringsaker"
+        [
+          "A1A-A1A"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
       ],
       [
-        "Eastern Norway",
-        "/wiki/Eastern_Norway"
+        [
+          "EMD 567"
+        ],
+        [
+          "/wiki/EMD_567"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "kW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
       ]
     ],
     [
       [
-        "38",
-        null
+        [
+          "AA"
+        ],
+        [
+          "/wiki/EMC_AA"
+        ]
       ],
       [
-        "Vestfold og Telemark",
-        "/wiki/Vestfold_og_Telemark"
+        [
+          "1940"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Skien,T\u00f8nsberg",
-        "/wiki/Skien /wiki/T%C3%B8nsberg"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sandefjord",
-        "/wiki/Sandefjord"
+        [
+          "A1A-3"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
       ],
       [
-        "Eastern Norway",
-        "/wiki/Eastern_Norway"
+        [
+          "EMD 567"
+        ],
+        [
+          "/wiki/EMD_567"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "kW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
       ]
     ],
     [
       [
-        "42",
-        null
+        [
+          "AB6"
+        ],
+        [
+          "/wiki/EMC_AB6"
+        ]
       ],
       [
-        "Agder",
-        "/wiki/Agder"
+        [
+          "1940"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kristiansand,Arendal",
-        "/wiki/Kristiansand /wiki/Arendal"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kristiansand",
-        "/wiki/Kristiansand"
+        [
+          "A1A-3",
+          "A1A-A1A"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement",
+          "/wiki/AAR_wheel_arrangement"
+        ]
       ],
       [
-        "Southern Norway",
-        "/wiki/Southern_Norway"
+        [
+          "EMD 567",
+          "EMD 567"
+        ],
+        [
+          "/wiki/EMD_567",
+          "/wiki/EMD_567"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "kW",
+          "hp"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt",
+          "/wiki/Horsepower"
+        ]
       ]
     ],
     [
       [
-        "46",
-        null
+        [
+          "E5"
+        ],
+        [
+          "/wiki/EMD_E5"
+        ]
       ],
       [
-        "Vestland",
-        "/wiki/Vestland"
+        [
+          "1940\u20131941"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Bergen,Leikanger",
-        "/wiki/Bergen /wiki/Leikanger"
+        [
+          "A units",
+          "B units"
+        ],
+        [
+          "/wiki/A_unit",
+          "/wiki/B_unit"
+        ]
       ],
       [
-        "Bergen",
-        "/wiki/Bergen"
+        [
+          "A1A-A1A"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
       ],
       [
-        "Western Norway",
-        "/wiki/Western_Norway"
+        [
+          "DualEMD 567"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "hp",
+          "kW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
       ]
     ],
     [
       [
-        "50",
-        null
+        [
+          "E6"
+        ],
+        [
+          "/wiki/EMD_E6"
+        ]
       ],
       [
-        "Tr\u00f8ndelag",
-        "/wiki/Tr%C3%B8ndelag"
+        [
+          "1939\u20131942"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Steinkjer",
-        "/wiki/Steinkjer"
+        [
+          "A units",
+          "B units"
+        ],
+        [
+          "/wiki/A_unit",
+          "/wiki/B_unit"
+        ]
       ],
       [
-        "Trondheim",
-        "/wiki/Trondheim"
+        [
+          "A1A-A1A"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
       ],
       [
-        "Tr\u00f8ndelag",
-        "/wiki/Tr%C3%B8ndelag"
+        [
+          "EMD 567"
+        ],
+        [
+          "/wiki/EMD_567"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "kW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
       ]
     ],
     [
       [
-        "54",
-        null
+        [
+          "E7"
+        ],
+        [
+          "/wiki/EMD_E7"
+        ]
       ],
       [
-        "Troms og Finnmark",
-        "/wiki/Troms_og_Finnmark"
+        [
+          "1945\u20131949"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Troms\u00f8,Vads\u00f8",
-        "/wiki/Troms%C3%B8 /wiki/Vads%C3%B8"
+        [
+          "A units",
+          "B units"
+        ],
+        [
+          "/wiki/A_unit",
+          "/wiki/B_unit"
+        ]
       ],
       [
-        "Troms\u00f8",
-        "/wiki/Troms%C3%B8"
+        [
+          "A1A-A1A"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
       ],
       [
-        "Northern Norway",
-        "/wiki/Northern_Norway"
+        [
+          "EMD 567"
+        ],
+        [
+          "/wiki/EMD_567"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "kW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "E8"
+        ],
+        [
+          "/wiki/EMD_E8"
+        ]
+      ],
+      [
+        [
+          "1949\u20131954"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "A units",
+          "B units"
+        ],
+        [
+          "/wiki/A_unit",
+          "/wiki/B_unit"
+        ]
+      ],
+      [
+        [
+          "A1A-A1A"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 567"
+        ],
+        [
+          "/wiki/EMD_567"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "kW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "E9"
+        ],
+        [
+          "/wiki/EMD_E9"
+        ]
+      ],
+      [
+        [
+          "1954\u20131964"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "A units",
+          "B units"
+        ],
+        [
+          "/wiki/A_unit",
+          "/wiki/B_unit"
+        ]
+      ],
+      [
+        [
+          "A1A-A1A"
+        ],
+        [
+          "/wiki/AAR_wheel_arrangement"
+        ]
+      ],
+      [
+        [
+          "EMD 567"
+        ],
+        [
+          "/wiki/EMD_567"
+        ]
+      ],
+      [
+        [
+          "hp",
+          "kW"
+        ],
+        [
+          "/wiki/Horsepower",
+          "/wiki/Watt"
+        ]
       ]
     ]
   ],
-  "context": "The counties of Norway are:",
+  "context": "",
   "idx": 3426
 }

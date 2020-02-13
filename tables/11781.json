@@ -1,551 +1,721 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_Russian_films_of_2012",
-  "title": "List of Russian films of 2012",
+  "url": "https://en.wikipedia.org/wiki/List_of_single_sign-on_implementations",
+  "title": "List of single sign-on implementations",
   "header": [
     [
-      "Date",
-      null
+      [
+        "Product Name"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Title",
-      null
+      [
+        "Project/Vendor"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Russian Title",
-      null
+      [
+        "License"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Director",
-      null
-    ],
-    [
-      "Cast",
-      null
-    ],
-    [
-      "Genre(s)",
-      null
+      [
+        "Description"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "December 17, 2011",
-        null
+        [
+          "Accounts & SSO"
+        ],
+        [
+          "/wiki/Accounts_%26_SSO"
+        ]
       ],
       [
-        "Sapsan, I Love You",
-        null
+        [
+          "Nokia",
+          "Intel"
+        ],
+        [
+          "/wiki/Nokia",
+          "/wiki/Intel"
+        ]
       ],
       [
-        "\u0421\u0430\u043f\u0441\u0430\u043d, \u044f \u043b\u044e\u0431\u043b\u044e \u0442\u0435\u0431\u044f",
-        null
+        [
+          "Free software"
+        ],
+        [
+          "/wiki/Free_software"
+        ]
       ],
       [
-        "Igor Abidov",
-        null
-      ],
-      [
-        "Viktor Shuralev Viktoria Zabolotnaya Olga Prikhodko Anastasia Dolgopolova",
-        null
-      ],
-      [
-        "Detective,Melodrama",
-        "/wiki/Detective_film /wiki/Melodrama_film"
+        [
+          "Client-side implementation with plugins for various services/protocols"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "January 2",
-        null
+        [
+          "Active Directory Federation Services"
+        ],
+        [
+          "/wiki/Active_Directory_Federation_Services"
+        ]
       ],
       [
-        "My Boyfriend is an Angel",
-        null
+        [
+          "Microsoft"
+        ],
+        [
+          "/wiki/Microsoft"
+        ]
       ],
       [
-        "\u041c\u043e\u0439 \u043f\u0430\u0440\u0435\u043d\u044c \u2013 \u0430\u043d\u0433\u0435\u043b",
-        "/wiki/HTTP_404"
+        [
+          "Proprietary"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Vera Storozheva",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Artur Smolyaninov,Anna Starshenbaum,Sergei Puskepalis",
-        "/wiki/Artur_Smolyaninov /wiki/HTTP_404 /wiki/Sergei_Puskepalis"
-      ],
-      [
-        "Comedy",
-        null
+        [
+          "Claims-based system and application federation"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "January 5",
-        null
+        [
+          "Aerobase"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "My crazy family",
-        null
+        [
+          "Aerobase"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\u041c\u043e\u044f \u0431\u0435\u0437\u0443\u043c\u043d\u0430\u044f \u0441\u0435\u043c\u044c\u044f",
-        "/wiki/HTTP_404"
+        [
+          "Open source"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Renat Davletyarov",
-        null
-      ],
-      [
-        "Leonid Yarmolnik,Maria Shukshina",
-        "/wiki/Leonid_Yarmolnik /wiki/Maria_Shukshina"
-      ],
-      [
-        "Comedy, Romance",
-        null
+        [
+          "single sign on"
+        ],
+        [
+          "/wiki/Single_sign_on"
+        ]
       ]
     ],
     [
       [
-        "January 19,",
-        null
+        [
+          "Bitium"
+        ],
+        [
+          "/wiki/Bitium"
+        ]
       ],
       [
-        "Stone",
-        "/wiki/Stone_(2012_film)"
+        [
+          "Bitium"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\u041a\u0430\u043c\u0435\u043d\u044c",
-        "/wiki/HTTP_404"
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "Vyacheslav Kaminsky",
-        null
-      ],
-      [
-        "Sergei Svetlakov,Yelena Koreneva",
-        "/wiki/Sergei_Svetlakov /wiki/Yelena_Koreneva"
-      ],
-      [
-        "Thriller, Drama",
-        null
+        [
+          "Enterprise cloud-based identity and access management solution with single sign-on, active directory integration and 2-factor authentication options"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "January 25",
-        null
+        [
+          "Central Authentication Service"
+        ],
+        [
+          "/wiki/Central_Authentication_Service"
+        ]
       ],
       [
-        "Rzhevsky versus Napoleon",
-        "/wiki/Rzhevsky_versus_Napoleon"
+        [
+          "Apereo"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\u0420\u0436\u0435\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0442\u0438\u0432 \u041d\u0430\u043f\u043e\u043b\u0435\u043e\u043d\u0430",
-        "/wiki/HTTP_404"
+        [
+          "Apache 2.0"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
       ],
       [
-        "Marius Weisberg",
-        null
-      ],
-      [
-        "Svetlana Khodchenkova,Mikhail Galustyan",
-        "/wiki/Svetlana_Khodchenkova /wiki/Mikhail_Galustyan"
-      ],
-      [
-        "Parody, Comedy",
-        null
+        [
+          "Protocol and open-source SSO server/client implementation with support for CAS, SAML1, SAML2, OAuth2, SCIM, OpenID Connect and WS-Fed protocols both as an identity provider and a service provider with other auxiliary functions that deal with user consent, access management, impersonation, terms of use, etc. Licensed under Apache 2.0."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "February 2",
-        null
+        [
+          "CA Single Sign-on"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Indifference",
-        null
+        [
+          "Broadcom"
+        ],
+        [
+          "/wiki/Broadcom"
+        ]
       ],
       [
-        "\u0411\u0435\u0437\u0440\u0430\u0437\u043b\u0438\u0447\u0438\u0435",
-        "/wiki/HTTP_404"
+        [
+          "Proprietary"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Oleg Flyanholz",
-        null
-      ],
-      [
-        "Fyodor Bondarchuk,Aleksandr Bashirov",
-        "/wiki/Fyodor_Bondarchuk /wiki/Aleksandr_Bashirov"
-      ],
-      [
-        "Lyric comedy",
-        null
+        [
+          "web access management system that enables user authentication and secure Internet SSO (single sign-on), policy-driven authorization, federation of identities (SAML and OIDC) C, and complete auditing of all access to the web applications it protects."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "February 14",
-        null
+        [
+          "Crowd"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cinderella",
-        "/wiki/Cinderella_(2012_film)"
+        [
+          "Atlassian"
+        ],
+        [
+          "/wiki/Atlassian"
+        ]
       ],
       [
-        "Z\u043e\u043b\u0443\u0448\u043a\u0430",
-        "/wiki/HTTP_404"
+        [
+          "Proprietary"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sergey Ivanov",
-        null
-      ],
-      [
-        "Kristina Asmus,Nikita Yefremov,Nonna Grishayeva",
-        "/wiki/Kristina_Asmus /wiki/Nikita_Yefremov /wiki/Nonna_Grishayeva"
-      ],
-      [
-        "Comedy, Romance",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "February 22",
-        null
+        [
+          "CoSign single sign on"
+        ],
+        [
+          "/wiki/CoSign_single_sign_on"
+        ]
       ],
       [
-        "August Eighth",
-        "/wiki/August_Eighth"
+        [
+          "University of Michigan"
+        ],
+        [
+          "/wiki/University_of_Michigan"
+        ]
       ],
       [
-        "\u0410\u0432\u0433\u0443\u0441\u0442 \u0412\u043e\u0441\u044c\u043c\u043e\u0433\u043e",
-        "/wiki/HTTP_404"
+        [
+          "Academic"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Dzhanik Fayziev",
-        null
-      ],
-      [
-        "Svetlana Ivanova,Maksim Matveyev,Aleksei Guskov",
-        "/wiki/Svetlana_Ivanova /wiki/Maksim_Matveyev /wiki/Aleksei_Guskov"
-      ],
-      [
-        "War,Drama,Fantasy",
-        "/wiki/War_film /wiki/Drama_film /wiki/Fantasy_film"
+        [
+          "SSO for University of Michigan"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "March 1",
-        null
+        [
+          "Digital Resolve SSO"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Suicide in the animal world",
-        null
+        [
+          "Digital Resolve"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\u0421\u0430\u043c\u043e\u0443\u0431\u0438\u0439\u0446\u044b \u0432 \u043c\u0438\u0440\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Egor Baranov",
-        null
-      ],
-      [
-        "Oksana Akinshina,Alexey Vorobyov",
-        "/wiki/Oksana_Akinshina /wiki/Alexey_Vorobyov"
-      ],
-      [
-        "Comedy",
-        null
+        [
+          "SAML 2.0, Enterprise SSO, Cloud-based, Federation, Passive Federation; combines SSO with proprietary multifactor authentication and behavioral monitoring technology."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "March 1",
-        null
+        [
+          "Distributed Access Control System"
+        ],
+        [
+          "/wiki/Distributed_Access_Control_System"
+        ]
       ],
       [
-        "Moms",
-        "/wiki/Moms_(film)"
+        [
+          "Distributed Systems Software"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\u041c\u0430\u043c\u044b",
-        "/wiki/HTTP_404"
+        [
+          "Free Software"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Evgeniy Abyzov",
-        null
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "Comedy",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "March 15",
-        null
+        [
+          "Facebook connect"
+        ],
+        [
+          "/wiki/Facebook_connect"
+        ]
       ],
       [
-        "Bedouin",
-        "/wiki/HTTP_404"
+        [
+          "Facebook"
+        ],
+        [
+          "/wiki/Facebook"
+        ]
       ],
       [
-        "\u0411\u0435\u0434\u0443\u0438\u043d",
-        "/wiki/HTTP_404"
+        [
+          "Proprietary"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Igor Voloshin",
-        null
-      ],
-      [
-        "Dinara Drukarova",
-        "/wiki/Dinara_Drukarova"
-      ],
-      [
-        "Action,Biograph,Drama",
-        "/wiki/Action_film /wiki/Biography /wiki/Drama"
+        [
+          "Facebook SSO to third parties enabled by Facebook"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "March 15",
-        null
+        [
+          "FreeIPA"
+        ],
+        [
+          "/wiki/FreeIPA"
+        ]
       ],
       [
-        "Here is Carlson",
-        "/wiki/HTTP_404"
+        [
+          "Red Hat"
+        ],
+        [
+          "/wiki/Red_Hat"
+        ]
       ],
       [
-        "\u0422\u043e\u0442 \u0435\u0449\u0451 \u041a\u0430\u0440\u043b\u043e\u0441\u043e\u043d",
-        "/wiki/HTTP_404"
+        [
+          "Free Software"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Sarik Andreasyan",
-        "/wiki/Sarik_Andreasyan"
-      ],
-      [
-        "Mikhail Galustyan",
-        "/wiki/Mikhail_Galustyan"
-      ],
-      [
-        "Comedy,Family,Fantasy",
-        "/wiki/Comedy /wiki/Family_film /wiki/Fantasy_film"
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "March 29",
-        null
+        [
+          "HelloID"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Atomic Ivan",
-        null
+        [
+          "Tools4ever B.V."
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\u0410\u0442\u043e\u043c\u043d\u044b\u0439 \u0418\u0432\u0430\u043d",
-        "/wiki/HTTP_404"
+        [
+          "Proprietary"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Vasily Barkhatov",
-        null
-      ],
-      [
-        "Yuliya Snigir,Grigoriy Dobrygin,Yekaterina Vasilyeva",
-        "/wiki/Yuliya_Snigir /wiki/Grigoriy_Dobrygin /wiki/Yekaterina_Vasilyeva"
-      ],
-      [
-        "Comedy,Romance",
-        "/wiki/Comedy_film /wiki/Romance_film"
+        [
+          "Cloud-based Identity & Access Management (IAM) solution with single sign-on (SSO), Multi Factor Authentication and Active Directory integration"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "March 29",
-        null
+        [
+          "IceWall SSO"
+        ],
+        [
+          "/wiki/IceWall_SSO"
+        ]
       ],
       [
-        "Conductor",
-        "/wiki/HTTP_404"
+        [
+          "Hewlett-Packard Enterprise"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\u0414\u0438\u0440\u0438\u0436\u0451\u0440",
-        "/wiki/HTTP_404"
+        [
+          "Proprietary"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pavel Lungin",
-        "/wiki/Pavel_Lungin"
-      ],
-      [
-        "Inga Oboldina,Sergey Koltakov",
-        "/wiki/Inga_Strelkova-Oboldina /wiki/Sergey_Koltakov"
-      ],
-      [
-        "Drama",
-        null
+        [
+          "Web and Federated Single Sign-On Solution"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "April 5",
-        null
+        [
+          "IBM Enterprise Identity Mapping"
+        ],
+        [
+          "/wiki/IBM_Enterprise_Identity_Mapping"
+        ]
       ],
       [
-        "Spy",
-        "/wiki/Spy_(2012_Russian_film)"
+        [
+          "IBM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\u0428\u043f\u0438\u043e\u043d",
-        "/wiki/HTTP_404"
+        [
+          "Free software"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Aleksey Andrianov",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "Danila Kozlovsky,Fedor Bondarchuk,Dmitry Nazarov",
-        "/wiki/Danila_Kozlovsky /wiki/Fedor_Bondarchuk /wiki/Dmitry_Nazarov"
-      ],
-      [
-        "Action,Drama,Thriller,War",
-        "/wiki/Action_film /wiki/Drama_film /wiki/Thriller_film /wiki/War_film"
+        [
+          "Works with Kerberos (e.g. Active Directory) and other authentication mechanisms to map different identities and hence allow single signon to all IBM server platforms (Windows, Linux, PowerLinux, IBM i, i5/OS, OS/400, AIX) even when the user name differs."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "May 1",
-        null
+        [
+          "LTPA"
+        ],
+        [
+          "/wiki/IBM_Lightweight_Third-Party_Authentication"
+        ]
       ],
       [
-        "The Game",
-        null
+        [
+          "IBM"
+        ],
+        [
+          "/wiki/IBM"
+        ]
       ],
       [
-        "\u041c\u0430\u0442\u0447",
-        "/wiki/HTTP_404"
+        [
+          "Proprietary"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Andrey Malyukov",
-        null
-      ],
-      [
-        "Sergey Bezrukov,Elizaveta Boyarskaya,Ekaterina Klimova",
-        "/wiki/Sergey_Bezrukov /wiki/Elizaveta_Boyarskaya /wiki/Ekaterina_Klimova"
-      ],
-      [
-        "Drama, History, Sport, War",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "May 3",
-        null
+        [
+          "IBM Tivoli Access Manager"
+        ],
+        [
+          "/wiki/IBM_Tivoli_Access_Manager"
+        ]
       ],
       [
-        "White Tiger",
-        "/wiki/White_Tiger_(2012_film)"
+        [
+          "IBM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\u0411\u0435\u043b\u044b\u0439 \u0442\u0438\u0433\u0440",
-        "/wiki/HTTP_404"
+        [
+          "Proprietary"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Karen Shakhnazarov",
-        "/wiki/Karen_Shakhnazarov"
-      ],
-      [
-        "Aleksey Vertkov Vitaliy Kishchenko Aleksandr Vakhov Vitaliy Dordzhiev Dmitriy Bykovskiy-Romashov",
-        null
-      ],
-      [
-        "Action, Adventure, War",
-        null
+        [
+          "Web, enterprise & Federated SSO solution. IBM Tivoli Identity Manager provides Identity management platform."
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "",
-        null
+        [
+          "Imprivata"
+        ],
+        [
+          "/wiki/Imprivata"
+        ]
       ],
       [
-        "The Link",
-        null
+        [
+          "Imprivata"
+        ],
+        [
+          "/wiki/Imprivata"
+        ]
       ],
       [
-        "\u0417\u0432\u0435\u043d\u043e",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Roman Romanovsky",
-        null
-      ],
-      [
-        "Vladimir Smirnov Kristina Kazinskaya Vladimir Frolov",
-        null
-      ],
-      [
-        "Thriller",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "August 30",
-        null
+        [
+          "Janrain"
+        ],
+        [
+          "/wiki/Janrain"
+        ]
       ],
       [
-        "Living",
-        null
+        [
+          "Janrain"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\u0416\u0438\u0442\u044c",
-        "/wiki/HTTP_404"
+        [
+          "Proprietary"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Vassily Sigarev",
-        "/wiki/Vassily_Sigarev"
-      ],
-      [
-        "Yana Troyanova",
-        "/wiki/Yana_Troyanova"
-      ],
-      [
-        "Drama",
-        null
+        [
+          "Social and conventional user SSO"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 7",
-        null
+        [
+          "JOSSO"
+        ],
+        [
+          "/wiki/JOSSO"
+        ]
       ],
       [
-        "Branded",
-        "/wiki/Branded_(2012_film)"
+        [
+          "JOSSO"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "\u041c\u043e\u0441\u043a\u0432\u0430 2017",
-        "/wiki/HTTP_404"
+        [
+          "Free Software"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Jamie Bradshaw  Aleksandr Dulerayn",
-        null
-      ],
-      [
-        "Ed Stoppard,Leelee Sobieski,Max von Sydow,Jeffrey Tambor",
-        "/wiki/Ed_Stoppard /wiki/Leelee_Sobieski /wiki/Max_von_Sydow /wiki/Jeffrey_Tambor"
-      ],
-      [
-        "Drama,Fantasy,Thriller",
-        "/wiki/Drama_film /wiki/Fantasy_film /wiki/Thriller_film"
+        [
+          "Open Source Single Sign-On Server"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

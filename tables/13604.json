@@ -1,302 +1,726 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_Major_League_Baseball_franchise_postseason_droughts",
-  "title": "List of Major League Baseball franchise postseason droughts",
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_widget_engines",
+  "title": "Comparison of widget engines",
   "header": [
     [
-      "Region",
-      null
+      [
+        "Engine"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Drought (seasons)",
-      null
+      [
+        "IDE"
+      ],
+      [
+        "/wiki/Integrated_development_environment"
+      ]
     ],
     [
-      "Last pennant",
-      null
+      [
+        "Widget Container"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Widget MIME Type"
+      ],
+      [
+        "/wiki/Internet_media_type"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Seattle",
-        "/wiki/Seattle_metropolitan_area"
+        [
+          "Adobe AIR"
+        ],
+        [
+          "/wiki/Adobe_Integrated_Runtime"
+        ]
       ],
       [
-        "44* \u2020",
-        null
+        [
+          "Flex Builder 3",
+          "Flash CS4",
+          "Dreamweaver CS4"
+        ],
+        [
+          "/wiki/Adobe_Flex",
+          "/wiki/Adobe_Flash",
+          "/wiki/Adobe_Dreamweaver"
+        ]
       ],
       [
-        "None",
-        null
+        [
+          "ZIP"
+        ],
+        [
+          "/wiki/ZIP_(file_format)"
+        ]
+      ],
+      [
+        [
+          "application/vnd.adobe.air-application-installer-package+zip"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Pittsburgh",
-        "/wiki/Greater_Pittsburgh"
+        [
+          "AveDesk"
+        ],
+        [
+          "/wiki/AveDesk"
+        ]
       ],
       [
-        "40",
-        null
+        [
+          "AveScripter"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Pittsburgh Pirates,1979",
-        "/wiki/Pittsburgh_Pirates /wiki/1979_World_Series"
+        [
+          "ZIP"
+        ],
+        [
+          "/wiki/ZIP_(file_format)"
+        ]
+      ],
+      [
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Milwaukee",
-        "/wiki/Milwaukee_metropolitan_area"
+        [
+          "Dashboard"
+        ],
+        [
+          "/wiki/Dashboard_(Mac_OS)"
+        ]
       ],
       [
-        "37",
-        null
+        [
+          "Dashcode"
+        ],
+        [
+          "/wiki/Dashcode"
+        ]
       ],
       [
-        "Milwaukee Brewers,1982,A.L.",
-        "/wiki/Milwaukee_Brewers /wiki/1982_World_Series /wiki/American_League"
+        [
+          "ZIP"
+        ],
+        [
+          "/wiki/ZIP_(file_format)"
+        ]
+      ],
+      [
+        [
+          "application/x-macbinary"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Baltimore",
-        "/wiki/Baltimore_metropolitan_area"
+        [
+          "DesktopX"
+        ],
+        [
+          "/wiki/DesktopX"
+        ]
       ],
       [
-        "36",
-        null
+        [
+          "Desktop X Pro"
+        ],
+        [
+          "/wiki/DesktopX"
+        ]
       ],
       [
-        "Baltimore Orioles,1983",
-        "/wiki/Baltimore_Orioles /wiki/1983_World_Series"
+        [
+          "EXE"
+        ],
+        [
+          "/wiki/EXE"
+        ]
+      ],
+      [
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Cincinnati",
-        "/wiki/Cincinnati_metropolitan_area"
+        [
+          "gDesklets"
+        ],
+        [
+          "/wiki/GDesklets"
+        ]
       ],
       [
-        "29",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cincinnati Reds,1990",
-        "/wiki/Cincinnati_Reds /wiki/1990_World_Series"
+        [
+          "Tar.gz"
+        ],
+        [
+          "/wiki/Tar.gz"
+        ]
+      ],
+      [
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Minneapolis\u2013Saint Paul",
-        "/wiki/Minneapolis%E2%80%93Saint_Paul"
+        [
+          "Google Desktop Gadgets"
+        ],
+        [
+          "/wiki/Google_Desktop"
+        ]
       ],
       [
-        "28",
-        null
+        [
+          "Google Desktop Gadget Designer"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Minnesota Twins,1991",
-        "/wiki/Minnesota_Twins /wiki/1991_World_Series"
+        [
+          "ZIP"
+        ],
+        [
+          "/wiki/ZIP_(file_format)"
+        ]
+      ],
+      [
+        [
+          "app/gg"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Toronto",
-        "/wiki/Greater_Toronto_Area"
+        [
+          "Kapsules"
+        ],
+        [
+          "/wiki/Kapsules"
+        ]
       ],
       [
-        "26",
-        null
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Toronto Blue Jays,1993",
-        "/wiki/Toronto_Blue_Jays /wiki/1993_World_Series"
+        [
+          "ZIP"
+        ],
+        [
+          "/wiki/ZIP_(file_format)"
+        ]
+      ],
+      [
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "San Diego",
-        "/wiki/San_Diego_County,_California"
+        [
+          "KlipFolio"
+        ],
+        [
+          "/wiki/KlipFolio"
+        ]
       ],
       [
-        "21",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "San Diego Padres,1998",
-        "/wiki/San_Diego_Padres /wiki/1998_World_Series"
+        [
+          "XML"
+        ],
+        [
+          "/wiki/XML"
+        ]
+      ],
+      [
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Atlanta",
-        "/wiki/Atlanta_metropolitan_area"
+        [
+          "Microsoft Gadgets"
+        ],
+        [
+          "/wiki/Microsoft_Gadgets"
+        ]
       ],
       [
-        "20",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Atlanta Braves,1999",
-        "/wiki/Atlanta_Braves /wiki/1999_World_Series"
+        [
+          "ZIP"
+        ],
+        [
+          "/wiki/ZIP_(file_format)"
+        ]
+      ],
+      [
+        [
+          "application/x-windows-gadget"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Phoenix",
-        "/wiki/Phoenix_metropolitan_area"
+        [
+          "NetFront"
+        ],
+        [
+          "/wiki/NetFront"
+        ]
       ],
       [
-        "18",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Arizona Diamondbacks,2001",
-        "/wiki/Arizona_Diamondbacks /wiki/2001_World_Series"
+        [
+          "ZIP"
+        ],
+        [
+          "/wiki/ZIP_(file_format)"
+        ]
+      ],
+      [
+        [
+          "application/x-opera-widgets"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Miami-Ft. Lauderdale",
-        "/wiki/Miami_metropolitan_area"
+        [
+          "Netvibes"
+        ],
+        [
+          "/wiki/Netvibes"
+        ]
       ],
       [
-        "16",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Florida Marlins,2003",
-        "/wiki/Miami_Marlins /wiki/2003_World_Series"
+        [
+          "Online"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Denver",
-        "/wiki/Denver%E2%80%93Aurora_combined_statistical_area"
+        [
+          "Opera"
+        ],
+        [
+          "/wiki/Opera_(web_browser)"
+        ]
       ],
       [
-        "12",
-        null
+        [
+          "Opera Dragonfly"
+        ],
+        [
+          "/wiki/Opera_Dragonfly"
+        ]
       ],
       [
-        "Colorado Rockies,2007",
-        "/wiki/Colorado_Rockies /wiki/2007_World_Series"
+        [
+          "ZIP"
+        ],
+        [
+          "/wiki/ZIP_(file_format)"
+        ]
+      ],
+      [
+        [
+          "application/x-opera-widgets"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Tampa-St. Petersburg",
-        "/wiki/Tampa_Bay_Area"
+        [
+          "Plasma"
+        ],
+        [
+          "/wiki/KDE_Plasma_4"
+        ]
       ],
       [
-        "11",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tampa Bay Rays,2008",
-        "/wiki/Tampa_Bay_Rays /wiki/2008_World_Series"
+        [
+          "ZIP"
+        ],
+        [
+          "/wiki/ZIP_(file_format)"
+        ]
+      ],
+      [
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Philadelphia",
-        "/wiki/Delaware_Valley"
+        [
+          "Screenlets"
+        ],
+        [
+          "/wiki/Screenlets"
+        ]
       ],
       [
-        "10",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Philadelphia Phillies,2009",
-        "/wiki/Philadelphia_Phillies /wiki/2009_World_Series"
+        [
+          "Tar.gz"
+        ],
+        [
+          "/wiki/Tar.gz"
+        ]
+      ],
+      [
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Dallas-Ft. Worth",
-        "/wiki/Dallas%E2%80%93Fort_Worth_metroplex"
+        [
+          "Serious Samurize"
+        ],
+        [
+          "/wiki/Serious_Samurize"
+        ]
       ],
       [
-        "8",
-        null
+        [
+          "Serious Samurize Config Editor"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Texas Rangers,2011",
-        "/wiki/Texas_Rangers_(baseball) /wiki/2011_World_Series"
+        [
+          "ZIP"
+        ],
+        [
+          "/wiki/ZIP_(file_format)"
+        ]
+      ],
+      [
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Detroit",
-        "/wiki/Metro_Detroit"
+        [
+          "SuperKaramba"
+        ],
+        [
+          "/wiki/SuperKaramba"
+        ]
       ],
       [
-        "7",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Detroit Tigers,2012",
-        "/wiki/Detroit_Tigers /wiki/2012_World_Series"
+        [
+          "Tar.gz"
+        ],
+        [
+          "/wiki/Tar.gz"
+        ]
+      ],
+      [
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "St. Louis",
-        "/wiki/Greater_St._Louis"
+        [
+          "WebKit"
+        ],
+        [
+          "/wiki/WebKit"
+        ]
       ],
       [
-        "6",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "St. Louis Cardinals,2013",
-        "/wiki/St._Louis_Cardinals /wiki/2013_World_Series"
+        [
+          "?"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "San Francisco Bay Area",
-        "/wiki/San_Francisco_Bay_Area"
+        [
+          "WidSets"
+        ],
+        [
+          "/wiki/WidSets"
+        ]
       ],
       [
-        "5",
-        null
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "San Francisco Giants,2014",
-        "/wiki/San_Francisco_Giants /wiki/2014_World_Series"
+        [
+          "?"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "?"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Kansas City",
-        "/wiki/Kansas_City_metropolitan_area"
+        [
+          "Yahoo! Widgets"
+        ],
+        [
+          "/wiki/Yahoo!_Widgets"
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "No"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Kansas City Royals,2015",
-        "/wiki/Kansas_City_Royals /wiki/2015_World_Series"
+        [
+          "ZIP"
+        ],
+        [
+          "/wiki/ZIP_(file_format)"
+        ]
+      ],
+      [
+        [
+          "application/vnd.yahoo.Widget"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "New York City",
-        "/wiki/New_York_metropolitan_area"
+        [
+          "Engine"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "IDE"
+        ],
+        [
+          "/wiki/Integrated_development_environment"
+        ]
       ],
       [
-        "New York Mets,2015",
-        "/wiki/New_York_Mets /wiki/2015_World_Series"
+        [
+          "Widget Container"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Widget MIME Type"
+        ],
+        [
+          "/wiki/Internet_media_type"
+        ]
       ]
     ]
   ],
-  "context": "This list only includes cities/regions with current Major League Baseball franchises.\nYears during which a city/region did not field a Major League Baseball team are not counted.",
+  "context": "",
   "idx": 13604
 }

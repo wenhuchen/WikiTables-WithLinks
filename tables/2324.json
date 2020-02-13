@@ -1,239 +1,471 @@
 {
-  "url": "https://en.wikipedia.org/wiki/1972_International_Cross_Country_Championships",
-  "title": "1972 International Cross Country Championships",
+  "url": "https://en.wikipedia.org/wiki/Latin_America",
+  "title": "Latin America",
   "header": [
     [
-      "Rank",
-      null
+      [
+        "City"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Country",
-      null
+      [
+        "Country"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Team",
-      null
+      [
+        "2017 population"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Points",
-      null
+      [
+        "GDP",
+        "PPP",
+        "USD"
+      ],
+      [
+        "/wiki/Gross_domestic_product",
+        "/wiki/GDP_(PPP)",
+        "/wiki/USD"
+      ]
+    ],
+    [
+      [
+        "USD"
+      ],
+      [
+        "/wiki/USD"
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1",
-        null
+        [
+          "Mexico City"
+        ],
+        [
+          "/wiki/Greater_Mexico_City"
+        ]
       ],
       [
-        "Italy",
-        "/wiki/Italy"
+        [
+          "Mexico"
+        ],
+        [
+          "/wiki/Mexico"
+        ]
       ],
       [
-        "Aldo Tomasini,Franco Fava,Luca Bigatello",
-        "/wiki/Aldo_Tomasini /wiki/Franco_Fava /wiki/Luca_Bigatello"
+        [
+          "23,655,355"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "19",
-        null
+        [
+          "$403,561"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "$19,239"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2",
-        null
+        [
+          "S\u00e3o Paulo"
+        ],
+        [
+          "/wiki/Greater_S%C3%A3o_Paulo"
+        ]
       ],
       [
-        "England",
-        "/wiki/England"
+        [
+          "Brazil"
+        ],
+        [
+          "/wiki/Brazil"
+        ]
       ],
       [
-        "David Black,Barry Smith,Dennis Coates",
-        "/wiki/Dave_Black_(athlete) /wiki/Barry_Smith_(athlete) /wiki/Dennis_Coates"
+        [
+          "23,467,354"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "22",
-        null
+        [
+          "$430,510"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "$20,650"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "3",
-        null
+        [
+          "Buenos Aires"
+        ],
+        [
+          "/wiki/Greater_Buenos_Aires"
+        ]
       ],
       [
-        "Morocco",
-        "/wiki/Morocco"
+        [
+          "Argentina"
+        ],
+        [
+          "/wiki/Argentina"
+        ]
       ],
       [
-        "Larbi M'Hidra",
-        "/wiki/HTTP_404"
+        [
+          "15,564,354"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "26",
-        null
+        [
+          "$315,885"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "$23,606"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "4",
-        null
+        [
+          "Rio de Janeiro"
+        ],
+        [
+          "/wiki/Greater_Rio_de_Janeiro"
+        ]
       ],
       [
-        "Spain",
-        "/wiki/Spain"
+        [
+          "Brazil"
+        ],
+        [
+          "/wiki/Brazil"
+        ]
       ],
       [
-        "Ricardo Ortega,Fernando Cerrada,Jos\u00e9 Haro",
-        "/wiki/HTTP_404 /wiki/Fernando_Cerrada /wiki/HTTP_404"
+        [
+          "14,440,345"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "27",
-        null
+        [
+          "$176,630"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "$14,176"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "5",
-        null
+        [
+          "Bogot\u00e1"
+        ],
+        [
+          "/wiki/Metropolitan_Area_of_Bogot%C3%A1"
+        ]
       ],
       [
-        "Scotland",
-        "/wiki/Scotland"
+        [
+          "Colombia"
+        ],
+        [
+          "/wiki/Colombia"
+        ]
       ],
       [
-        "Jim Brown,Laurence Reilly",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "9,900,800"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "35",
-        null
+        [
+          "$199,150"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "$19,497"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "6",
-        null
+        [
+          "Lima"
+        ],
+        [
+          "/wiki/Lima_Metropolitan_Area"
+        ]
       ],
       [
-        "Belgium",
-        "/wiki/Belgium"
+        [
+          "Peru"
+        ],
+        [
+          "/wiki/Peru"
+        ]
       ],
       [
-        "L\u00e9on Schots,Robert Lismont",
-        "/wiki/L%C3%A9on_Schots /wiki/HTTP_404"
+        [
+          "9,752,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "63",
-        null
+        [
+          "$176,447"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "$16,530"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "7",
-        null
+        [
+          "Santiago"
+        ],
+        [
+          "/wiki/Santiago_Metropolitan_Region"
+        ]
       ],
       [
-        "Ireland",
-        "/wiki/Republic_of_Ireland"
+        [
+          "Chile"
+        ],
+        [
+          "/wiki/Chile"
+        ]
       ],
       [
-        "Eamonn Coghlan",
-        "/wiki/Eamonn_Coghlan"
+        [
+          "7,164,400"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "77",
-        null
+        [
+          "$171,436"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "$23,290"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "8",
-        null
+        [
+          "Belo Horizonte"
+        ],
+        [
+          "/wiki/Greater_Belo_Horizonte"
+        ]
       ],
       [
-        "Wales",
-        "/wiki/Wales"
+        [
+          "Brazil"
+        ],
+        [
+          "/wiki/Brazil"
+        ]
       ],
       [
-        "Peter Ratcliffe,Brian Donovan,John Davies",
-        "/wiki/HTTP_404 /wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "6,145,800"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "78",
-        null
+        [
+          "$95,686"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "$17,635"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "9",
-        null
+        [
+          "Guadalajara"
+        ],
+        [
+          "/wiki/Guadalajara_Metropolitan_Area"
+        ]
       ],
       [
-        "Algeria",
-        "/wiki/Algeria"
+        [
+          "Mexico"
+        ],
+        [
+          "/wiki/Mexico"
+        ]
       ],
       [
-        "Kamel Guemar,Abdelmadjid Mada",
-        "/wiki/HTTP_404 /wiki/Abdelmadjid_Mada"
+        [
+          "4,687,700"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "86",
-        null
+        [
+          "$80,656"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "$17,206"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "10",
-        null
+        [
+          "Monterrey"
+        ],
+        [
+          "/wiki/Monterrey_Metropolitan_area"
+        ]
       ],
       [
-        "Switzerland",
-        "/wiki/Switzerland"
+        [
+          "Mexico"
+        ],
+        [
+          "/wiki/Mexico"
+        ]
       ],
       [
-        "Hugo Wey",
-        "/wiki/HTTP_404"
+        [
+          "4,344,200"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "87",
-        null
-      ]
-    ],
-    [
-      [
-        "11",
-        null
+        [
+          "$122,896"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Tunisia",
-        "/wiki/Tunisia"
-      ],
-      [
-        "Abdelkrim Djelassi",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "89",
-        null
-      ]
-    ],
-    [
-      [
-        "12",
-        null
-      ],
-      [
-        "Northern Ireland",
-        "/wiki/Northern_Ireland"
-      ],
-      [
-        "Dessi Martin",
-        "/wiki/HTTP_404"
-      ],
-      [
-        "145",
-        null
+        [
+          "$28,290"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

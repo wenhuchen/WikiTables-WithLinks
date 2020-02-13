@@ -1,379 +1,761 @@
 {
-  "url": "https://en.wikipedia.org/wiki/1979_Torneo_Descentralizado",
-  "title": "1979 Torneo Descentralizado",
+  "url": "https://en.wikipedia.org/wiki/1983_Torneo_Descentralizado",
+  "title": "1983 Torneo Descentralizado",
   "header": [
     [
-      "Team",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "City",
-      null
+      [
+        "City"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Stadium",
-      null
+      [
+        "Stadium"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Capacity",
-      null
+      [
+        "Capacity"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Field",
-      null
+      [
+        "Field"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Alfonso Ugarte",
-        "/wiki/Alfonso_Ugarte_de_Puno"
+        [
+          "Alfonso Ugarte"
+        ],
+        [
+          "/wiki/Alfonso_Ugarte_de_Puno"
+        ]
       ],
       [
-        "Puno",
-        "/wiki/Puno"
+        [
+          "Puno"
+        ],
+        [
+          "/wiki/Puno"
+        ]
       ],
       [
-        "Enrique Torres Bel\u00f3n",
-        "/wiki/Estadio_E._Torres_Bel%C3%B3n"
+        [
+          "Enrique Torres Bel\u00f3n"
+        ],
+        [
+          "/wiki/Estadio_E._Torres_Bel%C3%B3n"
+        ]
       ],
       [
-        "20,000",
-        null
+        [
+          "20,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Alianza Lima",
-        "/wiki/Alianza_Lima"
+        [
+          "Alianza Lima"
+        ],
+        [
+          "/wiki/Alianza_Lima"
+        ]
       ],
       [
-        "Lima",
-        "/wiki/Lima"
+        [
+          "Lima"
+        ],
+        [
+          "/wiki/Lima"
+        ]
       ],
       [
-        "Alejandro Villanueva",
-        "/wiki/Estadio_Alejandro_Villanueva"
+        [
+          "Alejandro Villanueva"
+        ],
+        [
+          "/wiki/Estadio_Alejandro_Villanueva"
+        ]
       ],
       [
-        "35,000",
-        null
+        [
+          "35,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Atl\u00e9tico Chalaco",
-        "/wiki/Atl%C3%A9tico_Chalaco"
+        [
+          "ADT"
+        ],
+        [
+          "/wiki/Asociaci%C3%B3n_Deportiva_Tarma"
+        ]
       ],
       [
-        "Callao",
-        "/wiki/Callao"
+        [
+          "Tarma"
+        ],
+        [
+          "/wiki/Tarma"
+        ]
       ],
       [
-        "Miguel Grau",
-        "/wiki/Estadio_Miguel_Grau_(Callao)"
+        [
+          "Uni\u00f3n Tarma"
+        ],
+        [
+          "/wiki/Estadio_Uni%C3%B3n_Tarma"
+        ]
       ],
       [
-        "15,000",
-        null
+        [
+          "9,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Atl\u00e9tico Torino",
-        "/wiki/Atl%C3%A9tico_Torino"
+        [
+          "Atl\u00e9tico Chalaco"
+        ],
+        [
+          "/wiki/Atl%C3%A9tico_Chalaco"
+        ]
       ],
       [
-        "Talara",
-        "/wiki/Talara"
+        [
+          "Callao"
+        ],
+        [
+          "/wiki/Callao"
+        ]
       ],
       [
-        "Campeon\u00edsimo",
-        "/wiki/Estadio_Campeon%C3%ADsimo"
+        [
+          "Miguel Grau"
+        ],
+        [
+          "/wiki/Estadio_Miguel_Grau_(Callao)"
+        ]
       ],
       [
-        "8,000",
-        null
+        [
+          "15,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "CNI",
-        "/wiki/Colegio_Nacional_Iquitos"
+        [
+          "Atl\u00e9tico Torino"
+        ],
+        [
+          "/wiki/Atl%C3%A9tico_Torino"
+        ]
       ],
       [
-        "Iquitos",
-        "/wiki/Iquitos"
+        [
+          "Talara"
+        ],
+        [
+          "/wiki/Talara"
+        ]
       ],
       [
-        "Max August\u00edn",
-        "/wiki/Estadio_Max_August%C3%ADn"
+        [
+          "Campeon\u00edsimo"
+        ],
+        [
+          "/wiki/Estadio_Campeon%C3%ADsimo"
+        ]
       ],
       [
-        "24,000",
-        null
+        [
+          "8,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Coronel Bolognesi",
-        "/wiki/Coronel_Bolognesi"
+        [
+          "CNI"
+        ],
+        [
+          "/wiki/Colegio_Nacional_Iquitos"
+        ]
       ],
       [
-        "Tacna",
-        "/wiki/Tacna"
+        [
+          "Iquitos"
+        ],
+        [
+          "/wiki/Iquitos"
+        ]
       ],
       [
-        "Jorge Basadre",
-        "/wiki/Estadio_Jorge_Basadre"
+        [
+          "Max August\u00edn"
+        ],
+        [
+          "/wiki/Estadio_Max_August%C3%ADn"
+        ]
       ],
       [
-        "19,850",
-        null
+        [
+          "24,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Deportivo Jun\u00edn",
-        "/wiki/Deportivo_Jun%C3%ADn"
+        [
+          "Coronel Bolognesi"
+        ],
+        [
+          "/wiki/Coronel_Bolognesi"
+        ]
       ],
       [
-        "Huancayo",
-        "/wiki/Huancayo"
+        [
+          "Tacna"
+        ],
+        [
+          "/wiki/Tacna"
+        ]
       ],
       [
-        "Huancayo",
-        "/wiki/Estadio_Huancayo"
+        [
+          "Jorge Basadre"
+        ],
+        [
+          "/wiki/Estadio_Jorge_Basadre"
+        ]
       ],
       [
-        "20,000",
-        null
+        [
+          "19,850"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Deportivo Municipal",
-        "/wiki/Deportivo_Municipal"
+        [
+          "Deportivo Municipal"
+        ],
+        [
+          "/wiki/Deportivo_Municipal"
+        ]
       ],
       [
-        "Lima",
-        "/wiki/Lima"
+        [
+          "Lima"
+        ],
+        [
+          "/wiki/Lima"
+        ]
       ],
       [
-        "Nacional",
-        "/wiki/Estadio_Nacional_(Lima)"
+        [
+          "Nacional"
+        ],
+        [
+          "/wiki/Estadio_Nacional_(Lima)"
+        ]
       ],
       [
-        "45,750",
-        null
+        [
+          "45,750"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Juan Aurich",
-        "/wiki/Juan_Aurich"
+        [
+          "Huancayo"
+        ],
+        [
+          "/wiki/Deportivo_Jun%C3%ADn"
+        ]
       ],
       [
-        "Chiclayo",
-        "/wiki/Chiclayo"
+        [
+          "Huancayo"
+        ],
+        [
+          "/wiki/Huancayo"
+        ]
       ],
       [
-        "El\u00edas Aguirre",
-        "/wiki/Estadio_El%C3%ADas_Aguirre"
+        [
+          "Huancayo"
+        ],
+        [
+          "/wiki/Estadio_Huancayo"
+        ]
       ],
       [
-        "24,500",
-        null
+        [
+          "20,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Juventud La Palma",
-        "/wiki/Juventud_La_Palma"
+        [
+          "Juan Aurich"
+        ],
+        [
+          "/wiki/Juan_Aurich"
+        ]
       ],
       [
-        "Huacho",
-        "/wiki/Huacho"
+        [
+          "Chiclayo"
+        ],
+        [
+          "/wiki/Chiclayo"
+        ]
       ],
       [
-        "Segundo Aranda Torres",
-        "/wiki/Estadio_Segundo_Aranda_Torres"
+        [
+          "El\u00edas Aguirre"
+        ],
+        [
+          "/wiki/Estadio_El%C3%ADas_Aguirre"
+        ]
       ],
       [
-        "12,000",
-        null
+        [
+          "24,500"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Le\u00f3n de Hu\u00e1nuco",
-        "/wiki/Le%C3%B3n_de_Hu%C3%A1nuco"
+        [
+          "Le\u00f3n de Hu\u00e1nuco"
+        ],
+        [
+          "/wiki/Le%C3%B3n_de_Hu%C3%A1nuco"
+        ]
       ],
       [
-        "Hu\u00e1nuco",
-        "/wiki/Hu%C3%A1nuco"
+        [
+          "Hu\u00e1nuco"
+        ],
+        [
+          "/wiki/Hu%C3%A1nuco"
+        ]
       ],
       [
-        "Heraclio Tapia",
-        "/wiki/Estadio_Heraclio_Tapia"
+        [
+          "Heraclio Tapia"
+        ],
+        [
+          "/wiki/Estadio_Heraclio_Tapia"
+        ]
       ],
       [
-        "15,000",
-        null
+        [
+          "15,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Melgar",
-        "/wiki/FBC_Melgar"
+        [
+          "Melgar"
+        ],
+        [
+          "/wiki/FBC_Melgar"
+        ]
       ],
       [
-        "Arequipa",
-        "/wiki/Arequipa"
+        [
+          "Arequipa"
+        ],
+        [
+          "/wiki/Arequipa"
+        ]
       ],
       [
-        "Mariano Melgar",
-        "/wiki/Estadio_Mariano_Melgar"
+        [
+          "Mariano Melgar"
+        ],
+        [
+          "/wiki/Estadio_Mariano_Melgar"
+        ]
       ],
       [
-        "20,000",
-        null
+        [
+          "20,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Sport Boys",
-        "/wiki/Sport_Boys"
+        [
+          "Sport Boys"
+        ],
+        [
+          "/wiki/Sport_Boys"
+        ]
       ],
       [
-        "Callao",
-        "/wiki/Callao"
+        [
+          "Callao"
+        ],
+        [
+          "/wiki/Callao"
+        ]
       ],
       [
-        "Miguel Grau",
-        "/wiki/Estadio_Miguel_Grau_(Callao)"
+        [
+          "Miguel Grau"
+        ],
+        [
+          "/wiki/Estadio_Miguel_Grau_(Callao)"
+        ]
       ],
       [
-        "15,000",
-        null
+        [
+          "15,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Sporting Cristal",
-        "/wiki/Sporting_Cristal"
+        [
+          "Sporting Cristal"
+        ],
+        [
+          "/wiki/Sporting_Cristal"
+        ]
       ],
       [
-        "Lima",
-        "/wiki/Lima"
+        [
+          "Lima"
+        ],
+        [
+          "/wiki/Lima"
+        ]
       ],
       [
-        "Nacional",
-        "/wiki/Estadio_Nacional_(Lima)"
+        [
+          "Nacional"
+        ],
+        [
+          "/wiki/Estadio_Nacional_(Lima)"
+        ]
       ],
       [
-        "45,750",
-        null
+        [
+          "45,750"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Uni\u00f3n Huaral",
-        "/wiki/Uni%C3%B3n_Huaral"
+        [
+          "Uni\u00f3n Huaral"
+        ],
+        [
+          "/wiki/Uni%C3%B3n_Huaral"
+        ]
       ],
       [
-        "Huaral",
-        "/wiki/Huaral"
+        [
+          "Huaral"
+        ],
+        [
+          "/wiki/Huaral"
+        ]
       ],
       [
-        "Julio Lores Colan",
-        "/wiki/Estadio_Julio_Lores_Colan"
+        [
+          "Julio Lores Colan"
+        ],
+        [
+          "/wiki/Estadio_Julio_Lores_Colan"
+        ]
       ],
       [
-        "10,000",
-        null
+        [
+          "10,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Universitario",
-        "/wiki/Club_Universitario_de_Deportes"
+        [
+          "UTC"
+        ],
+        [
+          "/wiki/Universidad_T%C3%A9cnica_de_Cajamarca"
+        ]
       ],
       [
-        "Lima",
-        "/wiki/Lima"
+        [
+          "Cajamarca"
+        ],
+        [
+          "/wiki/Cajamarca"
+        ]
       ],
       [
-        "Nacional",
-        "/wiki/Estadio_Nacional_(Lima)"
+        [
+          "H\u00e9roes de San Ram\u00f3n"
+        ],
+        [
+          "/wiki/Estadio_H%C3%A9roes_de_San_Ram%C3%B3n"
+        ]
       ],
       [
-        "45,750",
-        null
+        [
+          "18,000"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Grass",
-        null
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Universitario"
+        ],
+        [
+          "/wiki/Club_Universitario_de_Deportes"
+        ]
+      ],
+      [
+        [
+          "Lima"
+        ],
+        [
+          "/wiki/Lima"
+        ]
+      ],
+      [
+        [
+          "Nacional"
+        ],
+        [
+          "/wiki/Estadio_Nacional_(Lima)"
+        ]
+      ],
+      [
+        [
+          "45,750"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Grass"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

@@ -1,357 +1,887 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Wikimania",
-  "title": "Wikimania",
+  "url": "https://en.wikipedia.org/wiki/Las_Justas",
+  "title": "Las Justas",
   "header": [
     [
-      "Conference",
-      null
+      [
+        "Institution (English)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Date",
-      null
+      [
+        "Institution (Spanish)"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Place",
-      null
+      [
+        "Acronym"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Attendance",
-      null
+      [
+        "Location"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Archive of presentations",
-      null
+      [
+        "Year joined"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Wikimania 2005",
-        "/wiki/HTTP_404"
+        [
+          "University of Puerto Rico, R\u00edo Piedras"
+        ],
+        [
+          "/wiki/University_of_Puerto_Rico,_Rio_Piedras_Campus"
+        ]
       ],
       [
-        "August 4\u20138",
-        null
+        [
+          "Universidad de Puerto Rico, Recinto de R\u00edo Piedras"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Frankfurt,Germany",
-        "/wiki/Frankfurt /wiki/Germany"
+        [
+          "UPR"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "380",
-        null
+        [
+          "San Juan, Puerto Rico"
+        ],
+        [
+          "/wiki/San_Juan,_Puerto_Rico"
+        ]
       ],
       [
-        "slides, video",
-        "/wiki/HTTP_404"
+        [
+          "1929"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Wikimania 2006",
-        "/wiki/HTTP_404"
+        [
+          "University of Puerto Rico at Mayag\u00fcez"
+        ],
+        [
+          "/wiki/University_of_Puerto_Rico_at_Mayag%C3%BCez"
+        ]
       ],
       [
-        "August 4\u20136",
-        null
+        [
+          "Recinto Universitario de Mayag\u00fcez"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cambridge,\u00a0Mass.,United States",
-        "/wiki/Cambridge,_Massachusetts /wiki/United_States"
+        [
+          "RUM"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "400",
-        null
+        [
+          "Mayag\u00fcez, Puerto Rico"
+        ],
+        [
+          "/wiki/Mayag%C3%BCez,_Puerto_Rico"
+        ]
       ],
       [
-        "slides and papers,video",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "1929"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Wikimania 2007",
-        "/wiki/HTTP_404"
+        [
+          "Interamerican University of Puerto Rico"
+        ],
+        [
+          "/wiki/Interamerican_University_of_Puerto_Rico"
+        ]
       ],
       [
-        "August 3\u20135",
-        null
+        [
+          "Universidad Interamericana de Puerto Rico"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Taipei,Taiwan",
-        "/wiki/Taipei /wiki/Taiwan"
+        [
+          "UIPR"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "440",
-        null
+        [
+          "San German, Puerto Rico"
+        ],
+        [
+          "/wiki/San_German,_Puerto_Rico"
+        ]
       ],
       [
-        "Commons gallery",
-        "/wiki/HTTP_404"
+        [
+          "1929"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Wikimania 2008",
-        "/wiki/HTTP_404"
+        [
+          "Pontifical Catholic University of Puerto Rico"
+        ],
+        [
+          "/wiki/Pontifical_Catholic_University_of_Puerto_Rico"
+        ]
       ],
       [
-        "July 17\u201319",
-        null
+        [
+          "Pontificia Universidad Cat\u00f3lica de Puerto Rico"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Alexandria,Egypt",
-        "/wiki/Alexandria /wiki/Egypt"
+        [
+          "PUC"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "650",
-        null
+        [
+          "Ponce, Puerto Rico"
+        ],
+        [
+          "/wiki/Ponce,_Puerto_Rico"
+        ]
       ],
       [
-        "abstracts,slides,video",
-        "/wiki/HTTP_404 /wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "1954"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Wikimania 2009",
-        "/wiki/HTTP_404"
+        [
+          "University of Puerto Rico at Cayey"
+        ],
+        [
+          "/wiki/University_of_Puerto_Rico_at_Cayey"
+        ]
       ],
       [
-        "August 26\u201328",
-        null
+        [
+          "Universidad de Puerto Rico en Cayey"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Buenos Aires,Argentina",
-        "/wiki/Buenos_Aires /wiki/Argentina"
+        [
+          "UPRC"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "559",
-        null
+        [
+          "Cayey, Puerto Rico"
+        ],
+        [
+          "/wiki/Cayey,_Puerto_Rico"
+        ]
       ],
       [
-        "slides, video",
-        "/wiki/HTTP_404"
+        [
+          "1971"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Wikimania 2010",
-        "/wiki/HTTP_404"
+        [
+          "University of Turabo"
+        ],
+        [
+          "/wiki/Universidad_del_Turabo"
+        ]
       ],
       [
-        "July 9\u201311",
-        null
+        [
+          "Universidad del Turabo"
+        ],
+        [
+          "/wiki/Universidad_del_Turabo"
+        ]
       ],
       [
-        "Gda\u0144sk,Poland",
-        "/wiki/Gda%C5%84sk /wiki/Poland"
+        [
+          "UT"
+        ],
+        [
+          "/wiki/Universidad_del_Turabo"
+        ]
       ],
       [
-        "about 500",
-        null
+        [
+          "Gurabo, Puerto Rico"
+        ],
+        [
+          "/wiki/Gurabo,_Puerto_Rico"
+        ]
       ],
       [
-        "slides",
-        "/wiki/HTTP_404"
+        [
+          "1975"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Wikimania 2011",
-        "/wiki/HTTP_404"
+        [
+          "University of Puerto Rico at Humacao"
+        ],
+        [
+          "/wiki/University_of_Puerto_Rico_at_Humacao"
+        ]
       ],
       [
-        "August 4\u20137",
-        null
+        [
+          "Universidad de Puerto Rico en Humacao"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Haifa,Israel",
-        "/wiki/Haifa /wiki/Israel"
+        [
+          "UPRH"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "720",
-        null
+        [
+          "Humacao, Puerto Rico"
+        ],
+        [
+          "/wiki/Humacao,_Puerto_Rico"
+        ]
       ],
       [
-        "presentations,video",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "1975"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Wikimania 2012",
-        "/wiki/HTTP_404"
+        [
+          "University of the Sacred Heart"
+        ],
+        [
+          "/wiki/University_of_the_Sacred_Heart_(Puerto_Rico)"
+        ]
       ],
       [
-        "July 12\u201315",
-        null
+        [
+          "Universidad del Sagrado Coraz\u00f3n"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Washington, D.C.,United States",
-        "/wiki/Washington,_D.C. /wiki/United_States"
+        [
+          "USC"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1,400",
-        null
+        [
+          "Santurce, Puerto Rico"
+        ],
+        [
+          "/wiki/Santurce,_Puerto_Rico"
+        ]
       ],
       [
-        "presentations,videos",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "1979"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Wikimania 2013",
-        "/wiki/HTTP_404"
+        [
+          "University of Puerto Rico at Bayam\u00f3n"
+        ],
+        [
+          "/wiki/University_of_Puerto_Rico_at_Bayam%C3%B3n"
+        ]
       ],
       [
-        "August 7\u201311",
-        null
+        [
+          "Universidad de Puerto Rico en Bayam\u00f3n"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hong Kong,China",
-        "/wiki/Hong_Kong /wiki/China"
+        [
+          "UPRB"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "700",
-        null
+        [
+          "Bayam\u00f3n, Puerto Rico"
+        ],
+        [
+          "/wiki/Bayam%C3%B3n,_Puerto_Rico"
+        ]
       ],
       [
-        "presentations,videos",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "1980"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Wikimania 2014",
-        "/wiki/HTTP_404"
+        [
+          "University of Puerto Rico at Arecibo"
+        ],
+        [
+          "/wiki/University_of_Puerto_Rico_at_Arecibo"
+        ]
       ],
       [
-        "August 6\u201310",
-        null
+        [
+          "Universidad de Puerto Rico en Arecibo"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "London,United Kingdom",
-        "/wiki/London /wiki/United_Kingdom"
+        [
+          "UPRA"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1,762",
-        null
+        [
+          "Arecibo, Puerto Rico"
+        ],
+        [
+          "/wiki/Arecibo,_Puerto_Rico"
+        ]
       ],
       [
-        "presentations,videos",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "1983"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Wikimania 2015",
-        "/wiki/HTTP_404"
+        [
+          "American University of Puerto Rico"
+        ],
+        [
+          "/wiki/American_University_of_Puerto_Rico"
+        ]
       ],
       [
-        "July 15\u201319",
-        null
+        [
+          ""
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Mexico City,Mexico",
-        "/wiki/Mexico_City /wiki/Mexico"
+        [
+          "AUPR"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "800",
-        null
+        [
+          "Bayam\u00f3n, Puerto Rico"
+        ],
+        [
+          "/wiki/Bayam%C3%B3n,_Puerto_Rico"
+        ]
       ],
       [
-        "presentations,videos",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "1991"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Wikimania 2016",
-        "/wiki/HTTP_404"
+        [
+          "Bayam\u00f3n Central University"
+        ],
+        [
+          "/wiki/Bayam%C3%B3n_Central_University"
+        ]
       ],
       [
-        "June 21\u201328",
-        null
+        [
+          "Universidad Central de Bayam\u00f3n"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Esino Lario,Italy",
-        "/wiki/Esino_Lario /wiki/Italy"
+        [
+          "UCB"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1,200",
-        null
+        [
+          "Bayam\u00f3n, Puerto Rico"
+        ],
+        [
+          "/wiki/Bayam%C3%B3n,_Puerto_Rico"
+        ]
       ],
       [
-        "presentations,videos",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "1991"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Wikimania 2017",
-        "/wiki/HTTP_404"
+        [
+          "University of Puerto Rico at Ponce"
+        ],
+        [
+          "/wiki/University_of_Puerto_Rico_at_Ponce"
+        ]
       ],
       [
-        "August 9\u201313",
-        null
+        [
+          "Universidad de Puerto Rico en Ponce"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Montreal,Quebec,Canada",
-        "/wiki/Montreal /wiki/Quebec /wiki/Canada"
+        [
+          "UPRP"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1,000",
-        null
+        [
+          "Ponce, Puerto Rico"
+        ],
+        [
+          "/wiki/Ponce,_Puerto_Rico"
+        ]
       ],
       [
-        "presentations,videos",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "1992"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Wikimania 2018",
-        "/wiki/HTTP_404"
+        [
+          "University of Puerto Rico at Aguadilla"
+        ],
+        [
+          "/wiki/University_of_Puerto_Rico_at_Aguadilla"
+        ]
       ],
       [
-        "July 18\u201322",
-        null
+        [
+          "Universidad de Puerto Rico en Aguadilla"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cape Town,South Africa",
-        "/wiki/Cape_Town /wiki/South_Africa"
+        [
+          "UPAG"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "over 700",
-        null
+        [
+          "Aguadilla, Puerto Rico"
+        ],
+        [
+          "/wiki/Aguadilla,_Puerto_Rico"
+        ]
       ],
       [
-        "presentations,videos",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "1992"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Wikimania 2019",
-        "/wiki/HTTP_404"
+        [
+          "University of Puerto Rico at Carolina"
+        ],
+        [
+          "/wiki/University_of_Puerto_Rico_at_Carolina"
+        ]
       ],
       [
-        "August 14\u201318",
-        null
+        [
+          "Universidad de Puerto Rico en Carolina"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Stockholm,Sweden",
-        "/wiki/Stockholm /wiki/Sweden"
+        [
+          "UPCA"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "over 800",
-        null
+        [
+          "Carolina, Puerto Rico"
+        ],
+        [
+          "/wiki/Carolina,_Puerto_Rico"
+        ]
       ],
       [
-        "presentations,videos",
-        "/wiki/HTTP_404 /wiki/HTTP_404"
+        [
+          "1994"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "University of Puerto Rico at Utuado"
+        ],
+        [
+          "/wiki/University_of_Puerto_Rico_at_Utuado"
+        ]
+      ],
+      [
+        [
+          "Universidad de Puerto Rico en Utuado"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "UPRU"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Utuado, Puerto Rico"
+        ],
+        [
+          "/wiki/Utuado,_Puerto_Rico"
+        ]
+      ],
+      [
+        [
+          "1998"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Polytechnic University of Puerto Rico"
+        ],
+        [
+          "/wiki/Polytechnic_University_of_Puerto_Rico"
+        ]
+      ],
+      [
+        [
+          "Universidad Polit\u00e9cnica de Puerto Rico"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "POLI"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "San Juan, Puerto Rico"
+        ],
+        [
+          "/wiki/San_Juan,_Puerto_Rico"
+        ]
+      ],
+      [
+        [
+          "1999"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Eastern University"
+        ],
+        [
+          "/wiki/Universidad_del_Este"
+        ]
+      ],
+      [
+        [
+          "Universidad del Este"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "UNE"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Carolina, Puerto Rico"
+        ],
+        [
+          "/wiki/Carolina,_Puerto_Rico"
+        ]
+      ],
+      [
+        [
+          "2005"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Metropolitan University"
+        ],
+        [
+          "/wiki/Metropolitan_University_(Puerto_Rico)"
+        ]
+      ],
+      [
+        [
+          "Universidad Metropolitana"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "UMET"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "San Juan, Puerto Rico"
+        ],
+        [
+          "/wiki/San_Juan,_Puerto_Rico"
+        ]
+      ],
+      [
+        [
+          "2005"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Caribbean University"
+        ],
+        [
+          "/wiki/Caribbean_University"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "CU"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Bayam\u00f3n, Puerto Rico"
+        ],
+        [
+          "/wiki/Bayam%C3%B3n,_Puerto_Rico"
+        ]
+      ],
+      [
+        [
+          "2005"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

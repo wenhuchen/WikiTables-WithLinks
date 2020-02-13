@@ -1,299 +1,887 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_Live_episodes",
-  "title": "List of Live episodes",
+  "url": "https://en.wikipedia.org/wiki/List_of_WAAS_reference_stations",
+  "title": "List of WAAS reference stations",
   "header": [
     [
-      "Date",
-      null
+      [
+        "City"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Co-hosts",
-      null
+      [
+        "ICAO"
+      ],
+      [
+        "/wiki/ICAO_airport_code"
+      ]
     ],
     [
-      "Guests / segments",
-      null
+      [
+        "Antenna 1"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Antenna 2"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Antenna 3"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "September 4",
-        null
+        [
+          "Bethel, Alaska"
+        ],
+        [
+          "/wiki/Bethel,_Alaska"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "PABE"
+        ],
+        [
+          "/wiki/Bethel_Airport"
+        ]
       ],
       [
-        "Maggie Gyllenhaal,Grace VanderWaal",
-        "/wiki/Maggie_Gyllenhaal /wiki/Grace_VanderWaal"
+        [
+          "60\u00b047\u203216\u2033N 161\u00b050\u203230\u2033W\ufeff / \ufeff60.787916486\u00b0N 161.841724416\u00b0W\ufeff / 60.787916486; -161.841724416\ufeff (Bethel, AK #1 - elevation 52.203 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "60\u00b047\u203216\u2033N 161\u00b050\u203230\u2033W\ufeff / \ufeff60.787897064\u00b0N 161.841663857\u00b0W\ufeff / 60.787897064; -161.841663857\ufeff (Bethel, AK #2 - elevation 52.204 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "60\u00b047\u203216\u2033N 161\u00b050\u203230\u2033W\ufeff / \ufeff60.787881127\u00b0N 161.841728605\u00b0W\ufeff / 60.787881127; -161.841728605\ufeff (Bethel, AK #3 - elevation 52.198 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 5",
-        null
+        [
+          "Billings, Montana"
+        ],
+        [
+          "/wiki/Billings,_Montana"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "KBIL"
+        ],
+        [
+          "/wiki/Billings_Logan_International_Airport"
+        ]
       ],
       [
-        "Sam Heughan,Henrik Lundqvist",
-        "/wiki/Sam_Heughan /wiki/Henrik_Lundqvist"
+        [
+          "45\u00b048\u203213\u2033N 108\u00b032\u203223\u2033W\ufeff / \ufeff45.803707088\u00b0N 108.539722283\u00b0W\ufeff / 45.803707088; -108.539722283\ufeff (Billings, MT #1 - elevation 1112.261 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "45\u00b048\u203213\u2033N 108\u00b032\u203223\u2033W\ufeff / \ufeff45.803716383\u00b0N 108.539780649\u00b0W\ufeff / 45.803716383; -108.539780649\ufeff (Billings, MT #2 - elevation 1112.266 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "45\u00b048\u203214\u2033N 108\u00b032\u203223\u2033W\ufeff / \ufeff45.803756811\u00b0N 108.539680968\u00b0W\ufeff / 45.803756811; -108.539680968\ufeff (Billings, MT #3 - elevation 1112.265 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 6",
-        null
+        [
+          "Barrow, Alaska"
+        ],
+        [
+          "/wiki/Barrow,_Alaska"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "PABR"
+        ],
+        [
+          "/wiki/Wiley_Post-Will_Rogers_Memorial_Airport"
+        ]
       ],
       [
-        "Liev Schreiber,Taylor Kitsch,Rosanna Pansino",
-        "/wiki/Liev_Schreiber /wiki/Taylor_Kitsch /wiki/Rosanna_Pansino"
+        [
+          "71\u00b016\u203258\u2033N 156\u00b047\u203224\u2033W\ufeff / \ufeff71.282765883\u00b0N 156.789923397\u00b0W\ufeff / 71.282765883; -156.789923397\ufeff (Barrow, AK #1 - elevation 15.577 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "71\u00b016\u203258\u2033N 156\u00b047\u203224\u2033W\ufeff / \ufeff71.282798595\u00b0N 156.789965306\u00b0W\ufeff / 71.282798595; -156.789965306\ufeff (Barrow, AK #2 - elevation 15.589 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "71\u00b016\u203258\u2033N 156\u00b047\u203223\u2033W\ufeff / \ufeff71.282793925\u00b0N 156.789856228\u00b0W\ufeff / 71.282793925; -156.789856228\ufeff (Barrow, AK #3 - elevation 15.577 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 7",
-        null
+        [
+          "Cold Bay, Alaska"
+        ],
+        [
+          "/wiki/Cold_Bay,_Alaska"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "PACD"
+        ],
+        [
+          "/wiki/Cold_Bay_Airport"
+        ]
       ],
       [
-        "Seth MacFarlane,Caitriona Balfe,Lindsey Stirling,Kelly,Instagram",
-        "/wiki/Seth_MacFarlane /wiki/Caitriona_Balfe /wiki/Lindsey_Stirling /wiki/Kelly_Ripa /wiki/Instagram"
+        [
+          "55\u00b012\u203201\u2033N 162\u00b043\u203206\u2033W\ufeff / \ufeff55.200334771\u00b0N 162.718472052\u00b0W\ufeff / 55.200334771; -162.718472052\ufeff (Cold Bay, AK #1 - elevation 53.648 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "55\u00b012\u203201\u2033N 162\u00b043\u203207\u2033W\ufeff / \ufeff55.200394330\u00b0N 162.718489390\u00b0W\ufeff / 55.200394330; -162.718489390\ufeff (Cold Bay, AK #2 - elevation 53.652 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "55\u00b012\u203201\u2033N 162\u00b043\u203207\u2033W\ufeff / \ufeff55.200400493\u00b0N 162.718623936\u00b0W\ufeff / 55.200400493; -162.718623936\ufeff (Cold Bay, AK #3 - elevation 53.657 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 8",
-        null
+        [
+          "Fairbanks, Alaska"
+        ],
+        [
+          "/wiki/Fairbanks,_Alaska"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "PAFA"
+        ],
+        [
+          "/wiki/Fairbanks_International_Airport"
+        ]
       ],
       [
-        "Gwendoline Christie,Fifth Harmony,Ryan,Instagram",
-        "/wiki/Gwendoline_Christie /wiki/Fifth_Harmony /wiki/Ryan_Seacrest /wiki/Instagram"
+        [
+          "64\u00b048\u203235\u2033N 147\u00b050\u203250\u2033W\ufeff / \ufeff64.809630987\u00b0N 147.847339789\u00b0W\ufeff / 64.809630987; -147.847339789\ufeff (Fairbanks, AK #1 - elevation 149.891 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "64\u00b048\u203235\u2033N 147\u00b050\u203251\u2033W\ufeff / \ufeff64.809681435\u00b0N 147.847491409\u00b0W\ufeff / 64.809681435; -147.847491409\ufeff (Fairbanks, AK #2 - elevation 149.897 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "64\u00b048\u203235\u2033N 147\u00b050\u203251\u2033W\ufeff / \ufeff64.809748030\u00b0N 147.847379206\u00b0W\ufeff / 64.809748030; -147.847379206\ufeff (Fairbanks, AK #3 - elevation 149.876 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 11",
-        null
+        [
+          "Honolulu, Hawaii"
+        ],
+        [
+          "/wiki/Honolulu,_Hawaii"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "PHNL"
+        ],
+        [
+          "/wiki/Honolulu_International_Airport"
+        ]
       ],
       [
-        "Chris Harrison,Sloane Stephens",
-        "/wiki/Chris_Harrison /wiki/Sloane_Stephens"
+        [
+          "21\u00b018\u203247\u2033N 157\u00b055\u203215\u2033W\ufeff / \ufeff21.312988930\u00b0N 157.920824884\u00b0W\ufeff / 21.312988930; -157.920824884\ufeff (Honolulu, HI #1 - elevation 24.678 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "21\u00b018\u203246\u2033N 157\u00b055\u203216\u2033W\ufeff / \ufeff21.312645960\u00b0N 157.920980760\u00b0W\ufeff / 21.312645960; -157.920980760\ufeff (Honolulu, HI #2 - elevation 25.022 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "21\u00b018\u203246\u2033N 157\u00b055\u203215\u2033W\ufeff / \ufeff21.312714586\u00b0N 157.920825156\u00b0W\ufeff / 21.312714586; -157.920825156\ufeff (Honolulu, HI #3 - elevation 25.067 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 12",
-        null
+        [
+          "Juneau, Alaska"
+        ],
+        [
+          "/wiki/Juneau,_Alaska"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "PAJN"
+        ],
+        [
+          "/wiki/Juneau_International_Airport"
+        ]
       ],
       [
-        "Kirsten Dunst,Gabriel Macht,Cara Mund",
-        "/wiki/Kirsten_Dunst /wiki/Gabriel_Macht /wiki/Cara_Mund"
+        [
+          "58\u00b021\u203245\u2033N 134\u00b035\u203209\u2033W\ufeff / \ufeff58.362575024\u00b0N 134.585705943\u00b0W\ufeff / 58.362575024; -134.585705943\ufeff (Juneau, AK #1 - elevation 16.024 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "58\u00b021\u203245\u2033N 134\u00b035\u203208\u2033W\ufeff / \ufeff58.362469451\u00b0N 134.585487326\u00b0W\ufeff / 58.362469451; -134.585487326\ufeff (Juneau, AK #2 - elevation 16.029 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "58\u00b021\u203245\u2033N 134\u00b035\u203207\u2033W\ufeff / \ufeff58.362545895\u00b0N 134.585292259\u00b0W\ufeff / 58.362545895; -134.585292259\ufeff (Juneau, AK #3 - elevation 16.020 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 13",
-        null
+        [
+          "M\u00e9rida, Yucat\u00e1n"
+        ],
+        [
+          "/wiki/M%C3%A9rida,_Yucat%C3%A1n"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "MMMD"
+        ],
+        [
+          "/wiki/Manuel_Crescencio_Rej%C3%B3n_International_Airport"
+        ]
       ],
       [
-        "Julianne Moore,Alan Cumming,Tao Porchon-Lynch",
-        "/wiki/Julianne_Moore /wiki/Alan_Cumming /wiki/Tao_Porchon-Lynch"
+        [
+          "20\u00b055\u203255\u2033N 89\u00b039\u203246\u2033W\ufeff / \ufeff20.931909130\u00b0N 089.662840352\u00b0W\ufeff / 20.931909130; -089.662840352\ufeff (M\u00e9rida, YUC #1 - elevation 29.133 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "20\u00b055\u203255\u2033N 89\u00b039\u203246\u2033W\ufeff / \ufeff20.931901399\u00b0N 089.662887739\u00b0W\ufeff / 20.931901399; -089.662887739\ufeff (M\u00e9rida, YUC #2 - elevation 29.171 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "20\u00b055\u203255\u2033N 89\u00b039\u203246\u2033W\ufeff / \ufeff20.931946482\u00b0N 089.662890840\u00b0W\ufeff / 20.931946482; -089.662890840\ufeff (M\u00e9rida, YUC #3 - elevation 29.168 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 14",
-        null
+        [
+          "Mexico City"
+        ],
+        [
+          "/wiki/Mexico_City"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "MMMX"
+        ],
+        [
+          "/wiki/Mexico_City_International_Airport"
+        ]
       ],
       [
-        "Ice-T",
-        "/wiki/Ice-T"
+        [
+          "19\u00b025\u203254\u2033N 99\u00b004\u203206\u2033W\ufeff / \ufeff19.431653203\u00b0N 099.068389471\u00b0W\ufeff / 19.431653203; -099.068389471\ufeff (Mexico City, DIF #1 - elevation 2236.638 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "19\u00b025\u203254\u2033N 99\u00b004\u203206\u2033W\ufeff / \ufeff19.431676477\u00b0N 099.068348099\u00b0W\ufeff / 19.431676477; -099.068348099\ufeff (Mexico City, DIF #2 - elevation 2236.625 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "19\u00b025\u203254\u2033N 99\u00b004\u203206\u2033W\ufeff / \ufeff19.431629899\u00b0N 099.068430820\u00b0W\ufeff / 19.431629899; -099.068430820\ufeff (Mexico City, DIF #3 - elevation 2236.652 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 15",
-        null
+        [
+          "Puerto Vallarta, Jalisco"
+        ],
+        [
+          "/wiki/Puerto_Vallarta,_Jalisco"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "MMPR"
+        ],
+        [
+          "/wiki/Lic._Gustavo_D%C3%ADaz_Ordaz_International_Airport"
+        ]
       ],
       [
-        "Jeffrey Tambor,Julia Stiles",
-        "/wiki/Jeffrey_Tambor /wiki/Julia_Stiles"
+        [
+          "20\u00b040\u203244\u2033N 105\u00b014\u203257\u2033W\ufeff / \ufeff20.679003359\u00b0N 105.249202871\u00b0W\ufeff / 20.679003359; -105.249202871\ufeff (Puerto Vallarta, JAL #1 - elevation 10.973 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "20\u00b040\u203245\u2033N 105\u00b014\u203257\u2033W\ufeff / \ufeff20.679041461\u00b0N 105.249177972\u00b0W\ufeff / 20.679041461; -105.249177972\ufeff (Puerto Vallarta, JAL #2 - elevation 11.269 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "20\u00b040\u203245\u2033N 105\u00b014\u203257\u2033W\ufeff / \ufeff20.679059454\u00b0N 105.249221363\u00b0W\ufeff / 20.679059454; -105.249221363\ufeff (Puerto Vallarta, JAL #3 - elevation 10.990 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 18",
-        null
+        [
+          "San Jos\u00e9 del Cabo, Baja California Sur"
+        ],
+        [
+          "/wiki/San_Jos%C3%A9_del_Cabo,_Baja_California_Sur"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "MMSD"
+        ],
+        [
+          "/wiki/Los_Cabos_International_Airport"
+        ]
       ],
       [
-        "Ben McKenzie,Shonda Rhimes",
-        "/wiki/Ben_McKenzie /wiki/Shonda_Rhimes"
+        [
+          "23\u00b009\u203238\u2033N 109\u00b043\u203204\u2033W\ufeff / \ufeff23.160445938\u00b0N 109.717646195\u00b0W\ufeff / 23.160445938; -109.717646195\ufeff (San Jos\u00e9 del Cabo, BCS #1 - elevation 104.297 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "23\u00b009\u203237\u2033N 109\u00b043\u203204\u2033W\ufeff / \ufeff23.160383141\u00b0N 109.717652895\u00b0W\ufeff / 23.160383141; -109.717652895\ufeff (San Jos\u00e9 del Cabo, BCS #2 - elevation 104.285 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "23\u00b009\u203238\u2033N 109\u00b043\u203204\u2033W\ufeff / \ufeff23.160419201\u00b0N 109.717704568\u00b0W\ufeff / 23.160419201; -109.717704568\ufeff (San Jos\u00e9 del Cabo, BCS #3 - elevation 104.277 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 19",
-        null
+        [
+          "Tapachula, Chiapas"
+        ],
+        [
+          "/wiki/Tapachula,_Chiapas"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "MMTP"
+        ],
+        [
+          "/wiki/Tapachula_International_Airport"
+        ]
       ],
       [
-        "Demi Moore,David Muir",
-        "/wiki/Demi_Moore /wiki/David_Muir"
+        [
+          "14\u00b047\u203229\u2033N 92\u00b022\u203205\u2033W\ufeff / \ufeff14.791366074\u00b0N 092.367999089\u00b0W\ufeff / 14.791366074; -092.367999089\ufeff (Tapachula, CHP #1 - elevation 54.962 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "14\u00b047\u203229\u2033N 92\u00b022\u203205\u2033W\ufeff / \ufeff14.791334042\u00b0N 092.367965119\u00b0W\ufeff / 14.791334042; -092.367965119\ufeff (Tapachula, CHP #2 - elevation 54.950 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "14\u00b047\u203229\u2033N 92\u00b022\u203205\u2033W\ufeff / \ufeff14.791319966\u00b0N 092.368009440\u00b0W\ufeff / 14.791319966; -092.368009440\ufeff (Tapachula, CHP #3 - elevation 54.855 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 20",
-        null
+        [
+          "Kotzebue, Alaska"
+        ],
+        [
+          "/wiki/Kotzebue,_Alaska"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "PAOT"
+        ],
+        [
+          "/wiki/Ralph_Wien_Memorial_Airport"
+        ]
       ],
       [
-        "Ben Stiller",
-        "/wiki/Ben_Stiller"
+        [
+          "66\u00b053\u203214\u2033N 162\u00b036\u203241\u2033W\ufeff / \ufeff66.887333160\u00b0N 162.611372024\u00b0W\ufeff / 66.887333160; -162.611372024\ufeff (Kotzebue, AK #1 - elevation 10.911 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "66\u00b053\u203215\u2033N 162\u00b036\u203241\u2033W\ufeff / \ufeff66.887368005\u00b0N 162.611390215\u00b0W\ufeff / 66.887368005; -162.611390215\ufeff (Kotzebue, AK #2 - elevation 10.909 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "66\u00b053\u203214\u2033N 162\u00b036\u203241\u2033W\ufeff / \ufeff66.887356742\u00b0N 162.611304386\u00b0W\ufeff / 66.887356742; -162.611304386\ufeff (Kotzebue, AK #3 - elevation 10.913 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 21",
-        null
+        [
+          "Iqaluit, Nunavut"
+        ],
+        [
+          "/wiki/Iqaluit,_Nunavut"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "CYFB"
+        ],
+        [
+          "/wiki/Iqaluit_Airport"
+        ]
       ],
       [
-        "Emma Stone,Joanne Froggatt",
-        "/wiki/Emma_Stone /wiki/Joanne_Froggatt"
+        [
+          "63\u00b043\u203253\u2033N 68\u00b032\u203235\u2033W\ufeff / \ufeff63.731490169\u00b0N 068.543181586\u00b0W\ufeff / 63.731490169; -068.543181586\ufeff (Iqaluit, NU #1 - elevation 10.022 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "63\u00b043\u203253\u2033N 68\u00b032\u203236\u2033W\ufeff / \ufeff63.731464001\u00b0N 068.543402553\u00b0W\ufeff / 63.731464001; -068.543402553\ufeff (Iqaluit, NU #2 - elevation 9.957 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "63\u00b043\u203253\u2033N 68\u00b032\u203237\u2033W\ufeff / \ufeff63.731386362\u00b0N 068.543596671\u00b0W\ufeff / 63.731386362; -068.543596671\ufeff (Iqaluit, NU #3 - elevation 10.014 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 22",
-        null
+        [
+          "Gander, Newfoundland and Labrador"
+        ],
+        [
+          "/wiki/Gander,_Newfoundland_and_Labrador"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "CYQX"
+        ],
+        [
+          "/wiki/Gander_International_Airport"
+        ]
       ],
       [
-        "Colin Firth,Sonya Fitzpatrick",
-        "/wiki/Colin_Firth /wiki/Sonya_Fitzpatrick"
+        [
+          "48\u00b057\u203259\u2033N 54\u00b035\u203251\u2033W\ufeff / \ufeff48.966489496\u00b0N 054.597631164\u00b0W\ufeff / 48.966489496; -054.597631164\ufeff (Gander, NL #1 - elevation 146.888 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "48\u00b057\u203259\u2033N 54\u00b035\u203251\u2033W\ufeff / \ufeff48.966447606\u00b0N 054.597532034\u00b0W\ufeff / 48.966447606; -054.597532034\ufeff (Gander, NL #2 - elevation 146.887 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "48\u00b057\u203259\u2033N 54\u00b035\u203251\u2033W\ufeff / \ufeff48.966406383\u00b0N 054.597433025\u00b0W\ufeff / 48.966406383; -054.597433025\ufeff (Gander, NL #3 - elevation 146.899 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 25",
-        null
+        [
+          "Winnipeg, Manitoba"
+        ],
+        [
+          "/wiki/Winnipeg,_Manitoba"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "CYWG"
+        ],
+        [
+          "/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport"
+        ]
       ],
       [
-        "Kristin Chenoweth,Jussie Smollett,iHeartRadio",
-        "/wiki/Kristin_Chenoweth /wiki/Jussie_Smollett /wiki/IHeartRadio"
+        [
+          "49\u00b054\u203202\u2033N 97\u00b015\u203234\u2033W\ufeff / \ufeff49.900574663\u00b0N 097.259396222\u00b0W\ufeff / 49.900574663; -097.259396222\ufeff (Winnipeg, MB #1 - elevation 222.042 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "49\u00b054\u203202\u2033N 97\u00b015\u203233\u2033W\ufeff / \ufeff49.900677586\u00b0N 097.259217224\u00b0W\ufeff / 49.900677586; -097.259217224\ufeff (Winnipeg, MB #2 - elevation 222.051 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "49\u00b054\u203202\u2033N 97\u00b015\u203233\u2033W\ufeff / \ufeff49.900568446\u00b0N 097.259226893\u00b0W\ufeff / 49.900568446; -097.259226893\ufeff (Winnipeg, MB #3 - elevation 222.045 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 26",
-        null
+        [
+          "Goose Bay, Newfoundland and Labrador"
+        ],
+        [
+          "/wiki/Goose_Bay,_Newfoundland_and_Labrador"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "CYYR"
+        ],
+        [
+          "/wiki/CFB_Goose_Bay"
+        ]
       ],
       [
-        "Michael Weatherly,Katy Mixon,Chris Janson",
-        "/wiki/Michael_Weatherly /wiki/Katy_Mixon /wiki/Chris_Janson"
+        [
+          "53\u00b018\u203231\u2033N 60\u00b025\u203210\u2033W\ufeff / \ufeff53.308646665\u00b0N 060.419467188\u00b0W\ufeff / 53.308646665; -060.419467188\ufeff (Goose Bay, NL #1 - elevation 37.830 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "53\u00b018\u203231\u2033N 60\u00b025\u203210\u2033W\ufeff / \ufeff53.308713007\u00b0N 060.419365697\u00b0W\ufeff / 53.308713007; -060.419365697\ufeff (Goose Bay, NL #2 - elevation 37.844 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "53\u00b018\u203232\u2033N 60\u00b025\u203210\u2033W\ufeff / \ufeff53.308803193\u00b0N 060.419371104\u00b0W\ufeff / 53.308803193; -060.419371104\ufeff (Goose Bay, NL #3 - elevation 37.853 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 27",
-        null
+        [
+          "Albuquerque, New Mexico"
+        ],
+        [
+          "/wiki/Albuquerque,_New_Mexico"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "KZAB"
+        ],
+        [
+          "/wiki/Albuquerque_Air_Route_Traffic_Control_Center"
+        ]
       ],
       [
-        "Kiefer Sutherland,David Boreanaz",
-        "/wiki/Kiefer_Sutherland /wiki/David_Boreanaz"
+        [
+          "35\u00b010\u203225\u2033N 106\u00b034\u203202\u2033W\ufeff / \ufeff35.173575457\u00b0N 106.567349162\u00b0W\ufeff / 35.173575457; -106.567349162\ufeff (Albuquerque, NM #1 - elevation 1620.117 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "35\u00b010\u203225\u2033N 106\u00b034\u203202\u2033W\ufeff / \ufeff35.173574799\u00b0N 106.567287780\u00b0W\ufeff / 35.173574799; -106.567287780\ufeff (Albuquerque, NM #2 - elevation 1620.181 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "35\u00b010\u203225\u2033N 106\u00b034\u203202\u2033W\ufeff / \ufeff35.173532365\u00b0N 106.567287878\u00b0W\ufeff / 35.173532365; -106.567287878\ufeff (Albuquerque, NM #3 - elevation 1620.164 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 28",
-        null
+        [
+          "Anchorage, Alaska"
+        ],
+        [
+          "/wiki/Anchorage,_Alaska"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "PAZA"
+        ],
+        [
+          "/wiki/Anchorage_Air_Route_Traffic_Control_Center"
+        ]
       ],
       [
-        "Viola Davis,Adam Scott",
-        "/wiki/Viola_Davis /wiki/Adam_Scott_(actor)"
+        [
+          "61\u00b013\u203245\u2033N 149\u00b046\u203249\u2033W\ufeff / \ufeff61.229202467\u00b0N 149.780248917\u00b0W\ufeff / 61.229202467; -149.780248917\ufeff (Anchorage, AK #1 - elevation 80.660 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "61\u00b013\u203245\u2033N 149\u00b046\u203250\u2033W\ufeff / \ufeff61.229118812\u00b0N 149.780422686\u00b0W\ufeff / 61.229118812; -149.780422686\ufeff (Anchorage, AK #2 - elevation 80.653 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "61\u00b013\u203245\u2033N 149\u00b046\u203250\u2033W\ufeff / \ufeff61.229202391\u00b0N 149.780423003\u00b0W\ufeff / 61.229202391; -149.780423003\ufeff (Anchorage, AK #3 - elevation 80.648 m)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "September 29",
-        null
+        [
+          "Aurora, Illinois"
+        ],
+        [
+          "/wiki/Aurora,_Illinois"
+        ]
       ],
       [
-        "Kelly Ripa,Ryan Seacrest",
-        "/wiki/Kelly_Ripa /wiki/Ryan_Seacrest"
+        [
+          "KZAU"
+        ],
+        [
+          "/wiki/Chicago_Air_Route_Traffic_Control_Center"
+        ]
       ],
       [
-        "Tom Selleck,Mark Feuerstein",
-        "/wiki/Tom_Selleck /wiki/Mark_Feuerstein"
+        [
+          "41\u00b046\u203258\u2033N 88\u00b019\u203253\u2033W\ufeff / \ufeff41.782657876\u00b0N 088.331335953\u00b0W\ufeff / 41.782657876; -088.331335953\ufeff (Aurora, IL #1 - elevation 195.918 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "41\u00b046\u203257\u2033N 88\u00b019\u203253\u2033W\ufeff / \ufeff41.782595526\u00b0N 088.331334442\u00b0W\ufeff / 41.782595526; -088.331334442\ufeff (Aurora, IL #2 - elevation 195.921 m)"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "41\u00b046\u203257\u2033N 88\u00b019\u203253\u2033W\ufeff / \ufeff41.782596464\u00b0N 088.331253756\u00b0W\ufeff / 41.782596464; -088.331253756\ufeff (Aurora, IL #3 - elevation 195.926 m)"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

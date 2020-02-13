@@ -1,554 +1,386 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Sport_in_India",
-  "title": "Sport in India",
+  "url": "https://en.wikipedia.org/wiki/MICEX_10",
+  "title": "MICEX 10",
   "header": [
     [
-      "League",
-      null
+      [
+        "Company"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Current Sponsored",
-      null
+      [
+        "Ticker symbol"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Game",
-      null
+      [
+        "Industry"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Participation",
-      null
-    ],
-    [
-      "Seasons",
-      null
-    ],
-    [
-      "Teams",
-      null
+      [
+        "Stock type"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "All India & South Asia Rugby Tournament",
-        "/wiki/All_India_%26_South_Asia_Rugby_Tournament"
+        [
+          "NorNickel"
+        ],
+        [
+          "/wiki/MMC_Norilsk_Nickel"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "GMKN"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Rugby Union",
-        "/wiki/Rugby_Union"
+        [
+          "Precious",
+          "non-ferrous",
+          "metals"
+        ],
+        [
+          "/wiki/Precious_metal",
+          "/wiki/Non-ferrous_metal",
+          "/wiki/Metallurgy"
+        ]
       ],
       [
-        "Club Teams",
-        null
-      ],
-      [
-        "6",
-        null
-      ],
-      [
-        "10",
-        null
+        [
+          "Common"
+        ],
+        [
+          "/wiki/Common_stock"
+        ]
       ]
     ],
     [
       [
-        "Champions Tennis League",
-        "/wiki/Champions_Tennis_League"
+        [
+          "Alrosa"
+        ],
+        [
+          "/wiki/Alrosa"
+        ]
       ],
       [
-        "Aircel",
-        "/wiki/Aircel"
+        [
+          "ALRS"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Mining"
+        ],
+        [
+          "/wiki/Mining"
+        ]
       ],
       [
-        "Club Teams",
-        null
-      ],
-      [
-        "2",
-        null
-      ],
-      [
-        "6",
-        null
+        [
+          "Common"
+        ],
+        [
+          "/wiki/Common_stock"
+        ]
       ]
     ],
     [
       [
-        "Deodhar Trophy",
-        "/wiki/Deodhar_Trophy"
+        [
+          "Moscow Exchange"
+        ],
+        [
+          "/wiki/Moscow_Exchange"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "MOEX"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cricket,List A",
-        "/wiki/Cricket /wiki/List_A_cricket"
+        [
+          "Finance"
+        ],
+        [
+          "/wiki/Finance"
+        ]
       ],
       [
-        "Zonal Teams",
-        null
-      ],
-      [
-        "44",
-        null
-      ],
-      [
-        "5",
-        null
+        [
+          "Common"
+        ],
+        [
+          "/wiki/Common_stock"
+        ]
       ]
     ],
     [
       [
-        "Duleep Trophy",
-        "/wiki/Duleep_Trophy"
+        [
+          "Gazprom"
+        ],
+        [
+          "/wiki/Gazprom"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "GAZP"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cricket,First Class",
-        "/wiki/Cricket /wiki/First-class_cricket"
+        [
+          "Oil & gas"
+        ],
+        [
+          "/wiki/Hydrocarbon_exploration"
+        ]
       ],
       [
-        "Zonal Teams",
-        null
-      ],
-      [
-        "56",
-        null
-      ],
-      [
-        "5",
-        null
+        [
+          "Common"
+        ],
+        [
+          "/wiki/Common_stock"
+        ]
       ]
     ],
     [
       [
-        "Elite Football League of India",
-        "/wiki/Elite_Football_League_of_India"
+        [
+          "FGC UES"
+        ],
+        [
+          "/wiki/FGC_UES"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "FEES"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "American Football",
-        "/wiki/American_Football"
+        [
+          "Electric utility"
+        ],
+        [
+          "/wiki/Electric_utility"
+        ]
       ],
       [
-        "Club Teams",
-        null
-      ],
-      [
-        "2",
-        null
-      ],
-      [
-        "24",
-        null
+        [
+          "Common"
+        ],
+        [
+          "/wiki/Common_stock"
+        ]
       ]
     ],
     [
       [
-        "Golf Premier League",
-        "/wiki/Golf_Premier_League"
+        [
+          "Lukoil"
+        ],
+        [
+          "/wiki/Lukoil"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "LKOH"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Oil & gas"
+        ],
+        [
+          "/wiki/Hydrocarbon_exploration"
+        ]
       ],
       [
-        "Club Teams",
-        null
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "8",
-        null
+        [
+          "Common"
+        ],
+        [
+          "/wiki/Common_stock"
+        ]
       ]
     ],
     [
       [
-        "Hockey India League",
-        "/wiki/Hockey_India_League"
+        [
+          "Sberbank"
+        ],
+        [
+          "/wiki/Sberbank"
+        ]
       ],
       [
-        "Hero",
-        "/wiki/Hero_MotoCorp"
+        [
+          "SBER"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Hockey",
-        "/wiki/Field_Hockey"
+        [
+          "Banking"
+        ],
+        [
+          "/wiki/Banking"
+        ]
       ],
       [
-        "Club Teams",
-        null
-      ],
-      [
-        "4",
-        null
-      ],
-      [
-        "6",
-        null
+        [
+          "Common"
+        ],
+        [
+          "/wiki/Common_stock"
+        ]
       ]
     ],
     [
       [
-        "Indian Premier League",
-        "/wiki/Indian_Premier_League"
+        [
+          "Rosneft"
+        ],
+        [
+          "/wiki/Rosneft"
+        ]
       ],
       [
-        "Vivo",
-        "/wiki/Vivo_(smartphone)"
+        [
+          "ROSN"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Cricket,Twenty20",
-        "/wiki/Cricket /wiki/Twenty20"
+        [
+          "Oil & gas"
+        ],
+        [
+          "/wiki/Hydrocarbon_exploration"
+        ]
       ],
       [
-        "Club Teams",
-        null
-      ],
-      [
-        "10",
-        null
-      ],
-      [
-        "8",
-        null
+        [
+          "Common"
+        ],
+        [
+          "/wiki/Common_stock"
+        ]
       ]
     ],
     [
       [
-        "Indian Super League",
-        "/wiki/Indian_Super_League"
+        [
+          "Magnit"
+        ],
+        [
+          "/wiki/Magnit"
+        ]
       ],
       [
-        "Hero",
-        "/wiki/Hero_MotoCorp"
+        [
+          "MGNT"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "Football",
-        "/wiki/Association_Football"
+        [
+          "Retail"
+        ],
+        [
+          "/wiki/Retail"
+        ]
       ],
       [
-        "Club Teams",
-        null
-      ],
-      [
-        "3",
-        null
-      ],
-      [
-        "10",
-        null
+        [
+          "Common"
+        ],
+        [
+          "/wiki/Common_stock"
+        ]
       ]
     ],
     [
       [
-        "Indian Volley League",
-        "/wiki/Indian_Volley_League"
+        [
+          "RusHydro"
+        ],
+        [
+          "/wiki/RusHydro"
+        ]
       ],
       [
-        "",
-        null
+        [
+          "HYDR"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "",
-        null
+        [
+          "Electric utility"
+        ],
+        [
+          "/wiki/Electric_utility"
+        ]
       ],
       [
-        "Club Teams",
-        null
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "6",
-        null
-      ]
-    ],
-    [
-      [
-        "I-League",
-        "/wiki/I-League"
-      ],
-      [
-        "Hero",
-        "/wiki/Hero_MotoCorp"
-      ],
-      [
-        "Football",
-        "/wiki/Association_Football"
-      ],
-      [
-        "Club Teams",
-        null
-      ],
-      [
-        "10",
-        null
-      ],
-      [
-        "10",
-        null
-      ]
-    ],
-    [
-      [
-        "I-League 2nd Division",
-        "/wiki/I-League_2nd_Division"
-      ],
-      [
-        "Hero",
-        "/wiki/Hero_MotoCorp"
-      ],
-      [
-        "Football",
-        "/wiki/Association_Football"
-      ],
-      [
-        "Club Teams",
-        null
-      ],
-      [
-        "10",
-        null
-      ],
-      [
-        "18",
-        null
-      ]
-    ],
-    [
-      [
-        "Premier Badminton League",
-        "/wiki/Premier_Badminton_League"
-      ],
-      [
-        "Star Sports,Bridgestone",
-        "/wiki/Star_Sports_(Indian_TV_network) /wiki/Bridgestone"
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "Club Teams",
-        null
-      ],
-      [
-        "5",
-        null
-      ],
-      [
-        "7",
-        null
-      ]
-    ],
-    [
-      [
-        "Premier Futsal",
-        "/wiki/Premier_Futsal"
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "Futsal",
-        "/wiki/Futsal"
-      ],
-      [
-        "Club Teams",
-        null
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "6",
-        null
-      ]
-    ],
-    [
-      [
-        "Pro Kabaddi League",
-        "/wiki/Pro_Kabaddi_League"
-      ],
-      [
-        "Vivo",
-        "/wiki/Vivo_Smartphone"
-      ],
-      [
-        "Kabaddi",
-        "/wiki/Kabaddi"
-      ],
-      [
-        "Club Teams",
-        null
-      ],
-      [
-        "6",
-        null
-      ],
-      [
-        "12",
-        null
-      ]
-    ],
-    [
-      [
-        "Pro Wrestling League",
-        "/wiki/Pro_Wrestling_League"
-      ],
-      [
-        "Patanjali",
-        "/wiki/Patanjali_Ayurved"
-      ],
-      [
-        "Wrestling",
-        "/wiki/Wrestling"
-      ],
-      [
-        "Club Teams",
-        null
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "8",
-        null
-      ]
-    ],
-    [
-      [
-        "Ranji Trophy",
-        "/wiki/Ranji_Trophy"
-      ],
-      [
-        "Paytm",
-        "/wiki/Paytm"
-      ],
-      [
-        "Cricket,First Class",
-        "/wiki/Cricket /wiki/First-class_cricket"
-      ],
-      [
-        "State Teams",
-        null
-      ],
-      [
-        "82",
-        null
-      ],
-      [
-        "27",
-        null
-      ]
-    ],
-    [
-      [
-        "UBA Pro Basketball League",
-        "/wiki/UBA_Pro_Basketball_League"
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "Club Teams",
-        null
-      ],
-      [
-        "4",
-        null
-      ],
-      [
-        "8",
-        null
-      ]
-    ],
-    [
-      [
-        "Vijay Hazare Trophy",
-        "/wiki/Vijay_Hazare_Trophy"
-      ],
-      [
-        "",
-        null
-      ],
-      [
-        "Cricket,List A",
-        "/wiki/Cricket /wiki/List_A_cricket"
-      ],
-      [
-        "State Teams",
-        null
-      ],
-      [
-        "15",
-        null
-      ],
-      [
-        "27",
-        null
-      ]
-    ],
-    [
-      [
-        "Women's Kabaddi Challenge",
-        "/wiki/Women%27s_Kabaddi_Challenge"
-      ],
-      [
-        "Star Sports",
-        "/wiki/Star_Sports"
-      ],
-      [
-        "Kabaddi",
-        "/wiki/Kabaddi"
-      ],
-      [
-        "Club Teams",
-        null
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "3",
-        null
+        [
+          "Common"
+        ],
+        [
+          "/wiki/Common_stock"
+        ]
       ]
     ]
   ],
-  "context": "The no of season are as on August 2015.",
+  "context": "",
   "idx": 8201
 }

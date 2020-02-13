@@ -1,218 +1,432 @@
 {
-  "url": "https://en.wikipedia.org/wiki/Indo-Canadians",
-  "title": "Indo-Canadians",
+  "url": "https://en.wikipedia.org/wiki/Danse_avec_les_stars_(season_3)",
+  "title": "Danse avec les stars (season 3)",
   "header": [
     [
-      "Province",
-      "/wiki/Provinces_and_territories_of_Canada"
+      [
+        "Dance"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Indian",
-      "/wiki/India"
+      [
+        "Best dancer"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "%",
-      null
+      [
+        "Best score"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Worst dancer"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Worst score"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "Ontario",
-        "/wiki/Ontario"
+        [
+          "Cha-cha-cha"
+        ],
+        [
+          "/wiki/Cha-cha-cha_(dance)"
+        ]
       ],
       [
-        "774,495",
-        null
+        [
+          "Amel Bent"
+        ],
+        [
+          "/wiki/Amel_Bent"
+        ]
       ],
       [
-        "5.8%",
-        null
+        [
+          "37"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ta\u00efg Khris"
+        ],
+        [
+          "/wiki/Ta%C3%AFg_Khris"
+        ]
+      ],
+      [
+        [
+          "22"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "British Columbia",
-        "/wiki/British_Columbia"
+        [
+          "Quickstep"
+        ],
+        [
+          "/wiki/Quickstep"
+        ]
       ],
       [
-        "309,315",
-        null
+        [
+          "Lorie",
+          "Amel Bent"
+        ],
+        [
+          "/wiki/Lorie_(singer)",
+          "/wiki/Amel_Bent"
+        ]
       ],
       [
-        "6.7%",
-        null
+        [
+          "33"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "G\u00e9rard Vives"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "18"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Qu\u00e9bec",
-        "/wiki/Quebec"
+        [
+          "Tango"
+        ],
+        [
+          "/wiki/Tango_(dance)"
+        ]
       ],
       [
-        "51,650",
-        null
+        [
+          "Emmanuel Moire"
+        ],
+        [
+          "/wiki/Emmanuel_Moire"
+        ]
       ],
       [
-        "0.6%",
-        null
+        [
+          "38"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Chim\u00e8ne Badi"
+        ],
+        [
+          "/wiki/Chim%C3%A8ne_Badi"
+        ]
+      ],
+      [
+        [
+          "17"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Alberta",
-        "/wiki/Alberta"
+        [
+          "Jive"
+        ],
+        [
+          "/wiki/Jive_(dance)"
+        ]
       ],
       [
-        "174,505",
-        null
+        [
+          "Amel Bent"
+        ],
+        [
+          "/wiki/Amel_Bent"
+        ]
       ],
       [
-        "4.3%",
-        null
+        [
+          "38"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Chim\u00e8ne Badi"
+        ],
+        [
+          "/wiki/Chim%C3%A8ne_Badi"
+        ]
+      ],
+      [
+        [
+          "21"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Manitoba",
-        "/wiki/Manitoba"
+        [
+          "Foxtrot"
+        ],
+        [
+          "/wiki/Foxtrot"
+        ]
       ],
       [
-        "34,470",
-        null
+        [
+          "Amel Bent"
+        ],
+        [
+          "/wiki/Amel_Bent"
+        ]
       ],
       [
-        "2.7%",
-        null
+        [
+          "38"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "G\u00e9rard Vives"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "19"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Saskatchewan",
-        "/wiki/Saskatchewan"
+        [
+          "Samba"
+        ],
+        [
+          "/wiki/Samba"
+        ]
       ],
       [
-        "18,695",
-        null
+        [
+          "Lorie"
+        ],
+        [
+          "/wiki/Lorie_(singer)"
+        ]
       ],
       [
-        "1.7%",
-        null
+        [
+          "37"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Estelle Lef\u00e9bure"
+        ],
+        [
+          "/wiki/Estelle_Lef%C3%A9bure"
+        ]
+      ],
+      [
+        [
+          "25"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Nova Scotia",
-        "/wiki/Nova_Scotia"
+        [
+          "Viennese Waltz"
+        ],
+        [
+          "/wiki/Viennese_Waltz"
+        ]
       ],
       [
-        "6,255",
-        null
+        [
+          "Emmanuel Moire"
+        ],
+        [
+          "/wiki/Emmanuel_Moire"
+        ]
       ],
       [
-        "0.6%",
-        null
+        [
+          "39"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "G\u00e9rard Vives"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "20"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "New Brunswick",
-        "/wiki/New_Brunswick"
+        [
+          "Paso Doble"
+        ],
+        [
+          "/wiki/Paso_Doble"
+        ]
       ],
       [
-        "2,145",
-        null
+        [
+          "Ta\u00efg Khris"
+        ],
+        [
+          "/wiki/Ta%C3%AFg_Khris"
+        ]
       ],
       [
-        "0.2%",
-        null
+        [
+          "38"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Ta\u00efg Khris"
+        ],
+        [
+          "/wiki/Ta%C3%AFg_Khris"
+        ]
+      ],
+      [
+        [
+          "22"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Newfoundland and Labrador",
-        "/wiki/Newfoundland_and_Labrador"
+        [
+          "Rumba"
+        ],
+        [
+          "/wiki/Rhumba"
+        ]
       ],
       [
-        "1,820",
-        null
+        [
+          "Amel Bent",
+          "Emmanuel Moire"
+        ],
+        [
+          "/wiki/Amel_Bent",
+          "/wiki/Emmanuel_Moire"
+        ]
       ],
       [
-        "0.3%",
-        null
-      ]
-    ],
-    [
-      [
-        "Yukon",
-        "/wiki/Yukon"
+        [
+          "40"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "320",
-        null
+        [
+          "Chim\u00e8ne Badi"
+        ],
+        [
+          "/wiki/Chim%C3%A8ne_Badi"
+        ]
       ],
       [
-        "0.9%",
-        null
-      ]
-    ],
-    [
-      [
-        "Prince Edward Island",
-        "/wiki/Prince_Edward_Island"
-      ],
-      [
-        "615",
-        null
-      ],
-      [
-        "0.4%",
-        null
-      ]
-    ],
-    [
-      [
-        "Northwest Territories",
-        "/wiki/Northwest_Territories"
-      ],
-      [
-        "360",
-        null
-      ],
-      [
-        "0.8%",
-        null
-      ]
-    ],
-    [
-      [
-        "Nunavut",
-        "/wiki/Nunavut"
-      ],
-      [
-        "65",
-        null
-      ],
-      [
-        "0.1%",
-        null
-      ]
-    ],
-    [
-      [
-        "",
-        null
-      ],
-      [
-        "1,374,710",
-        null
-      ],
-      [
-        "3.9%",
-        null
+        [
+          "25"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "The best and worst performances in each dance according to the judges' marks are as follows:",
   "idx": 6734
 }

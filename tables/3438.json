@@ -1,499 +1,719 @@
 {
-  "url": "https://en.wikipedia.org/wiki/List_of_US_Open_women's_singles_champions",
-  "title": "List of US Open women's singles champions",
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_OLAP_servers",
+  "title": "Comparison of OLAP servers",
   "header": [
     [
-      "Country",
-      null
+      [
+        "OLAP server"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Amateur Era",
-      null
+      [
+        "Company"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Open Era",
-      null
+      [
+        "Latest stable version"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "All-time",
-      null
+      [
+        "Software license"
+      ],
+      [
+        "/wiki/Software_license"
+      ]
     ],
     [
-      "First title",
-      null
-    ],
-    [
-      "Last title",
-      null
+      [
+        "License pricing"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "United States",
-        "/wiki/United_States"
+        [
+          "Apache Kylin"
+        ],
+        [
+          "/wiki/Apache_Kylin"
+        ]
       ],
       [
-        "67",
-        null
+        [
+          "Apache Software Foundation"
+        ],
+        [
+          "/wiki/The_Apache_Software_Foundation"
+        ]
       ],
       [
-        "25",
-        null
+        [
+          "2.5.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "92",
-        null
+        [
+          "Apache 2.0"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
       ],
       [
-        "1887",
-        "/wiki/1887_U.S._National_Championships"
-      ],
-      [
-        "2017",
-        "/wiki/2017_US_Open_(tennis)"
+        [
+          "free"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Australia",
-        "/wiki/Australia"
+        [
+          "Druid"
+        ],
+        [
+          "/wiki/Druid_(open-source_data_store)"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "Open source community"
+        ],
+        [
+          "/wiki/Open_source"
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "0.11.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6",
-        null
+        [
+          "Apache 2.0"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
       ],
       [
-        "1962",
-        "/wiki/1962_U.S._National_Championships"
-      ],
-      [
-        "2011",
-        "/wiki/2011_US_Open_(tennis)"
+        [
+          "free"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Germany",
-        "/wiki/Germany"
+        [
+          "Apache Pinot (Incubating)"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "Apache Software Foundation"
+        ],
+        [
+          "/wiki/The_Apache_Software_Foundation"
+        ]
       ],
       [
-        "6",
-        null
+        [
+          "0.2.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "6",
-        null
+        [
+          "Apache 2.0"
+        ],
+        [
+          "/wiki/Apache_License"
+        ]
       ],
       [
-        "1988",
-        "/wiki/1988_US_Open_(tennis)"
-      ],
-      [
-        "2016",
-        "/wiki/2016_US_Open_(tennis)"
+        [
+          "free"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Belgium",
-        "/wiki/Belgium"
+        [
+          "Essbase"
+        ],
+        [
+          "/wiki/Essbase"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "Oracle"
+        ],
+        [
+          "/wiki/Oracle_Corporation"
+        ]
       ],
       [
-        "5",
-        null
+        [
+          "11.1.2.4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "5",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "2003",
-        "/wiki/2003_US_Open_(tennis)"
-      ],
-      [
-        "2010",
-        "/wiki/2010_US_Open_(tennis)"
+        [
+          "[1]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Brazil",
-        "/wiki/Brazil"
+        [
+          "IBM Cognos TM1"
+        ],
+        [
+          "/wiki/TM1"
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "IBM"
+        ],
+        [
+          "/wiki/IBM"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "10.2.2 FP7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "1959",
-        "/wiki/1959_U.S._National_Championships"
-      ],
-      [
-        "1966",
-        "/wiki/1966_U.S._National_Championships"
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Great Britain",
-        "/wiki/United_Kingdom"
+        [
+          "icCube"
+        ],
+        [
+          "/wiki/IcCube"
+        ]
       ],
       [
-        "3",
-        null
+        [
+          "icCube"
+        ],
+        [
+          "/wiki/IcCube"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "6.8.9"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "1891",
-        "/wiki/1891_U.S._National_Championships"
-      ],
-      [
-        "1968",
-        "/wiki/1968_US_Open_(tennis)"
+        [
+          "[2]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Norway",
-        "/wiki/Norway"
+        [
+          "Infor BI OLAP Server"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "Infor"
+        ],
+        [
+          "/wiki/Infor"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "10.6.0"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "4",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "1915",
-        "/wiki/1915_U.S._National_Championships"
-      ],
-      [
-        "1918",
-        "/wiki/1918_U.S._National_Championships"
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Russia",
-        "/wiki/Russia"
+        [
+          "Jedox OLAP Server"
+        ],
+        [
+          "/wiki/Jedox"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "Jedox"
+        ],
+        [
+          "/wiki/Jedox"
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "2019.3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "2",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "2004",
-        "/wiki/2004_U.S._Open_(tennis)"
-      ],
-      [
-        "2006",
-        "/wiki/2006_U.S._Open_(tennis)"
+        [
+          "[3]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Argentina",
-        "/wiki/Argentina"
+        [
+          "Kyligence"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "Kyligence"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "3.2.1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1990",
-        "/wiki/1990_US_Open_(tennis)"
-      ],
-      [
-        "1990",
-        "/wiki/1990_U.S._Open_(tennis)"
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Italy",
-        "/wiki/Italy"
+        [
+          "Kyvos"
+        ],
+        [
+          "/wiki/Kyvos"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "Kyvos Insights"
+        ],
+        [
+          "/wiki/Kyvos_Insights"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "5.3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "2015",
-        "/wiki/2015_US_Open_(tennis)"
-      ],
-      [
-        "2015",
-        "/wiki/2015_US_Open_(tennis)"
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Serbia and Montenegro",
-        "/wiki/Serbia_and_Montenegro"
+        [
+          "Microsoft Analysis Services"
+        ],
+        [
+          "/wiki/Microsoft_Analysis_Services"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "Microsoft"
+        ],
+        [
+          "/wiki/Microsoft"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "2016"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "1992",
-        "/wiki/1992_U.S._Open_(tennis)"
-      ],
-      [
-        "1992",
-        "/wiki/1992_U.S._Open_(tennis)"
+        [
+          "[4]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Yugoslavia",
-        "/wiki/Socialist_Federal_Republic_of_Yugoslavia"
+        [
+          "MicroStrategy Intelligence Server"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "MicroStrategy"
+        ],
+        [
+          "/wiki/MicroStrategy"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "10.11"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "1991",
-        "/wiki/1991_U.S._Open_(tennis)"
-      ],
-      [
-        "1991",
-        "/wiki/1991_U.S._Open_(tennis)"
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Canada",
-        "/wiki/Canada"
+        [
+          "Mondrian OLAP server"
+        ],
+        [
+          "/wiki/Mondrian_OLAP_server"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "Pentaho"
+        ],
+        [
+          "/wiki/Pentaho"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "3.7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "EPL"
+        ],
+        [
+          "/wiki/Eclipse_Public_License"
+        ]
       ],
       [
-        "2019",
-        "/wiki/2019_US_Open_(tennis)"
-      ],
-      [
-        "2019",
-        "/wiki/2019_US_Open_(tennis)"
+        [
+          "free"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Chile",
-        "/wiki/Chile"
+        [
+          "Oracle Database OLAP Option"
+        ],
+        [
+          "/wiki/Oracle_OLAP"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Oracle"
+        ],
+        [
+          "/wiki/Oracle_Corporation"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "11g R2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "1937",
-        "/wiki/1937_U.S._National_Championships"
-      ],
-      [
-        "1937",
-        "/wiki/1937_U.S._National_Championships"
+        [
+          "[5]"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Czechoslovakia",
-        "/wiki/Czechoslovakia"
+        [
+          "SAP NetWeaver BW"
+        ],
+        [
+          "/wiki/SAP_NetWeaver_Business_Intelligence"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "SAP"
+        ],
+        [
+          "/wiki/SAP_AG"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "7.30"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "1985",
-        "/wiki/1985_US_Open_(tennis)"
-      ],
-      [
-        "1985",
-        "/wiki/1985_US_Open_(tennis)"
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Japan",
-        "/wiki/Japan"
+        [
+          "SAS OLAP Server"
+        ],
+        [
+          "/wiki/SAS_System"
+        ]
       ],
       [
-        "0",
-        null
+        [
+          "SAS Institute"
+        ],
+        [
+          "/wiki/SAS_Institute"
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "9.4"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "1",
-        null
+        [
+          "Proprietary"
+        ],
+        [
+          "/wiki/Proprietary_software"
+        ]
       ],
       [
-        "2018",
-        "/wiki/2018_US_Open_(tennis)"
-      ],
-      [
-        "2018",
-        "/wiki/2018_US_Open_(tennis)"
-      ]
-    ],
-    [
-      [
-        "Spain",
-        "/wiki/Spain"
-      ],
-      [
-        "0",
-        null
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "1994",
-        "/wiki/1994_U.S._Open_(tennis)"
-      ],
-      [
-        "1994",
-        "/wiki/1994_U.S._Open_(tennis)"
-      ]
-    ],
-    [
-      [
-        "Switzerland",
-        "/wiki/Switzerland"
-      ],
-      [
-        "0",
-        null
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "1",
-        null
-      ],
-      [
-        "1997",
-        "/wiki/1997_U.S._Open_(tennis)"
-      ],
-      [
-        "1997",
-        "/wiki/1997_U.S._Open_(tennis)"
+        [
+          "-"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

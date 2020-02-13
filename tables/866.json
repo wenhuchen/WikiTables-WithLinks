@@ -1,299 +1,1101 @@
 {
-  "url": "https://en.wikipedia.org/wiki/NHL_All-Star_Skills_Competition",
-  "title": "NHL All-Star Skills Competition",
+  "url": "https://en.wikipedia.org/wiki/List_of_NHL_playoff_series",
+  "title": "List of NHL playoff series",
   "header": [
     [
-      "Season",
-      "/wiki/Season_(sports)"
+      [
+        "Opponent"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Player",
-      null
+      [
+        "S"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Time (seconds)",
-      null
+      [
+        "Occurrences"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "GP"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Rec"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "%"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "1992",
-        "/wiki/1991%E2%80%9392_NHL_season"
+        [
+          "Calgary Flames"
+        ],
+        [
+          "/wiki/Calgary_Flames"
+        ]
       ],
       [
-        "Sergei Fedorov",
-        "/wiki/Sergei_Fedorov"
+        [
+          "7"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "14.363",
-        null
+        [
+          "1982",
+          "1983",
+          "1984",
+          "1989",
+          "1994",
+          "2004",
+          "2015"
+        ],
+        [
+          "/wiki/1982_Stanley_Cup_playoffs",
+          "/wiki/1983_Stanley_Cup_playoffs",
+          "/wiki/1984_Stanley_Cup_playoffs",
+          "/wiki/1989_Stanley_Cup_playoffs",
+          "/wiki/1994_Stanley_Cup_playoffs",
+          "/wiki/2004_Stanley_Cup_playoffs",
+          "/wiki/2015_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "38"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20135"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".286"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1993",
-        "/wiki/1992%E2%80%9393_NHL_season"
+        [
+          "Chicago Blackhawks"
+        ],
+        [
+          "/wiki/Chicago_Blackhawks"
+        ]
       ],
       [
-        "Mike Gartner",
-        "/wiki/Mike_Gartner"
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13.510",
-        null
+        [
+          "1982",
+          "1995",
+          "2009",
+          "2010",
+          "2011"
+        ],
+        [
+          "/wiki/1982_Stanley_Cup_playoffs",
+          "/wiki/1995_Stanley_Cup_playoffs",
+          "/wiki/2009_Stanley_Cup_playoffs",
+          "/wiki/2010_Stanley_Cup_playoffs",
+          "/wiki/2011_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "28"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20133"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".400"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1994",
-        "/wiki/1993%E2%80%9394_NHL_season"
+        [
+          "Los Angeles Kings"
+        ],
+        [
+          "/wiki/Los_Angeles_Kings"
+        ]
       ],
       [
-        "Sergei Fedorov",
-        null
+        [
+          "5"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13.525",
-        null
+        [
+          "1982",
+          "1991",
+          "1993",
+          "2010",
+          "2012"
+        ],
+        [
+          "/wiki/1982_Stanley_Cup_playoffs",
+          "/wiki/1991_Stanley_Cup_playoffs",
+          "/wiki/1993_Stanley_Cup_playoffs",
+          "/wiki/2010_Stanley_Cup_playoffs",
+          "/wiki/2012_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "28"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20133"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".400"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1996",
-        "/wiki/1995%E2%80%9396_NHL_season"
+        [
+          "St. Louis Blues"
+        ],
+        [
+          "/wiki/St._Louis_Blues"
+        ]
       ],
       [
-        "Mike Gartner",
-        null
+        [
+          "3"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13.386",
-        null
+        [
+          "1995",
+          "2003",
+          "2009"
+        ],
+        [
+          "/wiki/1995_Stanley_Cup_playoffs",
+          "/wiki/2003_Stanley_Cup_playoffs",
+          "/wiki/2009_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "18"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "3\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1997",
-        "/wiki/1996%E2%80%9397_NHL_season"
+        [
+          "Arizona Coyotes"
+        ],
+        [
+          "/wiki/Arizona_Coyotes"
+        ]
       ],
       [
-        "Peter Bondra",
-        "/wiki/Peter_Bondra"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13.610",
-        null
+        [
+          "1992",
+          "1993"
+        ],
+        [
+          "/wiki/1992_Stanley_Cup_playoffs",
+          "/wiki/1993_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "13"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1998",
-        "/wiki/1997%E2%80%9398_NHL_season"
+        [
+          "Dallas Stars"
+        ],
+        [
+          "/wiki/Dallas_Stars"
+        ]
       ],
       [
-        "Scott Niedermayer",
-        "/wiki/Scott_Niedermayer"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13.560",
-        null
+        [
+          "1994",
+          "2007"
+        ],
+        [
+          "/wiki/1994_Stanley_Cup_playoffs",
+          "/wiki/2007_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "12"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "2\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "1999",
-        "/wiki/1998%E2%80%9399_NHL_season"
+        [
+          "San Jose Sharks"
+        ],
+        [
+          "/wiki/San_Jose_Sharks"
+        ]
       ],
       [
-        "Peter Bondra",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "14.640",
-        null
+        [
+          "2011",
+          "2013"
+        ],
+        [
+          "/wiki/2011_Stanley_Cup_playoffs",
+          "/wiki/2013_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "9"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".500"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2000",
-        "/wiki/1999%E2%80%932000_NHL_season"
+        [
+          "Buffalo Sabres"
+        ],
+        [
+          "/wiki/Buffalo_Sabres"
+        ]
       ],
       [
-        "Sami Kapanen",
-        "/wiki/Sami_Kapanen"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13.649",
-        null
+        [
+          "1980",
+          "1981"
+        ],
+        [
+          "/wiki/1980_Stanley_Cup_playoffs",
+          "/wiki/1981_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20132"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2001",
-        "/wiki/2000%E2%80%9301_NHL_season"
+        [
+          "Colorado Avalanche"
+        ],
+        [
+          "/wiki/Colorado_Avalanche"
+        ]
       ],
       [
-        "Bill Guerin",
-        "/wiki/Bill_Guerin"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13.690",
-        null
+        [
+          "1996",
+          "2001"
+        ],
+        [
+          "/wiki/1996_Stanley_Cup_playoffs",
+          "/wiki/2001_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "10"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20132"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2002",
-        "/wiki/2001%E2%80%9302_NHL_season"
+        [
+          "Edmonton Oilers"
+        ],
+        [
+          "/wiki/Edmonton_Oilers"
+        ]
       ],
       [
-        "Sami Kapanen",
-        null
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "14.039",
-        null
+        [
+          "1986",
+          "1992"
+        ],
+        [
+          "/wiki/1986_Stanley_Cup_playoffs",
+          "/wiki/1992_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "9"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20132"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2003",
-        "/wiki/2002%E2%80%9303_NHL_season"
+        [
+          "New York Islanders"
+        ],
+        [
+          "/wiki/New_York_Islanders"
+        ]
       ],
       [
-        "Marian Gaborik",
-        "/wiki/Mari%C3%A1n_G%C3%A1bor%C3%ADk"
+        [
+          "2"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13.713",
-        null
+        [
+          "1976",
+          "1982"
+        ],
+        [
+          "/wiki/1976_Stanley_Cup_playoffs",
+          "/wiki/1982_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "6"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20132"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2004",
-        "/wiki/2003%E2%80%9304_NHL_season"
+        [
+          "Nashville Predators"
+        ],
+        [
+          "/wiki/Nashville_Predators"
+        ]
       ],
       [
-        "Scott Niedermayer",
-        null
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13.783",
-        null
+        [
+          "2011"
+        ],
+        [
+          "/wiki/2011_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "6"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2007",
-        "/wiki/2006%E2%80%9307_NHL_season"
+        [
+          "Toronto Maple Leafs"
+        ],
+        [
+          "/wiki/Toronto_Maple_Leafs"
+        ]
       ],
       [
-        "Andy McDonald",
-        "/wiki/Andy_McDonald_(ice_hockey)"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "14.03",
-        null
+        [
+          "1994"
+        ],
+        [
+          "/wiki/1994_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1\u20130"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1.000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2008",
-        "/wiki/2007%E2%80%9308_NHL_season"
+        [
+          "Anaheim Ducks"
+        ],
+        [
+          "/wiki/Anaheim_Ducks"
+        ]
       ],
       [
-        "Shawn Horcoff",
-        "/wiki/Shawn_Horcoff"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "14.395",
-        null
+        [
+          "2007"
+        ],
+        [
+          "/wiki/2007_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2009",
-        "/wiki/2008%E2%80%9309_NHL_season"
+        [
+          "Boston Bruins"
+        ],
+        [
+          "/wiki/Boston_Bruins"
+        ]
       ],
       [
-        "Andrew Cogliano",
-        "/wiki/Andrew_Cogliano"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "14.31",
-        null
+        [
+          "2011"
+        ],
+        [
+          "/wiki/2011_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2011",
-        "/wiki/2010%E2%80%9311_NHL_season"
+        [
+          "Detroit Red Wings"
+        ],
+        [
+          "/wiki/Detroit_Red_Wings"
+        ]
       ],
       [
-        "Michael Grabner",
-        "/wiki/Michael_Grabner"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "14.238",
-        null
+        [
+          "2002"
+        ],
+        [
+          "/wiki/2002_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "6"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2012",
-        "/wiki/2011%E2%80%9312_NHL_season"
+        [
+          "Minnesota Wild"
+        ],
+        [
+          "/wiki/Minnesota_Wild"
+        ]
       ],
       [
-        "Carl Hagelin",
-        "/wiki/Carl_Hagelin"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13.218",
-        null
+        [
+          "2003"
+        ],
+        [
+          "/wiki/2003_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2015",
-        "/wiki/2014-15_NHL_season"
+        [
+          "Montreal Canadiens"
+        ],
+        [
+          "/wiki/Montreal_Canadiens"
+        ]
       ],
       [
-        "Jonathan Drouin",
-        "/wiki/Jonathan_Drouin"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13.103",
-        null
+        [
+          "1975"
+        ],
+        [
+          "/wiki/1975_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "5"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2016",
-        "/wiki/2015%E2%80%9316_NHL_season"
+        [
+          "New York Rangers"
+        ],
+        [
+          "/wiki/New_York_Rangers"
+        ]
       ],
       [
-        "Dylan Larkin",
-        "/wiki/Dylan_Larkin"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13.172",
-        null
+        [
+          "1994"
+        ],
+        [
+          "/wiki/1994_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "7"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "2017",
-        "/wiki/2016%E2%80%9317_NHL_season"
+        [
+          "Philadelphia Flyers"
+        ],
+        [
+          "/wiki/Philadelphia_Flyers"
+        ]
       ],
       [
-        "Connor McDavid",
-        "/wiki/Connor_McDavid"
+        [
+          "1"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "13.31",
-        null
+        [
+          "1979"
+        ],
+        [
+          "/wiki/1979_Stanley_Cup_playoffs"
+        ]
+      ],
+      [
+        [
+          "3"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0\u20131"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ".000"
+        ],
+        [
+          null
+        ]
       ]
     ]
   ],

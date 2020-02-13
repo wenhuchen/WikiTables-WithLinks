@@ -1,206 +1,642 @@
 {
-  "url": "https://en.wikipedia.org/wiki/2013_International_Champions_Cup",
-  "title": "2013 International Champions Cup",
+  "url": "https://en.wikipedia.org/wiki/UEFA_Euro_1996",
+  "title": "UEFA Euro 1996",
   "header": [
     [
-      "Country",
-      null
+      [
+        "Team"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Team",
-      null
+      [
+        "Qualified as"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Location",
-      null
+      [
+        "Qualified on"
+      ],
+      [
+        null
+      ]
     ],
     [
-      "Confederation",
-      null
-    ],
-    [
-      "League",
-      null
+      [
+        "Previous appearances in tournament"
+      ],
+      [
+        null
+      ]
     ]
   ],
   "data": [
     [
       [
-        "England",
-        null
+        [
+          "England"
+        ],
+        [
+          "/wiki/England_national_football_team"
+        ]
       ],
       [
-        "Chelsea",
-        "/wiki/Chelsea_F.C."
+        [
+          "Host"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "London",
-        "/wiki/London"
+        [
+          "5 May 1992"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UEFA",
-        "/wiki/UEFA"
-      ],
-      [
-        "Premier League",
-        "/wiki/Premier_League"
+        [
+          "1968",
+          "1980",
+          "1988",
+          "1992"
+        ],
+        [
+          "/wiki/UEFA_Euro_1968",
+          "/wiki/UEFA_Euro_1980",
+          "/wiki/UEFA_Euro_1988",
+          "/wiki/UEFA_Euro_1992"
+        ]
       ]
     ],
     [
       [
-        "England",
-        null
+        [
+          "Spain"
+        ],
+        [
+          "/wiki/Spain_national_football_team"
+        ]
       ],
       [
-        "Everton",
-        "/wiki/Everton_F.C."
+        [
+          "Group 2"
+        ],
+        [
+          "/wiki/UEFA_Euro_1996_qualifying_Group_2"
+        ]
       ],
       [
-        "Liverpool",
-        "/wiki/Liverpool"
+        [
+          "11 October 1995"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UEFA",
-        "/wiki/UEFA"
-      ],
-      [
-        "Premier League",
-        "/wiki/Premier_League"
+        [
+          "1964",
+          "1980",
+          "1984",
+          "1988"
+        ],
+        [
+          "/wiki/1964_European_Nations%27_Cup",
+          "/wiki/UEFA_Euro_1980",
+          "/wiki/UEFA_Euro_1984",
+          "/wiki/UEFA_Euro_1988"
+        ]
       ]
     ],
     [
       [
-        "Italy",
-        null
+        [
+          "Russia"
+        ],
+        [
+          "/wiki/Russia_national_football_team"
+        ]
       ],
       [
-        "Milan",
-        "/wiki/A.C._Milan"
+        [
+          "Group 8"
+        ],
+        [
+          "/wiki/UEFA_Euro_1996_qualifying_Group_8"
+        ]
       ],
       [
-        "Milan",
-        "/wiki/Milan"
+        [
+          "11 October 1995"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UEFA",
-        "/wiki/UEFA"
-      ],
-      [
-        "Serie A",
-        "/wiki/Serie_A"
+        [
+          "1960",
+          "1964",
+          "1968",
+          "1972",
+          "1988",
+          "1992"
+        ],
+        [
+          "/wiki/1960_European_Nations%27_Cup",
+          "/wiki/1964_European_Nations%27_Cup",
+          "/wiki/UEFA_Euro_1968",
+          "/wiki/UEFA_Euro_1972",
+          "/wiki/UEFA_Euro_1988",
+          "/wiki/UEFA_Euro_1992"
+        ]
       ]
     ],
     [
       [
-        "Italy",
-        null
+        [
+          "Switzerland"
+        ],
+        [
+          "/wiki/Switzerland_national_football_team"
+        ]
       ],
       [
-        "Inter Milan",
-        "/wiki/Inter_Milan"
+        [
+          "Group 3"
+        ],
+        [
+          "/wiki/UEFA_Euro_1996_qualifying_Group_3"
+        ]
       ],
       [
-        "Milan",
-        "/wiki/Milan"
+        [
+          "15 November 1995"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UEFA",
-        "/wiki/UEFA"
-      ],
-      [
-        "Serie A",
-        "/wiki/Serie_A"
+        [
+          "0 (debut)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Italy",
-        null
+        [
+          "Croatia"
+        ],
+        [
+          "/wiki/Croatia_national_football_team"
+        ]
       ],
       [
-        "Juventus",
-        "/wiki/Juventus_F.C."
+        [
+          "Group 4"
+        ],
+        [
+          "/wiki/UEFA_Euro_1996_qualifying_Group_4"
+        ]
       ],
       [
-        "Turin",
-        "/wiki/Turin"
+        [
+          "15 November 1995"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UEFA",
-        "/wiki/UEFA"
-      ],
-      [
-        "Serie A",
-        "/wiki/Serie_A"
+        [
+          "0 (debut)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "Spain",
-        null
+        [
+          "Scotland"
+        ],
+        [
+          "/wiki/Scotland_national_football_team"
+        ]
       ],
       [
-        "Real Madrid",
-        "/wiki/Real_Madrid_C.F."
+        [
+          "4th best runner-up"
+        ],
+        [
+          "/wiki/UEFA_Euro_1996_qualifying"
+        ]
       ],
       [
-        "Madrid",
-        "/wiki/Madrid"
+        [
+          "15 November 1995"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UEFA",
-        "/wiki/UEFA"
-      ],
-      [
-        "La Liga",
-        "/wiki/La_Liga"
+        [
+          "1992"
+        ],
+        [
+          "/wiki/UEFA_Euro_1992"
+        ]
       ]
     ],
     [
       [
-        "Spain",
-        null
+        [
+          "Bulgaria"
+        ],
+        [
+          "/wiki/Bulgaria_national_football_team"
+        ]
       ],
       [
-        "Valencia",
-        "/wiki/Valencia_CF"
+        [
+          "2nd best runner-up"
+        ],
+        [
+          "/wiki/UEFA_Euro_1996_qualifying"
+        ]
       ],
       [
-        "Valencia",
-        "/wiki/Valencia"
+        [
+          "15 November 1995"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "UEFA",
-        "/wiki/UEFA"
-      ],
-      [
-        "La Liga",
-        "/wiki/La_Liga"
+        [
+          "0 (debut)"
+        ],
+        [
+          null
+        ]
       ]
     ],
     [
       [
-        "U.S.",
-        null
+        [
+          "Germany"
+        ],
+        [
+          "/wiki/Germany_national_football_team"
+        ]
       ],
       [
-        "LA Galaxy",
-        "/wiki/LA_Galaxy"
+        [
+          "Group 7"
+        ],
+        [
+          "/wiki/UEFA_Euro_1996_qualifying_Group_7"
+        ]
       ],
       [
-        "Los Angeles",
-        "/wiki/Los_Angeles"
+        [
+          "15 November 1995"
+        ],
+        [
+          null
+        ]
       ],
       [
-        "CONCACAF",
-        "/wiki/CONCACAF"
+        [
+          "1972",
+          "1976",
+          "1980",
+          "1984",
+          "1988",
+          "1992"
+        ],
+        [
+          "/wiki/UEFA_Euro_1972",
+          "/wiki/UEFA_Euro_1976",
+          "/wiki/UEFA_Euro_1980",
+          "/wiki/UEFA_Euro_1984",
+          "/wiki/UEFA_Euro_1988",
+          "/wiki/UEFA_Euro_1992"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Romania"
+        ],
+        [
+          "/wiki/Romania_national_football_team"
+        ]
       ],
       [
-        "Major League Soccer",
-        "/wiki/Major_League_Soccer"
+        [
+          "Group 1"
+        ],
+        [
+          "/wiki/UEFA_Euro_1996_qualifying_Group_1"
+        ]
+      ],
+      [
+        [
+          "15 November 1995"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1984"
+        ],
+        [
+          "/wiki/UEFA_Euro_1984"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Turkey"
+        ],
+        [
+          "/wiki/Turkey_national_football_team"
+        ]
+      ],
+      [
+        [
+          "3rd best runner-up"
+        ],
+        [
+          "/wiki/UEFA_Euro_1996_qualifying"
+        ]
+      ],
+      [
+        [
+          "15 November 1995"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "0 (debut)"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Denmark"
+        ],
+        [
+          "/wiki/Denmark_national_football_team"
+        ]
+      ],
+      [
+        [
+          "5th best runner-up"
+        ],
+        [
+          "/wiki/UEFA_Euro_1996_qualifying"
+        ]
+      ],
+      [
+        [
+          "15 November 1995"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1964",
+          "1984",
+          "1988",
+          "1992"
+        ],
+        [
+          "/wiki/1964_European_Nations%27_Cup",
+          "/wiki/UEFA_Euro_1984",
+          "/wiki/UEFA_Euro_1988",
+          "/wiki/UEFA_Euro_1992"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Czech Republic"
+        ],
+        [
+          "/wiki/Czech_Republic_national_football_team"
+        ]
+      ],
+      [
+        [
+          "Group 5"
+        ],
+        [
+          "/wiki/UEFA_Euro_1996_qualifying_Group_5"
+        ]
+      ],
+      [
+        [
+          "15 November 1995"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1960",
+          "1976",
+          "1980"
+        ],
+        [
+          "/wiki/1960_European_Nations%27_Cup",
+          "/wiki/UEFA_Euro_1976",
+          "/wiki/UEFA_Euro_1980"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Italy"
+        ],
+        [
+          "/wiki/Italy_national_football_team"
+        ]
+      ],
+      [
+        [
+          "1st best runner-up"
+        ],
+        [
+          "/wiki/UEFA_Euro_1996_qualifying"
+        ]
+      ],
+      [
+        [
+          "15 November 1995"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1968",
+          "1980",
+          "1988"
+        ],
+        [
+          "/wiki/UEFA_Euro_1968",
+          "/wiki/UEFA_Euro_1980",
+          "/wiki/UEFA_Euro_1988"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "France"
+        ],
+        [
+          "/wiki/France_national_football_team"
+        ]
+      ],
+      [
+        [
+          "6th best runner-up"
+        ],
+        [
+          "/wiki/UEFA_Euro_1996_qualifying"
+        ]
+      ],
+      [
+        [
+          "15 November 1995"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1960",
+          "1984",
+          "1992"
+        ],
+        [
+          "/wiki/1960_European_Nations%27_Cup",
+          "/wiki/UEFA_Euro_1984",
+          "/wiki/UEFA_Euro_1992"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Portugal"
+        ],
+        [
+          "/wiki/Portugal_national_football_team"
+        ]
+      ],
+      [
+        [
+          "Group 6"
+        ],
+        [
+          "/wiki/UEFA_Euro_1996_qualifying_Group_6"
+        ]
+      ],
+      [
+        [
+          "15 November 1995"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1984"
+        ],
+        [
+          "/wiki/UEFA_Euro_1984"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Netherlands"
+        ],
+        [
+          "/wiki/Netherlands_national_football_team"
+        ]
+      ],
+      [
+        [
+          "Play-off"
+        ],
+        [
+          "/wiki/UEFA_Euro_1996_qualifying_play-off"
+        ]
+      ],
+      [
+        [
+          "13 December 1995"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "1976",
+          "1980",
+          "1988",
+          "1992"
+        ],
+        [
+          "/wiki/UEFA_Euro_1976",
+          "/wiki/UEFA_Euro_1980",
+          "/wiki/UEFA_Euro_1988",
+          "/wiki/UEFA_Euro_1992"
+        ]
       ]
     ]
   ],
-  "context": "",
+  "context": "The following sixteen teams qualified for the finals:",
   "idx": 8925
 }
