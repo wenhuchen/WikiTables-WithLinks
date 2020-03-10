@@ -4,14 +4,6 @@
   "header": [
     [
       [
-        ""
-      ],
-      [
-        null
-      ]
-    ],
-    [
-      [
         "Main processor"
       ],
       [
@@ -55,14 +47,6 @@
     [
       [
         [
-          "Game Boy Micro"
-        ],
-        [
-          "/wiki/Game_Boy_Micro"
-        ]
-      ],
-      [
-        [
           "Sharp ARM7TDMI"
         ],
         [
@@ -103,14 +87,6 @@
       ]
     ],
     [
-      [
-        [
-          "GPD Win"
-        ],
-        [
-          "/wiki/GPD_Win"
-        ]
-      ],
       [
         [
           "Intel Atom"
@@ -157,14 +133,6 @@
     [
       [
         [
-          "GPD Win 2"
-        ],
-        [
-          "/wiki/GPD_Win_2"
-        ]
-      ],
-      [
-        [
           "Intel Core M3-7Y30"
         ],
         [
@@ -209,14 +177,6 @@
     [
       [
         [
-          "Gizmondo"
-        ],
-        [
-          "/wiki/Gizmondo"
-        ]
-      ],
-      [
-        [
           "32-bit ARM9 / 128-bit Nvidia GPU"
         ],
         [
@@ -257,14 +217,6 @@
       ]
     ],
     [
-      [
-        [
-          "PlayStation Portable"
-        ],
-        [
-          "/wiki/PlayStation_Portable"
-        ]
-      ],
       [
         [
           "MIPS R4000 32-bit RISC"
@@ -311,14 +263,6 @@
     [
       [
         [
-          "GCW Zero"
-        ],
-        [
-          "/wiki/GCW_Zero"
-        ]
-      ],
-      [
-        [
           "Ingenic",
           "MIPS"
         ],
@@ -363,14 +307,6 @@
     [
       [
         [
-          "Nintendo DS"
-        ],
-        [
-          "/wiki/Nintendo_DS"
-        ]
-      ],
-      [
-        [
           "ARM9 and ARM7TDMI"
         ],
         [
@@ -411,14 +347,6 @@
       ]
     ],
     [
-      [
-        [
-          "N-Gage QD"
-        ],
-        [
-          "/wiki/N-Gage_QD"
-        ]
-      ],
       [
         [
           "ARM9"
@@ -463,14 +391,6 @@
     [
       [
         [
-          "Timetop Gameking 1 & 2"
-        ],
-        [
-          "/wiki/GameKing"
-        ]
-      ],
-      [
-        [
           "65C02"
         ],
         [
@@ -511,14 +431,6 @@
       ]
     ],
     [
-      [
-        [
-          "GP2X"
-        ],
-        [
-          "/wiki/GP2X"
-        ]
-      ],
       [
         [
           "ARM920T(host) and ARM940T(video)"
@@ -563,14 +475,6 @@
     [
       [
         [
-          "GP32"
-        ],
-        [
-          "/wiki/GP32"
-        ]
-      ],
-      [
-        [
           "ARM920T"
         ],
         [
@@ -611,14 +515,6 @@
       ]
     ],
     [
-      [
-        [
-          "Dingoo A320"
-        ],
-        [
-          "/wiki/Dingoo_A320"
-        ]
-      ],
       [
         [
           "32-bit Ingenic jz4740 (MIPS R3000 Clone) with XBurst SIMD"
@@ -663,14 +559,6 @@
     [
       [
         [
-          "Pandora"
-        ],
-        [
-          "/wiki/Pandora_(console)"
-        ]
-      ],
-      [
-        [
           "ARM Cortex-A8"
         ],
         [
@@ -711,14 +599,6 @@
       ]
     ],
     [
-      [
-        [
-          "Tapwave Zodiac"
-        ],
-        [
-          "/wiki/Tapwave_Zodiac"
-        ]
-      ],
       [
         [
           "Motorola i. Mxi ARM9"
@@ -763,14 +643,6 @@
     [
       [
         [
-          "N-Gage"
-        ],
-        [
-          "/wiki/N-Gage_(device)"
-        ]
-      ],
-      [
-        [
           "ARM9"
         ],
         [
@@ -813,12 +685,46 @@
     [
       [
         [
-          "Game Boy Advance SP"
+          "Sharp ARM7TDMI and Z80"
         ],
         [
-          "/wiki/Game_Boy_Advance_SP"
+          null
         ]
       ],
+      [
+        [
+          "16.78 MHz and 4.194 MHz"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "32 KB, 256 KB external"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "None"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "96 KB"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
       [
         [
           "Sharp ARM7TDMI and Z80"
@@ -863,64 +769,6 @@
     [
       [
         [
-          "Game Boy Advance"
-        ],
-        [
-          "/wiki/Game_Boy_Advance"
-        ]
-      ],
-      [
-        [
-          "Sharp ARM7TDMI and Z80"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "16.78 MHz and 4.194 MHz"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "32 KB, 256 KB external"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "96 KB"
-        ],
-        [
-          null
-        ]
-      ]
-    ],
-    [
-      [
-        [
-          "Swan Crystal"
-        ],
-        [
-          "/wiki/WonderSwan"
-        ]
-      ],
-      [
-        [
           "SPGY-1002"
         ],
         [
@@ -963,14 +811,6 @@
     [
       [
         [
-          "WonderSwan Color"
-        ],
-        [
-          "/wiki/WonderSwan"
-        ]
-      ],
-      [
-        [
           "SPGY-1002"
         ],
         [
@@ -1011,14 +851,6 @@
       ]
     ],
     [
-      [
-        [
-          "WonderSwan"
-        ],
-        [
-          "/wiki/WonderSwan"
-        ]
-      ],
       [
         [
           "SPGY-1002"

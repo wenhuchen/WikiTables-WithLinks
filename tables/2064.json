@@ -4,14 +4,6 @@
   "header": [
     [
       [
-        ""
-      ],
-      [
-        null
-      ]
-    ],
-    [
-      [
         "Developer"
       ],
       [
@@ -29,14 +21,6 @@
   ],
   "data": [
     [
-      [
-        [
-          "389 Directory Server"
-        ],
-        [
-          "/wiki/389_Directory_Server"
-        ]
-      ],
       [
         [
           "Red Hat"
@@ -57,14 +41,6 @@
     [
       [
         [
-          "Active Directory"
-        ],
-        [
-          "/wiki/Active_Directory"
-        ]
-      ],
-      [
-        [
           "Microsoft"
         ],
         [
@@ -81,14 +57,6 @@
       ]
     ],
     [
-      [
-        [
-          "Authorized Entities Directory (\u00c6-DIR)"
-        ],
-        [
-          null
-        ]
-      ],
       [
         [
           "Michael Str\u00f6der"
@@ -109,14 +77,6 @@
     [
       [
         [
-          "Apache Directory Server"
-        ],
-        [
-          "/wiki/Apache_Directory_Server"
-        ]
-      ],
-      [
-        [
           "Apache Software Foundation"
         ],
         [
@@ -133,14 +93,6 @@
       ]
     ],
     [
-      [
-        [
-          "Apple Open Directory"
-        ],
-        [
-          "/wiki/Apple_Open_Directory"
-        ]
-      ],
       [
         [
           "Apple Inc."
@@ -161,16 +113,6 @@
     [
       [
         [
-          "BEJY LDAP Server",
-          "Java"
-        ],
-        [
-          null,
-          "/wiki/Java_(programming_language)"
-        ]
-      ],
-      [
-        [
           "Stefan Bebbo Franke"
         ],
         [
@@ -187,14 +129,6 @@
       ]
     ],
     [
-      [
-        [
-          "CA Directory"
-        ],
-        [
-          null
-        ]
-      ],
       [
         [
           "CA Technologies"
@@ -215,14 +149,6 @@
     [
       [
         [
-          "Critical Path Directory Server"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
           "Critical Path"
         ],
         [
@@ -239,14 +165,6 @@
       ]
     ],
     [
-      [
-        [
-          "OpenDJ"
-        ],
-        [
-          "/wiki/OpenDJ"
-        ]
-      ],
       [
         [
           "ForgeRock"
@@ -267,14 +185,6 @@
     [
       [
         [
-          "DirX Directory"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
           "Atos"
         ],
         [
@@ -291,14 +201,6 @@
       ]
     ],
     [
-      [
-        [
-          "FreeIPA"
-        ],
-        [
-          "/wiki/FreeIPA"
-        ]
-      ],
       [
         [
           "Red Hat",
@@ -321,14 +223,6 @@
     [
       [
         [
-          "IBM Tivoli Directory Server"
-        ],
-        [
-          "/wiki/IBM_Tivoli_Directory_Server"
-        ]
-      ],
-      [
-        [
           "IBM"
         ],
         [
@@ -345,18 +239,6 @@
       ]
     ],
     [
-      [
-        [
-          "ldapjs",
-          "JavaScript",
-          "Node.js"
-        ],
-        [
-          null,
-          "/wiki/JavaScript",
-          "/wiki/Node.js"
-        ]
-      ],
       [
         [
           "Mark Cavage"
@@ -377,16 +259,6 @@
     [
       [
         [
-          "Mandriva Directory Server",
-          "Mandriva Management Console"
-        ],
-        [
-          "/wiki/Mandriva_Directory_Server",
-          null
-        ]
-      ],
-      [
-        [
           "Mandriva development team"
         ],
         [
@@ -403,14 +275,6 @@
       ]
     ],
     [
-      [
-        [
-          "NetIQ eDirectory"
-        ],
-        [
-          "/wiki/NetIQ_eDirectory"
-        ]
-      ],
       [
         [
           "NetIQ"
@@ -431,14 +295,6 @@
     [
       [
         [
-          "OpenBSD ldapd"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
           "OpenBSD"
         ],
         [
@@ -455,14 +311,6 @@
       ]
     ],
     [
-      [
-        [
-          "OpenDJ"
-        ],
-        [
-          "/wiki/OpenDJ"
-        ]
-      ],
       [
         [
           "Open Identity Platform Community"
@@ -483,14 +331,6 @@
     [
       [
         [
-          "OpenDS"
-        ],
-        [
-          "/wiki/OpenDS"
-        ]
-      ],
-      [
-        [
           "Sun Microsystems"
         ],
         [
@@ -507,14 +347,6 @@
       ]
     ],
     [
-      [
-        [
-          "OpenLDAP"
-        ],
-        [
-          "/wiki/OpenLDAP"
-        ]
-      ],
       [
         [
           "Kurt Zeilenga and others (based on Slapd)"
