@@ -8,53 +8,62 @@ def tokenize(string):
     return " ".join(word_tokenize(string))
 
 def tokenization_req(f_n):
-	if f_n.endswith('.json'):
-		with open('{}/{}'.format('request', f_n)) as f:
-			request_document = json.load(f)
+    if f_n.endswith('.json'):
+        with open('{}/{}'.format('request', f_n)) as f:
+            request_document = json.load(f)
 
-		for k, v in request_document.items():
-			sents = tokenize(v)
-			request_document[k] = sents
+        for k, v in request_document.items():
+            sents = tokenize(v)
+            request_document[k] = sents
 
-		with open('request_tok/{}'.format(f_n), 'w') as f:
-			json.dump(request_document, f, indent=2)
+        with open('request_tok/{}'.format(f_n), 'w') as f:
+            json.dump(request_document, f, indent=2)
 
 def tokenization_tab(f_n):
-	if f_n.endswith('.json'):
-		with open('tables/{}'.format(f_n)) as f:
-			table = json.load(f)
-		
-		for row_idx, row in enumerate(table['data']):
-			for col_idx, cell in enumerate(row):
-				for i, ent in enumerate(cell[0]):
-					if ent:
-						table['data'][row_idx][col_idx][0][i] = tokenize(ent)
-		
-		for col_idx, header in enumerate(table['header']):
-			for i, ent in enumerate(header[0]):
-				if ent:
-					table['header'][col_idx][0][i] = tokenize(ent)
-		
-		with open('tables_tok/{}'.format(f_n), 'w') as f:
-			json.dump(table, f, indent=2)
+    if f_n.endswith('.json'):
+        with open('{}/{}'.format('tables', f_n)) as f:
+            table = json.load(f)
+        
+        for row_idx, row in enumerate(table['data']):
+            for col_idx, cell in enumerate(row):
+                for i, ent in enumerate(cell[0]):
+                    if ent:
+                        table['data'][row_idx][col_idx][0][i] = tokenize(ent)
+        
+        for col_idx, header in enumerate(table['header']):
+            for i, ent in enumerate(header[0]):
+                if ent:
+                    table['header'][col_idx][0][i] = tokenize(ent)
+        
+        with open('tables_tok/{}'.format(f_n), 'w') as f:
+            json.dump(table, f, indent=2)
 
 
 if __name__ == "__main__":
-	pool = Pool(64)
+    option = sys.argv[1]
 
-	folder = 'request'
-	pool.map(tokenization_req, os.listdir(folder))
+    pool = Pool(64)
 
-	folder = 'tables'
-	pool.map(tokenization_tab, os.listdir(folder))
+    if option == 'request':
+        folder = 'request'
+        pool.map(tokenization_req, os.listdir(folder))
+        
+        pool.close()
+        pool.join()
 
-	pool.close()
-	pool.join()
+    elif option == 'tables':
+        folder = 'tables'
+        pool.map(tokenization_tab, os.listdir(folder))
 
+        pool.close()
+        pool.join()
+
+    else:
+        raise NotImplementedError("not recognized")
 """
 count = 0
 for f in os.listdir(folder):
-	sys.stdout.write("finished {} tables \r".format(count))
-	tokenization(f)
-	count += 1
+    sys.stdout.write("finished {} tables \r".format(count))
+    tokenization(f)
+    count += 1
 """
