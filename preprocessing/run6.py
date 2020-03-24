@@ -2,10 +2,9 @@ import os
 import sys
 import json
 from multiprocessing import Pool
-from nltk.tokenize import word_tokenize, sent_tokenize
-
-def tokenize(string):
-    return " ".join(word_tokenize(string))
+from nltk.tokenize import sent_tokenize
+sys.path.append("./")
+from utils import tokenize
 
 def tokenization_req(f_n):
     if f_n.endswith('.json'):
@@ -28,12 +27,12 @@ def tokenization_tab(f_n):
             for col_idx, cell in enumerate(row):
                 for i, ent in enumerate(cell[0]):
                     if ent:
-                        table['data'][row_idx][col_idx][0][i] = tokenize(ent)
+                        table['data'][row_idx][col_idx][0][i] = tokenize(ent, True)
         
         for col_idx, header in enumerate(table['header']):
             for i, ent in enumerate(header[0]):
                 if ent:
-                    table['header'][col_idx][0][i] = tokenize(ent)
+                    table['header'][col_idx][0][i] = tokenize(ent, True)
         
         with open('tables_tok/{}'.format(f_n), 'w') as f:
             json.dump(table, f, indent=2)
