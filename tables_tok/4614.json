@@ -109,7 +109,7 @@
           "/wiki/Hulk_Hogan",
           "/wiki/Randy_Savage",
           "/wiki/The_Mega_Bucks",
-          "/wiki/Andr%C3%A9_The_Giant",
+          "/wiki/Andr\u00e9_The_Giant",
           "/wiki/Ted_DiBiase",
           "/wiki/Special_guest_referee",
           "/wiki/Jesse_Ventura"
@@ -1051,7 +1051,7 @@
       ],
       [
         [
-          "Washington , D.C."
+          "Washington , D.C"
         ],
         [
           "/wiki/Washington,_D.C."

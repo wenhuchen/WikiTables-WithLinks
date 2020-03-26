@@ -81,7 +81,7 @@
       ],
       [
         [
-          "An open-source virtual distributed file system ( VDFS ) ."
+          "An open-source virtual distributed file system ( VDFS )"
         ],
         [
           null
@@ -253,7 +253,7 @@
       ],
       [
         [
-          "A write once filesystem , accessible via various protocols ."
+          "A write once filesystem , accessible via various protocols"
         ],
         [
           null
@@ -489,7 +489,7 @@
       ],
       [
         [
-          "Open source GoogleFS clone ."
+          "Open source GoogleFS clone"
         ],
         [
           null
@@ -573,7 +573,7 @@
       ],
       [
         [
-          "An open source , highly available POSIX-compliant file system that supports Windows clients ."
+          "An open source , highly available POSIX-compliant file system that supports Windows clients"
         ],
         [
           null
@@ -719,7 +719,7 @@
       ],
       [
         [
-          "A fault tolerant , highly available and high performance scale-out network distributed file system . It spreads data over several physical commodity x86 servers , which are visible to the user as one namespace . For standard file operations MooseFS acts like any other Unix-like file systems ."
+          "A fault tolerant , highly available and high performance scale-out network distributed file system . It spreads data over several physical commodity x86 servers , which are visible to the user as one namespace . For standard file operations MooseFS acts like any other Unix-like file systems"
         ],
         [
           null
@@ -763,7 +763,7 @@
       ],
       [
         [
-          "POSIX-compliant shared distributed filesystem . Uses object store as a backend . Runs on AWS S3 , GCS and object store devices ."
+          "POSIX-compliant shared distributed filesystem . Uses object store as a backend . Runs on AWS S3 , GCS and object store devices"
         ],
         [
           null

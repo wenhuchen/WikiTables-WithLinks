@@ -208,7 +208,7 @@
           "/wiki/Canton_of_Berne",
           "/wiki/Canton_of_Fribourg",
           "/wiki/Canton_of_Vaud",
-          "/wiki/Canton_of_Neuch%C3%A2tel"
+          "/wiki/Canton_of_Neuch\u00e2tel"
         ]
       ],
       [
@@ -423,7 +423,7 @@
           "Verbois"
         ],
         [
-          "/wiki/Rh%C3%B4ne",
+          "/wiki/Rh\u00f4ne",
           null
         ]
       ],

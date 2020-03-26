@@ -72,9 +72,9 @@
         [
           "/wiki/Poland",
           null,
-          "/wiki/Stanis%C5%82aw_Szczepaniak",
-          "/wiki/Stanis%C5%82aw_%C5%81ukaszczyk",
-          "/wiki/J%C3%B3zef_Rubi%C5%9B"
+          "/wiki/Stanis\u0142aw_Szczepaniak",
+          "/wiki/Stanis\u0142aw_\u0141ukaszczyk",
+          "/wiki/J\u00f3zef_Rubi\u015b"
         ]
       ],
       [
@@ -115,7 +115,7 @@
           "/wiki/Norway",
           "/wiki/Jon_Istad",
           "/wiki/Ragnar_Tveiten",
-          "/wiki/Ola_W%C3%A6rhaug",
+          "/wiki/Ola_W\u00e6rhaug",
           "/wiki/Olav_Jordet"
         ]
       ],
@@ -203,8 +203,8 @@
         ],
         [
           "/wiki/Finland",
-          "/wiki/Kalevi_V%C3%A4h%C3%A4kyl%C3%A4",
-          "/wiki/Mauri_R%C3%B6pp%C3%A4nen",
+          "/wiki/Kalevi_V\u00e4h\u00e4kyl\u00e4",
+          "/wiki/Mauri_R\u00f6pp\u00e4nen",
           null,
           "/wiki/Esko_Marttinen"
         ]
@@ -262,7 +262,7 @@
         [
           "/wiki/East_Germany",
           null,
-          "/wiki/Hansj%C3%B6rg_Knauthe",
+          "/wiki/Hansj\u00f6rg_Knauthe",
           "/wiki/Dieter_Speer",
           "/wiki/Horst_Koschka"
         ]
@@ -322,7 +322,7 @@
           null,
           "/wiki/Andrzej_Rapacz",
           "/wiki/Aleksander_Klima",
-          "/wiki/J%C3%B3zef_Stopka"
+          "/wiki/J\u00f3zef_Stopka"
         ]
       ]
     ],
@@ -380,7 +380,7 @@
           "/wiki/Dieter_Speer",
           "/wiki/Manfred_Geyer",
           null,
-          "/wiki/G%C3%BCnther_Bartnick"
+          "/wiki/G\u00fcnther_Bartnick"
         ]
       ]
     ],
@@ -420,7 +420,7 @@
         [
           "/wiki/Finland",
           "/wiki/Simo_Halonen",
-          "/wiki/Henrik_Fl%C3%B6jt",
+          "/wiki/Henrik_Fl\u00f6jt",
           "/wiki/Juhani_Suutarinen",
           "/wiki/Heikki_Ikola"
         ]
@@ -436,7 +436,7 @@
         [
           "/wiki/Norway",
           "/wiki/Kjell_Hovda",
-          "/wiki/K%C3%A5re_Hovda",
+          "/wiki/K\u00e5re_Hovda",
           "/wiki/Terje_Hanssen",
           "/wiki/Tor_Svendsberget"
         ]
@@ -461,7 +461,7 @@
         ],
         [
           "/wiki/Finland",
-          "/wiki/Henrik_Fl%C3%B6jt",
+          "/wiki/Henrik_Fl\u00f6jt",
           "/wiki/Simo_Halonen",
           "/wiki/Juhani_Suutarinen",
           "/wiki/Heikki_Ikola"
@@ -536,7 +536,7 @@
         [
           "/wiki/Finland",
           "/wiki/Erkki_Antila",
-          "/wiki/Raimo_Sepp%C3%A4nen",
+          "/wiki/Raimo_Sepp\u00e4nen",
           "/wiki/Simo_Halonen",
           "/wiki/Heikki_Ikola"
         ]
@@ -580,7 +580,7 @@
           "/wiki/Manfred_Beer",
           "/wiki/Frank_Ullrich",
           "/wiki/Klaus_Siebert",
-          "/wiki/Eberhard_R%C3%B6sch"
+          "/wiki/Eberhard_R\u00f6sch"
         ]
       ],
       [
@@ -638,7 +638,7 @@
           "/wiki/Manfred_Beer",
           "/wiki/Klaus_Siebert",
           "/wiki/Frank_Ullrich",
-          "/wiki/Eberhard_R%C3%B6sch"
+          "/wiki/Eberhard_R\u00f6sch"
         ]
       ],
       [
@@ -654,7 +654,7 @@
           "/wiki/Simo_Halonen",
           "/wiki/Heikki_Ikola",
           "/wiki/Erkki_Antila",
-          "/wiki/Raimo_Sepp%C3%A4nen"
+          "/wiki/Raimo_Sepp\u00e4nen"
         ]
       ],
       [
@@ -696,7 +696,7 @@
           "/wiki/Mathias_Jung",
           "/wiki/Matthias_Jacob",
           "/wiki/Frank_Ullrich",
-          "/wiki/Eberhard_R%C3%B6sch"
+          "/wiki/Eberhard_R\u00f6sch"
         ]
       ],
       [
@@ -768,7 +768,7 @@
         [
           "/wiki/Norway",
           "/wiki/Eirik_Kvalfoss",
-          "/wiki/Kjell_S%C3%B8bak",
+          "/wiki/Kjell_S\u00f8bak",
           "/wiki/Odd_Lirhus",
           "/wiki/Rolf_Storsveen"
         ]
@@ -809,7 +809,7 @@
         ],
         [
           "/wiki/Soviet_Union",
-          "/wiki/Algimantas_%C5%A0alna",
+          "/wiki/Algimantas_\u0160alna",
           "/wiki/Juri_Kashkarov",
           null,
           "/wiki/Sergei_Bulygin"
@@ -841,10 +841,10 @@
         ],
         [
           "/wiki/Norway",
-          "/wiki/Kjell_S%C3%B8bak",
+          "/wiki/Kjell_S\u00f8bak",
           "/wiki/Eirik_Kvalfoss",
           "/wiki/Odd_Lirhus",
-          "/wiki/%C3%98ivind_Nerhagen"
+          "/wiki/\u00d8ivind_Nerhagen"
         ]
       ]
     ],
@@ -868,7 +868,7 @@
         [
           "/wiki/Soviet_Union",
           "/wiki/Juri_Kashkarov",
-          "/wiki/Algimantas_%C5%A0alna",
+          "/wiki/Algimantas_\u0160alna",
           "/wiki/Sergei_Bulygin",
           null
         ]
@@ -885,8 +885,8 @@
           "/wiki/East_Germany",
           "/wiki/Frank-Peter_Roetsch",
           "/wiki/Matthias_Jacob",
-          "/wiki/Ralf_G%C3%B6thel",
-          "/wiki/Andr%C3%A9_Sehmisch"
+          "/wiki/Ralf_G\u00f6thel",
+          "/wiki/Andr\u00e9_Sehmisch"
         ]
       ],
       [
@@ -941,10 +941,10 @@
         ],
         [
           "/wiki/East_Germany",
-          "/wiki/J%C3%BCrgen_Wirth",
+          "/wiki/J\u00fcrgen_Wirth",
           "/wiki/Frank-Peter_Roetsch",
           "/wiki/Matthias_Jacob",
-          "/wiki/Andr%C3%A9_Sehmisch"
+          "/wiki/Andr\u00e9_Sehmisch"
         ]
       ],
       [
@@ -985,8 +985,8 @@
           "/wiki/East_Germany",
           "/wiki/Frank-Peter_Roetsch",
           "/wiki/Matthias_Jacob",
-          "/wiki/Andr%C3%A9_Sehmisch",
-          "/wiki/J%C3%BCrgen_Wirth"
+          "/wiki/Andr\u00e9_Sehmisch",
+          "/wiki/J\u00fcrgen_Wirth"
         ]
       ],
       [
@@ -1042,7 +1042,7 @@
         [
           "/wiki/East_Germany",
           "/wiki/Frank_Luck",
-          "/wiki/Andr%C3%A9_Sehmisch",
+          "/wiki/Andr\u00e9_Sehmisch",
           "/wiki/Birk_Anders",
           "/wiki/Frank-Peter_Roetsch"
         ]
@@ -1117,7 +1117,7 @@
           "/wiki/France",
           "/wiki/Christian_Dumont",
           "/wiki/Xavier_Blond",
-          "/wiki/Herv%C3%A9_Flandin",
+          "/wiki/Herv\u00e9_Flandin",
           "/wiki/Thierry_Gerbier"
         ]
       ],
@@ -1132,7 +1132,7 @@
         [
           "/wiki/East_Germany",
           "/wiki/Frank_Luck",
-          "/wiki/Andr%C3%A9_Sehmisch",
+          "/wiki/Andr\u00e9_Sehmisch",
           "/wiki/Mark_Kirchner",
           "/wiki/Birk_Anders"
         ]
@@ -1157,7 +1157,7 @@
         ],
         [
           "/wiki/Germany",
-          "/wiki/Ricco_Gro%C3%9F",
+          "/wiki/Ricco_Gro\u00df",
           "/wiki/Frank_Luck",
           "/wiki/Mark_Kirchner",
           "/wiki/Fritz_Fischer_(biathlete)"
@@ -1191,7 +1191,7 @@
           "/wiki/Norway",
           "/wiki/Geir_Einang",
           "/wiki/Eirik_Kvalfoss",
-          "/wiki/Jon_%C3%85ge_Tyldum",
+          "/wiki/Jon_\u00c5ge_Tyldum",
           "/wiki/Gisle_Fenne"
         ]
       ]

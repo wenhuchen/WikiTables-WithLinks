@@ -88,7 +88,7 @@
         [
           "/wiki/Lieutenant_Governor_of_Ontario",
           "/wiki/Governor_General_of_Canada",
-          "/wiki/Jules_L%C3%A9ger",
+          "/wiki/Jules_L\u00e9ger",
           "/wiki/Prime_Minister_of_Canada",
           "/wiki/Pierre_Trudeau"
         ]
@@ -467,7 +467,7 @@
       ],
       [
         [
-          "Died while in office at the age of 75 ."
+          "Died while in office at the age of 75"
         ],
         [
           null

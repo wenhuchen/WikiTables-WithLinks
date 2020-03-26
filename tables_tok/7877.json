@@ -81,7 +81,7 @@
           "Salzburg"
         ],
         [
-          "/wiki/M%C3%BCnster",
+          "/wiki/M\u00fcnster",
           "/wiki/Cologne",
           "/wiki/Koblenz",
           "/wiki/Stuttgart",
@@ -112,7 +112,7 @@
           "\u00d6BB"
         ],
         [
-          "/wiki/%C3%96BB"
+          "/wiki/\u00d6BB"
         ]
       ]
     ],
@@ -148,9 +148,9 @@
         [
           "/wiki/Norddeich_Mole_station",
           "/wiki/Emden",
-          "/wiki/M%C3%BCnster",
+          "/wiki/M\u00fcnster",
           "/wiki/Oberhausen",
-          "/wiki/D%C3%BCsseldorf",
+          "/wiki/D\u00fcsseldorf",
           "/wiki/Cologne",
           "/wiki/Koblenz",
           "/wiki/Trier",
@@ -210,7 +210,7 @@
         [
           "/wiki/Berlin",
           "/wiki/Hannover",
-          "/wiki/Osnabr%C3%BCck",
+          "/wiki/Osnabr\u00fcck",
           "/wiki/Bad_Bentheim",
           "/wiki/Amsterdam"
         ]
@@ -496,7 +496,7 @@
           "/wiki/Flensburg",
           "/wiki/Hamburg",
           "/wiki/Hannover",
-          "/wiki/W%C3%BCrzburg",
+          "/wiki/W\u00fcrzburg",
           "/wiki/Augsburg",
           "/wiki/Munich",
           "/wiki/Zell_am_See",

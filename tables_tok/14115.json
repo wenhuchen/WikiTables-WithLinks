@@ -271,7 +271,7 @@
           "Switzerland"
         ],
         [
-          "/wiki/House_of_Z%C3%A4hringen",
+          "/wiki/House_of_Z\u00e4hringen",
           "/wiki/Savoy",
           "/wiki/Bern",
           "/wiki/Switzerland"
@@ -329,7 +329,7 @@
         ],
         [
           "/wiki/County_of_Ravensberg",
-          "/wiki/Bishopric_of_M%C3%BCnster",
+          "/wiki/Bishopric_of_M\u00fcnster",
           "/wiki/Grand_Duchy_of_Oldenburg",
           "/wiki/France",
           "/wiki/Grand_Duchy_of_Oldenburg"
@@ -396,8 +396,8 @@
           null,
           null,
           null,
-          "/wiki/Palatinate-Simmern_and_Zweibr%C3%BCcken",
-          "/wiki/Palatinate-Zweibr%C3%BCcken",
+          "/wiki/Palatinate-Simmern_and_Zweibr\u00fccken",
+          "/wiki/Palatinate-Zweibr\u00fccken",
           "/wiki/Palatinate-Veldenz"
         ]
       ]
@@ -886,7 +886,7 @@
           "/wiki/Lower_Salm",
           "/wiki/Lower_Salm",
           "/wiki/County_of_Luxembourg",
-          "/wiki/Sch%C3%B6necken",
+          "/wiki/Sch\u00f6necken",
           "/wiki/Sponheim-Kreuznach",
           "/wiki/Nassau-Dillenburg"
         ]

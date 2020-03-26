@@ -92,8 +92,8 @@
           "/wiki/Warszawa_Wschodnia_railway_station",
           "/wiki/Warszawa_Centralna_railway_station",
           "/wiki/Katowice_railway_station",
-          "/wiki/Bohum%C3%ADn",
-          "/wiki/B%C5%99eclav_railway_station",
+          "/wiki/Bohum\u00edn",
+          "/wiki/B\u0159eclav_railway_station",
           "/wiki/Wien_Hauptbahnhof",
           "/wiki/Innsbruck_Hauptbahnhof",
           "/wiki/Brenner_railway_station",
@@ -119,8 +119,8 @@
           "/wiki/Russian_Railways",
           "/wiki/Belarusian_Railway",
           "/wiki/Polish_State_Railways",
-          "/wiki/%C4%8Cesk%C3%A9_dr%C3%A1hy",
-          "/wiki/%C3%96sterreichische_Bundesbahnen",
+          "/wiki/\u010cesk\u00e9_dr\u00e1hy",
+          "/wiki/\u00d6sterreichische_Bundesbahnen",
           "/wiki/Trenitalia",
           "/wiki/SNCF"
         ]
@@ -229,7 +229,7 @@
           "Trenitalia"
         ],
         [
-          "/wiki/%C3%96sterreichische_Bundesbahnen",
+          "/wiki/\u00d6sterreichische_Bundesbahnen",
           "/wiki/Trenitalia"
         ]
       ],
@@ -262,7 +262,7 @@
       [
         [
           "Wien Hbf",
-          "St. P\u00f6lten Hbf.",
+          "St. P\u00f6lten Hbf",
           "Amstetten",
           "St. Valentin",
           "Linz Hbf",
@@ -287,7 +287,7 @@
           "/wiki/Linz_Hauptbahnhof",
           "/wiki/Wels_Hauptbahnhof",
           "/wiki/Attnang-Puchheim",
-          "/wiki/V%C3%B6cklabruck",
+          "/wiki/V\u00f6cklabruck",
           "/wiki/Salzburg_Hauptbahnhof",
           "/wiki/Villach_Hauptbahnhof",
           "/wiki/Tarvisio_Boscoverde_railway_station",
@@ -304,7 +304,7 @@
           "\u00d6BB"
         ],
         [
-          "/wiki/%C3%96sterreichische_Bundesbahnen"
+          "/wiki/\u00d6sterreichische_Bundesbahnen"
         ]
       ],
       [
@@ -350,7 +350,7 @@
           "/wiki/Wien_Westbahnhof",
           "/wiki/Linz_Hauptbahnhof",
           "/wiki/Wels_Hauptbahnhof",
-          "/wiki/V%C3%B6cklabruck",
+          "/wiki/V\u00f6cklabruck",
           "/wiki/Salzburg_Hauptbahnhof",
           "/wiki/Innsbruck_Hauptbahnhof",
           "/wiki/Landeck_(Tirol)",
@@ -400,7 +400,7 @@
         ],
         [
           "/wiki/Berlin_Hauptbahnhof",
-          "/wiki/Malm%C3%B6"
+          "/wiki/Malm\u00f6"
         ]
       ],
       [
@@ -447,10 +447,10 @@
           "Bohum\u00edn"
         ],
         [
-          "/wiki/Krak%C3%B3w",
-          "/wiki/O%C5%9Bwi%C4%99cim",
+          "/wiki/Krak\u00f3w",
+          "/wiki/O\u015bwi\u0119cim",
           "/wiki/Czechowice-Dziedzice",
-          "/wiki/Bohum%C3%ADn"
+          "/wiki/Bohum\u00edn"
         ]
       ],
       [
@@ -460,7 +460,7 @@
         ],
         [
           "/wiki/PKP_Intercity",
-          "/wiki/%C4%8Cesk%C3%A9_dr%C3%A1hy"
+          "/wiki/\u010cesk\u00e9_dr\u00e1hy"
         ]
       ],
       [
@@ -501,7 +501,7 @@
           "Moscow Smolenskaya railway station"
         ],
         [
-          "/wiki/Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD",
+          "/wiki/Praha_hlavn\u00ed_n\u00e1dra\u017e\u00ed",
           "/wiki/Ostrava",
           "/wiki/Katowice",
           "/wiki/Warszawa",
@@ -557,10 +557,10 @@
         ],
         [
           "/wiki/Wien_Hauptbahnhof",
-          "/wiki/B%C5%99eclav",
-          "/wiki/P%C5%99erov",
+          "/wiki/B\u0159eclav",
+          "/wiki/P\u0159erov",
           "/wiki/Ostrava",
-          "/wiki/Bohum%C3%ADn",
+          "/wiki/Bohum\u00edn",
           "/wiki/Katowice",
           "/wiki/Warszawa"
         ]
@@ -572,7 +572,7 @@
         ],
         [
           "/wiki/PKP_Intercity",
-          "/wiki/%C4%8Cesk%C3%A9_dr%C3%A1hy"
+          "/wiki/\u010cesk\u00e9_dr\u00e1hy"
         ]
       ],
       [
@@ -615,8 +615,8 @@
           "/wiki/Linz_Hauptbahnhof",
           "/wiki/Passau_Hauptbahnhof",
           "/wiki/Frankfurt_(Main)_Hbf",
-          "/wiki/K%C3%B6ln_Hbf",
-          "/wiki/D%C3%BCsseldorf"
+          "/wiki/K\u00f6ln_Hbf",
+          "/wiki/D\u00fcsseldorf"
         ]
       ],
       [
@@ -673,18 +673,18 @@
         [
           "/wiki/Amsterdam_Centraal",
           "/wiki/Duisburg_Hauptbahnhof",
-          "/wiki/K%C3%B6ln_Hauptbahnhof",
+          "/wiki/K\u00f6ln_Hauptbahnhof",
           "/wiki/Wuppertal_Hauptbahnhof",
           "/wiki/Bielefeld_Hauptbahnhof",
           "/wiki/Berliner_Stadtbahn",
           "/wiki/Frankfurt_(Oder)",
-          "/wiki/Pozna%C5%84",
+          "/wiki/Pozna\u0144",
           "/wiki/Warszawa_Centralna_railway_station",
           "/wiki/Warszawa_Wschodnia_railway_station",
           "/wiki/Minsk",
           null,
           "/wiki/Bahnhof_Basel_SBB",
-          "/wiki/M%C3%BCnchen_Hauptbahnhof"
+          "/wiki/M\u00fcnchen_Hauptbahnhof"
         ]
       ],
       [
@@ -741,16 +741,16 @@
           "Humenn\u00e9"
         ],
         [
-          "/wiki/Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD",
+          "/wiki/Praha_hlavn\u00ed_n\u00e1dra\u017e\u00ed",
           "/wiki/Pardubice",
           "/wiki/Olomouc",
           "/wiki/Ostrava",
-          "/wiki/Bohum%C3%ADn",
-          "/wiki/%C4%8Cesk%C3%BD_T%C4%9B%C5%A1%C3%ADn",
-          "/wiki/%C5%BDilina",
+          "/wiki/Bohum\u00edn",
+          "/wiki/\u010cesk\u00fd_T\u011b\u0161\u00edn",
+          "/wiki/\u017dilina",
           "/wiki/Poprad",
-          "/wiki/Ko%C5%A1ice",
-          "/wiki/Humenn%C3%A9"
+          "/wiki/Ko\u0161ice",
+          "/wiki/Humenn\u00e9"
         ]
       ],
       [
@@ -800,15 +800,15 @@
           "Ko\u0161ice"
         ],
         [
-          "/wiki/Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD",
+          "/wiki/Praha_hlavn\u00ed_n\u00e1dra\u017e\u00ed",
           "/wiki/Pardubice",
           "/wiki/Olomouc",
           "/wiki/Ostrava",
-          "/wiki/Bohum%C3%ADn",
-          "/wiki/%C4%8Cesk%C3%BD_T%C4%9B%C5%A1%C3%ADn",
-          "/wiki/%C5%BDilina",
+          "/wiki/Bohum\u00edn",
+          "/wiki/\u010cesk\u00fd_T\u011b\u0161\u00edn",
+          "/wiki/\u017dilina",
           "/wiki/Poprad",
-          "/wiki/Ko%C5%A1ice"
+          "/wiki/Ko\u0161ice"
         ]
       ],
       [
@@ -856,7 +856,7 @@
         ],
         [
           "/wiki/Warszawa",
-          "/wiki/Pozna%C5%84",
+          "/wiki/Pozna\u0144",
           "/wiki/Frankfurt_(Oder)",
           "/wiki/Berlin_Hbf",
           "/wiki/Dortmund",
@@ -917,13 +917,13 @@
           "/wiki/Belorussky_Rail_Terminal",
           "/wiki/Minsk",
           "/wiki/Warszawa",
-          "/wiki/Pozna%C5%84",
+          "/wiki/Pozna\u0144",
           "/wiki/Frankfurt_(Oder)",
           "/wiki/Berlin_Hbf",
           "/wiki/Hannover",
           "/wiki/Fulda",
           "/wiki/Aschaffenburg",
-          "/wiki/Frankfurt_(Main)_S%C3%BCd",
+          "/wiki/Frankfurt_(Main)_S\u00fcd",
           "/wiki/Karlsruhe_Hauptbahnhof",
           "/wiki/Gare_de_Strasbourg",
           "/wiki/Gare_de_Paris-Est"
@@ -979,8 +979,8 @@
           "Leipzig"
         ],
         [
-          "/wiki/Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD",
-          "/wiki/%C3%9Ast%C3%AD_nad_Labem",
+          "/wiki/Praha_hlavn\u00ed_n\u00e1dra\u017e\u00ed",
+          "/wiki/\u00dast\u00ed_nad_Labem",
           "/wiki/Dresden_Hbf",
           "/wiki/Leipzig"
         ]
@@ -1030,13 +1030,13 @@
           "Praha hlavn\u00ed n\u00e1dra\u017e\u00ed"
         ],
         [
-          "/wiki/Z%C3%BCrich_Hauptbahnhof",
+          "/wiki/Z\u00fcrich_Hauptbahnhof",
           "/wiki/Basel_SBB",
           "/wiki/Frankfurt_South_station",
           "/wiki/Erfurt_Hbf",
           "/wiki/Leipzig_Hbf",
           "/wiki/Dresden_Hbf",
-          "/wiki/Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD"
+          "/wiki/Praha_hlavn\u00ed_n\u00e1dra\u017e\u00ed"
         ]
       ],
       [
@@ -1083,11 +1083,11 @@
           "Bucuresti Nord"
         ],
         [
-          "/wiki/Budapest_Keleti_p%C3%A1lyaudvar",
+          "/wiki/Budapest_Keleti_p\u00e1lyaudvar",
           "/wiki/Hegyeshalom",
           "/wiki/Wien_Hauptbahnhof",
           "/wiki/Salzburg_Hauptbahnhof",
-          "/wiki/M%C3%BCnchen_Hauptbahnhof",
+          "/wiki/M\u00fcnchen_Hauptbahnhof",
           "/wiki/Bucuresti_Nord"
         ]
       ],
@@ -1141,7 +1141,7 @@
           "/wiki/Selzthal",
           "/wiki/Innsbruck_Hauptbahnhof",
           "/wiki/Feldkirch,_Vorarlberg",
-          "/wiki/Z%C3%BCrich_Hauptbahnhof",
+          "/wiki/Z\u00fcrich_Hauptbahnhof",
           "/wiki/Villach",
           "/wiki/Zagreb",
           "/wiki/Belgrade"
@@ -1153,8 +1153,8 @@
           "\u017dS"
         ],
         [
-          "/wiki/Hrvatske_%C5%BDeljeznice",
-          "/wiki/%C5%BDeleznice_Srbije"
+          "/wiki/Hrvatske_\u017deljeznice",
+          "/wiki/\u017deleznice_Srbije"
         ]
       ],
       [
@@ -1190,7 +1190,7 @@
           "Buchs"
         ],
         [
-          "/wiki/Budapest_Keleti_p%C3%A1lyaudvar",
+          "/wiki/Budapest_Keleti_p\u00e1lyaudvar",
           "/wiki/Hegyeshalom",
           "/wiki/Buchs_SG"
         ]

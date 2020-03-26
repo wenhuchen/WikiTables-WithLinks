@@ -214,7 +214,7 @@
           "/wiki/Gabriel_Sabourin",
           null,
           "/wiki/Robin_Aubert",
-          "/wiki/Suzanne_Cl%C3%A9ment"
+          "/wiki/Suzanne_Cl\u00e9ment"
         ]
       ],
       [
@@ -290,7 +290,7 @@
         ],
         [
           "/wiki/Roy_Dupuis",
-          "/wiki/%C3%89mile_Proulx-Cloutier",
+          "/wiki/\u00c9mile_Proulx-Cloutier",
           null,
           "/wiki/Florence_Blain_Mbaye"
         ]
@@ -528,7 +528,7 @@
           "Cas & Dylan"
         ],
         [
-          "/wiki/Cas_%26_Dylan"
+          "/wiki/Cas_&_Dylan"
         ]
       ],
       [
@@ -616,7 +616,7 @@
           "Lucy Punch"
         ],
         [
-          "/wiki/Malin_%C3%85kerman",
+          "/wiki/Malin_\u00c5kerman",
           "/wiki/Tyler_Labine",
           "/wiki/Lucy_Punch"
         ]

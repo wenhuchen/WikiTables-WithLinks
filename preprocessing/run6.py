@@ -5,6 +5,7 @@ from multiprocessing import Pool
 from nltk.tokenize import sent_tokenize
 sys.path.append("./")
 from utils import tokenize
+import urllib.parse
 
 def tokenization_req(f_n):
     if f_n.endswith('.json'):
@@ -28,12 +29,16 @@ def tokenization_tab(f_n):
                 for i, ent in enumerate(cell[0]):
                     if ent:
                         table['data'][row_idx][col_idx][0][i] = tokenize(ent, True)
+                    if table['data'][row_idx][col_idx][1][i]:
+                        table['data'][row_idx][col_idx][1][i] = urllib.parse.unquote(table['data'][row_idx][col_idx][1][i])
         
         for col_idx, header in enumerate(table['header']):
             for i, ent in enumerate(header[0]):
                 if ent:
                     table['header'][col_idx][0][i] = tokenize(ent, True)
-        
+                if table['header'][col_idx][1][i]:
+                    table['header'][col_idx][1][i] = urllib.parse.unquote(table['header'][col_idx][1][i])
+
         with open('tables_tok/{}'.format(f_n), 'w') as f:
             json.dump(table, f, indent=2)
 

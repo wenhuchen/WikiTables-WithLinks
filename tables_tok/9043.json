@@ -198,7 +198,7 @@
           "Bremerhaven"
         ],
         [
-          "/wiki/L%C3%BCbeck",
+          "/wiki/L\u00fcbeck",
           "/wiki/Kiel",
           "/wiki/Bremerhaven"
         ]
@@ -255,8 +255,8 @@
           "/wiki/Bielefeld",
           "/wiki/Kassel",
           "/wiki/Fulda",
-          "/wiki/Gie%C3%9Fen",
-          "/wiki/G%C3%B6ttingen",
+          "/wiki/Gie\u00dfen",
+          "/wiki/G\u00f6ttingen",
           "/wiki/Braunschweig",
           "/wiki/Magdeburg"
         ]
@@ -305,12 +305,12 @@
           "Osnabr\u00fcck"
         ],
         [
-          "/wiki/D%C3%BCsseldorf",
+          "/wiki/D\u00fcsseldorf",
           "/wiki/Dortmund",
           "/wiki/Essen",
           "/wiki/Duisburg",
-          "/wiki/M%C3%BCnster",
-          "/wiki/Osnabr%C3%BCck"
+          "/wiki/M\u00fcnster",
+          "/wiki/Osnabr\u00fcck"
         ]
       ]
     ],
@@ -400,7 +400,7 @@
         [
           "/wiki/Saarland",
           "/wiki/Bavaria",
-          "/wiki/Baden-W%C3%BCrttemberg"
+          "/wiki/Baden-W\u00fcrttemberg"
         ]
       ],
       [
@@ -417,7 +417,7 @@
           "/wiki/Frankfurt_(Main)",
           "/wiki/Wiesbaden",
           "/wiki/Darmstadt",
-          "/wiki/Saarbr%C3%BCcken",
+          "/wiki/Saarbr\u00fccken",
           "/wiki/Heidelberg",
           "/wiki/Mannheim",
           "/wiki/Aschaffenburg"
@@ -467,7 +467,7 @@
         ],
         [
           "/wiki/Stuttgart",
-          "/wiki/T%C3%BCbingen",
+          "/wiki/T\u00fcbingen",
           "/wiki/Freiburg",
           "/wiki/Konstanz",
           "/wiki/Baden-Baden"
@@ -569,7 +569,7 @@
         ],
         [
           "/wiki/Nuremberg",
-          "/wiki/W%C3%BCrzburg",
+          "/wiki/W\u00fcrzburg",
           "/wiki/Erfurt",
           "/wiki/Weimar",
           "/wiki/Eisenach",
