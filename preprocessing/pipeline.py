@@ -53,56 +53,62 @@ def remove_ref(text):
         x.extract()
     return text
 
-def get_section_title_text(r):
-    section_title = ''
-    section_text = '' 
+def get_section_title(r):
+    text = r.previous_sibling
+    title_hierarchy = []
+    while text is None or text == '\n' or text.name not in ['h2', 'h3']:
+        if text is None:
+            break
+        else:
+            text = text.previous_sibling               
+    
+    if text is not None:
+        title_hierarchy.append(text.find(class_='mw-headline').text)
+        if text.name in ['h3']:
+            while text is None or text == '\n' or text.name not in ['h2']:
+                if text is None:
+                    break
+                else:
+                    text = text.previous_sibling               
+
+            if text is None:
+                pass
+            else:
+                title_hierarchy.append(text.find(class_='mw-headline').text)
+    
+    if len(title_hierarchy) == 0:
+        return ''
+    else:
+        tmp = ' -- '.join(title_hierarchy[::-1])
+        return normalize(tmp)
+
+def get_section_text(r):
     text = r.previous_sibling
     while text is None or text == '\n':
         if text is None:
             break
         else:
-            text = text.previous_sibling               
-
+            text = text.previous_sibling  
     if text is None:
-        pass
-    elif text.name in ['h1', 'h2', 'h3', 'h4']:
-        segment = text.find(class_='mw-headline')
-        if segment:
-            section_title = segment.text
-        section_text = ''
+        return ''
     else:
-        if text is None:
-            pass
+        if text.name in ['h1', 'h2', 'h3', 'h4']:
+            return ''
         else:
-            if text.name == 'p':
-                tmp = text.text
-            elif text.name == 'div':
-                tmp = text.text
+            tmp = text.text
+            if tmp:
+                mask = ['note', 'indicate', 'incomplete', 'source', 'reference']
+                if  any([_ in tmp.lower() for _ in mask]):
+                    section_text = ''
+                else:
+                    section_text = normalize(tmp)
+                return section_text
             else:
-                tmp = text.text
+                return ''
 
-            mask = ['note', 'indicate', 'incomplete', 'source', 'reference']
-            if  any([_ in tmp.lower() for _ in mask]):
-                section_text = ''
-            else:
-                section_text = tmp
-
-            while text is None or text == '\n' or text.name not in ['h1', 'h2', 'h3', 'h4']:
-                if text is None:
-                    break
-                text = text.previous_sibling
-
-            if text is not None:
-                segment = text.find(class_='mw-headline')
-                if segment:
-                    section_title = segment.text
-
-    if section_title:
-        section_title = section_title.replace('\n', ' ')
-    if section_text:
-        section_text = section_text.replace('\n', ' ')
-
-    return tokenize(section_title.strip()), tokenize(section_text.strip())
+def normalize(string):
+    string = string.strip().replace('\n', ' ')
+    return tokenize(string)
 
 def harvest_tables(f_name):
     results = []
@@ -140,10 +146,13 @@ def harvest_tables(f_name):
                 continue
             else:
                 try:
-                    section_title, section_text = get_section_title_text(r)
+                    section_title = get_section_title(r)
                 except Exception:
-                    section_title, section_text = '', ''
-
+                    section_title = ''
+                try:
+                    section_text = get_section_text(r)
+                except Exception:
+                    section_text = ''
                 title = soup.title.string
                 title = re.sub(' - Wikipedia', '', title)
                 url = 'https://en.wikipedia.org/wiki/{}'.format('_'.join(title.split(' ')))
