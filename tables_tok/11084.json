@@ -839,6 +839,7 @@
       ]
     ]
   ],
-  "context": "",
-  "idx": 11084
+  "idx": 11084,
+  "section_title": "User interfaces",
+  "section_text": "Software : The name of the application that is described . Web Interface : Describes whether the software application contains a web interface . A web interface could allow the software to post diagnostics data to a website , or could even allow remote control of the software application . GUIs : A GUI is a graphical user interface . If a software product features a GUI its functionality can be accessed through application windows as opposed to accessing functionality based upon typing commands at the command prompt such as a DOS interface . Plug-ins : functionality is available through an Integrated Development Environment . Minimum functionality should be to list the revision state of a file and check in/check out files"
 }

@@ -1061,6 +1061,7 @@
       ]
     ]
   ],
-  "context": "",
-  "idx": 7177
+  "idx": 7177,
+  "section_title": "Technical",
+  "section_text": "Unlike other operating systems , Linux and Unix allow any file system regardless of the medium it is stored on , whether that medium is a magnetic disk , an optical disk ( CD , DVD , etc . ) , a USB flash memory key , or even contained within a file located on another file system . Similarly , many C compilers ( mainly GNU Compiler Collection ( GCC ) ) , init systems ( mainly sysvinit ) , desktop environments and window managers are widely supported"
 }

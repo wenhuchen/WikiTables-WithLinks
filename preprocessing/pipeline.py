@@ -53,6 +53,57 @@ def remove_ref(text):
         x.extract()
     return text
 
+def get_section_title_text(r):
+    section_title = ''
+    section_text = '' 
+    text = r.previous_sibling
+    while text is None or text == '\n':
+        if text is None:
+            break
+        else:
+            text = text.previous_sibling               
+
+    if text is None:
+        pass
+    elif text.name in ['h1', 'h2', 'h3', 'h4']:
+        segment = text.find(class_='mw-headline')
+        if segment:
+            section_title = segment.text
+        section_text = ''
+    else:
+        if text is None:
+            pass
+        else:
+            if text.name == 'p':
+                tmp = text.text
+            elif text.name == 'div':
+                tmp = text.text
+            else:
+                tmp = text.text
+
+            mask = ['note', 'indicate', 'incomplete', 'source', 'reference']
+            if  any([_ in tmp.lower() for _ in mask]):
+                section_text = ''
+            else:
+                section_text = tmp
+
+            while text is None or text == '\n' or text.name not in ['h1', 'h2', 'h3', 'h4']:
+                if text is None:
+                    break
+                text = text.previous_sibling
+
+            if text is not None:
+                segment = text.find(class_='mw-headline')
+                if segment:
+                    section_title = segment.text
+
+    if section_title:
+        section_title = section_title.replace('\n', ' ')
+    if section_text:
+        section_text = section_text.replace('\n', ' ')
+
+    return tokenize(section_title.strip()), tokenize(section_text.strip())
+
 def harvest_tables(f_name):
     results = []
     with open(os.path.join(input_htmls, f_name), 'r') as f:
@@ -88,19 +139,16 @@ def harvest_tables(f_name):
             if any([len(row) != len(heads) for row in rows]) or len(rows) < 8:
                 continue
             else:
-                text = r.previous_sibling
-                while text is not None and text.name != 'p' and text.string is not None:
-                    text = text.previous_sibling
-
-                if text is None or text.string is None:
-                    context = ''
-                else:
-                    context = text.string.strip()
+                try:
+                    section_title, section_text = get_section_title_text(r)
+                except Exception:
+                    section_title, section_text = '', ''
 
                 title = soup.title.string
                 title = re.sub(' - Wikipedia', '', title)
                 url = 'https://en.wikipedia.org/wiki/{}'.format('_'.join(title.split(' ')))
-                results.append({'url': url, 'title': title, 'header': heads, 'data': rows, 'context': context})
+                results.append({'url': url, 'title': title, 'header': heads, 'data': rows, 
+                                'section_title': section_title, 'section_text': section_text})
     return results
 
 def inplace_postprocessing(tables):
@@ -465,8 +513,10 @@ if __name__ == "__main__":
 
     if '6' in steps:
         # Step7: tokenize the tables and request
-        os.mkdir('{}/request_tok'.format(output_folder))
-        os.mkdir('{}/tables_tok'.format(output_folder))
+        if not os.path.exists('{}/request_tok'.format(output_folder)):
+            os.mkdir('{}/request_tok'.format(output_folder))
+        if not os.path.exists('{}/tables_tok'.format(output_folder)):
+            os.mkdir('{}/tables_tok'.format(output_folder))
         pool.map(tokenization_req, os.listdir('{}/request'.format(output_folder)))
         pool.map(tokenization_tab, os.listdir('{}/tables'.format(output_folder)))
 
