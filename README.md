@@ -13,5 +13,5 @@ unzip htmls_containing_tables.zip
 python preprocessing/pipeline.py
 ```
 
-### Generated files
+## Generated files
 The generated files are contained in data/ folder, including tables/ and requests/ and their tokenized version.
