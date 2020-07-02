@@ -32,6 +32,7 @@ def filter_firstKsents(string, k):
     string = sent_tokenize(string)
     string = string[:k]
     return " ".join(string)
+
 def process_link(text):
     tmp = []
     hrefs = []
@@ -84,27 +85,26 @@ def get_section_title(r):
 
 def get_section_text(r):
     text = r.previous_sibling
-    while text is None or text == '\n':
-        if text is None:
+    section_text = ''
+    while text is not None:
+        if text == '\n':
+            text = text.previous_sibling
+        elif text.name in ['h1', 'h2', 'h3', 'h4']:
             break
-        else:
-            text = text.previous_sibling  
-    if text is None:
-        return ''
-    else:
-        if text.name in ['h1', 'h2', 'h3', 'h4']:
-            return ''
         else:
             tmp = text.text
             if tmp:
                 mask = ['note', 'indicate', 'incomplete', 'source', 'reference']
                 if  any([_ in tmp.lower() for _ in mask]):
-                    section_text = ''
+                    tmp = ''
                 else:
-                    section_text = normalize(tmp)
-                return section_text
-            else:
-                return ''
+                    tmp = normalize(tmp)
+                    if section_text:
+                        section_text = tmp + ' ' + section_text
+                    else:
+                        section_text = tmp
+            text = text.previous_sibling
+    return section_text
 
 def normalize(string):
     string = string.strip().replace('\n', ' ')
@@ -116,7 +116,7 @@ def harvest_tables(f_name):
         soup = BeautifulSoup(f, 'html.parser')
         rs = soup.find_all(class_='wikitable sortable')
         
-        for r in rs:
+        for it, r in enumerate(rs):
             heads = []
             rows = []
             for i, t_row in enumerate(r.find_all('tr')):
@@ -156,8 +156,10 @@ def harvest_tables(f_name):
                 title = soup.title.string
                 title = re.sub(' - Wikipedia', '', title)
                 url = 'https://en.wikipedia.org/wiki/{}'.format('_'.join(title.split(' ')))
+                uid = f_name[:-5] + "_{}".format(it)
                 results.append({'url': url, 'title': title, 'header': heads, 'data': rows, 
-                                'section_title': section_title, 'section_text': section_text})
+                                'section_title': section_title, 'section_text': section_text,
+                                'uid': uid})
     return results
 
 def inplace_postprocessing(tables):

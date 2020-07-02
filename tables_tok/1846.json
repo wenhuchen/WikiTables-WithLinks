@@ -931,5 +931,6 @@
   ],
   "idx": 1846,
   "section_title": "Distributed file systems -- Distributed parallel fault-tolerant file systems",
-  "section_text": "All file systems listed here focus on high availability , scalability and high performance unless otherwise stated below"
+  "section_text": "Distributed file systems , which also are parallel and fault tolerant , stripe and replicate data over multiple servers for high performance and to maintain data integrity . Even if a server fails no data is lost . The file systems are used in both high-performance computing ( HPC ) and high-availability clusters All file systems listed here focus on high availability , scalability and high performance unless otherwise stated below",
+  "uid": "List_of_file_systems_0"
 }

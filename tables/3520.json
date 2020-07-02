@@ -459,5 +459,6 @@
   ],
   "idx": 3520,
   "section_title": "Matrices satisfying conditions on products or inverses",
-  "section_text": ""
+  "section_text": "A number of matrix-related notions is about properties of products or inverses of the given matrix . The matrix product of a m-by-n matrix A and a n-by-k matrix B is the m-by-k matrix C given by ( C ) i , j = \u2211 r = 1 n A i , r B r , j . { \\displaystyle ( C ) _ { i , j } =\\sum _ { r=1 } ^ { n } A_ { i , r } B_ { r , j } . }",
+  "uid": "List_of_matrices_3"
 }

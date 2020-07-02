@@ -725,5 +725,6 @@
   ],
   "idx": 9888,
   "section_title": "Firewall appliances",
-  "section_text": "The following table lists different firewall appliances"
+  "section_text": "In general , a computer appliance is a computing device with a specific function and limited configuration ability , and a software appliance is a set of computer programs that might be combined with just enough operating system ( JeOS ) for it to run optimally on industry standard computer hardware or in a virtual machine A firewall appliance is a combination of a firewall software and an operating system that is purposely built to run a firewall system on a dedicated hardware or virtual machine . [ 1 ] [ 2 ] [ 3 ] These include : embedded firewalls : very limited-capability programs running on a low-power CPU system , software-based firewall appliances : a system that can be run in independent hardware or in a virtualised environment as a virtual appliance hardware-based firewall appliances : a firewall appliance that runs on a hardware specifically built to install as a network device , providing enough network interfaces and CPU to serve a wide range of purposes . From protecting a small network ( a few network ports and few megabits per second throughput ) to protecting an enterprise-level network ( tens of network ports and gigabits per second throughput ) The following table lists different firewall appliances",
+  "uid": "Comparison_of_firewalls_1"
 }
