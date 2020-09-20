@@ -1,0 +1,556 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Star_Alliance",
+  "title": "Star Alliance",
+  "header": [
+    [
+      "City",
+      []
+    ],
+    [
+      "Airport",
+      []
+    ],
+    [
+      "IATA",
+      []
+    ],
+    [
+      "Terminal",
+      []
+    ],
+    [
+      "Exceptions",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Barcelona",
+        []
+      ],
+      [
+        "Barcelona-El Prat Airport",
+        [
+          "/wiki/Barcelona\u2013El_Prat_Airport"
+        ]
+      ],
+      [
+        "BCN",
+        []
+      ],
+      [
+        "Terminal 1",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Beijing",
+        []
+      ],
+      [
+        "Beijing Capital International Airport",
+        [
+          "/wiki/Beijing_Capital_International_Airport"
+        ]
+      ],
+      [
+        "PEK",
+        []
+      ],
+      [
+        "Terminal 3 ( E )",
+        []
+      ],
+      [
+        "Air China partially at Beijing Daxing International Airport",
+        [
+          "/wiki/Air_China",
+          "/wiki/Beijing_Daxing_International_Airport"
+        ]
+      ]
+    ],
+    [
+      [
+        "Cairo",
+        []
+      ],
+      [
+        "Cairo International Airport",
+        [
+          "/wiki/Cairo_International_Airport"
+        ]
+      ],
+      [
+        "CAI",
+        []
+      ],
+      [
+        "Terminal 3",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Chongqing",
+        []
+      ],
+      [
+        "Chongqing Jiangbei International Airport",
+        [
+          "/wiki/Chongqing_Jiangbei_International_Airport"
+        ]
+      ],
+      [
+        "CKG",
+        []
+      ],
+      [
+        "Terminal 3",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Delhi",
+        []
+      ],
+      [
+        "Indira Gandhi International Airport",
+        [
+          "/wiki/Indira_Gandhi_International_Airport"
+        ]
+      ],
+      [
+        "DEL",
+        []
+      ],
+      [
+        "Terminal 3",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Dublin",
+        []
+      ],
+      [
+        "Dublin Airport",
+        [
+          "/wiki/Dublin_Airport"
+        ]
+      ],
+      [
+        "DUB",
+        []
+      ],
+      [
+        "Terminal 1",
+        []
+      ],
+      [
+        "United Airlines ( Terminal 2 )",
+        [
+          "/wiki/United_Airlines"
+        ]
+      ]
+    ],
+    [
+      [
+        "Frankfurt",
+        []
+      ],
+      [
+        "Frankfurt Airport",
+        [
+          "/wiki/Frankfurt_Airport"
+        ]
+      ],
+      [
+        "FRA",
+        []
+      ],
+      [
+        "Terminal 1 Star Alliance Terminal",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Guangzhou",
+        []
+      ],
+      [
+        "Guangzhou Baiyun International Airport",
+        [
+          "/wiki/Guangzhou_Baiyun_International_Airport"
+        ]
+      ],
+      [
+        "CAN",
+        []
+      ],
+      [
+        "Terminal 1",
+        []
+      ],
+      [
+        "Singapore Airlines , Thai Airways ( Terminal 2 )",
+        [
+          "/wiki/Singapore_Airlines",
+          "/wiki/Thai_Airways"
+        ]
+      ]
+    ],
+    [
+      [
+        "Hong Kong",
+        []
+      ],
+      [
+        "Hong Kong International Airport",
+        [
+          "/wiki/Hong_Kong_International_Airport"
+        ]
+      ],
+      [
+        "HKG",
+        []
+      ],
+      [
+        "Terminal 1",
+        []
+      ],
+      [
+        "Thai Airways ( Terminal 2 )",
+        [
+          "/wiki/Thai_Airways"
+        ]
+      ]
+    ],
+    [
+      [
+        "London",
+        []
+      ],
+      [
+        "London Heathrow Airport",
+        [
+          "/wiki/London_Heathrow_Airport"
+        ]
+      ],
+      [
+        "LHR",
+        []
+      ],
+      [
+        "Terminal 2 ( The Queen 's Terminal ) Star Alliance Terminal",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Manchester , UK",
+        []
+      ],
+      [
+        "Manchester Airport",
+        [
+          "/wiki/Manchester_Airport"
+        ]
+      ],
+      [
+        "MAN",
+        []
+      ],
+      [
+        "Terminal 1 ( Lufthansa , Austrian Airlines , Scandinavian Airlines , Aegean Airlines , Turkish Airlines and Brussels Airlines )",
+        [
+          "/wiki/Lufthansa",
+          "/wiki/Austrian_Airlines",
+          "/wiki/Scandinavian_Airlines",
+          "/wiki/Aegean_Airlines",
+          "/wiki/Turkish_Airlines",
+          "/wiki/Brussels_Airlines"
+        ]
+      ],
+      [
+        "Singapore Airlines , United Airlines and Air Canada Rouge ( Terminal 2 )",
+        [
+          "/wiki/Singapore_Airlines",
+          "/wiki/United_Airlines",
+          "/wiki/Air_Canada_Rouge"
+        ]
+      ]
+    ],
+    [
+      [
+        "Mexico City",
+        []
+      ],
+      [
+        "Benito Ju\u00e1rez International Airport",
+        [
+          "/wiki/Benito_Ju\u00e1rez_International_Airport"
+        ]
+      ],
+      [
+        "MEX",
+        []
+      ],
+      [
+        "Terminal 1",
+        []
+      ],
+      [
+        "Copa Airlines ( Terminal 2 )",
+        [
+          "/wiki/Copa_Airlines"
+        ]
+      ]
+    ],
+    [
+      [
+        "Miami",
+        []
+      ],
+      [
+        "Miami International Airport",
+        [
+          "/wiki/Miami_International_Airport"
+        ]
+      ],
+      [
+        "MIA",
+        []
+      ],
+      [
+        "Concourse J",
+        []
+      ],
+      [
+        "United Airlines ( Concourse G )",
+        [
+          "/wiki/United_Airlines"
+        ]
+      ]
+    ],
+    [
+      [
+        "Munich",
+        []
+      ],
+      [
+        "Munich Airport",
+        [
+          "/wiki/Munich_Airport"
+        ]
+      ],
+      [
+        "MUC",
+        []
+      ],
+      [
+        "Terminal 2",
+        []
+      ],
+      [
+        "Turkish Airlines ( Terminal 1 )",
+        [
+          "/wiki/Turkish_Airlines"
+        ]
+      ]
+    ],
+    [
+      [
+        "Moscow",
+        []
+      ],
+      [
+        "Domodedovo International Airport",
+        [
+          "/wiki/Domodedovo_International_Airport"
+        ]
+      ],
+      [
+        "DME",
+        []
+      ],
+      [
+        "Concourse A",
+        []
+      ],
+      [
+        "Air China , Brussels Airlines and Scandinavian Airlines ( Sheremetyevo Airport ) Turkish Airlines ( Vnukovo Airport )",
+        [
+          "/wiki/Air_China",
+          "/wiki/Brussels_Airlines",
+          "/wiki/Scandinavian_Airlines",
+          "/wiki/Sheremetyevo_Airport",
+          "/wiki/Turkish_Airlines",
+          "/wiki/Vnukovo_Airport"
+        ]
+      ]
+    ],
+    [
+      [
+        "Paris",
+        []
+      ],
+      [
+        "Charles de Gaulle Airport",
+        [
+          "/wiki/Charles_de_Gaulle_Airport"
+        ]
+      ],
+      [
+        "CDG",
+        []
+      ],
+      [
+        "Terminal 1",
+        []
+      ],
+      [
+        "Austrian Airlines , Croatia Airlines ( Terminal 2D ) Air Canada and Ethiopian Airlines ( Terminal 2A ) Air India ( Terminal 2C )",
+        [
+          "/wiki/Austrian_Airlines",
+          "/wiki/Croatia_Airlines",
+          "/wiki/Air_Canada",
+          "/wiki/Ethiopian_Airlines",
+          "/wiki/Air_India"
+        ]
+      ]
+    ],
+    [
+      [
+        "Phuket",
+        []
+      ],
+      [
+        "Phuket International Airport",
+        [
+          "/wiki/Phuket_International_Airport"
+        ]
+      ],
+      [
+        "HKT",
+        []
+      ],
+      [
+        "Terminal 1",
+        []
+      ],
+      [
+        "Thai Airways International ( partially in Terminal 2 )",
+        [
+          "/wiki/Thai_Airways_International"
+        ]
+      ]
+    ],
+    [
+      [
+        "S\u00e3o Paulo",
+        []
+      ],
+      [
+        "S\u00e3o Paulo-Guarulhos International Airport",
+        [
+          "/wiki/S\u00e3o_Paulo\u2013Guarulhos_International_Airport"
+        ]
+      ],
+      [
+        "GRU",
+        []
+      ],
+      [
+        "Terminal 3",
+        []
+      ],
+      [
+        "Avianca and Copa Airlines ( Terminal 2 )",
+        [
+          "/wiki/Avianca",
+          "/wiki/Copa_Airlines"
+        ]
+      ]
+    ],
+    [
+      [
+        "Seoul",
+        []
+      ],
+      [
+        "Incheon International Airport",
+        [
+          "/wiki/Incheon_International_Airport"
+        ]
+      ],
+      [
+        "ICN",
+        []
+      ],
+      [
+        "Terminal 1",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Shanghai",
+        []
+      ],
+      [
+        "Shanghai Pudong International Airport",
+        [
+          "/wiki/Shanghai_Pudong_International_Airport"
+        ]
+      ],
+      [
+        "PVG",
+        []
+      ],
+      [
+        "Terminal 2",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Customer service -- Co-location at airports ( under one roof )",
+  "section_text": "Star Alliance members Scandinavian Airlines , Lufthansa , Austrian Airlines ( with Star Alliance livery ) , and Air China ( in the field ) using Terminal 3E of Beijing Capital International Airport as part of the `` Move Under One Roof '' program to co-locate alliance members",
+  "uid": "Star_Alliance_0"
+}

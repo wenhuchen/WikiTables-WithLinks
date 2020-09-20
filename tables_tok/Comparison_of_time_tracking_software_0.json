@@ -1,0 +1,724 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_time-tracking_software",
+  "title": "Comparison of time-tracking software",
+  "header": [
+    [
+      "Name",
+      []
+    ],
+    [
+      "Platform support",
+      []
+    ],
+    [
+      "Features",
+      []
+    ],
+    [
+      "Integration",
+      []
+    ],
+    [
+      "Data-storage",
+      []
+    ],
+    [
+      "Licensing",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Ceiton",
+        [
+          "/wiki/CEITON"
+        ]
+      ],
+      [
+        "Web application",
+        [
+          "/wiki/Web_application"
+        ]
+      ],
+      [
+        "Time-tracking and reporting , timesheets , invoicing . Full project support , integrated with workflow and long-term shift planning . Supports mobile devices",
+        [
+          "/wiki/Shift_plan"
+        ]
+      ],
+      [
+        "Export to SAP , Microsoft Excel , CSV and pdf",
+        [
+          "/wiki/SAP_ERP",
+          "/wiki/Microsoft_Excel",
+          "/wiki/Comma-separated_values"
+        ]
+      ],
+      [
+        "Web-based , MS SQL , Oracle",
+        []
+      ],
+      [
+        "License",
+        []
+      ]
+    ],
+    [
+      [
+        "Chrometa",
+        [
+          "/wiki/Chrometa"
+        ]
+      ],
+      [
+        "Microsoft Windows , iOS , Android",
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/IOS",
+          "/wiki/Android_(operating_system)"
+        ]
+      ],
+      [
+        "Fully automatic time-tracking software that captures PC-based time . Records time spent within all applications , documents , emails , and web pages without data entry . Also records time while you 're away and prompts you to add a note",
+        []
+      ],
+      [
+        "No user input required",
+        []
+      ],
+      [
+        "Export to Microsoft Excel",
+        [
+          "/wiki/Microsoft_Excel"
+        ]
+      ],
+      [
+        "Subscription-based",
+        []
+      ]
+    ],
+    [
+      [
+        "Clarizen",
+        [
+          "/wiki/Clarizen"
+        ]
+      ],
+      [
+        "Web application",
+        [
+          "/wiki/Web_application"
+        ]
+      ],
+      [
+        "Collaborative project execution software . Clarizens Time Tracking features include cost and billing rates , timesheets , billing approvals process and time-tracking reports",
+        []
+      ],
+      [
+        "Integrate with Salesforce , Google docs , Microsoft Outlook . Mobile- iPhone/Android app",
+        []
+      ],
+      [
+        "Export and import projects to and from Microsoft Excel",
+        [
+          "/wiki/Microsoft_Excel"
+        ]
+      ],
+      [
+        "Subscription-based",
+        []
+      ]
+    ],
+    [
+      [
+        "Everhour",
+        [
+          "/wiki/Everhour"
+        ]
+      ],
+      [
+        "Web application",
+        [
+          "/wiki/Web_application"
+        ]
+      ],
+      [
+        "Team-oriented time tracking software that natively integrates into different project management systems . Includes project budgeting , resources planning , reporting and invoicing",
+        []
+      ],
+      [
+        "Asana , Basecamp , GitHub , Trello , Insightly , Xero , Pivotal Tracker , Jira , Teamwork , BitBucket , QuickBooks",
+        []
+      ],
+      [
+        "Hosted . Export to Microsoft Excel , CSV",
+        [
+          "/wiki/Microsoft_Excel",
+          "/wiki/Comma-separated_values"
+        ]
+      ],
+      [
+        "Subscription-based",
+        []
+      ]
+    ],
+    [
+      [
+        "Fanurio",
+        [
+          "/wiki/Fanurio"
+        ]
+      ],
+      [
+        "Microsoft Windows , Mac , Linux , Java",
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/Linux",
+          "/wiki/Java_(programming_language)"
+        ]
+      ],
+      [
+        "Invoicing , time tracking , billing",
+        []
+      ],
+      [
+        "Address Book",
+        [
+          "/wiki/Address_Book_(application)"
+        ]
+      ],
+      [
+        "HSQLDB",
+        [
+          "/wiki/HSQLDB"
+        ]
+      ],
+      [
+        "Subscription-based",
+        []
+      ]
+    ],
+    [
+      [
+        "FogBugz",
+        [
+          "/wiki/FogBugz"
+        ]
+      ],
+      [
+        "Web application",
+        [
+          "/wiki/Web_application"
+        ]
+      ],
+      [
+        "Automatic and manual time tracking , estimates , milestones , and reports",
+        []
+      ],
+      [
+        "Available in FogBugz Tasker , FogBugz Issue Desk , FogBugz Agile , and FogBugz Dev Hub",
+        []
+      ],
+      [
+        "Web-based , hosted",
+        []
+      ],
+      [
+        "Subscription-based",
+        []
+      ]
+    ],
+    [
+      [
+        "FreshBooks",
+        [
+          "/wiki/FreshBooks"
+        ]
+      ],
+      [
+        "Web application",
+        [
+          "/wiki/Web_application"
+        ]
+      ],
+      [
+        "Invoicing , time tracking , online credit card and ACH payments , estimates , expenses , projects , staff and client management , double-entry accounting , personalized branding , customizable accounting and business reports and iPhone and Android apps",
+        [
+          "/wiki/Double-entry_bookkeeping_system"
+        ]
+      ],
+      [
+        "Gusto , G Suite , FundBox , Stripe , Bookkeeping Express , Bench , HubSpot , Yearli , Piesync , Zapier , Hurdlr , Capsule , Revamp CRM , noCRM.io , OneSaaS , 123FormBuilder , Acuity Scheduling , Bidsketch , Avalara Trustfile , Partial.ly , AON , Boomr , Track , Projects , Asana , Basecamp , Everhour , Trello , EazyBI , Collbox , ProWorkflow , Expiration Reminder , Shopify , Enlighten.me , Skyvia , Klipfolio , AgileCRM , Barcloud , Wufoo , Eventbrite , Salesforce , Slack , Square , Freshdesk , Campaign Monitor , WooCommerce , Yalla , Constant Contact , Insightly , MailChimp , ZenDesk , HoneyBooks , Selz , BigCommerce , ToDoList , Artichoke , Calendly , WordPress , Meetup , Geckoboard , HappyFox , Magneto , Podia , Formstack , Gravity , InfusionSoft , Clio , Universe , Solve , Daycast , Intervals , SharpSpring , Prospero , Proposify , AWeber , Natero , Everlance , LiveChat , Teachable , Expensify , InView , Tangentia , Checkeeper , SherpaDesk , ClicData",
+        []
+      ],
+      [
+        "Cloud-Based . Export to various formats",
+        []
+      ],
+      [
+        "Subscription-based",
+        []
+      ]
+    ],
+    [
+      [
+        "Grindstone",
+        [
+          "/wiki/Grindstone_(time-tracking_software)"
+        ]
+      ],
+      [
+        "Microsoft Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "Stopwatch , AFK detection , search tasks , profiles , custom fields , breakdowns , timesheets , invoices . After installation a portable version can be generated , too",
+        []
+      ],
+      [
+        "Export to Microsoft Excel , PDF",
+        [
+          "/wiki/Microsoft_Excel",
+          "/wiki/PDF"
+        ]
+      ],
+      [
+        "XML",
+        []
+      ],
+      [
+        "CC BY-ND 3.0 US",
+        []
+      ]
+    ],
+    [
+      [
+        "Group-Office",
+        [
+          "/wiki/Group-Office"
+        ]
+      ],
+      [
+        "Web application",
+        [
+          "/wiki/Web_application"
+        ]
+      ],
+      [
+        "Time tracking and time-based reporting , timesheets , project budgeting , invoicing , expenses , CRM , groupware",
+        []
+      ],
+      [
+        "Built as module for open-source platform",
+        []
+      ],
+      [
+        "Hosted . Export to Microsoft Excel , CSV",
+        [
+          "/wiki/Microsoft_Excel",
+          "/wiki/Comma-separated_values"
+        ]
+      ],
+      [
+        "Subscription- or license-based",
+        []
+      ]
+    ],
+    [
+      [
+        "Harvest",
+        [
+          "/wiki/Harvest_(software)"
+        ]
+      ],
+      [
+        "Web application",
+        [
+          "/wiki/Web_application"
+        ]
+      ],
+      [
+        "Time tracking and reporting , timesheets , invoicing , expenses , project budgeting",
+        []
+      ],
+      [
+        "iPhone , Android , Mac , Google Apps , Quickbooks , Xero , Basecamp , Trello , Asana",
+        []
+      ],
+      [
+        "Hosted . Export to Microsoft Excel , CSV , Google Docs",
+        [
+          "/wiki/Microsoft_Excel",
+          "/wiki/Comma-separated_values",
+          "/wiki/Google_Docs"
+        ]
+      ],
+      [
+        "Subscription-based",
+        []
+      ]
+    ],
+    [
+      [
+        "Hubstaff",
+        [
+          "/wiki/Hubstaff"
+        ]
+      ],
+      [
+        "Web application , Microsoft Windows , Mac , Linux , iOS , Android",
+        [
+          "/wiki/Web_application",
+          "/wiki/Microsoft_Windows",
+          "/wiki/Linux",
+          "/wiki/IOS",
+          "/wiki/Android_(operating_system)"
+        ]
+      ],
+      [
+        "Time tracking with screenshots , activity levels , employee payments , and scheduling",
+        []
+      ],
+      [
+        "Asana , Basecamp , GitHub , Trello , Wrike , and other project management tools",
+        [
+          "/wiki/Asana_(software)",
+          "/wiki/Basecamp_(software)",
+          "/wiki/GitHub",
+          "/wiki/Trello",
+          "/wiki/Wrike_(software)"
+        ]
+      ],
+      [
+        "Hosted . Export to Microsoft Excel , CSV , QuickBooks",
+        [
+          "/wiki/Microsoft_Excel",
+          "/wiki/Comma-separated_values",
+          "/wiki/QuickBooks"
+        ]
+      ],
+      [
+        "Subscription-based",
+        []
+      ]
+    ],
+    [
+      [
+        "ICEFLO",
+        [
+          "/wiki/ICEFLO"
+        ]
+      ],
+      [
+        "Web application , iOS , Android",
+        [
+          "/wiki/Web_application",
+          "/wiki/IOS",
+          "/wiki/Android_(operating_system)"
+        ]
+      ],
+      [
+        "Project management system that includes time and task-tracking . It also supports task dependencies , a document repository , real-time update dashboard ( RTUP ) and key project lifecycle information for C-Level and Stakeholders",
+        [
+          "/wiki/Project_management",
+          "/wiki/C-level",
+          "/wiki/Stakeholder_(corporate)"
+        ]
+      ],
+      [
+        "Import option from CSV , export to CSV or Microsoft Excel plus iPhone and Android applications available for free download",
+        [
+          "/wiki/Comma-separated_values",
+          "/wiki/Microsoft_Excel"
+        ]
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Subscription-based",
+        []
+      ]
+    ],
+    [
+      [
+        "Instant",
+        [
+          "/wiki/Instant_(app)"
+        ]
+      ],
+      [
+        "Web application , Mac , iOS , Android",
+        [
+          "/wiki/Web_application",
+          "/wiki/IOS",
+          "/wiki/Android_(operating_system)"
+        ]
+      ],
+      [
+        "Automatically tracks time spent on phone usage , at places , while traveling , sleeping and fitness activities . With a chatbot coach , reports and goals . Used for consumers and employee wellness programs",
+        []
+      ],
+      [
+        "Can export CSV , integrates with Apple Health , Google Fit , Samsung S Health and Fitbit",
+        []
+      ],
+      [
+        "Locally stored on phone , can back up on iCloud or Google Drive",
+        []
+      ],
+      [
+        "Subscription-based",
+        []
+      ]
+    ],
+    [
+      [
+        "LiquidPlanner",
+        [
+          "/wiki/LiquidPlanner"
+        ]
+      ],
+      [
+        "Web application",
+        [
+          "/wiki/Web_application"
+        ]
+      ],
+      [
+        "Customizable activity codes , reviews , estimate trend charts , date drift trend charts , custom filtering , programming API , and export to XML , CSV , or to Quickbooks",
+        [
+          "/wiki/Comma-separated_values"
+        ]
+      ],
+      [
+        "Fully integrated with the LiquidPlanner Project Management environment . Time tracking integrated with LiquidPlanner Analytics",
+        [
+          "/wiki/Project_Management"
+        ]
+      ],
+      [
+        "Export to Microsoft Excel , Quickbooks , or in CSV format",
+        [
+          "/wiki/Microsoft_Excel",
+          "/wiki/Quickbooks"
+        ]
+      ],
+      [
+        "Proprietary",
+        []
+      ]
+    ],
+    [
+      [
+        "ManicTime",
+        [
+          "/wiki/ManicTime"
+        ]
+      ],
+      [
+        "Microsoft Windows , Mac",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "Automatic time tracking software , which tracks computer usage and stores all data locally . It allows users to track time spent on various projects and tasks . When used on multiple machines , locally installed server generates combined reports , which are accessible with a web browser or sent by email",
+        []
+      ],
+      [
+        "Microsoft Office , JIRA , Moves app , Google calendar , FreshBooks , QuickBooks , Skype",
+        [
+          "/wiki/Microsoft_Office",
+          "/wiki/Jira_(software)",
+          "/wiki/Google_Calendar",
+          "/wiki/FreshBooks",
+          "/wiki/QuickBooks",
+          "/wiki/Skype"
+        ]
+      ],
+      [
+        "SQLite , PostgreSQL , Microsoft SQL Server",
+        [
+          "/wiki/SQLite",
+          "/wiki/PostgreSQL",
+          "/wiki/Microsoft_SQL_Server"
+        ]
+      ],
+      [
+        "Free or license-based",
+        []
+      ]
+    ],
+    [
+      [
+        "Redmine",
+        [
+          "/wiki/Redmine"
+        ]
+      ],
+      [
+        "Web application",
+        [
+          "/wiki/Web_application"
+        ]
+      ],
+      [
+        "Project management and issue tracking with time tracking , forums , wikis , and project flows . Includes Gantt charts and a calendar",
+        []
+      ],
+      [
+        "IDEs , version control systems , mobile phones , and browsers",
+        []
+      ],
+      [
+        "SQLite , PostgreSQL",
+        [
+          "/wiki/SQLite",
+          "/wiki/PostgreSQL"
+        ]
+      ],
+      [
+        "Open-source",
+        []
+      ]
+    ],
+    [
+      [
+        "Replicon",
+        [
+          "/wiki/Replicon_(company)"
+        ]
+      ],
+      [
+        "Web application",
+        [
+          "/wiki/Web_application"
+        ]
+      ],
+      [
+        "Provides employee time tracking , project time tracking , expense tracking and scheduling . Includes text reports with custom columns , graphical reports , email reminders , multiple approval paths , time off calendar",
+        []
+      ],
+      [
+        "Quickbooks , Microsoft Project , ADP , Oracle , SAP , PeopleSoft , JD Edwards , Ceridian , WSDL/XML API , Mobile - iPhone/Android available",
+        [
+          "/wiki/PeopleSoft",
+          "/wiki/JD_Edwards"
+        ]
+      ],
+      [
+        "Hosted . Export to XML , Microsoft Excel , CSV , PDF",
+        [
+          "/wiki/Microsoft_Excel",
+          "/wiki/Comma-separated_values"
+        ]
+      ],
+      [
+        "Subscription-based",
+        []
+      ]
+    ],
+    [
+      [
+        "Severa",
+        [
+          "/wiki/Severa"
+        ]
+      ],
+      [
+        "Web application",
+        [
+          "/wiki/Web_application"
+        ]
+      ],
+      [
+        "Includes highly intuitive GUI for easily managing time tracking , scheduling and resource management",
+        []
+      ],
+      [
+        "Also offers Project Management , Resource Planning , Customer relations in the same application",
+        []
+      ],
+      [
+        "Hosted . Export to Microsoft Excel",
+        [
+          "/wiki/Microsoft_Excel"
+        ]
+      ],
+      [
+        "Subscription-based",
+        []
+      ]
+    ],
+    [
+      [
+        "Talygen",
+        [
+          "/wiki/Talygen_Business_Intelligence"
+        ]
+      ],
+      [
+        "Web application",
+        [
+          "/wiki/Web_application"
+        ]
+      ],
+      [
+        "Time tracker with complete project management , human resource management , and expense tracker",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Subscription-based",
+        []
+      ]
+    ],
+    [
+      [
+        "Teamwork",
+        [
+          "/wiki/Teamwork_(software)"
+        ]
+      ],
+      [
+        "Web application",
+        [
+          "/wiki/Web_application"
+        ]
+      ],
+      [
+        "Complete web-based project management software with timesheet module , ASP available",
+        [
+          "/wiki/Project_management"
+        ]
+      ],
+      [
+        "MS Project , open source Java API",
+        []
+      ],
+      [
+        "Any SQL compliant Database",
+        []
+      ],
+      [
+        "Subscription-based",
+        []
+      ]
+    ]
+  ],
+  "section_title": "",
+  "section_text": " This is a comparison of notable time-tracking software packages and web hosted services",
+  "uid": "Comparison_of_time_tracking_software_0"
+}

@@ -1,0 +1,265 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Rosemarkie_transmitting_station",
+  "title": "Rosemarkie transmitting station",
+  "header": [
+    [
+      "Frequency",
+      []
+    ],
+    [
+      "UHF",
+      []
+    ],
+    [
+      "kW",
+      []
+    ],
+    [
+      "Service",
+      []
+    ],
+    [
+      "System",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "615.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "39",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "BBC One Scotland",
+        [
+          "/wiki/BBC_One_Scotland"
+        ]
+      ],
+      [
+        "PAL",
+        [
+          "/wiki/PAL"
+        ]
+      ]
+    ],
+    [
+      [
+        "633.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "41-",
+        []
+      ],
+      [
+        "10",
+        []
+      ],
+      [
+        "SDN ( Mux A )",
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        "DVB-T",
+        [
+          "/wiki/DVB-T"
+        ]
+      ]
+    ],
+    [
+      [
+        "639.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "42",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "Channel 4",
+        [
+          "/wiki/Channel_4"
+        ]
+      ],
+      [
+        "PAL",
+        []
+      ]
+    ],
+    [
+      [
+        "657.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "44-",
+        []
+      ],
+      [
+        "10",
+        []
+      ],
+      [
+        "BBC ( Mux B )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "666.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "45",
+        []
+      ],
+      [
+        "20",
+        []
+      ],
+      [
+        "BBC A",
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "674.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "46+",
+        []
+      ],
+      [
+        "8",
+        []
+      ],
+      [
+        "Arqiva ( Mux C )",
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "695.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "49",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "ITV1",
+        [
+          "/wiki/ITV1"
+        ]
+      ],
+      [
+        "PAL",
+        []
+      ]
+    ],
+    [
+      [
+        "706.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "50+",
+        []
+      ],
+      [
+        "8",
+        []
+      ],
+      [
+        "Arqiva ( Mux D )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "714.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "51+",
+        []
+      ],
+      [
+        "10",
+        []
+      ],
+      [
+        "Digital 3 & 4 ( Mux 2 )",
+        [
+          "/wiki/Digital_3&4"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Former Services -- Analogue and Digital television",
+  "section_text": "Digital Switchover commenced at Rosemarkie , with analogue BBC Two being switched off on channel 45 and BBC Mux 1 being switched off on channel 47+ . Channel 45 was reused by the new BBC A multiplex at full post-DSO power ( 20 kW ) and using 64-QAM with 8k carriers",
+  "uid": "Rosemarkie_transmitting_station_8"
+}

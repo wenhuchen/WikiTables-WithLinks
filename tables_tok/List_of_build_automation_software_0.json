@@ -1,0 +1,397 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_build_automation_software",
+  "title": "List of build automation software",
+  "header": [
+    [
+      "Tool name",
+      []
+    ],
+    [
+      "Description language",
+      []
+    ],
+    [
+      "License",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "A-A-P",
+        [
+          "/wiki/A-A-P"
+        ]
+      ],
+      [
+        "recipe",
+        []
+      ],
+      [
+        "GNU GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Ant",
+        [
+          "/wiki/Apache_Ant"
+        ]
+      ],
+      [
+        "XML",
+        [
+          "/wiki/XML"
+        ]
+      ],
+      [
+        "Apache License 2.0",
+        [
+          "/wiki/Apache_License_2.0"
+        ]
+      ]
+    ],
+    [
+      [
+        "AnthillPro",
+        [
+          "/wiki/AnthillPro"
+        ]
+      ],
+      [
+        "Wraps Make , Ant , Maven , MsBuild , Nant , etc . for controlled build , deploy , test processes",
+        []
+      ],
+      [
+        "Discontinued",
+        []
+      ]
+    ],
+    [
+      [
+        "Bamboo",
+        [
+          "/wiki/Atlassian_bamboo"
+        ]
+      ],
+      [
+        "continuous integration",
+        []
+      ],
+      [
+        "Trialware",
+        [
+          "/wiki/Trialware"
+        ]
+      ]
+    ],
+    [
+      [
+        "Bazel",
+        [
+          "/wiki/Bazel_(software)"
+        ]
+      ],
+      [
+        "BUILD/Starlark , a Python-like DSL",
+        []
+      ],
+      [
+        "Apache License 2.0",
+        [
+          "/wiki/Apache_License_2.0"
+        ]
+      ]
+    ],
+    [
+      [
+        "BuildAMation",
+        [
+          "/wiki/BuildAMation"
+        ]
+      ],
+      [
+        "C # for build scripts , XML for high level dependencies",
+        [
+          "/wiki/C_Sharp_(programming_language)",
+          "/wiki/XML"
+        ]
+      ],
+      [
+        "New BSD License",
+        [
+          "/wiki/New_BSD_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Buildr",
+        [
+          "/wiki/Apache_Buildr"
+        ]
+      ],
+      [
+        "Ruby",
+        [
+          "/wiki/Ruby_(programming_language)"
+        ]
+      ],
+      [
+        "Apache License 2.0",
+        [
+          "/wiki/Apache_License_2.0"
+        ]
+      ]
+    ],
+    [
+      [
+        "Boot",
+        [
+          "/wiki/Boot_(software)"
+        ]
+      ],
+      [
+        "Clojure",
+        []
+      ],
+      [
+        "Eclipse Public License",
+        [
+          "/wiki/Eclipse_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Capistrano",
+        [
+          "/wiki/Capistrano_(software)"
+        ]
+      ],
+      [
+        "XML",
+        [
+          "/wiki/XML"
+        ]
+      ],
+      [
+        "MIT License",
+        [
+          "/wiki/MIT_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "CMake",
+        [
+          "/wiki/CMake"
+        ]
+      ],
+      [
+        "uses CMakeLists.txt file",
+        []
+      ],
+      [
+        "New BSD License",
+        [
+          "/wiki/New_BSD_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Cake",
+        []
+      ],
+      [
+        "C # , .NET , .NET core . Uses C # written cake file",
+        []
+      ],
+      [
+        "MIT License",
+        [
+          "/wiki/MIT_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Collective Knowledge Framework",
+        [
+          "/wiki/Collective_Knowledge_(software)"
+        ]
+      ],
+      [
+        "Python scripts with JSON API and JSON meta-description",
+        [
+          "/wiki/Python_(language)",
+          "/wiki/JSON",
+          "/wiki/JSON"
+        ]
+      ],
+      [
+        "New BSD License",
+        [
+          "/wiki/New_BSD_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Continuum",
+        [
+          "/wiki/Apache_Continuum"
+        ]
+      ],
+      [
+        "?",
+        []
+      ],
+      [
+        "Apache License 2.0",
+        [
+          "/wiki/Apache_License_2.0"
+        ]
+      ]
+    ],
+    [
+      [
+        "CruiseControl",
+        [
+          "/wiki/CruiseControl"
+        ]
+      ],
+      [
+        "XML",
+        [
+          "/wiki/XML"
+        ]
+      ],
+      [
+        "BSD -style license",
+        [
+          "/wiki/BSD_licenses"
+        ]
+      ]
+    ],
+    [
+      [
+        "FinalBuilder",
+        [
+          "/wiki/FinalBuilder"
+        ]
+      ],
+      [
+        "graphical IDE with support for Ant/NAnt , MSBuild , JScript , VBScript , IronPython , PowerShell",
+        [
+          "/wiki/IronPython",
+          "/wiki/Windows_PowerShell"
+        ]
+      ],
+      [
+        "Trialware",
+        [
+          "/wiki/Trialware"
+        ]
+      ]
+    ],
+    [
+      [
+        "Gradle",
+        [
+          "/wiki/Gradle"
+        ]
+      ],
+      [
+        "Groovy-based DSL",
+        []
+      ],
+      [
+        "Apache License 2.0",
+        [
+          "/wiki/Apache_License_2.0"
+        ]
+      ]
+    ],
+    [
+      [
+        "Jenkins",
+        [
+          "/wiki/Jenkins_(software)"
+        ]
+      ],
+      [
+        "continuous integration",
+        []
+      ],
+      [
+        "MIT License",
+        [
+          "/wiki/MIT_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Homebrew",
+        [
+          "/wiki/Homebrew_(package_management_software)"
+        ]
+      ],
+      [
+        "Ruby",
+        [
+          "/wiki/Ruby_(programming_language)"
+        ]
+      ],
+      [
+        "Simplified BSD License",
+        [
+          "/wiki/Simplified_BSD_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Leiningen",
+        [
+          "/wiki/Leiningen_(software)"
+        ]
+      ],
+      [
+        "Clojure",
+        []
+      ],
+      [
+        "Eclipse Public License",
+        [
+          "/wiki/Eclipse_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "make",
+        [
+          "/wiki/Make_(software)"
+        ]
+      ],
+      [
+        "uses Makefile",
+        []
+      ],
+      [
+        "Same as the bundling OS",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Licensing overview",
+  "section_text": "",
+  "uid": "List_of_build_automation_software_0"
+}

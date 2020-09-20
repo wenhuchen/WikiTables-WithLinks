@@ -1,0 +1,278 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
+  "header": [
+    [
+      "Emulator",
+      []
+    ],
+    [
+      "Latest version",
+      []
+    ],
+    [
+      "Released",
+      []
+    ],
+    [
+      "Guest emulation capabilities",
+      []
+    ],
+    [
+      "Host Operating System",
+      []
+    ],
+    [
+      "License",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Charon-AXP",
+        []
+      ],
+      [
+        "4.5",
+        []
+      ],
+      [
+        "November 30 , 2014",
+        []
+      ],
+      [
+        "AlphaServer 4100 , DS10 , DS20 , ES40 , GS80 , GS160 , GS320",
+        [
+          "/wiki/AlphaServer"
+        ]
+      ],
+      [
+        "Windows , Linux",
+        []
+      ],
+      [
+        "Commercial",
+        []
+      ]
+    ],
+    [
+      [
+        "Charon-AXP/SMA ( + ) , /Station",
+        []
+      ],
+      [
+        "2.2.39",
+        []
+      ],
+      [
+        "November 20 , 2013",
+        []
+      ],
+      [
+        "AlphaServer 300 , 800 , 1000 , 1200 , 2000 , 2100 , 4000 , 4100 , DS10 , DS20 , DS25 , ES40 , ES45 , 8200 , 8400 , AlphaStation 200 , 250 , 500 , 600 , DPW , XP1000 , XP900 , DMCC , DEC3000",
+        [
+          "/wiki/AlphaServer"
+        ]
+      ],
+      [
+        "Windows",
+        []
+      ],
+      [
+        "Commercial",
+        []
+      ]
+    ],
+    [
+      [
+        "ES40 Emulator",
+        []
+      ],
+      [
+        "0.18",
+        []
+      ],
+      [
+        "March 14 , 2008",
+        []
+      ],
+      [
+        "AlphaServer ES40",
+        [
+          "/wiki/AlphaServer"
+        ]
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "PersonalAlpha",
+        []
+      ],
+      [
+        "2.0.17",
+        []
+      ],
+      [
+        "March 1 , 2008",
+        []
+      ],
+      [
+        "AlphaServer",
+        [
+          "/wiki/AlphaServer"
+        ]
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "vtAlpha",
+        []
+      ],
+      [
+        "3.0.0",
+        []
+      ],
+      [
+        "February 10 , 2017",
+        []
+      ],
+      [
+        "AlphaServer : All models AlphaStation : All models",
+        [
+          "/wiki/AlphaServer",
+          "/wiki/AlphaStation"
+        ]
+      ],
+      [
+        "Bare Metal installation , no host OS required . Any x86-64 host computer or Virtual Machine equivalent ( VMware , Xen , Hyper-V , KVM , VirtualBox )",
+        []
+      ],
+      [
+        "Commercial",
+        []
+      ]
+    ],
+    [
+      [
+        "FreeAXP",
+        []
+      ],
+      [
+        "2.6.4.598",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "AlphaServer 400",
+        [
+          "/wiki/AlphaServer"
+        ]
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "Avanti",
+        []
+      ],
+      [
+        "2.6.4.598",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "AlphaServer 400",
+        [
+          "/wiki/AlphaServer"
+        ]
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "Commercial",
+        []
+      ]
+    ],
+    [
+      [
+        "AlphaVM",
+        []
+      ],
+      [
+        "1.4.11",
+        []
+      ],
+      [
+        "March 14 , 2014",
+        []
+      ],
+      [
+        "AlphaServer DS10 , DS20 , ES40 , and AlphaStation XP900 , XP1000",
+        [
+          "/wiki/AlphaServer",
+          "/wiki/AlphaStation"
+        ]
+      ],
+      [
+        "Windows and Linux",
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/Linux"
+        ]
+      ],
+      [
+        "Commercial and Freeware",
+        []
+      ]
+    ]
+  ],
+  "section_title": "64-bit guest systems -- AlphaServer",
+  "section_text": "",
+  "uid": "List_of_computer_system_emulators_0"
+}

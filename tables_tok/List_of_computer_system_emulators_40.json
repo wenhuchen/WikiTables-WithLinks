@@ -1,0 +1,410 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
+  "header": [
+    [
+      "Emulator",
+      []
+    ],
+    [
+      "Latest version",
+      []
+    ],
+    [
+      "Released",
+      []
+    ],
+    [
+      "Guest emulation capabilities",
+      []
+    ],
+    [
+      "Host Operating System",
+      []
+    ],
+    [
+      "License",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "86Box",
+        [
+          "/wiki/86Box"
+        ]
+      ],
+      [
+        "2.10",
+        []
+      ],
+      [
+        "February 21 , 2017",
+        []
+      ],
+      [
+        "x86 PC",
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        "Microsoft Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "GPLv2",
+        [
+          "/wiki/GPLv2"
+        ]
+      ]
+    ],
+    [
+      [
+        "Fake86",
+        []
+      ],
+      [
+        "0.13.9.16",
+        []
+      ],
+      [
+        "September 16 , 2013",
+        []
+      ],
+      [
+        "IBM PC/XT & Intel 80186",
+        [
+          "/wiki/IBM_Personal_Computer_XT",
+          "/wiki/Intel_80186"
+        ]
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "GPLv2",
+        [
+          "/wiki/GPLv2"
+        ]
+      ]
+    ],
+    [
+      [
+        "PCE/ibmpc",
+        []
+      ],
+      [
+        "20180323-184b521a",
+        []
+      ],
+      [
+        "December 18 , 2017",
+        []
+      ],
+      [
+        "IBM PC / XT , 8086 , 80186 / 80188",
+        [
+          "/wiki/IBM_Personal_Computer",
+          "/wiki/IBM_Personal_Computer_XT",
+          "/wiki/Intel_8086",
+          "/wiki/Intel_80186",
+          "/wiki/Intel_80188"
+        ]
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "GPLv2",
+        [
+          "/wiki/GPLv2"
+        ]
+      ]
+    ],
+    [
+      [
+        "Pico XT",
+        []
+      ],
+      [
+        "0.1.1",
+        []
+      ],
+      [
+        "October 24 , 2006",
+        []
+      ],
+      [
+        "IBM PC/XT",
+        [
+          "/wiki/IBM_Personal_Computer_XT"
+        ]
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "PCem",
+        [
+          "/wiki/PCem"
+        ]
+      ],
+      [
+        "v14",
+        []
+      ],
+      [
+        "April 20 , 2018",
+        []
+      ],
+      [
+        "x86 PC",
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        "Windows , Linux",
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/Linux"
+        ]
+      ],
+      [
+        "GPLv2",
+        [
+          "/wiki/GPLv2"
+        ]
+      ]
+    ],
+    [
+      [
+        "PCjs",
+        []
+      ],
+      [
+        "v1.62.0",
+        []
+      ],
+      [
+        "April 1 , 2018",
+        []
+      ],
+      [
+        "x86 PC",
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        "Web Browser",
+        [
+          "/wiki/Web_Browser"
+        ]
+      ],
+      [
+        "GPLv3",
+        [
+          "/wiki/GPLv3"
+        ]
+      ]
+    ],
+    [
+      [
+        "PocketDOS",
+        []
+      ],
+      [
+        "1.12.3",
+        []
+      ],
+      [
+        "August 8 , 2009",
+        []
+      ],
+      [
+        "x86 PC Intel 8086/80186/80286 ( real-mode only )",
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        "Windows , Windows CE / Pocket PC",
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/Windows_CE",
+          "/wiki/Pocket_PC"
+        ]
+      ],
+      [
+        "Commercial",
+        []
+      ]
+    ],
+    [
+      [
+        "DOSBox",
+        [
+          "/wiki/DOSBox"
+        ]
+      ],
+      [
+        "0.74",
+        []
+      ],
+      [
+        "May 12 , 2010",
+        []
+      ],
+      [
+        "DOS & x86 PC",
+        [
+          "/wiki/DOS",
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "GPLv2",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "jDosbox",
+        [
+          "/wiki/DOSBox"
+        ]
+      ],
+      [
+        "0.74.28",
+        []
+      ],
+      [
+        "February 27 , 2013",
+        []
+      ],
+      [
+        "DOS & x86 PC",
+        [
+          "/wiki/DOS",
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        "JVM",
+        [
+          "/wiki/Java_virtual_machine"
+        ]
+      ],
+      [
+        "GPLv2",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "JsDOSBox",
+        [
+          "/wiki/DOSBox"
+        ]
+      ],
+      [
+        "3.3",
+        []
+      ],
+      [
+        "January 10 , 2016",
+        []
+      ],
+      [
+        "DOS & x86 PC",
+        [
+          "/wiki/DOS",
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        "Web browser ( JavaScript )",
+        [
+          "/wiki/Web_browser",
+          "/wiki/JavaScript"
+        ]
+      ],
+      [
+        "GPLv2",
+        [
+          "/wiki/GPLv2"
+        ]
+      ]
+    ],
+    [
+      [
+        "NaClBox",
+        [
+          "/wiki/DOSBox"
+        ]
+      ],
+      [
+        "CVS ( follows DOSBox )",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "DOS & x86 PC",
+        [
+          "/wiki/DOS",
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        "Google Native Client",
+        [
+          "/wiki/Google_Native_Client"
+        ]
+      ],
+      [
+        "GPLv2",
+        [
+          "/wiki/GPLv2"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "16-bit guest systems -- x86-16 IBM PC/XT/AT compatible",
+  "section_text": "",
+  "uid": "List_of_computer_system_emulators_40"
+}

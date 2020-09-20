@@ -1,0 +1,291 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Stockland_Hill_transmitting_station",
+  "title": "Stockland Hill transmitting station",
+  "header": [
+    [
+      "Frequency",
+      []
+    ],
+    [
+      "UHF",
+      []
+    ],
+    [
+      "kW",
+      []
+    ],
+    [
+      "Service",
+      []
+    ],
+    [
+      "System",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "481.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "22-",
+        []
+      ],
+      [
+        "5",
+        []
+      ],
+      [
+        "BBC ( Mux 1 )",
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        "DVB-T",
+        [
+          "/wiki/DVB-T"
+        ]
+      ]
+    ],
+    [
+      [
+        "487.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "23",
+        []
+      ],
+      [
+        "250",
+        []
+      ],
+      [
+        "ITV1",
+        [
+          "/wiki/ITV1"
+        ]
+      ],
+      [
+        "PAL",
+        [
+          "/wiki/PAL"
+        ]
+      ]
+    ],
+    [
+      [
+        "505.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "25-",
+        []
+      ],
+      [
+        "5",
+        []
+      ],
+      [
+        "SDN ( Mux A )",
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "511.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "26",
+        []
+      ],
+      [
+        "250",
+        []
+      ],
+      [
+        "BBC Two",
+        [
+          "/wiki/BBC_Two"
+        ]
+      ],
+      [
+        "PAL",
+        []
+      ]
+    ],
+    [
+      [
+        "529.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "28-",
+        []
+      ],
+      [
+        "5",
+        []
+      ],
+      [
+        "Digital 3 & 4 ( Mux 2 )",
+        [
+          "/wiki/Digital_3&4"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "535.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "29",
+        []
+      ],
+      [
+        "250",
+        []
+      ],
+      [
+        "Channel 4",
+        [
+          "/wiki/Channel_4"
+        ]
+      ],
+      [
+        "PAL",
+        []
+      ]
+    ],
+    [
+      [
+        "546.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "30+",
+        []
+      ],
+      [
+        "2.5",
+        []
+      ],
+      [
+        "Arqiva ( Mux C )",
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "561.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "32-",
+        []
+      ],
+      [
+        "5",
+        []
+      ],
+      [
+        "BBC ( Mux B )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "567.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "33",
+        []
+      ],
+      [
+        "250",
+        []
+      ],
+      [
+        "BBC One",
+        [
+          "/wiki/BBC_One"
+        ]
+      ],
+      [
+        "PAL",
+        []
+      ]
+    ],
+    [
+      [
+        "578.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "34+",
+        []
+      ],
+      [
+        "2.5",
+        []
+      ],
+      [
+        "Arqiva ( Mux D )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Services -- Analogue and Digital television",
+  "section_text": "The initial roll-out of digital television involved running the digital services interleaved ( and at low ERP ) with the existing analogue services",
+  "uid": "Stockland_Hill_transmitting_station_4"
+}

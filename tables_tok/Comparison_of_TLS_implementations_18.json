@@ -1,0 +1,204 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_TLS_implementations",
+  "title": "Comparison of TLS implementations",
+  "header": [
+    [
+      "Implementation",
+      []
+    ],
+    [
+      "Dependencies",
+      []
+    ],
+    [
+      "Optional dependencies",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Botan",
+        [
+          "/wiki/Botan_(programming_library)"
+        ]
+      ],
+      [
+        "C++11",
+        []
+      ],
+      [
+        "sqlite , zlib ( compression ) , bzip2 ( compression ) , liblzma ( compression ) , boost , openssl ( crypto backend ) , trousers ( TPM )",
+        [
+          "/wiki/Sqlite",
+          "/wiki/Zlib",
+          "/wiki/Bzip2",
+          "/wiki/XZ_Utils",
+          "/wiki/Boost_(C++_libraries)",
+          "/wiki/Openssl"
+        ]
+      ]
+    ],
+    [
+      [
+        "GnuTLS",
+        [
+          "/wiki/GnuTLS"
+        ]
+      ],
+      [
+        "libc nettle gmp",
+        []
+      ],
+      [
+        "zlib ( compression ) p11-kit ( PKCS # 11 ) trousers ( TPM )",
+        []
+      ]
+    ],
+    [
+      [
+        "JSSE",
+        [
+          "/wiki/Java_Secure_Socket_Extension"
+        ]
+      ],
+      [
+        "Java",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "MatrixSSL",
+        [
+          "/wiki/MatrixSSL"
+        ]
+      ],
+      [
+        "none",
+        []
+      ],
+      [
+        "zlib ( compression )",
+        []
+      ]
+    ],
+    [
+      [
+        "MatrixSSL-open",
+        [
+          "/wiki/MatrixSSL"
+        ]
+      ],
+      [
+        "libc or newlib",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Mbed TLS",
+        [
+          "/wiki/Mbed_TLS"
+        ]
+      ],
+      [
+        "libc",
+        []
+      ],
+      [
+        "libpkcs11-helper ( PKCS # 11 ) zlib ( compression )",
+        []
+      ]
+    ],
+    [
+      [
+        "NSS",
+        [
+          "/wiki/Network_Security_Services"
+        ]
+      ],
+      [
+        "libc libnspr4 libsoftokn3 libplc4 libplds4",
+        []
+      ],
+      [
+        "zlib ( compression )",
+        []
+      ]
+    ],
+    [
+      [
+        "OpenSSL",
+        [
+          "/wiki/OpenSSL"
+        ]
+      ],
+      [
+        "libc",
+        []
+      ],
+      [
+        "zlib ( compression )",
+        []
+      ]
+    ],
+    [
+      [
+        "wolfSSL",
+        [
+          "/wiki/WolfSSL"
+        ]
+      ],
+      [
+        "None",
+        []
+      ],
+      [
+        "libc , zlib ( compression )",
+        []
+      ]
+    ],
+    [
+      [
+        "Erlang /OTP ssl application",
+        [
+          "/wiki/Erlang_(programming_language)"
+        ]
+      ],
+      [
+        "libcrypto ( from OpenSSL ) , Erlang/OTP and its public_key , crypto and asn1 applications",
+        []
+      ],
+      [
+        "Erlang/OTP -inets ( http fetching of CRLs )",
+        []
+      ]
+    ],
+    [
+      [
+        "Implementation",
+        []
+      ],
+      [
+        "Dependencies",
+        []
+      ],
+      [
+        "Optional dependencies",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Code dependencies",
+  "section_text": "",
+  "uid": "Comparison_of_TLS_implementations_18"
+}

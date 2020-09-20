@@ -1,0 +1,259 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Black_Hill_transmitting_station",
+  "title": "Black Hill transmitting station",
+  "header": [
+    [
+      "Frequency",
+      []
+    ],
+    [
+      "UHF",
+      []
+    ],
+    [
+      "kW",
+      []
+    ],
+    [
+      "Operator",
+      []
+    ],
+    [
+      "System",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "562.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "32",
+        []
+      ],
+      [
+        "42.9",
+        []
+      ],
+      [
+        "COM7 ( ARQ C )",
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        "DVB-T2",
+        [
+          "/wiki/DVB-T2"
+        ]
+      ]
+    ],
+    [
+      [
+        "586.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "35",
+        []
+      ],
+      [
+        "12.5",
+        []
+      ],
+      [
+        "COM8 ( ARQ D )",
+        []
+      ],
+      [
+        "DVB-T2",
+        []
+      ]
+    ],
+    [
+      [
+        "626.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "40",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "PSB3 ( BBC B )",
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        "DVB-T2",
+        []
+      ]
+    ],
+    [
+      [
+        "634.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "41+",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "COM4 ( SDN )",
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        "DVB-T",
+        [
+          "/wiki/DVB-T"
+        ]
+      ]
+    ],
+    [
+      [
+        "650.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "43",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "PSB2 ( D3 & 4 )",
+        [
+          "/wiki/Digital_3&4"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "658.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "44",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "COM5 ( ARQ A )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "674.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "46",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "PSB1 ( BBC A )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "682.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "47",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "COM6 ( ARQ B )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "754.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "56",
+        []
+      ],
+      [
+        "5",
+        []
+      ],
+      [
+        "LTVmux",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Digital television",
+  "section_text": "",
+  "uid": "Black_Hill_transmitting_station_2"
+}

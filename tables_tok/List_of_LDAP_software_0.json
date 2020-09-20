@@ -1,0 +1,377 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_LDAP_software",
+  "title": "List of LDAP software",
+  "header": [
+    [
+      "",
+      []
+    ],
+    [
+      "Developer",
+      []
+    ],
+    [
+      "Software license",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "389 Directory Server ( formerly Fedora Directory Server )",
+        [
+          "/wiki/389_Directory_Server"
+        ]
+      ],
+      [
+        "Red Hat",
+        [
+          "/wiki/Red_Hat"
+        ]
+      ],
+      [
+        "GPL linking exception with exception to allow linking to non-GPL",
+        [
+          "/wiki/GPL_linking_exception"
+        ]
+      ]
+    ],
+    [
+      [
+        "Active Directory",
+        [
+          "/wiki/Active_Directory"
+        ]
+      ],
+      [
+        "Microsoft",
+        [
+          "/wiki/Microsoft"
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ]
+    ],
+    [
+      [
+        "Authorized Entities Directory ( \u00c6-DIR )",
+        []
+      ],
+      [
+        "Michael Str\u00f6der",
+        []
+      ],
+      [
+        "Apache License 2.0",
+        [
+          "/wiki/Apache_License_2.0"
+        ]
+      ]
+    ],
+    [
+      [
+        "Apache Directory Server",
+        [
+          "/wiki/Apache_Directory_Server"
+        ]
+      ],
+      [
+        "Apache Software Foundation",
+        [
+          "/wiki/Apache_Software_Foundation"
+        ]
+      ],
+      [
+        "Apache License 2.0",
+        [
+          "/wiki/Apache_License_2.0"
+        ]
+      ]
+    ],
+    [
+      [
+        "Apple Open Directory - A fork of the OpenLDAP project",
+        [
+          "/wiki/Apple_Open_Directory"
+        ]
+      ],
+      [
+        "Apple Inc",
+        [
+          "/wiki/Apple_Inc."
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ]
+    ],
+    [
+      [
+        "BEJY LDAP Server , a Java LDAP Server",
+        [
+          "/wiki/Java_(programming_language)"
+        ]
+      ],
+      [
+        "Stefan Bebbo Franke",
+        []
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "CA Directory",
+        []
+      ],
+      [
+        "CA Technologies",
+        [
+          "/wiki/CA_Technologies"
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ]
+    ],
+    [
+      [
+        "Critical Path Directory Server",
+        []
+      ],
+      [
+        "Critical Path",
+        []
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ]
+    ],
+    [
+      [
+        "Directory services - A fork of the OpenDJ project",
+        [
+          "/wiki/OpenDJ"
+        ]
+      ],
+      [
+        "ForgeRock",
+        [
+          "/wiki/ForgeRock"
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ]
+    ],
+    [
+      [
+        "DirX Directory",
+        []
+      ],
+      [
+        "Atos ( ex-Siemens )",
+        [
+          "/wiki/Atos"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "FreeIPA",
+        [
+          "/wiki/FreeIPA"
+        ]
+      ],
+      [
+        "Red Hat ( using 389 Directory Server )",
+        [
+          "/wiki/Red_Hat",
+          "/wiki/389_Directory_Server"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "IBM Tivoli Directory Server",
+        [
+          "/wiki/IBM_Tivoli_Directory_Server"
+        ]
+      ],
+      [
+        "IBM",
+        [
+          "/wiki/IBM"
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ]
+    ],
+    [
+      [
+        "ldapjs , implementation of LDAP in JavaScript on Node.js",
+        [
+          "/wiki/JavaScript",
+          "/wiki/Node.js"
+        ]
+      ],
+      [
+        "Mark Cavage",
+        []
+      ],
+      [
+        "MIT License",
+        [
+          "/wiki/MIT_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Mandriva Directory Server , now part of Mandriva Management Console",
+        [
+          "/wiki/Mandriva_Directory_Server"
+        ]
+      ],
+      [
+        "Mandriva development team",
+        []
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "NetIQ eDirectory",
+        [
+          "/wiki/NetIQ_eDirectory"
+        ]
+      ],
+      [
+        "NetIQ",
+        [
+          "/wiki/NetIQ"
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ]
+    ],
+    [
+      [
+        "OpenBSD ldapd",
+        []
+      ],
+      [
+        "Martin Hedenfalk , OpenBSD",
+        [
+          "/wiki/OpenBSD"
+        ]
+      ],
+      [
+        "ISC",
+        [
+          "/wiki/ISC_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "OpenDJ",
+        [
+          "/wiki/OpenDJ"
+        ]
+      ],
+      [
+        "Open Identity Platform Community",
+        []
+      ],
+      [
+        "CDDL",
+        [
+          "/wiki/Common_Development_and_Distribution_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "OpenDS",
+        [
+          "/wiki/OpenDS"
+        ]
+      ],
+      [
+        "Sun Microsystems",
+        [
+          "/wiki/Sun_Microsystems"
+        ]
+      ],
+      [
+        "CDDL",
+        [
+          "/wiki/Common_Development_and_Distribution_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "OpenLDAP",
+        [
+          "/wiki/OpenLDAP"
+        ]
+      ],
+      [
+        "Kurt Zeilenga and others ( based on Slapd )",
+        []
+      ],
+      [
+        "OpenLDAP Public License",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Server software",
+  "section_text": "",
+  "uid": "List_of_LDAP_software_0"
+}

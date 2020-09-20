@@ -1,0 +1,259 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Angus_transmitting_station",
+  "title": "Angus transmitting station",
+  "header": [
+    [
+      "Frequency",
+      []
+    ],
+    [
+      "UHF",
+      []
+    ],
+    [
+      "kW",
+      []
+    ],
+    [
+      "Operator",
+      []
+    ],
+    [
+      "System",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "690.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "48",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "Local TV",
+        []
+      ],
+      [
+        "DVB-T",
+        [
+          "/wiki/DVB-T"
+        ]
+      ]
+    ],
+    [
+      [
+        "698.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "49",
+        []
+      ],
+      [
+        "10",
+        []
+      ],
+      [
+        "Arqiva B",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "730.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "53",
+        []
+      ],
+      [
+        "20",
+        []
+      ],
+      [
+        "Digital 3 & 4",
+        [
+          "/wiki/Digital_3&4"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "738.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "54",
+        []
+      ],
+      [
+        "10",
+        []
+      ],
+      [
+        "SDN",
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "746.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "55",
+        []
+      ],
+      [
+        "5",
+        []
+      ],
+      [
+        "COM 7",
+        []
+      ],
+      [
+        "DVB-T2",
+        [
+          "/wiki/DVB-T2"
+        ]
+      ]
+    ],
+    [
+      [
+        "754.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "56",
+        []
+      ],
+      [
+        "5",
+        []
+      ],
+      [
+        "COM 8",
+        []
+      ],
+      [
+        "DVB-T2",
+        []
+      ]
+    ],
+    [
+      [
+        "762.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "57",
+        []
+      ],
+      [
+        "20",
+        []
+      ],
+      [
+        "BBC B",
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        "DVB-T2",
+        []
+      ]
+    ],
+    [
+      [
+        "770.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "58",
+        []
+      ],
+      [
+        "10",
+        []
+      ],
+      [
+        "Arqiva A",
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "785.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "60-",
+        []
+      ],
+      [
+        "20",
+        []
+      ],
+      [
+        "BBC A",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Television",
+  "section_text": "18 August 2010 to 16 April 2013 [ edit ] Following the completion of analogue TV shutdown on 18 August 2010 , Angus transmitted all of its higher powered multiplexes at 20 kW for PSB 1 , 2 and 3 , and 10 kW for COM 4 , 5 and 6 . From this date the frequency allocation was : Frequency UHF kW Operator System 730.000 MHz 53 20 Digital 3 & 4 DVB-T 738.000 MHz 54 10 SDN DVB-T 762.000 MHz 57 20 BBC B DVB-T2 770.000 MHz 58 10 Arqiva A DVB-T 786.000 MHz 60 20 BBC A DVB-T 794.000 MHz 61 10 Arqiva B DVB-T 17 April 2013 to 26 November 2019 [ edit ] Due to the clearence of the 800MHz band , Arqiva B was moved from UHF 61 to UHF 49 and BBC A gained a negative offset . Also during this time , COM 7 and 8 and the Local TV multiplex launched",
+  "uid": "Angus_transmitting_station_8"
+}

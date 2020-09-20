@@ -1,0 +1,515 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_bus_interfaces",
+  "title": "List of computer bus interfaces",
+  "header": [
+    [
+      "Interface name",
+      []
+    ],
+    [
+      "Year introduced",
+      []
+    ],
+    [
+      "Connector",
+      []
+    ],
+    [
+      "Max transfer",
+      []
+    ],
+    [
+      "Main use",
+      []
+    ],
+    [
+      "Notes",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "CAMAC",
+        [
+          "/wiki/Computer_Automated_Measurement_and_Control"
+        ]
+      ],
+      [
+        "1972",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Processor independent",
+        []
+      ],
+      [
+        "Industry use",
+        []
+      ]
+    ],
+    [
+      [
+        "S-100",
+        [
+          "/wiki/S-100_bus"
+        ]
+      ],
+      [
+        "1974",
+        []
+      ],
+      [
+        "2\u00d750 2.54 mm card edge",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Designed around Intel 8080 but used with other processors too",
+        [
+          "/wiki/Intel_8080"
+        ]
+      ],
+      [
+        "Homebrew and industry use",
+        []
+      ]
+    ],
+    [
+      [
+        "VME",
+        [
+          "/wiki/VMEbus"
+        ]
+      ],
+      [
+        "1981",
+        []
+      ],
+      [
+        "DIN 41612",
+        [
+          "/wiki/DIN_41612"
+        ]
+      ],
+      [
+        "10 MByte/s",
+        []
+      ],
+      [
+        "Motorola 68000 based",
+        [
+          "/wiki/Motorola_68000"
+        ]
+      ],
+      [
+        "Industry use",
+        []
+      ]
+    ],
+    [
+      [
+        "STEbus",
+        [
+          "/wiki/STEbus"
+        ]
+      ],
+      [
+        "1983",
+        []
+      ],
+      [
+        "DIN 41612 a+c rows",
+        [
+          "/wiki/DIN_41612"
+        ]
+      ],
+      [
+        "?",
+        []
+      ],
+      [
+        "Processor independent based",
+        []
+      ],
+      [
+        "Industrial quality bus , 8-bit data / 20-bit address . Eurocard sized",
+        [
+          "/wiki/Eurocard_(printed_circuit_board)"
+        ]
+      ]
+    ],
+    [
+      [
+        "Acorn system bus",
+        [
+          "/wiki/Acorn_Eurocard_systems"
+        ]
+      ],
+      [
+        "1979",
+        []
+      ],
+      [
+        "DIN 41612 a+b rows",
+        [
+          "/wiki/DIN_41612"
+        ]
+      ],
+      [
+        "?",
+        []
+      ],
+      [
+        "6502 based",
+        []
+      ],
+      [
+        "8-bit data / 16-bit address",
+        []
+      ]
+    ],
+    [
+      [
+        "ISA-8",
+        [
+          "/wiki/Industry_Standard_Architecture"
+        ]
+      ],
+      [
+        "1981",
+        []
+      ],
+      [
+        "2\u00d731 2.54 mm",
+        []
+      ],
+      [
+        "1.99 MByte/s",
+        []
+      ],
+      [
+        "IBM PC",
+        [
+          "/wiki/IBM_Personal_Computer"
+        ]
+      ],
+      [
+        "Widespread",
+        []
+      ]
+    ],
+    [
+      [
+        "ISA-16",
+        [
+          "/wiki/Industry_Standard_Architecture"
+        ]
+      ],
+      [
+        "1984",
+        []
+      ],
+      [
+        "2\u00d731 + 2\u00d718 2.54 mm",
+        []
+      ],
+      [
+        "3.97 MByte/s",
+        []
+      ],
+      [
+        "IBM AT",
+        [
+          "/wiki/IBM_Personal_Computer/AT"
+        ]
+      ],
+      [
+        "Widespread",
+        []
+      ]
+    ],
+    [
+      [
+        "Amiga Zorro II",
+        [
+          "/wiki/Amiga_Zorro_II"
+        ]
+      ],
+      [
+        "1985",
+        []
+      ],
+      [
+        "2\u00d750 2.54 mm",
+        []
+      ],
+      [
+        "3.56 MByte/s",
+        []
+      ],
+      [
+        "Amiga",
+        [
+          "/wiki/Amiga"
+        ]
+      ],
+      [
+        "Auto configuration",
+        []
+      ]
+    ],
+    [
+      [
+        "EISA",
+        [
+          "/wiki/Extended_Industry_Standard_Architecture"
+        ]
+      ],
+      [
+        "1988",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "20 MByte/s",
+        []
+      ],
+      [
+        "IBM clones",
+        [
+          "/wiki/IBM_PC_compatible"
+        ]
+      ],
+      [
+        "32-bit version of ISA-16 more or less",
+        []
+      ]
+    ],
+    [
+      [
+        "NuBus",
+        [
+          "/wiki/NuBus"
+        ]
+      ],
+      [
+        "1987",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "40 MByte/s",
+        []
+      ],
+      [
+        "NeXT , Macintosh II",
+        [
+          "/wiki/NeXT",
+          "/wiki/Macintosh_II"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Amiga Zorro III",
+        [
+          "/wiki/Amiga_Zorro_III"
+        ]
+      ],
+      [
+        "1990",
+        []
+      ],
+      [
+        "2\u00d750 2.54 mm",
+        []
+      ],
+      [
+        "150 MByte/s",
+        []
+      ],
+      [
+        "Amiga",
+        [
+          "/wiki/Amiga"
+        ]
+      ],
+      [
+        "Multiplexed 32-bit",
+        []
+      ]
+    ],
+    [
+      [
+        "PDS",
+        [
+          "/wiki/Processor_Direct_Slot"
+        ]
+      ],
+      [
+        "1990",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Macintosh LC",
+        [
+          "/wiki/Macintosh_LC"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "PCI-32/33",
+        [
+          "/wiki/Conventional_PCI"
+        ]
+      ],
+      [
+        "1993",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "133 MByte/s",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Widespread",
+        []
+      ]
+    ],
+    [
+      [
+        "PCI Express",
+        [
+          "/wiki/PCI_Express"
+        ]
+      ],
+      [
+        "2004",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "250 MByte/s",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "P2P highspeed PCI",
+        [
+          "/wiki/Point-to-point_(telecommunications)"
+        ]
+      ]
+    ],
+    [
+      [
+        "VPX",
+        [
+          "/wiki/VPX"
+        ]
+      ],
+      [
+        "2004",
+        []
+      ],
+      [
+        "MultiGig RT2",
+        []
+      ],
+      [
+        "?",
+        []
+      ],
+      [
+        "Provides VMEbus-based systems with support for switched fabrics . Designed specifically with defense applications in mind . Working group is OpenVPX",
+        [
+          "/wiki/Switched_fabric",
+          "/wiki/OpenVPX"
+        ]
+      ],
+      [
+        "VPX computer bus standard - V -VME and P -PCI and X the extents for both buses standards",
+        []
+      ]
+    ],
+    [
+      [
+        "VXI",
+        [
+          "/wiki/VME_eXtensions_for_Instrumentation"
+        ]
+      ],
+      [
+        "1987",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "160 MByte/s",
+        []
+      ],
+      [
+        "Multivendor standard for automated testing expansion cards . Working group is VXIConsortium",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Bus interfaces",
+  "section_text": "",
+  "uid": "List_of_computer_bus_interfaces_0"
+}

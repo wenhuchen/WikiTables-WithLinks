@@ -1,0 +1,303 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
+  "header": [
+    [
+      "Emulator",
+      []
+    ],
+    [
+      "Latest version",
+      []
+    ],
+    [
+      "Released",
+      []
+    ],
+    [
+      "Guest emulation capabilities",
+      []
+    ],
+    [
+      "Host Operating System",
+      []
+    ],
+    [
+      "License",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "MAME ( formerly MESS )",
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
+      ],
+      [
+        "0.196",
+        []
+      ],
+      [
+        "March 28 , 2018",
+        []
+      ],
+      [
+        "Various computers , consoles , and arcade systems",
+        []
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "New BSD , GPLv2 or later",
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
+      ]
+    ],
+    [
+      [
+        "Forever ?",
+        []
+      ],
+      [
+        "1.42",
+        []
+      ],
+      [
+        "August 25 , 2008",
+        []
+      ],
+      [
+        "Commodore 16 , Commodore 116 , Commodore Plus/4",
+        [
+          "/wiki/Commodore_16",
+          "/wiki/Commodore_116",
+          "/wiki/Commodore_Plus/4"
+        ]
+      ],
+      [
+        "DOS",
+        [
+          "/wiki/DOS"
+        ]
+      ],
+      [
+        "Open source",
+        [
+          "/wiki/Open-source_software"
+        ]
+      ]
+    ],
+    [
+      [
+        "Artifex",
+        []
+      ],
+      [
+        "0.29",
+        []
+      ],
+      [
+        "March 14 , 2002",
+        []
+      ],
+      [
+        "Commodore 16 , Commodore Plus/4",
+        [
+          "/wiki/Commodore_16",
+          "/wiki/Commodore_Plus/4"
+        ]
+      ],
+      [
+        "Windows",
+        []
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "Minus4",
+        []
+      ],
+      [
+        "1.5",
+        []
+      ],
+      [
+        "November 21 , 2008",
+        []
+      ],
+      [
+        "Commodore 16 , Commodore 116 , Commodore Plus/4",
+        [
+          "/wiki/Commodore_16",
+          "/wiki/Commodore_116",
+          "/wiki/Commodore_Plus/4"
+        ]
+      ],
+      [
+        "Java",
+        [
+          "/wiki/Java_(software_platform)"
+        ]
+      ],
+      [
+        "Open source",
+        [
+          "/wiki/Open-source_software"
+        ]
+      ]
+    ],
+    [
+      [
+        "plus4emu",
+        []
+      ],
+      [
+        "1.2.9.2",
+        []
+      ],
+      [
+        "September 26 , 2008",
+        []
+      ],
+      [
+        "Commodore 16 , Commodore 116 , Commodore Plus/4",
+        [
+          "/wiki/Commodore_16",
+          "/wiki/Commodore_116",
+          "/wiki/Commodore_Plus/4"
+        ]
+      ],
+      [
+        "Windows , Linux",
+        []
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "VICE",
+        [
+          "/wiki/VICE"
+        ]
+      ],
+      [
+        "3.2",
+        []
+      ],
+      [
+        "May 20 , 2018",
+        []
+      ],
+      [
+        "Commodore 64 , Commodore 128 , Commodore VIC-20 , Commodore PET , Commodore Plus/4 , CBM-II",
+        [
+          "/wiki/Commodore_64",
+          "/wiki/Commodore_128",
+          "/wiki/Commodore_VIC-20",
+          "/wiki/Commodore_PET",
+          "/wiki/Commodore_Plus/4",
+          "/wiki/CBM-II"
+        ]
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "WinEMU",
+        []
+      ],
+      [
+        "0.50",
+        []
+      ],
+      [
+        "September 12 , 2001",
+        []
+      ],
+      [
+        "Commodore 16 , Commodore Plus/4",
+        [
+          "/wiki/Commodore_16",
+          "/wiki/Commodore_Plus/4"
+        ]
+      ],
+      [
+        "Windows",
+        []
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "YAPE",
+        []
+      ],
+      [
+        "1.1.6",
+        []
+      ],
+      [
+        "March 18 , 2018",
+        []
+      ],
+      [
+        "Commodore 16 , Commodore Plus/4",
+        [
+          "/wiki/Commodore_16",
+          "/wiki/Commodore_Plus/4"
+        ]
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GPL"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "8-bit guest systems -- Commodore Plus/4",
+  "section_text": "",
+  "uid": "List_of_computer_system_emulators_52"
+}

@@ -1,0 +1,238 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_matrices",
+  "title": "List of matrices",
+  "header": [
+    [
+      "Name",
+      []
+    ],
+    [
+      "Explanation",
+      []
+    ],
+    [
+      "Symbolic description of the entries",
+      []
+    ],
+    [
+      "Notes",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Exchange matrix",
+        [
+          "/wiki/Exchange_matrix"
+        ]
+      ],
+      [
+        "A binary matrix with ones on the anti-diagonal , and zeroes everywhere else",
+        [
+          "/wiki/Binary_matrix"
+        ]
+      ],
+      [
+        "a ij = \u03b4 n +1\u2212 i , j",
+        []
+      ],
+      [
+        "A permutation matrix",
+        [
+          "/wiki/Permutation_matrix"
+        ]
+      ]
+    ],
+    [
+      [
+        "Hilbert matrix",
+        [
+          "/wiki/Hilbert_matrix"
+        ]
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "a ij = ( i + j \u2212 1 )",
+        []
+      ],
+      [
+        "A Hankel matrix",
+        [
+          "/wiki/Hankel_matrix"
+        ]
+      ]
+    ],
+    [
+      [
+        "Identity matrix",
+        [
+          "/wiki/Identity_matrix"
+        ]
+      ],
+      [
+        "A square diagonal matrix , with all entries on the main diagonal equal to 1 , and the rest 0",
+        []
+      ],
+      [
+        "a ij = \u03b4 ij",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Lehmer matrix",
+        [
+          "/wiki/Lehmer_matrix"
+        ]
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "a ij = min ( i , j ) \u00f7 max ( i , j )",
+        []
+      ],
+      [
+        "A positive symmetric matrix",
+        [
+          "/wiki/Positive_matrix",
+          "/wiki/Symmetric_matrix"
+        ]
+      ]
+    ],
+    [
+      [
+        "Matrix of ones",
+        [
+          "/wiki/Matrix_of_ones"
+        ]
+      ],
+      [
+        "A matrix with all entries equal to one",
+        []
+      ],
+      [
+        "a ij = 1",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Pascal matrix",
+        [
+          "/wiki/Pascal_matrix"
+        ]
+      ],
+      [
+        "A matrix containing the entries of Pascal 's triangle",
+        [
+          "/wiki/Pascal's_triangle"
+        ]
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Pauli matrices",
+        [
+          "/wiki/Pauli_matrices"
+        ]
+      ],
+      [
+        "A set of three 2 \u00d7 2 complex Hermitian and unitary matrices . When combined with the I 2 identity matrix , they form an orthogonal basis for the 2 \u00d7 2 complex Hermitian matrices",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Redheffer matrix",
+        [
+          "/wiki/Redheffer_matrix"
+        ]
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "a ij are 1 if i divides j or if j = 1 ; otherwise , a ij = 0",
+        []
+      ],
+      [
+        "A ( 0 , 1 ) -matrix",
+        []
+      ]
+    ],
+    [
+      [
+        "Shift matrix",
+        [
+          "/wiki/Shift_matrix"
+        ]
+      ],
+      [
+        "A matrix with ones on the superdiagonal or subdiagonal and zeroes elsewhere",
+        []
+      ],
+      [
+        "a ij = \u03b4 i +1 , j or a ij = \u03b4 i \u22121 , j",
+        []
+      ],
+      [
+        "Multiplication by it shifts matrix elements by one position",
+        []
+      ]
+    ],
+    [
+      [
+        "Zero matrix",
+        [
+          "/wiki/Zero_matrix"
+        ]
+      ],
+      [
+        "A matrix with all entries equal to zero",
+        []
+      ],
+      [
+        "a ij = 0",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Matrices with explicitly constrained entries -- Constant matrices",
+  "section_text": "",
+  "uid": "List_of_matrices_1"
+}

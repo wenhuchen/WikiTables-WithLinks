@@ -1,0 +1,259 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Pontop_Pike_transmitting_station",
+  "title": "Pontop Pike transmitting station",
+  "header": [
+    [
+      "Frequency",
+      []
+    ],
+    [
+      "UHF",
+      []
+    ],
+    [
+      "kW",
+      []
+    ],
+    [
+      "Operator",
+      []
+    ],
+    [
+      "System",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "562.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "32",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "COM4 ( SDN )",
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        "DVB-T",
+        [
+          "/wiki/DVB-T"
+        ]
+      ]
+    ],
+    [
+      [
+        "570.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "33",
+        []
+      ],
+      [
+        "5",
+        []
+      ],
+      [
+        "LTVmux",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "578.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "34",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "COM5 ( Arqiva A )",
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "586.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "35",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "COM6 ( Arqiva B )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "618.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "39",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "PSB1 ( BBC A )",
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "642.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "42",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "PSB2 ( D3 & 4 )",
+        [
+          "/wiki/Digital_3&4"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "666.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "45",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "PSB3 ( BBC B )",
+        []
+      ],
+      [
+        "DVB-T2",
+        [
+          "/wiki/DVB-T2"
+        ]
+      ]
+    ],
+    [
+      [
+        "746.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "55",
+        []
+      ],
+      [
+        "19.498",
+        []
+      ],
+      [
+        "COM7 ( Arqiva C )",
+        []
+      ],
+      [
+        "DVB-T2",
+        []
+      ]
+    ],
+    [
+      [
+        "754.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "56",
+        []
+      ],
+      [
+        "19.498",
+        []
+      ],
+      [
+        "COM8 ( Arqiva D )",
+        []
+      ],
+      [
+        "DVB-T2",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Digital television",
+  "section_text": "",
+  "uid": "Pontop_Pike_transmitting_station_2"
+}

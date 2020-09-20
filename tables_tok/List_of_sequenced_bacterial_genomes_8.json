@@ -1,0 +1,543 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_sequenced_bacterial_genomes",
+  "title": "List of sequenced bacterial genomes",
+  "header": [
+    [
+      "Species",
+      []
+    ],
+    [
+      "Strain",
+      []
+    ],
+    [
+      "Type",
+      []
+    ],
+    [
+      "Base Pairs",
+      []
+    ],
+    [
+      "Reference",
+      []
+    ],
+    [
+      "GenBank Identifier",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Deinococcus deserti",
+        [
+          "/wiki/Deinococcus",
+          "/wiki/Deinococcus_deserti"
+        ]
+      ],
+      [
+        "VCD115",
+        []
+      ],
+      [
+        "Deinococcales",
+        [
+          "/wiki/Deinococcales"
+        ]
+      ],
+      [
+        "2,819,842",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Chromosome NC_012526 Plasmid 1 NC_012528 Plasmid 2 NC_012529 Plasmid 3 NC_012528",
+        []
+      ]
+    ],
+    [
+      [
+        "Deinococcus geothermalis",
+        [
+          "/wiki/Deinococcus",
+          "/wiki/Deinococcus_geothermalis"
+        ]
+      ],
+      [
+        "DSM 11300",
+        []
+      ],
+      [
+        "Deinococcales",
+        [
+          "/wiki/Deinococcales"
+        ]
+      ],
+      [
+        "2,467,205",
+        []
+      ],
+      [
+        "DOE Joint Genome Institute",
+        []
+      ],
+      [
+        "Chromosome CP000359 Plasmid pDGEO01 CP000358 Plasmid pDGEO02 CP000856",
+        []
+      ]
+    ],
+    [
+      [
+        "Deinococcus gobiensis",
+        [
+          "/wiki/Deinococcus"
+        ]
+      ],
+      [
+        "I-0",
+        []
+      ],
+      [
+        "Deinococcales",
+        [
+          "/wiki/Deinococcales"
+        ]
+      ],
+      [
+        "3,137,147",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Chromosome CP002191 Plasmid P1 CP002192 Plasmid P2 CP002193 Plasmid P3 CP002194 Plasmid P4 CP002195 Plasmid P5 CP002196 Plasmid P6 CP002197",
+        []
+      ]
+    ],
+    [
+      [
+        "Deinococcus maricopensis",
+        [
+          "/wiki/Deinococcus"
+        ]
+      ],
+      [
+        "DSM 21211",
+        []
+      ],
+      [
+        "Deinococcales",
+        [
+          "/wiki/Deinococcales"
+        ]
+      ],
+      [
+        "3,498,530",
+        []
+      ],
+      [
+        "US DOE Joint Genome Institute",
+        []
+      ],
+      [
+        "CP002454",
+        []
+      ]
+    ],
+    [
+      [
+        "Deinococcus proteolyticus",
+        [
+          "/wiki/Deinococcus"
+        ]
+      ],
+      [
+        "MRP",
+        []
+      ],
+      [
+        "Deinococcales",
+        [
+          "/wiki/Deinococcales"
+        ]
+      ],
+      [
+        "2,147,060",
+        []
+      ],
+      [
+        "US DOE Joint Genome Institute",
+        []
+      ],
+      [
+        "Chromosome CP002536 Plasmid pDEIPR01 CP002537 Plasmid pDEIPR02 CP002538 Plasmid pDEIPR03 CP002539 Plasmid pDEIPR04 CP002540",
+        []
+      ]
+    ],
+    [
+      [
+        "Deinococcus radiodurans",
+        [
+          "/wiki/Deinococcus_radiodurans"
+        ]
+      ],
+      [
+        "R1",
+        []
+      ],
+      [
+        "Deinococcales",
+        [
+          "/wiki/Deinococcales"
+        ]
+      ],
+      [
+        "Chromosome 1 : 2,648,638 Chromosome 2 : 412,348",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Chromosome 1 NC_001263 Chromosome 2 NC_001264 Plasmid CP1 NC_000959 Plasmid MP1 NC_000958",
+        []
+      ]
+    ],
+    [
+      [
+        "Marinithermus hydrothermalis",
+        []
+      ],
+      [
+        "DSM 14884",
+        []
+      ],
+      [
+        "Thermales",
+        [
+          "/wiki/Thermales"
+        ]
+      ],
+      [
+        "2,269,167",
+        []
+      ],
+      [
+        "DOE Joint Genome Institute",
+        []
+      ],
+      [
+        "CP002630",
+        []
+      ]
+    ],
+    [
+      [
+        "Meiothermus ruber",
+        [
+          "/wiki/Meiothermus"
+        ]
+      ],
+      [
+        "DSM 1279",
+        []
+      ],
+      [
+        "Thermales",
+        [
+          "/wiki/Thermales"
+        ]
+      ],
+      [
+        "3,097,457",
+        []
+      ],
+      [
+        "DOE Joint Genome Institute",
+        []
+      ],
+      [
+        "CP001743",
+        []
+      ]
+    ],
+    [
+      [
+        "Meiothermus silvanus",
+        [
+          "/wiki/Meiothermus"
+        ]
+      ],
+      [
+        "DSM 9946",
+        []
+      ],
+      [
+        "Thermales",
+        [
+          "/wiki/Thermales"
+        ]
+      ],
+      [
+        "3,249,394",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Chromosome CP002042 Plasmid pMESIL01 CP002043 Plasmid pMESIL02 CP002044",
+        []
+      ]
+    ],
+    [
+      [
+        "Oceanithermus profundus",
+        []
+      ],
+      [
+        "DSM 14977",
+        []
+      ],
+      [
+        "Thermales",
+        [
+          "/wiki/Thermales"
+        ]
+      ],
+      [
+        "2,303,940",
+        []
+      ],
+      [
+        "DOE Joint Genome Institute",
+        []
+      ],
+      [
+        "Chromosome CP002361 Plasmid pOCEPR01",
+        []
+      ]
+    ],
+    [
+      [
+        "Thermus scotoductus",
+        [
+          "/wiki/Thermus"
+        ]
+      ],
+      [
+        "SA-01",
+        []
+      ],
+      [
+        "Thermales",
+        [
+          "/wiki/Thermales"
+        ]
+      ],
+      [
+        "2,346,803",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Chromosome CP001962 Plasmid pTSC8 CP001963",
+        []
+      ]
+    ],
+    [
+      [
+        "Thermus species",
+        [
+          "/wiki/Thermus"
+        ]
+      ],
+      [
+        "CCB_US3_UF1",
+        []
+      ],
+      [
+        "Thermales",
+        [
+          "/wiki/Thermales"
+        ]
+      ],
+      [
+        "2,243,772",
+        []
+      ],
+      [
+        "Universiti Sains Malaysia",
+        []
+      ],
+      [
+        "Chromosome CP003126 Plasmid pTCCB09 CP003127",
+        []
+      ]
+    ],
+    [
+      [
+        "Thermus thermophilus",
+        [
+          "/wiki/Thermus_thermophilus"
+        ]
+      ],
+      [
+        "HB27",
+        []
+      ],
+      [
+        "Thermales",
+        [
+          "/wiki/Thermales"
+        ]
+      ],
+      [
+        "1,894,877",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Chromosome AE017221 Plasmid pTT27 AE017222",
+        []
+      ]
+    ],
+    [
+      [
+        "Thermus thermophilus",
+        [
+          "/wiki/Thermus_thermophilus"
+        ]
+      ],
+      [
+        "HB8",
+        []
+      ],
+      [
+        "Thermales",
+        [
+          "/wiki/Thermales"
+        ]
+      ],
+      [
+        "1,849,742",
+        []
+      ],
+      [
+        "Nara Institute of Science and Technology",
+        []
+      ],
+      [
+        "Chromosome NC_006461 Plasmid pTT27 NC_006462 Plasmid pTT8 NC_006463",
+        []
+      ]
+    ],
+    [
+      [
+        "Thermus thermophilus",
+        [
+          "/wiki/Thermus_thermophilus"
+        ]
+      ],
+      [
+        "JL-18",
+        []
+      ],
+      [
+        "Thermales",
+        [
+          "/wiki/Thermales"
+        ]
+      ],
+      [
+        "1,902,595",
+        []
+      ],
+      [
+        "DOE Joint Genome Institute",
+        []
+      ],
+      [
+        "Chromosome CP003252 Plasmid pTTJL1801 CP003253 Plasmid pTTJL1802 CP003254",
+        []
+      ]
+    ],
+    [
+      [
+        "Thermus thermophilus",
+        [
+          "/wiki/Thermus_thermophilus"
+        ]
+      ],
+      [
+        "SG0.5JP17-16",
+        []
+      ],
+      [
+        "Thermales",
+        [
+          "/wiki/Thermales"
+        ]
+      ],
+      [
+        "1,863,201",
+        []
+      ],
+      [
+        "DOE Joint Genome Institute",
+        []
+      ],
+      [
+        "Chromosome CP002777 Plasmid pTHTHE1601 CP002778",
+        []
+      ]
+    ],
+    [
+      [
+        "Truepera radiovictrix",
+        [
+          "/wiki/Truepera"
+        ]
+      ],
+      [
+        "DSM 17093",
+        []
+      ],
+      [
+        "Deinococcales",
+        [
+          "/wiki/Deinococcales"
+        ]
+      ],
+      [
+        "3,260,398",
+        []
+      ],
+      [
+        "DOE Joint Genome Institute",
+        []
+      ],
+      [
+        "CP002049",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Deinococcus-Thermus",
+  "section_text": "",
+  "uid": "List_of_sequenced_bacterial_genomes_8"
+}

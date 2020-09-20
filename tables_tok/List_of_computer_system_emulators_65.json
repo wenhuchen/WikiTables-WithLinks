@@ -1,0 +1,467 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
+  "header": [
+    [
+      "Emulator",
+      []
+    ],
+    [
+      "Latest version",
+      []
+    ],
+    [
+      "Released",
+      []
+    ],
+    [
+      "Guest emulation capabilities",
+      []
+    ],
+    [
+      "Host Operating System",
+      []
+    ],
+    [
+      "License",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Clock Signal ( CLK )",
+        []
+      ],
+      [
+        "2019-08-01",
+        []
+      ],
+      [
+        "August 1 , 2019",
+        []
+      ],
+      [
+        "Acorn Electron , Amstrad CPC , Apple II , Atari 2600 , ColecoVision , Commodore VIC-20 , Macintosh , MSX , Oric , Sega Master System , ZX80 , ZX81",
+        [
+          "/wiki/Acorn_Electron",
+          "/wiki/Amstrad_CPC",
+          "/wiki/Apple_II",
+          "/wiki/Atari_2600",
+          "/wiki/ColecoVision",
+          "/wiki/Commodore_VIC-20",
+          "/wiki/Macintosh_512Ke",
+          "/wiki/MSX",
+          "/wiki/Oric",
+          "/wiki/Sega_Master_System",
+          "/wiki/ZX80",
+          "/wiki/ZX81"
+        ]
+      ],
+      [
+        "macOS , Linux , BSD",
+        [
+          "/wiki/MacOS"
+        ]
+      ],
+      [
+        "MIT License",
+        [
+          "/wiki/MIT_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "EightyOne",
+        []
+      ],
+      [
+        "1.0a",
+        []
+      ],
+      [
+        "May 28 , 2008",
+        []
+      ],
+      [
+        "Various Sinclair computers",
+        []
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "MAME ( formerly MESS )",
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
+      ],
+      [
+        "0.196",
+        []
+      ],
+      [
+        "March 28 , 2018",
+        []
+      ],
+      [
+        "Various computers , consoles , and arcade systems",
+        []
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "New BSD , GPLv2 or later",
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
+      ]
+    ],
+    [
+      [
+        "NO $ ZX81",
+        []
+      ],
+      [
+        "1.1",
+        []
+      ],
+      [
+        "April 2001",
+        []
+      ],
+      [
+        "Sinclair ZX80 , Sinclair ZX81",
+        [
+          "/wiki/Sinclair_ZX80",
+          "/wiki/Sinclair_ZX81"
+        ]
+      ],
+      [
+        "DOS , Windows",
+        [
+          "/wiki/DOS",
+          "/wiki/Windows"
+        ]
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "sz81",
+        []
+      ],
+      [
+        "2.1.7",
+        []
+      ],
+      [
+        "February 13 , 2011",
+        []
+      ],
+      [
+        "Sinclair ZX80 , Sinclair ZX81",
+        [
+          "/wiki/Sinclair_ZX80",
+          "/wiki/Sinclair_ZX81"
+        ]
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "VB81",
+        []
+      ],
+      [
+        "1.30",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Sinclair ZX81",
+        [
+          "/wiki/Sinclair_ZX81"
+        ]
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "XTender",
+        []
+      ],
+      [
+        "1.28",
+        []
+      ],
+      [
+        "May 2008",
+        []
+      ],
+      [
+        "Sinclair ZX80 , Sinclair ZX81",
+        [
+          "/wiki/Sinclair_ZX80",
+          "/wiki/Sinclair_ZX81"
+        ]
+      ],
+      [
+        "DOS",
+        [
+          "/wiki/DOS"
+        ]
+      ],
+      [
+        "Shareware",
+        [
+          "/wiki/Shareware"
+        ]
+      ]
+    ],
+    [
+      [
+        "ZEsarUX",
+        []
+      ],
+      [
+        "6.0",
+        []
+      ],
+      [
+        "November 27 , 2017",
+        []
+      ],
+      [
+        "Various Sinclair computers",
+        []
+      ],
+      [
+        "Linux , Windows , Mac OS X",
+        [
+          "/wiki/Linux",
+          "/wiki/Windows",
+          "/wiki/Mac_OS_X"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GPL"
+        ]
+      ]
+    ],
+    [
+      [
+        "z81",
+        []
+      ],
+      [
+        "2.1",
+        []
+      ],
+      [
+        "October 1 , 2004",
+        []
+      ],
+      [
+        "Sinclair ZX80 , Sinclair ZX81",
+        [
+          "/wiki/Sinclair_ZX80",
+          "/wiki/Sinclair_ZX81"
+        ]
+      ],
+      [
+        "Linux",
+        [
+          "/wiki/Linux"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "PSPZX81",
+        []
+      ],
+      [
+        "1.2.0",
+        []
+      ],
+      [
+        "February 24 , 2008",
+        []
+      ],
+      [
+        "Sinclair ZX81",
+        [
+          "/wiki/Sinclair_ZX81"
+        ]
+      ],
+      [
+        "PSP",
+        [
+          "/wiki/PlayStation_Portable"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "ZX81",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Sinclair ZX81",
+        [
+          "/wiki/Sinclair_ZX81"
+        ]
+      ],
+      [
+        "Java",
+        [
+          "/wiki/Java_Platform"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "JtyOne Online ZX81 Emulator",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "2015",
+        []
+      ],
+      [
+        "Sinclair ZX81",
+        [
+          "/wiki/Sinclair_ZX81"
+        ]
+      ],
+      [
+        "Web browser ( JavaScript )",
+        [
+          "/wiki/Web_browser",
+          "/wiki/JavaScript"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "ZX81 - iOS",
+        []
+      ],
+      [
+        "1.7.2",
+        []
+      ],
+      [
+        "November 20 , 2019",
+        []
+      ],
+      [
+        "Sinclair ZX80 , Sinclair ZX81",
+        [
+          "/wiki/Sinclair_ZX80",
+          "/wiki/Sinclair_ZX81"
+        ]
+      ],
+      [
+        "iOS",
+        [
+          "/wiki/IOS"
+        ]
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "8-bit guest systems -- Sinclair ZX81",
+  "section_text": "",
+  "uid": "List_of_computer_system_emulators_65"
+}

@@ -1,0 +1,317 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Huntshaw_Cross_transmitting_station",
+  "title": "Huntshaw Cross transmitting station",
+  "header": [
+    [
+      "Frequency",
+      []
+    ],
+    [
+      "UHF",
+      []
+    ],
+    [
+      "kW",
+      []
+    ],
+    [
+      "Operator",
+      []
+    ],
+    [
+      "System",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "729.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "53-",
+        []
+      ],
+      [
+        "4",
+        []
+      ],
+      [
+        "Arqiva ( Mux C )",
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        "DVB-T",
+        [
+          "/wiki/DVB-T"
+        ]
+      ]
+    ],
+    [
+      [
+        "737.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "54-",
+        []
+      ],
+      [
+        "4",
+        []
+      ],
+      [
+        "BBC ( Mux 1 )",
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "743.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "55",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "BBC One",
+        [
+          "/wiki/BBC_One"
+        ]
+      ],
+      [
+        "PAL",
+        [
+          "/wiki/PAL"
+        ]
+      ]
+    ],
+    [
+      [
+        "761.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "57-",
+        []
+      ],
+      [
+        "4",
+        []
+      ],
+      [
+        "Arqiva ( Mux D )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "769.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "58-",
+        []
+      ],
+      [
+        "4",
+        []
+      ],
+      [
+        "Digital 3 & 4 ( Mux 2 )",
+        [
+          "/wiki/Digital_3&4"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "775.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "59",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "ITV1",
+        [
+          "/wiki/ITV1"
+        ]
+      ],
+      [
+        "PAL",
+        []
+      ]
+    ],
+    [
+      [
+        "793.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "61-",
+        []
+      ],
+      [
+        "4",
+        []
+      ],
+      [
+        "SDN ( Mux A )",
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "799.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "62",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "BBC Two",
+        [
+          "/wiki/BBC_Two"
+        ]
+      ],
+      [
+        "PAL",
+        []
+      ]
+    ],
+    [
+      [
+        "817.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "64-",
+        []
+      ],
+      [
+        "4",
+        []
+      ],
+      [
+        "BBC ( Mux B )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "823.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "65",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "Channel 4",
+        [
+          "/wiki/Channel_4"
+        ]
+      ],
+      [
+        "PAL",
+        []
+      ]
+    ],
+    [
+      [
+        "839.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "67",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "Channel 5",
+        [
+          "/wiki/Channel_5_(UK)"
+        ]
+      ],
+      [
+        "PAL",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Channels listed by frequency -- Analogue and Digital television",
+  "section_text": "The initial roll-out of digital television involved running the digital services interleaved ( and at low ERP ) with the existing analogue services",
+  "uid": "Huntshaw_Cross_transmitting_station_5"
+}

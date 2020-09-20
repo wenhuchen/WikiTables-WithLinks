@@ -1,0 +1,411 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Protein_kinase_A",
+  "title": "Protein kinase A",
+  "header": [
+    [
+      "Cell type",
+      [
+        "/wiki/Cell_type"
+      ]
+    ],
+    [
+      "Organ/system",
+      []
+    ],
+    [
+      "Stimulators ligands \u2192 G s - GPCRs or PDE inhibitors",
+      [
+        "/wiki/Ligands",
+        "/wiki/Gs_alpha_subunit",
+        "/wiki/G_protein-coupled_receptor",
+        "/wiki/Phosphodiesterase_inhibitor"
+      ]
+    ],
+    [
+      "Effects",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "adipocyte",
+        [
+          "/wiki/Adipocyte"
+        ]
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "epinephrine \u2192 \u03b2-adrenergic receptor glucagon \u2192 Glucagon receptor",
+        [
+          "/wiki/Epinephrine",
+          "/wiki/Beta-adrenergic_receptor",
+          "/wiki/Glucagon",
+          "/wiki/Glucagon_receptor"
+        ]
+      ],
+      [
+        "enhance lipolysis stimulate lipase",
+        [
+          "/wiki/Lipolysis",
+          "/wiki/Lipase"
+        ]
+      ]
+    ],
+    [
+      [
+        "myocyte ( skeletal muscle )",
+        [
+          "/wiki/Myocyte",
+          "/wiki/Skeletal_muscle"
+        ]
+      ],
+      [
+        "muscular system",
+        [
+          "/wiki/Muscular_system"
+        ]
+      ],
+      [
+        "epinephrine \u2192 \u03b2-adrenergic receptor",
+        [
+          "/wiki/Epinephrine",
+          "/wiki/Beta-adrenergic_receptor"
+        ]
+      ],
+      [
+        "produce glucose stimulate glycogenolysis phosphorylate glycogen phosphorylase via phosphorylase kinase ( activating it ) phosphorylate Acetyl-CoA carboxylase ( inhibiting it ) inhibit glycogenesis phosphorylate glycogen synthase ( inhibiting it ) stimulate glycolysis phosphorylate phosphofructokinase 2 ( stimulating it , cardiomyocytes only )",
+        [
+          "/wiki/Glucose",
+          "/wiki/Glycogenolysis",
+          "/wiki/Glycogen_phosphorylase",
+          "/wiki/Phosphorylase_kinase",
+          "/wiki/Acetyl-CoA_carboxylase",
+          "/wiki/Glycogenesis",
+          "/wiki/Glycogen_synthase",
+          "/wiki/Glycolysis",
+          "/wiki/Phosphofructokinase_2"
+        ]
+      ]
+    ],
+    [
+      [
+        "myocyte ( cardiac muscle )",
+        [
+          "/wiki/Myocyte",
+          "/wiki/Cardiac_muscle"
+        ]
+      ],
+      [
+        "cardiovascular",
+        [
+          "/wiki/Cardiovascular"
+        ]
+      ],
+      [
+        "epinephrine \u2192 \u03b2-adrenergic receptor",
+        [
+          "/wiki/Epinephrine",
+          "/wiki/Beta-adrenergic_receptor"
+        ]
+      ],
+      [
+        "sequester Ca in sarcoplasmic reticulum phosphorylates phospholamban",
+        [
+          "/wiki/Sarcoplasmic_reticulum",
+          "/wiki/Phospholamban"
+        ]
+      ]
+    ],
+    [
+      [
+        "myocyte ( smooth muscle )",
+        [
+          "/wiki/Myocyte",
+          "/wiki/Smooth_muscle"
+        ]
+      ],
+      [
+        "cardiovascular",
+        [
+          "/wiki/Cardiovascular"
+        ]
+      ],
+      [
+        "\u03b22 adrenergic agonists \u2192 \u03b2-2 adrenergic receptor histamine \u2192 Histamine H2 receptor prostacyclin \u2192 prostacyclin receptor Prostaglandin D 2 \u2192 PGD 2 receptor Prostaglandin E 2 \u2192 PGE 2 receptor VIP \u2192 VIP receptor L- Arginine \u2192 imidazoline and \u03b1 2 receptor ? ( G i -coupled )",
+        [
+          "/wiki/Beta-2_adrenergic_receptor",
+          "/wiki/Beta-2_adrenergic_receptor",
+          "/wiki/Histamine",
+          "/wiki/Histamine_H2_receptor",
+          "/wiki/Prostacyclin",
+          "/wiki/Prostacyclin_receptor",
+          "/wiki/Prostaglandin_D2",
+          "/wiki/Prostaglandin_D2_receptor",
+          "/wiki/Prostaglandin_E2",
+          "/wiki/Prostaglandin_E2_receptor",
+          "/wiki/Vasoactive_intestinal_peptide",
+          "/wiki/Vasoactive_intestinal_peptide_receptor",
+          "/wiki/Arginine",
+          "/wiki/Imidazoline_receptor",
+          "/wiki/Alpha-2_adrenergic_receptor",
+          "/wiki/Gi_alpha_subunit"
+        ]
+      ],
+      [
+        "Contributes to vasodilation ( phosphorylates , and thereby inactivates , Myosin light-chain kinase )",
+        [
+          "/wiki/Vasodilation",
+          "/wiki/Myosin_light-chain_kinase"
+        ]
+      ]
+    ],
+    [
+      [
+        "hepatocyte",
+        [
+          "/wiki/Hepatocyte"
+        ]
+      ],
+      [
+        "liver",
+        [
+          "/wiki/Liver"
+        ]
+      ],
+      [
+        "epinephrine \u2192 \u03b2-adrenergic receptor glucagon \u2192 Glucagon receptor",
+        [
+          "/wiki/Epinephrine",
+          "/wiki/Beta-adrenergic_receptor",
+          "/wiki/Glucagon",
+          "/wiki/Glucagon_receptor"
+        ]
+      ],
+      [
+        "produce glucose stimulate glycogenolysis phosphorylate glycogen phosphorylase ( activating it ) phosphorylate Acetyl-CoA carboxylase ( inhibiting it ) inhibit glycogenesis phosphorylate glycogen synthase ( inhibiting it ) stimulate gluconeogenesis phosphorylate fructose 2,6-bisphosphatase ( stimulating it ) inhibit glycolysis phosphorylate phosphofructokinase-2 ( inactivating it ) phosphorylate fructose 2,6-bisphosphatase ( stimulate it ) phosphorylate pyruvate kinase ( inhibiting it )",
+        [
+          "/wiki/Glucose",
+          "/wiki/Glycogenolysis",
+          "/wiki/Glycogen_phosphorylase",
+          "/wiki/Acetyl-CoA_carboxylase",
+          "/wiki/Glycogenesis",
+          "/wiki/Glycogen_synthase",
+          "/wiki/Gluconeogenesis",
+          "/wiki/Fructose_2,6-bisphosphatase",
+          "/wiki/Glycolysis",
+          "/wiki/Phosphofructokinase-2",
+          "/wiki/Fructose_2,6-bisphosphatase",
+          "/wiki/Pyruvate_kinase"
+        ]
+      ]
+    ],
+    [
+      [
+        "neurons in nucleus accumbens",
+        [
+          "/wiki/Neuron",
+          "/wiki/Nucleus_accumbens"
+        ]
+      ],
+      [
+        "nervous system",
+        [
+          "/wiki/Nervous_system"
+        ]
+      ],
+      [
+        "dopamine \u2192 dopamine receptor",
+        [
+          "/wiki/Dopamine",
+          "/wiki/Dopamine_receptor"
+        ]
+      ],
+      [
+        "Activate reward system",
+        [
+          "/wiki/Reward_system"
+        ]
+      ]
+    ],
+    [
+      [
+        "principal cells in kidney",
+        [
+          "/wiki/Principal_cell",
+          "/wiki/Kidney"
+        ]
+      ],
+      [
+        "kidney",
+        [
+          "/wiki/Kidney"
+        ]
+      ],
+      [
+        "Vasopressin \u2192 V2 receptor theophylline ( PDE inhibitor )",
+        [
+          "/wiki/Vasopressin",
+          "/wiki/Arginine_vasopressin_receptor_2",
+          "/wiki/Theophylline",
+          "/wiki/Phosphodiesterase_inhibitor"
+        ]
+      ],
+      [
+        "exocytosis of aquaporin 2 to apical membrane . synthesis of aquaporin 2 phosphorylation of aquaporin 2 ( stimulating it )",
+        [
+          "/wiki/Exocytosis",
+          "/wiki/Aquaporin_2",
+          "/wiki/Apical_membrane"
+        ]
+      ]
+    ],
+    [
+      [
+        "Thick ascending limb cell",
+        [
+          "/wiki/Thick_ascending_limb_cell"
+        ]
+      ],
+      [
+        "kidney",
+        [
+          "/wiki/Kidney"
+        ]
+      ],
+      [
+        "Vasopressin \u2192 V2 receptor",
+        [
+          "/wiki/Vasopressin",
+          "/wiki/Arginine_vasopressin_receptor_2"
+        ]
+      ],
+      [
+        "stimulate Na-K-2Cl symporter ( perhaps only minor effect )",
+        [
+          "/wiki/Na-K-2Cl_symporter"
+        ]
+      ]
+    ],
+    [
+      [
+        "Cortical collecting tubule cell",
+        [
+          "/wiki/Cortical_collecting_tubule_cell"
+        ]
+      ],
+      [
+        "kidney",
+        [
+          "/wiki/Kidney"
+        ]
+      ],
+      [
+        "Vasopressin \u2192 V2 receptor",
+        [
+          "/wiki/Vasopressin",
+          "/wiki/Arginine_vasopressin_receptor_2"
+        ]
+      ],
+      [
+        "stimulate Epithelial sodium channel ( perhaps only minor effect )",
+        [
+          "/wiki/Epithelial_sodium_channel"
+        ]
+      ]
+    ],
+    [
+      [
+        "Inner medullary collecting duct cell",
+        [
+          "/wiki/Inner_medullary_collecting_duct_cell"
+        ]
+      ],
+      [
+        "kidney",
+        [
+          "/wiki/Kidney"
+        ]
+      ],
+      [
+        "Vasopressin \u2192 V2 receptor",
+        [
+          "/wiki/Vasopressin",
+          "/wiki/Arginine_vasopressin_receptor_2"
+        ]
+      ],
+      [
+        "stimulate urea transporter 1 urea transporter 1 exocytosis",
+        [
+          "/wiki/Urea_transporter_1",
+          "/wiki/Urea_transporter_1"
+        ]
+      ]
+    ],
+    [
+      [
+        "proximal convoluted tubule cell",
+        [
+          "/wiki/Proximal_convoluted_tubule_cell"
+        ]
+      ],
+      [
+        "kidney",
+        [
+          "/wiki/Kidney"
+        ]
+      ],
+      [
+        "PTH \u2192 PTH receptor 1",
+        [
+          "/wiki/Parathyroid_hormone",
+          "/wiki/PTH_receptor_1"
+        ]
+      ],
+      [
+        "Inhibit NHE3 \u2192 \u2193H secretion",
+        [
+          "/wiki/NHE3"
+        ]
+      ]
+    ],
+    [
+      [
+        "juxtaglomerular cell",
+        [
+          "/wiki/Juxtaglomerular_cell"
+        ]
+      ],
+      [
+        "kidney",
+        [
+          "/wiki/Kidney"
+        ]
+      ],
+      [
+        "adrenergic agonists \u2192 \u03b2-receptor agonists \u2192 \u03b1 2 receptor dopamine \u2192 dopamine receptor glucagon \u2192 glucagon receptor",
+        [
+          "/wiki/Adrenergic_agonists",
+          "/wiki/\u0392-receptor",
+          "/wiki/Alpha-2_adrenergic_receptor",
+          "/wiki/Dopamine",
+          "/wiki/Dopamine_receptor",
+          "/wiki/Glucagon",
+          "/wiki/Glucagon_receptor"
+        ]
+      ],
+      [
+        "renin secretion",
+        [
+          "/wiki/Renin"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "Function -- Overview table",
+  "section_text": "",
+  "uid": "Protein_kinase_A_0"
+}

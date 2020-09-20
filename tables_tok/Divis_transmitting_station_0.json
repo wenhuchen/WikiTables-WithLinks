@@ -1,0 +1,283 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Divis_transmitting_station",
+  "title": "Divis transmitting station",
+  "header": [
+    [
+      "Frequency",
+      []
+    ],
+    [
+      "UHF",
+      []
+    ],
+    [
+      "kW",
+      []
+    ],
+    [
+      "Operator",
+      []
+    ],
+    [
+      "System",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "474.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "21+",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "PSB2 ( D3 & 4 )",
+        [
+          "/wiki/Digital_3&4"
+        ]
+      ],
+      [
+        "DVB-T",
+        [
+          "/wiki/DVB-T"
+        ]
+      ]
+    ],
+    [
+      [
+        "490.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "23",
+        []
+      ],
+      [
+        "50",
+        []
+      ],
+      [
+        "COM4 ( SDN )",
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "498.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "24",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "PSB3 ( BBC B )",
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        "DVB-T2",
+        [
+          "/wiki/DVB-T2"
+        ]
+      ]
+    ],
+    [
+      [
+        "514.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "26",
+        []
+      ],
+      [
+        "50",
+        []
+      ],
+      [
+        "COM5 ( ARQ A )",
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "522.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "27",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "PSB1 ( BBC A )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "546.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "30 ( was 29 )",
+        []
+      ],
+      [
+        "50",
+        []
+      ],
+      [
+        "COM6 ( ARQ B )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "594.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "36 ( Was 30 )",
+        []
+      ],
+      [
+        "19",
+        []
+      ],
+      [
+        "LTVmux",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "690.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "48 ( From Sept 2019 )",
+        []
+      ],
+      [
+        "0.01",
+        []
+      ],
+      [
+        "NIMM ( RTE )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "714.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "51 ( Was 33 )",
+        []
+      ],
+      [
+        "12.4",
+        []
+      ],
+      [
+        "COM7 ( ARQ C )",
+        []
+      ],
+      [
+        "DVB-T2",
+        []
+      ]
+    ],
+    [
+      [
+        "786.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "60 ( Was 34 )",
+        []
+      ],
+      [
+        "12.66",
+        []
+      ],
+      [
+        "COM8 ( ARQ D )",
+        []
+      ],
+      [
+        "DVB-T2",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Services available -- Digital television",
+  "section_text": "Digital television services broadcast on the following frequencies ( frequency changes -Sept 2019 ) , and with the following powers :",
+  "uid": "Divis_transmitting_station_0"
+}

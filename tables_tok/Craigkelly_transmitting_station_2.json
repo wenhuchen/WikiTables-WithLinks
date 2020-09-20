@@ -1,0 +1,259 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Craigkelly_transmitting_station",
+  "title": "Craigkelly transmitting station",
+  "header": [
+    [
+      "Frequency",
+      []
+    ],
+    [
+      "UHF",
+      []
+    ],
+    [
+      "kW",
+      []
+    ],
+    [
+      "Operator",
+      []
+    ],
+    [
+      "System",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "498.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "24",
+        []
+      ],
+      [
+        "20",
+        []
+      ],
+      [
+        "PSB2 ( D3 & 4 )",
+        [
+          "/wiki/Digital_3&4"
+        ]
+      ],
+      [
+        "DVB-T",
+        [
+          "/wiki/DVB-T"
+        ]
+      ]
+    ],
+    [
+      [
+        "522.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "27",
+        []
+      ],
+      [
+        "20",
+        []
+      ],
+      [
+        "PSB1 ( BBC A )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "474.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "21+",
+        []
+      ],
+      [
+        "20",
+        []
+      ],
+      [
+        "PSB3 ( BBC B )",
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        "DVB-T2",
+        [
+          "/wiki/DVB-T2"
+        ]
+      ]
+    ],
+    [
+      [
+        "562.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "32",
+        []
+      ],
+      [
+        "5",
+        []
+      ],
+      [
+        "LTVmux",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "538.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "29",
+        []
+      ],
+      [
+        "10",
+        []
+      ],
+      [
+        "COM4 ( SDN )",
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "554.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "31",
+        []
+      ],
+      [
+        "10",
+        []
+      ],
+      [
+        "COM5 ( ARQ A )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "602.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "37",
+        []
+      ],
+      [
+        "10",
+        []
+      ],
+      [
+        "COM6 ( ARQ B )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "746.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "55",
+        []
+      ],
+      [
+        "15.849",
+        []
+      ],
+      [
+        "COM7 ( ARQ C )",
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        "DVB-T2",
+        []
+      ]
+    ],
+    [
+      [
+        "754.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "56",
+        []
+      ],
+      [
+        "15.849",
+        []
+      ],
+      [
+        "COM8 ( ARQ D )",
+        []
+      ],
+      [
+        "DVB-T2",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Digital television",
+  "section_text": "",
+  "uid": "Craigkelly_transmitting_station_2"
+}

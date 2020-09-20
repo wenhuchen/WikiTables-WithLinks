@@ -1,0 +1,510 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
+  "header": [
+    [
+      "Emulator",
+      []
+    ],
+    [
+      "Latest version",
+      []
+    ],
+    [
+      "Released",
+      []
+    ],
+    [
+      "Guest emulation capabilities",
+      []
+    ],
+    [
+      "Host Operating System",
+      []
+    ],
+    [
+      "License",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Agat Emulator",
+        []
+      ],
+      [
+        "1.29.1",
+        []
+      ],
+      [
+        "November 6 , 2017",
+        []
+      ],
+      [
+        "Apple II , Agat 7 , Agat 9",
+        [
+          "/wiki/Apple_II_series",
+          "/wiki/Agat_(computer)",
+          "/wiki/Agat_(computer)"
+        ]
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Windows"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "AppleIIGo",
+        []
+      ],
+      [
+        "1.0.8",
+        []
+      ],
+      [
+        "June 14 , 2011",
+        []
+      ],
+      [
+        "Apple IIe",
+        [
+          "/wiki/Apple_IIe"
+        ]
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "AppleWin",
+        [
+          "/wiki/AppleWin"
+        ]
+      ],
+      [
+        "1.27.1.0",
+        []
+      ],
+      [
+        "April 5 , 2018",
+        []
+      ],
+      [
+        "Apple II , Apple II+ , Apple IIe",
+        [
+          "/wiki/Apple_II_series",
+          "/wiki/Apple_II+",
+          "/wiki/Apple_IIe"
+        ]
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Catakig",
+        []
+      ],
+      [
+        "2.00b4",
+        []
+      ],
+      [
+        "October 28 , 2006",
+        []
+      ],
+      [
+        "Apple II , Apple II+ , Apple IIe , Apple IIc",
+        [
+          "/wiki/Apple_II_series",
+          "/wiki/Apple_II+",
+          "/wiki/Apple_IIe",
+          "/wiki/Apple_IIc"
+        ]
+      ],
+      [
+        "macOS",
+        [
+          "/wiki/MacOS"
+        ]
+      ],
+      [
+        "Open source",
+        [
+          "/wiki/Open-source_software"
+        ]
+      ]
+    ],
+    [
+      [
+        "Clock Signal ( CLK )",
+        []
+      ],
+      [
+        "2019-08-01",
+        []
+      ],
+      [
+        "August 1 , 2019",
+        []
+      ],
+      [
+        "Apple II , Apple II+ , Apple IIe ; also : Acorn Electron , Amstrad CPC , Atari 2600 , ColecoVision , Commodore VIC-20 , Macintosh , MSX , Oric , Sega Master System , ZX80 , ZX81",
+        [
+          "/wiki/Apple_II_series",
+          "/wiki/Apple_II+",
+          "/wiki/Apple_IIe",
+          "/wiki/Acorn_Electron",
+          "/wiki/Amstrad_CPC",
+          "/wiki/Atari_2600",
+          "/wiki/ColecoVision",
+          "/wiki/Commodore_VIC-20",
+          "/wiki/Macintosh_512Ke",
+          "/wiki/MSX",
+          "/wiki/Oric",
+          "/wiki/Sega_Master_System",
+          "/wiki/ZX80",
+          "/wiki/ZX81"
+        ]
+      ],
+      [
+        "macOS , Linux , BSD",
+        [
+          "/wiki/MacOS"
+        ]
+      ],
+      [
+        "MIT License",
+        [
+          "/wiki/MIT_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "JACE : Java Apple Computer Emulator",
+        []
+      ],
+      [
+        "2012-12-09",
+        []
+      ],
+      [
+        "December 9 , 2012",
+        []
+      ],
+      [
+        "Apple II , Apple IIe",
+        [
+          "/wiki/Apple_II_series",
+          "/wiki/Apple_IIe"
+        ]
+      ],
+      [
+        "Cross-Platform",
+        [
+          "/wiki/Cross-Platform"
+        ]
+      ],
+      [
+        "LGPL",
+        [
+          "/wiki/GNU_Lesser_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "LinApple",
+        []
+      ],
+      [
+        "2b",
+        []
+      ],
+      [
+        "June 26 , 2015",
+        []
+      ],
+      [
+        "Apple II",
+        [
+          "/wiki/Apple_II_series"
+        ]
+      ],
+      [
+        "Linux",
+        []
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "MAME ( formerly MESS )",
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
+      ],
+      [
+        "0.196",
+        []
+      ],
+      [
+        "March 28 , 2018",
+        []
+      ],
+      [
+        "Various computers , consoles , and arcade systems",
+        []
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "New BSD , GPLv2 or later",
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
+      ]
+    ],
+    [
+      [
+        "microM8",
+        []
+      ],
+      [
+        "Rolling",
+        []
+      ],
+      [
+        "January 14 , 2017",
+        []
+      ],
+      [
+        "Apple IIe",
+        [
+          "/wiki/Apple_II_series"
+        ]
+      ],
+      [
+        "Windows Linux macOS",
+        [
+          "/wiki/Windows",
+          "/wiki/Linux",
+          "/wiki/MacOS"
+        ]
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "PalmApple",
+        []
+      ],
+      [
+        "0.8.0",
+        []
+      ],
+      [
+        "September 8 , 2006",
+        []
+      ],
+      [
+        "Apple IIe",
+        [
+          "/wiki/Apple_IIe"
+        ]
+      ],
+      [
+        "Palm OS",
+        [
+          "/wiki/Palm_OS"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "pomDS",
+        []
+      ],
+      [
+        "2.0",
+        []
+      ],
+      [
+        "November 30 , 2008",
+        []
+      ],
+      [
+        "Apple II",
+        [
+          "/wiki/Apple_II_series"
+        ]
+      ],
+      [
+        "Nintendo DS",
+        [
+          "/wiki/Nintendo_DS"
+        ]
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "Virtu",
+        []
+      ],
+      [
+        "0.9.3",
+        []
+      ],
+      [
+        "July 17 , 2012",
+        []
+      ],
+      [
+        "Apple IIe",
+        [
+          "/wiki/Apple_IIe"
+        ]
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Virtual ] [",
+        []
+      ],
+      [
+        "8.1",
+        []
+      ],
+      [
+        "January 14 , 2018",
+        []
+      ],
+      [
+        "Apple II , Apple II+ , Apple IIe",
+        [
+          "/wiki/Apple_II_series",
+          "/wiki/Apple_II+",
+          "/wiki/Apple_IIe"
+        ]
+      ],
+      [
+        "Mac OS X 10.6 Snow Leopard or better",
+        [
+          "/wiki/MacOS"
+        ]
+      ],
+      [
+        "Shareware",
+        [
+          "/wiki/Shareware"
+        ]
+      ]
+    ],
+    [
+      [
+        "WiiApple",
+        []
+      ],
+      [
+        "0.0.7",
+        []
+      ],
+      [
+        "January 8 , 2009",
+        []
+      ],
+      [
+        "Apple II",
+        [
+          "/wiki/Apple_II_series"
+        ]
+      ],
+      [
+        "Nintendo Wii",
+        [
+          "/wiki/Nintendo_Wii"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "8-bit guest systems -- Apple II",
+  "section_text": "",
+  "uid": "List_of_computer_system_emulators_47"
+}

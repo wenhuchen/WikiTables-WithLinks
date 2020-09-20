@@ -1,0 +1,190 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio",
+  "title": "Comparison of free software for audio",
+  "header": [
+    [
+      "Name",
+      []
+    ],
+    [
+      "Linux ?",
+      [
+        "/wiki/Linux"
+      ]
+    ],
+    [
+      "Note",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Advanced Linux Sound Architecture ( ALSA )",
+        [
+          "/wiki/Advanced_Linux_Sound_Architecture"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "the sound card driver and management system in the Linux kernel",
+        [
+          "/wiki/Sound_card",
+          "/wiki/Linux_kernel"
+        ]
+      ]
+    ],
+    [
+      [
+        "aRts",
+        [
+          "/wiki/ARts"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "an audio programming API and sound server for general desktop , no longer in development",
+        [
+          "/wiki/Sound_server"
+        ]
+      ]
+    ],
+    [
+      [
+        "DSSI",
+        [
+          "/wiki/Disposable_Soft_Synth_Interface"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "a plugin architecture for software synthesizers",
+        [
+          "/wiki/Software_synthesizer"
+        ]
+      ]
+    ],
+    [
+      [
+        "GStreamer",
+        [
+          "/wiki/GStreamer"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "a graph-based multimedia framework",
+        []
+      ]
+    ],
+    [
+      [
+        "JACK Audio Connection Kit ( JACK )",
+        [
+          "/wiki/JACK_Audio_Connection_Kit"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "a sound server for integration of general and low-latency pro audio applications , including timebase transport",
+        [
+          "/wiki/Sound_server",
+          "/wiki/Timebase"
+        ]
+      ]
+    ],
+    [
+      [
+        "Linux Audio Developers Simple Plugin API ( LADSPA )",
+        [
+          "/wiki/LADSPA"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "a plugin architecture for digital signal processing",
+        [
+          "/wiki/Digital_signal_processor"
+        ]
+      ]
+    ],
+    [
+      [
+        "Open Sound System",
+        [
+          "/wiki/Open_Sound_System"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "a sound card management and driver system for Unix operating systems",
+        [
+          "/wiki/Sound_card",
+          "/wiki/Unix",
+          "/wiki/Operating_systems"
+        ]
+      ]
+    ],
+    [
+      [
+        "PulseAudio",
+        [
+          "/wiki/PulseAudio"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "a sound server for general desktop and multihost LAN applications",
+        [
+          "/wiki/Sound_server"
+        ]
+      ]
+    ],
+    [
+      [
+        "sndio",
+        [
+          "/wiki/Sndio"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "sound and MIDI server",
+        [
+          "/wiki/Sound_server",
+          "/wiki/MIDI"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "Technologies",
+  "section_text": "",
+  "uid": "List_of_free_software_for_audio_11"
+}

@@ -1,0 +1,653 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_distributed_computing_projects",
+  "title": "List of distributed computing projects",
+  "header": [
+    [
+      "Project",
+      []
+    ],
+    [
+      "Launched",
+      []
+    ],
+    [
+      "Home",
+      []
+    ],
+    [
+      "Category",
+      []
+    ],
+    [
+      "Research focus",
+      []
+    ],
+    [
+      "BOINC based",
+      [
+        "/wiki/BOINC"
+      ]
+    ]
+  ],
+  "data": [
+    [
+      [
+        "ABC @ home",
+        [
+          "/wiki/ABC@home"
+        ]
+      ],
+      [
+        "2006-11-21",
+        []
+      ],
+      [
+        "Mathematical Institute of Leiden University , Kennislink",
+        [
+          "/wiki/Leiden_University"
+        ]
+      ],
+      [
+        "Mathematics",
+        [
+          "/wiki/Mathematics"
+        ]
+      ],
+      [
+        "Find triples related to the ABC conjecture , one of the greatest open problems in mathematics",
+        [
+          "/wiki/ABC_conjecture"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "AlmereGrid Grid",
+        []
+      ],
+      [
+        "2006-09-27",
+        []
+      ],
+      [
+        "Almere , the Netherlands",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "A number of applications from local researchers",
+        []
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "AlmereGrid TestGrid",
+        []
+      ],
+      [
+        "2008-02-24",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Test of the AlmereGrid project",
+        []
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "AndrOINC",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Private",
+        []
+      ],
+      [
+        "Cryptography",
+        [
+          "/wiki/Cryptography"
+        ]
+      ],
+      [
+        "Broke Motorola 's 1024-bit RSA key used to sign the boot and recovery partition partitions on the Motorola Milestone smartphone",
+        [
+          "/wiki/RSA_(algorithm)",
+          "/wiki/System_partition_and_boot_partition",
+          "/wiki/Recovery_disc",
+          "/wiki/Motorola_Milestone"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "AQUA @ home",
+        [
+          "/wiki/AQUA@home"
+        ]
+      ],
+      [
+        "2008-12-10",
+        []
+      ],
+      [
+        "D-Wave Systems , Canada",
+        [
+          "/wiki/D-Wave_Systems",
+          "/wiki/Canada"
+        ]
+      ],
+      [
+        "Quantum computing",
+        [
+          "/wiki/Quantum_computing"
+        ]
+      ],
+      [
+        "Used Quantum Monte Carlo to predict the performance of superconducting adiabatic quantum computers on a variety of problems",
+        [
+          "/wiki/Quantum_Monte_Carlo",
+          "/wiki/Superconductor",
+          "/wiki/Adiabatic_theorem",
+          "/wiki/Quantum_computer"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "Background Pi",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Computes decimal digits of pi using digit extraction method",
+        [
+          "/wiki/Pi"
+        ]
+      ],
+      [
+        "No",
+        []
+      ]
+    ],
+    [
+      [
+        "Biochemical Library",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Vanderbilt University",
+        [
+          "/wiki/Vanderbilt_University"
+        ]
+      ],
+      [
+        "Molecular biology",
+        [
+          "/wiki/Molecular_biology"
+        ]
+      ],
+      [
+        "Performed research using the Biochemical Algorithms Library into proteins and their interactions with small molecules for disease research",
+        []
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "Chess960 @ home",
+        []
+      ],
+      [
+        "2006-03-20",
+        []
+      ],
+      [
+        "Private",
+        []
+      ],
+      [
+        "Games and Puzzles",
+        []
+      ],
+      [
+        "Analysis of chess 960",
+        [
+          "/wiki/Chess_960"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "Constellation",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Students at the University of Stuttgart , Germany",
+        [
+          "/wiki/University_of_Stuttgart",
+          "/wiki/Germany"
+        ]
+      ],
+      [
+        "Aerospace , Engineering",
+        [
+          "/wiki/Aerospace",
+          "/wiki/Engineering"
+        ]
+      ],
+      [
+        "Various aerospace -related science and engineering problems",
+        [
+          "/wiki/Aerospace"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "Correlizer",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "EpiGenSys Consortium and EraSysBio+ , part of the Seventh Framework Program of the European Union",
+        [
+          "/wiki/European_Union"
+        ]
+      ],
+      [
+        "Genetics",
+        [
+          "/wiki/Genetics"
+        ]
+      ],
+      [
+        "The sequential organization of genomes , and its connection to their 3D architectural organization",
+        []
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "DistrRTgen",
+        [
+          "/wiki/DistrRTgen"
+        ]
+      ],
+      [
+        "2008-01-12",
+        []
+      ],
+      [
+        "Private",
+        []
+      ],
+      [
+        "Cryptography",
+        [
+          "/wiki/Cryptography"
+        ]
+      ],
+      [
+        "Analysis of hash strength for password security by developing rainbow tables",
+        [
+          "/wiki/Rainbow_table"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "DNA @ home",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Rensselaer Polytechnic Institute",
+        [
+          "/wiki/Rensselaer_Polytechnic_Institute"
+        ]
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Discovered what regulates the genes in DNA using statistical algorithms",
+        [
+          "/wiki/DNA"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "DrugDiscovery @ home",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Private",
+        []
+      ],
+      [
+        "Drug design",
+        [
+          "/wiki/Drug_design"
+        ]
+      ],
+      [
+        "Supported in silico drug design of chemical compounds for medicines in the fields of cancer and neurodegenerative diseases",
+        [
+          "/wiki/In_silico",
+          "/wiki/Chemical_compounds",
+          "/wiki/Medicinal_chemistry",
+          "/wiki/Cancer",
+          "/wiki/Neurodegenerative_disease"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "eOn",
+        [
+          "/wiki/EOn"
+        ]
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "University of Texas at Austin",
+        [
+          "/wiki/University_of_Texas_at_Austin"
+        ]
+      ],
+      [
+        "Chemistry",
+        [
+          "/wiki/Chemistry"
+        ]
+      ],
+      [
+        "Calculated the evolution of an atomic-scale system over time , such as a chemical reaction or diffusion",
+        []
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "FreeHAL",
+        [
+          "/wiki/FreeHAL"
+        ]
+      ],
+      [
+        "2006",
+        []
+      ],
+      [
+        "Private",
+        []
+      ],
+      [
+        "Artificial intelligence",
+        [
+          "/wiki/Artificial_intelligence"
+        ]
+      ],
+      [
+        "Compute essential information for software which seeks to imitate human conversation",
+        []
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "Genome @ home",
+        [
+          "/wiki/Genome@home"
+        ]
+      ],
+      [
+        "2001-02-01",
+        []
+      ],
+      [
+        "Stanford University",
+        [
+          "/wiki/Stanford_University"
+        ]
+      ],
+      [
+        "Molecular biology",
+        [
+          "/wiki/Molecular_biology"
+        ]
+      ],
+      [
+        "Designed new genes that can form working proteins in the cell that have not been found in nature",
+        []
+      ],
+      [
+        "No",
+        []
+      ]
+    ],
+    [
+      [
+        "Golem @ home",
+        []
+      ],
+      [
+        "2000",
+        []
+      ],
+      [
+        "Brandeis University",
+        [
+          "/wiki/Brandeis_University"
+        ]
+      ],
+      [
+        "Robotics",
+        [
+          "/wiki/Robotics"
+        ]
+      ],
+      [
+        "Used evolutionary computation to design robotic locomotion systems",
+        []
+      ],
+      [
+        "No",
+        []
+      ]
+    ],
+    [
+      [
+        "Graceful Tree Verification Project",
+        []
+      ],
+      [
+        "2008-11-22",
+        []
+      ],
+      [
+        "Private",
+        []
+      ],
+      [
+        "Mathematics",
+        [
+          "/wiki/Mathematics"
+        ]
+      ],
+      [
+        "Used a computational approach to the Graceful Tree Conjecture , proving that every tree with at most 35 vertices is graceful",
+        []
+      ],
+      [
+        "No",
+        []
+      ]
+    ],
+    [
+      [
+        "Ideologias @ home",
+        []
+      ],
+      [
+        "2011-05-19",
+        []
+      ],
+      [
+        "Complutense University of Madrid , Spain",
+        [
+          "/wiki/Complutense_University_of_Madrid"
+        ]
+      ],
+      [
+        "Society",
+        []
+      ],
+      [
+        "Used social networking mathematical models to study the ideological evolution of a group of people over time",
+        []
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "Magnetism @ home",
+        []
+      ],
+      [
+        "2008-06-09",
+        []
+      ],
+      [
+        "Donetsk Institute for Physics and Technology , Ukraine",
+        [
+          "/wiki/Ukraine"
+        ]
+      ],
+      [
+        "Magnetism , nanotechnology",
+        [
+          "/wiki/Magnetism",
+          "/wiki/Nanotechnology"
+        ]
+      ],
+      [
+        "Explored magnetization patterns",
+        [
+          "/wiki/Magnetization"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Distributed computing projects -- Inactive projects",
+  "section_text": "( Work on these projects was either finished , or the project was discontinued )",
+  "uid": "List_of_distributed_computing_projects_1"
+}

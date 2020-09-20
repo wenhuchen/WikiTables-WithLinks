@@ -1,0 +1,714 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
+  "header": [
+    [
+      "Emulator",
+      []
+    ],
+    [
+      "Latest version",
+      []
+    ],
+    [
+      "Released",
+      []
+    ],
+    [
+      "Guest emulation capabilities",
+      []
+    ],
+    [
+      "Host Operating System",
+      []
+    ],
+    [
+      "License",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "MAME ( formerly MESS )",
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
+      ],
+      [
+        "0.196",
+        []
+      ],
+      [
+        "March 28 , 2018",
+        []
+      ],
+      [
+        "Various computers , consoles , and arcade systems",
+        []
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "New BSD , GPLv2 or later",
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
+      ]
+    ],
+    [
+      [
+        "ZEsarUX",
+        []
+      ],
+      [
+        "6.0",
+        []
+      ],
+      [
+        "November 27 , 2017",
+        []
+      ],
+      [
+        "Various Sinclair computers",
+        []
+      ],
+      [
+        "Linux , Windows , Mac OS X",
+        [
+          "/wiki/Linux",
+          "/wiki/Windows",
+          "/wiki/Mac_OS_X"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GPL"
+        ]
+      ]
+    ],
+    [
+      [
+        "EP128Emu",
+        []
+      ],
+      [
+        "2.0.11",
+        []
+      ],
+      [
+        "January 20 , 2017",
+        []
+      ],
+      [
+        "Amstrad CPC , ZX Spectrum , Enterprise",
+        [
+          "/wiki/Amstrad_CPC",
+          "/wiki/ZX_Spectrum",
+          "/wiki/Enterprise_(computer)"
+        ]
+      ],
+      [
+        "Windows , Linux",
+        []
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Fuse",
+        [
+          "/wiki/Fuse_(emulator)"
+        ]
+      ],
+      [
+        "1.5.2",
+        []
+      ],
+      [
+        "April 2 , 2018",
+        []
+      ],
+      [
+        "ZX Spectrum 16K , 48K , 128K , +2 , +2A , +3 , TC2048 , TC2068 , TS2068 , SE , Pentagon , Scorpion ZS-256",
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/Timex_Computer_2048",
+          "/wiki/Timex_Sinclair_2068",
+          "/wiki/Pentagon_(computer)",
+          "/wiki/List_of_ZX_Spectrum_clones"
+        ]
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "GPLv2",
+        [
+          "/wiki/GPLv2"
+        ]
+      ]
+    ],
+    [
+      [
+        "Fuse For Mac OS X",
+        []
+      ],
+      [
+        "1.5.2",
+        []
+      ],
+      [
+        "April 1 , 2018",
+        []
+      ],
+      [
+        "ZX Spectrum 16K , 48K , 128K , +2 , +2A , +3",
+        []
+      ],
+      [
+        "OS X",
+        [
+          "/wiki/OS_X"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Fuse PSP",
+        []
+      ],
+      [
+        "0.10.0.21",
+        []
+      ],
+      [
+        "April 7 , 2009",
+        []
+      ],
+      [
+        "ZX Spectrum 16K , 48K , 128K , +2 , +2A , +3",
+        []
+      ],
+      [
+        "Sony PSP",
+        [
+          "/wiki/Sony_PSP"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "FBZX",
+        []
+      ],
+      [
+        "3.8.0",
+        []
+      ],
+      [
+        "April 6 , 2017",
+        []
+      ],
+      [
+        "ZX Spectrum 16K , 48K , 128K , +2 , +2A",
+        []
+      ],
+      [
+        "Linux",
+        []
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "EightyOne",
+        []
+      ],
+      [
+        "1.0a",
+        []
+      ],
+      [
+        "May 28 , 2008",
+        []
+      ],
+      [
+        "Various Sinclair computers",
+        []
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Speccy",
+        []
+      ],
+      [
+        "4.7 for Windows and Linux , 1.7 for others",
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/Linux"
+        ]
+      ],
+      [
+        "March 29 , 2018",
+        []
+      ],
+      [
+        "ZX Spectrum 48K , 128K , +2 , +2A , +3 , TC2048 , TC2068 , TS2068",
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/Timex_Computer_2048",
+          "/wiki/Timex_Sinclair_2068"
+        ]
+      ],
+      [
+        "Windows , Linux , Android > v2.2 , Symbian S60 ( deprecated ) , DOS ( deprecated )",
+        [
+          "/wiki/Microsoft_Windows",
+          "/wiki/Linux",
+          "/wiki/Android_(operating_system)",
+          "/wiki/S60_(software_platform)",
+          "/wiki/DOS"
+        ]
+      ],
+      [
+        "Payware for Android , Freeware for others",
+        [
+          "/wiki/Payware",
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "Warajevo",
+        []
+      ],
+      [
+        "2.52",
+        []
+      ],
+      [
+        "February 2006",
+        []
+      ],
+      [
+        "ZX Spectrum 48K , 128K , +2 , Timex Sinclair 2068",
+        []
+      ],
+      [
+        "DOS",
+        [
+          "/wiki/DOS"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "X128",
+        []
+      ],
+      [
+        "0.95b open alpha",
+        []
+      ],
+      [
+        "July 5 , 2010",
+        []
+      ],
+      [
+        "ZX Spectrum 48K , 128K , +2 , +2A , +3 , Pentagon , Scorpion ZS-256 , ATM Turbo , ZX81",
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/Pentagon_(computer)",
+          "/wiki/List_of_ZX_Spectrum_clones",
+          "/wiki/ATM_(computer)",
+          "/wiki/ZX81"
+        ]
+      ],
+      [
+        "DOS , Windows",
+        [
+          "/wiki/DOS",
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "UnrealSpeccy",
+        []
+      ],
+      [
+        "0.38.3",
+        []
+      ],
+      [
+        "December 21 , 2016",
+        []
+      ],
+      [
+        "ZX Spectrum 48 / 128K , Pentagon , Scorpion ZS-256 , ATM Turbo , Kay 1024 , Profi",
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/Pentagon_(computer)",
+          "/wiki/List_of_ZX_Spectrum_clones",
+          "/wiki/ATM_(computer)",
+          "/wiki/Kay_1024",
+          "/wiki/List_of_ZX_Spectrum_clones"
+        ]
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "Public Domain",
+        [
+          "/wiki/Public_Domain"
+        ]
+      ]
+    ],
+    [
+      [
+        "UnrealSpeccy Portable",
+        []
+      ],
+      [
+        "0.0.81",
+        []
+      ],
+      [
+        "December 26 , 2017",
+        []
+      ],
+      [
+        "ZX Spectrum 48K , 128K",
+        []
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Z80Stealth",
+        []
+      ],
+      [
+        "1.23",
+        []
+      ],
+      [
+        "August 20 , 2014",
+        []
+      ],
+      [
+        "ZX Spectrum 128K , Pentagon , Scorpion ZS-256 , Profi , Kay 1024 ; perfect AY-3-8912/YM2149F and General Sound emulation",
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/Pentagon_(computer)",
+          "/wiki/List_of_ZX_Spectrum_clones",
+          "/wiki/List_of_ZX_Spectrum_clones",
+          "/wiki/Kay_1024",
+          "/wiki/General_Instrument_AY-3-8910"
+        ]
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "EmuZWin",
+        []
+      ],
+      [
+        "2.7 release 2.8 ( final )",
+        []
+      ],
+      [
+        "March 10 , 2006",
+        []
+      ],
+      [
+        "ZX Spectrum 48K , 128K , +2 , +2A , +3 , Pentagon , Scorpion ZS-256 ( patrial ) , ATM Turbo , Profi",
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/Pentagon_(computer)",
+          "/wiki/List_of_ZX_Spectrum_clones",
+          "/wiki/ATM_(computer)",
+          "/wiki/List_of_ZX_Spectrum_clones"
+        ]
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "EMUZ",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "March 31 , 1996",
+        []
+      ],
+      [
+        "ZX Spectrum 48 / 128K with TR-DOS",
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum",
+          "/wiki/TR-DOS"
+        ]
+      ],
+      [
+        "DOS",
+        [
+          "/wiki/DOS"
+        ]
+      ],
+      [
+        "Freeware with C -- Sphinx source code",
+        [
+          "/wiki/Source_code"
+        ]
+      ]
+    ],
+    [
+      [
+        "Z.com",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "November 25 , 2003",
+        []
+      ],
+      [
+        "ZX Spectrum 48 / 128K",
+        [
+          "/wiki/ZX_Spectrum",
+          "/wiki/ZX_Spectrum"
+        ]
+      ],
+      [
+        "DOS",
+        [
+          "/wiki/DOS"
+        ]
+      ],
+      [
+        "Freeware with MMX assembler source code",
+        [
+          "/wiki/MMX_(instruction_set)",
+          "/wiki/X86_assembly_language",
+          "/wiki/Source_code"
+        ]
+      ]
+    ],
+    [
+      [
+        "ZXDS",
+        []
+      ],
+      [
+        "1.3.3",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Spectrum 48K , 128K , Pentagon",
+        []
+      ],
+      [
+        "Nintendo DS",
+        [
+          "/wiki/Nintendo_DS"
+        ]
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "SpeccyDS",
+        []
+      ],
+      [
+        "0.3",
+        []
+      ],
+      [
+        "August 27 , 2007",
+        []
+      ],
+      [
+        "Spectrum 48K",
+        []
+      ],
+      [
+        "Nintendo DS",
+        [
+          "/wiki/Nintendo_DS"
+        ]
+      ],
+      [
+        "Giftware",
+        [
+          "/wiki/Giftware"
+        ]
+      ]
+    ],
+    [
+      [
+        "JX-Speccy",
+        []
+      ],
+      [
+        "1.6",
+        []
+      ],
+      [
+        "March 31 , 2005",
+        []
+      ],
+      [
+        "ZX Spectrum 48K , 128K",
+        []
+      ],
+      [
+        "Java",
+        [
+          "/wiki/Java_(software_platform)"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "8-bit guest systems -- Sinclair ZX Spectrum and clones",
+  "section_text": "See also : comp.sys.sinclair FAQ at World of Spectrum",
+  "uid": "List_of_computer_system_emulators_66"
+}

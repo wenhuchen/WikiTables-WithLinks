@@ -1,0 +1,671 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_document-markup_languages",
+  "title": "Comparison of document-markup languages",
+  "header": [
+    [
+      "Language",
+      [
+        "/wiki/Markup_language"
+      ]
+    ],
+    [
+      "Creator",
+      []
+    ],
+    [
+      "First public release date",
+      []
+    ],
+    [
+      "Editor",
+      []
+    ],
+    [
+      "Viewer",
+      [
+        "/wiki/File_viewer"
+      ]
+    ]
+  ],
+  "data": [
+    [
+      [
+        "AsciiDoc",
+        [
+          "/wiki/AsciiDoc"
+        ]
+      ],
+      [
+        "Stuart Rackham",
+        []
+      ],
+      [
+        "2002",
+        []
+      ],
+      [
+        "Text editor",
+        [
+          "/wiki/Text_editor"
+        ]
+      ],
+      [
+        "Output to XHTML , HTML , DocBook ( which can convert to PDF , EPUB , DVI , LaTeX , roff , and Postscript )",
+        [
+          "/wiki/XHTML",
+          "/wiki/HTML",
+          "/wiki/DocBook",
+          "/wiki/PDF",
+          "/wiki/EPUB",
+          "/wiki/Device_independent_file_format",
+          "/wiki/LaTeX",
+          "/wiki/Roff_(computer_program)",
+          "/wiki/Postscript"
+        ]
+      ]
+    ],
+    [
+      [
+        "Computable Document Format",
+        [
+          "/wiki/Computable_Document_Format"
+        ]
+      ],
+      [
+        "Wolfram Research",
+        [
+          "/wiki/Wolfram_Research"
+        ]
+      ],
+      [
+        "2010",
+        []
+      ],
+      [
+        "Wolfram Language & Mathematica",
+        [
+          "/wiki/Wolfram_Language",
+          "/wiki/Mathematica"
+        ]
+      ],
+      [
+        "CDF Player ; CDF format can also be embedded in web pages viewable with conventional browsers",
+        [
+          "/wiki/CDF_Player"
+        ]
+      ]
+    ],
+    [
+      [
+        "Creole",
+        [
+          "/wiki/Creole_(markup)"
+        ]
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "2007",
+        []
+      ],
+      [
+        "Text editor",
+        [
+          "/wiki/Text_editor"
+        ]
+      ],
+      [
+        "Output to HTML , RTF , LaTeX , others ; renderers for MFC , others",
+        [
+          "/wiki/HTML",
+          "/wiki/Rich_Text_Format",
+          "/wiki/LaTeX",
+          "/wiki/Microsoft_Foundation_Class_Library"
+        ]
+      ]
+    ],
+    [
+      [
+        "Darwin Information Typing Architecture ( DITA )",
+        [
+          "/wiki/Darwin_Information_Typing_Architecture"
+        ]
+      ],
+      [
+        "IBM , OASIS",
+        [
+          "/wiki/OASIS_(organization)"
+        ]
+      ],
+      [
+        "2005",
+        []
+      ],
+      [
+        "Text / XML editor",
+        [
+          "/wiki/Text_editor",
+          "/wiki/XML_editor"
+        ]
+      ],
+      [
+        "Output to HTML , PDF , CHM , javadoc , others",
+        [
+          "/wiki/HTML",
+          "/wiki/Portable_Document_Format",
+          "/wiki/Microsoft_Compiled_HTML_Help",
+          "/wiki/Javadoc"
+        ]
+      ]
+    ],
+    [
+      [
+        "DocBook",
+        [
+          "/wiki/DocBook"
+        ]
+      ],
+      [
+        "The Davenport Group , OASIS",
+        [
+          "/wiki/OASIS_(organization)"
+        ]
+      ],
+      [
+        "1992",
+        []
+      ],
+      [
+        "XML editor",
+        [
+          "/wiki/XML_editor"
+        ]
+      ],
+      [
+        "Output to HTML , PDF , CHM , javadoc , others",
+        [
+          "/wiki/HTML",
+          "/wiki/Portable_Document_Format",
+          "/wiki/Microsoft_Compiled_HTML_Help",
+          "/wiki/Javadoc"
+        ]
+      ]
+    ],
+    [
+      [
+        "Encoded Archival Description ( EAD )",
+        [
+          "/wiki/Encoded_Archival_Description"
+        ]
+      ],
+      [
+        "Berkeley Project",
+        []
+      ],
+      [
+        "1998",
+        []
+      ],
+      [
+        "Text editor",
+        [
+          "/wiki/Text_editor"
+        ]
+      ],
+      [
+        "Web browser",
+        [
+          "/wiki/Web_browser"
+        ]
+      ]
+    ],
+    [
+      [
+        "Extensible HyperText Markup Language ( XHTML )",
+        [
+          "/wiki/XHTML"
+        ]
+      ],
+      [
+        "W3C",
+        [
+          "/wiki/W3C"
+        ]
+      ],
+      [
+        "2000 ( January 26 )",
+        []
+      ],
+      [
+        "Text / XML editor , HTML editor",
+        [
+          "/wiki/Text_editor",
+          "/wiki/XML_editor",
+          "/wiki/HTML_editor"
+        ]
+      ],
+      [
+        "Web browser",
+        [
+          "/wiki/Web_browser"
+        ]
+      ]
+    ],
+    [
+      [
+        "HyperText Markup Language ( HTML )",
+        [
+          "/wiki/HTML"
+        ]
+      ],
+      [
+        "Tim Berners-Lee",
+        [
+          "/wiki/Tim_Berners-Lee"
+        ]
+      ],
+      [
+        "1993",
+        []
+      ],
+      [
+        "Text editor , HTML editor",
+        [
+          "/wiki/Text_editor",
+          "/wiki/HTML_editor"
+        ]
+      ],
+      [
+        "Web browser",
+        [
+          "/wiki/Web_browser"
+        ]
+      ]
+    ],
+    [
+      [
+        "LilyPond",
+        [
+          "/wiki/GNU_LilyPond"
+        ]
+      ],
+      [
+        "Han-Wen Nienhuys , Jan Nieuwenhuizen",
+        [
+          "/wiki/Han-Wen_Nienhuys",
+          "/wiki/Jan_Nieuwenhuizen"
+        ]
+      ],
+      [
+        "1996",
+        []
+      ],
+      [
+        "Text editor , Scorewriter",
+        [
+          "/wiki/Text_editor",
+          "/wiki/Scorewriter"
+        ]
+      ],
+      [
+        "Output to DVI , PDF , PostScript , PNG , others",
+        [
+          "/wiki/DVI_file_format",
+          "/wiki/Portable_Document_Format",
+          "/wiki/PostScript",
+          "/wiki/Portable_Network_Graphics"
+        ]
+      ]
+    ],
+    [
+      [
+        "Maker Interchange Format ( MIF )",
+        [
+          "/wiki/Maker_Interchange_Format"
+        ]
+      ],
+      [
+        "Frame Technology acquired by Adobe Systems in 1995",
+        [
+          "/wiki/Adobe_FrameMaker",
+          "/wiki/Adobe_Systems"
+        ]
+      ],
+      [
+        "1986",
+        []
+      ],
+      [
+        "Text editor , FrameMaker",
+        [
+          "/wiki/Text_editor",
+          "/wiki/FrameMaker"
+        ]
+      ],
+      [
+        "FrameMaker",
+        [
+          "/wiki/FrameMaker"
+        ]
+      ]
+    ],
+    [
+      [
+        "MakeDoc",
+        [
+          "/wiki/MakeDoc"
+        ]
+      ],
+      [
+        "Carl Sassenrath",
+        [
+          "/wiki/Carl_Sassenrath"
+        ]
+      ],
+      [
+        "2000",
+        []
+      ],
+      [
+        "Text editor",
+        [
+          "/wiki/Text_editor"
+        ]
+      ],
+      [
+        "Web browser ( XHTML or HTML output )",
+        [
+          "/wiki/Web_browser",
+          "/wiki/XHTML",
+          "/wiki/HTML"
+        ]
+      ]
+    ],
+    [
+      [
+        "Markdown",
+        [
+          "/wiki/Markdown"
+        ]
+      ],
+      [
+        "John Gruber and Aaron Swartz",
+        [
+          "/wiki/John_Gruber",
+          "/wiki/Aaron_Swartz"
+        ]
+      ],
+      [
+        "2004",
+        []
+      ],
+      [
+        "Text editor , E-mail client",
+        [
+          "/wiki/Text_editor",
+          "/wiki/E-mail_client"
+        ]
+      ],
+      [
+        "Web browser ( XHTML or HTML output ) , preview in gedit-markdown-plugin",
+        [
+          "/wiki/Web_browser",
+          "/wiki/XHTML",
+          "/wiki/HTML"
+        ]
+      ]
+    ],
+    [
+      [
+        "Textile",
+        [
+          "/wiki/Textile_(markup_language)"
+        ]
+      ],
+      [
+        "Dean Allen",
+        []
+      ],
+      [
+        "2002",
+        []
+      ],
+      [
+        "Text editor",
+        [
+          "/wiki/Text_editor"
+        ]
+      ],
+      [
+        "Web browser ( XHTML or HTML output ) , reference and tester ( uses latest PHP-Textile version 3.5.5 )",
+        [
+          "/wiki/Web_browser",
+          "/wiki/XHTML",
+          "/wiki/HTML"
+        ]
+      ]
+    ],
+    [
+      [
+        "Math Markup Language ( MathML )",
+        [
+          "/wiki/MathML"
+        ]
+      ],
+      [
+        "W3C",
+        [
+          "/wiki/W3C"
+        ]
+      ],
+      [
+        "1999 ( July )",
+        []
+      ],
+      [
+        "Text / XML editor , TeX converter",
+        [
+          "/wiki/Text_editor",
+          "/wiki/XML_editor",
+          "/wiki/TeX"
+        ]
+      ],
+      [
+        "Web browser , Word processor",
+        [
+          "/wiki/Web_browser",
+          "/wiki/Word_processor"
+        ]
+      ]
+    ],
+    [
+      [
+        "The Music Encoding Initiative ( MEI )",
+        [
+          "/wiki/Music_Encoding_Initiative"
+        ]
+      ],
+      [
+        "The MEI Community",
+        []
+      ],
+      [
+        "1999",
+        []
+      ],
+      [
+        "XML editor",
+        [
+          "/wiki/XML_editor"
+        ]
+      ],
+      [
+        "Verovio",
+        []
+      ]
+    ],
+    [
+      [
+        "Music Extensible Markup Language ( MusicXML )",
+        [
+          "/wiki/MusicXML"
+        ]
+      ],
+      [
+        "Recordare",
+        []
+      ],
+      [
+        "2002",
+        []
+      ],
+      [
+        "Scorewriter",
+        [
+          "/wiki/Scorewriter"
+        ]
+      ],
+      [
+        "Scorewriter",
+        [
+          "/wiki/Scorewriter"
+        ]
+      ]
+    ],
+    [
+      [
+        "Office Open XML ( OOXML )",
+        [
+          "/wiki/Office_Open_XML"
+        ]
+      ],
+      [
+        "Ecma International , ISO / IEC",
+        [
+          "/wiki/Ecma_International",
+          "/wiki/International_Organisation_for_Standardisation",
+          "/wiki/International_Electrotechnical_Commission"
+        ]
+      ],
+      [
+        "2006",
+        []
+      ],
+      [
+        "Office suite",
+        [
+          "/wiki/Office_suite"
+        ]
+      ],
+      [
+        "Office suite",
+        [
+          "/wiki/Office_suite"
+        ]
+      ]
+    ],
+    [
+      [
+        "OpenDocument Format ( ODF )",
+        [
+          "/wiki/OpenDocument"
+        ]
+      ],
+      [
+        "OASIS , ISO / IEC",
+        [
+          "/wiki/OASIS_(organization)",
+          "/wiki/International_Organisation_for_Standardisation",
+          "/wiki/International_Electrotechnical_Commission"
+        ]
+      ],
+      [
+        "2005",
+        []
+      ],
+      [
+        "Office suite",
+        [
+          "/wiki/Office_suite"
+        ]
+      ],
+      [
+        "Office suite",
+        [
+          "/wiki/Office_suite"
+        ]
+      ]
+    ],
+    [
+      [
+        "Open Mathematical Documents ( OMDoc )",
+        [
+          "/wiki/OMDoc"
+        ]
+      ],
+      [
+        "Michael Kohlhase",
+        [
+          "/wiki/Michael_Kohlhase"
+        ]
+      ],
+      [
+        "2000",
+        []
+      ],
+      [
+        "Text / XML editor",
+        [
+          "/wiki/Text_editor",
+          "/wiki/XML_editor"
+        ]
+      ],
+      [
+        "Output to XHTML + MathML , TeX , others",
+        [
+          "/wiki/XHTML",
+          "/wiki/MathML",
+          "/wiki/TeX"
+        ]
+      ]
+    ],
+    [
+      [
+        "Org-mode",
+        [
+          "/wiki/Org-mode"
+        ]
+      ],
+      [
+        "Org-mode project",
+        []
+      ],
+      [
+        "2003",
+        []
+      ],
+      [
+        "Emacs , text editor",
+        [
+          "/wiki/Emacs"
+        ]
+      ],
+      [
+        "Emacs . Output to HTML , PDF , DocBook , FreeMind , OpenDocument Format ( ODF ) , others",
+        [
+          "/wiki/Emacs",
+          "/wiki/HTML",
+          "/wiki/Portable_Document_Format",
+          "/wiki/DocBook",
+          "/wiki/FreeMind",
+          "/wiki/OpenDocument"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "General information",
+  "section_text": "Basic general information about the markup languages : creator , version , etc",
+  "uid": "Comparison_of_document_markup_languages_0"
+}

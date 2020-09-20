@@ -1,0 +1,536 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_assemblers",
+  "title": "Comparison of assemblers",
+  "header": [
+    [
+      "Assembler",
+      []
+    ],
+    [
+      "License",
+      [
+        "/wiki/Software_license"
+      ]
+    ],
+    [
+      "Instruction set",
+      [
+        "/wiki/Instruction_set"
+      ]
+    ],
+    [
+      "Host platform",
+      [
+        "/wiki/Computing_platform"
+      ]
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Assembly Language for Multics ( ALM )",
+        [
+          "/wiki/Multics"
+        ]
+      ],
+      [
+        "MIT",
+        [
+          "/wiki/MIT_License"
+        ]
+      ],
+      [
+        "GE-645 Honeywell 6180",
+        [
+          "/wiki/GE-645",
+          "/wiki/Honeywell_6180"
+        ]
+      ],
+      [
+        "GE-645 Honeywell 6180",
+        [
+          "/wiki/GE-645",
+          "/wiki/Honeywell_6180"
+        ]
+      ]
+    ],
+    [
+      [
+        "The Macroassembler AS",
+        []
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "29xxx , AVR , 65816 , ACE , F2MC-8L , F2MC-16L , HMCS400 , 6301 , 6309 , H8/300 ( H ) , H8/500 , SH7000 / SH7600 / SH7700 , HuC6280 , PPC403GA , 4004/4040 , 8008 , MCS-48 , MCS-41 , MCS-51 , MCS-251 , MCS-96/196/296 , 8080/8085 , 8086 / 80186 , i960 , CDP1802 ( A ) /1804 ( A ) /1805 ( A ) , LatticeMico8 , PIC 16C5x , PIC 16C8x , PIC 17C42 , MELPS-740 , MELPS-7700 , MELPS-4500 , M16 , M16C , 68000 ( up to 68040 ) , ColdFire , DSP56000 , DSP56300 , PowerPC 601/505 , M-Core , 6800 , 68HC11 ( K4 ) , 6805 , 68HC ( S ) 08 , 6809 , 68HC12 incl . XGATE , 68HC16 , 68RS08 , SC/MP , INS807x , COP4 , COP8 , SC14xxx , \u00b5pD7720/7725 , \u00b5pD77230 , \u00b5pD78C1x , 75K0 , 78K0 , 78K2 , 78K3 , 78K4 , V30/35 , OLMS-40 , OLMS-50 , XA , 6502 , ( W ) 65 ( S ) C02 , 65C19 , 80C382 , 80C166/167 , 2650 , 8X30x , ST6 , ST7 , ST9 , 6804 , SYM53C8xx , TMS3201x , TMS320C2x , TMS320C20x , TMS320C3x , TMS320C4x , TMS320C5x , TMS320C54x , TMS320C6x , TMS7000 , TMS9900 , TMS370xxx , MSP430 ( X ) , TLCS-900 , TLCS-90 , TLCS-870 , TLCS-47 , TLCS-9000 , TC9331 , KCPSM/KCPSM3 ( 'PicoBlaze ' ) , Z80 , Z180 , Z380 , Z8 , eZ8 , MIL STD 1750",
+        [
+          "/wiki/AVR_microcontrollers",
+          "/wiki/Intel_MCS-51",
+          "/wiki/Intel_8086",
+          "/wiki/Intel_80186",
+          "/wiki/Motorola_68000_series",
+          "/wiki/Motorola_6800",
+          "/wiki/MOS_Technology_6502",
+          "/wiki/Zilog_Z80"
+        ]
+      ],
+      [
+        "Win32 , DOS/DPMI , DOS ( no longer maintained ) , OS/2 ( no longer maintained ) , Linux",
+        [
+          "/wiki/Win32",
+          "/wiki/Linux"
+        ]
+      ]
+    ],
+    [
+      [
+        "Babbage",
+        [
+          "/wiki/Babbage_(programming_language)"
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        "GEC 4000 series",
+        [
+          "/wiki/GEC_4000_series"
+        ]
+      ],
+      [
+        "GEC 4000 series",
+        [
+          "/wiki/GEC_4000_series"
+        ]
+      ]
+    ],
+    [
+      [
+        "COMPASS",
+        [
+          "/wiki/COMPASS"
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        "CDC mainframe",
+        [
+          "/wiki/Control_Data_Corporation"
+        ]
+      ],
+      [
+        "CDC mainframe",
+        [
+          "/wiki/Control_Data_Corporation"
+        ]
+      ]
+    ],
+    [
+      [
+        "MACRO-10",
+        [
+          "/wiki/MACRO-10"
+        ]
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "PDP-10",
+        [
+          "/wiki/PDP-10"
+        ]
+      ],
+      [
+        "PDP-10",
+        [
+          "/wiki/PDP-10"
+        ]
+      ]
+    ],
+    [
+      [
+        "MACRO-11",
+        [
+          "/wiki/MACRO-11"
+        ]
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "PDP-11",
+        [
+          "/wiki/PDP-11"
+        ]
+      ],
+      [
+        "PDP-11",
+        [
+          "/wiki/PDP-11"
+        ]
+      ]
+    ],
+    [
+      [
+        "vasm",
+        [
+          "/wiki/Vasm"
+        ]
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "Zilog Z80 , Motorola 6800 family",
+        [
+          "/wiki/Zilog_Z80",
+          "/wiki/Motorola_6800_family"
+        ]
+      ],
+      [
+        "various",
+        []
+      ]
+    ],
+    [
+      [
+        "GPASM",
+        [
+          "/wiki/GPUTILS"
+        ]
+      ],
+      [
+        "GNU GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ],
+      [
+        "PIC microcontroller",
+        [
+          "/wiki/PIC_microcontroller"
+        ]
+      ],
+      [
+        "many",
+        []
+      ]
+    ],
+    [
+      [
+        "MIPS",
+        [
+          "/wiki/MIPS_architecture"
+        ]
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "MIPS",
+        [
+          "/wiki/MIPS_architecture"
+        ]
+      ],
+      [
+        "MIPS",
+        [
+          "/wiki/MIPS_architecture"
+        ]
+      ]
+    ],
+    [
+      [
+        "Symbolic Optimal Assembly Program ( SOAP )",
+        [
+          "/wiki/Symbolic_Optimal_Assembly_Program"
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        "IBM 650",
+        [
+          "/wiki/IBM_650"
+        ]
+      ],
+      [
+        "IBM 650",
+        [
+          "/wiki/IBM_650"
+        ]
+      ]
+    ],
+    [
+      [
+        "Technical Assembly System ( TASS )",
+        []
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "IBM 650",
+        [
+          "/wiki/IBM_650"
+        ]
+      ],
+      [
+        "IBM 650",
+        [
+          "/wiki/IBM_650"
+        ]
+      ]
+    ],
+    [
+      [
+        "Autocoder",
+        [
+          "/wiki/Autocoder"
+        ]
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "IBM 705 , 14xx , 1410 , 7010 , 7070 , 7072 , 7074 , 7080",
+        [
+          "/wiki/IBM_700/7000_series",
+          "/wiki/IBM_1401",
+          "/wiki/IBM_1410",
+          "/wiki/IBM_7010",
+          "/wiki/IBM_7070",
+          "/wiki/IBM_7072",
+          "/wiki/IBM_7074",
+          "/wiki/IBM_7080"
+        ]
+      ],
+      [
+        "various",
+        []
+      ]
+    ],
+    [
+      [
+        "Fortran Assembly Program ( FAP )",
+        [
+          "/wiki/FORTRAN_Assembly_Program"
+        ]
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "IBM 709 , 704x , 709x",
+        [
+          "/wiki/IBM_709",
+          "/wiki/IBM_7040",
+          "/wiki/IBM_7090"
+        ]
+      ],
+      [
+        "Fortran Monitor System , IBSYS",
+        [
+          "/wiki/History_of_IBM_mainframe_operating_systems",
+          "/wiki/IBM_7090/94_IBSYS"
+        ]
+      ]
+    ],
+    [
+      [
+        "GCOS Macro Assembly Program ( GMAP )",
+        []
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "GE-600 series , Honeywell 6000 series",
+        [
+          "/wiki/GE-600_series",
+          "/wiki/Honeywell_6000_series"
+        ]
+      ],
+      [
+        "GCOS",
+        [
+          "/wiki/General_Comprehensive_Operating_System"
+        ]
+      ]
+    ],
+    [
+      [
+        "Macro Assembly Program ( MAP )",
+        [
+          "/wiki/IBM_7090/94_IBSYS"
+        ]
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "IBM 709 , 704x , 709x",
+        [
+          "/wiki/IBM_709",
+          "/wiki/IBM_7040",
+          "/wiki/IBM_7090"
+        ]
+      ],
+      [
+        "IBSYS /IBJOB on 709 , 704x , 709x",
+        [
+          "/wiki/IBM_7090/94_IBSYS"
+        ]
+      ]
+    ],
+    [
+      [
+        "Meta-Symbol",
+        []
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "SDS Sigma series",
+        [
+          "/wiki/SDS_Sigma_series"
+        ]
+      ],
+      [
+        "BTM , UTS , CP-V",
+        [
+          "/wiki/Universal_Time-Sharing_System",
+          "/wiki/Universal_Time-Sharing_System"
+        ]
+      ]
+    ],
+    [
+      [
+        "Symbolic Assembly Program ( SAP )",
+        [
+          "/wiki/Symbolic_Assembly_Program"
+        ]
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "IBM 704",
+        [
+          "/wiki/IBM_704"
+        ]
+      ],
+      [
+        "IBM 704",
+        [
+          "/wiki/IBM_704"
+        ]
+      ]
+    ],
+    [
+      [
+        "Symbolic Programming System ( SPS )",
+        [
+          "/wiki/Symbolic_Programming_System"
+        ]
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "IBM 14xx , 1620 , 1710",
+        [
+          "/wiki/IBM_1401",
+          "/wiki/IBM_1620",
+          "/wiki/IBM_1710"
+        ]
+      ],
+      [
+        "IBM 1401 , 1440 , 1460 , 1620 , 1710",
+        []
+      ]
+    ],
+    [
+      [
+        "ASMB , ASBL , NSBL - Numeric op codes , used for 1900 Operating System Executive",
+        []
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        "ICL 1900",
+        [
+          "/wiki/ICL_1900"
+        ]
+      ],
+      [
+        "ICL 1900",
+        [
+          "/wiki/ICL_1900"
+        ]
+      ]
+    ],
+    [
+      [
+        "GINerator mnemonic opcodes , used for GEORGE ( operating system )",
+        [
+          "/wiki/GEORGE_(operating_system)"
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        "ICL 1900",
+        [
+          "/wiki/ICL_1900"
+        ]
+      ],
+      [
+        "ICL 1900",
+        [
+          "/wiki/ICL_1900"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "Other",
+  "section_text": "",
+  "uid": "Comparison_of_assemblers_7"
+}

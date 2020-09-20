@@ -1,0 +1,539 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Hilbert's_problems",
+  "title": "Hilbert's problems",
+  "header": [
+    [
+      "Problem",
+      []
+    ],
+    [
+      "Brief explanation",
+      []
+    ],
+    [
+      "Status",
+      []
+    ],
+    [
+      "Year Solved",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "1st",
+        [
+          "/wiki/Hilbert's_first_problem"
+        ]
+      ],
+      [
+        "The continuum hypothesis ( that is , there is no set whose cardinality is strictly between that of the integers and that of the real numbers )",
+        [
+          "/wiki/Continuum_hypothesis",
+          "/wiki/Set_(mathematics)",
+          "/wiki/Cardinality",
+          "/wiki/Integer",
+          "/wiki/Real_number"
+        ]
+      ],
+      [
+        "Proven to be impossible to prove or disprove within Zermelo-Fraenkel set theory with or without the Axiom of Choice ( provided Zermelo-Fraenkel set theory is consistent , i.e. , it does not contain a contradiction ) . There is no consensus on whether this is a solution to the problem",
+        [
+          "/wiki/Zermelo\u2013Fraenkel_set_theory",
+          "/wiki/Axiom_of_Choice",
+          "/wiki/Zermelo\u2013Fraenkel_set_theory",
+          "/wiki/Consistency"
+        ]
+      ],
+      [
+        "1940 , 1963",
+        []
+      ]
+    ],
+    [
+      [
+        "2nd",
+        [
+          "/wiki/Hilbert's_second_problem"
+        ]
+      ],
+      [
+        "Prove that the axioms of arithmetic are consistent",
+        [
+          "/wiki/Axiom",
+          "/wiki/Arithmetic",
+          "/wiki/Consistency"
+        ]
+      ],
+      [
+        "There is no consensus on whether results of G\u00f6del and Gentzen give a solution to the problem as stated by Hilbert . G\u00f6del 's second incompleteness theorem , proved in 1931 , shows that no proof of its consistency can be carried out within arithmetic itself . Gentzen proved in 1936 that the consistency of arithmetic follows from the well-foundedness of the ordinal \u03b5 \u2080",
+        [
+          "/wiki/Kurt_G\u00f6del",
+          "/wiki/Gerhard_Gentzen",
+          "/wiki/G\u00f6del's_incompleteness_theorems",
+          "/wiki/Well-founded_relation",
+          "/wiki/Epsilon_numbers_(mathematics)"
+        ]
+      ],
+      [
+        "1931 , 1936",
+        []
+      ]
+    ],
+    [
+      [
+        "3rd",
+        [
+          "/wiki/Hilbert's_third_problem"
+        ]
+      ],
+      [
+        "Given any two polyhedra of equal volume , is it always possible to cut the first into finitely many polyhedral pieces that can be reassembled to yield the second ?",
+        [
+          "/wiki/Polyhedron"
+        ]
+      ],
+      [
+        "Resolved . Result : No , proved using Dehn invariants",
+        [
+          "/wiki/Dehn_invariant"
+        ]
+      ],
+      [
+        "1900",
+        []
+      ]
+    ],
+    [
+      [
+        "4th",
+        [
+          "/wiki/Hilbert's_fourth_problem"
+        ]
+      ],
+      [
+        "Construct all metrics where lines are geodesics",
+        [
+          "/wiki/Metric_space",
+          "/wiki/Geodesic"
+        ]
+      ],
+      [
+        "Too vague to be stated resolved or not",
+        []
+      ],
+      [
+        "-",
+        []
+      ]
+    ],
+    [
+      [
+        "5th",
+        [
+          "/wiki/Hilbert's_fifth_problem"
+        ]
+      ],
+      [
+        "Are continuous groups automatically differential groups ?",
+        [
+          "/wiki/Group_(mathematics)",
+          "/wiki/Lie_group"
+        ]
+      ],
+      [
+        "Resolved by Andrew Gleason , depending on how the original statement is interpreted . If , however , it is understood as an equivalent of the Hilbert-Smith conjecture , it is still unsolved",
+        [
+          "/wiki/Andrew_Gleason",
+          "/wiki/Hilbert\u2013Smith_conjecture"
+        ]
+      ],
+      [
+        "1953 ?",
+        []
+      ]
+    ],
+    [
+      [
+        "6th",
+        [
+          "/wiki/Hilbert's_sixth_problem"
+        ]
+      ],
+      [
+        "Mathematical treatment of the axioms of physics ( a ) axiomatic treatment of probability with limit theorems for foundation of statistical physics ( b ) the rigorous theory of limiting processes which lead from the atomistic view to the laws of motion of continua",
+        [
+          "/wiki/Axiom",
+          "/wiki/Physics",
+          "/wiki/Statistical_physics"
+        ]
+      ],
+      [
+        "Partially resolved depending on how the original statement is interpreted . Items ( a ) and ( b ) were two specific problems given by Hilbert in a later explanation . Kolmogorov 's axiomatics ( 1933 ) is now accepted as standard . There is some success on the way from the atomistic view to the laws of motion of continua",
+        [
+          "/wiki/Probability_axioms"
+        ]
+      ],
+      [
+        "1933-2002 ?",
+        []
+      ]
+    ],
+    [
+      [
+        "7th",
+        [
+          "/wiki/Hilbert's_seventh_problem"
+        ]
+      ],
+      [
+        "Is a transcendental , for algebraic a \u2260 0,1 and irrational algebraic b ?",
+        [
+          "/wiki/Transcendental_number",
+          "/wiki/Algebraic_number",
+          "/wiki/Irrational_number"
+        ]
+      ],
+      [
+        "Resolved . Result : Yes , illustrated by Gelfond 's theorem or the Gelfond-Schneider theorem",
+        [
+          "/wiki/Gelfond's_theorem",
+          "/wiki/Gelfond\u2013Schneider_theorem"
+        ]
+      ],
+      [
+        "1934",
+        []
+      ]
+    ],
+    [
+      [
+        "8th",
+        [
+          "/wiki/Hilbert's_eighth_problem"
+        ]
+      ],
+      [
+        "The Riemann hypothesis ( the real part of any non- trivial zero of the Riemann zeta function is \u00bd ) and other prime number problems , among them Goldbach 's conjecture and the twin prime conjecture",
+        [
+          "/wiki/Riemann_hypothesis",
+          "/wiki/Trivial_(mathematics)",
+          "/wiki/Root_of_a_function",
+          "/wiki/Riemann_zeta_function",
+          "/wiki/Goldbach's_conjecture",
+          "/wiki/Twin_prime_conjecture"
+        ]
+      ],
+      [
+        "Unresolved",
+        []
+      ],
+      [
+        "-",
+        []
+      ]
+    ],
+    [
+      [
+        "9th",
+        [
+          "/wiki/Hilbert's_ninth_problem"
+        ]
+      ],
+      [
+        "Find the most general law of the reciprocity theorem in any algebraic number field",
+        [
+          "/wiki/Quadratic_reciprocity",
+          "/wiki/Algebra",
+          "/wiki/Number_field"
+        ]
+      ],
+      [
+        "Partially resolved",
+        []
+      ],
+      [
+        "-",
+        []
+      ]
+    ],
+    [
+      [
+        "10th",
+        [
+          "/wiki/Hilbert's_tenth_problem"
+        ]
+      ],
+      [
+        "Find an algorithm to determine whether a given polynomial Diophantine equation with integer coefficients has an integer solution",
+        [
+          "/wiki/Diophantine_equation"
+        ]
+      ],
+      [
+        "Resolved . Result : Impossible ; Matiyasevich 's theorem implies that there is no such algorithm",
+        [
+          "/wiki/Matiyasevich's_theorem"
+        ]
+      ],
+      [
+        "1970",
+        []
+      ]
+    ],
+    [
+      [
+        "11th",
+        [
+          "/wiki/Hilbert's_eleventh_problem"
+        ]
+      ],
+      [
+        "Solving quadratic forms with algebraic numerical coefficients",
+        [
+          "/wiki/Quadratic_form",
+          "/wiki/Coefficient"
+        ]
+      ],
+      [
+        "Partially resolved",
+        []
+      ],
+      [
+        "-",
+        []
+      ]
+    ],
+    [
+      [
+        "12th",
+        [
+          "/wiki/Hilbert's_twelfth_problem"
+        ]
+      ],
+      [
+        "Extend the Kronecker-Weber theorem on Abelian extensions of the rational numbers to any base number field",
+        [
+          "/wiki/Kronecker\u2013Weber_theorem",
+          "/wiki/Rational_number"
+        ]
+      ],
+      [
+        "Unresolved",
+        []
+      ],
+      [
+        "-",
+        []
+      ]
+    ],
+    [
+      [
+        "13th",
+        [
+          "/wiki/Hilbert's_thirteenth_problem"
+        ]
+      ],
+      [
+        "Solve 7th degree equation using algebraic ( variant : continuous ) functions of two parameters",
+        [
+          "/wiki/Septic_equation",
+          "/wiki/Mathematical_function",
+          "/wiki/Parameter"
+        ]
+      ],
+      [
+        "Unresolved . The continuous variant of this problem was solved by Vladimir Arnold in 1957 based on work by Andrei Kolmogorov , but the algebraic variant is unresolved",
+        [
+          "/wiki/Vladimir_Arnold",
+          "/wiki/Andrei_Kolmogorov"
+        ]
+      ],
+      [
+        "-",
+        []
+      ]
+    ],
+    [
+      [
+        "14th",
+        [
+          "/wiki/Hilbert's_fourteenth_problem"
+        ]
+      ],
+      [
+        "Is the ring of invariants of an algebraic group acting on a polynomial ring always finitely generated ?",
+        [
+          "/wiki/Invariant_theory",
+          "/wiki/Algebraic_group",
+          "/wiki/Polynomial_ring",
+          "/wiki/Finitely_generated_algebra"
+        ]
+      ],
+      [
+        "Resolved . Result : No , a counterexample was constructed by Masayoshi Nagata",
+        [
+          "/wiki/Masayoshi_Nagata"
+        ]
+      ],
+      [
+        "1959",
+        []
+      ]
+    ],
+    [
+      [
+        "15th",
+        [
+          "/wiki/Hilbert's_fifteenth_problem"
+        ]
+      ],
+      [
+        "Rigorous foundation of Schubert 's enumerative calculus",
+        [
+          "/wiki/Schubert's_enumerative_calculus"
+        ]
+      ],
+      [
+        "Partially resolved",
+        []
+      ],
+      [
+        "-",
+        []
+      ]
+    ],
+    [
+      [
+        "16th",
+        [
+          "/wiki/Hilbert's_sixteenth_problem"
+        ]
+      ],
+      [
+        "Describe relative positions of ovals originating from a real algebraic curve and as limit cycles of a polynomial vector field on the plane",
+        [
+          "/wiki/Real_numbers",
+          "/wiki/Algebraic_curve",
+          "/wiki/Limit_cycle",
+          "/wiki/Vector_field"
+        ]
+      ],
+      [
+        "Unresolved , even for algebraic curves of degree 8",
+        []
+      ],
+      [
+        "-",
+        []
+      ]
+    ],
+    [
+      [
+        "17th",
+        [
+          "/wiki/Hilbert's_seventeenth_problem"
+        ]
+      ],
+      [
+        "Express a nonnegative rational function as quotient of sums of squares",
+        [
+          "/wiki/Rational_function",
+          "/wiki/Quotient",
+          "/wiki/Square_(algebra)"
+        ]
+      ],
+      [
+        "Resolved . Result : Yes , due to Emil Artin . Moreover , an upper limit was established for the number of square terms necessary",
+        [
+          "/wiki/Emil_Artin"
+        ]
+      ],
+      [
+        "1927",
+        []
+      ]
+    ],
+    [
+      [
+        "18th",
+        [
+          "/wiki/Hilbert's_eighteenth_problem"
+        ]
+      ],
+      [
+        "( a ) Is there a polyhedron that admits only an anisohedral tiling in three dimensions ? ( b ) What is the densest sphere packing ?",
+        [
+          "/wiki/Anisohedral_tiling",
+          "/wiki/Sphere_packing"
+        ]
+      ],
+      [
+        "( a ) Resolved . Result : Yes ( by Karl Reinhardt ) . ( b ) Widely believed to be resolved , by computer-assisted proof ( by Thomas Callister Hales ) . Result : Highest density achieved by close packings , each with density approximately 74 % , such as face-centered cubic close packing and hexagonal close packing",
+        [
+          "/wiki/Karl_Reinhardt_(mathematician)",
+          "/wiki/Computer-assisted_proof",
+          "/wiki/Thomas_Callister_Hales",
+          "/wiki/Close-packing_of_equal_spheres"
+        ]
+      ],
+      [
+        "( a ) 1928 ( b ) 1998",
+        []
+      ]
+    ],
+    [
+      [
+        "19th",
+        [
+          "/wiki/Hilbert's_nineteenth_problem"
+        ]
+      ],
+      [
+        "Are the solutions of regular problems in the calculus of variations always necessarily analytic ?",
+        [
+          "/wiki/Calculus_of_variations",
+          "/wiki/Analytic_function"
+        ]
+      ],
+      [
+        "Resolved . Result : Yes , proven by Ennio de Giorgi and , independently and using different methods , by John Forbes Nash",
+        [
+          "/wiki/Ennio_de_Giorgi",
+          "/wiki/John_Forbes_Nash"
+        ]
+      ],
+      [
+        "1957",
+        []
+      ]
+    ],
+    [
+      [
+        "20th",
+        [
+          "/wiki/Hilbert's_twentieth_problem"
+        ]
+      ],
+      [
+        "Do all variational problems with certain boundary conditions have solutions ?",
+        [
+          "/wiki/Calculus_of_variations",
+          "/wiki/Boundary_condition"
+        ]
+      ],
+      [
+        "Resolved . A significant topic of research throughout the 20th century , culminating in solutions for the non-linear case",
+        []
+      ],
+      [
+        "?",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Table of problems",
+  "section_text": "",
+  "uid": "Hilbert's_problems_0"
+}

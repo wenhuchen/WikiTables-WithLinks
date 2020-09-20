@@ -1,0 +1,213 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_augmented_browsing_software",
+  "title": "List of augmented browsing software",
+  "header": [
+    [
+      "Name",
+      []
+    ],
+    [
+      "Form",
+      []
+    ],
+    [
+      "Features",
+      []
+    ],
+    [
+      "Last Updated",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Bookmarklets",
+        [
+          "/wiki/Bookmarklets"
+        ]
+      ],
+      [
+        "JavaScript",
+        []
+      ],
+      [
+        "Can execute arbitrary JavaScript on any page , but requires a user to click them , rather than running automatically",
+        []
+      ],
+      [
+        "Always working",
+        []
+      ]
+    ],
+    [
+      [
+        "Firebug",
+        [
+          "/wiki/Firebug_(Firefox_extension)"
+        ]
+      ],
+      [
+        "Firefox extension for developers",
+        []
+      ],
+      [
+        "Allows arbitrary real time changes to a page 's DOM",
+        []
+      ],
+      [
+        "2017",
+        []
+      ]
+    ],
+    [
+      [
+        "Grammarly",
+        [
+          "/wiki/Grammarly"
+        ]
+      ],
+      [
+        "Browser extension",
+        []
+      ],
+      [
+        "Grammar , plagiarism and spell checker which can retrieve definitions and synonyms for marked words",
+        []
+      ],
+      [
+        "2017",
+        []
+      ]
+    ],
+    [
+      [
+        "Greasekit",
+        [
+          "/wiki/Greasekit"
+        ]
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Provides userscripting for Safari ( WebKit )",
+        []
+      ],
+      [
+        "2008",
+        []
+      ]
+    ],
+    [
+      [
+        "Greasemonkey",
+        [
+          "/wiki/Greasemonkey"
+        ]
+      ],
+      [
+        "Firefox extension",
+        []
+      ],
+      [
+        "Alters the output of web content immediately after being displayed",
+        []
+      ],
+      [
+        "2017",
+        []
+      ]
+    ],
+    [
+      [
+        "iMacros",
+        [
+          "/wiki/IMacros"
+        ]
+      ],
+      [
+        "Firefox , Chrome and Internet Explorer extension",
+        []
+      ],
+      [
+        "Allows the user to record and replay Internet Macros for web automation , web scraping or web testing",
+        [
+          "/wiki/Web_scraping"
+        ]
+      ],
+      [
+        "2016",
+        []
+      ]
+    ],
+    [
+      [
+        "Proxomitron",
+        [
+          "/wiki/Proxomitron"
+        ]
+      ],
+      [
+        "Proxy-level language",
+        []
+      ],
+      [
+        "Available since late 1990s , predates JavaScript active browsing and provides a similar function for all browsers using a regular expression -like matching language",
+        [
+          "/wiki/Regular_expression"
+        ]
+      ],
+      [
+        "2003",
+        []
+      ]
+    ],
+    [
+      [
+        "Stylish",
+        [
+          "/wiki/Stylish"
+        ]
+      ],
+      [
+        "Firefox extension using Cascading Style Sheets",
+        [
+          "/wiki/Cascading_Style_Sheets"
+        ]
+      ],
+      [
+        "Client-side manipulation of webpage content",
+        []
+      ],
+      [
+        "2017",
+        []
+      ]
+    ],
+    [
+      [
+        "Tampermonkey",
+        [
+          "/wiki/Tampermonkey"
+        ]
+      ],
+      [
+        "Chrome , Microsoft Edge , Safari , Opera Next , and Firefox extension",
+        []
+      ],
+      [
+        "Userscripts manager that provides features like a clear overview over the running scripts , a built-in editor , ZIP-based import and export , automatic update checks and browser and cloud storage based synchronization",
+        []
+      ],
+      [
+        "2019",
+        []
+      ]
+    ]
+  ],
+  "section_title": "",
+  "section_text": "Main article : Augmented browsing",
+  "uid": "List_of_augmented_browsing_software_0"
+}

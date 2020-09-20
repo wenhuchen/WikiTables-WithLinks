@@ -1,0 +1,483 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Timeline_of_programming_languages",
+  "title": "Timeline of programming languages",
+  "header": [
+    [
+      "Year",
+      []
+    ],
+    [
+      "Name",
+      []
+    ],
+    [
+      "Chief developer , company",
+      []
+    ],
+    [
+      "Predecessor ( s )",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "1980",
+        []
+      ],
+      [
+        "Ada 80 ( MIL-STD-1815 )",
+        [
+          "/wiki/Ada_(programming_language)"
+        ]
+      ],
+      [
+        "Jean Ichbiah at CII Honeywell Bull",
+        [
+          "/wiki/Jean_Ichbiah",
+          "/wiki/Groupe_Bull"
+        ]
+      ],
+      [
+        "Green",
+        []
+      ]
+    ],
+    [
+      [
+        "1980",
+        []
+      ],
+      [
+        "C with classes",
+        [
+          "/wiki/C++"
+        ]
+      ],
+      [
+        "Bjarne Stroustrup",
+        [
+          "/wiki/Bjarne_Stroustrup"
+        ]
+      ],
+      [
+        "C , Simula 67",
+        []
+      ]
+    ],
+    [
+      [
+        "1980",
+        []
+      ],
+      [
+        "Applesoft III",
+        [
+          "/wiki/Applesoft_BASIC"
+        ]
+      ],
+      [
+        "Apple Computer",
+        [
+          "/wiki/Apple_Computer"
+        ]
+      ],
+      [
+        "Applesoft II BASIC",
+        []
+      ]
+    ],
+    [
+      [
+        "1980",
+        []
+      ],
+      [
+        "Apple III Microsoft BASIC",
+        [
+          "/wiki/Applesoft_BASIC"
+        ]
+      ],
+      [
+        "Microsoft",
+        []
+      ],
+      [
+        "Microsoft BASIC",
+        []
+      ]
+    ],
+    [
+      [
+        "1980-81",
+        []
+      ],
+      [
+        "CBASIC",
+        [
+          "/wiki/CBASIC"
+        ]
+      ],
+      [
+        "Gordon Eubanks",
+        [
+          "/wiki/Gordon_Eubanks"
+        ]
+      ],
+      [
+        "BASIC , Compiler Systems , Digital Research",
+        []
+      ]
+    ],
+    [
+      [
+        "1981",
+        []
+      ],
+      [
+        "BBC BASIC",
+        [
+          "/wiki/BBC_BASIC"
+        ]
+      ],
+      [
+        "Acorn Computers , Sophie Wilson",
+        [
+          "/wiki/Acorn_Computers",
+          "/wiki/Sophie_Wilson"
+        ]
+      ],
+      [
+        "BASIC",
+        []
+      ]
+    ],
+    [
+      [
+        "1981",
+        []
+      ],
+      [
+        "IBM BASICA",
+        [
+          "/wiki/IBM_BASICA"
+        ]
+      ],
+      [
+        "Microsoft",
+        [
+          "/wiki/Microsoft"
+        ]
+      ],
+      [
+        "BASIC",
+        []
+      ]
+    ],
+    [
+      [
+        "1982 ?",
+        []
+      ],
+      [
+        "Speakeasy-IV",
+        [
+          "/wiki/Speakeasy_(computational_environment)"
+        ]
+      ],
+      [
+        "Stanley Cohen , et al . at Speakeasy Computing Corporation",
+        []
+      ],
+      [
+        "Speakeasy-3",
+        []
+      ]
+    ],
+    [
+      [
+        "1982 ?",
+        []
+      ],
+      [
+        "Draco",
+        [
+          "/wiki/Draco_(programming_language)"
+        ]
+      ],
+      [
+        "Chris Gray",
+        []
+      ],
+      [
+        "Pascal , C , ALGOL 68",
+        [
+          "/wiki/Pascal_(programming_language)",
+          "/wiki/C_(programming_language)",
+          "/wiki/ALGOL_68"
+        ]
+      ]
+    ],
+    [
+      [
+        "1982",
+        []
+      ],
+      [
+        "PostScript",
+        [
+          "/wiki/PostScript"
+        ]
+      ],
+      [
+        "Warnock",
+        [
+          "/wiki/John_Warnock"
+        ]
+      ],
+      [
+        "InterPress",
+        [
+          "/wiki/InterPress"
+        ]
+      ]
+    ],
+    [
+      [
+        "1982",
+        []
+      ],
+      [
+        "Turing",
+        [
+          "/wiki/Turing_(programming_language)"
+        ]
+      ],
+      [
+        "Ric Holt and James Cordy , at University of Toronto",
+        [
+          "/wiki/Ric_Holt",
+          "/wiki/James_Cordy",
+          "/wiki/University_of_Toronto"
+        ]
+      ],
+      [
+        "Euclid",
+        [
+          "/wiki/Euclid_(programming_language)"
+        ]
+      ]
+    ],
+    [
+      [
+        "1983",
+        []
+      ],
+      [
+        "GW-BASIC",
+        [
+          "/wiki/GW-BASIC"
+        ]
+      ],
+      [
+        "Microsoft",
+        [
+          "/wiki/Microsoft"
+        ]
+      ],
+      [
+        "IBM BASICA",
+        [
+          "/wiki/IBM_BASICA"
+        ]
+      ]
+    ],
+    [
+      [
+        "1983",
+        []
+      ],
+      [
+        "Turbo Pascal",
+        [
+          "/wiki/Turbo_Pascal"
+        ]
+      ],
+      [
+        "Hejlsberg at Borland",
+        [
+          "/wiki/Anders_Hejlsberg",
+          "/wiki/Borland"
+        ]
+      ],
+      [
+        "Pascal",
+        [
+          "/wiki/Pascal_(programming_language)"
+        ]
+      ]
+    ],
+    [
+      [
+        "1983",
+        []
+      ],
+      [
+        "Ada 83 ( ANSI/MIL-STD-1815A )",
+        [
+          "/wiki/Ada_(programming_language)"
+        ]
+      ],
+      [
+        "Jean Ichbiah at Alsys",
+        [
+          "/wiki/Jean_Ichbiah",
+          "/wiki/Alsys"
+        ]
+      ],
+      [
+        "Ada 80 , Green",
+        []
+      ]
+    ],
+    [
+      [
+        "1983",
+        []
+      ],
+      [
+        "Objective-C",
+        [
+          "/wiki/Objective-C"
+        ]
+      ],
+      [
+        "Brad Cox",
+        [
+          "/wiki/Brad_Cox"
+        ]
+      ],
+      [
+        "Smalltalk , C",
+        []
+      ]
+    ],
+    [
+      [
+        "1983",
+        []
+      ],
+      [
+        "C++",
+        [
+          "/wiki/C++"
+        ]
+      ],
+      [
+        "Bjarne Stroustrup",
+        [
+          "/wiki/Bjarne_Stroustrup"
+        ]
+      ],
+      [
+        "C with Classes",
+        []
+      ]
+    ],
+    [
+      [
+        "1983",
+        []
+      ],
+      [
+        "True BASIC",
+        [
+          "/wiki/True_BASIC"
+        ]
+      ],
+      [
+        "John George Kemeny , Thomas Eugene Kurtz at Dartmouth College",
+        [
+          "/wiki/John_George_Kemeny",
+          "/wiki/Thomas_Eugene_Kurtz",
+          "/wiki/Dartmouth_College"
+        ]
+      ],
+      [
+        "BASIC",
+        []
+      ]
+    ],
+    [
+      [
+        "1983",
+        []
+      ],
+      [
+        "occam",
+        [
+          "/wiki/Occam_(programming_language)"
+        ]
+      ],
+      [
+        "David May",
+        [
+          "/wiki/David_May_(computer_scientist)"
+        ]
+      ],
+      [
+        "EPL",
+        []
+      ]
+    ],
+    [
+      [
+        "1983 ?",
+        []
+      ],
+      [
+        "ABAP",
+        [
+          "/wiki/ABAP"
+        ]
+      ],
+      [
+        "SAP AG",
+        [
+          "/wiki/SAP_AG"
+        ]
+      ],
+      [
+        "COBOL",
+        [
+          "/wiki/COBOL"
+        ]
+      ]
+    ],
+    [
+      [
+        "1983",
+        []
+      ],
+      [
+        "Korn Shell ( ksh )",
+        [
+          "/wiki/Korn_shell"
+        ]
+      ],
+      [
+        "David Korn",
+        [
+          "/wiki/David_Korn_(computer_scientist)"
+        ]
+      ],
+      [
+        "sh",
+        []
+      ]
+    ]
+  ],
+  "section_title": "1980s",
+  "section_text": "",
+  "uid": "Timeline_of_programming_languages_4"
+}

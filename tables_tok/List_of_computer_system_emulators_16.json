@@ -1,0 +1,410 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
+  "header": [
+    [
+      "Emulator",
+      []
+    ],
+    [
+      "Latest version",
+      []
+    ],
+    [
+      "Released",
+      []
+    ],
+    [
+      "Guest emulation capabilities",
+      []
+    ],
+    [
+      "Host Operating System",
+      []
+    ],
+    [
+      "License",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "STEEm",
+        []
+      ],
+      [
+        "3.2",
+        []
+      ],
+      [
+        "October 22 , 2004",
+        []
+      ],
+      [
+        "Atari ST /STE",
+        [
+          "/wiki/Atari_ST"
+        ]
+      ],
+      [
+        "Windows , Linux",
+        []
+      ],
+      [
+        "Open Source",
+        [
+          "/wiki/Open-source_software"
+        ]
+      ]
+    ],
+    [
+      [
+        "SainT",
+        []
+      ],
+      [
+        "2.40",
+        []
+      ],
+      [
+        "December 12 , 2015",
+        []
+      ],
+      [
+        "Atari ST /STE",
+        [
+          "/wiki/Atari_ST"
+        ]
+      ],
+      [
+        "Windows",
+        []
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "Gemulator",
+        []
+      ],
+      [
+        "9.0",
+        []
+      ],
+      [
+        "November 30 , 2008",
+        []
+      ],
+      [
+        "Atari ST",
+        [
+          "/wiki/Atari_ST"
+        ]
+      ],
+      [
+        "Windows",
+        []
+      ],
+      [
+        "Commercial ( free )",
+        []
+      ]
+    ],
+    [
+      [
+        "Hatari",
+        [
+          "/wiki/Hatari_(emulator)"
+        ]
+      ],
+      [
+        "2.1.0",
+        []
+      ],
+      [
+        "February 7 , 2018",
+        []
+      ],
+      [
+        "Atari ST /STE , Atari TT , Atari Falcon",
+        [
+          "/wiki/Atari_ST",
+          "/wiki/Atari_TT",
+          "/wiki/Atari_Falcon"
+        ]
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "PacifiST",
+        []
+      ],
+      [
+        "0.49b",
+        []
+      ],
+      [
+        "October 18 , 2001",
+        []
+      ],
+      [
+        "Atari ST",
+        [
+          "/wiki/Atari_ST"
+        ]
+      ],
+      [
+        "DOS , Windows",
+        []
+      ],
+      [
+        "Giftware",
+        [
+          "/wiki/Giftware"
+        ]
+      ]
+    ],
+    [
+      [
+        "STonX",
+        []
+      ],
+      [
+        "0.6.7.6",
+        []
+      ],
+      [
+        "August 15 , 2004",
+        []
+      ],
+      [
+        "Atari ST",
+        [
+          "/wiki/Atari_ST"
+        ]
+      ],
+      [
+        "Unix , DOS , Windows",
+        []
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "WinSTon",
+        []
+      ],
+      [
+        "0.1r2",
+        []
+      ],
+      [
+        "August 16 , 1998",
+        []
+      ],
+      [
+        "Atari ST",
+        [
+          "/wiki/Atari_ST"
+        ]
+      ],
+      [
+        "Windows",
+        []
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "ARAnyM",
+        []
+      ],
+      [
+        "1.0.2",
+        []
+      ],
+      [
+        "October 17 , 2014",
+        []
+      ],
+      [
+        "Atari ST , Atari TT , Atari Falcon",
+        [
+          "/wiki/Atari_ST",
+          "/wiki/Atari_TT",
+          "/wiki/Atari_Falcon"
+        ]
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "MAME ( formerly MESS )",
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
+      ],
+      [
+        "0.196",
+        []
+      ],
+      [
+        "March 28 , 2018",
+        []
+      ],
+      [
+        "Various computers , consoles , and arcade systems",
+        []
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "New BSD , GPLv2 or later",
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
+      ]
+    ],
+    [
+      [
+        "EstyJs",
+        []
+      ],
+      [
+        "n/a",
+        []
+      ],
+      [
+        "2013",
+        []
+      ],
+      [
+        "Atari ST",
+        []
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "Open Source",
+        [
+          "/wiki/Open-source_software"
+        ]
+      ]
+    ],
+    [
+      [
+        "PCE/atarist",
+        []
+      ],
+      [
+        "20180323-184b521a",
+        []
+      ],
+      [
+        "December 18 , 2017",
+        []
+      ],
+      [
+        "Atari ST , Mega ST",
+        [
+          "/wiki/Atari_ST",
+          "/wiki/Atari_ST"
+        ]
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "STEEm SSE ( Steven Seagal Edition )",
+        []
+      ],
+      [
+        "3.9.4",
+        []
+      ],
+      [
+        "January 13 , 2018",
+        []
+      ],
+      [
+        "Atari ST /STE",
+        [
+          "/wiki/Atari_ST"
+        ]
+      ],
+      [
+        "Windows , Linux",
+        []
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "32-bit guest systems -- Atari ST/STE/Falcon",
+  "section_text": "",
+  "uid": "List_of_computer_system_emulators_16"
+}

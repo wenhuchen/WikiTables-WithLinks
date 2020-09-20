@@ -1,0 +1,647 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Foreign_born",
+  "title": "Foreign born",
+  "header": [
+    [
+      "Rank",
+      []
+    ],
+    [
+      "City",
+      []
+    ],
+    [
+      "Country",
+      []
+    ],
+    [
+      "Estimate Source",
+      []
+    ],
+    [
+      "Foreign-Born Population",
+      []
+    ],
+    [
+      "Percentage",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "1",
+        []
+      ],
+      [
+        "London",
+        [
+          "/wiki/London"
+        ]
+      ],
+      [
+        "United Kingdom",
+        [
+          "/wiki/United_Kingdom"
+        ]
+      ],
+      [
+        "ONS 2018",
+        [
+          "/wiki/Office_for_National_Statistics"
+        ]
+      ],
+      [
+        "3,236,000",
+        []
+      ],
+      [
+        "36.4 %",
+        []
+      ]
+    ],
+    [
+      [
+        "2",
+        []
+      ],
+      [
+        "New York City",
+        [
+          "/wiki/New_York_City"
+        ]
+      ],
+      [
+        "United States",
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        "2016 ACS",
+        [
+          "/wiki/American_Community_Survey"
+        ]
+      ],
+      [
+        "3,200,219",
+        []
+      ],
+      [
+        "37.5 %",
+        []
+      ]
+    ],
+    [
+      [
+        "3",
+        []
+      ],
+      [
+        "Sydney",
+        [
+          "/wiki/Sydney"
+        ]
+      ],
+      [
+        "Australia",
+        [
+          "/wiki/Australia"
+        ]
+      ],
+      [
+        "2016 Census",
+        [
+          "/wiki/2016_Australian_Census"
+        ]
+      ],
+      [
+        "1,961,977",
+        []
+      ],
+      [
+        "45.4 %",
+        []
+      ]
+    ],
+    [
+      [
+        "4",
+        []
+      ],
+      [
+        "Melbourne",
+        [
+          "/wiki/Melbourne"
+        ]
+      ],
+      [
+        "Australia",
+        [
+          "/wiki/Australia"
+        ]
+      ],
+      [
+        "2016 Census",
+        [
+          "/wiki/2016_Australian_Census"
+        ]
+      ],
+      [
+        "1,784,794",
+        []
+      ],
+      [
+        "41.3 %",
+        []
+      ]
+    ],
+    [
+      [
+        "5",
+        []
+      ],
+      [
+        "Los Angeles",
+        [
+          "/wiki/Los_Angeles"
+        ]
+      ],
+      [
+        "United States",
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        "2016 ACS",
+        []
+      ],
+      [
+        "1,499,418",
+        []
+      ],
+      [
+        "37.7 %",
+        []
+      ]
+    ],
+    [
+      [
+        "6",
+        []
+      ],
+      [
+        "Toronto",
+        [
+          "/wiki/Toronto"
+        ]
+      ],
+      [
+        "Canada",
+        [
+          "/wiki/Canada"
+        ]
+      ],
+      [
+        "Canada 2016 Census",
+        [
+          "/wiki/Canada_2016_Census"
+        ]
+      ],
+      [
+        "1,266,005",
+        []
+      ],
+      [
+        "47.0 %",
+        []
+      ]
+    ],
+    [
+      [
+        "7",
+        []
+      ],
+      [
+        "Madrid",
+        [
+          "/wiki/Madrid"
+        ]
+      ],
+      [
+        "Spain",
+        [
+          "/wiki/Spain"
+        ]
+      ],
+      [
+        "2019 Spain Census",
+        []
+      ],
+      [
+        "726,669",
+        []
+      ],
+      [
+        "22.2 %",
+        []
+      ]
+    ],
+    [
+      [
+        "7",
+        []
+      ],
+      [
+        "Houston",
+        [
+          "/wiki/Houston"
+        ]
+      ],
+      [
+        "United States",
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        "2016 ACS",
+        []
+      ],
+      [
+        "698,395",
+        []
+      ],
+      [
+        "30.3 %",
+        []
+      ]
+    ],
+    [
+      [
+        "8",
+        []
+      ],
+      [
+        "Brisbane",
+        [
+          "/wiki/Brisbane"
+        ]
+      ],
+      [
+        "Australia",
+        [
+          "/wiki/Australia"
+        ]
+      ],
+      [
+        "2016 Census",
+        [
+          "/wiki/2016_Australian_Census"
+        ]
+      ],
+      [
+        "682,132",
+        []
+      ],
+      [
+        "33.2 %",
+        []
+      ]
+    ],
+    [
+      [
+        "9",
+        []
+      ],
+      [
+        "Chicago",
+        [
+          "/wiki/Chicago"
+        ]
+      ],
+      [
+        "United States",
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        "2016 ACS",
+        []
+      ],
+      [
+        "559,623",
+        []
+      ],
+      [
+        "20.7 %",
+        []
+      ]
+    ],
+    [
+      [
+        "10",
+        []
+      ],
+      [
+        "Montr\u00e9al",
+        [
+          "/wiki/Montreal"
+        ]
+      ],
+      [
+        "Canada",
+        [
+          "/wiki/Canada"
+        ]
+      ],
+      [
+        "Canada 2016 Census",
+        []
+      ],
+      [
+        "570,940",
+        []
+      ],
+      [
+        "34.3 %",
+        []
+      ]
+    ],
+    [
+      [
+        "11",
+        []
+      ],
+      [
+        "San Jose",
+        [
+          "/wiki/San_Jose,_California"
+        ]
+      ],
+      [
+        "United States",
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        "2016 ACS",
+        []
+      ],
+      [
+        "402,776",
+        []
+      ],
+      [
+        "39.3 %",
+        []
+      ]
+    ],
+    [
+      [
+        "12",
+        []
+      ],
+      [
+        "Calgary",
+        [
+          "/wiki/Calgary"
+        ]
+      ],
+      [
+        "Canada",
+        [
+          "/wiki/Canada"
+        ]
+      ],
+      [
+        "Canada 2016 Census",
+        []
+      ],
+      [
+        "383,065",
+        []
+      ],
+      [
+        "31.3 %",
+        []
+      ]
+    ],
+    [
+      [
+        "13",
+        []
+      ],
+      [
+        "San Diego",
+        [
+          "/wiki/San_Diego"
+        ]
+      ],
+      [
+        "United States",
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        "2016 ACS",
+        []
+      ],
+      [
+        "373,842",
+        []
+      ],
+      [
+        "26.7 %",
+        []
+      ]
+    ],
+    [
+      [
+        "14",
+        []
+      ],
+      [
+        "Paris",
+        [
+          "/wiki/Paris"
+        ]
+      ],
+      [
+        "France",
+        [
+          "/wiki/France"
+        ]
+      ],
+      [
+        "2014 UrbiStat",
+        []
+      ],
+      [
+        "325,100",
+        []
+      ],
+      [
+        "14.6 %",
+        []
+      ]
+    ],
+    [
+      [
+        "15",
+        []
+      ],
+      [
+        "Dallas",
+        [
+          "/wiki/Dallas"
+        ]
+      ],
+      [
+        "United States",
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        "2016 ACS",
+        []
+      ],
+      [
+        "324,972",
+        []
+      ],
+      [
+        "24.7 %",
+        []
+      ]
+    ],
+    [
+      [
+        "16",
+        []
+      ],
+      [
+        "Milan",
+        [
+          "/wiki/Milan"
+        ]
+      ],
+      [
+        "Italy",
+        [
+          "/wiki/Italy"
+        ]
+      ],
+      [
+        "Istat 2011",
+        [
+          "/wiki/Istituto_Nazionale_di_Statistica"
+        ]
+      ],
+      [
+        "324,378",
+        []
+      ],
+      [
+        "10.7 %",
+        []
+      ]
+    ],
+    [
+      [
+        "17",
+        []
+      ],
+      [
+        "Phoenix",
+        []
+      ],
+      [
+        "United States",
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        "2016 ACS",
+        []
+      ],
+      [
+        "308,744",
+        []
+      ],
+      [
+        "19.6 %",
+        []
+      ]
+    ],
+    [
+      [
+        "18",
+        []
+      ],
+      [
+        "San Francisco",
+        [
+          "/wiki/San_Francisco"
+        ]
+      ],
+      [
+        "United States",
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        "2016 ACS",
+        []
+      ],
+      [
+        "296,849",
+        []
+      ],
+      [
+        "34.9 %",
+        []
+      ]
+    ],
+    [
+      [
+        "19",
+        []
+      ],
+      [
+        "Miami",
+        [
+          "/wiki/Miami"
+        ]
+      ],
+      [
+        "United States",
+        [
+          "/wiki/United_States"
+        ]
+      ],
+      [
+        "2016 ACS",
+        []
+      ],
+      [
+        "264,656",
+        []
+      ],
+      [
+        "58.3 %",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Cities with largest foreign born populations",
+  "section_text": "",
+  "uid": "Foreign_born_0"
+}

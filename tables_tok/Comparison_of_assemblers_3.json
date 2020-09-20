@@ -1,0 +1,219 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Comparison_of_assemblers",
+  "title": "Comparison of assemblers",
+  "header": [
+    [
+      "Assembler",
+      []
+    ],
+    [
+      "License",
+      [
+        "/wiki/Software_license"
+      ]
+    ],
+    [
+      "Instruction set",
+      [
+        "/wiki/Instruction_set"
+      ]
+    ],
+    [
+      "Host platform",
+      [
+        "/wiki/Computing_platform"
+      ]
+    ]
+  ],
+  "data": [
+    [
+      [
+        "BAL",
+        [
+          "/wiki/IBM_Basic_assembly_language"
+        ]
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "IBM System/360",
+        [
+          "/wiki/IBM_System/360"
+        ]
+      ],
+      [
+        "IBM BPS/360",
+        [
+          "/wiki/IBM_Basic_Programming_Support"
+        ]
+      ]
+    ],
+    [
+      [
+        "HLASM",
+        [
+          "/wiki/IBM_High-Level_Assembler"
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        "z/Architecture",
+        [
+          "/wiki/Z/Architecture"
+        ]
+      ],
+      [
+        "numerous",
+        []
+      ]
+    ],
+    [
+      [
+        "IBM Assembler D",
+        []
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "IBM System/360",
+        [
+          "/wiki/IBM_System/360"
+        ]
+      ],
+      [
+        "IBM DOS/360",
+        [
+          "/wiki/DOS/360_and_successors"
+        ]
+      ]
+    ],
+    [
+      [
+        "IBM Assembler E",
+        []
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "IBM System/360",
+        [
+          "/wiki/IBM_System/360"
+        ]
+      ],
+      [
+        "IBM OS/360",
+        [
+          "/wiki/OS/360_and_successors"
+        ]
+      ]
+    ],
+    [
+      [
+        "IBM Assembler F",
+        []
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "IBM System/360",
+        [
+          "/wiki/IBM_System/360"
+        ]
+      ],
+      [
+        "IBM OS/360 and CP-67/CMS",
+        [
+          "/wiki/OS/360_and_successors",
+          "/wiki/CP/CMS"
+        ]
+      ]
+    ],
+    [
+      [
+        "IBM Assembler H",
+        [
+          "/wiki/IBM_Basic_assembly_language_and_successors"
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        "IBM System/360 and System/370",
+        [
+          "/wiki/IBM_System/360",
+          "/wiki/IBM_System/370"
+        ]
+      ],
+      [
+        "IBM OS/360 and successors",
+        [
+          "/wiki/OS/360_and_successors"
+        ]
+      ]
+    ],
+    [
+      [
+        "IBM Assembler XF",
+        []
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "IBM System/370",
+        [
+          "/wiki/IBM_System/370"
+        ]
+      ],
+      [
+        "numerous",
+        []
+      ]
+    ],
+    [
+      [
+        "PL360",
+        [
+          "/wiki/PL360"
+        ]
+      ],
+      [
+        "Free",
+        []
+      ],
+      [
+        "IBM System/360",
+        [
+          "/wiki/IBM_System/360"
+        ]
+      ],
+      [
+        "IBM OS/360",
+        [
+          "/wiki/OS/360_and_successors"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "Single target assemblers -- IBM mainframe assemblers",
+  "section_text": "",
+  "uid": "Comparison_of_assemblers_3"
+}

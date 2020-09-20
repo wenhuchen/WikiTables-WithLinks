@@ -1,0 +1,310 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_matrices",
+  "title": "List of matrices",
+  "header": [
+    [
+      "Name",
+      []
+    ],
+    [
+      "Explanation",
+      []
+    ],
+    [
+      "Notes",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Circular matrix or Coninvolutory matrix",
+        []
+      ],
+      [
+        "A matrix whose inverse is equal to its entrywise complex conjugate : A = A",
+        []
+      ],
+      [
+        "Compare with unitary matrices",
+        []
+      ]
+    ],
+    [
+      [
+        "Congruent matrix",
+        [
+          "/wiki/Matrix_congruence"
+        ]
+      ],
+      [
+        "Two matrices A and B are congruent if there exists an invertible matrix P such that P A P = B",
+        []
+      ],
+      [
+        "Compare with similar matrices",
+        []
+      ]
+    ],
+    [
+      [
+        "EP matrix or Range-Hermitian matrix",
+        [
+          "/wiki/EP_matrix"
+        ]
+      ],
+      [
+        "A square matrix that commutes with its Moore-Penrose inverse : AA = A A",
+        [
+          "/wiki/Moore\u2013Penrose_inverse"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Idempotent matrix or Projection Matrix",
+        [
+          "/wiki/Idempotent_matrix",
+          "/wiki/Projection_(linear_algebra)"
+        ]
+      ],
+      [
+        "A matrix that has the property A \u00b2 = AA = A",
+        []
+      ],
+      [
+        "The name projection matrix inspires from the observation of projection of a point multiple times onto a subspace ( plane or a line ) giving the same result as one projection",
+        [
+          "/wiki/Projection_(linear_algebra)"
+        ]
+      ]
+    ],
+    [
+      [
+        "Invertible matrix",
+        [
+          "/wiki/Invertible_matrix"
+        ]
+      ],
+      [
+        "A square matrix having a multiplicative inverse , that is , a matrix B such that AB = BA = I",
+        [
+          "/wiki/Inverse_matrix"
+        ]
+      ],
+      [
+        "Invertible matrices form the general linear group",
+        [
+          "/wiki/General_linear_group"
+        ]
+      ]
+    ],
+    [
+      [
+        "Involutory matrix",
+        [
+          "/wiki/Involutory_matrix"
+        ]
+      ],
+      [
+        "A square matrix which is its own inverse , i.e. , AA = I",
+        []
+      ],
+      [
+        "Signature matrices , Householder Matrices ( Also known as 'reflection matrices ' to reflect a point about a plane or line ) have this property",
+        [
+          "/wiki/Signature_matrix",
+          "/wiki/Householder_transformation"
+        ]
+      ]
+    ],
+    [
+      [
+        "Nilpotent matrix",
+        [
+          "/wiki/Nilpotent_matrix"
+        ]
+      ],
+      [
+        "A square matrix satisfying A = 0 for some positive integer q",
+        []
+      ],
+      [
+        "Equivalently , the only eigenvalue of A is 0",
+        []
+      ]
+    ],
+    [
+      [
+        "Normal matrix",
+        [
+          "/wiki/Normal_matrix"
+        ]
+      ],
+      [
+        "A square matrix that commutes with its conjugate transpose : AA = A A",
+        [
+          "/wiki/Conjugate_transpose"
+        ]
+      ],
+      [
+        "They are the matrices to which the spectral theorem applies",
+        [
+          "/wiki/Spectral_theorem"
+        ]
+      ]
+    ],
+    [
+      [
+        "Orthogonal matrix",
+        [
+          "/wiki/Orthogonal_matrix"
+        ]
+      ],
+      [
+        "A matrix whose inverse is equal to its transpose , A = A",
+        [
+          "/wiki/Transpose"
+        ]
+      ],
+      [
+        "They form the orthogonal group",
+        [
+          "/wiki/Orthogonal_group"
+        ]
+      ]
+    ],
+    [
+      [
+        "Orthonormal matrix",
+        [
+          "/wiki/Orthonormal_matrix"
+        ]
+      ],
+      [
+        "A matrix whose columns are orthonormal vectors",
+        [
+          "/wiki/Orthonormal"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Singular matrix",
+        [
+          "/wiki/Singular_matrix"
+        ]
+      ],
+      [
+        "A square matrix that is not invertible",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Unimodular matrix",
+        [
+          "/wiki/Unimodular_matrix"
+        ]
+      ],
+      [
+        "An invertible matrix with entries in the integers ( integer matrix )",
+        [
+          "/wiki/Integer_matrix"
+        ]
+      ],
+      [
+        "Necessarily the determinant is +1 or \u22121",
+        []
+      ]
+    ],
+    [
+      [
+        "Unipotent matrix",
+        [
+          "/wiki/Unipotent_matrix"
+        ]
+      ],
+      [
+        "A square matrix with all eigenvalues equal to 1",
+        []
+      ],
+      [
+        "Equivalently , A \u2212 I is nilpotent . See also unipotent group",
+        [
+          "/wiki/Unipotent_group"
+        ]
+      ]
+    ],
+    [
+      [
+        "Unitary matrix",
+        [
+          "/wiki/Unitary_matrix"
+        ]
+      ],
+      [
+        "A square matrix whose inverse is equal to its conjugate transpose , A = A",
+        [
+          "/wiki/Conjugate_transpose"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Totally unimodular matrix",
+        [
+          "/wiki/Totally_unimodular_matrix"
+        ]
+      ],
+      [
+        "A matrix for which every non-singular square submatrix is unimodular . This has some implications in the linear programming relaxation of an integer program",
+        [
+          "/wiki/Unimodular_matrix",
+          "/wiki/Linear_programming",
+          "/wiki/Linear_programming_relaxation",
+          "/wiki/Integer_program"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Weighing matrix",
+        [
+          "/wiki/Weighing_matrix"
+        ]
+      ],
+      [
+        "A square matrix the entries of which are in { 0 , 1 , \u22121 } , such that AA = wI for some positive integer w",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Matrices satisfying conditions on products or inverses",
+  "section_text": "A number of matrix-related notions is about properties of products or inverses of the given matrix . The matrix product of a m-by-n matrix A and a n-by-k matrix B is the m-by-k matrix C given by ( C ) i , j = \u2211 r = 1 n A i , r B r , j . { \\displaystyle ( C ) _ { i , j } =\\sum _ { r=1 } ^ { n } A_ { i , r } B_ { r , j } . }",
+  "uid": "List_of_matrices_3"
+}

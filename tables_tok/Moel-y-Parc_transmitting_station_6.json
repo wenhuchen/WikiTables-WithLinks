@@ -1,0 +1,291 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Moel-y-Parc_transmitting_station",
+  "title": "Moel-y-Parc transmitting station",
+  "header": [
+    [
+      "Frequency",
+      []
+    ],
+    [
+      "UHF",
+      []
+    ],
+    [
+      "kW",
+      []
+    ],
+    [
+      "Service",
+      []
+    ],
+    [
+      "System",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "546.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "30",
+        []
+      ],
+      [
+        "0.25",
+        []
+      ],
+      [
+        "Arqiva ( Mux C )",
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        "DVB-T",
+        [
+          "/wiki/DVB-T"
+        ]
+      ]
+    ],
+    [
+      [
+        "578.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "34",
+        []
+      ],
+      [
+        "0.25",
+        []
+      ],
+      [
+        "Arqiva ( Mux D )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "639.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "42",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "S4C",
+        [
+          "/wiki/S4C"
+        ]
+      ],
+      [
+        "PAL System I",
+        [
+          "/wiki/PAL"
+        ]
+      ]
+    ],
+    [
+      [
+        "663.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "45",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "BBC Two Wales",
+        [
+          "/wiki/BBC_Two_Wales"
+        ]
+      ],
+      [
+        "PAL System I",
+        []
+      ]
+    ],
+    [
+      [
+        "695.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "49",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "ITV1 Wales ( HTV Wales until 2002 )",
+        [
+          "/wiki/ITV_Wales_&_West"
+        ]
+      ],
+      [
+        "PAL System I",
+        []
+      ]
+    ],
+    [
+      [
+        "719.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "52",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "BBC One Wales",
+        [
+          "/wiki/BBC_One_Wales"
+        ]
+      ],
+      [
+        "PAL System I",
+        []
+      ]
+    ],
+    [
+      [
+        "738.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "54",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "BBC ( Mux 1 )",
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "770.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "58",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "Digital 3 & 4 ( Mux 2 )",
+        [
+          "/wiki/Digital_3&4"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "794.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "61",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "SDN ( Mux A )",
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "818.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "64",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "BBC ( Mux B )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Channels listed by frequency -- Analogue and digital television",
+  "section_text": "",
+  "uid": "Moel-y-Parc_transmitting_station_6"
+}

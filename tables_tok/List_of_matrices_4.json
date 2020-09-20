@@ -1,0 +1,398 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_matrices",
+  "title": "List of matrices",
+  "header": [
+    [
+      "Name",
+      []
+    ],
+    [
+      "Explanation",
+      []
+    ],
+    [
+      "Applications",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Adjugate matrix",
+        [
+          "/wiki/Adjugate_matrix"
+        ]
+      ],
+      [
+        "The matrix containing minors of a given square matrix",
+        [
+          "/wiki/Minor_(linear_algebra)"
+        ]
+      ],
+      [
+        "Calculating inverse matrices via Laplace expansion",
+        [
+          "/wiki/Inverse_matrix",
+          "/wiki/Laplace_expansion"
+        ]
+      ]
+    ],
+    [
+      [
+        "Alternating sign matrix",
+        [
+          "/wiki/Alternating_sign_matrix"
+        ]
+      ],
+      [
+        "A square matrix of with entries 0 , 1 and \u22121 such that the sum of each row and column is 1 and the nonzero entries in each row and column alternate in sign",
+        []
+      ],
+      [
+        "Dodgson condensation to calculate determinants",
+        [
+          "/wiki/Dodgson_condensation"
+        ]
+      ]
+    ],
+    [
+      [
+        "Augmented matrix",
+        [
+          "/wiki/Augmented_matrix"
+        ]
+      ],
+      [
+        "A matrix whose rows are concatenations of the rows of two smaller matrices",
+        []
+      ],
+      [
+        "Calculating inverse matrices",
+        [
+          "/wiki/Inverse_matrix"
+        ]
+      ]
+    ],
+    [
+      [
+        "B\u00e9zout matrix",
+        [
+          "/wiki/B\u00e9zout_matrix"
+        ]
+      ],
+      [
+        "A square matrix which may be used as a tool for the efficient location of polynomial zeros",
+        []
+      ],
+      [
+        "Control theory , Stable polynomials",
+        [
+          "/wiki/Control_theory",
+          "/wiki/Stable_polynomial"
+        ]
+      ]
+    ],
+    [
+      [
+        "Carleman matrix",
+        [
+          "/wiki/Carleman_matrix"
+        ]
+      ],
+      [
+        "A matrix that converts composition of functions to multiplication of matrices",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Cartan matrix",
+        [
+          "/wiki/Cartan_matrix"
+        ]
+      ],
+      [
+        "A matrix associated with a finite-dimensional associative algebra , or a semisimple Lie algebra ( the two meanings are distinct )",
+        [
+          "/wiki/Associative_algebra",
+          "/wiki/Semisimple_Lie_algebra"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Circulant matrix",
+        [
+          "/wiki/Circulant_matrix"
+        ]
+      ],
+      [
+        "A matrix where each row is a circular shift of its predecessor",
+        []
+      ],
+      [
+        "System of linear equations , discrete Fourier transform",
+        [
+          "/wiki/System_of_linear_equations",
+          "/wiki/Discrete_Fourier_transform"
+        ]
+      ]
+    ],
+    [
+      [
+        "Cofactor matrix",
+        [
+          "/wiki/Cofactor_matrix"
+        ]
+      ],
+      [
+        "A containing the cofactors , i.e. , signed minors , of a given matrix",
+        [
+          "/wiki/Cofactor_(linear_algebra)",
+          "/wiki/Minor_(linear_algebra)"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Commutation matrix",
+        [
+          "/wiki/Commutation_matrix"
+        ]
+      ],
+      [
+        "A matrix used for transforming the vectorized form of a matrix into the vectorized form of its transpose",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Coxeter matrix",
+        [
+          "/wiki/Coxeter_matrix"
+        ]
+      ],
+      [
+        "A matrix related to Coxeter groups , which describe symmetries in a structure or system",
+        [
+          "/wiki/Coxeter_groups",
+          "/wiki/Symmetry"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Derogatory matrix",
+        []
+      ],
+      [
+        "A square matrix whose minimal polynomial is of order less than n",
+        [
+          "/wiki/Minimal_polynomial_(linear_algebra)"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Distance matrix",
+        [
+          "/wiki/Distance_matrix"
+        ]
+      ],
+      [
+        "A square matrix containing the distances , taken pairwise , of a set of points",
+        [
+          "/wiki/Point_(geometry)"
+        ]
+      ],
+      [
+        "Computer vision , network analysis",
+        [
+          "/wiki/Computer_vision",
+          "/wiki/Network_analysis_(electronics)"
+        ]
+      ]
+    ],
+    [
+      [
+        "Duplication matrix",
+        [
+          "/wiki/Duplication_matrix"
+        ]
+      ],
+      [
+        "A linear transformation matrix used for transforming half-vectorizations of matrices into vectorizations",
+        [
+          "/wiki/Vectorization_(mathematics)"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Elimination matrix",
+        [
+          "/wiki/Elimination_matrix"
+        ]
+      ],
+      [
+        "A linear transformation matrix used for transforming vectorizations of matrices into half-vectorizations",
+        [
+          "/wiki/Vectorization_(mathematics)"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Euclidean distance matrix",
+        [
+          "/wiki/Euclidean_distance_matrix"
+        ]
+      ],
+      [
+        "A matrix that describes the pairwise distances between points in Euclidean space",
+        [
+          "/wiki/Point_(geometry)",
+          "/wiki/Euclidean_space"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Fundamental matrix ( linear differential equation )",
+        [
+          "/wiki/Fundamental_matrix_(linear_differential_equation)"
+        ]
+      ],
+      [
+        "A matrix containing the fundamental solutions of a linear ordinary differential equation",
+        [
+          "/wiki/Ordinary_differential_equation"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Generator matrix",
+        [
+          "/wiki/Generator_matrix"
+        ]
+      ],
+      [
+        "A matrix whose rows generate all elements of a linear code",
+        [
+          "/wiki/Linear_code"
+        ]
+      ],
+      [
+        "Coding theory",
+        [
+          "/wiki/Coding_theory"
+        ]
+      ]
+    ],
+    [
+      [
+        "Gramian matrix",
+        [
+          "/wiki/Gramian_matrix"
+        ]
+      ],
+      [
+        "A matrix containing the pairwise angles of given vectors in an inner product space",
+        [
+          "/wiki/Inner_product_space"
+        ]
+      ],
+      [
+        "Test linear independence of vectors , including ones in function spaces",
+        [
+          "/wiki/Linear_independence",
+          "/wiki/Function_space"
+        ]
+      ]
+    ],
+    [
+      [
+        "Hessian matrix",
+        [
+          "/wiki/Hessian_matrix"
+        ]
+      ],
+      [
+        "A square matrix of second partial derivatives of a scalar-valued function",
+        [
+          "/wiki/Partial_derivative"
+        ]
+      ],
+      [
+        "Detecting local minima and maxima of scalar-valued functions in several variables ; Blob detection ( computer vision )",
+        [
+          "/wiki/Local_minimum",
+          "/wiki/Blob_detection",
+          "/wiki/Computer_vision"
+        ]
+      ]
+    ],
+    [
+      [
+        "Householder matrix",
+        [
+          "/wiki/Householder_transformation"
+        ]
+      ],
+      [
+        "A transformation matrix widely used in matrix algorithms",
+        []
+      ],
+      [
+        "QR decomposition",
+        [
+          "/wiki/QR_decomposition"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "Matrices with specific applications",
+  "section_text": "",
+  "uid": "List_of_matrices_4"
+}

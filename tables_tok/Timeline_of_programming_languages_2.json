@@ -1,0 +1,464 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Timeline_of_programming_languages",
+  "title": "Timeline of programming languages",
+  "header": [
+    [
+      "Year",
+      []
+    ],
+    [
+      "Name",
+      []
+    ],
+    [
+      "Chief developer , company",
+      []
+    ],
+    [
+      "Predecessor ( s )",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "1960",
+        []
+      ],
+      [
+        "ALGOL 60",
+        [
+          "/wiki/ALGOL_60"
+        ]
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "ALGOL 58",
+        []
+      ]
+    ],
+    [
+      [
+        "1960",
+        []
+      ],
+      [
+        "COBOL 61 ( implementation )",
+        [
+          "/wiki/COBOL"
+        ]
+      ],
+      [
+        "The CODASYL Committee",
+        [
+          "/wiki/CODASYL"
+        ]
+      ],
+      [
+        "FLOW-MATIC , COMTRAN",
+        []
+      ]
+    ],
+    [
+      [
+        "1961",
+        []
+      ],
+      [
+        "COMIT ( implementation )",
+        [
+          "/wiki/COMIT"
+        ]
+      ],
+      [
+        "Victor Yngve",
+        [
+          "/wiki/Victor_Yngve"
+        ]
+      ],
+      [
+        "none ( unique language )",
+        []
+      ]
+    ],
+    [
+      [
+        "1962",
+        []
+      ],
+      [
+        "FORTRAN IV",
+        [
+          "/wiki/Fortran"
+        ]
+      ],
+      [
+        "IBM",
+        [
+          "/wiki/IBM"
+        ]
+      ],
+      [
+        "FORTRAN II",
+        []
+      ]
+    ],
+    [
+      [
+        "1962",
+        []
+      ],
+      [
+        "APL ( concept )",
+        [
+          "/wiki/APL_(programming_language)"
+        ]
+      ],
+      [
+        "Kenneth E. Iverson",
+        [
+          "/wiki/Kenneth_E._Iverson"
+        ]
+      ],
+      [
+        "none ( unique language )",
+        []
+      ]
+    ],
+    [
+      [
+        "1962",
+        []
+      ],
+      [
+        "Simula ( concept )",
+        [
+          "/wiki/Simula"
+        ]
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "ALGOL 60",
+        []
+      ]
+    ],
+    [
+      [
+        "1962",
+        []
+      ],
+      [
+        "SNOBOL",
+        [
+          "/wiki/SNOBOL"
+        ]
+      ],
+      [
+        "Ralph Griswold , et al",
+        [
+          "/wiki/Ralph_Griswold"
+        ]
+      ],
+      [
+        "FORTRAN II , COMIT",
+        []
+      ]
+    ],
+    [
+      [
+        "1963",
+        []
+      ],
+      [
+        "CPL",
+        [
+          "/wiki/Combined_Programming_Language"
+        ]
+      ],
+      [
+        "Barron , Christopher Strachey , et al",
+        [
+          "/wiki/Christopher_Strachey"
+        ]
+      ],
+      [
+        "ALGOL 60",
+        []
+      ]
+    ],
+    [
+      [
+        "1963",
+        []
+      ],
+      [
+        "SNOBOL 3",
+        [
+          "/wiki/SNOBOL"
+        ]
+      ],
+      [
+        "Griswold , et al",
+        [
+          "/wiki/Ralph_Griswold"
+        ]
+      ],
+      [
+        "SNOBOL",
+        []
+      ]
+    ],
+    [
+      [
+        "1963",
+        []
+      ],
+      [
+        "ALGOL 68 ( concept )",
+        [
+          "/wiki/ALGOL_68"
+        ]
+      ],
+      [
+        "Adriaan van Wijngaarden , et al",
+        [
+          "/wiki/Adriaan_van_Wijngaarden"
+        ]
+      ],
+      [
+        "ALGOL 60",
+        []
+      ]
+    ],
+    [
+      [
+        "1963",
+        []
+      ],
+      [
+        "JOSS I",
+        [
+          "/wiki/JOSS"
+        ]
+      ],
+      [
+        "Cliff Shaw , RAND",
+        [
+          "/wiki/RAND_Corporation"
+        ]
+      ],
+      [
+        "ALGOL 58",
+        []
+      ]
+    ],
+    [
+      [
+        "1964",
+        []
+      ],
+      [
+        "MIMIC",
+        [
+          "/wiki/MIMIC"
+        ]
+      ],
+      [
+        "H. E. Petersen , et al",
+        []
+      ],
+      [
+        "MIDAS",
+        []
+      ]
+    ],
+    [
+      [
+        "1964",
+        []
+      ],
+      [
+        "COWSEL",
+        [
+          "/wiki/COWSEL"
+        ]
+      ],
+      [
+        "Rod Burstall , Robin Popplestone",
+        [
+          "/wiki/Rod_Burstall",
+          "/wiki/Robin_Popplestone"
+        ]
+      ],
+      [
+        "CPL , LISP",
+        []
+      ]
+    ],
+    [
+      [
+        "1964",
+        []
+      ],
+      [
+        "PL/I ( concept )",
+        [
+          "/wiki/PL/I"
+        ]
+      ],
+      [
+        "IBM",
+        [
+          "/wiki/IBM"
+        ]
+      ],
+      [
+        "ALGOL 60 , COBOL , FORTRAN",
+        []
+      ]
+    ],
+    [
+      [
+        "1964",
+        []
+      ],
+      [
+        "BASIC",
+        [
+          "/wiki/BASIC"
+        ]
+      ],
+      [
+        "John George Kemeny and Thomas Eugene Kurtz at Dartmouth College",
+        [
+          "/wiki/John_George_Kemeny",
+          "/wiki/Thomas_Eugene_Kurtz",
+          "/wiki/Dartmouth_College"
+        ]
+      ],
+      [
+        "FORTRAN II , JOSS",
+        []
+      ]
+    ],
+    [
+      [
+        "1964",
+        []
+      ],
+      [
+        "IBM RPG",
+        [
+          "/wiki/IBM_RPG"
+        ]
+      ],
+      [
+        "IBM",
+        [
+          "/wiki/IBM"
+        ]
+      ],
+      [
+        "FARGO",
+        []
+      ]
+    ],
+    [
+      [
+        "1964",
+        []
+      ],
+      [
+        "Mark-IV",
+        [
+          "/wiki/MARK_IV_(software)"
+        ]
+      ],
+      [
+        "Informatics",
+        [
+          "/wiki/Sterling_Software"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "1964",
+        []
+      ],
+      [
+        "Speakeasy-2",
+        [
+          "/wiki/Speakeasy_(computational_environment)"
+        ]
+      ],
+      [
+        "Stanley Cohen at Argonne National Laboratory",
+        [
+          "/wiki/Argonne_National_Laboratory"
+        ]
+      ],
+      [
+        "Speakeasy",
+        []
+      ]
+    ],
+    [
+      [
+        "1964",
+        []
+      ],
+      [
+        "TRAC ( implementation )",
+        [
+          "/wiki/TRAC_(programming_language)"
+        ]
+      ],
+      [
+        "Calvin Mooers",
+        [
+          "/wiki/Calvin_Mooers"
+        ]
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "1964",
+        []
+      ],
+      [
+        "P\u2032\u2032",
+        [
+          "/wiki/P\u2032\u2032"
+        ]
+      ],
+      [
+        "Corrado B\u00f6hm",
+        [
+          "/wiki/Corrado_B\u00f6hm"
+        ]
+      ],
+      [
+        "none ( unique language )",
+        []
+      ]
+    ]
+  ],
+  "section_title": "1960s",
+  "section_text": "",
+  "uid": "Timeline_of_programming_languages_2"
+}

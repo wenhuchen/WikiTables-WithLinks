@@ -1,0 +1,291 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Llanddona_transmitting_station",
+  "title": "Llanddona transmitting station",
+  "header": [
+    [
+      "Frequency",
+      []
+    ],
+    [
+      "UHF",
+      []
+    ],
+    [
+      "kW",
+      []
+    ],
+    [
+      "Service",
+      []
+    ],
+    [
+      "System",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "674.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "46",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "Arqiva ( Mux D )",
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        "DVB-T",
+        [
+          "/wiki/DVB-T"
+        ]
+      ]
+    ],
+    [
+      [
+        "706.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "50",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "BBC ( Mux 1 )",
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "727.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "53",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "S4C",
+        [
+          "/wiki/S4C"
+        ]
+      ],
+      [
+        "PAL System I",
+        [
+          "/wiki/PAL"
+        ]
+      ]
+    ],
+    [
+      [
+        "738.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "54+",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "Digital 3 & 4 ( Mux 2 )",
+        [
+          "/wiki/Digital_3&4"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "759.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "57",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "BBC One Wales",
+        [
+          "/wiki/BBC_One_Wales"
+        ]
+      ],
+      [
+        "PAL System I",
+        []
+      ]
+    ],
+    [
+      [
+        "770.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "58+",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "SDN ( Mux A )",
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "783.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "60",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "ITV1 Wales ( HTV Wales until 2002 )",
+        [
+          "/wiki/ITV_Wales_&_West"
+        ]
+      ],
+      [
+        "PAL System I",
+        []
+      ]
+    ],
+    [
+      [
+        "794.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "61+",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "BBC ( Mux B )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "807.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "63",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "BBC Two Wales",
+        [
+          "/wiki/BBC_Two_Wales"
+        ]
+      ],
+      [
+        "PAL System I",
+        []
+      ]
+    ],
+    [
+      [
+        "818.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "64+",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "Arqiva ( Mux C )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Services listed by frequency -- Analogue and digital television",
+  "section_text": "",
+  "uid": "Llanddona_transmitting_station_5"
+}

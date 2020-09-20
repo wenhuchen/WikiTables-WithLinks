@@ -1,0 +1,311 @@
+{
+  "url": "https://en.wikipedia.org/wiki/IBM_Personal_Computer",
+  "title": "IBM Personal Computer",
+  "header": [
+    [
+      "Model name",
+      []
+    ],
+    [
+      "Model #",
+      []
+    ],
+    [
+      "Introduced",
+      []
+    ],
+    [
+      "CPU",
+      []
+    ],
+    [
+      "Features",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "PC",
+        []
+      ],
+      [
+        "5150",
+        []
+      ],
+      [
+        "August 1981",
+        []
+      ],
+      [
+        "8088",
+        [
+          "/wiki/Intel_8088"
+        ]
+      ],
+      [
+        "Floppy disk or cassette system . One or two internal floppy drives were optional",
+        [
+          "/wiki/Floppy_disk",
+          "/wiki/Compact_Cassette"
+        ]
+      ]
+    ],
+    [
+      [
+        "XT",
+        [
+          "/wiki/IBM_Personal_Computer_XT"
+        ]
+      ],
+      [
+        "5160",
+        []
+      ],
+      [
+        "March 1983",
+        []
+      ],
+      [
+        "8088",
+        []
+      ],
+      [
+        "First IBM PC to come with an internal hard drive as standard",
+        []
+      ]
+    ],
+    [
+      [
+        "XT/370",
+        []
+      ],
+      [
+        "5160/588",
+        []
+      ],
+      [
+        "October 1983",
+        []
+      ],
+      [
+        "8088",
+        []
+      ],
+      [
+        "5160 with XT/370 Option Kit and 3277 Emulation Adapter",
+        [
+          "/wiki/PC-based_IBM-compatible_mainframes"
+        ]
+      ]
+    ],
+    [
+      [
+        "3270 PC",
+        [
+          "/wiki/IBM_3270_PC"
+        ]
+      ],
+      [
+        "5271",
+        []
+      ],
+      [
+        "October 1983",
+        []
+      ],
+      [
+        "8088",
+        []
+      ],
+      [
+        "With 3270 terminal emulation , 20 function key keyboard",
+        [
+          "/wiki/3270_terminal"
+        ]
+      ]
+    ],
+    [
+      [
+        "PCjr",
+        [
+          "/wiki/IBM_PCjr"
+        ]
+      ],
+      [
+        "4860",
+        []
+      ],
+      [
+        "November 1983",
+        []
+      ],
+      [
+        "8088",
+        []
+      ],
+      [
+        "Floppy-based home computer , but also used ROM cartridges ; infrared keyboard",
+        [
+          "/wiki/Infrared"
+        ]
+      ]
+    ],
+    [
+      [
+        "Portable",
+        [
+          "/wiki/IBM_Portable_Personal_Computer"
+        ]
+      ],
+      [
+        "5155",
+        []
+      ],
+      [
+        "February 1984",
+        []
+      ],
+      [
+        "8088",
+        []
+      ],
+      [
+        "Floppy-based portable",
+        []
+      ]
+    ],
+    [
+      [
+        "AT",
+        [
+          "/wiki/IBM_Personal_Computer/AT"
+        ]
+      ],
+      [
+        "5170",
+        []
+      ],
+      [
+        "August 1984",
+        []
+      ],
+      [
+        "80286",
+        [
+          "/wiki/Intel_80286"
+        ]
+      ],
+      [
+        "Faster processor , faster system bus ( 6 MHz , later 8 MHz , vs 4.77 MHz ) , jumperless configuration , real-time clock",
+        [
+          "/wiki/Jumperless",
+          "/wiki/Real-time_clock"
+        ]
+      ]
+    ],
+    [
+      [
+        "AT/370",
+        []
+      ],
+      [
+        "5170/599",
+        []
+      ],
+      [
+        "October 1984",
+        []
+      ],
+      [
+        "80286",
+        []
+      ],
+      [
+        "5170 with AT/370 Option Kit and 3277 Emulation Adapter",
+        [
+          "/wiki/PC-based_IBM-compatible_mainframes"
+        ]
+      ]
+    ],
+    [
+      [
+        "3270 AT",
+        []
+      ],
+      [
+        "5281",
+        []
+      ],
+      [
+        "June 1985",
+        []
+      ],
+      [
+        "80286",
+        []
+      ],
+      [
+        "With 3270 terminal emulation",
+        [
+          "/wiki/3270_terminal"
+        ]
+      ]
+    ],
+    [
+      [
+        "Convertible",
+        [
+          "/wiki/IBM_PC_Convertible"
+        ]
+      ],
+      [
+        "5140",
+        []
+      ],
+      [
+        "April 1986",
+        []
+      ],
+      [
+        "80C88",
+        []
+      ],
+      [
+        "Microfloppy laptop portable",
+        [
+          "/wiki/Microfloppy",
+          "/wiki/Laptop"
+        ]
+      ]
+    ],
+    [
+      [
+        "XT 286",
+        []
+      ],
+      [
+        "5162",
+        []
+      ],
+      [
+        "September 1986",
+        []
+      ],
+      [
+        "80286",
+        []
+      ],
+      [
+        "Slow hard disk , but zero wait state memory on the motherboard . This 6 MHz machine was actually faster than the 8 MHz ATs ( when using planar memory ) because of the zero wait states",
+        [
+          "/wiki/Wait_state",
+          "/wiki/Motherboard"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "Models",
+  "section_text": "IBM Personal ComputerIBM 5150 PC with IBM 5151 monitor",
+  "uid": "IBM_Personal_Computer_0"
+}

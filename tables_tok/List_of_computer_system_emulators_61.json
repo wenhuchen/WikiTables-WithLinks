@@ -1,0 +1,353 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+  "title": "List of computer system emulators",
+  "header": [
+    [
+      "Emulator",
+      []
+    ],
+    [
+      "Latest version",
+      []
+    ],
+    [
+      "Released",
+      []
+    ],
+    [
+      "Guest emulation capabilities",
+      []
+    ],
+    [
+      "Host Operating System",
+      []
+    ],
+    [
+      "License",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Clock Signal ( CLK )",
+        []
+      ],
+      [
+        "2019-08-01",
+        []
+      ],
+      [
+        "August 1 , 2019",
+        []
+      ],
+      [
+        "Oric 1 , Oric Atmos , including Pravetz 8-DOS ; also : Acorn Electron , Amstrad CPC , Apple II , Atari 2600 , ColecoVision , Commodore VIC-20 , Macintosh , MSX , Sega Master System , ZX80 , ZX81",
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems",
+          "/wiki/Acorn_Electron",
+          "/wiki/Amstrad_CPC",
+          "/wiki/Apple_II",
+          "/wiki/Atari_2600",
+          "/wiki/ColecoVision",
+          "/wiki/Commodore_VIC-20",
+          "/wiki/Macintosh_512Ke",
+          "/wiki/MSX",
+          "/wiki/Sega_Master_System",
+          "/wiki/ZX80",
+          "/wiki/ZX81"
+        ]
+      ],
+      [
+        "macOS , Linux , BSD",
+        [
+          "/wiki/MacOS"
+        ]
+      ],
+      [
+        "MIT License",
+        [
+          "/wiki/MIT_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "DSoric",
+        []
+      ],
+      [
+        "1.0",
+        []
+      ],
+      [
+        "January 19 , 2008",
+        []
+      ],
+      [
+        "Oric 1 , Oric Atmos",
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems"
+        ]
+      ],
+      [
+        "Nintendo DS",
+        [
+          "/wiki/Nintendo_DS"
+        ]
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "Consolatoric",
+        []
+      ],
+      [
+        "r6",
+        []
+      ],
+      [
+        "January 16 , 2009",
+        []
+      ],
+      [
+        "Oric 1 , Oric Atmos",
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems"
+        ]
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "Euphoric",
+        []
+      ],
+      [
+        "1019",
+        []
+      ],
+      [
+        "November 21 , 2014",
+        []
+      ],
+      [
+        "Oric 1 , Oric Atmos , Telestrat",
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems",
+          "/wiki/Tangerine_Computer_Systems"
+        ]
+      ],
+      [
+        "DOS , Windows",
+        [
+          "/wiki/DOS",
+          "/wiki/Microsoft_Windows"
+        ]
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "Xeuphoric",
+        []
+      ],
+      [
+        "0.19.0",
+        []
+      ],
+      [
+        "August 26 , 2010",
+        []
+      ],
+      [
+        "Oric 1 , Oric Atmos , Telestrat",
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems",
+          "/wiki/Tangerine_Computer_Systems"
+        ]
+      ],
+      [
+        "Unix",
+        [
+          "/wiki/Unix"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "MAME ( formerly MESS )",
+        [
+          "/wiki/MAME",
+          "/wiki/Multi_Emulator_Super_System"
+        ]
+      ],
+      [
+        "0.196",
+        []
+      ],
+      [
+        "March 28 , 2018",
+        []
+      ],
+      [
+        "Various computers , consoles , and arcade systems",
+        []
+      ],
+      [
+        "Cross-platform",
+        [
+          "/wiki/Cross-platform"
+        ]
+      ],
+      [
+        "New BSD , GPLv2 or later",
+        [
+          "/wiki/New_BSD",
+          "/wiki/GPLv2"
+        ]
+      ]
+    ],
+    [
+      [
+        "Oric",
+        []
+      ],
+      [
+        "1.7.8",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "Oric 1 , Oric Atmos",
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems"
+        ]
+      ],
+      [
+        "Mac OS",
+        [
+          "/wiki/Mac_OS"
+        ]
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ],
+    [
+      [
+        "Oricutron",
+        [
+          "/wiki/Tangerine_Computer_Systems"
+        ]
+      ],
+      [
+        "1.2",
+        []
+      ],
+      [
+        "December 14 , 2014",
+        []
+      ],
+      [
+        "Oric 1 , Oric Atmos",
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems"
+        ]
+      ],
+      [
+        "Amiga , OS X , MorphOS , Windows , Haiku",
+        [
+          "/wiki/Amiga",
+          "/wiki/OS_X",
+          "/wiki/MorphOS",
+          "/wiki/Windows",
+          "/wiki/Haiku_(operating_system)"
+        ]
+      ],
+      [
+        "GPL",
+        [
+          "/wiki/GNU_General_Public_License"
+        ]
+      ]
+    ],
+    [
+      [
+        "PocketOric",
+        []
+      ],
+      [
+        "0.2",
+        []
+      ],
+      [
+        "September 24 , 2002",
+        []
+      ],
+      [
+        "Oric 1 , Oric Atmos",
+        [
+          "/wiki/Oric_1",
+          "/wiki/Tangerine_Computer_Systems"
+        ]
+      ],
+      [
+        "Pocket PC",
+        [
+          "/wiki/Pocket_PC"
+        ]
+      ],
+      [
+        "Freeware",
+        [
+          "/wiki/Freeware"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "8-bit guest systems -- Oric",
+  "section_text": "",
+  "uid": "List_of_computer_system_emulators_61"
+}

@@ -1,0 +1,317 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Preseli_transmitting_station",
+  "title": "Preseli transmitting station",
+  "header": [
+    [
+      "Frequency",
+      []
+    ],
+    [
+      "UHF",
+      []
+    ],
+    [
+      "kW",
+      []
+    ],
+    [
+      "Service",
+      []
+    ],
+    [
+      "System",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "599.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "37",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "Channel 5",
+        [
+          "/wiki/Channel_5_(UK)"
+        ]
+      ],
+      [
+        "PAL System I",
+        [
+          "/wiki/PAL"
+        ]
+      ]
+    ],
+    [
+      [
+        "618.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "39",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "SDN ( Mux A )",
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        "DVB-T",
+        [
+          "/wiki/DVB-T"
+        ]
+      ]
+    ],
+    [
+      [
+        "623.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "40",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "BBC Two Wales",
+        [
+          "/wiki/BBC_Two_Wales"
+        ]
+      ],
+      [
+        "PAL System I",
+        []
+      ]
+    ],
+    [
+      [
+        "641.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "42-",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "BBC ( Mux B )",
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "647.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "43",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "ITV1 Wales ( HTV Wales until 2002 )",
+        [
+          "/wiki/ITV_Wales_&_West"
+        ]
+      ],
+      [
+        "PAL System I",
+        []
+      ]
+    ],
+    [
+      [
+        "665.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "45-",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "Arqiva ( Mux C )",
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "671.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "46",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "BBC One Wales",
+        [
+          "/wiki/BBC_One_Wales"
+        ]
+      ],
+      [
+        "PAL System I",
+        []
+      ]
+    ],
+    [
+      [
+        "682.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "47+",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "BBC ( Mux 1 )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "697.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "49-",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "Arqiva ( Mux D )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "703.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "50",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "S4C",
+        [
+          "/wiki/S4C"
+        ]
+      ],
+      [
+        "PAL System I",
+        []
+      ]
+    ],
+    [
+      [
+        "714.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "51+",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "Digital 3 & 4 ( Mux 2 )",
+        [
+          "/wiki/Digital_3&4"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Transmissions -- Analogue and digital television",
+  "section_text": "This was the initial roll-out for digital television using the DVB-T system . The transmitter frequencies and power outputs were chosen not to interfere with the UHF TV channels , but to be received with the same aerial-group . The QAM constellations and number of carriers were changed around 2002 after the collapse of ITV Digital as the service was taken over by the Freeview consortium",
+  "uid": "Preseli_transmitting_station_5"
+}

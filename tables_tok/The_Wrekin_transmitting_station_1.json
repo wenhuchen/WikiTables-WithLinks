@@ -1,0 +1,235 @@
+{
+  "url": "https://en.wikipedia.org/wiki/The_Wrekin_transmitting_station",
+  "title": "The Wrekin transmitting station",
+  "header": [
+    [
+      "Frequency",
+      []
+    ],
+    [
+      "UHF",
+      []
+    ],
+    [
+      "kW",
+      []
+    ],
+    [
+      "Operator",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "474.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "21",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "BBC ( Mux 1 )",
+        [
+          "/wiki/BBC"
+        ]
+      ]
+    ],
+    [
+      [
+        "498.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "24+",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "SDN ( Mux A )",
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ]
+    ],
+    [
+      [
+        "522.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "27+",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "BBC ( Mux B )",
+        []
+      ]
+    ],
+    [
+      [
+        "554.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "31",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "Digital 3 & 4 ( Mux 2 )",
+        [
+          "/wiki/Digital_3&4"
+        ]
+      ]
+    ],
+    [
+      [
+        "618.166 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "39+\u2020",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "BBC ( Mux 1 )",
+        []
+      ]
+    ],
+    [
+      [
+        "642.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "42\u2020",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "SDN ( Mux A )",
+        []
+      ]
+    ],
+    [
+      [
+        "666.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "45\u2020",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "BBC ( Mux B )",
+        []
+      ]
+    ],
+    [
+      [
+        "698.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "49\u2020",
+        []
+      ],
+      [
+        "2",
+        []
+      ],
+      [
+        "Digital 3 & 4 ( Mux 2 )",
+        []
+      ]
+    ],
+    [
+      [
+        "730.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "53",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "Arqiva ( Mux C )",
+        [
+          "/wiki/Arqiva"
+        ]
+      ]
+    ],
+    [
+      [
+        "762.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "57",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "Arqiva ( Mux D )",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Television -- Digital",
+  "section_text": "Unlike analogue television , The Wrekin had a sub-transmission site , also known as The Wrekin B , designed to serve the east of the region , to fill areas in which the main transmitter did n't broadcast into . This was necessary due to co-channel interference issues with Moel-y-Parc , on channels 42 , 45 and 49 ( see external links ) . After digital switchover , the frequencies serving the east of the region were removed for compromise frequencies that has better reception in all areas of the region",
+  "uid": "The_Wrekin_transmitting_station_1"
+}

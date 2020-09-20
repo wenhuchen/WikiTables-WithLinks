@@ -1,0 +1,263 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Carmel_transmitting_station",
+  "title": "Carmel transmitting station",
+  "header": [
+    [
+      "Frequency",
+      []
+    ],
+    [
+      "UHF",
+      []
+    ],
+    [
+      "kW",
+      []
+    ],
+    [
+      "Service",
+      []
+    ],
+    [
+      "System",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "727.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "53",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "S4C",
+        [
+          "/wiki/S4C"
+        ]
+      ],
+      [
+        "PAL System I",
+        [
+          "/wiki/PAL"
+        ]
+      ]
+    ],
+    [
+      [
+        "759.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "57",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "BBC One Wales",
+        [
+          "/wiki/BBC_One_Wales"
+        ]
+      ],
+      [
+        "PAL System I",
+        []
+      ]
+    ],
+    [
+      [
+        "777.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "59-",
+        []
+      ],
+      [
+        "5",
+        []
+      ],
+      [
+        "SDN ( Mux A )",
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "786.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "60",
+        []
+      ],
+      [
+        "20",
+        []
+      ],
+      [
+        "BBC A",
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "801.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "62-",
+        []
+      ],
+      [
+        "2.5",
+        []
+      ],
+      [
+        "BBC ( Mux B )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "807.25 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "63",
+        []
+      ],
+      [
+        "100",
+        []
+      ],
+      [
+        "ITV Wales",
+        [
+          "/wiki/ITV_Wales_&_West"
+        ]
+      ],
+      [
+        "PAL System I",
+        []
+      ]
+    ],
+    [
+      [
+        "825.833 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "65-",
+        []
+      ],
+      [
+        "2.5",
+        []
+      ],
+      [
+        "Digital 3 & 4 ( Mux 2 )",
+        [
+          "/wiki/Digital_3&4"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "834.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "66",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "Arqiva ( Mux C )",
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "842.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "67",
+        []
+      ],
+      [
+        "1",
+        []
+      ],
+      [
+        "Arqiva ( Mux D )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Services available -- Analogue and digital television",
+  "section_text": "The UK 's digital switchover commenced at this site . Analogue BBC Two Wales closed on channel 63 and ITV1 Wales took over on that frequency for what would be its final 3 weeks of service , vacating channel 60 as it did so . The new BBC A multiplex started up at full power in 64-QAM mode on channel 60 , and Mux 1 on channel 55 closed",
+  "uid": "Carmel_transmitting_station_3"
+}

@@ -1,0 +1,262 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dialogue_system",
+  "title": "Dialogue system",
+  "header": [
+    [
+      "Name & Links",
+      []
+    ],
+    [
+      "System Type",
+      []
+    ],
+    [
+      "Description",
+      []
+    ],
+    [
+      "Affiliation [ s ]",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "AIML",
+        [
+          "/wiki/AIML"
+        ]
+      ],
+      [
+        "Chatterbot language",
+        [
+          "/wiki/Chatterbot"
+        ]
+      ],
+      [
+        "XML dialect for creating natural language software agents",
+        []
+      ],
+      [
+        "Richard Wallace , Pandorabots , Inc",
+        [
+          "/wiki/Richard_Wallace_(scientist)"
+        ]
+      ]
+    ],
+    [
+      [
+        "ChatScript",
+        [
+          "/wiki/ChatScript"
+        ]
+      ],
+      [
+        "Chatterbot language",
+        [
+          "/wiki/Chatterbot"
+        ]
+      ],
+      [
+        "Language/Engine for creating natural language software agents",
+        []
+      ],
+      [
+        "Bruce Wilcox",
+        [
+          "/wiki/Bruce_Wilcox"
+        ]
+      ]
+    ],
+    [
+      [
+        "CSLU Toolkit",
+        [
+          "/wiki/CSLU_Toolkit"
+        ]
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "a state-based speech interface prototyping environment",
+        []
+      ],
+      [
+        "OGI School of Science and Engineering M. McTear Ron Cole",
+        [
+          "/wiki/OGI_School_of_Science_and_Engineering"
+        ]
+      ]
+    ],
+    [
+      [
+        "NLUI Server",
+        []
+      ],
+      [
+        "Domain-independent toolkit",
+        []
+      ],
+      [
+        "complete multilingual framework for building natural language user interface systems",
+        [
+          "/wiki/Natural_language_user_interface"
+        ]
+      ],
+      [
+        "LinguaSys",
+        [
+          "/wiki/LinguaSys"
+        ]
+      ]
+    ],
+    [
+      [
+        "Olympus",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "complete framework for implementing spoken dialogue systems",
+        []
+      ],
+      [
+        "Carnegie Mellon University",
+        [
+          "/wiki/Carnegie_Mellon_University"
+        ]
+      ]
+    ],
+    [
+      [
+        "Nextnova",
+        []
+      ],
+      [
+        "Multimodal Platform",
+        []
+      ],
+      [
+        "Platform for developing multimodal software applications . Based on State Chart XML ( SCXML )",
+        []
+      ],
+      [
+        "Ponvia Technology , Inc",
+        []
+      ]
+    ],
+    [
+      [
+        "VXML Voice XML",
+        [
+          "/wiki/VXML"
+        ]
+      ],
+      [
+        "Spoken dialog",
+        []
+      ],
+      [
+        "multimodal dialog markup language",
+        []
+      ],
+      [
+        "developed initially by AT & T then administered by an industry consortium and finally a W3C specification",
+        [
+          "/wiki/AT&T",
+          "/wiki/World_Wide_Web_Consortium"
+        ]
+      ]
+    ],
+    [
+      [
+        "SALT",
+        [
+          "/wiki/Speech_Application_Language_Tags"
+        ]
+      ],
+      [
+        "markup language",
+        []
+      ],
+      [
+        "multimodal dialog markup language",
+        []
+      ],
+      [
+        "Microsoft",
+        [
+          "/wiki/Microsoft"
+        ]
+      ]
+    ],
+    [
+      [
+        "Quack.com - QXML",
+        [
+          "/wiki/Quack.com"
+        ]
+      ],
+      [
+        "Development Environment",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "company bought by AOL",
+        [
+          "/wiki/AOL"
+        ]
+      ]
+    ],
+    [
+      [
+        "OpenDial",
+        []
+      ],
+      [
+        "Domain-independent toolkit",
+        []
+      ],
+      [
+        "hybrid symbolic/statistical framework for spoken dialogue systems , implemented in Java",
+        []
+      ],
+      [
+        "University of Oslo",
+        [
+          "/wiki/University_of_Oslo"
+        ]
+      ]
+    ],
+    [
+      [
+        "NADIA",
+        []
+      ],
+      [
+        "dialog engine and dialog modeling",
+        []
+      ],
+      [
+        "Creating natural dialogs / dialogue systems . Supports dialogue acts , mixed initiative , NLG . Implemented in Java",
+        []
+      ],
+      [
+        "Markus M. Berg",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Toolkits and architectures",
+  "section_text": "A survey of current frameworks , languages and technologies for defining dialogue systems",
+  "uid": "Dialog_system_0"
+}

@@ -1,0 +1,378 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Audio_plug-in",
+  "title": "Audio plug-in",
+  "header": [
+    [
+      "Name",
+      []
+    ],
+    [
+      "Developer",
+      []
+    ],
+    [
+      "License",
+      []
+    ],
+    [
+      "GUI support",
+      []
+    ],
+    [
+      "Supported types",
+      []
+    ],
+    [
+      "Supported platforms",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "Virtual Studio Technology",
+        [
+          "/wiki/Virtual_Studio_Technology"
+        ]
+      ],
+      [
+        "Steinberg",
+        [
+          "/wiki/Steinberg"
+        ]
+      ],
+      [
+        "Proprietary or GPLv3",
+        [
+          "/wiki/Proprietary_software",
+          "/wiki/GPLv3"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "Transformation and synthesis",
+        []
+      ],
+      [
+        "Mac OS X , Windows and Linux",
+        [
+          "/wiki/Mac_OS_X",
+          "/wiki/Windows",
+          "/wiki/Linux"
+        ]
+      ]
+    ],
+    [
+      [
+        "Audio Units",
+        [
+          "/wiki/Audio_Units"
+        ]
+      ],
+      [
+        "Apple",
+        [
+          "/wiki/Apple_Inc."
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "Transformation and synthesis",
+        []
+      ],
+      [
+        "Mac OS X , iOS and tvOS",
+        [
+          "/wiki/Mac_OS_X",
+          "/wiki/IOS",
+          "/wiki/TvOS"
+        ]
+      ]
+    ],
+    [
+      [
+        "Real Time AudioSuite",
+        [
+          "/wiki/Real_Time_AudioSuite"
+        ]
+      ],
+      [
+        "Avid",
+        [
+          "/wiki/Avid_Technology"
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "Transformation and synthesis",
+        []
+      ],
+      [
+        "Mac OS X and Windows",
+        [
+          "/wiki/Mac_OS_X",
+          "/wiki/Windows"
+        ]
+      ]
+    ],
+    [
+      [
+        "Avid Audio eXtension",
+        []
+      ],
+      [
+        "Avid",
+        [
+          "/wiki/Avid_Technology"
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "Transformation and synthesis",
+        []
+      ],
+      [
+        "Mac OS X and Windows",
+        [
+          "/wiki/Mac_OS_X",
+          "/wiki/Windows"
+        ]
+      ]
+    ],
+    [
+      [
+        "TDM",
+        []
+      ],
+      [
+        "Avid",
+        [
+          "/wiki/Avid_Technology"
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "Transformation and synthesis",
+        []
+      ],
+      [
+        "Mac OS X and Windows",
+        [
+          "/wiki/Mac_OS_X",
+          "/wiki/Windows"
+        ]
+      ]
+    ],
+    [
+      [
+        "LADSPA",
+        [
+          "/wiki/LADSPA"
+        ]
+      ],
+      [
+        "ladspa.org",
+        []
+      ],
+      [
+        "LGPL",
+        [
+          "/wiki/LGPL"
+        ]
+      ],
+      [
+        "No",
+        []
+      ],
+      [
+        "Transformation",
+        []
+      ],
+      [
+        "Mac OS X , Windows and Linux",
+        [
+          "/wiki/Mac_OS_X",
+          "/wiki/Windows",
+          "/wiki/Linux"
+        ]
+      ]
+    ],
+    [
+      [
+        "DSSI",
+        [
+          "/wiki/Disposable_Soft_Synth_Interface"
+        ]
+      ],
+      [
+        "dssi.sourceforge.net",
+        []
+      ],
+      [
+        "LGPL , BSD",
+        [
+          "/wiki/LGPL",
+          "/wiki/BSD_License"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "Transformation and synthesis",
+        []
+      ],
+      [
+        "Mac OS X , Windows and Linux",
+        [
+          "/wiki/Mac_OS_X",
+          "/wiki/Windows",
+          "/wiki/Linux"
+        ]
+      ]
+    ],
+    [
+      [
+        "LV2",
+        [
+          "/wiki/LV2"
+        ]
+      ],
+      [
+        "lv2plug.in",
+        []
+      ],
+      [
+        "ISC License",
+        [
+          "/wiki/ISC_License"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "Transformation and synthesis",
+        []
+      ],
+      [
+        "Linux , OS X , Windows",
+        [
+          "/wiki/Linux",
+          "/wiki/OS_X",
+          "/wiki/Windows"
+        ]
+      ]
+    ],
+    [
+      [
+        "DirectX plugin",
+        [
+          "/wiki/DirectX_plugin"
+        ]
+      ],
+      [
+        "Microsoft",
+        [
+          "/wiki/Microsoft"
+        ]
+      ],
+      [
+        "Proprietary",
+        [
+          "/wiki/Proprietary_software"
+        ]
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "Transformation and synthesis",
+        []
+      ],
+      [
+        "Windows",
+        [
+          "/wiki/Windows"
+        ]
+      ]
+    ],
+    [
+      [
+        "VAMP",
+        []
+      ],
+      [
+        "vamp-plugins.org",
+        []
+      ],
+      [
+        "BSD-style",
+        [
+          "/wiki/BSD_License"
+        ]
+      ],
+      [
+        "No",
+        []
+      ],
+      [
+        "Analysis",
+        []
+      ],
+      [
+        "Mac OS X , Windows and Linux",
+        [
+          "/wiki/Mac_OS_X",
+          "/wiki/Windows",
+          "/wiki/Linux"
+        ]
+      ]
+    ]
+  ],
+  "section_title": "List of plug-in architectures",
+  "section_text": "",
+  "uid": "Audio_plug-in_0"
+}
