@@ -2,7 +2,7 @@
 Crawled Wikipedia Tables with Passages for [HybridQA dataset](https://github.com/wenhuchen/HybridQA).
 
 # Folder Structure
-- tables/: containing all the tables
+- tables_tok/: containing all the tables
 ```
   {
   "url": "https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Johnson_County,_Arkansas",
@@ -12,27 +12,25 @@ Crawled Wikipedia Tables with Passages for [HybridQA dataset](https://github.com
       [#all the field separated with a list
         "Name on the Register"
       ],
-      [#all the hyperlinks, null indicates no hyperlink
-        null
+      [
       ]
     ],
     [#cell 2
       [#all the field separated with a list
         "Date listed"
       ],
-      [#all the hyperlinks, null indicates no hyperlink
-        null
+      [
       ]
     ],
   ]
   "data":[
     [#row 1
         [#cell 1
-          [field 1, field 2, ... ,]
+          cell_text
           [hyperlink 1, hyperlink 2, ... ,]
         ],
         [#cell 2
-          [field 1, field 2, ... ,]
+          cell_text
           [hyperlink 1, hyperlink 2, ... ,]
         ],
         ...
@@ -43,9 +41,7 @@ Crawled Wikipedia Tables with Passages for [HybridQA dataset](https://github.com
     ...
   ]
 ```
-- tables_tok/: containing all the tables with tokenized text
-- requests/: containing all the hyperlinked text for certain table.
-- requests/: containing all the tokenized hyperlinked text for certain table.
+- request_tok/: containing all the tables with tokenized text
 
 
 # Trouble Shooting
