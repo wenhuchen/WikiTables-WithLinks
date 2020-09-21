@@ -546,6 +546,7 @@
     ]
   ],
   "section_title": "List of macrolanguages",
-  "section_text": "This list only includes official data from https : //iso639-3.sil.org/code_tables/macrolanguage_mappings/data",
-  "uid": "ISO_639_macrolanguage_0"
+  "section_text": "This list only includes official data from https : //iso639-3.sil.org/code_tables/macrolanguage_mappings/data .",
+  "uid": "ISO_639_macrolanguage_0",
+  "intro": "A macrolanguage is a book-keeping mechanism for the ISO 639 international standard for language codes. Macrolanguages are established to assist mapping between different sets of ISO language codes. Specifically, there may be a many-to-one correspondence between ISO 639-3, intended to identify all the thousands of languages of the world, and either of two other sets, ISO 639-1, established to identify languages in computer systems, and ISO 639-2, which encodes a few hundred languages for library cataloguing and bibliographic purposes. When such many-to-one ISO 639-2 codes are included in an ISO 639-3 context, they are called macrolanguages to distinguish them from the corresponding individual languages of ISO 639-3. According to the ISO,"
 }

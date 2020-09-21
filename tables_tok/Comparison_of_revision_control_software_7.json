@@ -470,6 +470,7 @@
     ]
   ],
   "section_title": "History and adoption",
-  "section_text": "Table explanation Software : The name of the application that is described . History : briefly describes the software 's origins and development . Notable users : is a list of well known projects using the software as their primary revision control system , excluding the software itself , followed by a link to a full list if available",
-  "uid": "Comparison_of_revision_control_software_7"
+  "section_text": "Table explanation Software : The name of the application that is described . History : briefly describes the software 's origins and development . Notable users : is a list of well known projects using the software as their primary revision control system , excluding the software itself , followed by a link to a full list if available .",
+  "uid": "Comparison_of_revision_control_software_7",
+  "intro": "The following is a comparison of version-control software. The following tables include general and technical information on notable version control and software configuration management (SCM) software. For SCM software not suitable for source code, see Comparison of open-source configuration-management software."
 }

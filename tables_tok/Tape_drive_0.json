@@ -545,5 +545,6 @@
   ],
   "section_title": "History",
   "section_text": "See also : Magnetic tape data storage \u00a7 Chronological list of tape formats",
-  "uid": "Tape_drive_0"
+  "uid": "Tape_drive_0",
+  "intro": "A tape drive is a data storage device that reads and writes data on a magnetic tape. Magnetic tape data storage is typically used for offline, archival data storage. Tape media generally has a favorable unit cost and a long archival stability. A tape drive provides sequential access storage, unlike a hard disk drive, which provides direct access storage. A disk drive can move to any position on the disk in a few milliseconds, but a tape drive must physically wind tape between reels to read any one particular piece of data. As a result, tape drives have very large average access times. However, tape drives can stream data very quickly off a tape when the required position has been reached. For example, as of 2010[update] Linear Tape-Open (LTO) supported continuous data transfer rates of up to 140 MB/s, a rate comparable to hard disk drives."
 }

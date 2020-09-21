@@ -393,5 +393,6 @@
   ],
   "section_title": "Software support",
   "section_text": "The following notable software products natively support JPEG XR :",
-  "uid": "JPEG_XR_0"
+  "uid": "JPEG_XR_0",
+  "intro": "JPEG XR (JPEG extended range) is a still-image compression standard and file format for continuous tone photographic images, based on technology originally developed and patented by Microsoft under the name HD Photo (formerly Windows Media Photo). It supports both lossy and lossless compression, and is the preferred image format for Ecma-388 Open XML Paper Specification documents. Support for the format is available in Adobe Flash Player 11.0, Adobe AIR 3.0, Sumatra PDF 2.1, Windows Imaging Component, .NET Framework 3.0, Windows Vista, Windows 7, Windows 8, Internet Explorer 9, Internet Explorer 10, Internet Explorer 11, Pale Moon 27.2. As of August 2014, there were still no cameras that shoot photos in the JPEG XR (.JXR) format."
 }

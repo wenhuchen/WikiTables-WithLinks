@@ -257,6 +257,7 @@
     ]
   ],
   "section_title": "Toolkits and architectures",
-  "section_text": "A survey of current frameworks , languages and technologies for defining dialogue systems",
-  "uid": "Dialog_system_0"
+  "section_text": "A survey of current frameworks , languages and technologies for defining dialogue systems .",
+  "uid": "Dialog_system_0",
+  "intro": "A dialogue system, or conversational agent (CA), is a computer system intended to converse with a human. Dialogue systems employed one or more of text, speech, graphics, haptics, gestures, and other modes for communication on both the input and output channel. The elements of a dialogue system are not defined[citation needed], however they are different from chatbot. The typical GUI wizard engages in a sort of dialog, but it includes very few of the common dialogue system components, and dialog state is trivial."
 }

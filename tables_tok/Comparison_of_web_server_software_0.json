@@ -539,5 +539,6 @@
   ],
   "section_title": "Overview",
   "section_text": "",
-  "uid": "Comparison_of_web_server_software_0"
+  "uid": "Comparison_of_web_server_software_0",
+  "intro": "Web server software allows computers to act as web servers. The first web servers supported only static files, such as HTML (and images), but now they commonly allow embedding of server side applications. Some web application frameworks include simple HTTP servers. For example the Django framework provides runserver, and PHP has a built-in server. These are generally intended only for use during initial development. A production server will require a more robust HTTP front-end such as one of the servers listed here."
 }

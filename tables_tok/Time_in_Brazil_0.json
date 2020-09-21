@@ -510,6 +510,7 @@
     ]
   ],
   "section_title": "IANA time zone database",
-  "section_text": "The IANA time zone database contains 16 zones for Brazil . Columns marked with * are from the file zone.tab of the database",
-  "uid": "Time_in_Brazil_0"
+  "section_text": "The IANA time zone database contains 16 zones for Brazil . Columns marked with * are from the file zone.tab of the database .",
+  "uid": "Time_in_Brazil_0",
+  "intro": "Time in Brazil is calculated using standard time, and the country (including its offshore islands) is divided into four standard time zones: UTC\u221202:00, UTC\u221203:00, UTC\u221204:00 and UTC\u221205:00."
 }

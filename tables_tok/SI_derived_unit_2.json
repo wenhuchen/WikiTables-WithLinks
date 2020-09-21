@@ -446,5 +446,6 @@
   ],
   "section_title": "Examples of derived quantities and units",
   "section_text": "Kinematic SI derived units Name Symbol Quantity Expression in terms of SI base units metre per second m/s speed , velocity m\u22c5s metre per second squared m/s acceleration m\u22c5s metre per second cubed m/s jerk , jolt m\u22c5s metre per second to the fourth m/s snap , jounce m\u22c5s radian per second rad/s angular velocity s radian per second squared rad/s angular acceleration s hertz per second Hz/s frequency drift s cubic metre per second m/s volumetric flow m\u22c5s",
-  "uid": "SI_derived_unit_2"
+  "uid": "SI_derived_unit_2",
+  "intro": "SI derived units are units of measurement derived from the seven base units specified by the International System of Units (SI). They are either dimensionless or can be expressed as a product of one or more of the base units, possibly scaled by an appropriate power of exponentiation. The SI has special names for 22 of these derived units (for example, hertz, the SI unit of measurement of frequency), but the rest merely reflect their derivation: for example, the square metre (m2), the SI derived unit of area; and the kilogram per cubic metre (kg/m3 or kg\u22c5m\u22123), the SI derived unit of density. The names of SI derived units, when written in full, are always in lowercase. However, the symbols for units named after persons are written with an uppercase initial letter. For example, the symbol for hertz is Hz, but the symbol for metre is m."
 }

@@ -21,7 +21,7 @@
       []
     ],
     [
-      "Weight ( % )",
+      "Weight (% )",
       []
     ]
   ],
@@ -548,6 +548,7 @@
     ]
   ],
   "section_title": "SMI Constituents -- Current constituents",
-  "section_text": "Distribution of SMI expanded index firms by canton of HQ Distribution of SMI expanded index market capitalization by canton of HQ As of September 23 , 2019 , the following 20 stocks make up the SMI index. [ 2 ] . All components are large-caps ( SPI Large ) , except one marked as 1 , which is a mid-cap ( SPI Middle ) . [ 5 ] [ 6 ] This is because liquidity is a criterion of inclusion , in addition to capitalization . [ 1 ] The weights are given as of August 2019",
-  "uid": "Swiss_Market_Index_0"
+  "section_text": "Distribution of SMI expanded index firms by canton of HQ Distribution of SMI expanded index market capitalization by canton of HQ As of September 23 , 2019 , the following 20 stocks make up the SMI index. [ 2 ] . All components are large-caps ( SPI Large ) , except one marked as 1 , which is a mid-cap ( SPI Middle ) . [ 5 ] [ 6 ] This is because liquidity is a criterion of inclusion , in addition to capitalization . [ 1 ] The weights are given as of August 2019 .",
+  "uid": "Swiss_Market_Index_0",
+  "intro": "The Swiss Market Index (SMI) is Switzerland's blue-chip stock market index, which makes it the most followed in the country. It is made up of 20 of the largest and most liquid Swiss Performance Index (SPI) stocks. As a price index, the SMI is not adjusted for dividends. The SMI was introduced on June 30, 1988 at a baseline value of 1,500 points. It closed above the symbolic level of 10,000 points for the first time on July 2, 2019. Its composition is examined once a year. Currently, it contains 19 large-caps and one mid-cap. Calculation takes place in real-time. As soon as a new transaction occurs in a security contained in the SMI, an updated index level is calculated and displayed. However, the index is updated no more than once per second. The securities contained in the SMI currently represent approximately 80% of the entire Swiss equity market capitalization, as well as 85% to 90% of the total trading turnover of Swiss and Liechtenstein equities listed on the SIX Swiss Exchange. Because the SMI is considered to be a mirror of the overall Swiss stock market, it is used as the benchmark for numerous mutual funds, index funds and ETFs, and as the underlying index for numerous derivative financial instruments such as options, futures and structured products."
 }

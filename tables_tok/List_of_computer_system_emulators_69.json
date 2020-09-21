@@ -344,5 +344,6 @@
   ],
   "section_title": "8-bit guest systems -- TRS-80",
   "section_text": "",
-  "uid": "List_of_computer_system_emulators_69"
+  "uid": "List_of_computer_system_emulators_69",
+  "intro": "This article lists software and hardware that emulates computing platforms. The host in this article is the system running the emulator, and the guest is the system being emulated. The list is organized by guest operating system (the system being emulated), grouped by bitness. Each section contains a list of emulators capable of emulating the specified guest, details of the range of guest systems able to be emulated, and the required host environment and licensing."
 }

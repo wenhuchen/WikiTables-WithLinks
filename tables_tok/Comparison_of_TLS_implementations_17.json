@@ -329,5 +329,6 @@
   ],
   "section_title": "Cryptographic module/token support",
   "section_text": "",
-  "uid": "Comparison_of_TLS_implementations_17"
+  "uid": "Comparison_of_TLS_implementations_17",
+  "intro": "The Transport Layer Security (TLS) protocol provides the ability to secure communications across networks. This comparison of TLS implementations compares several of the most notable libraries. There are several TLS implementations which are free software and open source. All comparison categories use the stable version of each implementation listed in the overview section. The comparison is limited to features that directly relate to the TLS protocol."
 }

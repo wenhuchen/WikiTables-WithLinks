@@ -450,5 +450,6 @@
   ],
   "section_title": "Software -- Editing software",
   "section_text": "",
-  "uid": "EPUB_1"
+  "uid": "EPUB_1",
+  "intro": "EPUB is an e-book file format that uses the .epub file extension. The term is short for electronic publication and is sometimes styled ePub. EPUB is supported by many e-readers, and compatible software is available for most smartphones, tablets, and computers. EPUB is a technical standard published by the International Digital Publishing Forum (IDPF). It became an official standard of the IDPF in September 2007, superseding the older Open eBook standard. The Book Industry Study Group endorses EPUB 3 as the format of choice for packaging content and has stated that the global book publishing industry should rally around a single standard. The EPUB format is implemented as an archive file consisting of HTML files carrying the content, along with images and other supporting files. EPUB is the most widely supported vendor-independent XML-based (as opposed to PDF) e-book format; that is, it is supported by almost all hardware readers, except for Kindle."
 }

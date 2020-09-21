@@ -552,6 +552,7 @@
     ]
   ],
   "section_title": "Active codes",
-  "section_text": "The following is a list of active codes of official ISO 4217 currency names . In the standard the values are called `` alphabetic code '' , `` numeric code '' , and `` minor unit ''",
-  "uid": "ISO_4217_0"
+  "section_text": "The following is a list of active codes of official ISO 4217 currency names . In the standard the values are called `` alphabetic code '' , `` numeric code '' , and `` minor unit '' .",
+  "uid": "ISO_4217_0",
+  "intro": "ISO 4217 is a standard first published by International Organization for Standardization in 1978, which delineates currency designators, country codes (alpha and numeric), and references to minor units in three tables:"
 }

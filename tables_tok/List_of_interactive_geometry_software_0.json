@@ -326,6 +326,7 @@
     ]
   ],
   "section_title": "Comparison -- License and platform",
-  "section_text": "The following table provides a first comparison of the different software according to their licence and platform",
-  "uid": "List_of_interactive_geometry_software_0"
+  "section_text": "The following table provides a first comparison of the different software according to their licence and platform .",
+  "uid": "List_of_interactive_geometry_software_0",
+  "intro": "Interactive geometry software (IGS) or dynamic geometry environments (DGEs) are computer programs which allow one to create and then manipulate geometric constructions, primarily in plane geometry. In most IGS, one starts construction by putting a few points and using them to define new objects such as lines, circles or other points. After some construction is done, one can move the points one started with and see how the construction changes."
 }

@@ -413,5 +413,6 @@
   ],
   "section_title": "Current codes",
   "section_text": "The following table can be used to access the current ISO 3166-2 codes of each country , and comprises three columns : [ 2 ] Entry \u2014 ISO 3166-1 alpha-2 code , click to view the ISO 3166-2 codes of the country Country name \u2014 English short name officially used by the ISO 3166 Maintenance Agency ( ISO 3166/MA ) Subdivisions assigned codes \u2014 Number and category of subdivisions assigned codes in ISO 3166-2 ; [ 1 ] if there are more than one level of subdivisions , the first-level subdivisions are shown in italics",
-  "uid": "ISO_3166-2_0"
+  "uid": "ISO_3166-2_0",
+  "intro": "ISO 3166-2 is part of the ISO 3166 standard published by the International Organization for Standardization (ISO), and defines codes for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1. The official name of the standard is Codes for the representation of names of countries and their subdivisions - Part 2: Country subdivision code. It was first published in 1998. The purpose of ISO 3166-2 is to establish an international standard of short and unique alphanumeric codes to represent the relevant administrative divisions and dependent territories of all countries in a more convenient and less ambiguous form than their full names. Each complete ISO 3166-2 code consists of two parts, separated by a hyphen:"
 }

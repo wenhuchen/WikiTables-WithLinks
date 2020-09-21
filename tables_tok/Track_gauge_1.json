@@ -44,7 +44,7 @@
         []
       ],
       [
-        "Argentina ( 11,000 km or 6,800 mi ) , Brazil ( 23,489 km or 14,595 mi ) , Bolivia , northern Chile , Spain ( Feve , FGC , Euskotren , FGV , SFM ) , Switzerland ( RhB , MOB , BOB , MGB ) , Malaysia , Thailand , Indochina , Bangladesh , East Africa ( approx . 7 % of the world 's railways )",
+        "Argentina ( 11,000 km or 6,800 mi ) , Brazil ( 23,489 km or 14,595 mi ) , Bolivia , northern Chile , Spain ( Feve , FGC , Euskotren , FGV , SFM ) , Switzerland ( RhB , MOB , BOB , MGB ) , Malaysia , Thailand , Indochina , Bangladesh , East Africa ( approx . 7% of the world 's railways )",
         [
           "/wiki/Rail_transport_in_Argentina",
           "/wiki/Rail_transport_in_Brazil",
@@ -87,7 +87,7 @@
         []
       ],
       [
-        "Southern and Central Africa , Nigeria ( most ) , Indonesia , Japan , Taiwan , Philippines , New Zealand , Queensland , Australia , Western Australia and South Australia . ( approx . 9 % of the world 's railways )",
+        "Southern and Central Africa , Nigeria ( most ) , Indonesia , Japan , Taiwan , Philippines , New Zealand , Queensland , Australia , Western Australia and South Australia . ( approx . 9% of the world 's railways )",
         [
           "/wiki/Rail_transport_in_Nigeria",
           "/wiki/Rail_transport_in_Indonesia",
@@ -121,7 +121,7 @@
         []
       ],
       [
-        "Albania , Argentina , Australia , Austria , Belgium , Bosnia and Herzegovina , Brazil ( 194 km or 121 mi ) , Bulgaria , Canada , China , Croatia , Cuba , Czech Republic , Denmark , Djibouti , DR Congo ( Kamina-Lubumbashi section , planned ) , Ethiopia , France , Germany , Great Britain ( United Kingdom ) , Greece , Hungary , India ( only used in rapid transit ) , Indonesia ( Aceh and Sulawesi ) , Italy , Israel , Liechtenstein , Lithuania ( Rail Baltica ) , Luxembourg , Macedonia , Mexico , Montenegro , Netherlands , North Korea , Norway , Panama , Peru , Philippines , Poland , Romania , Serbia , Slovakia , Slovenia , South Korea , Spain ( AVE , Alvia and FGC ) , Sweden , Switzerland , Turkey , United States , Uruguay , Venezuela , Also private companies ' lines and JR high-speed lines in Japan . High-speed lines in Taiwan . Gautrain commuter system in South Africa . ( approx . 55 % of the world 's railways )",
+        "Albania , Argentina , Australia , Austria , Belgium , Bosnia and Herzegovina , Brazil ( 194 km or 121 mi ) , Bulgaria , Canada , China , Croatia , Cuba , Czech Republic , Denmark , Djibouti , DR Congo ( Kamina-Lubumbashi section , planned ) , Ethiopia , France , Germany , Great Britain ( United Kingdom ) , Greece , Hungary , India ( only used in rapid transit ) , Indonesia ( Aceh and Sulawesi ) , Italy , Israel , Liechtenstein , Lithuania ( Rail Baltica ) , Luxembourg , Macedonia , Mexico , Montenegro , Netherlands , North Korea , Norway , Panama , Peru , Philippines , Poland , Romania , Serbia , Slovakia , Slovenia , South Korea , Spain ( AVE , Alvia and FGC ) , Sweden , Switzerland , Turkey , United States , Uruguay , Venezuela , Also private companies ' lines and JR high-speed lines in Japan . High-speed lines in Taiwan . Gautrain commuter system in South Africa . ( approx . 55% of the world 's railways )",
         [
           "/wiki/Rail_transport_in_Albania",
           "/wiki/Rail_transport_in_Argentina",
@@ -208,7 +208,7 @@
         []
       ],
       [
-        "Armenia , Azerbaijan , Belarus , Finland , Estonia , Georgia , Kazakhstan , Kyrgyzstan , Latvia , Lithuania , Moldova , Mongolia , Russia , Tajikistan , Turkmenistan , Ukraine , Uzbekistan . ( approx . 17.2 % of the world 's railways ; all contiguous - redefined from 1,524 mm ( 5 ft ) )",
+        "Armenia , Azerbaijan , Belarus , Finland , Estonia , Georgia , Kazakhstan , Kyrgyzstan , Latvia , Lithuania , Moldova , Mongolia , Russia , Tajikistan , Turkmenistan , Ukraine , Uzbekistan . ( approx . 17.2% of the world 's railways ; all contiguous - redefined from 1,524 mm ( 5 ft ) )",
         [
           "/wiki/Rail_transport_in_Armenia",
           "/wiki/Rail_transport_in_Azerbaijan",
@@ -330,7 +330,7 @@
         []
       ],
       [
-        "India , Pakistan , Bangladesh , Sri Lanka , Argentina , Chile , BART in the United States San Francisco Bay Area ( approx . 11.37 % of the world 's railways )",
+        "India , Pakistan , Bangladesh , Sri Lanka , Argentina , Chile , BART in the United States San Francisco Bay Area ( approx . 11.37% of the world 's railways )",
         [
           "/wiki/Rail_transport_in_India",
           "/wiki/Rail_transport_in_Pakistan",
@@ -345,6 +345,7 @@
     ]
   ],
   "section_title": "Dominant gauges",
-  "section_text": "Approximately 55 % of the world 's railways use the 1,435 mm ( 4 ft 8 1\u20442 in ) standard gauge [ citation needed ] Further information : List of track gauges",
-  "uid": "Track_gauge_1"
+  "section_text": "Approximately 55% of the world 's railways use the 1,435 mm ( 4 ft 8 1\u20442 in ) standard gauge [ citation needed ] . Further information : List of track gauges",
+  "uid": "Track_gauge_1",
+  "intro": "In rail transport, track gauge or track gage is the spacing of the rails on a railway track and is measured between the inner faces of the load-bearing rails. All vehicles on a rail network must have running gear that is compatible with the track gauge, and in the earliest days of railways the selection of a proposed railway's gauge was a key issue. As the dominant parameter determining interoperability, it is still frequently used as a descriptor of a route or network. In some places there is a distinction between the nominal gauge and the actual gauge, due to divergence of track components from the nominal. Railway engineers use a device, like a caliper, to measure the actual gauge, and this device is also referred to as a track gauge. The terms structure gauge and loading gauge, both widely used, have little connection with track gauge. Both refer to two-dimensional cross-section profiles, surrounding the track and vehicles running on it. The structure gauge specifies the outline into which new or altered structures (bridges, lineside equipment etc.) must not encroach. The loading gauge is the corresponding envelope within which rail vehicles and their loads must be contained. If an exceptional load or a new type of vehicle is being assessed to run, it is required to conform to the route's loading gauge. Conformance ensures that traffic will not collide with lineside structures."
 }

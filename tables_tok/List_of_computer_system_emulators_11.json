@@ -468,6 +468,7 @@
     ]
   ],
   "section_title": "32-bit guest systems -- Acorn Archimedes , A7000 , RiscPC , Phoebe",
-  "section_text": "While the ARM processor in the Acorn Archimedes is a 32-bit chip , it only had 26-bit addressing making an ARM/Archimedes emulator , such as Aemulor or others below , necessary for 26-bit compatibility , for later ARM processors have mostly have dropped it",
-  "uid": "List_of_computer_system_emulators_11"
+  "section_text": "While the ARM processor in the Acorn Archimedes is a 32-bit chip , it only had 26-bit addressing making an ARM/Archimedes emulator , such as Aemulor or others below , necessary for 26-bit compatibility , for later ARM processors have mostly have dropped it .",
+  "uid": "List_of_computer_system_emulators_11",
+  "intro": "This article lists software and hardware that emulates computing platforms. The host in this article is the system running the emulator, and the guest is the system being emulated. The list is organized by guest operating system (the system being emulated), grouped by bitness. Each section contains a list of emulators capable of emulating the specified guest, details of the range of guest systems able to be emulated, and the required host environment and licensing."
 }
