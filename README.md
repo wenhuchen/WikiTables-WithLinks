@@ -9,18 +9,12 @@ Crawled Wikipedia Tables with Passages for [HybridQA dataset](https://github.com
   "title": "National Register of Historic Places listings in Johnson County, Arkansas",
   "header": [
     [#cell 1
-      [#all the field separated with a list
-        "Name on the Register"
-      ],
-      [
-      ]
+      "Name on the Register",
+      []
     ],
     [#cell 2
-      [#all the field separated with a list
-        "Date listed"
-      ],
-      [
-      ]
+      "Date listed",
+      []
     ],
   ]
   "data":[
