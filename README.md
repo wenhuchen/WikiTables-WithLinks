@@ -1,5 +1,6 @@
 # WikiTables-WithLinks
-Crawled Wikipedia Tables with Passages for [HybridQA dataset](https://github.com/wenhuchen/HybridQA).
+Crawled Wikipedia Tables with Passages for [HybridQA dataset](https://github.com/wenhuchen/HybridQA). 
+[NOTE]: There was a bug in the previous version, now it's fixed and the tables have a new format listed below.
 
 # Folder Structure
 - tables_tok/: containing all the tables, indexed by its name and its order in the page
@@ -8,28 +9,28 @@ Crawled Wikipedia Tables with Passages for [HybridQA dataset](https://github.com
   "url": "https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Johnson_County,_Arkansas",
   "title": "National Register of Historic Places listings in Johnson County, Arkansas",
   "header": [
-    [#cell 1
+    [
       "Name on the Register",
       []
     ],
-    [#cell 2
+    [
       "Date listed",
       []
     ],
   ]
   "data":[
-    [#row 1
-        [#cell 1
+    [
+        [
           cell_text
           [hyperlink 1, hyperlink 2, ... ,]
         ],
-        [#cell 2
+        [
           cell_text
           [hyperlink 1, hyperlink 2, ... ,]
         ],
         ...
     ],
-    [#row 2
+    [
         ...
     ],
     ...
