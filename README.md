@@ -1,5 +1,6 @@
 # WikiTables-WithLinks
 Crawled Wikipedia Tables with Passages for [HybridQA dataset](https://github.com/wenhuchen/HybridQA). 
+
 [NOTE]: There was a bug in the previous version, now it's fixed and the tables have a new format listed below.
 
 # Folder Structure
