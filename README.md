@@ -1,51 +1,43 @@
 # WikiTables-WithLinks
-Crawled Wikipedia Tables with Passages for [HybridQA dataset](https://github.com/wenhuchen/HybridQA).
+Crawled Wikipedia Tables with Passages for [HybridQA dataset](https://github.com/wenhuchen/HybridQA). 
+
+[NOTE]: There was a bug in the previous version, now it's fixed and the tables have a new format listed below.
 
 # Folder Structure
-- tables/: containing all the tables
+- tables_tok/: containing all the tables, indexed by its name and its order in the page
 ```
   {
   "url": "https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Johnson_County,_Arkansas",
   "title": "National Register of Historic Places listings in Johnson County, Arkansas",
   "header": [
-    [#cell 1
-      [#all the field separated with a list
-        "Name on the Register"
-      ],
-      [#all the hyperlinks, null indicates no hyperlink
-        null
-      ]
+    [
+      "Name on the Register",
+      []
     ],
-    [#cell 2
-      [#all the field separated with a list
-        "Date listed"
-      ],
-      [#all the hyperlinks, null indicates no hyperlink
-        null
-      ]
+    [
+      "Date listed",
+      []
     ],
   ]
   "data":[
-    [#row 1
-        [#cell 1
-          [field 1, field 2, ... ,]
+    [
+        [
+          cell_text
           [hyperlink 1, hyperlink 2, ... ,]
         ],
-        [#cell 2
-          [field 1, field 2, ... ,]
+        [
+          cell_text
           [hyperlink 1, hyperlink 2, ... ,]
         ],
         ...
     ],
-    [#row 2
+    [
         ...
     ],
     ...
   ]
 ```
-- tables_tok/: containing all the tables with tokenized text
-- requests/: containing all the hyperlinked text for certain table.
-- requests/: containing all the tokenized hyperlinked text for certain table.
+- request_tok/: containing all hyperlinks within a given table
 
 
 # Trouble Shooting
