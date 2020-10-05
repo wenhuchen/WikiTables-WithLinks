@@ -37,8 +37,4 @@ Crawled Wikipedia Tables with Passages for [HybridQA dataset](https://github.com
     ...
   ]
 ```
-- request_tok/: containing all hyperlinks within a given table
-
-
-# Trouble Shooting
-If you have problem with git clone, you can also download it from [Google Drive](https://drive.google.com/file/d/1_p774GShngBw0q8Bq2DMHs0dETucO3AW/view?usp=sharing).
+- request_tok/: containing all hyperlinks within a given tabl
