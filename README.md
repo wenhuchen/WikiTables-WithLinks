@@ -37,4 +37,4 @@ Crawled Wikipedia Tables with Passages for [HybridQA dataset](https://github.com
     ...
   ]
 ```
-- request_tok/: containing all hyperlinks within a given tabl
+- request_tok/: containing all hyperlinks within a given table
