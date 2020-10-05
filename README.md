@@ -1,7 +1,7 @@
 # WikiTables-WithLinks
 Crawled Wikipedia Tables with Passages for [HybridQA dataset](https://github.com/wenhuchen/HybridQA). 
 
-[NOTE]: There was a bug in the previous version, now it's fixed and the tables have a new format listed below.
+[NOTE]: There was a bug in the previous version, now it's fixed and the tables have a new format listed below. The previous tables are indexed by number, now the new tables are indexed by page_name_position, the mapping can be found in orig_id_to_uid.json file.
 
 # Folder Structure
 - tables_tok/: containing all the tables, indexed by its name and its order in the page
