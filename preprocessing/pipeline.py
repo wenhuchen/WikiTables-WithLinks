@@ -18,8 +18,13 @@ from table_utils.utils import *
 
 output_folder = 'data'
 input_htmls = '../htmls'
-with open('old_merged_unquote.json') as f:
-	dictionary = json.load(f)
+
+if os.path.exists('old_merged_unquote.json'):
+	with open('old_merged_unquote.json') as f:
+		dictionary = json.load(f)
+else:
+	dictionary = {}
+	
 with open('../orig_id_to_uid.json', 'r') as f:
 	uid_mapping = json.load(f)
 	white_list = set(uid_mapping.values())
